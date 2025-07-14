@@ -1,0 +1,2 @@
+# This file ensures the sources directory is tracked in git
+# The actual data files (sources/*) are ignored 

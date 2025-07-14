@@ -1,0 +1,226 @@
+{
+  "date": "2025-07-13",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "3gjexk",
+      "title": "Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs",
+      "description": "Score: 120 | Comments: 35 | Posted by martythemaniak",
+      "url": "https://arxiv.org/abs/2502.17424",
+      "publishedAt": "2025-07-13T23:46:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "martythemaniak",
+      "tags": []
+    },
+    {
+      "id": "5enzyz",
+      "title": "Let's Learn x86-64 Assembly (2020)",
+      "description": "Score: 287 | Comments: 66 | Posted by 90s_dev",
+      "url": "https://gpfault.net/posts/asm-tut-0.txt.html",
+      "publishedAt": "2025-07-13T22:22:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "90s_dev",
+      "tags": []
+    },
+    {
+      "id": "74sndh",
+      "title": "OpenCut: The open-source CapCut alternative",
+      "description": "Score: 356 | Comments: 113 | Posted by nateb2022",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "publishedAt": "2025-07-13T21:08:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nateb2022",
+      "tags": []
+    },
+    {
+      "id": "kjr5iz",
+      "title": "APKLab: Android Reverse-Engineering Workbench for VS Code",
+      "description": "Score: 120 | Comments: 8 | Posted by nateb2022",
+      "url": "https://github.com/APKLab/APKLab",
+      "publishedAt": "2025-07-13T21:08:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nateb2022",
+      "tags": []
+    },
+    {
+      "id": "horwfg",
+      "title": "Five companies now control over 90% of the restaurant food delivery market",
+      "description": "Score: 241 | Comments: 257 | Posted by goinggetthem",
+      "url": "https://marketsaintefficient.substack.com/p/five-companies-now-control-over-90",
+      "publishedAt": "2025-07-13T20:23:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "goinggetthem",
+      "tags": []
+    },
+    {
+      "id": "ai0t71",
+      "title": "Hypercapitalism and the AI talent wars",
+      "description": "Score: 103 | Comments: 78 | Posted by walterbell",
+      "url": "https://blog.johnluttig.com/p/hypercapitalism-and-the-ai-talent",
+      "publishedAt": "2025-07-13T20:09:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "walterbell",
+      "tags": []
+    },
+    {
+      "id": "or4vc3",
+      "title": "The Gottorf Globe and its reconstruction",
+      "description": "Score: 21 | Comments: 2 | Posted by Archelaos",
+      "url": "https://gottorfer-globus.de/en/the-gottorf-globe",
+      "publishedAt": "2025-07-13T19:16:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Archelaos",
+      "tags": []
+    },
+    {
+      "id": "s30hwm",
+      "title": "Happy 20th Birthday, Django",
+      "description": "Score: 66 | Comments: 1 | Posted by davepeck",
+      "url": "https://www.djangoproject.com/weblog/2025/jul/13/happy-20th-birthday-django/",
+      "publishedAt": "2025-07-13T18:44:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "davepeck",
+      "tags": []
+    },
+    {
+      "id": "hzi6x3",
+      "title": "GLP-1s are breaking life insurance",
+      "description": "Score: 332 | Comments: 403 | Posted by alexslobodnik",
+      "url": "https://www.glp1digest.com/p/how-glp-1s-are-breaking-life-insurance",
+      "publishedAt": "2025-07-13T18:31:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "alexslobodnik",
+      "tags": []
+    },
+    {
+      "id": "kmamh2",
+      "title": "Does showing seconds in the system tray actually use more power?",
+      "description": "Score: 186 | Comments: 161 | Posted by LorenDB",
+      "url": "https://www.lttlabs.com/blog/2025/07/11/does-showing-seconds-in-the-system-tray-actually-use-more-power",
+      "publishedAt": "2025-07-13T17:18:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "LorenDB",
+      "tags": []
+    },
+    {
+      "id": "ktpzwq",
+      "title": "Show HN: A Raycast-compatible launcher for Linux",
+      "description": "Score: 169 | Comments: 50 | Posted by ByteAtATime",
+      "url": "https://github.com/ByteAtATime/raycast-linux",
+      "publishedAt": "2025-07-13T16:57:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ByteAtATime",
+      "tags": []
+    },
+    {
+      "id": "pecm7",
+      "title": "A technical look at Iran's internet shutdowns",
+      "description": "Score: 194 | Comments: 84 | Posted by znano",
+      "url": "https://zola.ink/blog/posts/a-technical-look-at-irans-internet-shutdown",
+      "publishedAt": "2025-07-13T16:45:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "znano",
+      "tags": []
+    },
+    {
+      "id": "apnifo",
+      "title": "Fine dining restaurants researching guests to make their dinner unforgettable",
+      "description": "Score: 90 | Comments: 172 | Posted by borski",
+      "url": "https://www.sfgate.com/food/article/data-deep-dives-bay-area-fine-dining-restaurants-20404434.php",
+      "publishedAt": "2025-07-13T15:30:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "borski",
+      "tags": []
+    },
+    {
+      "id": "tv8pld",
+      "title": "How does a screen work?",
+      "description": "Score: 442 | Comments: 91 | Posted by chkhd",
+      "url": "https://www.makingsoftware.com/chapters/how-a-screen-works",
+      "publishedAt": "2025-07-13T14:09:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "chkhd",
+      "tags": []
+    },
+    {
+      "id": "a2bh5x",
+      "title": "Local Chatbot RAG with FreeBSD Knowledge",
+      "description": "Score: 83 | Comments: 8 | Posted by todsacerdoti",
+      "url": "https://hackacad.net/post/2025-07-12-local-chatbot-rag-with-freebsd-knowledge/",
+      "publishedAt": "2025-07-13T13:48:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "t96ihh",
+      "title": "Show HN: Learn LLMs LeetCode Style",
+      "description": "Score: 158 | Comments: 18 | Posted by Exorust",
+      "url": "https://github.com/Exorust/TorchLeet",
+      "publishedAt": "2025-07-13T13:03:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Exorust",
+      "tags": []
+    },
+    {
+      "id": "209g82",
+      "title": "The North Korean fake IT worker problem is ubiquitous",
+      "description": "Score: 284 | Comments: 318 | Posted by rntn",
+      "url": "https://www.theregister.com/2025/07/13/fake_it_worker_problem/",
+      "publishedAt": "2025-07-13T12:06:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rntn",
+      "tags": []
+    },
+    {
+      "id": "3qx37l",
+      "title": "Understanding Tool Calling in LLMs – Step-by-Step with REST and Spring AI",
+      "description": "Score: 89 | Comments: 24 | Posted by muthuishere",
+      "url": "https://muthuishere.medium.com/understanding-tool-function-calling-in-llms-step-by-step-examples-in-rest-and-spring-ai-2149ecd6b18b",
+      "publishedAt": "2025-07-13T09:44:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "muthuishere",
+      "tags": []
+    },
+    {
+      "id": "hkq81d",
+      "title": "Lua beats MicroPython for embedded devs",
+      "description": "Score: 81 | Comments: 67 | Posted by willhschmid",
+      "url": "https://www.embedded.com/why-lua-beats-micropython-for-serious-embedded-devs",
+      "publishedAt": "2025-07-13T08:16:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "willhschmid",
+      "tags": []
+    },
+    {
+      "id": "7zmqla",
+      "title": "Reading Neuromancer for the first time in 2025",
+      "description": "Score: 396 | Comments: 345 | Posted by keiferski",
+      "url": "https://mbh4h.substack.com/p/neuromancer-2025-review-william-gibson",
+      "publishedAt": "2025-07-13T07:48:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "keiferski",
+      "tags": []
+    }
+  ]
+}

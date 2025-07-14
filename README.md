@@ -19,6 +19,43 @@ A mobile-friendly news feed crawler that aggregates news from multiple sources i
 - **JSON Data Storage**: Efficient local storage with date-based organization
 - **Content Summarization**: AI-powered or extractive summaries for articles
 
+## 🚀 **Dual Deployment: API + Static Versions**
+
+This project supports both server-side and static deployments:
+
+### **API Version (Development/Server)**
+- **URL**: `http://localhost:3000/` (development) or your domain
+- **Features**: Full server-side functionality, admin controls, API routes
+- **Data Source**: Local JSON files via API routes
+- **Use Case**: Development, testing, full-featured deployment
+
+### **Static Version (GitHub Pages)**
+- **URL**: `https://wichaisw.github.io/news-crawler/static/`
+- **Features**: Same UI, static data fetching, free hosting
+- **Data Source**: Direct JSON fetch from GitHub repo
+- **Use Case**: Free hosting, public deployment, CDN benefits
+
+## 📁 **Accessing Both Versions**
+
+### **During Development:**
+```bash
+npm run dev
+```
+- **API Version**: `http://localhost:3000/`
+- **Static Version**: `http://localhost:3000/static/`
+
+### **Testing Static Build Locally:**
+```bash
+npm run test:static
+npm run build:static
+npx serve out/
+```
+- **Static Site**: `http://localhost:3000/static/`
+
+### **Production Deployment:**
+- **Static Site**: `https://wichaisw.github.io/news-crawler/static/`
+- **Data Sources**: `https://wichaisw.github.io/news-crawler/sources/`
+
 ## Tech Stack
 
 - **Framework**: Next.js 15 (App Router)

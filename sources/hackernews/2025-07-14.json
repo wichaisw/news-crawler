@@ -1,0 +1,127 @@
+{
+  "date": "2025-07-14",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "1os8gi",
+      "title": "Google is tracking you even when you use DuckDuckGo",
+      "description": "Score: 16 | Comments: 3 | Posted by basquiyacht",
+      "url": "https://www.simpleanalytics.com/blog/google-is-tracking-you-even-when-you-use-duck-duck-go",
+      "publishedAt": "2025-07-14T10:03:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "basquiyacht",
+      "tags": []
+    },
+    {
+      "id": "d65sql",
+      "title": "East Asian air cleanup likely contributed to acceleration in global warming",
+      "description": "Score: 42 | Comments: 27 | Posted by defrost",
+      "url": "https://www.nature.com/articles/s43247-025-02527-3",
+      "publishedAt": "2025-07-14T09:30:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "defrost",
+      "tags": []
+    },
+    {
+      "id": "n7ugsm",
+      "title": "Telefónica DE shifts VMware support to Spinnaker due to cost",
+      "description": "Score: 26 | Comments: 10 | Posted by rbanffy",
+      "url": "https://www.theregister.com/2025/07/11/telefnica_germany_shifts_vmware_support/",
+      "publishedAt": "2025-07-14T08:43:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rbanffy",
+      "tags": []
+    },
+    {
+      "id": "1cbcqa",
+      "title": "Apple's Browser Engine Ban Persists, Even Under the DMA",
+      "description": "Score: 172 | Comments: 93 | Posted by yashghelani",
+      "url": "https://open-web-advocacy.org/blog/apples-browser-engine-ban-persists-even-under-the-dma/",
+      "publishedAt": "2025-07-14T07:27:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "yashghelani",
+      "tags": []
+    },
+    {
+      "id": "bpohyt",
+      "title": "How I build software quickly",
+      "description": "Score: 95 | Comments: 42 | Posted by kiyanwang",
+      "url": "https://evanhahn.com/how-i-build-software-quickly/",
+      "publishedAt": "2025-07-14T06:41:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kiyanwang",
+      "tags": []
+    },
+    {
+      "id": "s6t1mv",
+      "title": "Show HN: Refine – A Local Alternative to Grammarlyrefine.sh",
+      "description": "Score: 172 | Comments: 73 | Posted by runjuu",
+      "url": "https://refine.sh",
+      "publishedAt": "2025-07-14T06:11:48.864Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "runjuu",
+      "tags": []
+    },
+    {
+      "id": "s6t1mv",
+      "title": "Show HN: Refine – A Local Alternative to Grammarly",
+      "description": "Score: 172 | Comments: 73 | Posted by runjuu",
+      "url": "https://refine.sh",
+      "publishedAt": "2025-07-14T05:12:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "runjuu",
+      "tags": []
+    },
+    {
+      "id": "d3flt8",
+      "title": "Myanmar’s proliferating scam centers",
+      "description": "Score: 85 | Comments: 18 | Posted by WaitWaitWha",
+      "url": "https://asia.nikkei.com/static/vdata/infographics/myanmar-scam-centers/",
+      "publishedAt": "2025-07-14T04:16:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "WaitWaitWha",
+      "tags": []
+    },
+    {
+      "id": "vb7tmq",
+      "title": "James Webb, Hubble space telescopes face reduction in operations",
+      "description": "Score: 113 | Comments: 60 | Posted by geox",
+      "url": "https://www.astronomy.com/science/james-webb-hubble-space-telescopes-face-reduction-in-operations-over-funding-shortfalls/",
+      "publishedAt": "2025-07-14T02:10:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "geox",
+      "tags": []
+    },
+    {
+      "id": "mnigpc",
+      "title": "The Scourge of Arial (2001)",
+      "description": "Score: 43 | Comments: 30 | Posted by andsoitis",
+      "url": "https://www.marksimonson.com/notebook/view/the-scourge-of-arial/",
+      "publishedAt": "2025-07-14T00:55:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andsoitis",
+      "tags": []
+    },
+    {
+      "id": "f39owu",
+      "title": "Black hole merger challenges our understanding of black hole formation",
+      "description": "Score: 48 | Comments: 49 | Posted by Bluestein",
+      "url": "https://gizmodo.com/astronomers-detect-a-black-hole-merger-thats-so-massive-it-shouldnt-exist-2000628197",
+      "publishedAt": "2025-07-14T00:38:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Bluestein",
+      "tags": []
+    }
+  ]
+}

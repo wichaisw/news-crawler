@@ -1,0 +1,50 @@
+{
+  "date": "2025-07-11",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "bhuap4",
+      "title": "Kimi K2 is a state-of-the-art mixture-of-experts (MoE) language model",
+      "description": "Score: 303 | Comments: 166 | Posted by c4pt0r",
+      "url": "https://twitter.com/Kimi_Moonshot/status/1943687594560332025",
+      "publishedAt": "2025-07-11T15:38:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "c4pt0r",
+      "tags": []
+    },
+    {
+      "id": "l3y18a",
+      "title": "C3 solved memory lifetimes with scopes",
+      "description": "Score: 121 | Comments: 96 | Posted by lerno",
+      "url": "https://c3-lang.org/blog/forget-borrow-checkers-c3-solved-memory-lifetimes-with-scopes/",
+      "publishedAt": "2025-07-11T14:27:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lerno",
+      "tags": []
+    },
+    {
+      "id": "amleaz",
+      "title": "Concurrent Programming with Harmony",
+      "description": "Score: 7 | Comments: 0 | Posted by todsacerdoti",
+      "url": "https://harmony.cs.cornell.edu/book/",
+      "publishedAt": "2025-07-11T01:22:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "8aoiw6",
+      "title": "Axon’s Draft One is designed to defy transparency",
+      "description": "Score: 233 | Comments: 155 | Posted by zdw",
+      "url": "https://www.eff.org/deeplinks/2025/07/axons-draft-one-designed-defy-transparency",
+      "publishedAt": "2025-07-11T00:21:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    }
+  ]
+}
