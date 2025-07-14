@@ -81,7 +81,9 @@ describe("FileStorage", () => {
         "2025-07-13.json",
         "2025-07-15.json",
       ];
-      mockedFs.readdir.mockResolvedValue(mockFiles as any);
+      mockedFs.readdir.mockResolvedValue(
+        mockFiles as unknown as ReturnType<typeof fs.readdir>
+      );
 
       const result = await FileStorage.getAvailableDates("theverge");
 
@@ -101,8 +103,12 @@ describe("FileStorage", () => {
   describe("getSources", () => {
     it("should return list of source directories", async () => {
       const mockSources = ["theverge", "techcrunch", "blognone"];
-      mockedFs.readdir.mockResolvedValue(mockSources as any);
-      mockedFs.stat.mockResolvedValue({ isDirectory: () => true } as any);
+      mockedFs.readdir.mockResolvedValue(
+        mockSources as unknown as ReturnType<typeof fs.readdir>
+      );
+      mockedFs.stat.mockResolvedValue({
+        isDirectory: () => true,
+      } as unknown as ReturnType<typeof fs.stat>);
 
       const result = await FileStorage.getSources();
 

@@ -129,9 +129,27 @@ export class CrawlerEngine {
         }
       }
 
-      // Save articles to storage
-      const today = new Date().toISOString().split("T")[0];
-      await FileStorage.saveNewsData(sourceName, today, articles);
+      // Group articles by publication date and save to storage
+      const articlesByDate = new Map<string, NewsItem[]>();
+
+      for (const article of articles) {
+        const articleDate = new Date(article.publishedAt)
+          .toISOString()
+          .split("T")[0];
+        if (!articlesByDate.has(articleDate)) {
+          articlesByDate.set(articleDate, []);
+        }
+        articlesByDate.get(articleDate)!.push(article);
+      }
+
+      // Save articles to their respective date files with deduplication
+      for (const [date, dateArticles] of articlesByDate) {
+        await FileStorage.saveNewsDataWithDeduplication(
+          sourceName,
+          date,
+          dateArticles
+        );
+      }
 
       return {
         success: true,

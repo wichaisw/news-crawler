@@ -25,6 +25,66 @@ export class FileStorage {
     await fs.writeFile(filePath, JSON.stringify(data, null, 2), "utf-8");
   }
 
+  static async saveNewsDataWithDeduplication(
+    source: string,
+    date: string,
+    newArticles: NewsItem[]
+  ): Promise<void> {
+    const sourceDir = path.join(this.dataDir, source);
+    const filePath = path.join(sourceDir, `${date}.json`);
+
+    // Ensure directory exists
+    await fs.mkdir(sourceDir, { recursive: true });
+
+    // Load existing articles for this date
+    let existingArticles: NewsItem[] = [];
+    try {
+      existingArticles = await this.loadNewsData(source, date);
+    } catch {
+      // File doesn't exist yet, start with empty array
+    }
+
+    // Create a set of existing article IDs for quick lookup
+    const existingArticleIds = new Set(
+      existingArticles.map((article) => article.id)
+    );
+
+    // Only add articles that don't already exist
+    const articlesToAdd = newArticles.filter(
+      (article) => !existingArticleIds.has(article.id)
+    );
+
+    if (articlesToAdd.length === 0) {
+      console.log(
+        `📊 ${source}/${date}: No new articles, ${existingArticles.length} existing articles`
+      );
+      return; // No new articles to add
+    }
+
+    // Combine existing articles with new ones
+    const mergedArticles = [...existingArticles, ...articlesToAdd];
+
+    // Sort articles by publication date (newest first)
+    mergedArticles.sort((a, b) => {
+      const dateA = new Date(a.publishedAt);
+      const dateB = new Date(b.publishedAt);
+      return dateB.getTime() - dateA.getTime();
+    });
+
+    const data: NewsResponse = {
+      date,
+      source,
+      articles: mergedArticles,
+    };
+
+    await fs.writeFile(filePath, JSON.stringify(data, null, 2), "utf-8");
+
+    // Log results
+    console.log(
+      `📊 ${source}/${date}: ${articlesToAdd.length} new articles added, ${existingArticles.length} existing articles, ${mergedArticles.length} total`
+    );
+  }
+
   static async loadNewsData(source: string, date: string): Promise<NewsItem[]> {
     const filePath = path.join(this.dataDir, source, `${date}.json`);
 
