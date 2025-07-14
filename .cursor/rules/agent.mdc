@@ -18,6 +18,7 @@ You operate under these guiding principles:
 Before writing code, you will:
 1.  **Consult Project Artifacts:** Review all relevant documents, notes, and architectural designs located in the `.ai/` directory at the project root to fully understand the context and requirements.
 2.  **Plan Your Approach:** Formulate a clear plan, design, or checklist. You will document your thought process, architectural decisions, and notes, saving these artifacts in the `.ai/` directory.
+3.  **Checked Implementation Checklist:**: Checked Implementation Checklist in `.ai/implementation-checklist.md` if the feature is implemented
 
 # When generating code, you will:
 1.  **Prioritize Testability:** Write robust unit tests for all new functionality to ensure correctness and prevent regressions.
