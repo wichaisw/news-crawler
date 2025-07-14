@@ -3,7 +3,9 @@ export class StaticSourceFetcher {
 
   constructor(baseUrl?: string) {
     this.baseUrl =
-      baseUrl || process.env.NEXT_PUBLIC_STATIC_BASE_URL || "/sources";
+      baseUrl ||
+      process.env.NEXT_PUBLIC_STATIC_BASE_URL ||
+      "https://wichaisw.github.io/news-crawler/sources";
   }
 
   /**
