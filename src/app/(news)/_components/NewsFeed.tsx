@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from "react";
 import { NewsItem } from "../../../lib/types/news-types";
-import NewsCard from "./NewsCard";
+import NewsCardList from "./NewsCardList";
 import NewsListItem from "./NewsListItem";
 import ViewToggle from "./ViewToggle";
 import { useNewsView } from "../_hooks/useNewsView";
@@ -179,18 +179,18 @@ export default function NewsFeed() {
       )}
 
       {viewMode === "card" ? (
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          {articles.map((article) => (
-            <NewsCard
-              key={`${article.id}-${article.publishedAt}`}
-              newsItem={article}
-              isBookmarked={isBookmarked(article.id)}
-              onBookmarkToggle={(id, articleData) =>
-                toggleBookmark(id, articleData)
-              }
-            />
-          ))}
-        </div>
+        <NewsCardList
+          articles={articles}
+          loading={loading}
+          loadingMore={loadingMore}
+          hasMore={hasMore}
+          onLoadMore={handleLoadMore}
+          isBookmarked={isBookmarked}
+          onBookmarkToggle={toggleBookmark}
+          emptyMessage="No news articles found."
+          emptySubMessage="Try running the crawler to fetch some articles."
+          showLoadMoreButton={true}
+        />
       ) : (
         <div className="bg-white rounded-lg shadow-sm border border-gray-200">
           {articles.map((article) => (
@@ -207,7 +207,7 @@ export default function NewsFeed() {
         </div>
       )}
 
-      {hasMore && (
+      {viewMode === "list" && hasMore && (
         <div className="mt-8 text-center">
           <button
             onClick={handleLoadMore}

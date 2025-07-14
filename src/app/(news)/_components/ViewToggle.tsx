@@ -16,7 +16,7 @@ export default function ViewToggle({
   onToggleDescription,
 }: ViewToggleProps) {
   return (
-    <div className="flex items-center justify-between mb-6 p-4 bg-gray-50 rounded-lg">
+    <div className="flex items-center justify-between mb-2 p-4 bg-gray-50 rounded-lg">
       <div className="flex items-center gap-2">
         <button
           onClick={onToggleView}
