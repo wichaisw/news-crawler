@@ -13,6 +13,7 @@ A mobile-friendly news feed crawler that aggregates news from multiple sources i
 - **Smart Filtering**: Filter by source, date, and tags
 - **Date-based Navigation**: Browse news by specific dates with easy date selector
 - **Load More Functionality**: Progressive loading of articles with pagination
+- **View Toggle**: Switch between card and list views on both home and bookmarks pages
 - **Bookmarking System**: Save and organize interesting articles
 - **Real-time Updates**: Shows latest crawl times and status
 - **JSON Data Storage**: Efficient local storage with date-based organization
@@ -39,7 +40,14 @@ src/
 ├── app/
 │   ├── (news)/              # News-related pages
 │   │   ├── _components/     # Page-specific components
+│   │   │   ├── NewsCardList.tsx    # Reusable card grid with load more
+│   │   │   ├── NewsCard.tsx        # Individual news card
+│   │   │   ├── NewsListItem.tsx    # List view item
+│   │   │   └── ...                 # Other components
 │   │   ├── _hooks/          # Page-specific hooks
+│   │   │   ├── useBookmarksWithLoadMore.ts  # Bookmarks with pagination
+│   │   │   ├── useBookmarks.ts              # Basic bookmark management
+│   │   │   └── ...                          # Other hooks
 │   │   ├── [id]/            # Article detail pages
 │   │   ├── bookmarks/       # Bookmarks page
 │   │   ├── search/          # Search results page
@@ -59,6 +67,84 @@ src/
     ├── storage/             # Data storage utilities
     ├── api/                 # API service layer
     └── types/               # TypeScript type definitions
+```
+
+## Reusable Components
+
+### NewsCardList
+A reusable component for displaying news articles in a responsive card grid with load more functionality.
+
+**Features:**
+- Responsive grid layout (1 column mobile, 2 tablet, 3 desktop)
+- Built-in load more functionality
+- Loading states and empty states
+- Bookmark integration
+- Customizable empty content
+
+**Usage:**
+```tsx
+<NewsCardList
+  articles={articles}
+  loading={isLoading}
+  loadingMore={loadingMore}
+  hasMore={hasMore}
+  onLoadMore={handleLoadMore}
+  isBookmarked={isBookmarked}
+  onBookmarkToggle={toggleBookmark}
+  emptyMessage="No articles found"
+  showLoadMoreButton={true}
+/>
+```
+
+### NewsList
+A reusable component for displaying news articles in a list format with load more functionality.
+
+**Features:**
+- Compact list layout for better scanning
+- Built-in load more functionality
+- Loading states and empty states
+- Bookmark integration
+- Optional description display
+- Customizable empty content
+
+**Usage:**
+```tsx
+<NewsList
+  articles={articles}
+  loading={isLoading}
+  loadingMore={loadingMore}
+  hasMore={hasMore}
+  onLoadMore={handleLoadMore}
+  isBookmarked={isBookmarked}
+  onBookmarkToggle={toggleBookmark}
+  showDescription={showDescription}
+  emptyMessage="No articles found"
+  showLoadMoreButton={true}
+/>
+```
+
+### useBookmarksWithLoadMore
+A custom hook for managing bookmarked articles with pagination support.
+
+**Features:**
+- Load more functionality for bookmarks
+- Automatic sorting by bookmark date
+- Fallback data for missing articles
+- Performance optimized for large bookmark lists
+
+**Usage:**
+```tsx
+const {
+  articles,
+  totalArticles,
+  isLoading,
+  loadingMore,
+  hasMore,
+  loadMore,
+  isBookmarked,
+  onBookmarkToggle,
+  clearBookmarks,
+} = useBookmarksWithLoadMore({ itemsPerPage: 20 });
 ```
 
 ## Getting Started
