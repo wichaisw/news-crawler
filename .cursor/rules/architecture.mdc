@@ -1,0 +1,20 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# Project Architecture
+
+This project follows a modular, library-based architecture to promote a strong separation of concerns, reusability, and maintainability.
+
+## Directory Structure
+
+- For any code that not related to NextJS or React JS put it into /src/lib/<lib_name>
+
+- For any pages must follow nextjs naming route convention
+
+- For any components that use only in that pages it must be inside same pages directory the directory must not routable by NextJS such as `_components`
+
+- For any custom hooks that use only that pages must be the same directory of pages files must be inside directory called `_hooks`
+
+- Using Grouping pattern for re-use layout files of for grouping route by using `(<group_name>)`
