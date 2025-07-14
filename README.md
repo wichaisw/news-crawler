@@ -379,3 +379,18 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Newsletter integration
 - [ ] AI-powered content summarization
 - [ ] Multi-language support
+
+## Source Color Coding
+
+Each news source is visually identified by its CI color in the UI. The color mapping is managed in `src/lib/types/source-colors.ts`. To add or update a source's color, edit the mapping in that file.
+
+Example:
+```ts
+export const SOURCE_COLORS = {
+  blognone: { bg: "#03db7d", text: "#fff" },
+  theverge: { bg: "#5200ff", text: "#fff" },
+  techcrunch: { bg: "#0aa43e", text: "#fff" },
+  hackernews: { bg: "#ff6600", text: "#fff" },
+  // ...
+}
+```

@@ -2,6 +2,7 @@
 
 import { NewsItem } from "../../../lib/types/news-types";
 import { formatDistanceToNow, format } from "date-fns";
+import { getSourceColor } from "../../../lib/types/source-colors";
 
 interface NewsCardProps {
   newsItem: NewsItem;
@@ -10,11 +11,15 @@ interface NewsCardProps {
 export default function NewsCard({ newsItem }: NewsCardProps) {
   // Ensure publishedAt is a Date object
   const publishedDate = new Date(newsItem.publishedAt);
+  const { bg, text } = getSourceColor(newsItem.source);
 
   return (
     <article className="bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow p-6">
       <div className="flex items-center justify-between mb-3">
-        <span className="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-purple-100 text-purple-800">
+        <span
+          className="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium"
+          style={{ backgroundColor: bg, color: text }}
+        >
           {newsItem.sourceName}
         </span>
         <time
