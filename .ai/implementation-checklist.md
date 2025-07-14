@@ -35,6 +35,27 @@ The MVP is fully functional and tested:
 5. ✅ Mobile-friendly design
 6. ✅ Consistent "source" terminology throughout
 
+## 🚀 **NEW: Static Hosting Strategy (GitHub Pages)**
+
+### ✅ **Static Hosting Plan: FEASIBLE & RECOMMENDED**
+- **Objective**: Deploy to GitHub Pages for free hosting while reusing 95% of existing code
+- **Approach**: Hybrid static hosting with minimal changes to existing business logic
+- **Benefits**: Free hosting, same functionality, easy maintenance, proven technology
+
+### 📋 **Static Hosting Implementation Plan**
+- [ ] **Phase 1**: Create static data fetcher (reuses existing types and logic)
+- [ ] **Phase 2**: Create static components (copies with minimal changes)
+- [ ] **Phase 3**: Configure Next.js static export
+- [ ] **Phase 4**: Set up GitHub Pages deployment
+- [ ] **Phase 5**: Implement automated crawling pipeline
+
+### 🎯 **Static Hosting Success Criteria**
+- [ ] Static site displays same news as server version
+- [ ] All existing features work (view toggle, date selector, bookmarks)
+- [ ] Same data structure and types used
+- [ ] Automated deployment to GitHub Pages
+- [ ] Daily automated crawling and updates
+
 ---
 
 ## Phase 1: Core Infrastructure Setup ✅
