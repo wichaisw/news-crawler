@@ -6,11 +6,7 @@ export class StaticNewsFetcher {
   constructor(baseUrl?: string) {
     // Use environment variable for base URL, fallback to local development
     this.baseUrl =
-      baseUrl ||
-      process.env.NEXT_PUBLIC_STATIC_BASE_URL ||
-      (process.env.NODE_ENV === "production"
-        ? "/news-crawler/sources"
-        : "/sources");
+      baseUrl || process.env.NEXT_PUBLIC_STATIC_BASE_URL || "/sources";
   }
 
   /**
@@ -34,8 +30,10 @@ export class StaticNewsFetcher {
 
     // Same sorting logic as FileStorage and API route
     return allArticles.sort((a, b) => {
-      const dateA = new Date(a.publishedAt);
-      const dateB = new Date(b.publishedAt);
+      const dateA =
+        a.publishedAt instanceof Date ? a.publishedAt : new Date(a.publishedAt);
+      const dateB =
+        b.publishedAt instanceof Date ? b.publishedAt : new Date(b.publishedAt);
       return dateB.getTime() - dateA.getTime();
     });
   }
@@ -112,10 +110,13 @@ export class StaticNewsFetcher {
 
       const data: NewsResponse = await response.json();
 
-      // Same date conversion logic as FileStorage.loadNewsData()
+      // Convert publishedAt string to Date object if it's a string
       return data.articles.map((article) => ({
         ...article,
-        publishedAt: new Date(article.publishedAt),
+        publishedAt:
+          typeof article.publishedAt === "string"
+            ? new Date(article.publishedAt)
+            : article.publishedAt,
       }));
     } catch (error) {
       console.error(`Error fetching ${source} data for ${date}:`, error);

@@ -14,7 +14,9 @@
     "build:static": "tsx scripts/build-static-only.ts",
     "generate-dates": "tsx scripts/generate-dates-index.ts",
     "crawl": "tsx scripts/crawl-all-sources.ts",
-    "test:static": "tsx scripts/test-static-build.ts"
+    "test:static": "tsx scripts/test-static-build.ts",
+    "prebuild": "cp -R sources public/",
+    "postcrawl": "cp -R sources public/"
   },
   "dependencies": {
     "@heroicons/react": "^2.2.0",

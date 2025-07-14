@@ -34,7 +34,7 @@ export default function StaticNewsFeed() {
 
   useEffect(() => {
     fetchAvailableDates();
-  }, []);
+  }, []); // eslint-disable-line react-hooks/exhaustive-deps
 
   useEffect(() => {
     if (availableDates.length > 0) {
@@ -46,7 +46,7 @@ export default function StaticNewsFeed() {
     if (selectedDate) {
       fetchNews(selectedDate, 1, true);
     }
-  }, [selectedDate]);
+  }, [selectedDate]); // eslint-disable-line react-hooks/exhaustive-deps
 
   // ONLY CHANGE: Replace API call with static fetcher
   const fetchAvailableDates = async () => {

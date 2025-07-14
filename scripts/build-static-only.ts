@@ -8,7 +8,7 @@ import path from "path";
 async function buildStaticOnly() {
   const appDir = path.join(process.cwd(), "src", "app");
   const apiDir = path.join(appDir, "api");
-  const sourcesDir = path.join(appDir, "sources");
+  // const sourcesDir = path.join(appDir, "sources"); // No longer needed
 
   // Track what we removed for restoration
   const removedDirs: Array<{ path: string; name: string }> = [];
@@ -23,11 +23,7 @@ async function buildStaticOnly() {
       removedDirs.push({ path: apiDir, name: "api" });
     }
 
-    if (fs.existsSync(sourcesDir)) {
-      console.log("📁 Temporarily removing sources directory...");
-      execSync(`rm -rf "${sourcesDir}"`);
-      removedDirs.push({ path: sourcesDir, name: "sources" });
-    }
+    // Do NOT remove sourcesDir from src/app
 
     // Build static site
     console.log("🏗️ Building static site...");
@@ -35,6 +31,14 @@ async function buildStaticOnly() {
       stdio: "inherit",
       env: { ...process.env, NEXT_STATIC_EXPORT: "true" },
     });
+
+    // Copy sources directory to out
+    const outDir = path.join(process.cwd(), "out");
+    const rootSourcesDir = path.join(process.cwd(), "sources");
+    if (fs.existsSync(rootSourcesDir)) {
+      execSync(`cp -R "${rootSourcesDir}" "${outDir}/"`);
+      console.log("✅ Copied sources/ to out/");
+    }
 
     console.log("✅ Static build completed!");
     return true;
