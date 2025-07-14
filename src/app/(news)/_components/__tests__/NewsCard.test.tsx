@@ -10,7 +10,7 @@ const mockNewsItem: NewsItem = {
   summary: "This is a test article summary.",
   url: "https://example.com/test-article",
   imageUrl: "https://example.com/image.jpg",
-  publishedAt: new Date("2025-07-14T10:00:00Z"),
+  publishedAt: new Date("2024-07-14T10:00:00Z"),
   source: "theverge",
   sourceName: "The Verge",
   author: "Test Author",
@@ -54,8 +54,8 @@ describe("NewsCard", () => {
   it("renders absolute date and time", () => {
     render(<NewsCard newsItem={mockNewsItem} />);
 
-    // Should show formatted date like "Jul 14, 2025 10:00"
-    expect(screen.getByText(/Jul 14, 2025/)).toBeInTheDocument();
+    // Should show formatted date like "Jul 14, 2024 10:00"
+    expect(screen.getByText(/Jul 14, 2024/)).toBeInTheDocument();
   });
 
   it('renders "Read →" link', () => {
@@ -102,7 +102,7 @@ describe("NewsCard", () => {
   it("handles string date input", () => {
     const newsItemWithStringDate = {
       ...mockNewsItem,
-      publishedAt: "2025-07-14T10:00:00Z",
+      publishedAt: "2024-07-14T10:00:00Z",
     };
     render(<NewsCard newsItem={newsItemWithStringDate} />);
 

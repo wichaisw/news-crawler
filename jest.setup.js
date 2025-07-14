@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-var-requires */
 import "@testing-library/jest-dom";
 
 // Mock Next.js router
@@ -32,3 +33,30 @@ global.console = {
   warn: jest.fn(),
   error: jest.fn(),
 };
+
+// Polyfill TextEncoder for undici/Cheerio
+if (typeof global.TextEncoder === "undefined") {
+  const { TextEncoder } = require("util");
+  global.TextEncoder = TextEncoder;
+}
+
+// Polyfill TextDecoder for undici/Cheerio
+if (typeof global.TextDecoder === "undefined") {
+  const { TextDecoder } = require("util");
+  global.TextDecoder = TextDecoder;
+}
+
+// Polyfill ReadableStream for undici/Cheerio
+if (typeof global.ReadableStream === "undefined") {
+  try {
+    global.ReadableStream =
+      require("web-streams-polyfill/ponyfill").ReadableStream;
+  } catch (e) {
+    global.ReadableStream = function () {};
+  }
+}
+
+// Polyfill MessagePort for undici/Cheerio
+if (typeof global.MessagePort === "undefined") {
+  global.MessagePort = function () {};
+}

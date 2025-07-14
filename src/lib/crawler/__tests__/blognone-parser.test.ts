@@ -118,7 +118,7 @@ describe("BlognoneParser", () => {
             <item>
               <title>Test Article</title>
               <link>https://www.blognone.com/test-article</link>
-              <description><img src="https://www.blognone.com/image.jpg" alt="Test" />This is a test article.</description>
+              <description><![CDATA[<img src="https://www.blognone.com/image.jpg" alt="Test" />This is a test article.]]></description>
               <pubDate>Mon, 15 Jan 2024 10:00:00 +0000</pubDate>
               <guid>https://www.blognone.com/test-article</guid>
             </item>

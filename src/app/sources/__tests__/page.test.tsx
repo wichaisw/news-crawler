@@ -39,7 +39,10 @@ describe("SourcesPage", () => {
       expect(screen.getByText("Source Management")).toBeInTheDocument();
     });
 
-    expect(screen.getByText("The Verge")).toBeInTheDocument();
+    await waitFor(() => {
+      expect(screen.getByText("The Verge")).toBeInTheDocument();
+    });
+
     expect(screen.getByText("Blognone")).toBeInTheDocument();
     expect(screen.getByText("Crawl All Sources")).toBeInTheDocument();
   });
@@ -75,7 +78,7 @@ describe("SourcesPage", () => {
 
     await waitFor(() => {
       expect(
-        screen.getByText("Completed! Found 1 articles.")
+        screen.getByText(/Completed! Found 1 articles/)
       ).toBeInTheDocument();
     });
   });

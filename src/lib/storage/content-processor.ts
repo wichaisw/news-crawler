@@ -1,18 +1,20 @@
 export class ContentProcessor {
-  static generateSummary(content: string, maxLength: number = 150): string {
-    // Extract first paragraph
+  static generateSummary(
+    content: string | null | undefined,
+    maxLength: number = 150
+  ): string {
+    if (!content) return "";
     const firstParagraph = this.extractFirstParagraph(content);
-
-    // Simple truncation with word boundary
     return this.truncateAtWordBoundary(firstParagraph, maxLength);
   }
 
-  static extractFirstParagraph(content: string): string {
-    // Remove HTML tags and extract first meaningful paragraph
+  static extractFirstParagraph(content: string | null | undefined): string {
+    if (!content) return "";
     const cleanContent = content.replace(/<[^>]*>/g, "");
     const paragraphs = cleanContent
-      .split("\n\n")
-      .filter((p) => p.trim().length > 50);
+      .split(/\n\n|<p>|<\/p>/i)
+      .map((p) => p.trim())
+      .filter((p) => p.length > 0);
     return paragraphs[0] || cleanContent.slice(0, 200);
   }
 

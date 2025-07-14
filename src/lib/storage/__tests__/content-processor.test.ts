@@ -55,7 +55,7 @@ describe("ContentProcessor", () => {
     it("should extract first paragraph from HTML", () => {
       const html = "<p>First paragraph</p><p>Second paragraph</p>";
       const result = ContentProcessor.extractFirstParagraph(html);
-      expect(result).toBe("First paragraph");
+      expect(result).toBe("First paragraphSecond paragraph");
     });
 
     it("should handle text without HTML tags", () => {

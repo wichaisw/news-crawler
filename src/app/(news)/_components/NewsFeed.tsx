@@ -34,8 +34,11 @@ export default function NewsFeed() {
   if (loading) {
     return (
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-        <div className="text-center">
-          <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-blue-600 mx-auto"></div>
+        <div className="text-center" role="status" aria-live="polite">
+          <div
+            className="animate-spin rounded-full h-12 w-12 border-b-2 border-blue-600 mx-auto"
+            aria-hidden="true"
+          ></div>
           <p className="mt-4 text-gray-600">Loading news...</p>
         </div>
       </div>
@@ -72,12 +75,12 @@ export default function NewsFeed() {
   }
 
   return (
-    <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+    <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
         {articles.map((article) => (
           <NewsCard key={article.id} newsItem={article} />
         ))}
       </div>
-    </div>
+    </main>
   );
 }
