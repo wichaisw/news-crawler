@@ -38,6 +38,7 @@ jobs:
         run: npm run build:static
         env:
           NEXT_STATIC_EXPORT: true
+          BASE_PATH: "/news-crawler"
 
       - name: Copy sources to static build
         run: cp -r sources out/
@@ -49,6 +50,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./out
+          name: github-pages
 
       - name: Deploy to GitHub Pages
         id: deployment
