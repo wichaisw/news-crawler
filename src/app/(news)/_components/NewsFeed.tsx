@@ -6,6 +6,7 @@ import NewsCard from "./NewsCard";
 import NewsListItem from "./NewsListItem";
 import ViewToggle from "./ViewToggle";
 import { useNewsView } from "../_hooks/useNewsView";
+import { useBookmarks } from "../_hooks/useBookmarks";
 import DateSelector from "./DateSelector";
 
 export default function NewsFeed() {
@@ -21,6 +22,7 @@ export default function NewsFeed() {
 
   const { viewMode, showDescription, toggleViewMode, toggleDescription } =
     useNewsView();
+  const { isBookmarked, toggleBookmark } = useBookmarks();
 
   const ITEMS_PER_PAGE = 20;
 
@@ -182,6 +184,10 @@ export default function NewsFeed() {
             <NewsCard
               key={`${article.id}-${article.publishedAt}`}
               newsItem={article}
+              isBookmarked={isBookmarked(article.id)}
+              onBookmarkToggle={(id, articleData) =>
+                toggleBookmark(id, articleData)
+              }
             />
           ))}
         </div>
@@ -192,6 +198,10 @@ export default function NewsFeed() {
               key={`${article.id}-${article.publishedAt}`}
               newsItem={article}
               showDescription={showDescription}
+              isBookmarked={isBookmarked(article.id)}
+              onBookmarkToggle={(id, articleData) =>
+                toggleBookmark(id, articleData)
+              }
             />
           ))}
         </div>

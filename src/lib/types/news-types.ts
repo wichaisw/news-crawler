@@ -38,3 +38,12 @@ export interface BookmarkItem {
   addedAt: Date;
   userId?: string;
 }
+
+export interface BookmarkData {
+  id: string;
+  title: string;
+  url: string;
+  source: string;
+  sourceName: string;
+  addedAt: string; // ISO string for localStorage compatibility
+}

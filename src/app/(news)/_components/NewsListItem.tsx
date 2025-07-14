@@ -1,17 +1,22 @@
 "use client";
 
-import { NewsItem } from "../../../lib/types/news-types";
+import { NewsItem, BookmarkData } from "../../../lib/types/news-types";
 import { format } from "date-fns";
 import { getSourceColor } from "../../../lib/types/source-colors";
+import BookmarkButton from "./BookmarkButton";
 
 interface NewsListItemProps {
   newsItem: NewsItem;
   showDescription: boolean;
+  isBookmarked?: boolean;
+  onBookmarkToggle?: (id: string, articleData?: Partial<BookmarkData>) => void;
 }
 
 export default function NewsListItem({
   newsItem,
   showDescription,
+  isBookmarked = false,
+  onBookmarkToggle,
 }: NewsListItemProps) {
   const publishedDate = new Date(newsItem.publishedAt);
   const { bg, text } = getSourceColor(newsItem.source);
@@ -47,6 +52,20 @@ export default function NewsListItem({
             >
               {format(publishedDate, "MMM dd, yyyy HH:mm")}
             </time>
+            {onBookmarkToggle && (
+              <BookmarkButton
+                isBookmarked={isBookmarked}
+                onToggle={() =>
+                  onBookmarkToggle(newsItem.id, {
+                    title: newsItem.title,
+                    url: newsItem.url,
+                    source: newsItem.source,
+                    sourceName: newsItem.sourceName,
+                  })
+                }
+                size="sm"
+              />
+            )}
             <a
               href={newsItem.url}
               target="_blank"
