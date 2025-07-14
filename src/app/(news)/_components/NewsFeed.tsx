@@ -3,11 +3,16 @@
 import { useState, useEffect } from "react";
 import { NewsItem } from "../../../lib/types/news-types";
 import NewsCard from "./NewsCard";
+import NewsListItem from "./NewsListItem";
+import ViewToggle from "./ViewToggle";
+import { useNewsView } from "../_hooks/useNewsView";
 
 export default function NewsFeed() {
   const [articles, setArticles] = useState<NewsItem[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
+  const { viewMode, showDescription, toggleViewMode, toggleDescription } =
+    useNewsView();
 
   useEffect(() => {
     fetchNews();
@@ -76,11 +81,30 @@ export default function NewsFeed() {
 
   return (
     <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-        {articles.map((article) => (
-          <NewsCard key={article.id} newsItem={article} />
-        ))}
-      </div>
+      <ViewToggle
+        viewMode={viewMode}
+        showDescription={showDescription}
+        onToggleView={toggleViewMode}
+        onToggleDescription={toggleDescription}
+      />
+
+      {viewMode === "card" ? (
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+          {articles.map((article) => (
+            <NewsCard key={article.id} newsItem={article} />
+          ))}
+        </div>
+      ) : (
+        <div className="bg-white rounded-lg shadow-sm border border-gray-200">
+          {articles.map((article) => (
+            <NewsListItem
+              key={article.id}
+              newsItem={article}
+              showDescription={showDescription}
+            />
+          ))}
+        </div>
+      )}
     </main>
   );
 }
