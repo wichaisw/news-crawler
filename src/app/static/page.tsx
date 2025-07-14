@@ -1,4 +1,4 @@
-import StaticNewsFeed from "../(static)/_components/StaticNewsFeed";
+import StaticNewsFeed from "./_components/StaticNewsFeed";
 
 export default function StaticHome() {
   return <StaticNewsFeed />;
