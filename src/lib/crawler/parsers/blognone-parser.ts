@@ -1,6 +1,7 @@
 import * as cheerio from "cheerio";
 import { NewsItem } from "../../types/news-types";
 import { ContentProcessor } from "../../storage/content-processor";
+import { decodeHtmlEntities } from "../../utils/html";
 
 export class BlognoneParser {
   static parseRSS(
@@ -37,8 +38,10 @@ export class BlognoneParser {
 
       articles.push({
         id: guid || ContentProcessor.generateId(link),
-        title: BlognoneParser.decodeHtmlEntities(title),
-        description: ContentProcessor.generateSummary(content),
+        title: decodeHtmlEntities(title),
+        description: ContentProcessor.generateSummary(
+          decodeHtmlEntities(content)
+        ),
         url: ContentProcessor.normalizeUrl(link, baseUrl),
         imageUrl: imageUrl || undefined,
         publishedAt,
@@ -99,7 +102,7 @@ export class BlognoneParser {
       .replace(/\s+/g, " ") // Normalize whitespace
       .trim();
 
-    return BlognoneParser.decodeHtmlEntities(content);
+    return decodeHtmlEntities(content);
   }
 
   private static extractImageFromDescription(
@@ -111,23 +114,5 @@ export class BlognoneParser {
       return imgMatch[1];
     }
     return null;
-  }
-
-  private static decodeHtmlEntities(text: string): string {
-    const entities: { [key: string]: string } = {
-      "&amp;": "&",
-      "&lt;": "<",
-      "&gt;": ">",
-      "&quot;": '"',
-      "&#39;": "'",
-      "&nbsp;": " ",
-      "&hellip;": "...",
-      "&mdash;": "—",
-      "&ndash;": "–",
-    };
-
-    return text.replace(/&[^;]+;/g, (entity) => {
-      return entities[entity] || entity;
-    });
   }
 }

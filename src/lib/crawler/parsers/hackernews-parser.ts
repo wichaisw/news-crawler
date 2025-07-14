@@ -1,6 +1,7 @@
 import * as cheerio from "cheerio";
 import { NewsItem } from "../../types/news-types";
 import { ContentProcessor } from "../../storage/content-processor";
+import { decodeHtmlEntities } from "../../utils/html";
 
 export class HackerNewsParser {
   static parse(
@@ -46,8 +47,10 @@ export class HackerNewsParser {
 
       articles.push({
         id: ContentProcessor.generateId(url),
-        title,
-        description: ContentProcessor.generateSummary(description),
+        title: decodeHtmlEntities(title),
+        description: ContentProcessor.generateSummary(
+          decodeHtmlEntities(description)
+        ),
         url: ContentProcessor.normalizeUrl(url, baseUrl),
         publishedAt,
         source: "hackernews",
