@@ -33,6 +33,106 @@ A mobile-friendly news feed crawler that aggregates news from multiple sources i
 - **Validation**: Zod
 - **Date Utilities**: date-fns
 
+## Quick Start with Docker
+
+### Prerequisites
+- Docker and Docker Compose installed
+- Git
+
+### 1. Clone and Setup
+```bash
+git clone <repository-url>
+cd feed-crawler
+```
+
+### 2. Environment Setup
+```bash
+# Copy environment file
+cp env.example .env.local
+
+# Edit .env.local if needed (optional)
+# The default settings work for most cases
+```
+
+### 3. Build and Run
+```bash
+# Development mode (recommended for first run)
+make dev
+
+# Or production mode with nginx
+make prod
+```
+
+### 4. Access the Application
+- **Development**: http://localhost:3000
+- **Production**: http://localhost (with nginx)
+
+### 5. First Run Setup
+1. Visit http://localhost:3000/sources
+2. Click "Start Crawl" to fetch initial data
+3. Wait for the crawl to complete
+4. Return to http://localhost:3000 to view news
+
+## Docker Commands
+
+```bash
+# Build the image
+make build
+
+# Run the application
+make run
+
+# Stop the application
+make stop
+
+# View logs
+make logs
+
+# Open shell in container
+make shell
+
+# Clean up
+make clean
+
+# Health check
+make health
+
+# Backup data
+make backup
+
+# Restore data
+make restore BACKUP_FILE=backup-20231201-120000.tar.gz
+```
+
+## Development Setup
+
+### Prerequisites
+- Node.js 24+ (use `nvm use` to switch to the correct version)
+- npm or yarn
+- Git
+
+### Installation
+```bash
+# Install dependencies
+npm install
+
+# Set up environment
+cp env.example .env.local
+
+# Start development server
+npm run dev
+```
+
+### Available Scripts
+```bash
+npm run dev          # Start development server with Turbopack
+npm run build        # Build for production
+npm run start        # Start production server
+npm run lint         # Run ESLint
+npm run test         # Run tests
+npm run test:watch   # Run tests in watch mode
+```
+
 ## Project Structure
 
 ```
@@ -40,463 +140,91 @@ src/
 ├── app/
 │   ├── (news)/              # News-related pages
 │   │   ├── _components/     # Page-specific components
-│   │   │   ├── NewsCardList.tsx    # Reusable card grid with load more
-│   │   │   ├── NewsCard.tsx        # Individual news card
-│   │   │   ├── NewsListItem.tsx    # List view item
-│   │   │   └── ...                 # Other components
 │   │   ├── _hooks/          # Page-specific hooks
-│   │   │   ├── useBookmarksWithLoadMore.ts  # Bookmarks with pagination
-│   │   │   ├── useBookmarks.ts              # Basic bookmark management
-│   │   │   └── ...                          # Other hooks
-│   │   ├── [id]/            # Article detail pages
 │   │   ├── bookmarks/       # Bookmarks page
-│   │   ├── search/          # Search results page
-│   │   └── page.tsx         # News listing page
-│   ├── (admin)/             # Admin pages
-│   │   ├── crawler-status/  # Crawler monitoring
-│   │   └── settings/        # Application settings
+│   │   └── page.tsx         # News feed page
+│   ├── sources/             # Admin page for crawling
 │   ├── api/                 # API routes
-│   ├── actions/             # Server actions
+│   │   ├── news/            # News data endpoint
+│   │   └── source/          # Crawler control endpoint
 │   └── layout.tsx           # Root layout
 ├── components/
-│   ├── ui/                  # Shadcn UI components
 │   ├── layout/              # Layout components
-│   └── common/              # Reusable components
+│   └── ui/                  # UI components
 └── lib/
     ├── crawler/             # Crawler engine and parsers
     ├── storage/             # Data storage utilities
-    ├── api/                 # API service layer
-    └── types/               # TypeScript type definitions
+    ├── types/               # TypeScript type definitions
+    └── api/                 # External API integrations
 ```
-
-## Reusable Components
-
-### NewsCardList
-A reusable component for displaying news articles in a responsive card grid with load more functionality.
-
-**Features:**
-- Responsive grid layout (1 column mobile, 2 tablet, 3 desktop)
-- Built-in load more functionality
-- Loading states and empty states
-- Bookmark integration
-- Customizable empty content
-
-**Usage:**
-```tsx
-<NewsCardList
-  articles={articles}
-  loading={isLoading}
-  loadingMore={loadingMore}
-  hasMore={hasMore}
-  onLoadMore={handleLoadMore}
-  isBookmarked={isBookmarked}
-  onBookmarkToggle={toggleBookmark}
-  emptyMessage="No articles found"
-  showLoadMoreButton={true}
-/>
-```
-
-### NewsList
-A reusable component for displaying news articles in a list format with load more functionality.
-
-**Features:**
-- Compact list layout for better scanning
-- Built-in load more functionality
-- Loading states and empty states
-- Bookmark integration
-- Optional description display
-- Customizable empty content
-
-**Usage:**
-```tsx
-<NewsList
-  articles={articles}
-  loading={isLoading}
-  loadingMore={loadingMore}
-  hasMore={hasMore}
-  onLoadMore={handleLoadMore}
-  isBookmarked={isBookmarked}
-  onBookmarkToggle={toggleBookmark}
-  showDescription={showDescription}
-  emptyMessage="No articles found"
-  showLoadMoreButton={true}
-/>
-```
-
-### useBookmarksWithLoadMore
-A custom hook for managing bookmarked articles with pagination support.
-
-**Features:**
-- Load more functionality for bookmarks
-- Automatic sorting by bookmark date
-- Fallback data for missing articles
-- Performance optimized for large bookmark lists
-
-**Usage:**
-```tsx
-const {
-  articles,
-  totalArticles,
-  isLoading,
-  loadingMore,
-  hasMore,
-  loadMore,
-  isBookmarked,
-  onBookmarkToggle,
-  clearBookmarks,
-} = useBookmarksWithLoadMore({ itemsPerPage: 20 });
-```
-
-## Getting Started
-
-### Prerequisites
-
-- Node.js 18+ 
-- npm or yarn
-- Git
-
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone <repository-url>
-   cd feed-crawler
-   ```
-
-2. **Install dependencies**
-   ```bash
-   npm install
-   ```
-
-3. **Set up environment variables**
-   ```bash
-   cp .env.example .env.local
-   ```
-   Edit `.env.local` with your configuration:
-   ```env
-   # Crawler settings
-   CRAWLER_INTERVAL=3600000  # 1 hour in milliseconds
-   MAX_CRAWL_PAGES=5         # Maximum pages to crawl per site
-   
-   # Storage settings
-   DATA_DIR=sources          # Directory for storing crawled data
-   
-   # API settings
-   API_RATE_LIMIT=100        # Requests per minute
-   ```
-
-4. **Install Shadcn UI components**
-   ```bash
-   npx shadcn@latest init
-   npx shadcn@latest add button card input select badge avatar skeleton dialog dropdown tabs
-   ```
-
-5. **Create data storage directory**
-   ```bash
-   mkdir -p sources
-   ```
-
-6. **Start the development server**
-   ```bash
-   npm run dev
-   ```
-
-7. **Open your browser**
-   Navigate to [http://localhost:3000](http://localhost:3000)
-
-### First Run Setup
-
-1. **Trigger initial crawl**
-   - Visit `/sources`
-   - Click "Start Crawl" to fetch initial data
-   - Wait for the crawl to complete
-
-2. **Verify data storage**
-   - Check the `sources/` directory
-   - You should see folders for each news source
-   - Each folder should contain date-based JSON files
-
-## Development
-
-### Available Scripts
-
-```bash
-# Development
-npm run dev          # Start development server with Turbopack
-npm run build        # Build for production
-npm run start        # Start production server
-npm run lint         # Run ESLint
-
-# Crawler management
-npm run crawl        # Trigger manual crawl
-npm run crawl:status # Check crawler status
-```
-
-### Development Workflow
-
-1. **Feature Development**
-   - Create feature branch from `main`
-   - Follow the component architecture in `.ai/component-architecture.md`
-   - Use custom hooks for business logic
-   - Implement proper TypeScript types
-
-2. **Component Guidelines**
-   - Use Shadcn UI components as base
-   - Follow mobile-first responsive design
-   - Implement proper error boundaries
-   - Add loading states for better UX
-
-3. **Testing**
-   - Write unit tests for utilities
-   - Test components with React Testing Library
-   - Ensure mobile responsiveness
-   - Test crawler functionality
-
-### Code Style
-
-- **TypeScript**: Strict mode enabled, prefer interfaces over types
-- **React**: Use functional components with hooks
-- **Styling**: Tailwind CSS with consistent spacing and colors
-- **Naming**: Descriptive names, use auxiliary verbs for booleans
-- **Structure**: Follow the established directory structure
-
-## Crawler Configuration
-
-### Supported News Sources
-
-| Source | URL | Method | Frequency | Max Items |
-|--------|-----|--------|-----------|-----------|
-| Hacker News | https://news.ycombinator.com/ | API | Hourly | 100 |
-| The Verge | https://www.theverge.com/ | Crawl | Hourly | 50 |
-| TechCrunch | https://techcrunch.com/ | Crawl | Hourly | 50 |
-| Blognone | https://www.blognone.com/ | Crawl | Hourly | 50 |
-
-### Adding New Sources
-
-1. **Check for API availability** first
-2. **If API exists**: Create API integration in `/src/lib/api/external-apis/`
-3. **If no API**: Create parser in `/src/lib/crawler/parsers/`
-4. **Add configuration** in `/src/lib/crawler/site-configs.ts`
-5. **Update types** in `/src/lib/types/crawler-types.ts`
-6. **Test the integration** with sample data
-
-Example API integration:
-```typescript
-// src/lib/api/external-apis/example-api.ts
-export class ExampleApi {
-  static async fetchNews(): Promise<NewsItem[]> {
-    // API implementation
-  }
-  
-  static async fetchArticle(id: string): Promise<NewsItem> {
-    // Single article fetch
-  }
-}
-```
-
-Example parser structure:
-```typescript
-// src/lib/crawler/parsers/example-parser.ts
-export class ExampleParser {
-  static parse(html: string): NewsItem[] {
-    // Implementation
-  }
-  
-  static getNextPageUrl(html: string): string | null {
-    // Implementation
-  }
-}
-```
-
-## User Interface Features
-
-### Date-based Navigation
-- **Date Selector**: Dropdown menu to select specific dates for viewing news
-- **Smart Date Formatting**: Shows "Today", "Yesterday", or formatted dates
-- **Cross-source Date Filtering**: View all news from a specific date across all sources
-
-### Load More Functionality
-- **Progressive Loading**: Load articles in batches of 20 for better performance
-- **Load More Button**: Shows remaining article count and loads additional articles
-- **Pagination Support**: Server-side pagination with proper metadata
-- **Loading States**: Visual feedback during article loading
-
-### View Modes
-- **Card View**: Grid layout with article cards
-- **List View**: Compact list layout for more articles per screen
-- **Description Toggle**: Show/hide article descriptions in both views
-
-## API Reference
-
-### News Endpoints
-
-- `GET /api/news` - Get news articles with filters and pagination
-- `GET /api/news/[id]` - Get specific article
-- `GET /api/search` - Search articles
-- `GET /api/bookmarks` - Get user bookmarks
-- `POST /api/bookmarks` - Add bookmark
-- `DELETE /api/bookmarks/[id]` - Remove bookmark
-
-### Crawler Endpoints
-
-- `GET /api/crawler/status` - Get crawler status
-- `POST /api/crawler/trigger` - Trigger manual crawl
-
-### Query Parameters
-
-- `source` - Filter by news source
-- `date` - Filter by date (YYYY-MM-DD)
-- `page` - Page number for pagination
-- `limit` - Number of items per page
-- `q` - Search query
-- `sort` - Sort order (newest, oldest, relevance)
 
 ## Data Storage
 
-### File Structure
+The application stores crawled data in JSON format:
 ```
 sources/
 ├── theverge/
 │   ├── 2024-01-15.json
-│   ├── 2024-01-16.json
-│   └── ...
+│   └── 2024-01-16.json
 ├── techcrunch/
-│   ├── 2024-01-15.json
-│   └── ...
 ├── blognone/
-│   └── ...
 └── hackernews/
-    └── ...
 ```
-
-### Data Format
-```json
-{
-  "date": "2024-01-15",
-  "source": "theverge",
-  "articles": [
-    {
-      "id": "unique-id",
-      "title": "Article Title",
-      "description": "Article description",
-      "summary": "Brief summary of the article content...",
-      "url": "https://example.com/article",
-      "imageUrl": "https://example.com/image.jpg",
-      "publishedAt": "2024-01-15T10:30:00Z",
-      "source": "theverge",
-      "sourceName": "The Verge",
-      "author": "Author Name",
-      "tags": ["tag1", "tag2"],
-      "displayDate": "Jan 15, 2024 10:30 AM"
-    }
-  ]
-}
-```
-
-## Deployment
-
-### Vercel Deployment
-
-1. **Connect repository** to Vercel
-2. **Set environment variables** in Vercel dashboard
-3. **Configure build settings**:
-   - Build Command: `npm run build`
-   - Output Directory: `.next`
-4. **Deploy** and monitor logs
-
-### Environment Variables
-
-```env
-# Production
-NODE_ENV=production
-CRAWLER_INTERVAL=3600000
-MAX_CRAWL_PAGES=5
-DATA_DIR=sources
-API_RATE_LIMIT=100
-```
-
-### Monitoring
-
-- **Crawler Status**: Check `/admin/crawler-status`
-- **Error Logs**: Monitor Vercel function logs
-- **Performance**: Use Vercel Analytics
-- **Uptime**: Set up uptime monitoring
-
-## Contributing
-
-1. **Fork the repository**
-2. **Create feature branch**: `git checkout -b feature/amazing-feature`
-3. **Commit changes**: `git commit -m 'Add amazing feature'`
-4. **Push to branch**: `git push origin feature/amazing-feature`
-5. **Open Pull Request**
-
-### Contribution Guidelines
-
-- Follow the established code style
-- Add tests for new features
-- Update documentation as needed
-- Ensure mobile responsiveness
-- Test crawler functionality
 
 ## Troubleshooting
 
 ### Common Issues
 
-1. **Crawler not working**
-   - Check network connectivity
-   - Verify site configurations
-   - Check error logs in `/admin/crawler-status`
+1. **Docker build fails**
+   ```bash
+   # Clean and rebuild
+   make clean
+   make build
+   ```
 
-2. **Build errors**
-   - Run `npm run build` to identify issues
-   - Check TypeScript errors
-   - Verify all dependencies are installed
+2. **Application not starting**
+   ```bash
+   # Check logs
+   make logs
+   
+   # Check health
+   make health
+   ```
 
-3. **Mobile display issues**
-   - Test on actual mobile devices
-   - Check responsive breakpoints
-   - Verify touch interactions
+3. **No data showing**
+   - Visit `/sources` and trigger a crawl
+   - Check the `sources/` directory for data files
+   - Verify environment variables in `.env.local`
+
+4. **Port already in use**
+   ```bash
+   # Stop existing containers
+   make stop
+   
+   # Or change port in docker-compose files
+   ```
 
 ### Debug Mode
-
-Enable debug logging by setting:
+Enable debug logging by setting in `.env.local`:
 ```env
 DEBUG=true
 NODE_ENV=development
 ```
 
+## API Endpoints
+
+- `GET /api/news` - Get news articles with filters
+- `GET /api/source` - Get available sources
+- `POST /api/source` - Trigger manual crawl
+
+## Contributing
+
+1. Fork the repository
+2. Create feature branch: `git checkout -b feature/amazing-feature`
+3. Commit changes: `git commit -m 'Add amazing feature'`
+4. Push to branch: `git push origin feature/amazing-feature`
+5. Open Pull Request
+
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Support
-
-- **Documentation**: Check `.ai/` directory for detailed plans
-- **Issues**: Create GitHub issues for bugs or feature requests
-- **Discussions**: Use GitHub Discussions for questions
-
-## Roadmap
-
-- [ ] Real-time notifications
-- [ ] Advanced analytics dashboard
-- [ ] Social sharing integration
-- [ ] Export to various formats
-- [ ] RSS feed generation
-- [ ] Newsletter integration
-- [ ] AI-powered content summarization
-- [ ] Multi-language support
-
-## Source Color Coding
-
-Each news source is visually identified by its CI color in the UI. The color mapping is managed in `src/lib/types/source-colors.ts`. To add or update a source's color, edit the mapping in that file.
-
-Example:
-```ts
-export const SOURCE_COLORS = {
-  blognone: { bg: "#03db7d", text: "#fff" },
-  theverge: { bg: "#5200ff", text: "#fff" },
-  // ...
-}
-```
-# news-crawler
-# news-crawler
+This project is licensed under the MIT License.
