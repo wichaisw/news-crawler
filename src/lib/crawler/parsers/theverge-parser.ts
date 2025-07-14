@@ -1,6 +1,7 @@
 import * as cheerio from "cheerio";
 import { NewsItem } from "../../types/news-types";
 import { ContentProcessor } from "../../storage/content-processor";
+import { decodeHtmlEntities } from "../../utils/html";
 
 export class TheVergeParser {
   static parseRSS(
@@ -34,8 +35,8 @@ export class TheVergeParser {
       if (title && url) {
         articles.push({
           id: ContentProcessor.generateId(url),
-          title,
-          description,
+          title: decodeHtmlEntities(title),
+          description: decodeHtmlEntities(description),
           url: ContentProcessor.normalizeUrl(url, baseUrl),
           imageUrl,
           publishedAt,
@@ -76,8 +77,8 @@ export class TheVergeParser {
         if (title && url) {
           articles.push({
             id: ContentProcessor.generateId(url),
-            title,
-            description,
+            title: decodeHtmlEntities(title),
+            description: decodeHtmlEntities(description),
             url: ContentProcessor.normalizeUrl(url, baseUrl),
             imageUrl,
             publishedAt,

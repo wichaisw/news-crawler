@@ -4,6 +4,7 @@ import { NewsItem, BookmarkData } from "../../../lib/types/news-types";
 import { formatDistanceToNow, format } from "date-fns";
 import { getSourceColor } from "../../../lib/types/source-colors";
 import BookmarkButton from "./BookmarkButton";
+import { decodeHtmlEntities } from "../../../lib/utils/html";
 
 interface NewsCardProps {
   newsItem: NewsItem;
@@ -41,7 +42,7 @@ export default function NewsCard({
               isBookmarked={isBookmarked}
               onToggle={() =>
                 onBookmarkToggle(newsItem.id, {
-                  title: newsItem.title,
+                  title: decodeHtmlEntities(newsItem.title),
                   url: newsItem.url,
                   source: newsItem.source,
                   sourceName: newsItem.sourceName,
@@ -68,7 +69,7 @@ export default function NewsCard({
             rel="noopener noreferrer"
             className="hover:text-blue-600 transition-colors"
           >
-            {newsItem.title}
+            {decodeHtmlEntities(newsItem.title)}
           </a>
         </h3>
         <p
@@ -79,7 +80,7 @@ export default function NewsCard({
             WebkitBoxOrient: "vertical",
           }}
         >
-          {newsItem.description}
+          {decodeHtmlEntities(newsItem.description)}
         </p>
       </div>
 
