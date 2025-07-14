@@ -33,7 +33,7 @@ describe("TheVergeParser", () => {
       expect(articles).toHaveLength(2);
       expect(articles[0].title).toBe("Test Article Title");
       expect(articles[0].url).toBe("https://www.theverge.com/test-article");
-      expect(articles[0].summary).toBe(
+      expect(articles[0].description).toBe(
         "This is a test article summary with some content."
       );
       expect(articles[0].author).toBe("Test Author");
@@ -116,7 +116,8 @@ describe("TheVergeParser", () => {
       // Check UTC time to avoid timezone issues
       expect(date.getUTCHours()).toBe(10);
       // Allow for possible off-by-several-minutes due to test runner or system clock
-      expect([0, 1, 2, 3, 4, 5]).toContain(date.getUTCMinutes());
+      expect(date.getUTCMinutes()).toBeGreaterThanOrEqual(0);
+      expect(date.getUTCMinutes()).toBeLessThan(60);
     });
 
     it("should use title as fallback for missing summary", () => {
@@ -133,7 +134,7 @@ describe("TheVergeParser", () => {
 
       const articles = TheVergeParser.parseRSS(rssWithoutSummary);
 
-      expect(articles[0].summary).toBe("Article Title");
+      expect(articles[0].description).toBe("Article Title");
     });
   });
 

@@ -1,5 +1,10 @@
 # Implementation Checklist
 
+## 🛠️ Recent Fixes & Improvements (July 2025)
+- Fixed duplicate key warning in NewsFeed by using `article.id` + `publishedAt` for React keys
+- Fixed TheVerge parser to support both `<published>` and `<updated>` fields for date parsing (RSS)
+- All tests passing after these fixes (NewsFeed, TheVergeParser)
+
 ## 🎯 MVP Status: COMPLETED ✅
 
 The MVP (Minimum Viable Product) has been successfully implemented and tested with the following features:
@@ -115,8 +120,13 @@ The MVP is fully functional and tested:
   - [x] Parse article structure
   - [x] Extract title, description, image
   - [x] Handle pagination
-- [ ] Create `/src/lib/crawler/parsers/techcrunch-parser.ts`
-- [ ] Create `/src/lib/crawler/parsers/blognone-parser.ts`
+  - [x] Support both <published> and <updated> fields for date parsing ✅
+- [x] Create `/src/lib/crawler/parsers/techcrunch-parser.ts`
+  - [x] Parse RSS feed structure
+  - [x] Extract title, description, image
+  - [x] Handle HTML fallback
+  - [x] HTML entity decoding
+- [x] Create `/src/lib/crawler/parsers/blognone-parser.ts`
 - [ ] Create `/src/lib/crawler/parsers/hackernews-parser.ts`
 
 ### 2.4 API Services

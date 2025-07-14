@@ -17,7 +17,9 @@ export class TheVergeParser {
         $entry.find("link").attr("href") || $entry.find("link").text().trim();
       const description = $entry.find("summary").text().trim() || title;
       const author = $entry.find("author name").text().trim();
-      const dateStr = $entry.find("published").text().trim();
+      const dateStr =
+        $entry.find("published").text().trim() ||
+        $entry.find("updated").text().trim();
       const publishedAt = dateStr ? new Date(dateStr) : new Date();
 
       // Try to extract image from content or media

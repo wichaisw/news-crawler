@@ -11,6 +11,8 @@ A mobile-friendly news feed crawler that aggregates news from multiple sources i
 - **Mobile-First Design**: Responsive interface optimized for mobile devices
 - **Advanced Search**: Full-text search across all news articles
 - **Smart Filtering**: Filter by source, date, and tags
+- **Date-based Navigation**: Browse news by specific dates with easy date selector
+- **Load More Functionality**: Progressive loading of articles with pagination
 - **Bookmarking System**: Save and organize interesting articles
 - **Real-time Updates**: Shows latest crawl times and status
 - **JSON Data Storage**: Efficient local storage with date-based organization
@@ -220,11 +222,29 @@ export class ExampleParser {
 }
 ```
 
+## User Interface Features
+
+### Date-based Navigation
+- **Date Selector**: Dropdown menu to select specific dates for viewing news
+- **Smart Date Formatting**: Shows "Today", "Yesterday", or formatted dates
+- **Cross-source Date Filtering**: View all news from a specific date across all sources
+
+### Load More Functionality
+- **Progressive Loading**: Load articles in batches of 20 for better performance
+- **Load More Button**: Shows remaining article count and loads additional articles
+- **Pagination Support**: Server-side pagination with proper metadata
+- **Loading States**: Visual feedback during article loading
+
+### View Modes
+- **Card View**: Grid layout with article cards
+- **List View**: Compact list layout for more articles per screen
+- **Description Toggle**: Show/hide article descriptions in both views
+
 ## API Reference
 
 ### News Endpoints
 
-- `GET /api/news` - Get news articles with filters
+- `GET /api/news` - Get news articles with filters and pagination
 - `GET /api/news/[id]` - Get specific article
 - `GET /api/search` - Search articles
 - `GET /api/bookmarks` - Get user bookmarks

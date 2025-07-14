@@ -2,6 +2,9 @@ import { CrawlerResult, SiteConfig } from "../types/crawler-types";
 import { NewsItem } from "../types/news-types";
 import { TheVergeParser } from "./parsers/theverge-parser";
 import { BlognoneParser } from "./parsers/blognone-parser";
+import { TechCrunchParser } from "./parsers/techcrunch-parser";
+import { HackerNewsParser } from "./parsers/hackernews-parser";
+import { HackerNewsApi } from "../api/external-apis/hackernews-api";
 import { FileStorage } from "../storage/file-storage";
 import { ContentProcessor } from "../storage/content-processor";
 
@@ -33,6 +36,31 @@ export class CrawlerEngine {
       },
     },
     {
+      name: "techcrunch",
+      displayName: "TechCrunch",
+      baseUrl: "https://techcrunch.com/",
+      hasApi: false,
+      maxArticles: 50,
+      updateInterval: 60, // 60 minutes
+      crawlConfig: {
+        name: "techcrunch",
+        baseUrl: "https://techcrunch.com/",
+        rssUrl: "https://techcrunch.com/feed/",
+        selectors: {
+          article: "article",
+          title: "h2 a, h3 a, .post-block__title a",
+          description: ".post-block__content, .excerpt",
+          link: "h2 a, h3 a, .post-block__title a",
+          author: ".post-block__author, .author",
+          date: "time",
+        },
+        pagination: {
+          nextPageSelector: ".pagination__next",
+          maxPages: 3,
+        },
+      },
+    },
+    {
       name: "blognone",
       displayName: "Blognone",
       baseUrl: "https://www.blognone.com/",
@@ -57,6 +85,31 @@ export class CrawlerEngine {
         },
       },
     },
+    {
+      name: "hackernews",
+      displayName: "Hacker News",
+      baseUrl: "https://news.ycombinator.com/",
+      hasApi: true,
+      apiEndpoint: "https://hacker-news.firebaseio.com/v0",
+      maxArticles: 50,
+      updateInterval: 60, // 60 minutes
+      crawlConfig: {
+        name: "hackernews",
+        baseUrl: "https://news.ycombinator.com/",
+        selectors: {
+          article: "tr.athing",
+          title: "td.title a",
+          description: "td.subtext",
+          link: "td.title a",
+          author: "td.subtext .hnuser",
+          date: "td.subtext .age",
+        },
+        pagination: {
+          nextPageSelector: "a.morelink",
+          maxPages: 3,
+        },
+      },
+    },
   ];
 
   static async crawlSite(sourceName: string): Promise<CrawlerResult> {
@@ -76,8 +129,31 @@ export class CrawlerEngine {
       const articles: NewsItem[] = [];
       let pagesProcessed = 0;
 
-      // Use RSS feed if available, otherwise fall back to HTML crawling
-      if (config.crawlConfig?.rssUrl) {
+      // Use API if available, then RSS feed, then HTML crawling
+      if (config.hasApi && config.apiEndpoint) {
+        console.log(`Using API for ${sourceName}: ${config.apiEndpoint}`);
+
+        try {
+          if (sourceName === "hackernews") {
+            const apiArticles = await HackerNewsApi.fetchStoriesWithRetry(
+              config.maxArticles
+            );
+            articles.push(...apiArticles);
+            pagesProcessed = 1;
+          } else {
+            throw new Error(`No API implementation for source: ${sourceName}`);
+          }
+        } catch (apiError) {
+          console.warn(
+            `API failed for ${sourceName}, falling back to crawling:`,
+            apiError
+          );
+          // Continue to RSS/HTML fallback
+        }
+      }
+
+      // Use RSS feed if available and no API or API failed
+      if (articles.length === 0 && config.crawlConfig?.rssUrl) {
         console.log(
           `Crawling ${sourceName} RSS feed: ${config.crawlConfig.rssUrl}`
         );
@@ -100,6 +176,8 @@ export class CrawlerEngine {
         let rssArticles: NewsItem[] = [];
         if (sourceName === "theverge") {
           rssArticles = TheVergeParser.parseRSS(xml, config.baseUrl);
+        } else if (sourceName === "techcrunch") {
+          rssArticles = TechCrunchParser.parseRSS(xml, config.baseUrl);
         } else if (sourceName === "blognone") {
           rssArticles = BlognoneParser.parseRSS(xml, config.baseUrl);
         } else {
@@ -138,8 +216,12 @@ export class CrawlerEngine {
           let pageArticles: NewsItem[] = [];
           if (sourceName === "theverge") {
             pageArticles = TheVergeParser.parse(html, config.baseUrl);
+          } else if (sourceName === "techcrunch") {
+            pageArticles = TechCrunchParser.parse(html, config.baseUrl);
           } else if (sourceName === "blognone") {
             pageArticles = BlognoneParser.parse(html, config.baseUrl);
+          } else if (sourceName === "hackernews") {
+            pageArticles = HackerNewsParser.parse(html, config.baseUrl);
           } else {
             throw new Error(`No parser available for source: ${sourceName}`);
           }

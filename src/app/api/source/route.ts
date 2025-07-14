@@ -1,9 +1,21 @@
 import { NextRequest, NextResponse } from "next/server";
 import { CrawlerEngine } from "../../../lib/crawler/crawler-engine";
+import { FileStorage } from "../../../lib/storage/file-storage";
 
 export async function GET() {
   try {
     const configs = CrawlerEngine.getSiteConfigs();
+    const sources = await FileStorage.getSources();
+
+    // Get all available dates from all sources
+    const allDates = new Set<string>();
+    for (const source of sources) {
+      const dates = await FileStorage.getAvailableDates(source);
+      dates.forEach((date) => allDates.add(date));
+    }
+
+    // Sort dates in descending order (most recent first)
+    const sortedDates = Array.from(allDates).sort().reverse();
 
     return NextResponse.json({
       status: "idle",
@@ -14,6 +26,7 @@ export async function GET() {
         maxArticles: config.maxArticles,
         updateInterval: config.updateInterval,
       })),
+      dates: sortedDates,
     });
   } catch (error) {
     console.error("Error getting source status:", error);

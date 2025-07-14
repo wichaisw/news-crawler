@@ -6,26 +6,88 @@ import NewsCard from "./NewsCard";
 import NewsListItem from "./NewsListItem";
 import ViewToggle from "./ViewToggle";
 import { useNewsView } from "../_hooks/useNewsView";
+import DateSelector from "./DateSelector";
 
 export default function NewsFeed() {
   const [articles, setArticles] = useState<NewsItem[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
+  const [selectedDate, setSelectedDate] = useState<string | null>(null);
+  const [availableDates, setAvailableDates] = useState<string[]>([]);
+  const [currentPage, setCurrentPage] = useState(1);
+  const [hasMore, setHasMore] = useState(false);
+  const [totalArticles, setTotalArticles] = useState(0);
+  const [loadingMore, setLoadingMore] = useState(false);
+
   const { viewMode, showDescription, toggleViewMode, toggleDescription } =
     useNewsView();
 
+  const ITEMS_PER_PAGE = 20;
+
   useEffect(() => {
-    fetchNews();
+    fetchAvailableDates();
   }, []);
 
-  const fetchNews = async () => {
+  useEffect(() => {
+    if (availableDates.length > 0) {
+      setSelectedDate(availableDates[0]); // Set to most recent date
+    }
+  }, [availableDates]);
+
+  useEffect(() => {
+    if (selectedDate) {
+      fetchNews(selectedDate, 1, true);
+    }
+  }, [selectedDate]);
+
+  const fetchAvailableDates = async () => {
     try {
-      setLoading(true);
-      const response = await fetch("/api/news?limit=20");
+      const response = await fetch("/api/source");
+      const data = await response.json();
+
+      if (response.ok && data.dates) {
+        setAvailableDates(data.dates);
+      }
+    } catch (error) {
+      console.error("Failed to fetch available dates:", error);
+    }
+  };
+
+  const fetchNews = async (
+    date: string,
+    page: number,
+    reset: boolean = false
+  ) => {
+    try {
+      if (reset) {
+        setLoading(true);
+        setCurrentPage(1);
+      } else {
+        setLoadingMore(true);
+      }
+
+      const params = new URLSearchParams({
+        limit: ITEMS_PER_PAGE.toString(),
+        page: page.toString(),
+      });
+
+      if (date) {
+        params.append("date", date);
+      }
+
+      const response = await fetch(`/api/news?${params}`);
       const data = await response.json();
 
       if (response.ok) {
-        setArticles(data.articles);
+        if (reset) {
+          setArticles(data.articles);
+        } else {
+          setArticles((prev) => [...prev, ...data.articles]);
+        }
+
+        setTotalArticles(data.total);
+        setHasMore(data.hasMore);
+        setCurrentPage(page);
       } else {
         setError(data.error || "Failed to fetch news");
       }
@@ -33,7 +95,18 @@ export default function NewsFeed() {
       setError("Failed to fetch news");
     } finally {
       setLoading(false);
+      setLoadingMore(false);
     }
+  };
+
+  const handleLoadMore = () => {
+    if (selectedDate && hasMore) {
+      fetchNews(selectedDate, currentPage + 1);
+    }
+  };
+
+  const handleDateChange = (date: string) => {
+    setSelectedDate(date);
   };
 
   if (loading) {
@@ -56,7 +129,7 @@ export default function NewsFeed() {
         <div className="text-center">
           <p className="text-red-600 mb-4">{error}</p>
           <button
-            onClick={fetchNews}
+            onClick={() => selectedDate && fetchNews(selectedDate, 1, true)}
             className="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700"
           >
             Retry
@@ -81,28 +154,65 @@ export default function NewsFeed() {
 
   return (
     <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-      <ViewToggle
-        viewMode={viewMode}
-        showDescription={showDescription}
-        onToggleView={toggleViewMode}
-        onToggleDescription={toggleDescription}
-      />
+      <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4 mb-6">
+        <ViewToggle
+          viewMode={viewMode}
+          showDescription={showDescription}
+          onToggleView={toggleViewMode}
+          onToggleDescription={toggleDescription}
+        />
+
+        <DateSelector
+          dates={availableDates}
+          selectedDate={selectedDate}
+          onDateChange={handleDateChange}
+        />
+      </div>
+
+      {selectedDate && (
+        <div className="mb-4 text-sm text-gray-600">
+          Showing {articles.length} of {totalArticles} articles for{" "}
+          {selectedDate}
+        </div>
+      )}
 
       {viewMode === "card" ? (
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           {articles.map((article) => (
-            <NewsCard key={article.id} newsItem={article} />
+            <NewsCard
+              key={`${article.id}-${article.publishedAt}`}
+              newsItem={article}
+            />
           ))}
         </div>
       ) : (
         <div className="bg-white rounded-lg shadow-sm border border-gray-200">
           {articles.map((article) => (
             <NewsListItem
-              key={article.id}
+              key={`${article.id}-${article.publishedAt}`}
               newsItem={article}
               showDescription={showDescription}
             />
           ))}
+        </div>
+      )}
+
+      {hasMore && (
+        <div className="mt-8 text-center">
+          <button
+            onClick={handleLoadMore}
+            disabled={loadingMore}
+            className="bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700 disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
+          >
+            {loadingMore ? (
+              <div className="flex items-center gap-2">
+                <div className="animate-spin rounded-full h-4 w-4 border-b-2 border-white"></div>
+                Loading...
+              </div>
+            ) : (
+              `Load More (${totalArticles - articles.length} remaining)`
+            )}
+          </button>
         </div>
       )}
     </main>

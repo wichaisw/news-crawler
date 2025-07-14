@@ -23,7 +23,14 @@ export async function GET(request: NextRequest) {
       // Get articles from all sources
       const sources = await FileStorage.getSources();
       for (const src of sources) {
-        const sourceArticles = await FileStorage.getAllNewsData(src);
+        let sourceArticles: NewsItem[];
+        if (date) {
+          // If date is specified, get articles from that specific date for all sources
+          sourceArticles = await FileStorage.loadNewsData(src, date);
+        } else {
+          // Get all articles from the source
+          sourceArticles = await FileStorage.getAllNewsData(src);
+        }
         articles.push(...sourceArticles);
       }
       // Sort by date (newest first)
