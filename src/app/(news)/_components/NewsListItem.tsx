@@ -4,6 +4,7 @@ import { NewsItem, BookmarkData } from "../../../lib/types/news-types";
 import { format } from "date-fns";
 import { getSourceColor } from "../../../lib/types/source-colors";
 import BookmarkButton from "./BookmarkButton";
+import { decodeHtmlEntities } from "../../../lib/utils/html";
 
 interface NewsListItemProps {
   newsItem: NewsItem;
@@ -41,7 +42,7 @@ export default function NewsListItem({
                 rel="noopener noreferrer"
                 className="hover:text-blue-600 transition-colors"
               >
-                {newsItem.title}
+                {decodeHtmlEntities(newsItem.title)}
               </a>
             </h3>
           </div>
@@ -57,7 +58,7 @@ export default function NewsListItem({
                 isBookmarked={isBookmarked}
                 onToggle={() =>
                   onBookmarkToggle(newsItem.id, {
-                    title: newsItem.title,
+                    title: decodeHtmlEntities(newsItem.title),
                     url: newsItem.url,
                     source: newsItem.source,
                     sourceName: newsItem.sourceName,
@@ -80,7 +81,7 @@ export default function NewsListItem({
         {showDescription && (
           <div className="mt-2">
             <p className="text-sm text-gray-600 line-clamp-2 overflow-hidden break-words">
-              {newsItem.description}
+              {decodeHtmlEntities(newsItem.description)}
             </p>
             {newsItem.author && (
               <p className="text-xs text-gray-500 mt-1">By {newsItem.author}</p>
