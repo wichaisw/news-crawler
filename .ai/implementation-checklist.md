@@ -4,6 +4,11 @@
 - Fixed duplicate key warning in NewsFeed by using `article.id` + `publishedAt` for React keys
 - Fixed TheVerge parser to support both `<published>` and `<updated>` fields for date parsing (RSS)
 - All tests passing after these fixes (NewsFeed, TheVergeParser)
+- ✅ **Fixed GitHub Pages URL**: Static fetchers now use correct base URL for GitHub Pages
+- ✅ **Added Missing Crawl Script**: Created `scripts/crawl-all-sources.ts` for automated crawling
+- ✅ **Optimized GitHub Actions**: Removed duplicate steps and improved caching
+- ✅ **Enhanced Error Handling**: Better logging and graceful failure handling
+- ✅ **Automated Deployment**: Daily cron pipeline now works correctly
 
 ## 🎯 MVP Status: COMPLETED ✅
 
@@ -43,18 +48,18 @@ The MVP is fully functional and tested:
 - **Benefits**: Free hosting, same functionality, easy maintenance, proven technology
 
 ### 📋 **Static Hosting Implementation Plan**
-- [ ] **Phase 1**: Create static data fetcher (reuses existing types and logic)
-- [ ] **Phase 2**: Create static components (copies with minimal changes)
-- [ ] **Phase 3**: Configure Next.js static export
-- [ ] **Phase 4**: Set up GitHub Pages deployment
-- [ ] **Phase 5**: Implement automated crawling pipeline
+- [x] **Phase 1**: Create static data fetcher (reuses existing types and logic) ✅
+- [x] **Phase 2**: Create static components (copies with minimal changes) ✅
+- [x] **Phase 3**: Configure Next.js static export ✅
+- [x] **Phase 4**: Set up GitHub Pages deployment ✅
+- [x] **Phase 5**: Implement automated crawling pipeline ✅
 
 ### 🎯 **Static Hosting Success Criteria**
-- [ ] Static site displays same news as server version
-- [ ] All existing features work (view toggle, date selector, bookmarks)
-- [ ] Same data structure and types used
-- [ ] Automated deployment to GitHub Pages
-- [ ] Daily automated crawling and updates
+- [x] Static site displays same news as server version ✅
+- [x] All existing features work (view toggle, date selector, bookmarks) ✅
+- [x] Same data structure and types used ✅
+- [x] Automated deployment to GitHub Pages ✅
+- [x] Daily automated crawling and updates ✅
 
 ---
 

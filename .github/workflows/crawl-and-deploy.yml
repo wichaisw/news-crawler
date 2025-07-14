@@ -37,9 +37,6 @@ jobs:
           # Add any environment variables needed for crawling
           NODE_ENV: production
 
-      - name: Generate dates index
-        run: npm run generate-dates
-
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
