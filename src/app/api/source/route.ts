@@ -16,9 +16,9 @@ export async function GET() {
       })),
     });
   } catch (error) {
-    console.error("Error getting crawler status:", error);
+    console.error("Error getting source status:", error);
     return NextResponse.json(
-      { error: "Failed to get crawler status" },
+      { error: "Failed to get source status" },
       { status: 500 }
     );
   }
@@ -43,9 +43,9 @@ export async function POST(request: NextRequest) {
       });
     }
   } catch (error) {
-    console.error("Error triggering crawl:", error);
+    console.error("Error triggering source crawl:", error);
     return NextResponse.json(
-      { error: "Failed to trigger crawl" },
+      { error: "Failed to trigger source crawl" },
       { status: 500 }
     );
   }

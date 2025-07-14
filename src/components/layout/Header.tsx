@@ -21,7 +21,7 @@ export default function Header() {
               Home
             </Link>
             <Link
-              href="/admin/crawler-status"
+              href="/admin"
               className="text-gray-700 hover:text-gray-900 px-3 py-2 rounded-md text-sm font-medium"
             >
               Admin

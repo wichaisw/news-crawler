@@ -8,6 +8,9 @@ interface NewsCardProps {
 }
 
 export default function NewsCard({ newsItem }: NewsCardProps) {
+  // Ensure publishedAt is a Date object
+  const publishedDate = new Date(newsItem.publishedAt);
+
   return (
     <article className="bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow p-6">
       <div className="flex items-center justify-between mb-3">
@@ -15,10 +18,10 @@ export default function NewsCard({ newsItem }: NewsCardProps) {
           {newsItem.sourceName}
         </span>
         <time
-          dateTime={newsItem.publishedAt.toISOString()}
+          dateTime={publishedDate.toISOString()}
           className="text-xs text-gray-500"
         >
-          {formatDistanceToNow(newsItem.publishedAt, { addSuffix: true })}
+          {formatDistanceToNow(publishedDate, { addSuffix: true })}
         </time>
       </div>
 
@@ -45,8 +48,8 @@ export default function NewsCard({ newsItem }: NewsCardProps) {
               <span>•</span>
             </>
           )}
-          <time dateTime={newsItem.publishedAt.toISOString()}>
-            {format(newsItem.publishedAt, "MMM dd, yyyy HH:mm")}
+          <time dateTime={publishedDate.toISOString()}>
+            {format(publishedDate, "MMM dd, yyyy HH:mm")}
           </time>
         </div>
 

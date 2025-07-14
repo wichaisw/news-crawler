@@ -16,6 +16,7 @@ export class CrawlerEngine {
       crawlConfig: {
         name: "theverge",
         baseUrl: "https://www.theverge.com/",
+        rssUrl: "https://www.theverge.com/rss/index.xml",
         selectors: {
           article: 'div[data-chorus-optimize-field="collection"] article',
           title: "h2 a",
@@ -48,17 +49,14 @@ export class CrawlerEngine {
     try {
       const articles: NewsItem[] = [];
       let pagesProcessed = 0;
-      let currentUrl = config.baseUrl;
 
-      // Crawl up to maxPages
-      for (
-        let page = 1;
-        page <= (config.crawlConfig?.pagination?.maxPages || 1);
-        page++
-      ) {
-        console.log(`Crawling ${sourceName} page ${page}: ${currentUrl}`);
+      // Use RSS feed if available, otherwise fall back to HTML crawling
+      if (config.crawlConfig?.rssUrl) {
+        console.log(
+          `Crawling ${sourceName} RSS feed: ${config.crawlConfig.rssUrl}`
+        );
 
-        const response = await fetch(currentUrl, {
+        const response = await fetch(config.crawlConfig.rssUrl, {
           headers: {
             "User-Agent":
               "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
@@ -66,39 +64,68 @@ export class CrawlerEngine {
         });
 
         if (!response.ok) {
-          console.error(`Failed to fetch ${currentUrl}: ${response.status}`);
-          break;
+          console.error(`Failed to fetch RSS feed: ${response.status}`);
+          throw new Error(`Failed to fetch RSS feed: ${response.status}`);
         }
 
-        const html = await response.text();
-        const pageArticles = TheVergeParser.parse(html, config.baseUrl);
+        const xml = await response.text();
+        const rssArticles = TheVergeParser.parseRSS(xml, config.baseUrl);
+        articles.push(...rssArticles);
+        pagesProcessed = 1;
+      } else {
+        // Fallback to HTML crawling
+        let currentUrl = config.baseUrl;
 
-        articles.push(...pageArticles);
-        pagesProcessed++;
+        // Crawl up to maxPages
+        for (
+          let page = 1;
+          page <= (config.crawlConfig?.pagination?.maxPages || 1);
+          page++
+        ) {
+          console.log(`Crawling ${sourceName} page ${page}: ${currentUrl}`);
 
-        // Check if we have enough articles
-        if (articles.length >= config.maxArticles) {
-          articles.splice(config.maxArticles);
-          break;
-        }
+          const response = await fetch(currentUrl, {
+            headers: {
+              "User-Agent":
+                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+            },
+          });
 
-        // Try to find next page
-        if (config.crawlConfig?.pagination?.nextPageSelector) {
-          const cheerio = await import("cheerio");
-          const $ = cheerio.load(html);
-          const nextPageLink = $(
-            config.crawlConfig.pagination.nextPageSelector
-          ).attr("href");
-          if (nextPageLink) {
-            currentUrl = ContentProcessor.normalizeUrl(
-              nextPageLink,
-              config.baseUrl
-            );
+          if (!response.ok) {
+            console.error(`Failed to fetch ${currentUrl}: ${response.status}`);
+            break;
+          }
+
+          const html = await response.text();
+          const pageArticles = TheVergeParser.parse(html, config.baseUrl);
+
+          articles.push(...pageArticles);
+          pagesProcessed++;
+
+          // Check if we have enough articles
+          if (articles.length >= config.maxArticles) {
+            articles.splice(config.maxArticles);
+            break;
+          }
+
+          // Try to find next page
+          if (config.crawlConfig?.pagination?.nextPageSelector) {
+            const cheerio = await import("cheerio");
+            const $ = cheerio.load(html);
+            const nextPageLink = $(
+              config.crawlConfig.pagination.nextPageSelector
+            ).attr("href");
+            if (nextPageLink) {
+              currentUrl = ContentProcessor.normalizeUrl(
+                nextPageLink,
+                config.baseUrl
+              );
+            } else {
+              break;
+            }
           } else {
             break;
           }
-        } else {
-          break;
         }
       }
 

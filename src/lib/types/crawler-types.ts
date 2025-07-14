@@ -1,6 +1,7 @@
 export interface CrawlerConfig {
   name: string;
   baseUrl: string;
+  rssUrl?: string;
   selectors: {
     article: string;
     title: string;

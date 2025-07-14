@@ -66,9 +66,11 @@ export class FileStorage {
       allArticles.push(...articles);
     }
 
-    return allArticles.sort(
-      (a, b) => b.publishedAt.getTime() - a.publishedAt.getTime()
-    );
+    return allArticles.sort((a, b) => {
+      const dateA = new Date(a.publishedAt);
+      const dateB = new Date(b.publishedAt);
+      return dateB.getTime() - dateA.getTime();
+    });
   }
 
   static async cleanupOldData(daysToKeep: number = 30): Promise<void> {

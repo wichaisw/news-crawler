@@ -5,7 +5,7 @@ export interface NewsItem {
   summary: string;
   url: string;
   imageUrl?: string;
-  publishedAt: Date;
+  publishedAt: Date | string; // Can be Date object or ISO string
   source: string;
   sourceName: string;
   author?: string;
