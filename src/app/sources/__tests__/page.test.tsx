@@ -1,16 +1,16 @@
 import { render, screen, fireEvent, waitFor } from "@testing-library/react";
 import "@testing-library/jest-dom";
-import AdminPage from "../page";
+import SourcesPage from "../page";
 
 // Mock fetch
 global.fetch = jest.fn();
 
-describe("AdminPage", () => {
+describe("SourcesPage", () => {
   beforeEach(() => {
     jest.clearAllMocks();
   });
 
-  it("should render admin page with sources", async () => {
+  it("should render sources page with sources", async () => {
     const mockSources = [
       {
         name: "theverge",
@@ -33,7 +33,7 @@ describe("AdminPage", () => {
       json: async () => ({ sources: mockSources }),
     });
 
-    render(<AdminPage />);
+    render(<SourcesPage />);
 
     await waitFor(() => {
       expect(screen.getByText("Source Management")).toBeInTheDocument();
@@ -65,7 +65,7 @@ describe("AdminPage", () => {
         json: async () => ({ articles: [{ id: "1", title: "Test" }] }),
       });
 
-    render(<AdminPage />);
+    render(<SourcesPage />);
 
     await waitFor(() => {
       expect(screen.getByText("Crawl The Verge")).toBeInTheDocument();
@@ -113,7 +113,7 @@ describe("AdminPage", () => {
         }),
       });
 
-    render(<AdminPage />);
+    render(<SourcesPage />);
 
     await waitFor(() => {
       expect(screen.getByText("Crawl All Sources")).toBeInTheDocument();
@@ -131,7 +131,7 @@ describe("AdminPage", () => {
   it("should handle fetch errors", async () => {
     (fetch as jest.Mock).mockRejectedValueOnce(new Error("Network error"));
 
-    render(<AdminPage />);
+    render(<SourcesPage />);
 
     await waitFor(() => {
       expect(screen.getByText("Failed to load sources")).toBeInTheDocument();
@@ -158,7 +158,7 @@ describe("AdminPage", () => {
         () => new Promise((resolve) => setTimeout(resolve, 100))
       );
 
-    render(<AdminPage />);
+    render(<SourcesPage />);
 
     await waitFor(() => {
       expect(screen.getByText("Crawl The Verge")).toBeInTheDocument();

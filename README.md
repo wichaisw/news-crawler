@@ -119,7 +119,7 @@ src/
 ### First Run Setup
 
 1. **Trigger initial crawl**
-   - Visit `/admin/crawler-status`
+   - Visit `/sources`
    - Click "Start Crawl" to fetch initial data
    - Wait for the crawl to complete
 
@@ -389,8 +389,6 @@ Example:
 export const SOURCE_COLORS = {
   blognone: { bg: "#03db7d", text: "#fff" },
   theverge: { bg: "#5200ff", text: "#fff" },
-  techcrunch: { bg: "#0aa43e", text: "#fff" },
-  hackernews: { bg: "#ff6600", text: "#fff" },
   // ...
 }
 ```

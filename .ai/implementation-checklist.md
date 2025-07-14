@@ -9,7 +9,7 @@ The MVP (Minimum Viable Product) has been successfully implemented and tested wi
 - **Crawler System**: The Verge RSS parser (updated from HTML parsing)
 - **API Routes**: News and source endpoints (renamed from crawler)
 - **Frontend**: Responsive news feed with mobile-first design
-- **Admin Interface**: Manual source crawl trigger at `/admin`
+- **Admin Interface**: Manual source crawl trigger at `/sources`
 - **Data Storage**: JSON-based storage with date organization
 - **RSS Integration**: Reliable RSS feed parsing for The Verge
 
@@ -25,7 +25,7 @@ The MVP (Minimum Viable Product) has been successfully implemented and tested wi
 The MVP is fully functional and tested:
 1. ✅ Manual crawling of The Verge via RSS feed
 2. ✅ Displaying news articles in a responsive interface
-3. ✅ Basic admin controls at `/admin`
+3. ✅ Basic admin controls at `/sources`
 4. ✅ Data persistence in JSON format
 5. ✅ Mobile-friendly design
 6. ✅ Consistent "source" terminology throughout

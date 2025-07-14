@@ -19,7 +19,7 @@ interface SourceStatus {
   };
 }
 
-export default function AdminPage() {
+export default function SourcesPage() {
   const [sources, setSources] = useState<Source[]>([]);
   const [sourceStatuses, setSourceStatuses] = useState<SourceStatus>({});
   const [isLoading, setIsLoading] = useState(true);
