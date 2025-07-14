@@ -15,7 +15,7 @@ async function testStaticBuild() {
 
     // 2. Build static site
     console.log("🔨 Building static site...");
-    execSync("npm run build:static", { stdio: "inherit" });
+    execSync("tsx scripts/build-static-only.ts", { stdio: "inherit" });
 
     // 3. Check if out directory exists
     const outDir = path.join(process.cwd(), "out");
