@@ -5,6 +5,10 @@ alwaysApply: true
 ---
 ## Application Objective
 
-This application called "Funny Cards" it is a cards game for couple or friends party. It have many decks each decks. When use select decks to play it must suffles and let user draw the cards.
+- This app is a news feed crawler that retrieve data from news site like https://www.theverge.com/, https://techcrunch.com/, https://www.blognone.com/, https://news.ycombinator.com/, to shows all of them in a page.
+- it should support multiple sites crawling
+- it should be able to retrieve new news every hour
+- it should store or cache the retrieved data as JSON in sources/<site-name>/<date> for showing on frontend
+- it should be able to crawl through pagination of sites
 
 It is a mobile friendly application
