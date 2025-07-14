@@ -1,11 +1,12 @@
 import type { NextConfig } from "next";
 
+const isStaticExport = process.env.NEXT_STATIC_EXPORT === "true";
+
 const nextConfig: NextConfig = {
-  // Support both server-side and static export
-  output: process.env.NEXT_STATIC_EXPORT === "true" ? "export" : "standalone",
+  output: isStaticExport ? "export" : "standalone",
 
   // Static export configuration
-  ...(process.env.NEXT_STATIC_EXPORT === "true" && {
+  ...(isStaticExport && {
     trailingSlash: true,
     basePath: process.env.NODE_ENV === "production" ? "/news-crawler" : "",
     images: {

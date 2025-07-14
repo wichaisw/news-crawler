@@ -11,7 +11,7 @@
     "test:watch": "jest --watch",
     "test:coverage": "jest --coverage",
     "test:ci": "jest --ci --coverage --watchAll=false",
-    "build:static": "mv src/app/api src/app/api.bak && NEXT_STATIC_EXPORT=true next build && mv src/app/api.bak src/app/api",
+    "build:static": "tsx scripts/build-static-only.ts",
     "generate-dates": "tsx scripts/generate-dates-index.ts",
     "crawl": "tsx scripts/crawl-all-sources.ts",
     "test:static": "tsx scripts/test-static-build.ts"
