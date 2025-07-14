@@ -1,6 +1,7 @@
 import { CrawlerResult, SiteConfig } from "../types/crawler-types";
 import { NewsItem } from "../types/news-types";
 import { TheVergeParser } from "./parsers/theverge-parser";
+import { BlognoneParser } from "./parsers/blognone-parser";
 import { FileStorage } from "../storage/file-storage";
 import { ContentProcessor } from "../storage/content-processor";
 
@@ -27,6 +28,31 @@ export class CrawlerEngine {
         },
         pagination: {
           nextPageSelector: ".p-pagination__next",
+          maxPages: 3,
+        },
+      },
+    },
+    {
+      name: "blognone",
+      displayName: "Blognone",
+      baseUrl: "https://www.blognone.com/",
+      hasApi: false,
+      maxArticles: 50,
+      updateInterval: 60, // 60 minutes
+      crawlConfig: {
+        name: "blognone",
+        baseUrl: "https://www.blognone.com/",
+        rssUrl: "https://www.blognone.com/node/feed",
+        selectors: {
+          article: "article",
+          title: "h2 a, h3 a",
+          description: ".excerpt, .summary",
+          link: "h2 a, h3 a",
+          author: ".author",
+          date: "time",
+        },
+        pagination: {
+          nextPageSelector: ".pager-next",
           maxPages: 3,
         },
       },
@@ -69,7 +95,17 @@ export class CrawlerEngine {
         }
 
         const xml = await response.text();
-        const rssArticles = TheVergeParser.parseRSS(xml, config.baseUrl);
+
+        // Use appropriate parser based on source
+        let rssArticles: NewsItem[] = [];
+        if (sourceName === "theverge") {
+          rssArticles = TheVergeParser.parseRSS(xml, config.baseUrl);
+        } else if (sourceName === "blognone") {
+          rssArticles = BlognoneParser.parseRSS(xml, config.baseUrl);
+        } else {
+          throw new Error(`No parser available for source: ${sourceName}`);
+        }
+
         articles.push(...rssArticles);
         pagesProcessed = 1;
       } else {
@@ -97,7 +133,16 @@ export class CrawlerEngine {
           }
 
           const html = await response.text();
-          const pageArticles = TheVergeParser.parse(html, config.baseUrl);
+
+          // Use appropriate parser based on source
+          let pageArticles: NewsItem[] = [];
+          if (sourceName === "theverge") {
+            pageArticles = TheVergeParser.parse(html, config.baseUrl);
+          } else if (sourceName === "blognone") {
+            pageArticles = BlognoneParser.parse(html, config.baseUrl);
+          } else {
+            throw new Error(`No parser available for source: ${sourceName}`);
+          }
 
           articles.push(...pageArticles);
           pagesProcessed++;
