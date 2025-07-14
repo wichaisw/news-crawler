@@ -42,7 +42,7 @@ export default function NewsCard({ newsItem }: NewsCardProps) {
       </h3>
 
       <p className="text-sm text-gray-600 mb-3 line-clamp-3">
-        {newsItem.summary}
+        {newsItem.description}
       </p>
 
       <div className="flex items-center justify-between text-xs text-gray-500">

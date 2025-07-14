@@ -2,7 +2,6 @@ export interface NewsItem {
   id: string;
   title: string;
   description: string;
-  summary: string;
   url: string;
   imageUrl?: string;
   publishedAt: Date | string; // Can be Date object or ISO string
@@ -10,7 +9,6 @@ export interface NewsItem {
   sourceName: string;
   author?: string;
   tags?: string[];
-  content?: string;
 }
 
 export interface NewsFilters {

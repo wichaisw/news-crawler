@@ -6,7 +6,6 @@ const mockNewsItem: NewsItem = {
   id: "1",
   title: "Test Article Title",
   description: "Test article description",
-  summary: "Test article summary",
   url: "https://example.com/article",
   publishedAt: new Date("2024-01-01T10:00:00Z"),
   source: "test-source",
@@ -21,7 +20,9 @@ describe("NewsListItem", () => {
     expect(screen.getByText("Test Article Title")).toBeInTheDocument();
     expect(screen.getByText("Test Source")).toBeInTheDocument();
     expect(screen.getByText("Read →")).toBeInTheDocument();
-    expect(screen.queryByText("Test article summary")).not.toBeInTheDocument();
+    expect(
+      screen.queryByText("Test article description")
+    ).not.toBeInTheDocument();
     expect(screen.queryByText("By Test Author")).not.toBeInTheDocument();
   });
 
@@ -30,7 +31,7 @@ describe("NewsListItem", () => {
 
     expect(screen.getByText("Test Article Title")).toBeInTheDocument();
     expect(screen.getByText("Test Source")).toBeInTheDocument();
-    expect(screen.getByText("Test article summary")).toBeInTheDocument();
+    expect(screen.getByText("Test article description")).toBeInTheDocument();
     expect(screen.getByText("By Test Author")).toBeInTheDocument();
     expect(screen.getByText("Read →")).toBeInTheDocument();
   });

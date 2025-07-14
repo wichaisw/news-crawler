@@ -12,7 +12,6 @@ const mockArticles = [
     id: "test-1",
     title: "Test Article 1",
     description: "Test description 1",
-    summary: "Test summary 1",
     url: "https://example.com/1",
     publishedAt: "2024-07-14T10:00:00Z",
     source: "theverge",
@@ -24,7 +23,6 @@ const mockArticles = [
     id: "test-2",
     title: "Test Article 2",
     description: "Test description 2",
-    summary: "Test summary 2",
     url: "https://example.com/2",
     publishedAt: "2024-07-14T11:00:00Z",
     source: "theverge",
@@ -62,8 +60,8 @@ describe("NewsFeed", () => {
       expect(screen.getByText("Test Article 1")).toBeInTheDocument();
     });
     expect(screen.getByText("Test Article 2")).toBeInTheDocument();
-    expect(screen.getByText("Test summary 1")).toBeInTheDocument();
-    expect(screen.getByText("Test summary 2")).toBeInTheDocument();
+    expect(screen.getByText("Test description 1")).toBeInTheDocument();
+    expect(screen.getByText("Test description 2")).toBeInTheDocument();
   });
 
   it("renders error state when fetch fails", async () => {

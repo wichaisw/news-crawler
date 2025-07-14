@@ -5,9 +5,7 @@ import { NewsItem } from "../../../../lib/types/news-types";
 const mockNewsItem: NewsItem = {
   id: "test-1",
   title: "Test Article Title",
-  description:
-    "This is a test article description that should be displayed in the card.",
-  summary: "This is a test article summary.",
+  description: "This is a test article description.",
   url: "https://example.com/test-article",
   imageUrl: "https://example.com/image.jpg",
   publishedAt: new Date("2024-07-14T10:00:00Z"),
@@ -30,11 +28,11 @@ describe("NewsCard", () => {
     expect(screen.getByText("The Verge")).toBeInTheDocument();
   });
 
-  it("renders article summary", () => {
+  it("renders article description", () => {
     render(<NewsCard newsItem={mockNewsItem} />);
 
     expect(
-      screen.getByText("This is a test article summary.")
+      screen.getByText("This is a test article description.")
     ).toBeInTheDocument();
   });
 

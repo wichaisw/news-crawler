@@ -60,8 +60,8 @@ export default function NewsListItem({
 
         {showDescription && (
           <div className="mt-2">
-            <p className="text-sm text-gray-600 line-clamp-2">
-              {newsItem.summary}
+            <p className="text-sm text-gray-600 line-clamp-2 overflow-hidden break-words">
+              {newsItem.description}
             </p>
             {newsItem.author && (
               <p className="text-xs text-gray-500 mt-1">By {newsItem.author}</p>
