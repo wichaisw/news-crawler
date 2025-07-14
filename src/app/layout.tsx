@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "News Feed Crawler",
+  title: "News Crawler",
   description: "Aggregating tech news from multiple sources",
 };
 
