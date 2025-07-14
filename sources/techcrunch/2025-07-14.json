@@ -2,6 +2,148 @@
   "date": "2025-07-14",
   "source": "techcrunch",
   "articles": [
-
+    {
+      "id": "https://techcrunch.com/?p=3027600",
+      "title": "Malaysia will require trade permits for U.S. AI chips",
+      "description": "Malaysia is introducing new export restrictions on U.S. AI chips in an attempt to prevent these chips from being smuggled into China.",
+      "url": "https://techcrunch.com/2025/07/14/malaysia-will-require-trade-permits-for-u-s-ai-chips/",
+      "publishedAt": "2025-07-14T17:37:50.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Rebecca Szkutak",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3027596",
+      "title": "NotebookLM adds featured notebooks from The Economist, The Atlantic and others",
+      "description": "Google is adding notebooks from various authors, publications, researchers, and nonprofits to its popular AI-powered research and note-taking",
+      "url": "https://techcrunch.com/2025/07/14/notebooklm-adds-featured-notebooks-from-the-economist-the-atlantic-and-others/",
+      "publishedAt": "2025-07-14T17:26:38.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sarah Perez",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3027557",
+      "title": "Prime Day event drove over $24B in U.S. e-commerce sales, gen AI traffic was up 3,300%",
+      "description": "Amazon&#8217;s Prime Day, which leads to an overall boost to U.S. e-commerce thanks to competitive sales, saw a significant increase in retail",
+      "url": "https://techcrunch.com/2025/07/14/prime-day-event-drove-over-24b-in-u-s-e-commerce-sales-gen-ai-traffic-was-up-3300/",
+      "publishedAt": "2025-07-14T16:44:41.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sarah Perez",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3027534",
+      "title": "Mark Zuckerberg says Meta is building a 5GW AI data center",
+      "description": "Meta is currently building out a data center, called Hyperion, which the company expects to supply its new AI lab with five gigawatts (GW) of",
+      "url": "https://techcrunch.com/2025/07/14/mark-zuckerberg-says-meta-is-building-a-5gw-ai-data-center/",
+      "publishedAt": "2025-07-14T16:16:52.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Maxwell Zeff",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3027474",
+      "title": "Weekly subscriptions dominate iOS app revenue, report finds",
+      "description": "Weekly subscriptions have now become one of the most popular ways iOS apps are earning revenue, with these plans contributing 46% to the bottom line,",
+      "url": "https://techcrunch.com/2025/07/14/weekly-subscriptions-dominate-ios-app-revenue-report-finds/",
+      "publishedAt": "2025-07-14T16:07:58.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Ivan Mehta",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3027537",
+      "title": "GM to challenge China’s LFP monopoly with upgraded battery factory",
+      "description": "The factory’s overhaul will give U.S. LFP production a significant boost.",
+      "url": "https://techcrunch.com/2025/07/14/gm-to-challenge-chinas-lfp-monopoly-with-upgraded-battery-factory/",
+      "publishedAt": "2025-07-14T16:04:11.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Tim De Chant",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3027512",
+      "title": "Rainmaker partners with Atmo to squeeze more rain from clouds",
+      "description": "Atmo will use its deep learning models to help Rainmaker identify clouds that have potential for seeding.",
+      "url": "https://techcrunch.com/2025/07/14/rainmaker-partners-with-atmo-to-squeeze-more-rain-from-clouds/",
+      "publishedAt": "2025-07-14T16:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Tim De Chant",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3027497",
+      "title": "Rivian CEO RJ Scaringe’s voting control slips following divorce settlement",
+      "description": "Rivian founder and CEO RJ Scaringe has transferred a portion of his ownership stake and voting power as part of a newly settled divorce proceeding.",
+      "url": "https://techcrunch.com/2025/07/14/rivian-ceo-rj-scaringes-voting-control-slips-following-divorce-settlement/",
+      "publishedAt": "2025-07-14T14:52:57.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sean O'Kane",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3027390",
+      "title": "The votes are in: TechCrunch Disrupt 2025 Audience Choice winners revealed for roundtables and breakouts",
+      "description": "Meet the exceptional tech voices — and the sessions they’ll lead — that will shape the conversation at Disrupt 2025, taking place October 27-29 at",
+      "url": "https://techcrunch.com/2025/07/14/the-votes-are-in-techcrunch-disrupt-2025-audience-choice-winners-revealed-for-roundtables-and-breakouts/",
+      "publishedAt": "2025-07-14T14:30:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "TechCrunch Events",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3027450",
+      "title": "Tomorrow: TechCrunch All Stage launches in Boston — and ticket prices rise",
+      "description": "TechCrunch All Stage officially kicks off tomorrow at SoWa Power Station in Boston. This isn’t just another founder event. It’s the summit built to",
+      "url": "https://techcrunch.com/2025/07/14/tomorrow-techcrunch-all-stage-launches-in-boston-and-ticket-prices-rise/",
+      "publishedAt": "2025-07-14T13:30:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "TechCrunch Events",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3027487",
+      "title": "Elmo’s X account hacked to publish racist and antisemitic posts",
+      "description": "A hacker compromised Elmo's X account on Sunday and published abusive posts.",
+      "url": "https://techcrunch.com/2025/07/14/sesame-street-elmo-x-account-hacked-racist-antisemetic-posts/",
+      "publishedAt": "2025-07-14T13:07:33.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Zack Whittaker",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3027067",
+      "title": "Discord’s virtual reward, ‘Orbs,’ launches out of beta",
+      "description": "According to Discord, Orbs have been popular among testers, with millions earned and spent during the seven-week beta period.",
+      "url": "https://techcrunch.com/2025/07/14/discords-virtual-reward-orbs-launches-out-of-beta/",
+      "publishedAt": "2025-07-14T13:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lauren Forristal",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3027470",
+      "title": "Jack Dorsey’s latest app tracks sun exposure",
+      "description": "Twitter co-founder Jack Dorsey's new app, called Sun Day, ostensibly helps users track UV exposure and vitamin D intake.",
+      "url": "https://techcrunch.com/2025/07/14/jack-dorseys-latest-app-tracks-sun-exposure/",
+      "publishedAt": "2025-07-14T10:21:32.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Ivan Mehta",
+      "tags": []
+    }
   ]
 }

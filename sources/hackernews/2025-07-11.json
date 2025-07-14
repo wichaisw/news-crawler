@@ -3,6 +3,28 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "1i80vl",
+      "title": "Six Game Devs Speak to Computer Games Mag (1984)",
+      "description": "Score: 24 | Comments: 5 | Posted by rbanffy",
+      "url": "https://computeradsfromthepast.substack.com/p/six-game-devs-speak-to-computer-games",
+      "publishedAt": "2025-07-11T18:17:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rbanffy",
+      "tags": []
+    },
+    {
+      "id": "ow1b6p",
+      "title": "It took 45 years, but spreadsheet legend Mitch Kapor finally got his MIT degree",
+      "description": "Score: 59 | Comments: 5 | Posted by bookofjoe",
+      "url": "https://www.bostonglobe.com/2025/06/24/business/mitch-kapor-mit-degree-bill-aulet/",
+      "publishedAt": "2025-07-11T17:30:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bookofjoe",
+      "tags": []
+    },
+    {
       "id": "bhuap4",
       "title": "Kimi K2 is a state-of-the-art mixture-of-experts (MoE) language model",
       "description": "Score: 303 | Comments: 166 | Posted by c4pt0r",
@@ -22,6 +44,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "lerno",
+      "tags": []
+    },
+    {
+      "id": "k767or",
+      "title": "Tandy Corporation, Part 3 Becoming IBM Compatible",
+      "description": "Score: 14 | Comments: 2 | Posted by klelatti",
+      "url": "https://www.abortretry.fail/p/tandy-corporation-part-3",
+      "publishedAt": "2025-07-11T09:35:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "klelatti",
+      "tags": []
+    },
+    {
+      "id": "pj9pae",
+      "title": "Self-imposed ban – a lightweight bash script to block commands",
+      "description": "Score: 17 | Comments: 23 | Posted by alex-moon",
+      "url": "https://github.com/alex-moon/ban",
+      "publishedAt": "2025-07-11T08:28:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "alex-moon",
       "tags": []
     },
     {
