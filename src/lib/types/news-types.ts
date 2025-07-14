@@ -1,0 +1,42 @@
+export interface NewsItem {
+  id: string;
+  title: string;
+  description: string;
+  summary: string;
+  url: string;
+  imageUrl?: string;
+  publishedAt: Date;
+  source: string;
+  sourceName: string;
+  author?: string;
+  tags?: string[];
+  content?: string;
+}
+
+export interface NewsFilters {
+  sources?: string[];
+  dateRange?: "all" | "today" | "week" | "month";
+  searchQuery?: string;
+  sortBy?: "newest" | "oldest" | "relevance";
+}
+
+export interface SearchResult {
+  items: NewsItem[];
+  total: number;
+  page: number;
+  limit: number;
+  hasMore: boolean;
+}
+
+export interface NewsResponse {
+  date: string;
+  source: string;
+  articles: NewsItem[];
+}
+
+export interface BookmarkItem {
+  id: string;
+  newsItemId: string;
+  addedAt: Date;
+  userId?: string;
+}
