@@ -1,0 +1,127 @@
+{
+  "date": "2025-07-10",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "7yudz4",
+      "title": "Binding Application in Idris",
+      "description": "Score: 31 | Comments: 1 | Posted by matt_d",
+      "url": "https://andrevidela.com/blog/2025/binding-application/",
+      "publishedAt": "2025-07-10T23:08:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "matt_d",
+      "tags": []
+    },
+    {
+      "id": "htksvm",
+      "title": "How to scale RL to 10^26 FLOPs",
+      "description": "Score: 76 | Comments: 6 | Posted by jxmorris12",
+      "url": "https://blog.jxmo.io/p/how-to-scale-rl-to-1026-flops",
+      "publishedAt": "2025-07-10T20:47:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jxmorris12",
+      "tags": []
+    },
+    {
+      "id": "j3wc99",
+      "title": "Burning a Magnesium NeXT Cube (1993)",
+      "description": "Score: 43 | Comments: 16 | Posted by leoapagano",
+      "url": "https://simson.net/ref/1993/cubefire.html",
+      "publishedAt": "2025-07-10T17:30:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "leoapagano",
+      "tags": []
+    },
+    {
+      "id": "ze8wor",
+      "title": "Show HN: Ten years of running every day, visualized",
+      "description": "Score: 522 | Comments: 214 | Posted by friggeri",
+      "url": "https://nodaysoff.run",
+      "publishedAt": "2025-07-10T16:21:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "friggeri",
+      "tags": []
+    },
+    {
+      "id": "oqaahm",
+      "title": "Chimpfluencers Stick Grass in Their Ears and Butts in Latest Viral Trend",
+      "description": "Score: 20 | Comments: 8 | Posted by dxs",
+      "url": "https://www.sciencealert.com/chimpfluencers-are-sticking-grass-in-their-ears-and-butts-in-latest-viral-trend",
+      "publishedAt": "2025-07-10T13:52:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dxs",
+      "tags": []
+    },
+    {
+      "id": "5qtqlg",
+      "title": "Show HN: FFmpeg in plain English – LLM-assisted FFmpeg in the browser",
+      "description": "Score: 106 | Comments: 24 | Posted by bjano",
+      "url": "https://vidmix.app/ffmpeg-in-plain-english/",
+      "publishedAt": "2025-07-10T13:32:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bjano",
+      "tags": []
+    },
+    {
+      "id": "s197jg",
+      "title": "Monitoring My Homelab, Simply",
+      "description": "Score: 147 | Comments: 48 | Posted by Bogdanp",
+      "url": "https://b.tuxes.uk/simple-homelab-monitoring.html",
+      "publishedAt": "2025-07-10T11:28:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Bogdanp",
+      "tags": []
+    },
+    {
+      "id": "mq4bjp",
+      "title": "A Century of Quantum Mechanics",
+      "description": "Score: 48 | Comments: 39 | Posted by bookofjoe",
+      "url": "https://home.cern/news/news/physics/century-quantum-mechanics",
+      "publishedAt": "2025-07-10T10:41:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bookofjoe",
+      "tags": []
+    },
+    {
+      "id": "9qbhyb",
+      "title": "The underground cathedral protecting Tokyo from floods (2018)",
+      "description": "Score: 119 | Comments: 38 | Posted by barry-cotter",
+      "url": "https://www.bbc.com/future/article/20181129-the-underground-cathedral-protecting-tokyo-from-floods",
+      "publishedAt": "2025-07-10T10:30:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "barry-cotter",
+      "tags": []
+    },
+    {
+      "id": "8pi1pc",
+      "title": "Show HN: Built a desktop app to organize photos locally with duplicate detection",
+      "description": "Score: 19 | Comments: 22 | Posted by mcvanhassel",
+      "url": "https://organizer.flipfocus.nl/",
+      "publishedAt": "2025-07-10T10:02:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mcvanhassel",
+      "tags": []
+    },
+    {
+      "id": "sp2euy",
+      "title": "The Robot Sculptors of Italy",
+      "description": "Score: 58 | Comments: 17 | Posted by helsinkiandrew",
+      "url": "https://www.bloomberg.com/features/2025-robot-sculptors-marble/",
+      "publishedAt": "2025-07-10T05:39:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "helsinkiandrew",
+      "tags": []
+    }
+  ]
+}
