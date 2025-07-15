@@ -3,6 +3,39 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "1i80vl",
+      "title": "Six Game Devs Speak to Computer Games Mag (1984)",
+      "description": "Score: 55 | Comments: 13 | Posted by rbanffy",
+      "url": "https://computeradsfromthepast.substack.com/p/six-game-devs-speak-to-computer-games",
+      "publishedAt": "2025-07-11T18:17:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rbanffy",
+      "tags": []
+    },
+    {
+      "id": "2sw17c",
+      "title": "Replicube: 3D shader puzzle game, online demo",
+      "description": "Score: 107 | Comments: 19 | Posted by inktype",
+      "url": "https://replicube.xyz/staging/",
+      "publishedAt": "2025-07-11T18:00:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "inktype",
+      "tags": []
+    },
+    {
+      "id": "ow1b6p",
+      "title": "It took 45 years, but spreadsheet legend Mitch Kapor finally got his MIT degree",
+      "description": "Score: 178 | Comments: 18 | Posted by bookofjoe",
+      "url": "https://www.bostonglobe.com/2025/06/24/business/mitch-kapor-mit-degree-bill-aulet/",
+      "publishedAt": "2025-07-11T17:30:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bookofjoe",
+      "tags": []
+    },
+    {
       "id": "bhuap4",
       "title": "Kimi K2 is a state-of-the-art mixture-of-experts (MoE) language model",
       "description": "Score: 303 | Comments: 166 | Posted by c4pt0r",
@@ -14,6 +47,17 @@
       "tags": []
     },
     {
+      "id": "d8u6so",
+      "title": "The Corset X-Rays of Dr Ludovic O'Followell (1908)",
+      "description": "Score: 35 | Comments: 2 | Posted by healsdata",
+      "url": "https://publicdomainreview.org/collection/the-corset-x-rays-of-dr-ludovic-o-followell-1908/",
+      "publishedAt": "2025-07-11T14:44:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "healsdata",
+      "tags": []
+    },
+    {
       "id": "l3y18a",
       "title": "C3 solved memory lifetimes with scopes",
       "description": "Score: 121 | Comments: 96 | Posted by lerno",
@@ -22,6 +66,39 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "lerno",
+      "tags": []
+    },
+    {
+      "id": "9ih2ko",
+      "title": "SQLite async connection pool for high-performance",
+      "description": "Score: 91 | Comments: 37 | Posted by slaily",
+      "url": "https://github.com/slaily/aiosqlitepool",
+      "publishedAt": "2025-07-11T10:26:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "slaily",
+      "tags": []
+    },
+    {
+      "id": "k767or",
+      "title": "Tandy Corporation, Part 3",
+      "description": "Score: 59 | Comments: 15 | Posted by klelatti",
+      "url": "https://www.abortretry.fail/p/tandy-corporation-part-3",
+      "publishedAt": "2025-07-11T09:35:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "klelatti",
+      "tags": []
+    },
+    {
+      "id": "to15h2",
+      "title": "Transition to using 16 KB page sizes for Android apps and games",
+      "description": "Score: 36 | Comments: 17 | Posted by ingve",
+      "url": "https://android-developers.googleblog.com/2025/07/transition-to-16-kb-page-sizes-android-apps-games-android-studio.html",
+      "publishedAt": "2025-07-11T07:04:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingve",
       "tags": []
     },
     {

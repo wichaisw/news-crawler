@@ -1,0 +1,28 @@
+{
+  "date": "2025-07-15",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3027854",
+      "title": "Meta is reportedly using actual tents to build data centers",
+      "description": "Meta and Mark Zuckerberg are in a hurry to build their superintelligence tech. The company has been poaching AI researchers, while CEO Mark",
+      "url": "https://techcrunch.com/2025/07/14/meta-is-reportedly-using-actual-tents-to-build-data-centers/",
+      "publishedAt": "2025-07-15T05:25:13.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Ivan Mehta",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3027848",
+      "title": "Nvidia is set to resume China chip sales after months of regulatory whiplash",
+      "description": "Nvidia announced Monday that it's filing applications to restart sales of its H20 artificial intelligence chips to China, capping a spasmodic few",
+      "url": "https://techcrunch.com/2025/07/14/nvidia-is-set-to-resume-china-chip-sales-after-months-of-regulatory-whiplash/",
+      "publishedAt": "2025-07-15T04:36:47.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Connie Loizos",
+      "tags": []
+    }
+  ]
+}

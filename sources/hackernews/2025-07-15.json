@@ -1,0 +1,105 @@
+{
+  "date": "2025-07-15",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "u6ifuu",
+      "title": "LLM Inevitabilismtomrenner.com",
+      "description": "Score: 166 | Comments: 110 | Posted by SwoopsFromAbove",
+      "url": "https://tomrenner.com/posts/llm-inevitabilism/",
+      "publishedAt": "2025-07-15T05:09:34.527Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "SwoopsFromAbove",
+      "tags": []
+    },
+    {
+      "id": "u6ifuu",
+      "title": "LLM Inevitabilism",
+      "description": "Score: 166 | Comments: 112 | Posted by SwoopsFromAbove",
+      "url": "https://tomrenner.com/posts/llm-inevitabilism/",
+      "publishedAt": "2025-07-15T04:35:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "SwoopsFromAbove",
+      "tags": []
+    },
+    {
+      "id": "6xfzen",
+      "title": "Literalism plaguing today’s movies",
+      "description": "Score: 65 | Comments: 48 | Posted by frogulis",
+      "url": "https://www.newyorker.com/culture/critics-notebook/the-new-literalism-plaguing-todays-biggest-movies",
+      "publishedAt": "2025-07-15T03:52:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "frogulis",
+      "tags": []
+    },
+    {
+      "id": "f2ux7n",
+      "title": "Show HN: CallFS – S3-style object store in one Go binary (MIT)",
+      "description": "Score: 37 | Comments: 10 | Posted by ebogdum",
+      "url": "https://github.com/ebogdum/callfs",
+      "publishedAt": "2025-07-15T03:43:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ebogdum",
+      "tags": []
+    },
+    {
+      "id": "l2ssqt",
+      "title": "C++ Coroutines Advanced: Converting std:future to asio:awaitable",
+      "description": "Score: 21 | Comments: 1 | Posted by xialeistudio",
+      "url": "https://www.ddhigh.com/en/2025/07/15/cpp-coroutine-future-to-awaitable/",
+      "publishedAt": "2025-07-15T01:50:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "xialeistudio",
+      "tags": []
+    },
+    {
+      "id": "whl6l0",
+      "title": "Doge Denizen Marko Elez Leaked API Key for XAI",
+      "description": "Score: 65 | Comments: 20 | Posted by todsacerdoti",
+      "url": "https://krebsonsecurity.com/2025/07/doge-denizen-marko-elez-leaked-api-key-for-xai/",
+      "publishedAt": "2025-07-15T01:24:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "jtjpiy",
+      "title": "AWS Lambda Silent Crash – A Platform Failure, Not an Application Bug [pdf]",
+      "description": "Score: 55 | Comments: 42 | Posted by nonfamous",
+      "url": "https://lyons-den.com/whitepapers/aws-lambda-silent-crash.pdf",
+      "publishedAt": "2025-07-15T01:22:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nonfamous",
+      "tags": []
+    },
+    {
+      "id": "1w7dta",
+      "title": "Protecting My Attention at the Dopamine Carnival",
+      "description": "Score: 91 | Comments: 69 | Posted by overload119",
+      "url": "https://www.amirsharif.com/protecting-my-attention-at-the-dopamine-carnival",
+      "publishedAt": "2025-07-15T00:34:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "overload119",
+      "tags": []
+    },
+    {
+      "id": "9uprk",
+      "title": "The Collapse of the FDA",
+      "description": "Score: 103 | Comments: 58 | Posted by littlexsparkee",
+      "url": "https://www.nytimes.com/2025/07/08/magazine/fda-collapse-rfk-kennedy.html",
+      "publishedAt": "2025-07-15T00:27:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "littlexsparkee",
+      "tags": []
+    }
+  ]
+}

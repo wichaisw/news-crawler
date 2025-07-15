@@ -14,6 +14,17 @@
       "tags": []
     },
     {
+      "id": "9ku4pg",
+      "title": "Show HN: Bedrock – An 8-bit computing system for running programs anywhere",
+      "description": "Score: 109 | Comments: 23 | Posted by benbridle",
+      "url": "https://benbridle.com/projects/bedrock.html",
+      "publishedAt": "2025-07-10T22:20:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "benbridle",
+      "tags": []
+    },
+    {
       "id": "htksvm",
       "title": "How to scale RL to 10^26 FLOPs",
       "description": "Score: 76 | Comments: 6 | Posted by jxmorris12",
@@ -22,6 +33,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jxmorris12",
+      "tags": []
+    },
+    {
+      "id": "24zr85",
+      "title": "Lasagna Battery Cell",
+      "description": "Score: 116 | Comments: 23 | Posted by nixass",
+      "url": "https://amazingribs.com/more-technique-and-science/more-cooking-science/reactive-pans/",
+      "publishedAt": "2025-07-10T19:19:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nixass",
+      "tags": []
+    },
+    {
+      "id": "1h6eej",
+      "title": "Lossless Float Image Compression",
+      "description": "Score: 99 | Comments: 10 | Posted by ingve",
+      "url": "https://aras-p.info/blog/2025/07/08/Lossless-Float-Image-Compression/",
+      "publishedAt": "2025-07-10T18:12:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingve",
       "tags": []
     },
     {

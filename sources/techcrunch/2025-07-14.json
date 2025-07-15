@@ -2,6 +2,203 @@
   "date": "2025-07-14",
   "source": "techcrunch",
   "articles": [
-
+    {
+      "id": "https://techcrunch.com/?p=3027812",
+      "title": "Brian Singerman is raising over $500M for a new fund with a twist on the VC model",
+      "description": "Former Founders Fund GP Brian Singerman and co-founder and managing partner of Quiet Capital, Lee Linden, are seeking over $500 million for a new",
+      "url": "https://techcrunch.com/2025/07/14/brian-singermans-new-fund-has-a-twist-and-peter-thiel-as-a-big-backer/",
+      "publishedAt": "2025-07-14T23:33:28.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Marina Temkin",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3027780",
+      "title": "Meta built its AI reputation on openness — that may be changing",
+      "description": "Top members of Meta’s new Superintelligence Lab discussed pivoting away from the company’s powerful open source AI model, Behemoth, and instead",
+      "url": "https://techcrunch.com/2025/07/14/meta-built-its-ai-reputation-on-openness-that-may-be-changing/",
+      "publishedAt": "2025-07-14T22:44:24.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Rebecca Bellan",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3027734",
+      "title": "Former Sequoia partner Matt Miller raises $355M for new fund — with Sequoia’s backing",
+      "description": "Former Sequoia partner Matt Miller has already locked in $355 million for his new fund, Evantic, which is also backed by Sequoia, TechCrunch learned.",
+      "url": "https://techcrunch.com/2025/07/14/former-sequoia-partner-matt-miller-raises-355m-for-new-fund-with-sequoias-backing/",
+      "publishedAt": "2025-07-14T21:56:19.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anna Heim",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3027715",
+      "title": "Following YouTube, Meta announces crackdown on ‘unoriginal’ Facebook content",
+      "description": "Like YouTube, Meta says it won't penalize users who are engaging with other people's content, doing things like making reaction videos, joining a",
+      "url": "https://techcrunch.com/2025/07/14/following-youtube-meta-announces-crackdown-on-unoriginal-facebook-content/",
+      "publishedAt": "2025-07-14T20:30:01.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sarah Perez",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3027691",
+      "title": "Episource is notifying millions of people that their health data was stolen",
+      "description": "The UnitedHealth-owned medical coding service was hacked earlier this year by a ransomware gang.",
+      "url": "https://techcrunch.com/2025/07/14/episource-is-notifying-millions-of-people-that-their-health-data-was-stolen/",
+      "publishedAt": "2025-07-14T19:07:18.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Zack Whittaker",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3027655",
+      "title": "Cognition, maker of the AI coding agent Devin, acquires Windsurf",
+      "description": "The announcement comes just days after Google hired away Windsurf's CEO Varun Mohan, co-founder Douglas Chen, and research leaders in a $2.4 billion",
+      "url": "https://techcrunch.com/2025/07/14/cognition-maker-of-the-ai-coding-agent-devin-acquires-windsurf/",
+      "publishedAt": "2025-07-14T18:51:29.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Maxwell Zeff",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3027652",
+      "title": "Trump administration to spend $1 billion on ‘offensive’ hacking operations",
+      "description": "A top Democrat criticized the move to spend a billion on offensive hacking operations as the budget guts a billion from U.S. cyber defense.",
+      "url": "https://techcrunch.com/2025/07/14/trump-administration-to-spend-1-billion-on-offensive-hacking-operations/",
+      "publishedAt": "2025-07-14T18:45:20.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lorenzo Franceschi-Bicchierai",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3026701",
+      "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2025",
+      "description": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
+      "url": "https://techcrunch.com/2025/07/14/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2025/",
+      "publishedAt": "2025-07-14T18:38:52.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lauren Forristal",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3027644",
+      "title": "Elon Musk’s Grok is making AI companions, including a goth anime girl",
+      "description": "Musk wrote in an X post on Monday that AI companions are now available in the Grok app for \"Super Grok\" subscribers who pay $30 per month.",
+      "url": "https://techcrunch.com/2025/07/14/elon-musks-grok-is-making-ai-companions-including-a-goth-anime-girl/",
+      "publishedAt": "2025-07-14T18:36:27.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Amanda Silberling",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3027600",
+      "title": "Malaysia will require trade permits for US AI chips",
+      "description": "Malaysia is introducing new export restrictions on U.S. AI chips in an attempt to prevent these chips from being smuggled into China.",
+      "url": "https://techcrunch.com/2025/07/14/malaysia-will-require-trade-permits-for-u-s-ai-chips/",
+      "publishedAt": "2025-07-14T17:37:50.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Rebecca Szkutak",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3027596",
+      "title": "NotebookLM adds featured notebooks from The Economist, The Atlantic, and others",
+      "description": "Google is adding notebooks from various authors, publications, researchers, and nonprofits to its popular AI-powered research and note-taking",
+      "url": "https://techcrunch.com/2025/07/14/notebooklm-adds-featured-notebooks-from-the-economist-the-atlantic-and-others/",
+      "publishedAt": "2025-07-14T17:26:38.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sarah Perez",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3027557",
+      "title": "Prime Day event drove over $24B in US e-commerce sales, GenAI traffic was up 3,300%",
+      "description": "Amazon's Prime Day, which leads to an overall boost to U.S. e-commerce thanks to competitive sales, saw a significant increase in retail traffic",
+      "url": "https://techcrunch.com/2025/07/14/prime-day-event-drove-over-24b-in-u-s-e-commerce-sales-gen-ai-traffic-was-up-3300/",
+      "publishedAt": "2025-07-14T16:44:41.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sarah Perez",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3027534",
+      "title": "Mark Zuckerberg says Meta is building a 5GW AI data center",
+      "description": "Mark Zuckerberg says Meta is building out some massive data centers to power its AI ambitions and compete with OpenAI, Google, and Anthropic.",
+      "url": "https://techcrunch.com/2025/07/14/mark-zuckerberg-says-meta-is-building-a-5gw-ai-data-center/",
+      "publishedAt": "2025-07-14T16:16:52.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Maxwell Zeff",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3027474",
+      "title": "Weekly subscriptions dominate iOS app revenue, report finds",
+      "description": "Weekly subscriptions have now become one of the most popular ways iOS apps are earning revenue, with these plans contributing 46% to the bottom line,",
+      "url": "https://techcrunch.com/2025/07/14/weekly-subscriptions-dominate-ios-app-revenue-report-finds/",
+      "publishedAt": "2025-07-14T16:07:58.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Ivan Mehta",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3027537",
+      "title": "GM to challenge China’s LFP monopoly with upgraded battery factory",
+      "description": "The factory’s overhaul will give U.S. LFP production a significant boost.",
+      "url": "https://techcrunch.com/2025/07/14/gm-to-challenge-chinas-lfp-monopoly-with-upgraded-battery-factory/",
+      "publishedAt": "2025-07-14T16:04:11.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Tim De Chant",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3027512",
+      "title": "Rainmaker partners with Atmo to squeeze more rain from clouds",
+      "description": "Atmo will use its deep learning models to help Rainmaker identify clouds that have potential for seeding.",
+      "url": "https://techcrunch.com/2025/07/14/rainmaker-partners-with-atmo-to-squeeze-more-rain-from-clouds/",
+      "publishedAt": "2025-07-14T16:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Tim De Chant",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3027497",
+      "title": "Rivian CEO RJ Scaringe’s voting control slips following divorce settlement",
+      "description": "Rivian founder and CEO RJ Scaringe has transferred a portion of his ownership stake and voting power as part of a newly settled divorce proceeding.",
+      "url": "https://techcrunch.com/2025/07/14/rivian-ceo-rj-scaringes-voting-control-slips-following-divorce-settlement/",
+      "publishedAt": "2025-07-14T14:52:57.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sean O'Kane",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3027390",
+      "title": "The votes are in: TechCrunch Disrupt 2025 Audience Choice winners revealed for roundtables and breakouts",
+      "description": "Meet the exceptional tech voices — and the sessions they’ll lead — that will shape the conversation at Disrupt 2025, taking place October 27-29 at",
+      "url": "https://techcrunch.com/2025/07/14/the-votes-are-in-techcrunch-disrupt-2025-audience-choice-winners-revealed-for-roundtables-and-breakouts/",
+      "publishedAt": "2025-07-14T14:30:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "TechCrunch Events",
+      "tags": []
+    }
   ]
 }
