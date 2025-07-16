@@ -1,4 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
+import { revalidatePath } from "next/cache";
 import { CrawlerEngine } from "../../../lib/crawler/crawler-engine";
 import { FileStorage } from "../../../lib/storage/file-storage";
 
@@ -42,19 +43,29 @@ export async function POST(request: NextRequest) {
     const body = await request.json();
     const { source } = body;
 
+    let result;
     if (source) {
       // Crawl specific source
-      const result = await CrawlerEngine.crawlSite(source);
-      return NextResponse.json(result);
+      result = await CrawlerEngine.crawlSite(source);
     } else {
       // Crawl all sources
       const results = await CrawlerEngine.crawlAllSources();
-      return NextResponse.json({
+      result = {
         success: true,
         results,
         timestamp: new Date(),
-      });
+      };
     }
+
+    // Trigger ISR revalidation after successful crawling
+    if (result.success) {
+      console.log("🔄 Triggering ISR revalidation after crawl...");
+      revalidatePath("/");
+      revalidatePath("/bookmarks");
+      revalidatePath("/sources");
+    }
+
+    return NextResponse.json(result);
   } catch (error) {
     console.error("Error triggering source crawl:", error);
     return NextResponse.json(

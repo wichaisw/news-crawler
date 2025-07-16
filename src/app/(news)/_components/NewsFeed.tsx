@@ -9,15 +9,37 @@ import { useNewsView } from "../_hooks/useNewsView";
 import { useBookmarks } from "../_hooks/useBookmarks";
 import DateSelector from "./DateSelector";
 
-export default function NewsFeed() {
-  const [articles, setArticles] = useState<NewsItem[]>([]);
-  const [loading, setLoading] = useState(true);
+interface InitialData {
+  dates: string[];
+  initialNews: {
+    articles: NewsItem[];
+    total: number;
+    page: number;
+    limit: number;
+    hasMore: boolean;
+  };
+  selectedDate: string | null;
+}
+
+interface NewsFeedProps {
+  initialData: InitialData;
+}
+
+export default function NewsFeed({ initialData }: NewsFeedProps) {
+  const [articles, setArticles] = useState<NewsItem[]>(
+    initialData.initialNews.articles
+  );
+  const [loading, setLoading] = useState(false); // Start with false since we have initial data
   const [error, setError] = useState<string | null>(null);
-  const [selectedDate, setSelectedDate] = useState<string | null>(null);
-  const [availableDates, setAvailableDates] = useState<string[]>([]);
+  const [selectedDate, setSelectedDate] = useState<string | null>(
+    initialData.selectedDate
+  );
+  const [availableDates] = useState<string[]>(initialData.dates);
   const [currentPage, setCurrentPage] = useState(1);
-  const [hasMore, setHasMore] = useState(false);
-  const [totalArticles, setTotalArticles] = useState(0);
+  const [hasMore, setHasMore] = useState(initialData.initialNews.hasMore);
+  const [totalArticles, setTotalArticles] = useState(
+    initialData.initialNews.total
+  );
   const [loadingMore, setLoadingMore] = useState(false);
 
   const { viewMode, showDescription, toggleViewMode, toggleDescription } =
@@ -26,34 +48,15 @@ export default function NewsFeed() {
 
   const ITEMS_PER_PAGE = 20;
 
+  // Remove the initial useEffect calls since we have initial data
+  // Only fetch when date changes (not on initial load)
   useEffect(() => {
-    fetchAvailableDates();
-  }, []);
-
-  useEffect(() => {
-    if (availableDates.length > 0) {
-      setSelectedDate(availableDates[0]); // Set to most recent date
-    }
-  }, [availableDates]);
-
-  useEffect(() => {
-    if (selectedDate) {
+    if (selectedDate && selectedDate !== initialData.selectedDate) {
       fetchNews(selectedDate, 1, true);
     }
-  }, [selectedDate]);
+  }, [selectedDate, initialData.selectedDate]);
 
-  const fetchAvailableDates = async () => {
-    try {
-      const response = await fetch("/api/source");
-      const data = await response.json();
-
-      if (response.ok && data.dates) {
-        setAvailableDates(data.dates);
-      }
-    } catch (error) {
-      console.error("Failed to fetch available dates:", error);
-    }
-  };
+  // fetchAvailableDates is no longer needed since we get dates from initialData
 
   const fetchNews = async (
     date: string,
