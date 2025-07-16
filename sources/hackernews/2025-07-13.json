@@ -124,6 +124,17 @@
       "tags": []
     },
     {
+      "id": "g5ppcg",
+      "title": "Algorithms for making interesting organic simulations",
+      "description": "Score: 42 | Comments: 4 | Posted by todsacerdoti",
+      "url": "https://bleuje.com/physarum-explanation/",
+      "publishedAt": "2025-07-13T16:59:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    },
+    {
       "id": "ktpzwq",
       "title": "Show HN: A Raycast-compatible launcher for Linux",
       "description": "Score: 169 | Comments: 50 | Posted by ByteAtATime",
@@ -143,6 +154,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "znano",
+      "tags": []
+    },
+    {
+      "id": "3q7yic",
+      "title": "A quick look at unprivileged sandboxing",
+      "description": "Score: 52 | Comments: 21 | Posted by zdw",
+      "url": "https://www.uninformativ.de/blog/postings/2025-07-13/0/POSTING-en.html",
+      "publishedAt": "2025-07-13T15:41:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
       "tags": []
     },
     {
@@ -201,6 +223,17 @@
       "tags": []
     },
     {
+      "id": "9ot1gs",
+      "title": "Show HN: I built this to talk Danish to my girlfriend – works with any language",
+      "description": "Score: 180 | Comments: 98 | Posted by lil_csom",
+      "url": "https://menerdu.vercel.app/",
+      "publishedAt": "2025-07-13T11:38:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lil_csom",
+      "tags": []
+    },
+    {
       "id": "3qx37l",
       "title": "Understanding Tool Calling in LLMs – Step-by-Step with REST and Spring AI",
       "description": "Score: 89 | Comments: 24 | Posted by muthuishere",
@@ -223,6 +256,17 @@
       "tags": []
     },
     {
+      "id": "5ae9ej",
+      "title": "Lorem Gibson",
+      "description": "Score: 127 | Comments: 23 | Posted by DyslexicAtheist",
+      "url": "http://loremgibson.com/",
+      "publishedAt": "2025-07-13T08:39:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "DyslexicAtheist",
+      "tags": []
+    },
+    {
       "id": "hkq81d",
       "title": "Lua beats MicroPython for embedded devs",
       "description": "Score: 81 | Comments: 67 | Posted by willhschmid",
@@ -242,6 +286,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "keiferski",
+      "tags": []
+    },
+    {
+      "id": "awo0nx",
+      "title": "The Symbol Grounding Problem (1990)",
+      "description": "Score: 7 | Comments: 0 | Posted by Fibra",
+      "url": "https://arxiv.org/html/cs/9906002",
+      "publishedAt": "2025-07-13T01:00:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Fibra",
+      "tags": []
+    },
+    {
+      "id": "4a2nun",
+      "title": "Petabit-class transmission over > 1000 km using standard 19-core optical fiber",
+      "description": "Score: 94 | Comments: 48 | Posted by the_arun",
+      "url": "https://www.nict.go.jp/en/press/2025/05/29-1.html",
+      "publishedAt": "2025-07-13T00:06:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "the_arun",
       "tags": []
     }
   ]

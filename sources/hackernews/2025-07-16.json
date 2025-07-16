@@ -1,0 +1,127 @@
+{
+  "date": "2025-07-16",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "wvqoci",
+      "title": "Marcus compressed all human knowledge into one word",
+      "description": "Score: 3 | Comments: 0 | Posted by parisidau",
+      "url": "https://hey.paris/fiction/signal-to-noise/",
+      "publishedAt": "2025-07-16T05:43:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "parisidau",
+      "tags": []
+    },
+    {
+      "id": "15m7bu",
+      "title": "These states are America's worst for quality of life in 2025",
+      "description": "Score: 24 | Comments: 22 | Posted by KnuthIsGod",
+      "url": "https://www.cnbc.com/2025/07/14/americas-worst-places-quality-of-life-top-states-for-business.html",
+      "publishedAt": "2025-07-16T04:45:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "KnuthIsGod",
+      "tags": []
+    },
+    {
+      "id": "8mc42j",
+      "title": "Tilck: A Tiny Linux-Compatible Kernel",
+      "description": "Score: 49 | Comments: 8 | Posted by chubot",
+      "url": "https://github.com/vvaltchev/tilck",
+      "publishedAt": "2025-07-16T03:50:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "chubot",
+      "tags": []
+    },
+    {
+      "id": "ik96pk",
+      "title": "Cloudflare 1.1.1.1 Incident on July 14, 2025",
+      "description": "Score: 80 | Comments: 20 | Posted by nomaxx117",
+      "url": "https://blog.cloudflare.com/cloudflare-1-1-1-1-incident-on-july-14-2025/",
+      "publishedAt": "2025-07-16T03:44:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nomaxx117",
+      "tags": []
+    },
+    {
+      "id": "u1hnuy",
+      "title": "Lead GrapheneOS developer was forcibly conscripted into a war",
+      "description": "Score: 15 | Comments: 8 | Posted by pabs3",
+      "url": "https://grapheneos.social/@GrapheneOS/114825492698412916",
+      "publishedAt": "2025-07-16T03:26:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pabs3",
+      "tags": []
+    },
+    {
+      "id": "9m884a",
+      "title": "Six Years of Geminigeminiprotocol.net",
+      "description": "Score: 78 | Comments: 17 | Posted by brson",
+      "url": "https://geminiprotocol.net/news/2025_06_20.gmi",
+      "publishedAt": "2025-07-16T03:09:38.245Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "brson",
+      "tags": []
+    },
+    {
+      "id": "2jis0z",
+      "title": "Congress moves to reject bulk of White House's proposed NASA cuts",
+      "description": "Score: 85 | Comments: 44 | Posted by DocFeind",
+      "url": "https://arstechnica.com/space/2025/07/congress-moves-to-reject-bulk-of-white-houses-proposed-nasa-cuts/",
+      "publishedAt": "2025-07-16T02:56:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "DocFeind",
+      "tags": []
+    },
+    {
+      "id": "9m884a",
+      "title": "Six Years of Gemini",
+      "description": "Score: 79 | Comments: 17 | Posted by brson",
+      "url": "https://geminiprotocol.net/news/2025_06_20.gmi",
+      "publishedAt": "2025-07-16T02:37:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "brson",
+      "tags": []
+    },
+    {
+      "id": "k3090y",
+      "title": "Show HN: Clippy – a better pbcopy for macOS that handles files properly",
+      "description": "Score: 8 | Comments: 0 | Posted by nberkman",
+      "url": "https://github.com/neilberkman/clippy",
+      "publishedAt": "2025-07-16T01:42:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nberkman",
+      "tags": []
+    },
+    {
+      "id": "anpt2y",
+      "title": "Uncontrolled File Write/Arbitrary File Creation",
+      "description": "Score: 7 | Comments: 2 | Posted by smartberry9",
+      "url": "https://hackerone.com/reports/3250117",
+      "publishedAt": "2025-07-16T00:11:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "smartberry9",
+      "tags": []
+    },
+    {
+      "id": "u71mef",
+      "title": "GPUHammer: Rowhammer attacks on GPU memories are practical",
+      "description": "Score: 138 | Comments: 40 | Posted by jonbaer",
+      "url": "https://gpuhammer.com/",
+      "publishedAt": "2025-07-16T00:05:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jonbaer",
+      "tags": []
+    }
+  ]
+}

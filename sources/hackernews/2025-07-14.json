@@ -135,6 +135,17 @@
       "tags": []
     },
     {
+      "id": "qtuns9",
+      "title": "Encrypting files with passkeys and age",
+      "description": "Score: 97 | Comments: 50 | Posted by thadt",
+      "url": "https://words.filippo.io/passkey-encryption/",
+      "publishedAt": "2025-07-14T16:31:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thadt",
+      "tags": []
+    },
+    {
       "id": "mfdsfl",
       "title": "Embedding user-defined indexes in Apache Parquet",
       "description": "Score: 103 | Comments: 16 | Posted by jasim",
