@@ -157,6 +157,17 @@
       "tags": []
     },
     {
+      "id": "3mtydi",
+      "title": "Show HN: BloomSearch – Keyword search with hierarchical Bloom filters",
+      "description": "Score: 57 | Comments: 12 | Posted by dangoodmanUT",
+      "url": "https://github.com/danthegoodman1/bloomsearch",
+      "publishedAt": "2025-07-13T16:02:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dangoodmanUT",
+      "tags": []
+    },
+    {
       "id": "3q7yic",
       "title": "A quick look at unprivileged sandboxing",
       "description": "Score: 52 | Comments: 21 | Posted by zdw",
@@ -234,6 +245,28 @@
       "tags": []
     },
     {
+      "id": "n4wf8g",
+      "title": "AI therapy bots fuel delusions and give dangerous advice, Stanford study finds",
+      "description": "Score: 196 | Comments: 116 | Posted by pseudolus",
+      "url": "https://arstechnica.com/ai/2025/07/ai-therapy-bots-fuel-delusions-and-give-dangerous-advice-stanford-study-finds/",
+      "publishedAt": "2025-07-13T10:26:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pseudolus",
+      "tags": []
+    },
+    {
+      "id": "3tcexp",
+      "title": "What's happening to reading?",
+      "description": "Score: 148 | Comments: 280 | Posted by Kaibeezy",
+      "url": "https://www.newyorker.com/culture/open-questions/whats-happening-to-reading",
+      "publishedAt": "2025-07-13T10:16:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Kaibeezy",
+      "tags": []
+    },
+    {
       "id": "3qx37l",
       "title": "Understanding Tool Calling in LLMs – Step-by-Step with REST and Spring AI",
       "description": "Score: 89 | Comments: 24 | Posted by muthuishere",
@@ -242,6 +275,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "muthuishere",
+      "tags": []
+    },
+    {
+      "id": "8wscnf",
+      "title": "Pull Interactions from POSSEd Content",
+      "description": "Score: 8 | Comments: 0 | Posted by ggirelli",
+      "url": "https://ggirelli.info/blog/2025/07/13/inter-pull",
+      "publishedAt": "2025-07-13T09:06:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ggirelli",
       "tags": []
     },
     {
@@ -278,6 +322,17 @@
       "tags": []
     },
     {
+      "id": "9vi2b9",
+      "title": "Atopile – Design circuit boards with code",
+      "description": "Score: 92 | Comments: 25 | Posted by poly2it",
+      "url": "https://atopile.io/atopile/introduction",
+      "publishedAt": "2025-07-13T08:05:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "poly2it",
+      "tags": []
+    },
+    {
       "id": "7zmqla",
       "title": "Reading Neuromancer for the first time in 2025",
       "description": "Score: 396 | Comments: 345 | Posted by keiferski",
@@ -286,6 +341,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "keiferski",
+      "tags": []
+    },
+    {
+      "id": "97q3fj",
+      "title": "Show HN: 0xDEAD//TYPE – A fast-paced typing shooter with retro vibes",
+      "description": "Score: 71 | Comments: 20 | Posted by theden",
+      "url": "https://0xdeadtype.theden.sh/",
+      "publishedAt": "2025-07-13T02:52:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "theden",
       "tags": []
     },
     {

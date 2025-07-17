@@ -1,0 +1,94 @@
+{
+  "date": "2025-07-17",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "a9fp0",
+      "title": "Show HN: Linux CLI tool to provide mutex locks for long running bash ops",
+      "description": "Score: 9 | Comments: 2 | Posted by bigattichouse",
+      "url": "https://github.com/bigattichouse/waitlock",
+      "publishedAt": "2025-07-17T04:58:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bigattichouse",
+      "tags": []
+    },
+    {
+      "id": "wg1wx9",
+      "title": "Original Xbox Hacks: The A20 CPU Gate (2021)",
+      "description": "Score: 37 | Comments: 2 | Posted by mattweinberg",
+      "url": "https://connortumbleson.com/2021/07/19/the-xbox-and-a20-line/",
+      "publishedAt": "2025-07-17T03:22:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mattweinberg",
+      "tags": []
+    },
+    {
+      "id": "c7ou4m",
+      "title": "Show HN: Cobble – A hard daily word game",
+      "description": "Score: 16 | Comments: 8 | Posted by wolfred",
+      "url": "https://wilf.live/cobble/",
+      "publishedAt": "2025-07-17T01:12:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wolfred",
+      "tags": []
+    },
+    {
+      "id": "hzauc9",
+      "title": "“Reading Rainbow” was created to combat summer reading slumpssmithsonianmag.com",
+      "description": "Score: 137 | Comments: 41 | Posted by arbesman",
+      "url": "https://www.smithsonianmag.com/smithsonian-institution/to-combat-summer-reading-slumps-this-timeless-childrens-television-show-tried-to-bridge-the-literacy-gap-with-the-magic-of-stories-180986984/",
+      "publishedAt": "2025-07-17T01:09:31.330Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "arbesman",
+      "tags": []
+    },
+    {
+      "id": "hzauc9",
+      "title": "“Reading Rainbow” was created to combat summer reading slumps",
+      "description": "Score: 137 | Comments: 41 | Posted by arbesman",
+      "url": "https://www.smithsonianmag.com/smithsonian-institution/to-combat-summer-reading-slumps-this-timeless-childrens-television-show-tried-to-bridge-the-literacy-gap-with-the-magic-of-stories-180986984/",
+      "publishedAt": "2025-07-17T00:43:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "arbesman",
+      "tags": []
+    },
+    {
+      "id": "44uwv5",
+      "title": "I was wrong about robots.txt",
+      "description": "Score: 61 | Comments: 47 | Posted by EPendragon",
+      "url": "https://evgeniipendragon.com/posts/i-was-wrong-about-robots-txt/",
+      "publishedAt": "2025-07-17T00:35:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "EPendragon",
+      "tags": []
+    },
+    {
+      "id": "i53cgk",
+      "title": "Gaslight-driven development",
+      "description": "Score: 114 | Comments: 76 | Posted by theodorejb",
+      "url": "https://tonsky.me/blog/gaslight-driven-development/",
+      "publishedAt": "2025-07-17T00:26:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "theodorejb",
+      "tags": []
+    },
+    {
+      "id": "ruj8u9",
+      "title": "Mistakes Microsoft made in the Xbox security system (2005)",
+      "description": "Score: 46 | Comments: 13 | Posted by davikr",
+      "url": "https://xboxdevwiki.net/17_Mistakes_Microsoft_Made_in_the_Xbox_Security_System",
+      "publishedAt": "2025-07-17T00:23:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "davikr",
+      "tags": []
+    }
+  ]
+}
