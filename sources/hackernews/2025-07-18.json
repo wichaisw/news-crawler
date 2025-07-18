@@ -1,0 +1,171 @@
+{
+  "date": "2025-07-18",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "ew54dd",
+      "title": "Why is AI so slow to spread?",
+      "description": "Score: 6 | Comments: 4 | Posted by 1vuio0pswjnm7",
+      "url": "https://www.economist.com/finance-and-economics/2025/07/17/why-is-ai-so-slow-to-spread-economics-can-explain",
+      "publishedAt": "2025-07-18T05:38:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "1vuio0pswjnm7",
+      "tags": []
+    },
+    {
+      "id": "q31sd6",
+      "title": "Apple bans entire dev account, no reason given",
+      "description": "Score: 13 | Comments: 5 | Posted by eecc",
+      "url": "https://twitter.com/rameerez/status/1945784476723810739",
+      "publishedAt": "2025-07-18T05:37:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "eecc",
+      "tags": []
+    },
+    {
+      "id": "dqm90r",
+      "title": "Meta Poaches Two More Apple AI Executives",
+      "description": "Score: 6 | Comments: 0 | Posted by alwillis",
+      "url": "https://www.macrumors.com/2025/07/17/meta-poaches-two-more-apple-ai-executives/",
+      "publishedAt": "2025-07-18T05:30:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "alwillis",
+      "tags": []
+    },
+    {
+      "id": "mwukcv",
+      "title": "YASA's axial flux motor achieved a record, doubling industry benchmarks",
+      "description": "Score: 3 | Comments: 0 | Posted by breve",
+      "url": "https://electrek.co/2025/07/17/yasas-axial-flux-motor-achieved-an-unofficial-world-record-doubling-industry-benchmarks/",
+      "publishedAt": "2025-07-18T05:02:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "breve",
+      "tags": []
+    },
+    {
+      "id": "7n4ud4",
+      "title": "News publishers take paywall-blocker 12ft.io offline",
+      "description": "Score: 9 | Comments: 2 | Posted by LordAtlas",
+      "url": "https://www.theverge.com/news/709209/news-media-alliance-12ft-io-takedown-paywall",
+      "publishedAt": "2025-07-18T04:56:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "LordAtlas",
+      "tags": []
+    },
+    {
+      "id": "yhgtoa",
+      "title": "Where Congress's Cuts Threaten Access to PBS and NPR",
+      "description": "Score: 7 | Comments: 1 | Posted by NN88",
+      "url": "https://www.nytimes.com/interactive/2025/07/18/business/media/house-rescission-vote-pbs-npr.html",
+      "publishedAt": "2025-07-18T04:55:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "NN88",
+      "tags": []
+    },
+    {
+      "id": "a6r3o3",
+      "title": "This month in Servo: network inspector, a11y first steps, WebDriver, and more",
+      "description": "Score: 3 | Comments: 0 | Posted by robin_reala",
+      "url": "https://servo.org/blog/2025/07/17/this-month-in-servo/",
+      "publishedAt": "2025-07-18T04:46:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "robin_reala",
+      "tags": []
+    },
+    {
+      "id": "w8orps",
+      "title": "Fully homomorphic encryption and the dawn of a private internetbozmen.io",
+      "description": "Score: 91 | Comments: 18 | Posted by barisozmen",
+      "url": "https://bozmen.io/fhe",
+      "publishedAt": "2025-07-18T04:09:26.303Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "barisozmen",
+      "tags": []
+    },
+    {
+      "id": "w8orps",
+      "title": "Fully homomorphic encryption and the dawn of a private internet",
+      "description": "Score: 91 | Comments: 18 | Posted by barisozmen",
+      "url": "https://bozmen.io/fhe",
+      "publishedAt": "2025-07-18T03:49:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "barisozmen",
+      "tags": []
+    },
+    {
+      "id": "dglk2r",
+      "title": "NIH is cheaper than the wrong dependencylewiscampbell.tech",
+      "description": "Score: 96 | Comments: 45 | Posted by todsacerdoti",
+      "url": "https://lewiscampbell.tech/blog/250718.html",
+      "publishedAt": "2025-07-18T03:09:26.303Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "dglk2r",
+      "title": "NIH is cheaper than the wrong dependency",
+      "description": "Score: 96 | Comments: 46 | Posted by todsacerdoti",
+      "url": "https://lewiscampbell.tech/blog/250718.html",
+      "publishedAt": "2025-07-18T02:27:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "2vd0gf",
+      "title": "USB-C hubs and my slow descent into madness (2021)",
+      "description": "Score: 106 | Comments: 79 | Posted by pabs3",
+      "url": "https://overengineer.dev/blog/2021/04/25/usb-c-hub-madness/",
+      "publishedAt": "2025-07-18T02:14:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pabs3",
+      "tags": []
+    },
+    {
+      "id": "lr149l",
+      "title": "Out Run: Amiga Edition – Launch Trailer [video]",
+      "description": "Score: 19 | Comments: 2 | Posted by msephton",
+      "url": "https://www.youtube.com/watch?v=WZzTp3vSC0g",
+      "publishedAt": "2025-07-18T01:30:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "msephton",
+      "tags": []
+    },
+    {
+      "id": "lkkx2j",
+      "title": "Louisiana cancels $3B coastal repair funded by oil spill settlement",
+      "description": "Score: 74 | Comments: 13 | Posted by geox",
+      "url": "https://apnews.com/article/louisiana-coastal-restoration-gulf-oil-spill-affaae2877bf250f636a633a14fbd0c7",
+      "publishedAt": "2025-07-18T00:45:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "geox",
+      "tags": []
+    },
+    {
+      "id": "cjczd2",
+      "title": "Astronomers Discover Rare Distant Object in Sync with Neptune",
+      "description": "Score: 31 | Comments: 4 | Posted by MaysonL",
+      "url": "https://pweb.cfa.harvard.edu/news/astronomers-discover-rare-distant-object-sync-neptune",
+      "publishedAt": "2025-07-18T00:01:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "MaysonL",
+      "tags": []
+    }
+  ]
+}

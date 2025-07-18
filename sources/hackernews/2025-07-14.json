@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "q3f18d",
+      "title": "Delaunay Mesh Generation (2012)",
+      "description": "Score: 17 | Comments: 7 | Posted by ibobev",
+      "url": "https://people.eecs.berkeley.edu/~jrs/meshbook.html",
+      "publishedAt": "2025-07-14T23:01:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
+      "tags": []
+    },
+    {
       "id": "3qy58x",
       "title": "DEWLine Museum – The Distant Early Warning Radar Line",
       "description": "Score: 46 | Comments: 14 | Posted by reaperducer",
@@ -22,6 +33,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "bookofjoe",
+      "tags": []
+    },
+    {
+      "id": "n5bc3p",
+      "title": "The End of Windows 10: a toolkit for community repair groups",
+      "description": "Score: 8 | Comments: 2 | Posted by T-A",
+      "url": "https://therestartproject.org/end-of-windows-10-toolkit-for-repair-groups/",
+      "publishedAt": "2025-07-14T21:54:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "T-A",
       "tags": []
     },
     {
@@ -179,6 +201,17 @@
       "tags": []
     },
     {
+      "id": "7bf3df",
+      "title": "Extending That XOR Trick to Billions of Rows",
+      "description": "Score: 43 | Comments: 1 | Posted by hundredwatt",
+      "url": "https://nochlin.com/blog/extending-that-xor-trick",
+      "publishedAt": "2025-07-14T16:15:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hundredwatt",
+      "tags": []
+    },
+    {
       "id": "95m8xc",
       "title": "Japanese grandparents create life-size Totoro with bus stop for grandkids (2020)",
       "description": "Score: 260 | Comments: 68 | Posted by NaOH",
@@ -253,6 +286,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "nateb2022",
+      "tags": []
+    },
+    {
+      "id": "7qajf2",
+      "title": "On doing hard things",
+      "description": "Score: 253 | Comments: 89 | Posted by speckx",
+      "url": "https://parv.bearblog.dev/kayaking/",
+      "publishedAt": "2025-07-14T14:50:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
       "tags": []
     },
     {
@@ -355,6 +399,17 @@
       "tags": []
     },
     {
+      "id": "q042zp",
+      "title": "Archaeologists discover tomb of first king of Caracol",
+      "description": "Score: 142 | Comments: 34 | Posted by divbzero",
+      "url": "https://uh.edu/news-events/stories/2025/july/07102025-caracol-chase-discovery-maya-ruler.php",
+      "publishedAt": "2025-07-14T06:21:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "divbzero",
+      "tags": []
+    },
+    {
       "id": "s6t1mv",
       "title": "Show HN: Refine – A Local Alternative to Grammarlyrefine.sh",
       "description": "Score: 172 | Comments: 73 | Posted by runjuu",
@@ -385,6 +440,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "WaitWaitWha",
+      "tags": []
+    },
+    {
+      "id": "p9ty3q",
+      "title": "Show HN: PlutoFilter- A single-header, zero-allocation image filter library in C",
+      "description": "Score: 57 | Comments: 11 | Posted by sammycage",
+      "url": "https://github.com/sammycage/plutofilter",
+      "publishedAt": "2025-07-14T03:57:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sammycage",
+      "tags": []
+    },
+    {
+      "id": "eb2qw5",
+      "title": "Writing a competitive BZip2 encoder in Ada from scratch in a few days (2024)",
+      "description": "Score: 101 | Comments: 56 | Posted by etrez",
+      "url": "https://gautiersblog.blogspot.com/2024/11/writing-bzip2-encoder-in-ada-from.html",
+      "publishedAt": "2025-07-14T02:36:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "etrez",
       "tags": []
     },
     {

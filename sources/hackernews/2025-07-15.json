@@ -135,6 +135,17 @@
       "tags": []
     },
     {
+      "id": "lzctvk",
+      "title": "Claude Code Unleashed",
+      "description": "Score: 32 | Comments: 5 | Posted by ymichael",
+      "url": "https://ymichael.com/2025/07/15/claude-code-unleashed",
+      "publishedAt": "2025-07-15T18:06:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ymichael",
+      "tags": []
+    },
+    {
       "id": "z9iutb",
       "title": "Designing for the Eye: Optical corrections in architecture and typography",
       "description": "Score: 141 | Comments: 21 | Posted by ArmageddonIt",
@@ -168,6 +179,17 @@
       "tags": []
     },
     {
+      "id": "th45z7",
+      "title": "Modular Interpreters and Visitors in Rust with Extensible Variants and CGP",
+      "description": "Score: 11 | Comments: 0 | Posted by PaulHoule",
+      "url": "https://contextgeneric.dev/blog/extensible-datatypes-part-2/",
+      "publishedAt": "2025-07-15T17:16:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "PaulHoule",
+      "tags": []
+    },
+    {
       "id": "sl9k76",
       "title": "To be a better programmer, write little proofs in your head",
       "description": "Score: 294 | Comments: 120 | Posted by mprast",
@@ -187,6 +209,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "calvinfo",
+      "tags": []
+    },
+    {
+      "id": "sm7cer",
+      "title": "What's going on with gene therapies?",
+      "description": "Score: 63 | Comments: 53 | Posted by nehal96",
+      "url": "https://nehalslearnings.substack.com/p/whats-going-on-with-gene-therapies",
+      "publishedAt": "2025-07-15T16:48:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nehal96",
       "tags": []
     },
     {
@@ -278,6 +311,28 @@
       "tags": []
     },
     {
+      "id": "onpx1b",
+      "title": "Game of trees hub",
+      "description": "Score: 26 | Comments: 7 | Posted by todsacerdoti",
+      "url": "https://gothub.org/",
+      "publishedAt": "2025-07-15T09:47:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "jmfpvj",
+      "title": "RisingWave: An Open‑Source Stream‑Processing and Management Platform",
+      "description": "Score: 24 | Comments: 3 | Posted by Sheldon_fun",
+      "url": "https://github.com/risingwavelabs/risingwave",
+      "publishedAt": "2025-07-15T09:16:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Sheldon_fun",
+      "tags": []
+    },
+    {
       "id": "3v23bm",
       "title": "Inside the box: Everything I did with an Arduino starter kit",
       "description": "Score: 36 | Comments: 4 | Posted by lopespm",
@@ -286,6 +341,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "lopespm",
+      "tags": []
+    },
+    {
+      "id": "4p0fxs",
+      "title": "A look at IBM's short-lived \"butterfly\" ThinkPad 701 of 1995",
+      "description": "Score: 56 | Comments: 12 | Posted by vontzy",
+      "url": "https://www.fastcompany.com/91356463/ibm-thinkpad-701-butterfly-keyboard",
+      "publishedAt": "2025-07-15T05:39:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vontzy",
       "tags": []
     },
     {
