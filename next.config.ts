@@ -1,8 +1,10 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  // Use static export for GitHub Pages deployment
-  output: "export",
+  // Use static export only in production for GitHub Pages deployment
+  ...(process.env.NODE_ENV === "production" && {
+    output: "export",
+  }),
   trailingSlash: true,
   basePath: process.env.NODE_ENV === "production" ? "/news-crawler" : "",
   images: {
