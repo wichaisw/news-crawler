@@ -201,6 +201,17 @@
       "tags": []
     },
     {
+      "id": "6tbey0",
+      "title": "The Halo Effect",
+      "description": "Score: 16 | Comments: 7 | Posted by iamwil",
+      "url": "https://kwokchain.com/2025/07/15/the-halo-effect/",
+      "publishedAt": "2025-07-15T16:57:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "iamwil",
+      "tags": []
+    },
+    {
       "id": "ybvpwp",
       "title": "Reflections on OpenAI",
       "description": "Score: 476 | Comments: 257 | Posted by calvinfo",
@@ -267,6 +278,17 @@
       "tags": []
     },
     {
+      "id": "d135is",
+      "title": "Show HN: Simulating autonomous drone formations",
+      "description": "Score: 15 | Comments: 3 | Posted by wanderinglight",
+      "url": "https://github.com/sushrut141/ketu",
+      "publishedAt": "2025-07-15T15:18:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wanderinglight",
+      "tags": []
+    },
+    {
       "id": "5gw1w0",
       "title": "Blender 4.5 LTS",
       "description": "Score: 297 | Comments: 87 | Posted by obdev",
@@ -289,6 +311,28 @@
       "tags": []
     },
     {
+      "id": "1m5jhz",
+      "title": "HathiTrust Digital Library",
+      "description": "Score: 61 | Comments: 18 | Posted by djoldman",
+      "url": "https://www.hathitrust.org/",
+      "publishedAt": "2025-07-15T14:32:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "djoldman",
+      "tags": []
+    },
+    {
+      "id": "57eopo",
+      "title": "Show HN: OrioleDB Beta12 Features and Benchmarks",
+      "description": "Score: 19 | Comments: 2 | Posted by akorotkov",
+      "url": "https://www.orioledb.com/blog/orioledb-beta12-benchmarks",
+      "publishedAt": "2025-07-15T12:22:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "akorotkov",
+      "tags": []
+    },
+    {
       "id": "teonas",
       "title": "A Rust shaped hole",
       "description": "Score: 74 | Comments: 134 | Posted by vishnumohandas",
@@ -300,6 +344,28 @@
       "tags": []
     },
     {
+      "id": "30ahol",
+      "title": "C++: zero-cost static initialization",
+      "description": "Score: 41 | Comments: 8 | Posted by oecumena",
+      "url": "https://cofault.com/zero-cost-static.html",
+      "publishedAt": "2025-07-15T11:39:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "oecumena",
+      "tags": []
+    },
+    {
+      "id": "1gfkdo",
+      "title": "How to Get Foreign Keys Horribly Wrong",
+      "description": "Score: 56 | Comments: 27 | Posted by Bogdanp",
+      "url": "https://hakibenita.com/django-foreign-keys",
+      "publishedAt": "2025-07-15T11:36:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Bogdanp",
+      "tags": []
+    },
+    {
       "id": "xvy2lu",
       "title": "Show HN: We made our own inference engine for Apple Silicon",
       "description": "Score: 151 | Comments: 44 | Posted by darkolorin",
@@ -308,6 +374,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "darkolorin",
+      "tags": []
+    },
+    {
+      "id": "h2z6vo",
+      "title": "Making a StringBuffer in C, and questioning my sanity",
+      "description": "Score: 33 | Comments: 30 | Posted by coneonthefloor",
+      "url": "https://briandouglas.ie/string-buffer-c/",
+      "publishedAt": "2025-07-15T10:48:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "coneonthefloor",
+      "tags": []
+    },
+    {
+      "id": "vr96xt",
+      "title": "Cats as Horror Movie Villains",
+      "description": "Score: 6 | Comments: 3 | Posted by mparramon",
+      "url": "https://gwern.net/cat-horror",
+      "publishedAt": "2025-07-15T10:19:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mparramon",
       "tags": []
     },
     {
@@ -341,6 +429,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "lopespm",
+      "tags": []
+    },
+    {
+      "id": "gnaski",
+      "title": "Trying Guix: A Nixer's impressions",
+      "description": "Score: 169 | Comments: 52 | Posted by todsacerdoti",
+      "url": "https://tazj.in/blog/trying-guix",
+      "publishedAt": "2025-07-15T08:11:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
       "tags": []
     },
     {
@@ -462,6 +561,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "littlexsparkee",
+      "tags": []
+    },
+    {
+      "id": "vdxv2h",
+      "title": "Benben: An audio player for the terminal, written in Common Lisp",
+      "description": "Score: 64 | Comments: 6 | Posted by trocado",
+      "url": "https://chiselapp.com/user/MistressRemilia/repository/benben/home",
+      "publishedAt": "2025-07-15T00:19:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "trocado",
       "tags": []
     }
   ]

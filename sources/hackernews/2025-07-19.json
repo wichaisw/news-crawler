@@ -1,0 +1,138 @@
+{
+  "date": "2025-07-19",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "79x49d",
+      "title": "The Great Unracking: Saying goodbye to the servers at our physical datacenter",
+      "description": "Score: 7 | Comments: 2 | Posted by treve",
+      "url": "https://stackoverflow.blog/2025/07/16/the-great-unracking-saying-goodbye-to-the-servers-at-our-physical-datacenter/",
+      "publishedAt": "2025-07-19T05:06:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "treve",
+      "tags": []
+    },
+    {
+      "id": "6ei408",
+      "title": "Microsoft Office is using an artificially complex XML schema as a lock-in tool",
+      "description": "Score: 17 | Comments: 6 | Posted by firexcy",
+      "url": "https://blog.documentfoundation.org/blog/2025/07/18/artificially-complex-xml-schema-as-lock-in-tool/",
+      "publishedAt": "2025-07-19T04:22:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "firexcy",
+      "tags": []
+    },
+    {
+      "id": "a41zl7",
+      "title": "Hyatt Hotels are using algorithmic Rest \"smoking detectors.\"",
+      "description": "Score: 33 | Comments: 8 | Posted by RebeccaTheDev",
+      "url": "https://threadreaderapp.com/thread/1945959030851035223.html",
+      "publishedAt": "2025-07-19T04:02:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "RebeccaTheDev",
+      "tags": []
+    },
+    {
+      "id": "1ts8kg",
+      "title": "My Ultimate Self-Hosting Setupcodecaptured.com",
+      "description": "Score: 138 | Comments: 46 | Posted by mirdaki",
+      "url": "https://codecaptured.com/blog/my-ultimate-self-hosting-setup/",
+      "publishedAt": "2025-07-19T03:08:25.037Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mirdaki",
+      "tags": []
+    },
+    {
+      "id": "b4eke9",
+      "title": "It Would Be Good If the AI Bubble Burst",
+      "description": "Score: 21 | Comments: 9 | Posted by extesy",
+      "url": "https://www.stephendiehl.com/posts/ai_bubble/",
+      "publishedAt": "2025-07-19T02:57:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "extesy",
+      "tags": []
+    },
+    {
+      "id": "1ts8kg",
+      "title": "My Ultimate Self-Hosting Setup",
+      "description": "Score: 138 | Comments: 46 | Posted by mirdaki",
+      "url": "https://codecaptured.com/blog/my-ultimate-self-hosting-setup/",
+      "publishedAt": "2025-07-19T02:56:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mirdaki",
+      "tags": []
+    },
+    {
+      "id": "ebijqc",
+      "title": "Advertising Without Signal: The Rise of the Grifter Equilibrium",
+      "description": "Score: 30 | Comments: 11 | Posted by neehao",
+      "url": "https://www.gojiberries.io/advertising-without-signal-whe-amazon-ads-confuse-more-than-they-clarify/",
+      "publishedAt": "2025-07-19T02:25:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "neehao",
+      "tags": []
+    },
+    {
+      "id": "yifmau",
+      "title": "We do not break userspace (2012)",
+      "description": "Score: 62 | Comments: 45 | Posted by surprisetalk",
+      "url": "https://lore.kernel.org/all/CA+55aFy98A+LJK4+GWMcbzaa1zsPBRo76q+ioEjbx-uaMKH6Uw@mail.gmail.com/",
+      "publishedAt": "2025-07-19T01:25:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
+      "id": "8z4937",
+      "title": "Bun adds pnpm-style isolated installation mode",
+      "description": "Score: 47 | Comments: 5 | Posted by nateb2022",
+      "url": "https://github.com/oven-sh/bun/pull/20440",
+      "publishedAt": "2025-07-19T00:43:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nateb2022",
+      "tags": []
+    },
+    {
+      "id": "juzer9",
+      "title": "Mr Browser – Macintosh Repository file downloader that runs directly on 68k Macs",
+      "description": "Score: 53 | Comments: 7 | Posted by zdw",
+      "url": "https://www.macintoshrepository.org/44146-mr-browser",
+      "publishedAt": "2025-07-19T00:20:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "2ip9gb",
+      "title": "Intel Announces It's Shutting Down Clear Linux",
+      "description": "Score: 45 | Comments: 12 | Posted by gpi",
+      "url": "https://www.phoronix.com/news/Intel-Ends-Clear-Linux",
+      "publishedAt": "2025-07-19T00:12:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gpi",
+      "tags": []
+    },
+    {
+      "id": "redckb",
+      "title": "Debcraft – Easiest way to modify and build Debian packages",
+      "description": "Score: 34 | Comments: 7 | Posted by pabs3",
+      "url": "https://optimizedbyotto.com/post/debcraft-easy-debian-packaging/",
+      "publishedAt": "2025-07-19T00:04:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pabs3",
+      "tags": []
+    }
+  ]
+}
