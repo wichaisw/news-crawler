@@ -145,8 +145,7 @@ npm run dev
 ```bash
 npm run dev          # Start development server with Turbopack
 npm run build        # Build for production (with API routes)
-npm run build:static # Build optimized static site for GitHub Pages
-npm run build:github-pages # Alias for build:static
+npm run build:github-pages # Build optimized static site for GitHub Pages
 npm run start        # Start production server
 npm run lint         # Run ESLint
 npm run test         # Run tests
@@ -205,6 +204,9 @@ export const dynamic = "force-static"; // SSG for all pages
 ```bash
 # Prepare for deployment
 npm run deploy:prep
+
+# Or build manually
+npm run build:github-pages
 
 # The out/ directory is ready for GitHub Pages
 # Push to GitHub and enable Pages in repository settings

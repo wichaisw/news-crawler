@@ -5,8 +5,7 @@
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
-    "build:static": "tsx scripts/build-for-github-pages.ts",
-    "build:github-pages": "npm run build:static",
+    "build:github-pages": "tsx scripts/build-for-github-pages.ts",
     "start": "next start",
     "lint": "next lint",
     "test": "jest",
@@ -16,7 +15,7 @@
     "generate-dates": "tsx scripts/generate-dates-index.ts",
     "crawl": "tsx scripts/crawl-all-sources.ts",
     "postcrawl": "cp -R sources public/",
-    "deploy:prep": "npm run crawl && npm run generate-dates && npm run build:static"
+    "deploy:prep": "npm run crawl && npm run generate-dates && npm run build:github-pages"
   },
   "dependencies": {
     "@heroicons/react": "^2.2.0",

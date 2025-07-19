@@ -9,7 +9,7 @@ async function buildForGitHubPages() {
   try {
     console.log("🔨 Building optimized static site for GitHub Pages...");
 
-    // Build static site (API routes will be automatically excluded by Next.js static export)
+    // Build static site (Next.js will handle API routes appropriately)
     console.log("🏗️ Building static site with SSG...");
     execSync("next build", {
       stdio: "inherit",
@@ -27,9 +27,7 @@ async function buildForGitHubPages() {
     console.log("✅ GitHub Pages build completed!");
     console.log("📊 Build optimized for:");
     console.log("   - Static Site Generation (SSG) for all pages");
-    console.log(
-      "   - API routes automatically excluded by Next.js static export"
-    );
+    console.log("   - API routes handled by Next.js static export");
     console.log(
       "   - Sources page shows development-only message in production"
     );
