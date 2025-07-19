@@ -248,6 +248,11 @@ make run
 - **Solution**: Modified `next.config.ts` to only use static export in production builds
 - **Result**: Full functionality in development, static export in production
 
+### Static Fetchers for GitHub Pages
+- **Problem**: Static fetchers were hardcoded to use GitHub Pages URL, causing issues in development
+- **Solution**: Updated `StaticNewsFetcher` and `StaticSourceFetcher` to use local API routes in development and GitHub Pages URL in production
+- **Result**: Seamless development experience with automatic production deployment
+
 ## Performance
 
 - **Initial Page Load**: ~100-200ms (pre-rendered)
