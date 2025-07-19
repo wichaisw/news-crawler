@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "hz1oz3",
+      "title": "OpenAI claims Gold-medal performance at IMO 2025",
+      "description": "Score: 7 | Comments: 0 | Posted by Davidzheng",
+      "url": "https://twitter.com/alexwei_/status/1946477742855532918",
+      "publishedAt": "2025-07-19T09:11:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Davidzheng",
+      "tags": []
+    },
+    {
       "id": "o3cyqj",
       "title": "Why your website should be under 14kB in sizeendtimes.dev",
       "description": "Score: 36 | Comments: 10 | Posted by truxs",
