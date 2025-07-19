@@ -56,20 +56,36 @@ async function crawlAllSources() {
 /**
  * Generate dates.json index file for static hosting
  * This replicates the logic from FileStorage.getAvailableDates() for all sources
+ * Only includes dates that have data for ALL sources to prevent 404 errors
  */
 async function generateDatesIndex() {
   try {
     const sources = ["theverge", "techcrunch", "blognone", "hackernews"];
-    const allDates = new Set<string>();
+    const sourceDates: Record<string, string[]> = {};
 
     // Collect all available dates from all sources
     for (const source of sources) {
       try {
         const dates = await FileStorage.getAvailableDates(source);
-        dates.forEach((date) => allDates.add(date));
+        sourceDates[source] = dates;
         console.log(`   Found ${dates.length} dates for ${source}`);
       } catch (error) {
         console.warn(`   Failed to get dates for ${source}:`, error);
+        sourceDates[source] = [];
+      }
+    }
+
+    // Find dates that exist for ALL sources
+    const allDates = new Set<string>();
+    const firstSource = sources[0];
+    if (firstSource && sourceDates[firstSource]) {
+      for (const date of sourceDates[firstSource]) {
+        const hasAllSources = sources.every(
+          (source) => sourceDates[source] && sourceDates[source].includes(date)
+        );
+        if (hasAllSources) {
+          allDates.add(date);
+        }
       }
     }
 
@@ -82,6 +98,10 @@ async function generateDatesIndex() {
       lastUpdated: new Date().toISOString(),
       totalSources: sources.length,
       sources: sources,
+      // Add metadata about date availability
+      dateAvailability: Object.fromEntries(
+        sources.map((source) => [source, sourceDates[source]?.length || 0])
+      ),
     };
 
     // Write to sources/dates.json
@@ -91,8 +111,16 @@ async function generateDatesIndex() {
       JSON.stringify(datesIndex, null, 2)
     );
 
-    console.log(`   ✅ Generated dates index with ${sortedDates.length} dates`);
+    console.log(
+      `   ✅ Generated dates index with ${sortedDates.length} dates (all sources)`
+    );
     console.log(`   📁 Written to: ${outputPath}`);
+
+    // Log date availability for debugging
+    console.log("   📊 Date availability per source:");
+    Object.entries(datesIndex.dateAvailability).forEach(([source, count]) => {
+      console.log(`     ${source}: ${count} dates`);
+    });
 
     return datesIndex;
   } catch (error) {
