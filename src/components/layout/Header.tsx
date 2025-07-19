@@ -5,6 +5,7 @@ import { useBookmarks } from "../../app/(news)/_hooks/useBookmarks";
 
 export default function Header() {
   useBookmarks(); // still call to keep client state in sync if needed
+  const isDevelopment = process.env.NODE_ENV === "development";
 
   return (
     <header className="bg-white shadow-sm border-b">
@@ -29,12 +30,14 @@ export default function Header() {
             >
               Saved
             </Link>
-            <Link
-              href="/sources"
-              className="text-gray-700 hover:text-gray-900 px-3 py-2 rounded-md text-sm font-medium"
-            >
-              Sources
-            </Link>
+            {isDevelopment && (
+              <Link
+                href="/sources"
+                className="text-gray-700 hover:text-gray-900 px-3 py-2 rounded-md text-sm font-medium"
+              >
+                Sources
+              </Link>
+            )}
           </nav>
         </div>
       </div>
