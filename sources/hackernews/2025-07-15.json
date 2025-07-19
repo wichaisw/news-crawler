@@ -5,7 +5,7 @@
     {
       "id": "np3nsv",
       "title": "Unlike ChatGPT, Anthropic has doubled down on Artifacts",
-      "description": "Score: 47 | Comments: 20 | Posted by bewal416",
+      "description": "Score: 44 | Comments: 18 | Posted by bewal416",
       "url": "https://ben-mini.com/2025/claude-is-kicking-chatgpts-butt",
       "publishedAt": "2025-07-15T23:50:02.000Z",
       "source": "hackernews",
@@ -16,7 +16,7 @@
     {
       "id": "2xlif2",
       "title": "OpenAI – vulnerability responsible disclosure",
-      "description": "Score: 199 | Comments: 61 | Posted by requilence",
+      "description": "Score: 198 | Comments: 57 | Posted by requilence",
       "url": "https://requilence.any.org/open-ai-vulnerability-responsible-disclosure",
       "publishedAt": "2025-07-15T23:29:54.000Z",
       "source": "hackernews",
@@ -27,7 +27,7 @@
     {
       "id": "d13sak",
       "title": "How bad are search results? Let's compare (2023)",
-      "description": "Score: 11 | Comments: 1 | Posted by warrenm",
+      "description": "Score: 8 | Comments: 1 | Posted by warrenm",
       "url": "https://danluu.com/seo-spam/",
       "publishedAt": "2025-07-15T23:29:29.000Z",
       "source": "hackernews",
@@ -38,7 +38,7 @@
     {
       "id": "19imfd",
       "title": "My Family and the Flood",
-      "description": "Score: 139 | Comments: 34 | Posted by herbertl",
+      "description": "Score: 118 | Comments: 18 | Posted by herbertl",
       "url": "https://www.texasmonthly.com/news-politics/texas-flood-firsthand-account/",
       "publishedAt": "2025-07-15T22:07:47.000Z",
       "source": "hackernews",
@@ -49,7 +49,7 @@
     {
       "id": "ra9odt",
       "title": "Claude for Financial Services",
-      "description": "Score: 127 | Comments: 70 | Posted by mildlyhostileux",
+      "description": "Score: 105 | Comments: 57 | Posted by mildlyhostileux",
       "url": "https://www.anthropic.com/news/claude-for-financial-services",
       "publishedAt": "2025-07-15T22:03:50.000Z",
       "source": "hackernews",
@@ -60,7 +60,7 @@
     {
       "id": "qnc44o",
       "title": "Where's Firefox going next?",
-      "description": "Score: 145 | Comments: 187 | Posted by ReadCarlBarks",
+      "description": "Score: 119 | Comments: 144 | Posted by ReadCarlBarks",
       "url": "https://connect.mozilla.org/t5/discussions/where-s-firefox-going-next-you-tell-us/m-p/100698#M39094",
       "publishedAt": "2025-07-15T21:03:50.000Z",
       "source": "hackernews",
@@ -71,7 +71,7 @@
     {
       "id": "4prgnf",
       "title": "The FIPS 140-3 Go Cryptographic Module",
-      "description": "Score: 124 | Comments: 42 | Posted by FiloSottile",
+      "description": "Score: 114 | Comments: 41 | Posted by FiloSottile",
       "url": "https://go.dev/blog/fips140",
       "publishedAt": "2025-07-15T20:42:49.000Z",
       "source": "hackernews",
@@ -82,7 +82,7 @@
     {
       "id": "8xqkxu",
       "title": "Hierarchical Modeling (H-Nets)",
-      "description": "Score: 75 | Comments: 19 | Posted by marviel",
+      "description": "Score: 68 | Comments: 18 | Posted by marviel",
       "url": "https://cartesia.ai/blog/hierarchical-modeling",
       "publishedAt": "2025-07-15T19:35:15.000Z",
       "source": "hackernews",
@@ -104,7 +104,7 @@
     {
       "id": "d4ag5q",
       "title": "Hazel: A live functional programming environment with typed holes",
-      "description": "Score: 54 | Comments: 11 | Posted by azhenley",
+      "description": "Score: 51 | Comments: 11 | Posted by azhenley",
       "url": "https://github.com/hazelgrove/hazel",
       "publishedAt": "2025-07-15T19:23:07.000Z",
       "source": "hackernews",
@@ -115,7 +115,7 @@
     {
       "id": "v4ajy5",
       "title": "Helix Editor 25.07",
-      "description": "Score: 284 | Comments: 127 | Posted by matrixhelix",
+      "description": "Score: 278 | Comments: 119 | Posted by matrixhelix",
       "url": "https://helix-editor.com/news/release-25-07-highlights/",
       "publishedAt": "2025-07-15T19:16:59.000Z",
       "source": "hackernews",
@@ -126,7 +126,7 @@
     {
       "id": "zctigr",
       "title": "Show HN: Beyond Z²+C, Plot Any Fractal",
-      "description": "Score: 81 | Comments: 24 | Posted by akunzler",
+      "description": "Score: 76 | Comments: 22 | Posted by akunzler",
       "url": "https://www.juliascope.com/",
       "publishedAt": "2025-07-15T18:24:51.000Z",
       "source": "hackernews",
@@ -135,20 +135,9 @@
       "tags": []
     },
     {
-      "id": "lzctvk",
-      "title": "Claude Code Unleashed",
-      "description": "Score: 32 | Comments: 5 | Posted by ymichael",
-      "url": "https://ymichael.com/2025/07/15/claude-code-unleashed",
-      "publishedAt": "2025-07-15T18:06:31.000Z",
-      "source": "hackernews",
-      "sourceName": "Hacker News",
-      "author": "ymichael",
-      "tags": []
-    },
-    {
       "id": "z9iutb",
       "title": "Designing for the Eye: Optical corrections in architecture and typography",
-      "description": "Score: 141 | Comments: 21 | Posted by ArmageddonIt",
+      "description": "Score: 128 | Comments: 19 | Posted by ArmageddonIt",
       "url": "https://www.nubero.ch/blog/015/",
       "publishedAt": "2025-07-15T17:48:35.000Z",
       "source": "hackernews",
@@ -159,7 +148,7 @@
     {
       "id": "ptprxh",
       "title": "Plasma Bigscreen rises from the dead with a better UI",
-      "description": "Score: 140 | Comments: 48 | Posted by bundie",
+      "description": "Score: 133 | Comments: 45 | Posted by bundie",
       "url": "https://www.neowin.net/news/kdes-android-tv-alternative-plasma-bigscreen-rises-from-the-dead-with-a-better-ui/",
       "publishedAt": "2025-07-15T17:35:42.000Z",
       "source": "hackernews",
@@ -170,7 +159,7 @@
     {
       "id": "8cjhby",
       "title": "Mira Murati’s AI startup Thinking Machines valued at $12B in early-stage funding",
-      "description": "Score: 97 | Comments: 97 | Posted by spenvo",
+      "description": "Score: 82 | Comments: 79 | Posted by spenvo",
       "url": "https://www.reuters.com/technology/mira-muratis-ai-startup-thinking-machines-raises-2-billion-a16z-led-round-2025-07-15/",
       "publishedAt": "2025-07-15T17:19:57.000Z",
       "source": "hackernews",
@@ -179,20 +168,9 @@
       "tags": []
     },
     {
-      "id": "th45z7",
-      "title": "Modular Interpreters and Visitors in Rust with Extensible Variants and CGP",
-      "description": "Score: 11 | Comments: 0 | Posted by PaulHoule",
-      "url": "https://contextgeneric.dev/blog/extensible-datatypes-part-2/",
-      "publishedAt": "2025-07-15T17:16:51.000Z",
-      "source": "hackernews",
-      "sourceName": "Hacker News",
-      "author": "PaulHoule",
-      "tags": []
-    },
-    {
       "id": "sl9k76",
       "title": "To be a better programmer, write little proofs in your head",
-      "description": "Score: 294 | Comments: 120 | Posted by mprast",
+      "description": "Score: 270 | Comments: 114 | Posted by mprast",
       "url": "https://the-nerve-blog.ghost.io/to-be-a-better-programmer-write-little-proofs-in-your-head/",
       "publishedAt": "2025-07-15T17:05:39.000Z",
       "source": "hackernews",
@@ -201,20 +179,9 @@
       "tags": []
     },
     {
-      "id": "6tbey0",
-      "title": "The Halo Effect",
-      "description": "Score: 16 | Comments: 7 | Posted by iamwil",
-      "url": "https://kwokchain.com/2025/07/15/the-halo-effect/",
-      "publishedAt": "2025-07-15T16:57:06.000Z",
-      "source": "hackernews",
-      "sourceName": "Hacker News",
-      "author": "iamwil",
-      "tags": []
-    },
-    {
       "id": "ybvpwp",
       "title": "Reflections on OpenAI",
-      "description": "Score: 476 | Comments: 257 | Posted by calvinfo",
+      "description": "Score: 434 | Comments: 234 | Posted by calvinfo",
       "url": "https://calv.info/openai-reflections",
       "publishedAt": "2025-07-15T16:49:06.000Z",
       "source": "hackernews",
@@ -223,31 +190,9 @@
       "tags": []
     },
     {
-      "id": "sm7cer",
-      "title": "What's going on with gene therapies?",
-      "description": "Score: 63 | Comments: 53 | Posted by nehal96",
-      "url": "https://nehalslearnings.substack.com/p/whats-going-on-with-gene-therapies",
-      "publishedAt": "2025-07-15T16:48:53.000Z",
-      "source": "hackernews",
-      "sourceName": "Hacker News",
-      "author": "nehal96",
-      "tags": []
-    },
-    {
-      "id": "8du0q8",
-      "title": "A 1960s schools experiment that created a new alphabet",
-      "description": "Score: 35 | Comments: 28 | Posted by Hooke",
-      "url": "https://www.theguardian.com/education/2025/jul/06/1960s-schools-experiment-created-new-alphabet-thousands-children-unable-to-spell",
-      "publishedAt": "2025-07-15T16:33:24.000Z",
-      "source": "hackernews",
-      "sourceName": "Hacker News",
-      "author": "Hooke",
-      "tags": []
-    },
-    {
       "id": "v7e8of",
       "title": "What caused the 'baby boom'? What would it take to have another?",
-      "description": "Score: 84 | Comments: 544 | Posted by mmcclure",
+      "description": "Score: 78 | Comments: 508 | Posted by mmcclure",
       "url": "https://www.derekthompson.org/p/what-caused-the-baby-boom-what-would",
       "publishedAt": "2025-07-15T15:59:04.000Z",
       "source": "hackernews",
@@ -258,7 +203,7 @@
     {
       "id": "xt0gll",
       "title": "NIST ion clock sets new record for most accurate clock",
-      "description": "Score: 288 | Comments: 100 | Posted by voxadam",
+      "description": "Score: 280 | Comments: 98 | Posted by voxadam",
       "url": "https://www.nist.gov/news-events/news/2025/07/nist-ion-clock-sets-new-record-most-accurate-clock-world",
       "publishedAt": "2025-07-15T15:56:47.000Z",
       "source": "hackernews",
@@ -269,7 +214,7 @@
     {
       "id": "rzrrxh",
       "title": "Show HN: Shoggoth Mini – A soft tentacle robot powered by GPT-4o and RL",
-      "description": "Score: 435 | Comments: 85 | Posted by cataPhil",
+      "description": "Score: 408 | Comments: 81 | Posted by cataPhil",
       "url": "https://www.matthieulc.com/posts/shoggoth-mini",
       "publishedAt": "2025-07-15T15:46:41.000Z",
       "source": "hackernews",
@@ -278,20 +223,9 @@
       "tags": []
     },
     {
-      "id": "d135is",
-      "title": "Show HN: Simulating autonomous drone formations",
-      "description": "Score: 15 | Comments: 3 | Posted by wanderinglight",
-      "url": "https://github.com/sushrut141/ketu",
-      "publishedAt": "2025-07-15T15:18:48.000Z",
-      "source": "hackernews",
-      "sourceName": "Hacker News",
-      "author": "wanderinglight",
-      "tags": []
-    },
-    {
       "id": "5gw1w0",
       "title": "Blender 4.5 LTS",
-      "description": "Score: 297 | Comments: 87 | Posted by obdev",
+      "description": "Score: 295 | Comments: 86 | Posted by obdev",
       "url": "https://www.blender.org/download/releases/4-5/",
       "publishedAt": "2025-07-15T15:06:44.000Z",
       "source": "hackernews",
@@ -302,7 +236,7 @@
     {
       "id": "zekbau",
       "title": "Voxtral – Frontier open source speech understanding models",
-      "description": "Score: 68 | Comments: 20 | Posted by meetpateltech",
+      "description": "Score: 63 | Comments: 18 | Posted by meetpateltech",
       "url": "https://mistral.ai/news/voxtral",
       "publishedAt": "2025-07-15T14:47:02.000Z",
       "source": "hackernews",
@@ -311,146 +245,14 @@
       "tags": []
     },
     {
-      "id": "1m5jhz",
-      "title": "HathiTrust Digital Library",
-      "description": "Score: 61 | Comments: 18 | Posted by djoldman",
-      "url": "https://www.hathitrust.org/",
-      "publishedAt": "2025-07-15T14:32:21.000Z",
-      "source": "hackernews",
-      "sourceName": "Hacker News",
-      "author": "djoldman",
-      "tags": []
-    },
-    {
-      "id": "57eopo",
-      "title": "Show HN: OrioleDB Beta12 Features and Benchmarks",
-      "description": "Score: 19 | Comments: 2 | Posted by akorotkov",
-      "url": "https://www.orioledb.com/blog/orioledb-beta12-benchmarks",
-      "publishedAt": "2025-07-15T12:22:33.000Z",
-      "source": "hackernews",
-      "sourceName": "Hacker News",
-      "author": "akorotkov",
-      "tags": []
-    },
-    {
-      "id": "teonas",
-      "title": "A Rust shaped hole",
-      "description": "Score: 74 | Comments: 134 | Posted by vishnumohandas",
-      "url": "https://mnvr.in/rust",
-      "publishedAt": "2025-07-15T11:42:46.000Z",
-      "source": "hackernews",
-      "sourceName": "Hacker News",
-      "author": "vishnumohandas",
-      "tags": []
-    },
-    {
-      "id": "30ahol",
-      "title": "C++: zero-cost static initialization",
-      "description": "Score: 41 | Comments: 8 | Posted by oecumena",
-      "url": "https://cofault.com/zero-cost-static.html",
-      "publishedAt": "2025-07-15T11:39:18.000Z",
-      "source": "hackernews",
-      "sourceName": "Hacker News",
-      "author": "oecumena",
-      "tags": []
-    },
-    {
-      "id": "1gfkdo",
-      "title": "How to Get Foreign Keys Horribly Wrong",
-      "description": "Score: 56 | Comments: 27 | Posted by Bogdanp",
-      "url": "https://hakibenita.com/django-foreign-keys",
-      "publishedAt": "2025-07-15T11:36:08.000Z",
-      "source": "hackernews",
-      "sourceName": "Hacker News",
-      "author": "Bogdanp",
-      "tags": []
-    },
-    {
       "id": "xvy2lu",
       "title": "Show HN: We made our own inference engine for Apple Silicon",
-      "description": "Score: 151 | Comments: 44 | Posted by darkolorin",
+      "description": "Score: 151 | Comments: 42 | Posted by darkolorin",
       "url": "https://github.com/trymirai/uzu",
       "publishedAt": "2025-07-15T11:29:02.000Z",
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "darkolorin",
-      "tags": []
-    },
-    {
-      "id": "h2z6vo",
-      "title": "Making a StringBuffer in C, and questioning my sanity",
-      "description": "Score: 33 | Comments: 30 | Posted by coneonthefloor",
-      "url": "https://briandouglas.ie/string-buffer-c/",
-      "publishedAt": "2025-07-15T10:48:34.000Z",
-      "source": "hackernews",
-      "sourceName": "Hacker News",
-      "author": "coneonthefloor",
-      "tags": []
-    },
-    {
-      "id": "vr96xt",
-      "title": "Cats as Horror Movie Villains",
-      "description": "Score: 6 | Comments: 3 | Posted by mparramon",
-      "url": "https://gwern.net/cat-horror",
-      "publishedAt": "2025-07-15T10:19:38.000Z",
-      "source": "hackernews",
-      "sourceName": "Hacker News",
-      "author": "mparramon",
-      "tags": []
-    },
-    {
-      "id": "onpx1b",
-      "title": "Game of trees hub",
-      "description": "Score: 26 | Comments: 7 | Posted by todsacerdoti",
-      "url": "https://gothub.org/",
-      "publishedAt": "2025-07-15T09:47:20.000Z",
-      "source": "hackernews",
-      "sourceName": "Hacker News",
-      "author": "todsacerdoti",
-      "tags": []
-    },
-    {
-      "id": "jmfpvj",
-      "title": "RisingWave: An Open‑Source Stream‑Processing and Management Platform",
-      "description": "Score: 24 | Comments: 3 | Posted by Sheldon_fun",
-      "url": "https://github.com/risingwavelabs/risingwave",
-      "publishedAt": "2025-07-15T09:16:21.000Z",
-      "source": "hackernews",
-      "sourceName": "Hacker News",
-      "author": "Sheldon_fun",
-      "tags": []
-    },
-    {
-      "id": "3v23bm",
-      "title": "Inside the box: Everything I did with an Arduino starter kit",
-      "description": "Score: 36 | Comments: 4 | Posted by lopespm",
-      "url": "https://lopespm.com/hardware/2025/07/15/arduino.html",
-      "publishedAt": "2025-07-15T08:21:40.000Z",
-      "source": "hackernews",
-      "sourceName": "Hacker News",
-      "author": "lopespm",
-      "tags": []
-    },
-    {
-      "id": "gnaski",
-      "title": "Trying Guix: A Nixer's impressions",
-      "description": "Score: 169 | Comments: 52 | Posted by todsacerdoti",
-      "url": "https://tazj.in/blog/trying-guix",
-      "publishedAt": "2025-07-15T08:11:19.000Z",
-      "source": "hackernews",
-      "sourceName": "Hacker News",
-      "author": "todsacerdoti",
-      "tags": []
-    },
-    {
-      "id": "4p0fxs",
-      "title": "A look at IBM's short-lived \"butterfly\" ThinkPad 701 of 1995",
-      "description": "Score: 56 | Comments: 12 | Posted by vontzy",
-      "url": "https://www.fastcompany.com/91356463/ibm-thinkpad-701-butterfly-keyboard",
-      "publishedAt": "2025-07-15T05:39:26.000Z",
-      "source": "hackernews",
-      "sourceName": "Hacker News",
-      "author": "vontzy",
       "tags": []
     },
     {

@@ -1,5 +1,8 @@
 "use client";
 
+// SSG: Static generation at build time
+export const dynamic = "force-static";
+
 import Link from "next/link";
 import { BookmarkIcon, TrashIcon } from "@heroicons/react/24/outline";
 import NewsCardList from "../_components/NewsCardList";

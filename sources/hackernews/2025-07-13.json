@@ -168,17 +168,6 @@
       "tags": []
     },
     {
-      "id": "3mtydi",
-      "title": "Show HN: BloomSearch – Keyword search with hierarchical Bloom filters",
-      "description": "Score: 57 | Comments: 12 | Posted by dangoodmanUT",
-      "url": "https://github.com/danthegoodman1/bloomsearch",
-      "publishedAt": "2025-07-13T16:02:19.000Z",
-      "source": "hackernews",
-      "sourceName": "Hacker News",
-      "author": "dangoodmanUT",
-      "tags": []
-    },
-    {
       "id": "3q7yic",
       "title": "A quick look at unprivileged sandboxing",
       "description": "Score: 52 | Comments: 21 | Posted by zdw",
@@ -247,34 +236,12 @@
     {
       "id": "9ot1gs",
       "title": "Show HN: I built this to talk Danish to my girlfriend – works with any language",
-      "description": "Score: 180 | Comments: 98 | Posted by lil_csom",
+      "description": "Score: 177 | Comments: 98 | Posted by lil_csom",
       "url": "https://menerdu.vercel.app/",
       "publishedAt": "2025-07-13T11:38:18.000Z",
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "lil_csom",
-      "tags": []
-    },
-    {
-      "id": "n4wf8g",
-      "title": "AI therapy bots fuel delusions and give dangerous advice, Stanford study finds",
-      "description": "Score: 196 | Comments: 116 | Posted by pseudolus",
-      "url": "https://arstechnica.com/ai/2025/07/ai-therapy-bots-fuel-delusions-and-give-dangerous-advice-stanford-study-finds/",
-      "publishedAt": "2025-07-13T10:26:07.000Z",
-      "source": "hackernews",
-      "sourceName": "Hacker News",
-      "author": "pseudolus",
-      "tags": []
-    },
-    {
-      "id": "3tcexp",
-      "title": "What's happening to reading?",
-      "description": "Score: 148 | Comments: 280 | Posted by Kaibeezy",
-      "url": "https://www.newyorker.com/culture/open-questions/whats-happening-to-reading",
-      "publishedAt": "2025-07-13T10:16:48.000Z",
-      "source": "hackernews",
-      "sourceName": "Hacker News",
-      "author": "Kaibeezy",
       "tags": []
     },
     {
@@ -313,7 +280,7 @@
     {
       "id": "5ae9ej",
       "title": "Lorem Gibson",
-      "description": "Score: 127 | Comments: 23 | Posted by DyslexicAtheist",
+      "description": "Score: 118 | Comments: 21 | Posted by DyslexicAtheist",
       "url": "http://loremgibson.com/",
       "publishedAt": "2025-07-13T08:39:47.000Z",
       "source": "hackernews",
@@ -355,31 +322,20 @@
       "tags": []
     },
     {
-      "id": "97q3fj",
-      "title": "Show HN: 0xDEAD//TYPE – A fast-paced typing shooter with retro vibes",
-      "description": "Score: 71 | Comments: 20 | Posted by theden",
-      "url": "https://0xdeadtype.theden.sh/",
-      "publishedAt": "2025-07-13T02:52:13.000Z",
+      "id": "t0sjt0",
+      "title": "Assumptions",
+      "description": "Score: 5 | Comments: 1 | Posted by r4um",
+      "url": "http://theprogrammersparadox.blogspot.com/2025/07/assumptions.html",
+      "publishedAt": "2025-07-13T07:41:55.000Z",
       "source": "hackernews",
       "sourceName": "Hacker News",
-      "author": "theden",
-      "tags": []
-    },
-    {
-      "id": "awo0nx",
-      "title": "The Symbol Grounding Problem (1990)",
-      "description": "Score: 7 | Comments: 0 | Posted by Fibra",
-      "url": "https://arxiv.org/html/cs/9906002",
-      "publishedAt": "2025-07-13T01:00:04.000Z",
-      "source": "hackernews",
-      "sourceName": "Hacker News",
-      "author": "Fibra",
+      "author": "r4um",
       "tags": []
     },
     {
       "id": "4a2nun",
       "title": "Petabit-class transmission over > 1000 km using standard 19-core optical fiber",
-      "description": "Score: 94 | Comments: 48 | Posted by the_arun",
+      "description": "Score: 91 | Comments: 47 | Posted by the_arun",
       "url": "https://www.nict.go.jp/en/press/2025/05/29-1.html",
       "publishedAt": "2025-07-13T00:06:20.000Z",
       "source": "hackernews",

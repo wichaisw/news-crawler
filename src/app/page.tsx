@@ -4,8 +4,8 @@ import { StaticSourceFetcher } from "../lib/static-data/static-source-fetcher";
 import NewsFeed from "./(news)/_components/NewsFeed";
 import { NewsItem } from "../lib/types/news-types";
 
-// ISR: Regenerate every hour
-export const revalidate = 3600;
+// SSG: Static generation at build time
+export const dynamic = "force-static";
 
 type InitialNews = {
   articles: NewsItem[];

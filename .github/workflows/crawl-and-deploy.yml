@@ -45,14 +45,10 @@ jobs:
           git commit -m "Update news data $(date +%Y-%m-%d)" || exit 0
           git push
 
-      - name: Build static site
-        run: npm run build:static
+      - name: Build for GitHub Pages
+        run: npm run build:github-pages
         env:
-          NEXT_STATIC_EXPORT: true
-          BASE_PATH: "/news-crawler"
-
-      - name: Copy sources to static build
-        run: cp -r sources out/
+          NODE_ENV: production
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
