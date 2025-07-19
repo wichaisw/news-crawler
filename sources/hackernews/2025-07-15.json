@@ -157,6 +157,17 @@
       "tags": []
     },
     {
+      "id": "wjmtw0",
+      "title": "Show HN: Mochi Invaders – Like Space Invaders but for Practicing Japanese Kana",
+      "description": "Score: 11 | Comments: 1 | Posted by xenodium",
+      "url": "https://xenodium.com/mochi-invaders-now-on-the-app-store",
+      "publishedAt": "2025-07-15T17:33:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "xenodium",
+      "tags": []
+    },
+    {
       "id": "8cjhby",
       "title": "Mira Murati’s AI startup Thinking Machines valued at $12B in early-stage funding",
       "description": "Score: 82 | Comments: 79 | Posted by spenvo",
@@ -176,6 +187,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mprast",
+      "tags": []
+    },
+    {
+      "id": "6tbey0",
+      "title": "The Halo Effect",
+      "description": "Score: 19 | Comments: 10 | Posted by iamwil",
+      "url": "https://kwokchain.com/2025/07/15/the-halo-effect/",
+      "publishedAt": "2025-07-15T16:57:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "iamwil",
       "tags": []
     },
     {
@@ -245,6 +267,50 @@
       "tags": []
     },
     {
+      "id": "1m5jhz",
+      "title": "HathiTrust Digital Library",
+      "description": "Score: 63 | Comments: 18 | Posted by djoldman",
+      "url": "https://www.hathitrust.org/",
+      "publishedAt": "2025-07-15T14:32:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "djoldman",
+      "tags": []
+    },
+    {
+      "id": "b6ukuj",
+      "title": "The Bitter Lessons Behind Kimi Researcher's Taste",
+      "description": "Score: 4 | Comments: 1 | Posted by pr337h4m",
+      "url": "https://medium.com/@xinyijin715/maker-story-the-bitter-lessons-behind-kimi-researchers-ui-6654ec66662c",
+      "publishedAt": "2025-07-15T12:39:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pr337h4m",
+      "tags": []
+    },
+    {
+      "id": "57eopo",
+      "title": "Show HN: OrioleDB Beta12 Features and Benchmarks",
+      "description": "Score: 34 | Comments: 4 | Posted by akorotkov",
+      "url": "https://www.orioledb.com/blog/orioledb-beta12-benchmarks",
+      "publishedAt": "2025-07-15T12:22:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "akorotkov",
+      "tags": []
+    },
+    {
+      "id": "30ahol",
+      "title": "C++: Zero-cost static initialization",
+      "description": "Score: 53 | Comments: 14 | Posted by oecumena",
+      "url": "https://cofault.com/zero-cost-static.html",
+      "publishedAt": "2025-07-15T11:39:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "oecumena",
+      "tags": []
+    },
+    {
       "id": "xvy2lu",
       "title": "Show HN: We made our own inference engine for Apple Silicon",
       "description": "Score: 151 | Comments: 42 | Posted by darkolorin",
@@ -253,6 +319,39 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "darkolorin",
+      "tags": []
+    },
+    {
+      "id": "h2z6vo",
+      "title": "Making a StringBuffer in C, and questioning my sanity",
+      "description": "Score: 35 | Comments: 36 | Posted by coneonthefloor",
+      "url": "https://briandouglas.ie/string-buffer-c/",
+      "publishedAt": "2025-07-15T10:48:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "coneonthefloor",
+      "tags": []
+    },
+    {
+      "id": "vr96xt",
+      "title": "Cats as Horror Movie Villains",
+      "description": "Score: 18 | Comments: 19 | Posted by mparramon",
+      "url": "https://gwern.net/cat-horror",
+      "publishedAt": "2025-07-15T10:19:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mparramon",
+      "tags": []
+    },
+    {
+      "id": "gnaski",
+      "title": "Trying Guix: A Nixer's impressions",
+      "description": "Score: 181 | Comments: 59 | Posted by todsacerdoti",
+      "url": "https://tazj.in/blog/trying-guix",
+      "publishedAt": "2025-07-15T08:11:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
       "tags": []
     },
     {

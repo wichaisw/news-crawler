@@ -3,6 +3,72 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "o3cyqj",
+      "title": "Why your website should be under 14kB in sizeendtimes.dev",
+      "description": "Score: 36 | Comments: 10 | Posted by truxs",
+      "url": "https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/",
+      "publishedAt": "2025-07-19T08:29:16.892Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "truxs",
+      "tags": []
+    },
+    {
+      "id": "o3cyqj",
+      "title": "Why your website should be under 14kB in size",
+      "description": "Score: 37 | Comments: 11 | Posted by truxs",
+      "url": "https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/",
+      "publishedAt": "2025-07-19T08:26:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "truxs",
+      "tags": []
+    },
+    {
+      "id": "5af3bx",
+      "title": "Pimping My Casio: Part Deux",
+      "description": "Score: 11 | Comments: 0 | Posted by r4um",
+      "url": "https://blog.jgc.org/2025/07/pimping-my-casio-part-deux.html",
+      "publishedAt": "2025-07-19T07:58:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "r4um",
+      "tags": []
+    },
+    {
+      "id": "pwhjl6",
+      "title": "Exhausted man defeats AI model in world coding championship",
+      "description": "Score: 6 | Comments: 1 | Posted by Bluestein",
+      "url": "https://arstechnica.com/civis/threads/exhausted-man-defeats-ai-model-in-world-coding-championship.1508421/page-3",
+      "publishedAt": "2025-07-19T07:41:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Bluestein",
+      "tags": []
+    },
+    {
+      "id": "vsq8x",
+      "title": "A brief history of Mac primary coding languages",
+      "description": "Score: 3 | Comments: 1 | Posted by ingve",
+      "url": "https://eclecticlight.co/2025/07/19/a-brief-history-of-primary-coding-languages/",
+      "publishedAt": "2025-07-19T07:33:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingve",
+      "tags": []
+    },
+    {
+      "id": "4umkvb",
+      "title": "US revokes visas of Brazilian judges after crack down on ex-president Bolsonaro",
+      "description": "Score: 17 | Comments: 2 | Posted by matheusmoreira",
+      "url": "https://nypost.com/2025/07/18/world-news/us-revokes-visas-of-brazilian-justices-after-its-top-court-cracks-down-on-ex-president-bolsonaro/",
+      "publishedAt": "2025-07-19T06:36:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "matheusmoreira",
+      "tags": []
+    },
+    {
       "id": "79x49d",
       "title": "The Great Unracking: Saying goodbye to the servers at our physical datacenter",
       "description": "Score: 7 | Comments: 2 | Posted by treve",
@@ -33,6 +99,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "RebeccaTheDev",
+      "tags": []
+    },
+    {
+      "id": "y1uxrx",
+      "title": "Hyatt Hotels are using algorithmic Rest “smoking detectors”",
+      "description": "Score: 118 | Comments: 58 | Posted by RebeccaTheDev",
+      "url": "https://twitter.com/_ZachGriff/status/1945959030851035223",
+      "publishedAt": "2025-07-19T04:02:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "RebeccaTheDev",
+      "tags": []
+    },
+    {
+      "id": "7hhs75",
+      "title": "The Big Oops: Anatomy of a Thirty-Five Year Mistake",
+      "description": "Score: 3 | Comments: 0 | Posted by SerCe",
+      "url": "https://www.computerenhance.com/p/the-big-oops-anatomy-of-a-thirty",
+      "publishedAt": "2025-07-19T03:23:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "SerCe",
       "tags": []
     },
     {
