@@ -25,6 +25,28 @@
       "tags": []
     },
     {
+      "id": "essi5m",
+      "title": "Easy dynamic dispatch using GLIBC Hardware Capabilities",
+      "description": "Score: 27 | Comments: 3 | Posted by Bogdanp",
+      "url": "https://www.kvr.at/posts/easy-dynamic-dispatch-using-GLIBC-hardware-capabilities/",
+      "publishedAt": "2025-07-12T21:45:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Bogdanp",
+      "tags": []
+    },
+    {
+      "id": "leon5k",
+      "title": "Mostly dead influential programming languages (2020)",
+      "description": "Score: 98 | Comments: 58 | Posted by azhenley",
+      "url": "https://www.hillelwayne.com/post/influential-dead-languages/",
+      "publishedAt": "2025-07-12T20:50:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "azhenley",
+      "tags": []
+    },
+    {
       "id": "wfwhr7",
       "title": "Bypassing Google's big anti-adblock update",
       "description": "Score: 977 | Comments: 855 | Posted by deryilz",
@@ -36,6 +58,50 @@
       "tags": []
     },
     {
+      "id": "6m3kk4",
+      "title": "The Story of Mel, A Real Programmer, Annotated (1996)",
+      "description": "Score: 71 | Comments: 24 | Posted by fanf2",
+      "url": "https://users.cs.utah.edu/~elb/folklore/mel-annotated/node1.html#SECTION00010000000000000000",
+      "publishedAt": "2025-07-12T14:42:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fanf2",
+      "tags": []
+    },
+    {
+      "id": "jqwpm2",
+      "title": "How culture is made",
+      "description": "Score: 30 | Comments: 12 | Posted by surprisetalk",
+      "url": "https://www.metalabel.com/studio/release-strategies/how-culture-is-made",
+      "publishedAt": "2025-07-12T14:06:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
+      "id": "u679ix",
+      "title": "How bad are childhood literacy rates?",
+      "description": "Score: 23 | Comments: 35 | Posted by pseudolus",
+      "url": "https://www.vox.com/culture/419070/childhood-literacy-college-students-reading-crisis-ai",
+      "publishedAt": "2025-07-12T12:09:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pseudolus",
+      "tags": []
+    },
+    {
+      "id": "utm96g",
+      "title": "Running a million-board chess MMO in a single process",
+      "description": "Score: 63 | Comments: 6 | Posted by isaiahwp",
+      "url": "https://eieio.games/blog/a-million-realtime-chess-boards-in-a-single-process/",
+      "publishedAt": "2025-07-12T10:56:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "isaiahwp",
+      "tags": []
+    },
+    {
       "id": "w72gvs",
       "title": "Dyeing to get in (2014)",
       "description": "Score: 10 | Comments: 1 | Posted by orlp",
@@ -44,6 +110,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "orlp",
+      "tags": []
+    },
+    {
+      "id": "mkih01",
+      "title": "Show HN: Reviving a 20 year old OS X App",
+      "description": "Score: 10 | Comments: 2 | Posted by shawa_a_a",
+      "url": "https://andrewshaw.nl/blog/reviving-genius",
+      "publishedAt": "2025-07-12T09:47:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "shawa_a_a",
       "tags": []
     },
     {
