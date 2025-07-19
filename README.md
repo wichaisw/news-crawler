@@ -235,6 +235,19 @@ make run
 4. Set source to "GitHub Actions" or "Deploy from a branch"
 5. Use the `out/` directory as the build output
 
+## Recent Fixes (July 2025)
+
+### Fixed 404 Errors for Date Selection
+- **Problem**: Pages except today were returning 404 errors when selecting dates
+- **Root Cause**: `dates.json` included dates that only existed for some sources, not all
+- **Solution**: Updated `scripts/generate-dates-index.ts` to only include dates that have data for ALL sources
+- **Result**: All date selections now work correctly without 404 errors
+
+### Development vs Production Configuration
+- **Problem**: API routes weren't working in development due to static export configuration
+- **Solution**: Modified `next.config.ts` to only use static export in production builds
+- **Result**: Full functionality in development, static export in production
+
 ## Performance
 
 - **Initial Page Load**: ~100-200ms (pre-rendered)
