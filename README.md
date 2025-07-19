@@ -20,21 +20,22 @@ A mobile-friendly news feed crawler that aggregates news from multiple sources i
 - **Content Summarization**: AI-powered or extractive summaries for articles
 - **ISR (Incremental Static Regeneration)**: Automatic page regeneration every hour for optimal performance
 
-## 🚀 **ISR-Powered Deployment**
+## 🚀 **Static Site Generation (SSG) for GitHub Pages**
 
-This project uses Next.js ISR (Incremental Static Regeneration) for optimal performance:
+This project is optimized for **free GitHub Pages deployment** using Static Site Generation:
 
 ### **How it Works**
-- **Initial Build**: Pages are pre-rendered with the latest news data
-- **Automatic Updates**: Pages regenerate every hour automatically
-- **On-Demand Revalidation**: Trigger immediate updates after crawling
-- **Fallback Support**: Users always see content, even if regeneration fails
+- **Static Export**: All pages are pre-rendered at build time
+- **No Server Required**: Runs entirely on GitHub Pages (free hosting)
+- **Optimized Build**: Sources page excluded from production builds
+- **Local Development**: Full functionality available locally
 
 ### **Performance Benefits**
-- **Fast Initial Load**: Pre-rendered pages load instantly
-- **Automatic Caching**: Efficient caching with automatic invalidation
+- **Free Hosting**: Deploy on GitHub Pages at no cost
+- **Fast Loading**: Pre-rendered pages load instantly
 - **SEO Optimized**: Search engines can crawl all content
-- **Scalable**: Handles traffic spikes without performance issues
+- **No Server Maintenance**: Zero server costs and maintenance
+- **Global CDN**: GitHub Pages provides global content delivery
 
 ## Tech Stack
 
@@ -143,13 +144,16 @@ npm run dev
 ### Available Scripts
 ```bash
 npm run dev          # Start development server with Turbopack
-npm run build        # Build for production with ISR
+npm run build        # Build for production (with API routes)
+npm run build:static # Build optimized static site for GitHub Pages
+npm run build:github-pages # Alias for build:static
 npm run start        # Start production server
 npm run lint         # Run ESLint
 npm run test         # Run tests
 npm run test:watch   # Run tests in watch mode
 npm run crawl        # Crawl all news sources
 npm run generate-dates # Generate dates index
+npm run deploy:prep  # Full deployment preparation (crawl + build)
 ```
 
 ## Project Structure
@@ -179,25 +183,32 @@ src/
     └── api/                 # External API integrations
 ```
 
-## ISR Configuration
+## Static Site Generation (SSG) Configuration
 
-### Automatic Revalidation
-The main page automatically regenerates every hour:
+### Build Optimization
+All pages use static generation for GitHub Pages deployment:
 ```typescript
-export const revalidate = 3600; // 1 hour
+export const dynamic = "force-static"; // SSG for all pages
 ```
 
-### On-Demand Revalidation
-Trigger immediate updates after crawling:
-```bash
-curl -X POST http://localhost:3000/api/revalidate
-```
+### Development vs Production
+- **Local Development**: Full functionality with API routes and sources page
+- **Production Build**: Static export with sources page excluded
 
 ### Data Sources
-- **Local Development**: `sources/` directory
-- **Production**: Same `sources/` directory (copied to `public/` during build)
+- **Local Development**: `sources/` directory with live API access
+- **Production**: Static JSON files in `public/sources/` directory
 
 ## Deployment
+
+### GitHub Pages (Recommended - Free)
+```bash
+# Prepare for deployment
+npm run deploy:prep
+
+# The out/ directory is ready for GitHub Pages
+# Push to GitHub and enable Pages in repository settings
+```
 
 ### Standard Next.js Deployment
 ```bash
@@ -215,10 +226,18 @@ make run
 - `NEXT_PUBLIC_STATIC_BASE_URL`: Base URL for static data (optional)
 - `NODE_ENV`: Environment (development/production)
 
+### GitHub Pages Setup
+1. Create a GitHub repository
+2. Push your code to the repository
+3. Go to Settings → Pages
+4. Set source to "GitHub Actions" or "Deploy from a branch"
+5. Use the `out/` directory as the build output
+
 ## Performance
 
 - **Initial Page Load**: ~100-200ms (pre-rendered)
 - **Subsequent Navigation**: Instant (client-side)
-- **Data Updates**: Every hour (automatic) or on-demand
-- **Caching**: Automatic with Next.js ISR
+- **Data Updates**: Manual (run `npm run crawl` locally)
+- **Caching**: Static files served by GitHub Pages CDN
 - **SEO**: Fully optimized with pre-rendered content
+- **Hosting Cost**: $0 (GitHub Pages is free)

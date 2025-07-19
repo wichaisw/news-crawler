@@ -2,6 +2,9 @@ import { NextResponse } from "next/server";
 import fs from "fs";
 import path from "path";
 
+// Make this route static for export
+export const dynamic = "force-static";
+
 export async function GET() {
   try {
     const datesFilePath = path.join(process.cwd(), "sources", "dates.json");

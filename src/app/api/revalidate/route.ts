@@ -1,6 +1,9 @@
 import { revalidatePath } from "next/cache";
 import { NextResponse } from "next/server";
 
+// Make this route static for export
+export const dynamic = "force-static";
+
 export async function POST() {
   try {
     // Revalidate the home page

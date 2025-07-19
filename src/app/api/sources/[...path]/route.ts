@@ -2,6 +2,39 @@ import { NextRequest, NextResponse } from "next/server";
 import fs from "fs";
 import path from "path";
 
+// Make this route static for export
+export const dynamic = "force-static";
+
+// Generate static params for all possible source files
+export async function generateStaticParams() {
+  const sourcesDir = path.join(process.cwd(), "sources");
+  const params: { path: string[] }[] = [];
+
+  try {
+    if (fs.existsSync(sourcesDir)) {
+      const sources = fs.readdirSync(sourcesDir);
+
+      for (const source of sources) {
+        const sourceDir = path.join(sourcesDir, source);
+        if (fs.statSync(sourceDir).isDirectory()) {
+          const files = fs.readdirSync(sourceDir);
+          for (const file of files) {
+            if (file.endsWith(".json")) {
+              params.push({
+                path: [source, file],
+              });
+            }
+          }
+        }
+      }
+    }
+  } catch (error) {
+    console.warn("Could not generate static params for sources:", error);
+  }
+
+  return params;
+}
+
 export async function GET(
   request: NextRequest,
   { params }: { params: Promise<{ path: string[] }> }

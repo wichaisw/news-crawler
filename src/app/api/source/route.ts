@@ -3,6 +3,9 @@ import { revalidatePath } from "next/cache";
 import { CrawlerEngine } from "../../../lib/crawler/crawler-engine";
 import { FileStorage } from "../../../lib/storage/file-storage";
 
+// Make this route static for export
+export const dynamic = "force-static";
+
 export async function GET() {
   try {
     const configs = CrawlerEngine.getSiteConfigs();

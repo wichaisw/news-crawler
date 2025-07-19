@@ -146,6 +146,17 @@
       "tags": []
     },
     {
+      "id": "3q7yic",
+      "title": "A quick look at unprivileged sandboxing",
+      "description": "Score: 52 | Comments: 21 | Posted by zdw",
+      "url": "https://www.uninformativ.de/blog/postings/2025-07-13/0/POSTING-en.html",
+      "publishedAt": "2025-07-13T15:41:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
       "id": "apnifo",
       "title": "Fine dining restaurants researching guests to make their dinner unforgettable",
       "description": "Score: 90 | Comments: 172 | Posted by borski",
@@ -201,6 +212,17 @@
       "tags": []
     },
     {
+      "id": "9ot1gs",
+      "title": "Show HN: I built this to talk Danish to my girlfriend – works with any language",
+      "description": "Score: 177 | Comments: 98 | Posted by lil_csom",
+      "url": "https://menerdu.vercel.app/",
+      "publishedAt": "2025-07-13T11:38:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lil_csom",
+      "tags": []
+    },
+    {
       "id": "3qx37l",
       "title": "Understanding Tool Calling in LLMs – Step-by-Step with REST and Spring AI",
       "description": "Score: 89 | Comments: 24 | Posted by muthuishere",
@@ -223,6 +245,17 @@
       "tags": []
     },
     {
+      "id": "5ae9ej",
+      "title": "Lorem Gibson",
+      "description": "Score: 118 | Comments: 21 | Posted by DyslexicAtheist",
+      "url": "http://loremgibson.com/",
+      "publishedAt": "2025-07-13T08:39:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "DyslexicAtheist",
+      "tags": []
+    },
+    {
       "id": "hkq81d",
       "title": "Lua beats MicroPython for embedded devs",
       "description": "Score: 81 | Comments: 67 | Posted by willhschmid",
@@ -242,6 +275,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "keiferski",
+      "tags": []
+    },
+    {
+      "id": "t0sjt0",
+      "title": "Assumptions",
+      "description": "Score: 5 | Comments: 1 | Posted by r4um",
+      "url": "http://theprogrammersparadox.blogspot.com/2025/07/assumptions.html",
+      "publishedAt": "2025-07-13T07:41:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "r4um",
+      "tags": []
+    },
+    {
+      "id": "4a2nun",
+      "title": "Petabit-class transmission over > 1000 km using standard 19-core optical fiber",
+      "description": "Score: 91 | Comments: 47 | Posted by the_arun",
+      "url": "https://www.nict.go.jp/en/press/2025/05/29-1.html",
+      "publishedAt": "2025-07-13T00:06:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "the_arun",
       "tags": []
     }
   ]
