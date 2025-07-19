@@ -35,8 +35,8 @@ export default function DateSelector({
     }
   };
 
-  const handleDateSelect = (date: string) => {
-    onDateChange(date);
+  const handleDateSelect = (date: string | null) => {
+    onDateChange(date || "");
     setIsOpen(false);
   };
 
@@ -54,7 +54,7 @@ export default function DateSelector({
       >
         <CalendarIcon className="h-4 w-4 text-gray-500" />
         <span className="text-sm font-medium text-gray-700">
-          {selectedDate ? formatDate(selectedDate) : "Select Date"}
+          {selectedDate ? formatDate(selectedDate) : "Today"}
         </span>
         <ChevronDownIcon
           className={`h-4 w-4 text-gray-500 transition-transform ${
@@ -74,6 +74,27 @@ export default function DateSelector({
           {/* Dropdown */}
           <div className="absolute right-0 mt-1 w-48 bg-white border border-gray-200 rounded-lg shadow-lg z-20 max-h-60 overflow-y-auto">
             <div className="py-1">
+              {/* Today option - shows all recent articles */}
+              <button
+                onClick={() => handleDateSelect(null)}
+                className={`w-full text-left px-4 py-2 text-sm hover:bg-gray-100 focus:bg-gray-100 focus:outline-none transition-colors ${
+                  !selectedDate
+                    ? "bg-blue-50 text-blue-700 font-medium"
+                    : "text-gray-700"
+                }`}
+              >
+                <div className="flex flex-col">
+                  <span className="font-medium">Today</span>
+                  <span className="text-xs text-gray-500">
+                    Most recent articles
+                  </span>
+                </div>
+              </button>
+
+              {/* Divider */}
+              <div className="border-t border-gray-200 my-1"></div>
+
+              {/* Date options */}
               {dates.map((date) => (
                 <button
                   key={date}

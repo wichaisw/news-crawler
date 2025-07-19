@@ -51,7 +51,7 @@ export default function NewsFeed({ initialData }: NewsFeedProps) {
   // Remove the initial useEffect calls since we have initial data
   // Only fetch when date changes (not on initial load)
   useEffect(() => {
-    if (selectedDate && selectedDate !== initialData.selectedDate) {
+    if (selectedDate !== initialData.selectedDate) {
       fetchNews(selectedDate, 1, true);
     }
   }, [selectedDate, initialData.selectedDate]);
@@ -59,7 +59,7 @@ export default function NewsFeed({ initialData }: NewsFeedProps) {
   // fetchAvailableDates is no longer needed since we get dates from initialData
 
   const fetchNews = async (
-    date: string,
+    date: string | null,
     page: number,
     reset: boolean = false
   ) => {
@@ -105,13 +105,13 @@ export default function NewsFeed({ initialData }: NewsFeedProps) {
   };
 
   const handleLoadMore = () => {
-    if (selectedDate && hasMore) {
+    if (hasMore) {
       fetchNews(selectedDate, currentPage + 1);
     }
   };
 
   const handleDateChange = (date: string) => {
-    setSelectedDate(date);
+    setSelectedDate(date || null);
   };
 
   if (loading) {
@@ -134,7 +134,7 @@ export default function NewsFeed({ initialData }: NewsFeedProps) {
         <div className="text-center">
           <p className="text-red-600 mb-4">{error}</p>
           <button
-            onClick={() => selectedDate && fetchNews(selectedDate, 1, true)}
+            onClick={() => fetchNews(selectedDate, 1, true)}
             className="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700"
           >
             Retry
@@ -174,10 +174,14 @@ export default function NewsFeed({ initialData }: NewsFeedProps) {
         />
       </div>
 
-      {selectedDate && (
+      {selectedDate ? (
         <div className="mb-4 text-sm text-gray-600">
           Showing {articles.length} of {totalArticles} articles for{" "}
           {selectedDate}
+        </div>
+      ) : (
+        <div className="mb-4 text-sm text-gray-600">
+          Showing {articles.length} of {totalArticles} most recent articles
         </div>
       )}
 

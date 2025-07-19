@@ -18,7 +18,7 @@ describe("DateSelector", () => {
       />
     );
 
-    expect(screen.getByText("Today")).toBeInTheDocument();
+    expect(screen.getByText("Mon, Jul 14")).toBeInTheDocument();
   });
 
   it("renders with no selected date", () => {
@@ -30,7 +30,7 @@ describe("DateSelector", () => {
       />
     );
 
-    expect(screen.getByText("Select Date")).toBeInTheDocument();
+    expect(screen.getByText("Today")).toBeInTheDocument();
   });
 
   it("opens dropdown when clicked", () => {
@@ -45,8 +45,31 @@ describe("DateSelector", () => {
     const button = screen.getByRole("button");
     fireEvent.click(button);
 
-    expect(screen.getByText("Yesterday")).toBeInTheDocument();
+    // Check for Today option
+    expect(screen.getByText("Today")).toBeInTheDocument();
+    expect(screen.getByText("Most recent articles")).toBeInTheDocument();
+
+    // Check for date options
+    expect(screen.getByText("Sun, Jul 13")).toBeInTheDocument();
     expect(screen.getByText("2025-07-13")).toBeInTheDocument();
+  });
+
+  it("calls onDateChange with empty string when Today is selected", () => {
+    render(
+      <DateSelector
+        dates={mockDates}
+        selectedDate="2025-07-14"
+        onDateChange={mockOnDateChange}
+      />
+    );
+
+    const button = screen.getByRole("button");
+    fireEvent.click(button);
+
+    const todayOption = screen.getByText("Today");
+    fireEvent.click(todayOption);
+
+    expect(mockOnDateChange).toHaveBeenCalledWith("");
   });
 
   it("calls onDateChange when date is selected", () => {
@@ -61,7 +84,7 @@ describe("DateSelector", () => {
     const button = screen.getByRole("button");
     fireEvent.click(button);
 
-    const yesterdayOption = screen.getByText("Yesterday");
+    const yesterdayOption = screen.getByText("Sun, Jul 13");
     fireEvent.click(yesterdayOption);
 
     expect(mockOnDateChange).toHaveBeenCalledWith("2025-07-13");
