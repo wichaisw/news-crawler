@@ -300,6 +300,17 @@
       "tags": []
     },
     {
+      "id": "7xqgzy",
+      "title": "Remembrance of Scents Past",
+      "description": "Score: 12 | Comments: 1 | Posted by prismatic",
+      "url": "https://www.newyorker.com/culture/onward-and-upward-with-the-arts/remembrance-of-scents-past",
+      "publishedAt": "2025-07-15T02:03:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "prismatic",
+      "tags": []
+    },
+    {
       "id": "l2ssqt",
       "title": "C++ Coroutines Advanced: Converting std:future to asio:awaitable",
       "description": "Score: 21 | Comments: 1 | Posted by xialeistudio",
@@ -352,6 +363,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "littlexsparkee",
+      "tags": []
+    },
+    {
+      "id": "vdxv2h",
+      "title": "Benben: An audio player for the terminal, written in Common Lisp",
+      "description": "Score: 64 | Comments: 6 | Posted by trocado",
+      "url": "https://chiselapp.com/user/MistressRemilia/repository/benben/home",
+      "publishedAt": "2025-07-15T00:19:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "trocado",
       "tags": []
     }
   ]
