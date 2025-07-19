@@ -1,7 +1,7 @@
 import { Suspense } from "react";
 import { StaticNewsFetcher } from "../lib/static-data/static-news-fetcher";
 import { StaticSourceFetcher } from "../lib/static-data/static-source-fetcher";
-import NewsFeed from "./(news)/_components/NewsFeed";
+import StaticNewsFeed from "./(news)/_components/StaticNewsFeed";
 import { NewsItem } from "../lib/types/news-types";
 
 // SSG: Static generation at build time
@@ -66,7 +66,7 @@ export default async function Home() {
 
   return (
     <Suspense fallback={<div>Loading...</div>}>
-      <NewsFeed initialData={initialData} />
+      <StaticNewsFeed initialData={initialData} />
     </Suspense>
   );
 }
