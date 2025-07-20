@@ -22,28 +22,18 @@ async function getInitialData() {
   try {
     // Get available dates
     const dates = await staticSourceFetcher.getAvailableDates();
-    const mostRecentDate = dates[0] || null;
 
-    // Get initial news data
-    let initialNews: InitialNews = {
-      articles: [],
-      total: 0,
-      page: 1,
-      limit: 20,
-      hasMore: false,
-    };
-    if (mostRecentDate) {
-      initialNews = await staticNewsFetcher.getNewsWithPagination(
-        mostRecentDate,
-        1,
-        20
-      );
-    }
+    // Get initial news data - default to "Today" (null) to show most recent articles from all sources
+    const initialNews = await staticNewsFetcher.getNewsWithPagination(
+      null, // null means "Today" - get most recent articles from all sources
+      1,
+      20
+    );
 
     return {
       dates,
       initialNews,
-      selectedDate: mostRecentDate,
+      selectedDate: null, // Default to "Today" instead of most recent date
     };
   } catch (error) {
     console.error("Failed to get initial data:", error);
