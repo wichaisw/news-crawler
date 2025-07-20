@@ -1,0 +1,83 @@
+{
+  "date": "2025-07-20",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "qlly45",
+      "title": "Airbnb allowed rampant price gouging following L.A. fires, city attorney alleges",
+      "description": "Score: 24 | Comments: 16 | Posted by miguelazo",
+      "url": "https://www.latimes.com/california/story/2025-07-19/airbnb-allowed-price-gouging-following-l-a-fires-city-attorney-alleges-in-lawsuit",
+      "publishedAt": "2025-07-20T03:14:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "miguelazo",
+      "tags": []
+    },
+    {
+      "id": "d5xbwx",
+      "title": "Borg - Deduplicating Archiver with Compression and Encryption",
+      "description": "Score: 15 | Comments: 3 | Posted by rubyn00bie",
+      "url": "https://www.borgbackup.org/",
+      "publishedAt": "2025-07-20T02:36:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rubyn00bie",
+      "tags": []
+    },
+    {
+      "id": "5xpccg",
+      "title": "Erythritol linked to brain cell damage and stroke risk",
+      "description": "Score: 45 | Comments: 22 | Posted by OutOfHere",
+      "url": "https://www.sciencedaily.com/releases/2025/07/250718035156.htm",
+      "publishedAt": "2025-07-20T02:02:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "OutOfHere",
+      "tags": []
+    },
+    {
+      "id": "nij8w5",
+      "title": "New York’s bill banning One-Person Train Operation",
+      "description": "Score: 79 | Comments: 107 | Posted by Ericson2314",
+      "url": "https://www.etany.org/statements/impeding-progress-costing-riders-opto",
+      "publishedAt": "2025-07-20T01:33:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Ericson2314",
+      "tags": []
+    },
+    {
+      "id": "n3106g",
+      "title": "The AGI Final Frontier: The CLJ-AGI Benchmark",
+      "description": "Score: 4 | Comments: 0 | Posted by raspasov",
+      "url": "https://raspasov.posthaven.com/the-agi-final-frontier-the-clj-agi-benchmark",
+      "publishedAt": "2025-07-20T01:28:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "raspasov",
+      "tags": []
+    },
+    {
+      "id": "iljkrx",
+      "title": "Intel to boost gross margins – new products must deliver 50% gross profit",
+      "description": "Score: 53 | Comments: 45 | Posted by walterbell",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/intel-draws-a-line-in-the-sand-to-boost-gross-margins-new-products-must-deliver-50-percent-to-get-the-green-light",
+      "publishedAt": "2025-07-20T00:25:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "walterbell",
+      "tags": []
+    },
+    {
+      "id": "terwkq",
+      "title": "Hungary's oldest library is fighting to save books from a beetle infestationnpr.org",
+      "description": "Score: 72 | Comments: 2 | Posted by smollett",
+      "url": "https://www.npr.org/2025/07/14/nx-s1-5467062/hungary-library-books-beetles",
+      "publishedAt": "2025-07-20T00:08:41.830Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "smollett",
+      "tags": []
+    }
+  ]
+}

@@ -14,6 +14,61 @@
       "tags": []
     },
     {
+      "id": "b1uf11",
+      "title": "Babies made using three people's DNA are born free of mitochondrial disease",
+      "description": "Score: 270 | Comments: 167 | Posted by 1659447091",
+      "url": "https://www.bbc.com/news/articles/cn8179z199vo",
+      "publishedAt": "2025-07-16T21:43:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "1659447091",
+      "tags": []
+    },
+    {
+      "id": "3hj6pj",
+      "title": "Matterport walkthrough of the original Microsoft Building 3",
+      "description": "Score: 25 | Comments: 16 | Posted by uticus",
+      "url": "https://my.matterport.com/show/?m=SZSV6vjcf4L",
+      "publishedAt": "2025-07-16T18:25:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "uticus",
+      "tags": []
+    },
+    {
+      "id": "ydtjq6",
+      "title": "Zig Interface Revisited",
+      "description": "Score: 89 | Comments: 25 | Posted by ww520",
+      "url": "https://williamw520.github.io/2025/07/13/zig-interface-revisited.html",
+      "publishedAt": "2025-07-16T16:52:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ww520",
+      "tags": []
+    },
+    {
+      "id": "cz98c9",
+      "title": "Show HN: Display Photos on a World Map",
+      "description": "Score: 29 | Comments: 2 | Posted by stagas",
+      "url": "https://worldsnap.surge.sh/",
+      "publishedAt": "2025-07-16T15:57:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "stagas",
+      "tags": []
+    },
+    {
+      "id": "terwkq",
+      "title": "Hungary's oldest library is fighting to save books from a beetle infestation",
+      "description": "Score: 72 | Comments: 2 | Posted by smollett",
+      "url": "https://www.npr.org/2025/07/14/nx-s1-5467062/hungary-library-books-beetles",
+      "publishedAt": "2025-07-16T15:25:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "smollett",
+      "tags": []
+    },
+    {
       "id": "u4ztsa",
       "title": "Fibonacci(50) as a Fractal Sequence Diagram",
       "description": "Score: 3 | Comments: 0 | Posted by billyp-rva",
@@ -22,6 +77,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "billyp-rva",
+      "tags": []
+    },
+    {
+      "id": "kikyzt",
+      "title": "I tried vibe coding in BASIC and it didn't go well",
+      "description": "Score: 57 | Comments: 45 | Posted by ibobev",
+      "url": "https://www.goto10retro.com/p/vibe-coding-in-basic",
+      "publishedAt": "2025-07-16T10:14:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
       "tags": []
     }
   ]
