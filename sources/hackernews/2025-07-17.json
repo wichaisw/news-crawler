@@ -58,6 +58,17 @@
       "tags": []
     },
     {
+      "id": "rgyd3v",
+      "title": "How we tracked down a Go 1.24 memory regression",
+      "description": "Score: 138 | Comments: 8 | Posted by gandem",
+      "url": "https://www.datadoghq.com/blog/engineering/go-memory-regression/",
+      "publishedAt": "2025-07-17T20:02:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gandem",
+      "tags": []
+    },
+    {
       "id": "xzh8ej",
       "title": "ICE's Supercharged Facial Recognition App of 200M Images",
       "description": "Score: 121 | Comments: 69 | Posted by joker99",
@@ -157,6 +168,17 @@
       "tags": []
     },
     {
+      "id": "4nesyw",
+      "title": "N78 band 5G NR recordings",
+      "description": "Score: 74 | Comments: 3 | Posted by Nokinside",
+      "url": "https://destevez.net/2025/07/n78-band-5g-nr-recordings/",
+      "publishedAt": "2025-07-17T14:08:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Nokinside",
+      "tags": []
+    },
+    {
       "id": "4tk80q",
       "title": "Converting Integers to Floats Using Hyperfocus (2022)",
       "description": "Score: 10 | Comments: 0 | Posted by gus_massa",
@@ -209,6 +231,50 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "BallsInIt",
+      "tags": []
+    },
+    {
+      "id": "jlh9e",
+      "title": "Mushroom learns to crawl after being given robot body (2024)",
+      "description": "Score: 91 | Comments: 22 | Posted by Anon84",
+      "url": "https://www.the-independent.com/tech/robot-mushroom-biohybrid-robotics-cornell-b2610411.html",
+      "publishedAt": "2025-07-17T10:43:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Anon84",
+      "tags": []
+    },
+    {
+      "id": "tzjjq6",
+      "title": "C++ Trailing Return Types (2022)",
+      "description": "Score: 4 | Comments: 0 | Posted by susam",
+      "url": "https://danielsieger.com/blog/2022/01/28/cpp-trailing-return-types.html",
+      "publishedAt": "2025-07-17T09:16:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "susam",
+      "tags": []
+    },
+    {
+      "id": "8k4xfh",
+      "title": "\"Bypassing\" Specialization in Rust or How I Learned to Stop Worrying and Love F",
+      "description": "Score: 18 | Comments: 9 | Posted by todsacerdoti",
+      "url": "https://oakchris1955.eu/posts/bypassing_specialization/",
+      "publishedAt": "2025-07-17T07:26:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "b1k7d8",
+      "title": "How to Run an Arduino for Years on a Battery",
+      "description": "Score: 26 | Comments: 1 | Posted by thunderbong",
+      "url": "https://makecademy.com/arduino-battery",
+      "publishedAt": "2025-07-17T06:39:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thunderbong",
       "tags": []
     },
     {
