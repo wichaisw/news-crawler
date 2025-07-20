@@ -79,7 +79,7 @@ export class StaticNewsFetcher {
    * Reuses the same pagination logic as the API route
    */
   async getNewsWithPagination(
-    date: string,
+    date: string | null,
     page: number = 1,
     limit: number = 20,
     source?: string
@@ -154,7 +154,7 @@ export class StaticNewsFetcher {
    * Fetch from static files (production mode)
    */
   private async fetchFromStaticFiles(
-    date: string,
+    date: string | null,
     source?: string
   ): Promise<NewsItem[]> {
     if (source) {
@@ -187,29 +187,69 @@ export class StaticNewsFetcher {
    */
   private async fetchSourceData(
     source: string,
-    date: string
+    date: string | null
   ): Promise<NewsItem[]> {
     try {
-      const url = `${this.baseUrl}/${source}/${date}.json`;
-      const response = await fetch(url);
+      if (date) {
+        // Fetch specific date
+        const url = `${this.baseUrl}/${source}/${date}.json`;
+        const response = await fetch(url);
 
-      if (!response.ok) {
-        console.warn(
-          `Failed to fetch ${source} data for ${date}: ${response.status}`
-        );
-        return []; // Same fallback as FileStorage
+        if (!response.ok) {
+          console.warn(
+            `Failed to fetch ${source} data for ${date}: ${response.status}`
+          );
+          return []; // Same fallback as FileStorage
+        }
+
+        const data: NewsResponse = await response.json();
+
+        // Convert publishedAt string to Date object if it's a string
+        return data.articles.map((article) => ({
+          ...article,
+          publishedAt:
+            typeof article.publishedAt === "string"
+              ? new Date(article.publishedAt)
+              : article.publishedAt,
+        }));
+      } else {
+        // Fetch all available dates for this source (for "Today" functionality)
+        const datesResponse = await fetch(`${this.baseUrl}/dates.json`);
+        if (!datesResponse.ok) {
+          console.warn(`Failed to fetch dates.json: ${datesResponse.status}`);
+          return [];
+        }
+
+        const datesData = await datesResponse.json();
+        const allArticles: NewsItem[] = [];
+
+        // Get articles from all available dates for this source
+        for (const availableDate of datesData.dates || []) {
+          try {
+            const url = `${this.baseUrl}/${source}/${availableDate}.json`;
+            const response = await fetch(url);
+
+            if (response.ok) {
+              const data: NewsResponse = await response.json();
+              const articles = data.articles.map((article) => ({
+                ...article,
+                publishedAt:
+                  typeof article.publishedAt === "string"
+                    ? new Date(article.publishedAt)
+                    : article.publishedAt,
+              }));
+              allArticles.push(...articles);
+            }
+          } catch (error) {
+            console.warn(
+              `Failed to fetch ${source} data for ${availableDate}:`,
+              error
+            );
+          }
+        }
+
+        return allArticles;
       }
-
-      const data: NewsResponse = await response.json();
-
-      // Convert publishedAt string to Date object if it's a string
-      return data.articles.map((article) => ({
-        ...article,
-        publishedAt:
-          typeof article.publishedAt === "string"
-            ? new Date(article.publishedAt)
-            : article.publishedAt,
-      }));
     } catch (error) {
       console.error(`Error fetching ${source} data for ${date}:`, error);
       return []; // Same fallback as FileStorage

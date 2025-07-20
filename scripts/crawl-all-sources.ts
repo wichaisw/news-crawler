@@ -56,7 +56,7 @@ async function crawlAllSources() {
 /**
  * Generate dates.json index file for static hosting
  * This replicates the logic from FileStorage.getAvailableDates() for all sources
- * Only includes dates that have data for ALL sources to prevent 404 errors
+ * Includes dates that have data for ANY source to show latest available data
  */
 async function generateDatesIndex() {
   try {
@@ -75,15 +75,11 @@ async function generateDatesIndex() {
       }
     }
 
-    // Find dates that exist for ALL sources
+    // Find dates that exist for ANY source (more inclusive approach)
     const allDates = new Set<string>();
-    const firstSource = sources[0];
-    if (firstSource && sourceDates[firstSource]) {
-      for (const date of sourceDates[firstSource]) {
-        const hasAllSources = sources.every(
-          (source) => sourceDates[source] && sourceDates[source].includes(date)
-        );
-        if (hasAllSources) {
+    for (const source of sources) {
+      if (sourceDates[source]) {
+        for (const date of sourceDates[source]) {
           allDates.add(date);
         }
       }
@@ -112,7 +108,7 @@ async function generateDatesIndex() {
     );
 
     console.log(
-      `   ✅ Generated dates index with ${sortedDates.length} dates (all sources)`
+      `   ✅ Generated dates index with ${sortedDates.length} dates (any source)`
     );
     console.log(`   📁 Written to: ${outputPath}`);
 
