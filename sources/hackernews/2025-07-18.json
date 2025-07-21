@@ -256,6 +256,17 @@
       "tags": []
     },
     {
+      "id": "hb51qc",
+      "title": "Using the Matrix Cores of AMD RDNA 4 architecture GPUs",
+      "description": "Score: 34 | Comments: 1 | Posted by ibobev",
+      "url": "https://gpuopen.com/learn/using_matrix_core_amd_rdna4/",
+      "publishedAt": "2025-07-18T13:13:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
+      "tags": []
+    },
+    {
       "id": "juehb",
       "title": "lsr: ls with io_uring",
       "description": "Score: 321 | Comments: 153 | Posted by mpweiher",
@@ -264,6 +275,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mpweiher",
+      "tags": []
+    },
+    {
+      "id": "9p1vo0",
+      "title": "Why not to use iframes for embedded dashboards",
+      "description": "Score: 22 | Comments: 11 | Posted by rogansage",
+      "url": "https://embeddable.com/blog/iframes-for-embedding",
+      "publishedAt": "2025-07-18T11:48:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rogansage",
+      "tags": []
+    },
+    {
+      "id": "9b51c1",
+      "title": "“Dynamic Programming” is not referring to “computer programming”",
+      "description": "Score: 74 | Comments: 9 | Posted by r4um",
+      "url": "https://www.vidarholen.net/contents/blog/?p=1172",
+      "publishedAt": "2025-07-18T11:09:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "r4um",
       "tags": []
     },
     {
@@ -399,6 +432,17 @@
       "tags": []
     },
     {
+      "id": "dni76a",
+      "title": "Tell me again about neurons now",
+      "description": "Score: 27 | Comments: 16 | Posted by strangattractor",
+      "url": "https://www.science.org/content/blog-post/tell-me-again-about-neurons-now",
+      "publishedAt": "2025-07-18T03:26:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "strangattractor",
+      "tags": []
+    },
+    {
       "id": "dglk2r",
       "title": "NIH is cheaper than the wrong dependencylewiscampbell.tech",
       "description": "Score: 96 | Comments: 45 | Posted by todsacerdoti",
@@ -440,6 +484,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "msephton",
+      "tags": []
+    },
+    {
+      "id": "sexjhn",
+      "title": "Laminar Flow Airfoil",
+      "description": "Score: 29 | Comments: 3 | Posted by colinprince",
+      "url": "http://www.aviation-history.com/theory/lam-flow.htm",
+      "publishedAt": "2025-07-18T00:54:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "colinprince",
       "tags": []
     },
     {

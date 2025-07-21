@@ -47,6 +47,17 @@
       "tags": []
     },
     {
+      "id": "p7xzzu",
+      "title": "What my mother didn’t talk about (2020)",
+      "description": "Score: 52 | Comments: 15 | Posted by NaOH",
+      "url": "https://www.buzzfeednews.com/article/karolinawaclawiak/what-my-mother-didnt-talk-about-karolina-waclawiak",
+      "publishedAt": "2025-07-17T21:43:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "NaOH",
+      "tags": []
+    },
+    {
       "id": "6drs3v",
       "title": "Anthropic tightens usage limits for Claude Code without telling users",
       "description": "Score: 296 | Comments: 172 | Posted by mfiguiere",
@@ -55,6 +66,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mfiguiere",
+      "tags": []
+    },
+    {
+      "id": "ijwxnv",
+      "title": "The Daily Life of a Medieval King",
+      "description": "Score: 11 | Comments: 1 | Posted by diodorus",
+      "url": "https://www.medievalists.net/2025/07/medieval-king-daily-life/",
+      "publishedAt": "2025-07-17T20:54:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "diodorus",
       "tags": []
     },
     {
@@ -77,6 +99,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "joker99",
+      "tags": []
+    },
+    {
+      "id": "udz1au",
+      "title": "Logical implication is a comparison operator",
+      "description": "Score: 26 | Comments: 8 | Posted by btdmaster",
+      "url": "https://btdmaster.bearblog.dev/logical-implication-as-comparison/",
+      "publishedAt": "2025-07-17T19:15:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "btdmaster",
       "tags": []
     },
     {
@@ -132,6 +165,39 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "Topfi",
+      "tags": []
+    },
+    {
+      "id": "vsi9u7",
+      "title": "New colors without shooting lasers into your eyes",
+      "description": "Score: 341 | Comments: 83 | Posted by zdw",
+      "url": "https://dynomight.net/colors/",
+      "publishedAt": "2025-07-17T16:01:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "3vq4uh",
+      "title": "Show HN: Conductor, a Mac app that lets you run a bunch of Claude Codes at once",
+      "description": "Score: 159 | Comments: 73 | Posted by Charlieholtz",
+      "url": "https://conductor.build/",
+      "publishedAt": "2025-07-17T15:43:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Charlieholtz",
+      "tags": []
+    },
+    {
+      "id": "yuxisk",
+      "title": "How slow motion became cinema’s dominant special effect",
+      "description": "Score: 19 | Comments: 5 | Posted by cainxinth",
+      "url": "https://newrepublic.com/article/196262/slow-motion-became-cinema-dominant-special-effect-downtime",
+      "publishedAt": "2025-07-17T15:34:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cainxinth",
       "tags": []
     },
     {
@@ -245,6 +311,17 @@
       "tags": []
     },
     {
+      "id": "27slrj",
+      "title": "JOVE – Jonathan’s Own Version of Emacs",
+      "description": "Score: 51 | Comments: 27 | Posted by nanna",
+      "url": "https://github.com/jonmacs/jove/",
+      "publishedAt": "2025-07-17T09:35:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nanna",
+      "tags": []
+    },
+    {
       "id": "tzjjq6",
       "title": "C++ Trailing Return Types (2022)",
       "description": "Score: 4 | Comments: 0 | Posted by susam",
@@ -253,6 +330,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "susam",
+      "tags": []
+    },
+    {
+      "id": "vrtrui",
+      "title": "Simulating hand-drawn motion with SVG filters",
+      "description": "Score: 164 | Comments: 15 | Posted by camillovisini",
+      "url": "https://camillovisini.com/coding/simulating-hand-drawn-motion-with-svg-filters",
+      "publishedAt": "2025-07-17T09:12:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "camillovisini",
       "tags": []
     },
     {
@@ -275,6 +363,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "thunderbong",
+      "tags": []
+    },
+    {
+      "id": "vnle2d",
+      "title": "Java was not underhyped in 1997 (2021)",
+      "description": "Score: 78 | Comments: 88 | Posted by SerCe",
+      "url": "https://dylanbeattie.net/2021/07/01/java-is-criminally-underhyped.html",
+      "publishedAt": "2025-07-17T05:37:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "SerCe",
       "tags": []
     },
     {

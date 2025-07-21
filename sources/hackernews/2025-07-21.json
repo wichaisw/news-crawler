@@ -1,0 +1,83 @@
+{
+  "date": "2025-07-21",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "lszmzg",
+      "title": "Alaska Airlines grounds all flights after IT outage disrupts systems",
+      "description": "Score: 3 | Comments: 0 | Posted by leptoniscool",
+      "url": "https://www.reuters.com/world/us/alaska-airlines-grounds-all-flights-after-it-outage-disrupts-systems-2025-07-21/",
+      "publishedAt": "2025-07-21T05:11:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "leptoniscool",
+      "tags": []
+    },
+    {
+      "id": "mcwh5h",
+      "title": "ESP32-Faikin: ESP32 based module to control Daikin aircon units",
+      "description": "Score: 18 | Comments: 2 | Posted by todsacerdoti",
+      "url": "https://github.com/revk/ESP32-Faikin",
+      "publishedAt": "2025-07-21T03:41:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "gs4xlm",
+      "title": "Log by time, not by count",
+      "description": "Score: 60 | Comments: 23 | Posted by JohnScolaro",
+      "url": "https://johnscolaro.xyz/blog/log-by-time-not-by-count",
+      "publishedAt": "2025-07-21T01:15:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "JohnScolaro",
+      "tags": []
+    },
+    {
+      "id": "8y50zv",
+      "title": "Claude Jailbroken to Mint Unlimited Stripe Coupons",
+      "description": "Score: 72 | Comments: 43 | Posted by rhavaeis",
+      "url": "https://www.generalanalysis.com/blog/imessage-stripe-exploit",
+      "publishedAt": "2025-07-21T00:53:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rhavaeis",
+      "tags": []
+    },
+    {
+      "id": "d7eqs3",
+      "title": "Agents built from alloys",
+      "description": "Score: 92 | Comments: 41 | Posted by summarity",
+      "url": "https://xbow.com/blog/alloy-agents/",
+      "publishedAt": "2025-07-21T00:33:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "summarity",
+      "tags": []
+    },
+    {
+      "id": "100ljc",
+      "title": "Computational complexity of neural networks (2022)",
+      "description": "Score: 15 | Comments: 2 | Posted by mathattack",
+      "url": "https://lunalux.io/introduction-to-neural-networks/computational-complexity-of-neural-networks/",
+      "publishedAt": "2025-07-21T00:23:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mathattack",
+      "tags": []
+    },
+    {
+      "id": "q6k06c",
+      "title": "Show HN: X11 desktop widget that shows location of your network peers on a map",
+      "description": "Score: 107 | Comments: 43 | Posted by h2337",
+      "url": "https://github.com/h2337/connmap",
+      "publishedAt": "2025-07-21T00:16:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "h2337",
+      "tags": []
+    }
+  ]
+}
