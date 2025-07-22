@@ -1,0 +1,50 @@
+{
+  "date": "2025-07-22",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3029874",
+      "title": "Latent Labs launches web-based AI model to democratize protein design",
+      "description": "The company claims that its model achieved state of the art on specific metrics.",
+      "url": "https://techcrunch.com/2025/07/21/latent-labs-launches-web-based-ai-model-to-democratize-protein-design/",
+      "publishedAt": "2025-07-22T06:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Marina Temkin",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3029786",
+      "title": "Instead of selling to Meta, AI chip startup FuriosaAI signed a huge customer",
+      "description": "South Korean AI chip startup FuriosaAI announced a partnership on Tuesday to supply its AI chip, RNGD, to enterprises using LG AI Research's recently",
+      "url": "https://techcrunch.com/2025/07/21/instead-of-selling-to-meta-ai-chip-startup-furiosaai-signed-a-huge-customer/",
+      "publishedAt": "2025-07-22T05:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Kate Park",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3029721",
+      "title": "Tesla’s retro-futuristic diner officially opens as Elon Musk hints at more locations",
+      "description": "The Tesla Diner &#038; Drive-In officially opened Monday and it seems Elon Musk is planning for more.",
+      "url": "https://techcrunch.com/2025/07/21/teslas-retro-futuristic-diner-officially-opens-as-elon-musk-hints-at-more-locations/",
+      "publishedAt": "2025-07-22T02:29:52.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Kirsten Korosec",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3029602",
+      "title": "OpenAI and Google outdo the mathletes, but not each other",
+      "description": "OpenAI and Google's AI models achieved impressive results in a difficult math competition, but disputed how the other got their score.",
+      "url": "https://techcrunch.com/2025/07/21/openai-and-google-outdo-the-mathletes-but-not-each-other/",
+      "publishedAt": "2025-07-22T00:06:41.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Maxwell Zeff",
+      "tags": []
+    }
+  ]
+}

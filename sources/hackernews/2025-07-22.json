@@ -1,0 +1,94 @@
+{
+  "date": "2025-07-22",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "lx4y5s",
+      "title": "Complete silence is always hallucinated as \"ترجمة نانسي قنقر\" in Arabic",
+      "description": "Score: 11 | Comments: 3 | Posted by edent",
+      "url": "https://github.com/openai/whisper/discussions/2608",
+      "publishedAt": "2025-07-22T05:42:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "edent",
+      "tags": []
+    },
+    {
+      "id": "l28qt3",
+      "title": "Workers at Snopes.com win voluntary recognition",
+      "description": "Score: 72 | Comments: 3 | Posted by giuliomagnifico",
+      "url": "https://newsguild.org/workers-at-snopes-com-win-voluntary-union-recognition/",
+      "publishedAt": "2025-07-22T03:48:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "giuliomagnifico",
+      "tags": []
+    },
+    {
+      "id": "ftbqe1",
+      "title": "Reengineered carbon-to-acetylene process with negative carbon emission (2023)",
+      "description": "Score: 7 | Comments: 1 | Posted by blacksqr",
+      "url": "https://pubs.rsc.org/en/content/articlehtml/2023/gc/d3gc01775c",
+      "publishedAt": "2025-07-22T03:21:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "blacksqr",
+      "tags": []
+    },
+    {
+      "id": "po6n7a",
+      "title": "We have made the decision to not continue paying for BBB accreditation",
+      "description": "Score: 74 | Comments: 32 | Posted by LorenDB",
+      "url": "https://mycherrytree.com/blogs/news/why-we-have-made-the-decision-to-not-continue-paying-for-accreditation-from-the-better-business-bureau-bbb",
+      "publishedAt": "2025-07-22T02:49:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "LorenDB",
+      "tags": []
+    },
+    {
+      "id": "e46e2g",
+      "title": "Bill to Restrict AI Companies Unauthorized Use of Copyrighted Works for Training",
+      "description": "Score: 17 | Comments: 0 | Posted by OutOfHere",
+      "url": "https://deadline.com/2025/07/senate-bill-ai-copyright-1236463986/",
+      "publishedAt": "2025-07-22T02:42:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "OutOfHere",
+      "tags": []
+    },
+    {
+      "id": "uxyj1q",
+      "title": "AI could have written this: Birth of a classist slur in knowledge work [pdf]",
+      "description": "Score: 13 | Comments: 11 | Posted by deverton",
+      "url": "https://advait.org/files/sarkar_2025_ai_shaming.pdf",
+      "publishedAt": "2025-07-22T02:39:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "deverton",
+      "tags": []
+    },
+    {
+      "id": "gysgmz",
+      "title": "AI comes up with bizarre physics experiments, but they work",
+      "description": "Score: 116 | Comments: 43 | Posted by pseudolus",
+      "url": "https://www.quantamagazine.org/ai-comes-up-with-bizarre-physics-experiments-but-they-work-20250721/",
+      "publishedAt": "2025-07-22T01:28:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pseudolus",
+      "tags": []
+    },
+    {
+      "id": "y7j04i",
+      "title": "Jujutsu for busy devs",
+      "description": "Score: 110 | Comments: 98 | Posted by Bogdanp",
+      "url": "https://maddie.wtf/posts/2025-07-21-jujutsu-for-busy-devs",
+      "publishedAt": "2025-07-22T00:21:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Bogdanp",
+      "tags": []
+    }
+  ]
+}

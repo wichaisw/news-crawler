@@ -3,6 +3,72 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "147481 at https://www.blognone.com",
+      "title": "ไมโครซอฟท์ออกแพตช์ SharePoint Server 2016 และ 2019 ปิดช่องโหว่ Zero-Day",
+      "description": "ไมโครซอฟท์ออกแพตช์ SharePoint Server 2016 และ 2019 ปิดช่องโหว่ Zero-Day Body ไมโครซอฟท์ออกแพตช์ให้กับ SharePoint Server 2016 และ 2019",
+      "url": "https://www.blognone.com/node/147481",
+      "publishedAt": "2025-07-21T23:51:12.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "147480 at https://www.blognone.com",
+      "title": "นี่ก็เหรียญทอง DeepMind ส่ง Gemini สอบคณิตศาสตร์โอลิมปิก ได้เหรียญทอง",
+      "description": "นี่ก็เหรียญทอง DeepMind ส่ง Gemini สอบคณิตศาสตร์โอลิมปิก ได้เหรียญทอง Body การสอบคณิตศาสตร์โอลิมปิก (International Mathematical Olympiad)",
+      "url": "https://www.blognone.com/node/147480",
+      "publishedAt": "2025-07-21T23:30:14.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "147479 at https://www.blognone.com",
+      "title": "อดีตพนักงาน OpenAI เขียนโปรแกรมแข่งกับ GPT แบบมาราธอน 10 ชั่วโมงรวด ชนะแบบฉิวเฉียด",
+      "description": "อดีตพนักงาน OpenAI เขียนโปรแกรมแข่งกับ GPT แบบมาราธอน 10 ชั่วโมงรวด ชนะแบบฉิวเฉียด Body เมื่อสัปดาห์ที่แล้ว AtCoder",
+      "url": "https://www.blognone.com/node/147479",
+      "publishedAt": "2025-07-21T16:19:43.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "147478 at https://www.blognone.com",
+      "title": "เกมยิง Ready or Not ออกเวอร์ชันคอนโซล 3.6 วันขายได้ 1 ล้านชุด, ยอดขายรวม 10 ล้านชุด",
+      "description": "เกมยิง Ready or Not ออกเวอร์ชันคอนโซล 3.6 วันขายได้ 1 ล้านชุด, ยอดขายรวม 10 ล้านชุด Body Ready or Not เกมยิงแนว tactical shooter ของสตูดิโอ VOID",
+      "url": "https://www.blognone.com/node/147478",
+      "publishedAt": "2025-07-21T14:54:49.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "147477 at https://www.blognone.com",
+      "title": "ภาพหลุด Pixel 10 หน้าตาเหมือนเดิม, รุ่นธรรมดาเพิ่มกล้อง Tele ที่เคยมีแต่รุ่น Pro",
+      "description": "ภาพหลุด Pixel 10 หน้าตาเหมือนเดิม, รุ่นธรรมดาเพิ่มกล้อง Tele ที่เคยมีแต่รุ่น Pro Body เว็บไซต์ Android Headliners อ้างว่าได้ภาพเรนเดอร์ของ Google",
+      "url": "https://www.blognone.com/node/147477",
+      "publishedAt": "2025-07-21T14:45:24.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "147476 at https://www.blognone.com",
+      "title": "OpenAI นำโมเดลรุ่นทดสอบไปทำข้อสอบคณิตศาสตร์โอลิมปิก ได้เหรียญทอง",
+      "description": "OpenAI นำโมเดลรุ่นทดสอบไปทำข้อสอบคณิตศาสตร์โอลิมปิก ได้เหรียญทอง Body Alexander Wei นักวิจัยของ OpenAI เปิดเผยว่าโมเดลให้เหตุผลเวอร์ชันทดลอง",
+      "url": "https://www.blognone.com/node/147476",
+      "publishedAt": "2025-07-21T14:37:15.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "147475 at https://www.blognone.com",
       "title": "AWS Lambda เชื่อมต่อ VS Code จากคอนโซล, ดีบั๊ก Lambda จาก VS Code โดยตรง",
       "description": "AWS Lambda เชื่อมต่อ VS Code จากคอนโซล, ดีบั๊ก Lambda จาก VS Code โดยตรง Body AWS เพิ่มฟีเจอร์ของ Lambda เชื่อมการทำงานระหว่าง AWS Management Console",
