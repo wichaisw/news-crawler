@@ -6,7 +6,7 @@ import { ChevronDownIcon, CalendarIcon } from "@heroicons/react/24/outline";
 interface DateSelectorProps {
   dates: string[];
   selectedDate: string | null;
-  onDateChange: (date: string) => void;
+  onDateChange: (date: string | null) => void;
 }
 
 export default function DateSelector({
@@ -36,7 +36,7 @@ export default function DateSelector({
   };
 
   const handleDateSelect = (date: string | null) => {
-    onDateChange(date || "");
+    onDateChange(date);
     setIsOpen(false);
   };
 

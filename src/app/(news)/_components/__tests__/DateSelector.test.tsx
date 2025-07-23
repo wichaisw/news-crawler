@@ -54,7 +54,7 @@ describe("DateSelector", () => {
     expect(screen.getByText("2025-07-13")).toBeInTheDocument();
   });
 
-  it("calls onDateChange with empty string when Today is selected", () => {
+  it("calls onDateChange with null when Today is selected", () => {
     render(
       <DateSelector
         dates={mockDates}
@@ -69,7 +69,7 @@ describe("DateSelector", () => {
     const todayOption = screen.getByText("Today");
     fireEvent.click(todayOption);
 
-    expect(mockOnDateChange).toHaveBeenCalledWith("");
+    expect(mockOnDateChange).toHaveBeenCalledWith(null);
   });
 
   it("calls onDateChange when date is selected", () => {

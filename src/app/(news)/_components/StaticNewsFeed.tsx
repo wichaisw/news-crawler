@@ -52,13 +52,13 @@ export default function StaticNewsFeed({ initialData }: StaticNewsFeedProps) {
 
   // Only fetch when date changes (not on initial load)
   useEffect(() => {
-    if (selectedDate && selectedDate !== initialData.selectedDate) {
+    if (selectedDate !== initialData.selectedDate) {
       fetchNews(selectedDate, 1, true);
     }
   }, [selectedDate, initialData.selectedDate]);
 
   const fetchNews = async (
-    date: string,
+    date: string | null,
     page: number,
     reset: boolean = false
   ) => {
@@ -96,12 +96,12 @@ export default function StaticNewsFeed({ initialData }: StaticNewsFeedProps) {
   };
 
   const handleLoadMore = () => {
-    if (selectedDate && hasMore) {
+    if (hasMore) {
       fetchNews(selectedDate, currentPage + 1);
     }
   };
 
-  const handleDateChange = (date: string) => {
+  const handleDateChange = (date: string | null) => {
     setSelectedDate(date);
   };
 
@@ -125,7 +125,7 @@ export default function StaticNewsFeed({ initialData }: StaticNewsFeedProps) {
         <div className="text-center">
           <p className="text-red-600 mb-4">{error}</p>
           <button
-            onClick={() => selectedDate && fetchNews(selectedDate, 1, true)}
+            onClick={() => fetchNews(selectedDate, 1, true)}
             className="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700"
           >
             Retry
