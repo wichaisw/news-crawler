@@ -245,14 +245,19 @@ make run
 
 ## Recent Fixes (July 2025)
 
-### Fixed HTML 404 Errors for Missing JSON Files
-- **Problem**: Some source/date.json requests were returning HTML 404 pages instead of JSON
-- **Root Cause**: `dates.json` included dates that didn't exist in all source directories, causing 404s
+### Fixed React Error #418 and HTML 404 Errors
+- **Problem**: React error #418 occurring due to null/undefined text content, plus HTML 404 pages instead of JSON
+- **Root Cause**: 
+  - `decodeHtmlEntities` function receiving null/undefined values
+  - `dates.json` included dates that didn't exist in all source directories
+  - Missing data validation in static fetcher
 - **Solution**: 
+  - Enhanced `decodeHtmlEntities` to handle null/undefined values safely
+  - Added comprehensive data validation in `StaticNewsFetcher`
   - Updated `scripts/generate-dates-index.ts` to scan actual filesystem for existing JSON files
-  - Enhanced `StaticNewsFetcher` to check content-type headers and skip invalid responses
-  - Improved API route error handling to return proper JSON error responses
-- **Result**: All date selections now work correctly without HTML 404 errors
+  - Added defensive programming to all components with fallback values
+  - Enhanced error handling for date parsing and source colors
+- **Result**: No more React errors and all date selections work correctly
 
 ### Fixed 404 Errors for Date Selection
 - **Problem**: Pages except today were returning 404 errors when selecting dates

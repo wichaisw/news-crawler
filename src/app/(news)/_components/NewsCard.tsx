@@ -17,8 +17,10 @@ export default function NewsCard({
   isBookmarked = false,
   onBookmarkToggle,
 }: NewsCardProps) {
-  // Ensure publishedAt is a Date object
-  const publishedDate = new Date(newsItem.publishedAt);
+  // Ensure publishedAt is a Date object with error handling
+  const publishedDate = newsItem.publishedAt
+    ? new Date(newsItem.publishedAt)
+    : new Date();
   const { bg, text } = getSourceColor(newsItem.source);
 
   return (
@@ -64,12 +66,12 @@ export default function NewsCard({
           }}
         >
           <a
-            href={newsItem.url}
+            href={newsItem.url || "#"}
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-blue-600 transition-colors"
           >
-            {decodeHtmlEntities(newsItem.title)}
+            {decodeHtmlEntities(newsItem.title) || "No title available"}
           </a>
         </h3>
         <p
@@ -80,7 +82,8 @@ export default function NewsCard({
             WebkitBoxOrient: "vertical",
           }}
         >
-          {decodeHtmlEntities(newsItem.description)}
+          {decodeHtmlEntities(newsItem.description) ||
+            "No description available"}
         </p>
       </div>
 

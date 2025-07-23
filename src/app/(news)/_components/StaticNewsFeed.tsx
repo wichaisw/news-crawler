@@ -28,7 +28,7 @@ interface StaticNewsFeedProps {
 
 export default function StaticNewsFeed({ initialData }: StaticNewsFeedProps) {
   const [articles, setArticles] = useState<NewsItem[]>(
-    initialData.initialNews.articles
+    initialData.initialNews.articles || []
   );
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
@@ -74,9 +74,9 @@ export default function StaticNewsFeed({ initialData }: StaticNewsFeedProps) {
         );
 
         if (reset) {
-          setArticles(data.articles);
+          setArticles(data.articles || []);
         } else {
-          setArticles((prev) => [...prev, ...data.articles]);
+          setArticles((prev) => [...prev, ...(data.articles || [])]);
         }
 
         setTotalArticles(data.total);

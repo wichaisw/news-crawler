@@ -202,14 +202,33 @@ export class StaticNewsFetcher {
 
         const data: NewsResponse = await response.json();
 
-        // Convert publishedAt string to Date object if it's a string
-        return data.articles.map((article) => ({
-          ...article,
-          publishedAt:
-            typeof article.publishedAt === "string"
-              ? new Date(article.publishedAt)
-              : article.publishedAt,
-        }));
+        // Validate and clean the data
+        return data.articles
+          .filter((article) => {
+            // Filter out articles with missing required fields
+            return (
+              article &&
+              article.id &&
+              article.title &&
+              article.url &&
+              article.source
+            );
+          })
+          .map((article) => ({
+            ...article,
+            // Ensure all required fields have fallback values
+            title: article.title || "No title available",
+            description: article.description || "No description available",
+            url: article.url || "#",
+            source: article.source || "unknown",
+            sourceName:
+              article.sourceName || article.source || "Unknown Source",
+            author: article.author || undefined,
+            publishedAt:
+              typeof article.publishedAt === "string"
+                ? new Date(article.publishedAt)
+                : article.publishedAt,
+          }));
       } else {
         // Fetch all available dates for this source (for "Today" functionality)
         const datesResponse = await fetch(`${this.baseUrl}/dates.json`);
@@ -238,13 +257,33 @@ export class StaticNewsFetcher {
               }
 
               const data: NewsResponse = await response.json();
-              const articles = data.articles.map((article) => ({
-                ...article,
-                publishedAt:
-                  typeof article.publishedAt === "string"
-                    ? new Date(article.publishedAt)
-                    : article.publishedAt,
-              }));
+              const articles = data.articles
+                .filter((article) => {
+                  // Filter out articles with missing required fields
+                  return (
+                    article &&
+                    article.id &&
+                    article.title &&
+                    article.url &&
+                    article.source
+                  );
+                })
+                .map((article) => ({
+                  ...article,
+                  // Ensure all required fields have fallback values
+                  title: article.title || "No title available",
+                  description:
+                    article.description || "No description available",
+                  url: article.url || "#",
+                  source: article.source || "unknown",
+                  sourceName:
+                    article.sourceName || article.source || "Unknown Source",
+                  author: article.author || undefined,
+                  publishedAt:
+                    typeof article.publishedAt === "string"
+                      ? new Date(article.publishedAt)
+                      : article.publishedAt,
+                }));
               allArticles.push(...articles);
             }
           } catch (error) {
