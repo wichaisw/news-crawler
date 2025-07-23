@@ -33,8 +33,7 @@ export default function SourcesPage() {
   }, []);
 
   // Check if we're in production (static export)
-  const isProduction =
-    typeof window !== "undefined" && window.location.hostname !== "localhost";
+  const isProduction = process.env.NODE_ENV === "production";
 
   // Show production message if in production
   if (isProduction) {

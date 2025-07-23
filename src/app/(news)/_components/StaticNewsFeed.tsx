@@ -184,6 +184,7 @@ export default function StaticNewsFeed({ initialData }: StaticNewsFeedProps) {
           emptyMessage="No news articles found."
           emptySubMessage="Try running the crawler to fetch some articles."
           showLoadMoreButton={true}
+          totalArticles={totalArticles}
         />
       ) : (
         <div className="bg-white rounded-lg shadow-sm border border-gray-200">
