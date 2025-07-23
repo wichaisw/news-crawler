@@ -110,8 +110,8 @@ export default function NewsFeed({ initialData }: NewsFeedProps) {
     }
   };
 
-  const handleDateChange = (date: string) => {
-    setSelectedDate(date || null);
+  const handleDateChange = (date: string | null) => {
+    setSelectedDate(date);
   };
 
   if (loading) {

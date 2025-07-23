@@ -18,6 +18,7 @@ interface NewsListProps {
   showLoadMoreButton?: boolean;
   className?: string;
   emptyContent?: ReactNode;
+  totalArticles?: number;
 }
 
 export default function NewsList({
@@ -34,6 +35,7 @@ export default function NewsList({
   showLoadMoreButton = true,
   className = "",
   emptyContent,
+  totalArticles,
 }: NewsListProps) {
   if (loading) {
     return (
@@ -106,9 +108,9 @@ export default function NewsList({
                 Loading...
               </div>
             ) : (
-              `Load More (${articles.length} of ${
-                articles.length + (hasMore ? 20 : 0)
-              } shown)`
+              `Load More (${
+                totalArticles ? totalArticles - articles.length : 20
+              } remaining)`
             )}
           </button>
         </div>

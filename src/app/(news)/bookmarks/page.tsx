@@ -107,6 +107,7 @@ export default function BookmarksPage() {
           onBookmarkToggle={onBookmarkToggle}
           emptyContent={emptyContent}
           showLoadMoreButton={true}
+          totalArticles={totalArticles}
         />
       ) : (
         <NewsList
@@ -120,6 +121,7 @@ export default function BookmarksPage() {
           showDescription={showDescription}
           emptyContent={emptyContent}
           showLoadMoreButton={true}
+          totalArticles={totalArticles}
         />
       )}
 
