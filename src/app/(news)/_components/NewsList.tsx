@@ -18,7 +18,7 @@ interface NewsListProps {
   showLoadMoreButton?: boolean;
   className?: string;
   emptyContent?: ReactNode;
-  totalArticles?: number;
+  nextPageItemCount?: number;
 }
 
 export default function NewsList({
@@ -35,7 +35,7 @@ export default function NewsList({
   showLoadMoreButton = true,
   className = "",
   emptyContent,
-  totalArticles,
+  nextPageItemCount,
 }: NewsListProps) {
   if (loading) {
     return (
@@ -108,9 +108,7 @@ export default function NewsList({
                 Loading...
               </div>
             ) : (
-              `Load More (${
-                totalArticles ? totalArticles - articles.length : 20
-              } remaining)`
+              `Load More (${nextPageItemCount || 20} remaining)`
             )}
           </button>
         </div>
