@@ -91,6 +91,14 @@ make prod
 3. Wait for the crawl to complete
 4. Return to http://localhost:3000 to view news
 
+### 6. Regenerate Dates Index (if needed)
+If you encounter 404 errors when selecting dates, regenerate the dates index:
+```bash
+npm run generate-dates
+# or
+npx tsx scripts/generate-dates-index.ts
+```
+
 ## Docker Commands
 
 ```bash
@@ -236,6 +244,15 @@ make run
 5. Use the `out/` directory as the build output
 
 ## Recent Fixes (July 2025)
+
+### Fixed HTML 404 Errors for Missing JSON Files
+- **Problem**: Some source/date.json requests were returning HTML 404 pages instead of JSON
+- **Root Cause**: `dates.json` included dates that didn't exist in all source directories, causing 404s
+- **Solution**: 
+  - Updated `scripts/generate-dates-index.ts` to scan actual filesystem for existing JSON files
+  - Enhanced `StaticNewsFetcher` to check content-type headers and skip invalid responses
+  - Improved API route error handling to return proper JSON error responses
+- **Result**: All date selections now work correctly without HTML 404 errors
 
 ### Fixed 404 Errors for Date Selection
 - **Problem**: Pages except today were returning 404 errors when selecting dates
