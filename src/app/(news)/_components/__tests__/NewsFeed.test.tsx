@@ -34,6 +34,18 @@ const mockArticles = [
 
 const mockDates = ["2025-07-14", "2025-07-13", "2025-07-12"];
 
+const mockInitialData = {
+  dates: mockDates,
+  initialNews: {
+    articles: mockArticles,
+    total: 2,
+    page: 1,
+    limit: 20,
+    hasMore: false,
+  },
+  selectedDate: null,
+};
+
 describe("NewsFeed", () => {
   beforeEach(() => {
     mockFetch.mockClear();
@@ -44,7 +56,7 @@ describe("NewsFeed", () => {
       () => new Promise(() => {}) // Never resolves to keep loading state
     );
 
-    render(<NewsFeed />);
+    render(<NewsFeed initialData={mockInitialData} />);
 
     expect(screen.getByText("Loading news...")).toBeInTheDocument();
     expect(screen.getByRole("status")).toBeInTheDocument(); // Spinner
@@ -69,7 +81,7 @@ describe("NewsFeed", () => {
       }),
     } as Response);
 
-    render(<NewsFeed />);
+    render(<NewsFeed initialData={mockInitialData} />);
 
     await waitFor(() => {
       expect(screen.getByText("Test Article 1")).toBeInTheDocument();
@@ -92,7 +104,7 @@ describe("NewsFeed", () => {
       json: async () => ({ error: "Failed to fetch news" }),
     } as Response);
 
-    render(<NewsFeed />);
+    render(<NewsFeed initialData={mockInitialData} />);
 
     await waitFor(() => {
       expect(screen.getByText("Failed to fetch news")).toBeInTheDocument();
@@ -110,7 +122,7 @@ describe("NewsFeed", () => {
     // Mock news API call throws
     mockFetch.mockRejectedValueOnce(new Error("Network error"));
 
-    render(<NewsFeed />);
+    render(<NewsFeed initialData={mockInitialData} />);
 
     await waitFor(() => {
       expect(screen.getByText("Failed to fetch news")).toBeInTheDocument();
@@ -136,7 +148,7 @@ describe("NewsFeed", () => {
       }),
     } as Response);
 
-    render(<NewsFeed />);
+    render(<NewsFeed initialData={mockInitialData} />);
 
     await waitFor(() => {
       expect(screen.getByText("No news articles found.")).toBeInTheDocument();
@@ -171,7 +183,7 @@ describe("NewsFeed", () => {
       }),
     } as Response);
 
-    render(<NewsFeed />);
+    render(<NewsFeed initialData={mockInitialData} />);
 
     await waitFor(() => {
       expect(screen.getByText("Failed to fetch news")).toBeInTheDocument();
@@ -203,7 +215,7 @@ describe("NewsFeed", () => {
       }),
     } as Response);
 
-    render(<NewsFeed />);
+    render(<NewsFeed initialData={mockInitialData} />);
 
     await waitFor(() => {
       expect(mockFetch).toHaveBeenCalledWith("/api/source");
@@ -232,7 +244,7 @@ describe("NewsFeed", () => {
       }),
     } as Response);
 
-    render(<NewsFeed />);
+    render(<NewsFeed initialData={mockInitialData} />);
 
     await waitFor(() => {
       const grid = screen.getByRole("main").querySelector(".grid");
