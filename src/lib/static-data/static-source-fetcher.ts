@@ -1,15 +1,9 @@
 export class StaticSourceFetcher {
   private baseUrl: string;
-  private isDevelopment: boolean;
 
   constructor(baseUrl?: string) {
-    this.isDevelopment = process.env.NODE_ENV === "development";
-
     if (baseUrl) {
       this.baseUrl = baseUrl;
-    } else if (this.isDevelopment) {
-      // In development, use local API routes
-      this.baseUrl = "/api/source";
     } else {
       // In production, use GitHub Pages URL
       this.baseUrl =
@@ -23,38 +17,18 @@ export class StaticSourceFetcher {
    * Replicates the logic from /api/source route
    */
   async getAvailableDates(): Promise<string[]> {
-    if (this.isDevelopment) {
-      // In development, use API route
-      try {
-        const response = await fetch("/api/source");
-        if (!response.ok) {
-          console.warn(
-            "Failed to fetch from /api/source, falling back to empty array"
-          );
-          return [];
-        }
-        const data = await response.json();
-        return data.dates || [];
-      } catch (error) {
-        console.error("Error fetching available dates:", error);
+    // In production, use static files
+    try {
+      const response = await fetch(`${this.baseUrl}/dates.json`);
+      if (!response.ok) {
+        console.warn("Failed to fetch dates.json, falling back to empty array");
         return [];
       }
-    } else {
-      // In production, use static files
-      try {
-        const response = await fetch(`${this.baseUrl}/dates.json`);
-        if (!response.ok) {
-          console.warn(
-            "Failed to fetch dates.json, falling back to empty array"
-          );
-          return [];
-        }
-        const data = await response.json();
-        return data.dates || [];
-      } catch (error) {
-        console.error("Error fetching available dates:", error);
-        return [];
-      }
+      const data = await response.json();
+      return data.dates || [];
+    } catch (error) {
+      console.error("Error fetching available dates:", error);
+      return [];
     }
   }
 

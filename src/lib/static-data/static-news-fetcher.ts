@@ -2,16 +2,10 @@ import { NewsItem, NewsResponse } from "../types/news-types";
 
 export class StaticNewsFetcher {
   private baseUrl: string;
-  private isDevelopment: boolean;
 
   constructor(baseUrl?: string) {
-    this.isDevelopment = process.env.NODE_ENV === "development";
-
     if (baseUrl) {
       this.baseUrl = baseUrl;
-    } else if (this.isDevelopment) {
-      // In development, use local API routes
-      this.baseUrl = "/api/news";
     } else {
       // In production, use GitHub Pages URL
       this.baseUrl =
@@ -25,13 +19,8 @@ export class StaticNewsFetcher {
    * Reuses the same business logic patterns as FileStorage.getAllNewsData()
    */
   async getNewsByDate(date: string, source?: string): Promise<NewsItem[]> {
-    if (this.isDevelopment) {
-      // In development, use API route
-      return this.fetchFromApi(date, source);
-    } else {
-      // In production, use static files
-      return this.fetchFromStaticFiles(date, source);
-    }
+    // In production, use static files
+    return this.fetchFromStaticFiles(date, source);
   }
 
   /**
@@ -39,38 +28,18 @@ export class StaticNewsFetcher {
    * Reuses the same business logic patterns as FileStorage.getAvailableDates()
    */
   async getAvailableDates(): Promise<string[]> {
-    if (this.isDevelopment) {
-      // In development, use API route
-      try {
-        const response = await fetch("/api/source");
-        if (!response.ok) {
-          console.warn(
-            "Failed to fetch from /api/source, falling back to empty array"
-          );
-          return [];
-        }
-        const data = await response.json();
-        return data.dates || [];
-      } catch (error) {
-        console.error("Error fetching available dates:", error);
+    // In production, use static files
+    try {
+      const response = await fetch(`${this.baseUrl}/dates.json`);
+      if (!response.ok) {
+        console.warn("Failed to fetch dates.json, falling back to empty array");
         return [];
       }
-    } else {
-      // In production, use static files
-      try {
-        const response = await fetch(`${this.baseUrl}/dates.json`);
-        if (!response.ok) {
-          console.warn(
-            "Failed to fetch dates.json, falling back to empty array"
-          );
-          return [];
-        }
-        const data = await response.json();
-        return data.dates || [];
-      } catch (error) {
-        console.error("Error fetching available dates:", error);
-        return [];
-      }
+      const data = await response.json();
+      return data.dates || [];
+    } catch (error) {
+      console.error("Error fetching available dates:", error);
+      return [];
     }
   }
 
@@ -90,64 +59,21 @@ export class StaticNewsFetcher {
     limit: number;
     hasMore: boolean;
   }> {
-    if (this.isDevelopment) {
-      // In development, use API route with pagination
-      const params = new URLSearchParams({
-        limit: limit.toString(),
-        page: page.toString(),
-      });
-      if (date) {
-        params.append("date", date);
-      }
-      if (source) {
-        params.append("source", source);
-      }
+    // In production, use static files with client-side pagination
+    const articles = await this.fetchFromStaticFiles(date, source);
 
-      const response = await fetch(`/api/news?${params}`);
-      if (!response.ok) {
-        throw new Error("Failed to fetch news from API");
-      }
-      return await response.json();
-    } else {
-      // In production, use static files with client-side pagination
-      const articles = await this.fetchFromStaticFiles(date, source);
+    // Apply pagination (same logic as API route)
+    const startIndex = (page - 1) * limit;
+    const endIndex = startIndex + limit;
+    const paginatedArticles = articles.slice(startIndex, endIndex);
 
-      // Apply pagination (same logic as API route)
-      const startIndex = (page - 1) * limit;
-      const endIndex = startIndex + limit;
-      const paginatedArticles = articles.slice(startIndex, endIndex);
-
-      return {
-        articles: paginatedArticles,
-        total: articles.length,
-        page,
-        limit,
-        hasMore: endIndex < articles.length,
-      };
-    }
-  }
-
-  /**
-   * Fetch from API (development mode)
-   */
-  private async fetchFromApi(
-    date: string,
-    source?: string
-  ): Promise<NewsItem[]> {
-    const params = new URLSearchParams();
-    if (date) {
-      params.append("date", date);
-    }
-    if (source) {
-      params.append("source", source);
-    }
-
-    const response = await fetch(`/api/news?${params}`);
-    if (!response.ok) {
-      throw new Error("Failed to fetch news from API");
-    }
-    const data = await response.json();
-    return data.articles || [];
+    return {
+      articles: paginatedArticles,
+      total: articles.length,
+      page,
+      limit,
+      hasMore: endIndex < articles.length,
+    };
   }
 
   /**

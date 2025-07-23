@@ -3,6 +3,7 @@
 import { useState, useEffect, useCallback } from "react";
 import { NewsItem } from "../../../lib/types/news-types";
 import { useBookmarks } from "./useBookmarks";
+import { StaticNewsFetcher } from "../../../lib/static-data/static-news-fetcher";
 
 interface UseBookmarksWithLoadMoreOptions {
   itemsPerPage?: number;
@@ -35,19 +36,21 @@ export function useBookmarksWithLoadMore({
       setIsLoading(true);
       try {
         const allArticles: NewsItem[] = [];
+        const staticNewsFetcher = new StaticNewsFetcher();
 
-        // Load articles from all sources and dates
+        // Load articles from all sources using static fetcher
         const sources = ["theverge", "techcrunch", "blognone", "hackernews"];
 
         for (const source of sources) {
           try {
-            const response = await fetch(
-              `/api/news?source=${source}&limit=1000`
+            // Get all articles from this source (null date means all dates)
+            const sourceData = await staticNewsFetcher.getNewsWithPagination(
+              null,
+              1,
+              1000, // Large limit to get all articles
+              source
             );
-            if (response.ok) {
-              const data = await response.json();
-              allArticles.push(...data.articles);
-            }
+            allArticles.push(...sourceData.articles);
           } catch (error) {
             console.error(`Failed to load articles from ${source}:`, error);
           }
