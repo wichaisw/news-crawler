@@ -19,7 +19,9 @@ export default function NewsListItem({
   isBookmarked = false,
   onBookmarkToggle,
 }: NewsListItemProps) {
-  const publishedDate = new Date(newsItem.publishedAt);
+  const publishedDate = newsItem.publishedAt
+    ? new Date(newsItem.publishedAt)
+    : new Date();
   const { bg, text } = getSourceColor(newsItem.source);
 
   return (
@@ -37,12 +39,12 @@ export default function NewsListItem({
             </div>
             <h3 className="text-base font-medium text-gray-900 flex-1">
               <a
-                href={newsItem.url}
+                href={newsItem.url || "#"}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-blue-600 transition-colors"
               >
-                {decodeHtmlEntities(newsItem.title)}
+                {decodeHtmlEntities(newsItem.title) || "No title available"}
               </a>
             </h3>
           </div>
@@ -81,7 +83,8 @@ export default function NewsListItem({
         {showDescription && (
           <div className="mt-2">
             <p className="text-sm text-gray-600 line-clamp-2 overflow-hidden break-words">
-              {decodeHtmlEntities(newsItem.description)}
+              {decodeHtmlEntities(newsItem.description) ||
+                "No description available"}
             </p>
             {newsItem.author && (
               <p className="text-xs text-gray-500 mt-1">By {newsItem.author}</p>

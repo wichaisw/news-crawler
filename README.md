@@ -91,6 +91,14 @@ make prod
 3. Wait for the crawl to complete
 4. Return to http://localhost:3000 to view news
 
+### 6. Regenerate Dates Index (if needed)
+If you encounter 404 errors when selecting dates, regenerate the dates index:
+```bash
+npm run generate-dates
+# or
+npx tsx scripts/generate-dates-index.ts
+```
+
 ## Docker Commands
 
 ```bash
@@ -236,6 +244,20 @@ make run
 5. Use the `out/` directory as the build output
 
 ## Recent Fixes (July 2025)
+
+### Fixed React Error #418 and HTML 404 Errors
+- **Problem**: React error #418 occurring due to null/undefined text content, plus HTML 404 pages instead of JSON
+- **Root Cause**: 
+  - `decodeHtmlEntities` function receiving null/undefined values
+  - `dates.json` included dates that didn't exist in all source directories
+  - Missing data validation in static fetcher
+- **Solution**: 
+  - Enhanced `decodeHtmlEntities` to handle null/undefined values safely
+  - Added comprehensive data validation in `StaticNewsFetcher`
+  - Updated `scripts/generate-dates-index.ts` to scan actual filesystem for existing JSON files
+  - Added defensive programming to all components with fallback values
+  - Enhanced error handling for date parsing and source colors
+- **Result**: No more React errors and all date selections work correctly
 
 ### Fixed 404 Errors for Date Selection
 - **Problem**: Pages except today were returning 404 errors when selecting dates

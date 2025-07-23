@@ -1,5 +1,10 @@
 // Utility for decoding HTML entities
-export function decodeHtmlEntities(text: string): string {
+export function decodeHtmlEntities(text: string | null | undefined): string {
+  // Handle null, undefined, or empty strings
+  if (!text || typeof text !== "string") {
+    return "";
+  }
+
   const entities: { [key: string]: string } = {
     "&amp;": "&",
     "&lt;": "<",

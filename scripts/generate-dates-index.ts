@@ -1,11 +1,10 @@
 import fs from "fs";
 import path from "path";
-import { FileStorage } from "../src/lib/storage/file-storage";
 
 /**
  * Generate dates.json index file for static hosting
- * This replicates the logic from FileStorage.getAvailableDates() for all sources
- * Includes dates that have data for ANY source to show latest available data
+ * This directly scans the filesystem for actual JSON files to ensure accuracy
+ * Only includes dates that actually exist as JSON files
  */
 async function generateDatesIndex() {
   try {
@@ -14,14 +13,24 @@ async function generateDatesIndex() {
     const sources = ["theverge", "techcrunch", "blognone", "hackernews"];
     const sourceDates: Record<string, string[]> = {};
 
-    // Collect all available dates from all sources
+    // Collect all available dates by directly scanning directories
     for (const source of sources) {
       try {
-        const dates = await FileStorage.getAvailableDates(source);
-        sourceDates[source] = dates;
-        console.log(`Found ${dates.length} dates for ${source}`);
+        const sourceDir = path.join(process.cwd(), "sources", source);
+        if (fs.existsSync(sourceDir)) {
+          const files = fs.readdirSync(sourceDir);
+          const jsonFiles = files.filter((file) => file.endsWith(".json"));
+          const dates = jsonFiles.map((file) => file.replace(".json", ""));
+          sourceDates[source] = dates;
+          console.log(
+            `Found ${dates.length} dates for ${source}: ${dates.join(", ")}`
+          );
+        } else {
+          console.warn(`Source directory not found: ${sourceDir}`);
+          sourceDates[source] = [];
+        }
       } catch (error) {
-        console.warn(`Failed to get dates for ${source}:`, error);
+        console.warn(`Failed to scan dates for ${source}:`, error);
         sourceDates[source] = [];
       }
     }
@@ -68,6 +77,17 @@ async function generateDatesIndex() {
     Object.entries(datesIndex.dateAvailability).forEach(([source, count]) => {
       console.log(`  ${source}: ${count} dates`);
     });
+
+    // Log which dates are missing from which sources
+    console.log("🔍 Missing dates per source:");
+    for (const source of sources) {
+      const missingDates = sortedDates.filter(
+        (date) => !sourceDates[source].includes(date)
+      );
+      if (missingDates.length > 0) {
+        console.log(`  ${source} missing: ${missingDates.join(", ")}`);
+      }
+    }
 
     return datesIndex;
   } catch (error) {

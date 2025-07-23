@@ -7,7 +7,14 @@ export const SOURCE_COLORS = {
 
 type SourceKey = keyof typeof SOURCE_COLORS;
 
-export function getSourceColor(source: string) {
+export function getSourceColor(source: string | null | undefined) {
+  if (!source || typeof source !== "string") {
+    return {
+      bg: "#e0e7ef",
+      text: "#222",
+    };
+  }
+
   return (
     SOURCE_COLORS[source.toLowerCase() as SourceKey] || {
       bg: "#e0e7ef",

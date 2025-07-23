@@ -53,7 +53,20 @@ export async function GET(
     }
 
     if (!fs.existsSync(normalizedPath)) {
-      return NextResponse.json({ error: "File not found" }, { status: 404 });
+      return NextResponse.json(
+        {
+          error: "File not found",
+          path: filePath,
+          message: `The requested file ${filePath} does not exist`,
+        },
+        {
+          status: 404,
+          headers: {
+            "Content-Type": "application/json",
+            "Cache-Control": "no-cache",
+          },
+        }
+      );
     }
 
     // Only serve JSON files
