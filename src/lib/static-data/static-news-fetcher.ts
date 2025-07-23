@@ -77,29 +77,6 @@ export class StaticNewsFetcher {
   }
 
   /**
-   * Fetch from API (development mode)
-   */
-  private async fetchFromApi(
-    date: string,
-    source?: string
-  ): Promise<NewsItem[]> {
-    const params = new URLSearchParams();
-    if (date) {
-      params.append("date", date);
-    }
-    if (source) {
-      params.append("source", source);
-    }
-
-    const response = await fetch(`/api/news?${params}`);
-    if (!response.ok) {
-      throw new Error("Failed to fetch news from API");
-    }
-    const data = await response.json();
-    return data.articles || [];
-  }
-
-  /**
    * Fetch from static files (production mode)
    */
   private async fetchFromStaticFiles(
