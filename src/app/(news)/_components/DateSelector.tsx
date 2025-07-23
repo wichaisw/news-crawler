@@ -54,7 +54,7 @@ export default function DateSelector({
       >
         <CalendarIcon className="h-4 w-4 text-gray-500" />
         <span className="text-sm font-medium text-gray-700">
-          {selectedDate ? formatDate(selectedDate) : "Today"}
+          {selectedDate ? formatDate(selectedDate) : "Most Recent"}
         </span>
         <ChevronDownIcon
           className={`h-4 w-4 text-gray-500 transition-transform ${
@@ -84,10 +84,7 @@ export default function DateSelector({
                 }`}
               >
                 <div className="flex flex-col">
-                  <span className="font-medium">Today</span>
-                  <span className="text-xs text-gray-500">
-                    Most recent articles
-                  </span>
+                  <span className="font-medium">Most Recent</span>
                 </div>
               </button>
 

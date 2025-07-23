@@ -27,6 +27,12 @@ export default function BookmarksPage() {
     isInitialized,
   } = useBookmarksWithLoadMore({ itemsPerPage: 20 });
 
+  // Calculate the number of items that will be loaded in the next page
+  const getNextPageItemCount = () => {
+    const totalRemaining = totalArticles - articles.length;
+    return Math.min(20, totalRemaining);
+  };
+
   const { viewMode, showDescription, toggleViewMode, toggleDescription } =
     useNewsView();
 
@@ -107,7 +113,7 @@ export default function BookmarksPage() {
           onBookmarkToggle={onBookmarkToggle}
           emptyContent={emptyContent}
           showLoadMoreButton={true}
-          totalArticles={totalArticles}
+          nextPageItemCount={getNextPageItemCount()}
         />
       ) : (
         <NewsList
@@ -121,7 +127,7 @@ export default function BookmarksPage() {
           showDescription={showDescription}
           emptyContent={emptyContent}
           showLoadMoreButton={true}
-          totalArticles={totalArticles}
+          nextPageItemCount={getNextPageItemCount()}
         />
       )}
 

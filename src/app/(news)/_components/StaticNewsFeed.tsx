@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState, useEffect, useCallback } from "react";
 import { NewsItem } from "../../../lib/types/news-types";
 import { StaticNewsFetcher } from "../../../lib/static-data/static-news-fetcher";
 import NewsCardList from "./NewsCardList";
@@ -48,52 +48,57 @@ export default function StaticNewsFeed({ initialData }: StaticNewsFeedProps) {
   const { isBookmarked, toggleBookmark } = useBookmarks();
 
   const ITEMS_PER_PAGE = 20;
-  const staticNewsFetcher = new StaticNewsFetcher();
+
+  // Calculate the number of items that will be loaded in the next page
+  const getNextPageItemCount = () => {
+    const totalRemaining = totalArticles - articles.length;
+    return Math.min(ITEMS_PER_PAGE, totalRemaining);
+  };
+
+  const fetchNews = useCallback(
+    async (date: string | null, page: number, reset: boolean = false) => {
+      try {
+        if (reset) {
+          setLoading(true);
+          setCurrentPage(1);
+        } else {
+          setLoadingMore(true);
+        }
+
+        // Use static fetcher instead of API
+        const staticNewsFetcher = new StaticNewsFetcher();
+        const data = await staticNewsFetcher.getNewsWithPagination(
+          date,
+          page,
+          ITEMS_PER_PAGE
+        );
+
+        if (reset) {
+          setArticles(data.articles);
+        } else {
+          setArticles((prev) => [...prev, ...data.articles]);
+        }
+
+        setTotalArticles(data.total);
+        setHasMore(data.hasMore);
+        setCurrentPage(page);
+      } catch (error) {
+        console.error("Error fetching news:", error);
+        setError("Failed to fetch news");
+      } finally {
+        setLoading(false);
+        setLoadingMore(false);
+      }
+    },
+    [ITEMS_PER_PAGE]
+  );
 
   // Only fetch when date changes (not on initial load)
   useEffect(() => {
     if (selectedDate !== initialData.selectedDate) {
       fetchNews(selectedDate, 1, true);
     }
-  }, [selectedDate, initialData.selectedDate]);
-
-  const fetchNews = async (
-    date: string | null,
-    page: number,
-    reset: boolean = false
-  ) => {
-    try {
-      if (reset) {
-        setLoading(true);
-        setCurrentPage(1);
-      } else {
-        setLoadingMore(true);
-      }
-
-      // Use static fetcher instead of API
-      const data = await staticNewsFetcher.getNewsWithPagination(
-        date,
-        page,
-        ITEMS_PER_PAGE
-      );
-
-      if (reset) {
-        setArticles(data.articles);
-      } else {
-        setArticles((prev) => [...prev, ...data.articles]);
-      }
-
-      setTotalArticles(data.total);
-      setHasMore(data.hasMore);
-      setCurrentPage(page);
-    } catch (error) {
-      console.error("Error fetching news:", error);
-      setError("Failed to fetch news");
-    } finally {
-      setLoading(false);
-      setLoadingMore(false);
-    }
-  };
+  }, [selectedDate, initialData.selectedDate, fetchNews]);
 
   const handleLoadMore = () => {
     if (hasMore) {
@@ -184,7 +189,7 @@ export default function StaticNewsFeed({ initialData }: StaticNewsFeedProps) {
           emptyMessage="No news articles found."
           emptySubMessage="Try running the crawler to fetch some articles."
           showLoadMoreButton={true}
-          totalArticles={totalArticles}
+          nextPageItemCount={getNextPageItemCount()}
         />
       ) : (
         <div className="bg-white rounded-lg shadow-sm border border-gray-200">
@@ -215,7 +220,7 @@ export default function StaticNewsFeed({ initialData }: StaticNewsFeedProps) {
                 Loading...
               </div>
             ) : (
-              `Load More (${totalArticles - articles.length} remaining)`
+              `Load More (${getNextPageItemCount()} remaining)`
             )}
           </button>
         </div>
