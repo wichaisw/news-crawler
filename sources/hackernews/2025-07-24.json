@@ -1,0 +1,83 @@
+{
+  "date": "2025-07-24",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "kd2gdk",
+      "title": "CVE-2025-54090: Apache HTTP Server: 'RewriteCond expr' always evaluates to true",
+      "description": "Score: 15 | Comments: 0 | Posted by Bogdanp",
+      "url": "https://github.com/apache/httpd/commit/8abb3d06b23975705ebcf4bf4476464fd0b9bd0b",
+      "publishedAt": "2025-07-24T04:20:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Bogdanp",
+      "tags": []
+    },
+    {
+      "id": "onzjkg",
+      "title": "Electric cars produce far less brake dust pollution than combustion-engine cars",
+      "description": "Score: 160 | Comments: 191 | Posted by tzs",
+      "url": "https://modernengineeringmarvels.com/2025/07/22/surprising-science-how-electric-cars-quietly-transform-urban-air/",
+      "publishedAt": "2025-07-24T02:13:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tzs",
+      "tags": []
+    },
+    {
+      "id": "zk8tv",
+      "title": "A small web July",
+      "description": "Score: 62 | Comments: 23 | Posted by debo_",
+      "url": "https://smallcypress.bearblog.dev/a-small-web-july/",
+      "publishedAt": "2025-07-24T01:41:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "debo_",
+      "tags": []
+    },
+    {
+      "id": "zeoknv",
+      "title": "Why Are We Pretending AI Is Going to Take All the Jobs?",
+      "description": "Score: 35 | Comments: 11 | Posted by pseudolus",
+      "url": "https://www.thebignewsletter.com/p/why-are-we-pretending-ai-is-going",
+      "publishedAt": "2025-07-24T01:35:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pseudolus",
+      "tags": []
+    },
+    {
+      "id": "yy6ga1",
+      "title": "BYD Bets on Budget EV Boom with Atto 1 Debut in Indonesia",
+      "description": "Score: 59 | Comments: 63 | Posted by breve",
+      "url": "https://jakartaglobe.id/business/byd-bets-on-budget-ev-boom-with-atto-1-debut-in-indonesia",
+      "publishedAt": "2025-07-24T01:33:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "breve",
+      "tags": []
+    },
+    {
+      "id": "782mva",
+      "title": "BGP.Tools: Browse the Internet Ecosystem",
+      "description": "Score: 90 | Comments: 15 | Posted by RGBCube",
+      "url": "https://bgp.tools/",
+      "publishedAt": "2025-07-24T01:12:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "RGBCube",
+      "tags": []
+    },
+    {
+      "id": "ilxm0w",
+      "title": "Vintage Macintosh Programming Book Library (2017)",
+      "description": "Score: 39 | Comments: 16 | Posted by todsacerdoti",
+      "url": "https://vintageapple.org/macprogramming/index_year.html",
+      "publishedAt": "2025-07-24T00:53:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    }
+  ]
+}

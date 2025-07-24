@@ -3,6 +3,40 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "147505 at https://www.blognone.com",
+      "title": "IBM ไตรมาส 2/2025 รายได้รวมโต 8% กลุ่ม Hybrid Cloud และ AI ยังโตสูง",
+      "description": "IBM ไตรมาส 2/2025 รายได้รวมโต 8% กลุ่ม Hybrid Cloud และ AI ยังโตสูง Body IBM รายงานผลประกอบการของไตรมาสที่ 2 ปี 2025 รายได้รวม 16,977 ล้านดอลลาร์",
+      "url": "https://www.blognone.com/node/147505",
+      "publishedAt": "2025-07-23T23:43:20.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "147504 at https://www.blognone.com",
+      "title": "Tesla ไตรมาส 2/2025 รายได้ลดลง 12% บอกนโยบายภาษีนำเข้ากระทบซัพพลายเชนในสหรัฐ",
+      "description": "Tesla ไตรมาส 2/2025 รายได้ลดลง 12% บอกนโยบายภาษีนำเข้ากระทบซัพพลายเชนในสหรัฐ Body Tesla รายงานผลประกอบการของไตรมาสที่ 2 ปี 2025 หลังจากรายงาน",
+      "url": "https://www.blognone.com/node/147504",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2025/2025-07/screenshot-2025-07-24-061115.png",
+      "publishedAt": "2025-07-23T23:14:16.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "147503 at https://www.blognone.com",
+      "title": "Alphabet ไตรมาส 2/2025 รายได้โต 14% เพิ่มการลงทุนคลาวด์และ AI มากขึ้น",
+      "description": "Alphabet ไตรมาส 2/2025 รายได้โต 14% เพิ่มการลงทุนคลาวด์และ AI มากขึ้น Body Alphabet บริษัทแม่ของกูเกิล รายงานผลประกอบการประจำไตรมาสที่ 2 ปี 2025",
+      "url": "https://www.blognone.com/node/147503",
+      "publishedAt": "2025-07-23T22:12:21.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "147495 at https://www.blognone.com",
       "title": "โมเดล Gemini 2.5 Flash-Lite เข้าสถานะ GA, ราคาถูกที่สุดในตระกูล Gemini 2.5",
       "description": "โมเดล Gemini 2.5 Flash-Lite เข้าสถานะ GA, ราคาถูกที่สุดในตระกูล Gemini 2.5 Body กูเกิลปรับสถานะโมเดลรุ่นมหาชน Gemini 2.5 Flash-Lite",
