@@ -47,6 +47,17 @@
       "tags": []
     },
     {
+      "id": "h3xnud",
+      "title": "Working on a Programming Language in the Age of LLMs",
+      "description": "Score: 36 | Comments: 18 | Posted by todsacerdoti",
+      "url": "https://ryelang.org/blog/posts/programming-language-in-age-of-llms/",
+      "publishedAt": "2025-07-21T21:12:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    },
+    {
       "id": "c85c8d",
       "title": "The surprising geography of American left-handedness (2015)",
       "description": "Score: 27 | Comments: 11 | Posted by roktonos",
@@ -278,6 +289,17 @@
       "tags": []
     },
     {
+      "id": "kj9063",
+      "title": "Modernish – A library for writing programs for POSIX-based shells and utilities",
+      "description": "Score: 17 | Comments: 2 | Posted by sundarurfriend",
+      "url": "https://github.com/modernish/modernish",
+      "publishedAt": "2025-07-21T15:42:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sundarurfriend",
+      "tags": []
+    },
+    {
       "id": "6nz9ab",
       "title": "Hegel Dust",
       "description": "Score: 23 | Comments: 4 | Posted by pepys",
@@ -286,6 +308,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "pepys",
+      "tags": []
+    },
+    {
+      "id": "rwd5h3",
+      "title": "Covers as a way of learning music and code",
+      "description": "Score: 147 | Comments: 77 | Posted by zdw",
+      "url": "https://ntietz.com/blog/covers-as-a-way-of-learning/",
+      "publishedAt": "2025-07-21T15:20:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
       "tags": []
     },
     {
@@ -344,6 +377,61 @@
       "tags": []
     },
     {
+      "id": "indqzb",
+      "title": "Low-Temp 2D Semiconductors: A Chipmaking Shift",
+      "description": "Score: 9 | Comments: 2 | Posted by rbanffy",
+      "url": "https://spectrum.ieee.org/cdimensions-2d-semiconductors",
+      "publishedAt": "2025-07-21T13:52:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rbanffy",
+      "tags": []
+    },
+    {
+      "id": "ps6d14",
+      "title": "PSA: Collision Detection is an optimization problem and GJK is Frank-Wolfe",
+      "description": "Score: 17 | Comments: 1 | Posted by OlympicMarmoto",
+      "url": "https://cairno.substack.com/p/psa-collision-detection-is-an-optimization",
+      "publishedAt": "2025-07-21T13:45:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "OlympicMarmoto",
+      "tags": []
+    },
+    {
+      "id": "et3ixh",
+      "title": "The dawn of quantum advantage",
+      "description": "Score: 9 | Comments: 0 | Posted by hhs",
+      "url": "https://www.ibm.com/quantum/blog/quantum-advantage-era",
+      "publishedAt": "2025-07-21T13:26:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hhs",
+      "tags": []
+    },
+    {
+      "id": "do9nc7",
+      "title": "Positron – A next-generation data science IDE",
+      "description": "Score: 148 | Comments: 53 | Posted by amai",
+      "url": "https://positron.posit.co/",
+      "publishedAt": "2025-07-21T12:59:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "amai",
+      "tags": []
+    },
+    {
+      "id": "3sphp7",
+      "title": "Why concatenative programming matters (2012)",
+      "description": "Score: 57 | Comments: 19 | Posted by azhenley",
+      "url": "http://evincarofautumn.blogspot.com/2012/02/why-concatenative-programming-matters.html",
+      "publishedAt": "2025-07-21T12:57:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "azhenley",
+      "tags": []
+    },
+    {
       "id": "q6pwg",
       "title": "I've launched 37 products in 5 years and not doing that again",
       "description": "Score: 131 | Comments: 116 | Posted by AlexandrBel",
@@ -352,6 +440,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "AlexandrBel",
+      "tags": []
+    },
+    {
+      "id": "94gbe3",
+      "title": "Mwm – The smallest usable X11 window manager",
+      "description": "Score: 150 | Comments: 62 | Posted by daureg",
+      "url": "https://github.com/lslvr/mwm",
+      "publishedAt": "2025-07-21T12:04:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "daureg",
+      "tags": []
+    },
+    {
+      "id": "msyvrk",
+      "title": "Superfunctions: A universal solution against sync/async fragmentation in Python",
+      "description": "Score: 29 | Comments: 30 | Posted by pomponchik",
+      "url": "https://github.com/pomponchik/transfunctions",
+      "publishedAt": "2025-07-21T11:39:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pomponchik",
       "tags": []
     },
     {
@@ -366,6 +476,28 @@
       "tags": []
     },
     {
+      "id": "elcleh",
+      "title": "Show HN: Easy Python Time Parsing",
+      "description": "Score: 17 | Comments: 2 | Posted by felixnext",
+      "url": "https://github.com/felixnext/python-time-helper",
+      "publishedAt": "2025-07-21T10:17:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "felixnext",
+      "tags": []
+    },
+    {
+      "id": "zb5xb0",
+      "title": "RE#: High performance derivative-based regular expression matching (2024)",
+      "description": "Score: 34 | Comments: 6 | Posted by fanf2",
+      "url": "https://arxiv.org/abs/2407.20479",
+      "publishedAt": "2025-07-21T08:42:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fanf2",
+      "tags": []
+    },
+    {
       "id": "i1w074",
       "title": "Can Dave Hurwitz Save Classical Recording?",
       "description": "Score: 10 | Comments: 1 | Posted by FinnLobsien",
@@ -377,6 +509,17 @@
       "tags": []
     },
     {
+      "id": "93tnpb",
+      "title": "The POSIX specification of vi",
+      "description": "Score: 73 | Comments: 28 | Posted by exvi",
+      "url": "https://pubs.opengroup.org/onlinepubs/9799919799/utilities/vi.html",
+      "publishedAt": "2025-07-21T08:01:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "exvi",
+      "tags": []
+    },
+    {
       "id": "2p2p0e",
       "title": "Leprechauns, root causes, and other fairy tales",
       "description": "Score: 3 | Comments: 0 | Posted by ingve",
@@ -385,6 +528,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ingve",
+      "tags": []
+    },
+    {
+      "id": "9b51b4",
+      "title": "I wasted weeks hand optimizing assembly because I benchmarked on random data",
+      "description": "Score: 278 | Comments: 84 | Posted by thunderbong",
+      "url": "https://www.vidarholen.net/contents/blog/?p=1160",
+      "publishedAt": "2025-07-21T07:40:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thunderbong",
       "tags": []
     },
     {

@@ -1,0 +1,72 @@
+{
+  "date": "2025-07-25",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "ha8qo4",
+      "title": "Google spoofed via DKIM replay attack: A technical breakdowneasydmarc.com",
+      "description": "Score: 19 | Comments: 2 | Posted by frasermarlow",
+      "url": "https://easydmarc.com/blog/google-spoofed-via-dkim-replay-attack-a-technical-breakdown/",
+      "publishedAt": "2025-07-25T05:30:30.249Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "frasermarlow",
+      "tags": []
+    },
+    {
+      "id": "ha8qo4",
+      "title": "Google spoofed via DKIM replay attack: A technical breakdown",
+      "description": "Score: 19 | Comments: 2 | Posted by frasermarlow",
+      "url": "https://easydmarc.com/blog/google-spoofed-via-dkim-replay-attack-a-technical-breakdown/",
+      "publishedAt": "2025-07-25T05:28:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "frasermarlow",
+      "tags": []
+    },
+    {
+      "id": "hgupcz",
+      "title": "Asciinema: Record and share your terminal sessions",
+      "description": "Score: 54 | Comments: 18 | Posted by phendrenad2",
+      "url": "https://asciinema.org",
+      "publishedAt": "2025-07-25T02:50:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "phendrenad2",
+      "tags": []
+    },
+    {
+      "id": "cqvtet",
+      "title": "How Anthropic teams use Claude Code",
+      "description": "Score: 155 | Comments: 117 | Posted by yurivish",
+      "url": "https://www.anthropic.com/news/how-anthropic-teams-use-claude-code",
+      "publishedAt": "2025-07-25T01:43:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "yurivish",
+      "tags": []
+    },
+    {
+      "id": "tqihi8",
+      "title": "Celebrating 20 Years of MDN",
+      "description": "Score: 18 | Comments: 0 | Posted by soheilpro",
+      "url": "https://developer.mozilla.org/en-US/blog/mdn-turns-20/",
+      "publishedAt": "2025-07-25T01:40:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "soheilpro",
+      "tags": []
+    },
+    {
+      "id": "fbs63q",
+      "title": "Alto turns Apple Notes into a website",
+      "description": "Score: 57 | Comments: 21 | Posted by colinprince",
+      "url": "https://alto.so/",
+      "publishedAt": "2025-07-25T00:39:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "colinprince",
+      "tags": []
+    }
+  ]
+}
