@@ -69,6 +69,17 @@
       "tags": []
     },
     {
+      "id": "to92c3",
+      "title": "Developing our position on AI",
+      "description": "Score: 189 | Comments: 62 | Posted by jakelazaroff",
+      "url": "https://www.recurse.com/blog/191-developing-our-position-on-ai",
+      "publishedAt": "2025-07-23T19:34:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jakelazaroff",
+      "tags": []
+    },
+    {
       "id": "q5bce6",
       "title": "Major rule about cooking meat turns out to be wrong",
       "description": "Score: 270 | Comments: 203 | Posted by voxadam",
@@ -135,6 +146,17 @@
       "tags": []
     },
     {
+      "id": "jfuhkm",
+      "title": "Show HN: Apple Health MCP Server",
+      "description": "Score: 168 | Comments: 34 | Posted by _neil",
+      "url": "https://github.com/neiltron/apple-health-mcp",
+      "publishedAt": "2025-07-23T17:23:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "_neil",
+      "tags": []
+    },
+    {
       "id": "f0qlu9",
       "title": "Interactive Programming in C (2014)",
       "description": "Score: 72 | Comments: 9 | Posted by ofalkaed",
@@ -143,6 +165,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ofalkaed",
+      "tags": []
+    },
+    {
+      "id": "nhza66",
+      "title": "Why is there a date of 1968 in the Intel Chipset Device Software Utility?",
+      "description": "Score: 40 | Comments: 9 | Posted by vegadw",
+      "url": "https://www.intel.com/content/www/us/en/support/articles/000095169/processors.html",
+      "publishedAt": "2025-07-23T17:14:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vegadw",
       "tags": []
     },
     {
@@ -297,6 +330,83 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "pentagrama",
+      "tags": []
+    },
+    {
+      "id": "gkwdmb",
+      "title": "Open Sauce is a confoundingly brilliant Bay Area event",
+      "description": "Score: 17 | Comments: 2 | Posted by rbanffy",
+      "url": "https://www.jeffgeerling.com/blog/2025/open-sauce-confoundingly-brilliant-bay-area-event",
+      "publishedAt": "2025-07-23T10:22:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rbanffy",
+      "tags": []
+    },
+    {
+      "id": "6cbfmy",
+      "title": "Choosing the rijght .NET container image for your workload",
+      "description": "Score: 14 | Comments: 4 | Posted by mfund0",
+      "url": "https://medium.com/@mfundo/all-the-net-core-opsy-things-37b2e21eabb4",
+      "publishedAt": "2025-07-23T10:03:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mfund0",
+      "tags": []
+    },
+    {
+      "id": "paeez5",
+      "title": "Sparse Matrix Library with Compressed Row Storage",
+      "description": "Score: 8 | Comments: 0 | Posted by klaussilveira",
+      "url": "https://github.com/uestla/Sparse-Matrix",
+      "publishedAt": "2025-07-23T09:58:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "klaussilveira",
+      "tags": []
+    },
+    {
+      "id": "vkrm0p",
+      "title": "Researchers value null results, but struggle to publish them",
+      "description": "Score: 101 | Comments: 36 | Posted by Bluestein",
+      "url": "https://www.nature.com/articles/d41586-025-02312-4",
+      "publishedAt": "2025-07-23T09:16:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Bluestein",
+      "tags": []
+    },
+    {
+      "id": "fc6fbq",
+      "title": "Steve Jobs' cabinet",
+      "description": "Score: 59 | Comments: 57 | Posted by padraigf",
+      "url": "https://perfectdays23.substack.com/p/steve-jobs-cabinet",
+      "publishedAt": "2025-07-23T07:40:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "padraigf",
+      "tags": []
+    },
+    {
+      "id": "1fxxrc",
+      "title": "Running PostmarketOS on Android Termux proot without a custom ROM (2024)",
+      "description": "Score: 35 | Comments: 7 | Posted by user070223",
+      "url": "https://ivonblog.com/en-us/posts/postmarketos-in-termux-proot/",
+      "publishedAt": "2025-07-23T07:28:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "user070223",
+      "tags": []
+    },
+    {
+      "id": "t6ui7k",
+      "title": "Generic Containers in C: Vec",
+      "description": "Score: 10 | Comments: 2 | Posted by uecker",
+      "url": "https://uecker.codeberg.page/2025-07-20.html",
+      "publishedAt": "2025-07-23T07:04:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "uecker",
       "tags": []
     },
     {

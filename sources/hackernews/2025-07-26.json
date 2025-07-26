@@ -1,0 +1,39 @@
+{
+  "date": "2025-07-26",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "orhx2q",
+      "title": "Users claim Discord's age verification can be tricked with video game characters",
+      "description": "Score: 4 | Comments: 0 | Posted by mediumdeviation",
+      "url": "https://www.thepinknews.com/2025/07/25/discord-video-game-characters-age-verification-checks-uk-online-safety-act/",
+      "publishedAt": "2025-07-26T04:23:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mediumdeviation",
+      "tags": []
+    },
+    {
+      "id": "q8g2w",
+      "title": "CCTV Footage Captures the First-Ever Video of an Earthquake Fault in Motion",
+      "description": "Score: 62 | Comments: 12 | Posted by chrononaut",
+      "url": "https://www.smithsonianmag.com/smart-news/cctv-footage-captures-the-first-ever-video-of-an-earthquake-fault-in-motion-shining-a-rare-light-on-seismic-dynamics-180987034/",
+      "publishedAt": "2025-07-26T02:54:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "chrononaut",
+      "tags": []
+    },
+    {
+      "id": "xtf4ek",
+      "title": "DJI couldn't confirm or deny it disguised this drone to evade a US ban",
+      "description": "Score: 42 | Comments: 25 | Posted by sea-gold",
+      "url": "https://www.theverge.com/report/714103/dji-skyrover-x1-evade-ban-amazon",
+      "publishedAt": "2025-07-26T01:02:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sea-gold",
+      "tags": []
+    }
+  ]
+}
