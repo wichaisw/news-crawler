@@ -14,6 +14,17 @@
       "tags": []
     },
     {
+      "id": "g5enc7",
+      "title": "Large ancient Hawaiian petroglyphs uncovered by waves on Oahu",
+      "description": "Score: 79 | Comments: 23 | Posted by c420",
+      "url": "https://www.sfgate.com/hawaii/article/hawaii-petroglyphs-uncovered-20780579.php",
+      "publishedAt": "2025-07-22T23:05:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "c420",
+      "tags": []
+    },
+    {
       "id": "8l2806",
       "title": "Algorithms for Modern Processor Architectures",
       "description": "Score: 139 | Comments: 13 | Posted by matt_d",
@@ -44,6 +55,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "danielhanchen",
+      "tags": []
+    },
+    {
+      "id": "qexnym",
+      "title": "Tinyio: A tiny (~200 line) event loop for Python",
+      "description": "Score: 60 | Comments: 13 | Posted by tehnub",
+      "url": "https://github.com/patrick-kidger/tinyio",
+      "publishedAt": "2025-07-22T22:02:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tehnub",
       "tags": []
     },
     {

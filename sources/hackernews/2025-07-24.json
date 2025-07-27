@@ -300,6 +300,28 @@
       "tags": []
     },
     {
+      "id": "nxl0jr",
+      "title": "Algorithm for simulating phosphor persistence of analog oscilloscopes",
+      "description": "Score: 23 | Comments: 10 | Posted by pillars",
+      "url": "https://richardandersson.net/?p=350",
+      "publishedAt": "2025-07-24T06:56:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pillars",
+      "tags": []
+    },
+    {
+      "id": "y49my4",
+      "title": "Getting decent error reports in Bash when you're using 'set -e'",
+      "description": "Score: 95 | Comments: 30 | Posted by zdw",
+      "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/BashGoodSetEReports",
+      "publishedAt": "2025-07-24T04:40:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
       "id": "kd2gdk",
       "title": "CVE-2025-54090: Apache HTTP Server: 'RewriteCond expr' always evaluates to true",
       "description": "Score: 15 | Comments: 0 | Posted by Bogdanp",
@@ -333,6 +355,17 @@
       "tags": []
     },
     {
+      "id": "djkwhq",
+      "title": "Low cost mmWave 60GHz radar sensor for advanced sensing",
+      "description": "Score: 47 | Comments: 16 | Posted by teleforce",
+      "url": "https://www.infineon.com/part/BGT60TR13C",
+      "publishedAt": "2025-07-24T01:41:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "teleforce",
+      "tags": []
+    },
+    {
       "id": "zeoknv",
       "title": "Why Are We Pretending AI Is Going to Take All the Jobs?",
       "description": "Score: 35 | Comments: 11 | Posted by pseudolus",
@@ -355,6 +388,17 @@
       "tags": []
     },
     {
+      "id": "4r6awz",
+      "title": "16colo.rs: ANSI/ASCII art archive",
+      "description": "Score: 13 | Comments: 2 | Posted by debo_",
+      "url": "https://16colo.rs/",
+      "publishedAt": "2025-07-24T01:12:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "debo_",
+      "tags": []
+    },
+    {
       "id": "782mva",
       "title": "BGP.Tools: Browse the Internet Ecosystem",
       "description": "Score: 90 | Comments: 15 | Posted by RGBCube",
@@ -374,6 +418,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "f3e583",
+      "title": "Purple Earth hypothesis",
+      "description": "Score: 202 | Comments: 57 | Posted by colinprince",
+      "url": "https://en.wikipedia.org/wiki/Purple_Earth_hypothesis",
+      "publishedAt": "2025-07-24T00:43:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "colinprince",
       "tags": []
     }
   ]
