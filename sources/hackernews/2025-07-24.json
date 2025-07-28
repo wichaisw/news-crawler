@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "sjxwfa",
+      "title": "AlphaDec: A human-readable alternative to ULID/Snowflake IDs",
+      "description": "Score: 38 | Comments: 12 | Posted by firasd",
+      "url": "https://github.com/firasd/alphadec",
+      "publishedAt": "2025-07-24T22:14:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "firasd",
+      "tags": []
+    },
+    {
       "id": "xcbc0l",
       "title": "A GPU Calculator That Helps Calculate What GPU to Use",
       "description": "Score: 64 | Comments: 15 | Posted by chlobunnee",
@@ -124,6 +135,17 @@
       "tags": []
     },
     {
+      "id": "m0h7l8",
+      "title": "The last step in a long process on \"arsenic life\"",
+      "description": "Score: 10 | Comments: 2 | Posted by danso",
+      "url": "https://www.science.org/content/blog-post/last-step-long-process-arsenic-life",
+      "publishedAt": "2025-07-24T19:36:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "danso",
+      "tags": []
+    },
+    {
       "id": "bg78xw",
       "title": "Air Force unit suspends use of Sig Sauer pistol after shooting death of airman",
       "description": "Score: 148 | Comments: 250 | Posted by duxup",
@@ -168,6 +190,17 @@
       "tags": []
     },
     {
+      "id": "narq6r",
+      "title": "Software Development at 800 Words per Minute",
+      "description": "Score: 32 | Comments: 4 | Posted by ClawsOnPaws",
+      "url": "https://neurrone.com/posts/software-development-at-800-wpm/",
+      "publishedAt": "2025-07-24T15:47:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ClawsOnPaws",
+      "tags": []
+    },
+    {
       "id": "bakdjz",
       "title": "When swiping supplants scissors: The hidden cost of touchscreens",
       "description": "Score: 88 | Comments: 75 | Posted by SLHamlet",
@@ -187,6 +220,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "tavianator",
+      "tags": []
+    },
+    {
+      "id": "8lhkkp",
+      "title": "Blender: Beyond Mouse and Keyboard",
+      "description": "Score: 105 | Comments: 32 | Posted by dagmx",
+      "url": "https://code.blender.org/2025/07/beyond-mouse-keyboard/",
+      "publishedAt": "2025-07-24T15:20:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dagmx",
       "tags": []
     },
     {
@@ -256,6 +300,17 @@
       "tags": []
     },
     {
+      "id": "kbua4t",
+      "title": "Solid protocol restores digital agency",
+      "description": "Score: 30 | Comments: 13 | Posted by speckx",
+      "url": "https://www.schneier.com/blog/archives/2025/07/how-solid-protocol-restores-digital-agency.html",
+      "publishedAt": "2025-07-24T13:32:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
+      "tags": []
+    },
+    {
       "id": "5q4m71",
       "title": "UK: Phone networks down: EE, BT, Three, Vodafone, O2 not working in mass outage",
       "description": "Score: 212 | Comments: 87 | Posted by oger",
@@ -300,6 +355,17 @@
       "tags": []
     },
     {
+      "id": "kguebc",
+      "title": "BlueOS Kernel – Written in Rust, compatible with POSIX",
+      "description": "Score: 135 | Comments: 26 | Posted by dacapoday",
+      "url": "https://github.com/vivoblueos/kernel",
+      "publishedAt": "2025-07-24T10:19:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dacapoday",
+      "tags": []
+    },
+    {
       "id": "nxl0jr",
       "title": "Algorithm for simulating phosphor persistence of analog oscilloscopes",
       "description": "Score: 23 | Comments: 10 | Posted by pillars",
@@ -333,6 +399,17 @@
       "tags": []
     },
     {
+      "id": "james0",
+      "title": "Why I write recursive descent parsers, despite their issues (2020)",
+      "description": "Score: 57 | Comments: 27 | Posted by blobcode",
+      "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/WhyRDParsersForMe",
+      "publishedAt": "2025-07-24T04:07:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "blobcode",
+      "tags": []
+    },
+    {
       "id": "onzjkg",
       "title": "Electric cars produce far less brake dust pollution than combustion-engine cars",
       "description": "Score: 160 | Comments: 191 | Posted by tzs",
@@ -341,6 +418,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "tzs",
+      "tags": []
+    },
+    {
+      "id": "2zfomb",
+      "title": "When photography was born, fascination, obsession, and danger followed",
+      "description": "Score: 60 | Comments: 32 | Posted by prismatic",
+      "url": "https://www.washingtonpost.com/books/2025/07/12/flashes-brilliance-history-early-photography-anika-burgess-review/",
+      "publishedAt": "2025-07-24T01:51:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "prismatic",
       "tags": []
     },
     {
@@ -418,6 +506,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "sdi55s",
+      "title": "Katharine Graham: The Washington Post",
+      "description": "Score: 86 | Comments: 37 | Posted by feross",
+      "url": "https://fs.blog/knowledge-project-podcast/outliers-katharine-graham/",
+      "publishedAt": "2025-07-24T00:47:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "feross",
       "tags": []
     },
     {

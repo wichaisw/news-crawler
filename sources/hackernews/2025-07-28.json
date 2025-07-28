@@ -1,0 +1,105 @@
+{
+  "date": "2025-07-28",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "sl9i8h",
+      "title": "Multiplex: Command-Line Process Mutliplexer",
+      "description": "Score: 5 | Comments: 0 | Posted by todsacerdoti",
+      "url": "https://github.com/sebastien/multiplex",
+      "publishedAt": "2025-07-28T05:18:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "f9n5iw",
+      "title": "Mistral's new \"environmental audit\" shows how much AI is hurting the planet",
+      "description": "Score: 8 | Comments: 3 | Posted by pjmlp",
+      "url": "https://arstechnica.com/ai/2025/07/mistrals-new-environmental-audit-shows-how-much-ai-is-hurting-the-planet/",
+      "publishedAt": "2025-07-28T04:42:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pjmlp",
+      "tags": []
+    },
+    {
+      "id": "pagryx",
+      "title": "\"Tivoization\" and Your Right to Install Under Copyleft and The GNU GPL (2021)",
+      "description": "Score: 28 | Comments: 0 | Posted by pabs3",
+      "url": "https://sfconservancy.org/blog/2021/jul/23/tivoization-and-the-gpl-right-to-install/",
+      "publishedAt": "2025-07-28T04:35:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pabs3",
+      "tags": []
+    },
+    {
+      "id": "s278ho",
+      "title": "Raspberry Pi 5 Gets a MicroSD Express Hat",
+      "description": "Score: 10 | Comments: 0 | Posted by geerlingguy",
+      "url": "https://www.cnx-software.com/2025/07/28/raspberry-pi-5-gets-a-microsd-express-hat/",
+      "publishedAt": "2025-07-28T03:49:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "geerlingguy",
+      "tags": []
+    },
+    {
+      "id": "dt48pr",
+      "title": "Self-host is just waiting for its iPhone moment",
+      "description": "Score: 3 | Comments: 4 | Posted by robmao",
+      "url": "https://www.robertmao.com/blog/en/self-hosting-isnt-dead-its-just-waiting-for-its-iphone-moment",
+      "publishedAt": "2025-07-28T03:45:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "robmao",
+      "tags": []
+    },
+    {
+      "id": "2wsmzz",
+      "title": "VPN use surges in UK as new online safety rules kick in",
+      "description": "Score: 84 | Comments: 27 | Posted by mmarian",
+      "url": "https://www.ft.com/content/356674b0-9f1d-4f95-b1d5-f27570379a9b",
+      "publishedAt": "2025-07-28T02:33:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mmarian",
+      "tags": []
+    },
+    {
+      "id": "v4znuo",
+      "title": "Big agriculture mislead the public about the benefits of biofuels",
+      "description": "Score: 78 | Comments: 53 | Posted by littlexsparkee",
+      "url": "https://lithub.com/how-big-agriculture-mislead-the-public-about-the-benefits-of-biofuels/",
+      "publishedAt": "2025-07-28T01:46:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "littlexsparkee",
+      "tags": []
+    },
+    {
+      "id": "mdo9qe",
+      "title": "Why does a fire truck cost $2m",
+      "description": "Score: 154 | Comments: 132 | Posted by Guid_NewGuid",
+      "url": "https://thehustle.co/originals/why-does-a-fire-truck-cost-2-million",
+      "publishedAt": "2025-07-28T00:56:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Guid_NewGuid",
+      "tags": []
+    },
+    {
+      "id": "cr0497",
+      "title": "Claude Code Router",
+      "description": "Score: 46 | Comments: 4 | Posted by y1n0",
+      "url": "https://github.com/musistudio/claude-code-router",
+      "publishedAt": "2025-07-28T00:19:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "y1n0",
+      "tags": []
+    }
+  ]
+}
