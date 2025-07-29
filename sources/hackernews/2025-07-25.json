@@ -91,6 +91,17 @@
       "tags": []
     },
     {
+      "id": "2pbjmd",
+      "title": "Rotring 600 Ballpoint Pen",
+      "description": "Score: 43 | Comments: 14 | Posted by Alupis",
+      "url": "https://www.shellshore.com/review-rotring-600-ballpoint-pen/",
+      "publishedAt": "2025-07-25T18:35:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Alupis",
+      "tags": []
+    },
+    {
       "id": "6btf0o",
       "title": "Vanilla JavaScript support for Tailwind Plus",
       "description": "Score: 228 | Comments: 104 | Posted by ulrischa",
@@ -234,6 +245,17 @@
       "tags": []
     },
     {
+      "id": "wze1ve",
+      "title": "Getting the KIM-1 to talk to my Mac",
+      "description": "Score: 50 | Comments: 6 | Posted by jgrahamc",
+      "url": "https://blog.jgc.org/2025/02/getting-kim-1-to-talk-to-my-mac.html",
+      "publishedAt": "2025-07-25T15:12:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jgrahamc",
+      "tags": []
+    },
+    {
       "id": "9urn73",
       "title": "Programming vehicles in games",
       "description": "Score: 253 | Comments: 57 | Posted by Bogdanp",
@@ -311,6 +333,17 @@
       "tags": []
     },
     {
+      "id": "aclwcz",
+      "title": "Cells that breathe oxygen and sulfur at the same time",
+      "description": "Score: 65 | Comments: 4 | Posted by sohkamyung",
+      "url": "https://www.quantamagazine.org/the-cells-that-breathe-two-ways-20250723/",
+      "publishedAt": "2025-07-25T12:38:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sohkamyung",
+      "tags": []
+    },
+    {
       "id": "35nfkc",
       "title": "The future is not self-hosted",
       "description": "Score: 277 | Comments: 267 | Posted by drew_lytle",
@@ -333,6 +366,28 @@
       "tags": []
     },
     {
+      "id": "6a6dm",
+      "title": "Terminal app can now run full graphical Linux apps in the latest Android Canary",
+      "description": "Score: 190 | Comments: 75 | Posted by thunderbong",
+      "url": "https://www.androidauthority.com/linux-terminal-graphical-apps-3580905/",
+      "publishedAt": "2025-07-25T11:08:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thunderbong",
+      "tags": []
+    },
+    {
+      "id": "udmr6v",
+      "title": "Show HN: 433 - How to Make a Font That Says Nothing",
+      "description": "Score: 29 | Comments: 4 | Posted by rpastuszak",
+      "url": "https://untested.sonnet.io/notes/433-how-to-make-a-font-that-says-nothing/",
+      "publishedAt": "2025-07-25T11:05:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rpastuszak",
+      "tags": []
+    },
+    {
       "id": "lg6ccf",
       "title": "Bits 0x02: switching to orion as a browser",
       "description": "Score: 38 | Comments: 7 | Posted by fside",
@@ -341,6 +396,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "fside",
+      "tags": []
+    },
+    {
+      "id": "x52277",
+      "title": "Built a rickroll machine that rickrolls you with microservices",
+      "description": "Score: 8 | Comments: 4 | Posted by darad",
+      "url": "https://github.com/nabbonoushad/Chaotic-Rickroll-Machine",
+      "publishedAt": "2025-07-25T09:24:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "darad",
       "tags": []
     },
     {

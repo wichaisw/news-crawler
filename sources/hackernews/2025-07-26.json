@@ -234,6 +234,17 @@
       "tags": []
     },
     {
+      "id": "77td0h",
+      "title": "Show HN: Color Me Same – A new kind of logic game",
+      "description": "Score: 15 | Comments: 12 | Posted by franze",
+      "url": "https://color-me-same.franzai.com/",
+      "publishedAt": "2025-07-26T09:22:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "franze",
+      "tags": []
+    },
+    {
       "id": "4zif1n",
       "title": "Simon Tatham's Portable Puzzle Collection",
       "description": "Score: 183 | Comments: 41 | Posted by sogen",
@@ -253,6 +264,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mediumdeviation",
+      "tags": []
+    },
+    {
+      "id": "5bdbmb",
+      "title": "SQLx – Rust SQL Toolkit",
+      "description": "Score: 120 | Comments: 53 | Posted by stmw",
+      "url": "https://github.com/launchbadge/sqlx",
+      "publishedAt": "2025-07-26T02:54:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "stmw",
       "tags": []
     },
     {
