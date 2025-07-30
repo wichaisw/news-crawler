@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "8d3py9",
+      "title": "Playing with more user-friendly methods for multi-factor authentication",
+      "description": "Score: 61 | Comments: 35 | Posted by noleary",
+      "url": "https://tesseral.com/blog/i-designed-some-more-user-friendly-methods-for-multi-factor-authentication",
+      "publishedAt": "2025-07-28T22:04:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "noleary",
+      "tags": []
+    },
+    {
       "id": "7kgaz4",
       "title": "Structural-Demographic Theory",
       "description": "Score: 22 | Comments: 4 | Posted by rzk",

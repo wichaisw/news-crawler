@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "m77d4c",
+      "title": "FoundationDB: From idea to Apple acquisition [video]",
+      "description": "Score: 143 | Comments: 18 | Posted by zdw",
+      "url": "https://www.youtube.com/watch?v=C1nZzQqcPZw",
+      "publishedAt": "2025-07-25T23:06:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
       "id": "b38eza",
       "title": "SRAM Has No Chill: Exploiting Power Domain Separation to Steal On-Chip Secrets",
       "description": "Score: 33 | Comments: 11 | Posted by zdw",

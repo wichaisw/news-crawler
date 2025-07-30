@@ -1,0 +1,61 @@
+{
+  "date": "2025-07-30",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "gz4gnj",
+      "title": "Why plane turbulence is becoming more frequent – and more severe",
+      "description": "Score: 7 | Comments: 0 | Posted by ranit",
+      "url": "https://www.bbc.com/news/articles/ckgy7jx082ro",
+      "publishedAt": "2025-07-30T04:49:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ranit",
+      "tags": []
+    },
+    {
+      "id": "vmqkr4",
+      "title": "Curated list of C++ frameworks and resources",
+      "description": "Score: 12 | Comments: 0 | Posted by plentysun",
+      "url": "https://github.com/fffaraz/awesome-cpp",
+      "publishedAt": "2025-07-30T02:33:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "plentysun",
+      "tags": []
+    },
+    {
+      "id": "uik8fh",
+      "title": "M8.7 earthquake in Western Pacific, tsunami warning issuedusgs.gov",
+      "description": "Score: 541 | Comments: 142 | Posted by jandrewrogers",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000qw60/executive",
+      "publishedAt": "2025-07-30T01:10:09.185Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jandrewrogers",
+      "tags": []
+    },
+    {
+      "id": "6p47jq",
+      "title": "Pkgbase Removes FreeBSD Base System Feature",
+      "description": "Score: 9 | Comments: 0 | Posted by vermaden",
+      "url": "https://lists.freebsd.org/archives/freebsd-pkgbase/2025-July/000590.html",
+      "publishedAt": "2025-07-30T01:05:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vermaden",
+      "tags": []
+    },
+    {
+      "id": "uik8fh",
+      "title": "M8.7 earthquake in Western Pacific, tsunami warning issued",
+      "description": "Score: 542 | Comments: 142 | Posted by jandrewrogers",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000qw60/executive",
+      "publishedAt": "2025-07-30T00:38:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jandrewrogers",
+      "tags": []
+    }
+  ]
+}

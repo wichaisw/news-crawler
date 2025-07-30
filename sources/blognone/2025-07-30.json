@@ -1,0 +1,73 @@
+{
+  "date": "2025-07-30",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "147580 at https://www.blognone.com",
+      "title": "YouTube จะเริ่มใช้ AI ตรวจจับผู้ใช้ที่อายุต่ำกว่า 18 ปี ประเมินจากคลิปที่ค้นหา-รับชม",
+      "description": "YouTube จะเริ่มใช้ AI ตรวจจับผู้ใช้ที่อายุต่ำกว่า 18 ปี ประเมินจากคลิปที่ค้นหา-รับชม Body YouTube ประกาศแนวทางตรวจสอบอายุผู้ใช้งานที่ต่ำกว่า 18 ปี",
+      "url": "https://www.blognone.com/node/147580",
+      "publishedAt": "2025-07-30T04:23:57.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "147579 at https://www.blognone.com",
+      "title": "ภาพหลุด Pixel 10 ยืนยัน รองรับชาร์จไร้สาย Qi2 แบบไม่ต้องใส่เคส",
+      "description": "ภาพหลุด Pixel 10 ยืนยัน รองรับชาร์จไร้สาย Qi2 แบบไม่ต้องใส่เคส Body @evleaks หรือ Evan Blass นักปล่อยภาพหลุดมือถือชื่อดัง เผยภาพหลุดของ Pixel 10",
+      "url": "https://www.blognone.com/node/147579",
+      "publishedAt": "2025-07-30T03:52:07.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "147578 at https://www.blognone.com",
+      "title": "Photoshop เพิ่มฟีเจอร์ Harmonize ให้ AI ผสานวัตถุกับฉากหลัง, Generative Upscale",
+      "description": "Photoshop เพิ่มฟีเจอร์ Harmonize ให้ AI ผสานวัตถุกับฉากหลัง, Generative Upscale Body Adobe เพิ่มฟีเจอร์ด้าน generative AI ให้กับ Photoshop หลายอย่าง",
+      "url": "https://www.blognone.com/node/147578",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2025/2025-07/adobe-upscale.webp",
+      "publishedAt": "2025-07-30T03:02:38.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "147577 at https://www.blognone.com",
+      "title": "ผู้สร้าง Django ทดลอง GLM-4.5-Air พบแมคบุ๊กเก่าก็รันได้ เขียนโปรแกรมได้จริง",
+      "description": "ผู้สร้าง Django ทดลอง GLM-4.5-Air พบแมคบุ๊กเก่าก็รันได้ เขียนโปรแกรมได้จริง Body Simon Willison โปรแกรมเมอร์สหราชอาณาจักรและผู้ร่วมสร้างเฟรมเวิร์ค",
+      "url": "https://www.blognone.com/node/147577",
+      "publishedAt": "2025-07-30T02:55:13.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "147576 at https://www.blognone.com",
+      "title": "Google Search AI Mode รองรับการอัพโหลด PDF, Canvas, เปิดกล้องถาม AI",
+      "description": "Google Search AI Mode รองรับการอัพโหลด PDF, Canvas, เปิดกล้องถาม AI Body กูเกิลยังเดินหน้าผลักดัน AI Mode ใน Google Search อย่างต่อเนื่อง (คนละอันกับ",
+      "url": "https://www.blognone.com/node/147576",
+      "publishedAt": "2025-07-30T02:27:20.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "147575 at https://www.blognone.com",
+      "title": "ChatGPT เปิดตัว Study Mode โหมดช่วยทำการบ้าน ติวสอบ ตอบละเอียดเป็นขั้นตอนมากขึ้น",
+      "description": "ChatGPT เปิดตัว Study Mode โหมดช่วยทำการบ้าน ติวสอบ ตอบละเอียดเป็นขั้นตอนมากขึ้น Body OpenAI เปิดตัว ChatGPT study mode สำหรับนักเรียน นักศึกษา",
+      "url": "https://www.blognone.com/node/147575",
+      "publishedAt": "2025-07-30T02:09:01.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}
