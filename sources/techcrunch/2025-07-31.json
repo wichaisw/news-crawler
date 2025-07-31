@@ -1,0 +1,28 @@
+{
+  "date": "2025-07-31",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3032593",
+      "title": "GitHub Copilot crosses 20 million all-time users",
+      "description": "One of the most popular AI coding tools on the market added five million users in the last three months.",
+      "url": "https://techcrunch.com/2025/07/30/github-copilot-crosses-20-million-all-time-users/",
+      "publishedAt": "2025-07-31T01:16:55.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Maxwell Zeff",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3032647",
+      "title": "Kleiner Perkins-backed Ambiq pops on IPO debut",
+      "description": "The 15-year-old chipmaker saw its shares climb 61% above its IPO price by the close of its first trading day.",
+      "url": "https://techcrunch.com/2025/07/30/kleiner-perkins-backed-ambiq-pops-on-ipo-debut/",
+      "publishedAt": "2025-07-31T01:00:24.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Marina Temkin",
+      "tags": []
+    }
+  ]
+}

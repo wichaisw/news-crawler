@@ -47,6 +47,17 @@
       "tags": []
     },
     {
+      "id": "o62dn1",
+      "title": "Fixing Ctrl+C in Rust terminal apps: Child process management",
+      "description": "Score: 79 | Comments: 33 | Posted by Callicles",
+      "url": "https://www.fiveonefour.com/blog/Fixing-ctrl-c-in-terminal-apps-child-process-management",
+      "publishedAt": "2025-07-29T22:05:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Callicles",
+      "tags": []
+    },
+    {
       "id": "zcc8nw",
       "title": "RIP Shunsaku Tamiya, the man who made plastic model kits a global obsession",
       "description": "Score: 205 | Comments: 39 | Posted by fidotron",
@@ -352,6 +363,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "Danau5tin",
+      "tags": []
+    },
+    {
+      "id": "ft75bq",
+      "title": "“Good first issues” are usually not good first issues",
+      "description": "Score: 14 | Comments: 4 | Posted by am17an",
+      "url": "https://am17an.bearblog.dev/why-good-first-issues-are-usually-not-good-first-issues/",
+      "publishedAt": "2025-07-29T10:25:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "am17an",
       "tags": []
     },
     {

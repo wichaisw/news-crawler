@@ -1,0 +1,105 @@
+{
+  "date": "2025-07-31",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "hvs7jq",
+      "title": "Stargate Norwayopenai.com",
+      "description": "Score: 39 | Comments: 10 | Posted by amrrs",
+      "url": "https://openai.com/index/introducing-stargate-norway/",
+      "publishedAt": "2025-07-31T05:10:37.276Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "amrrs",
+      "tags": []
+    },
+    {
+      "id": "hvs7jq",
+      "title": "Stargate Norway",
+      "description": "Score: 41 | Comments: 10 | Posted by amrrs",
+      "url": "https://openai.com/index/introducing-stargate-norway/",
+      "publishedAt": "2025-07-31T05:08:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "amrrs",
+      "tags": []
+    },
+    {
+      "id": "lhy7gk",
+      "title": "Tracking source locations in the Futhark compiler",
+      "description": "Score: 7 | Comments: 0 | Posted by jmillikin",
+      "url": "https://futhark-lang.org/blog/2025-07-29-tracking-source-locations.html",
+      "publishedAt": "2025-07-31T04:40:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jmillikin",
+      "tags": []
+    },
+    {
+      "id": "urmpec",
+      "title": "I Know When You're Vibe Coding",
+      "description": "Score: 49 | Comments: 10 | Posted by thunderbong",
+      "url": "https://alexkondov.com/i-know-when-youre-vibe-coding/",
+      "publishedAt": "2025-07-31T04:16:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thunderbong",
+      "tags": []
+    },
+    {
+      "id": "b6hpe6",
+      "title": "Friction and Not Being Touched",
+      "description": "Score: 6 | Comments: 0 | Posted by colinprince",
+      "url": "https://tante.cc/2025/07/30/friction-and-not-being-touched/",
+      "publishedAt": "2025-07-31T03:18:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "colinprince",
+      "tags": []
+    },
+    {
+      "id": "wzxxzm",
+      "title": "Classic Common Desktop Environment coming to OpenBSDundeadly.org",
+      "description": "Score: 68 | Comments: 16 | Posted by susam",
+      "url": "https://undeadly.org/cgi?action=article;sid=20250730080301",
+      "publishedAt": "2025-07-31T02:09:37.277Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "susam",
+      "tags": []
+    },
+    {
+      "id": "36syyh",
+      "title": "You know what: Microsoft became miserably incompetent in ITmikekaganski.wordpress.com",
+      "description": "Score: 89 | Comments: 40 | Posted by doener",
+      "url": "https://mikekaganski.wordpress.com/2025/07/25/microsoft-anybody-home/",
+      "publishedAt": "2025-07-31T02:09:37.277Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "doener",
+      "tags": []
+    },
+    {
+      "id": "wzxxzm",
+      "title": "Classic Common Desktop Environment coming to OpenBSD",
+      "description": "Score: 68 | Comments: 16 | Posted by susam",
+      "url": "https://undeadly.org/cgi?action=article;sid=20250730080301",
+      "publishedAt": "2025-07-31T01:42:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "susam",
+      "tags": []
+    },
+    {
+      "id": "36syyh",
+      "title": "You know what: Microsoft became miserably incompetent in IT",
+      "description": "Score: 89 | Comments: 40 | Posted by doener",
+      "url": "https://mikekaganski.wordpress.com/2025/07/25/microsoft-anybody-home/",
+      "publishedAt": "2025-07-31T01:22:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "doener",
+      "tags": []
+    }
+  ]
+}

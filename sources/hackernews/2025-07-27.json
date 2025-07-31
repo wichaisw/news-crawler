@@ -102,6 +102,17 @@
       "tags": []
     },
     {
+      "id": "p11p0f",
+      "title": "Show HN: Open-source physical rack-mounted GUI for home lab",
+      "description": "Score: 19 | Comments: 3 | Posted by mmajzoobi",
+      "url": "https://www.getubo.com/post/gui-for-raspberry-pi-inside-mini-racks",
+      "publishedAt": "2025-07-27T21:13:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mmajzoobi",
+      "tags": []
+    },
+    {
       "id": "nrjoxh",
       "title": "Making Postgres slower",
       "description": "Score: 223 | Comments: 21 | Posted by AsyncBanana",
@@ -168,6 +179,17 @@
       "tags": []
     },
     {
+      "id": "q58fsf",
+      "title": "Open source BOM management (for me)",
+      "description": "Score: 8 | Comments: 0 | Posted by vincent-uden",
+      "url": "https://www.vincentuden.xyz/blog/pcb_management",
+      "publishedAt": "2025-07-27T18:52:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vincent-uden",
+      "tags": []
+    },
+    {
       "id": "1yphbh",
       "title": "Performance and telemetry analysis of Trae IDE, ByteDance's VSCode fork",
       "description": "Score: 778 | Comments: 281 | Posted by segfault22",
@@ -198,6 +220,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "detaro",
+      "tags": []
+    },
+    {
+      "id": "juwd1s",
+      "title": "Ultra-Rapid Vision in Birds",
+      "description": "Score: 59 | Comments: 14 | Posted by downboots",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0151099",
+      "publishedAt": "2025-07-27T16:32:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "downboots",
       "tags": []
     },
     {
@@ -278,6 +311,28 @@
       "tags": []
     },
     {
+      "id": "ysjmmn",
+      "title": "Traccar: an open source GPS tracking system",
+      "description": "Score: 41 | Comments: 9 | Posted by saikatsg",
+      "url": "https://github.com/traccar/traccar",
+      "publishedAt": "2025-07-27T10:30:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "saikatsg",
+      "tags": []
+    },
+    {
+      "id": "1ge217",
+      "title": "JANET – The UK Joint Academic Network (1988) [pdf]",
+      "description": "Score: 3 | Comments: 1 | Posted by dcminter",
+      "url": "https://serials.uksg.org/articles/35/files/submission/proof/35-1-35-1-10-20150210.pdf",
+      "publishedAt": "2025-07-27T09:22:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dcminter",
+      "tags": []
+    },
+    {
       "id": "v16r59",
       "title": "Linux on Snapdragon X Elite: Linaro and Tuxedo Pave the Way for ARM64 Laptops",
       "description": "Score: 273 | Comments: 192 | Posted by MarcusE1W",
@@ -297,6 +352,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "artiomyak",
+      "tags": []
+    },
+    {
+      "id": "4gjz6q",
+      "title": ".NET 10 Preview 6 brings JIT improvements, one-shot tool execution",
+      "description": "Score: 168 | Comments: 187 | Posted by breve",
+      "url": "https://www.infoworld.com/article/4023654/net-10-preview-6-brings-jit-improvements-one-shot-tool-execution.html",
+      "publishedAt": "2025-07-27T05:53:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "breve",
       "tags": []
     },
     {
@@ -363,6 +429,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "Liftyee",
+      "tags": []
+    },
+    {
+      "id": "qujmug",
+      "title": "A Python dict that can report which keys you did not use",
+      "description": "Score: 78 | Comments: 39 | Posted by gilad",
+      "url": "https://www.peterbe.com/plog/a-python-dict-that-can-report-which-keys-you-did-not-use",
+      "publishedAt": "2025-07-27T02:22:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gilad",
       "tags": []
     },
     {
