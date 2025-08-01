@@ -1,0 +1,28 @@
+{
+  "date": "2025-08-01",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3033005",
+      "title": "Handwave lends a hand to retailers with its European alternative to Amazon’s palm payments",
+      "description": "Latvian startup Handwave aims to compete with Amazon palm payments by offering an independent alternative.",
+      "url": "https://techcrunch.com/2025/07/31/handwave-lends-a-hand-to-retailers-with-its-european-alternative-to-amazons-palm-payments/",
+      "publishedAt": "2025-08-01T06:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anna Heim",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3032700",
+      "title": "Female-founded semiconductor AI startup SixSense raises $8.5M",
+      "description": "SixSense offers an AI-powered platform that helps chip makers prevent defects. It landed backing led by Peak XV’s Surge (formerly Sequoia India",
+      "url": "https://techcrunch.com/2025/07/31/female-founded-semiconductor-ai-startup-sixsense-raises-funding/",
+      "publishedAt": "2025-08-01T00:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Kate Park",
+      "tags": []
+    }
+  ]
+}

@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "2strhw",
+      "title": "OpenAI's ChatGPT Agent casually clicks through \"I am not a robot\" verification",
+      "description": "Score: 224 | Comments: 259 | Posted by joak",
+      "url": "https://arstechnica.com/information-technology/2025/07/openais-chatgpt-agent-casually-clicks-through-i-am-not-a-robot-verification-test/",
+      "publishedAt": "2025-07-28T22:46:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "joak",
+      "tags": []
+    },
+    {
       "id": "8d3py9",
       "title": "Playing with more user-friendly methods for multi-factor authentication",
       "description": "Score: 61 | Comments: 35 | Posted by noleary",
@@ -113,6 +124,17 @@
       "tags": []
     },
     {
+      "id": "wbrt8j",
+      "title": "Scientists and engineers craft radio telescope bound for the moon",
+      "description": "Score: 16 | Comments: 2 | Posted by gnabgib",
+      "url": "https://www.bnl.gov/newsroom/news.php?a=122408",
+      "publishedAt": "2025-07-28T19:51:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gnabgib",
+      "tags": []
+    },
+    {
       "id": "mpcr81",
       "title": "Different Clocks",
       "description": "Score: 152 | Comments: 25 | Posted by pppone",
@@ -146,6 +168,17 @@
       "tags": []
     },
     {
+      "id": "z1xe34",
+      "title": "Replacing cron jobs with a centralized task scheduler",
+      "description": "Score: 52 | Comments: 29 | Posted by tlf",
+      "url": "https://mayhul.com/posts/scheduled-tasks/",
+      "publishedAt": "2025-07-28T18:23:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tlf",
+      "tags": []
+    },
+    {
       "id": "7ws3my",
       "title": "Interstellar Comet 3I/Atlas: What We Know Now",
       "description": "Score: 81 | Comments: 33 | Posted by bikenaga",
@@ -154,6 +187,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "bikenaga",
+      "tags": []
+    },
+    {
+      "id": "2xlwjq",
+      "title": "Windows Directory Structure Synchronizer",
+      "description": "Score: 5 | Comments: 1 | Posted by fernvenue",
+      "url": "https://github.com/fernvenue/path-dumper-windows",
+      "publishedAt": "2025-07-28T17:06:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fernvenue",
       "tags": []
     },
     {
@@ -212,6 +256,17 @@
       "tags": []
     },
     {
+      "id": "hjvav5",
+      "title": "Following Up on the Python JIT",
+      "description": "Score: 84 | Comments: 41 | Posted by Bogdanp",
+      "url": "https://lwn.net/Articles/1029307/",
+      "publishedAt": "2025-07-28T14:23:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Bogdanp",
+      "tags": []
+    },
+    {
       "id": "gq84gd",
       "title": "GLM-4.5: Reasoning, Coding, and Agentic Abililties",
       "description": "Score: 188 | Comments: 100 | Posted by GaggiX",
@@ -234,6 +289,28 @@
       "tags": []
     },
     {
+      "id": "4peur4",
+      "title": "Face it: you're a crazy person",
+      "description": "Score: 511 | Comments: 282 | Posted by surprisetalk",
+      "url": "https://www.experimental-history.com/p/face-it-youre-a-crazy-person",
+      "publishedAt": "2025-07-28T13:23:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
+      "id": "qqoe5z",
+      "title": "Ferrari Status",
+      "description": "Score: 70 | Comments: 90 | Posted by surprisetalk",
+      "url": "https://collabfund.com/blog/ferrari-status/",
+      "publishedAt": "2025-07-28T13:23:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
       "id": "p0o3iy",
       "title": "The Geological Sublime",
       "description": "Score: 73 | Comments: 26 | Posted by prismatic",
@@ -253,6 +330,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jnord",
+      "tags": []
+    },
+    {
+      "id": "1kym6z",
+      "title": "Sumo – Simulation of Urban Mobility",
+      "description": "Score: 141 | Comments: 28 | Posted by Stevvo",
+      "url": "https://eclipse.dev/sumo/",
+      "publishedAt": "2025-07-28T12:39:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Stevvo",
       "tags": []
     },
     {
@@ -418,6 +506,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "Guid_NewGuid",
+      "tags": []
+    },
+    {
+      "id": "prliub",
+      "title": "Show HN: I made a website that makes you cry",
+      "description": "Score: 161 | Comments: 98 | Posted by johnnymaroney",
+      "url": "https://www.cryonceaweek.com",
+      "publishedAt": "2025-07-28T00:19:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "johnnymaroney",
       "tags": []
     },
     {

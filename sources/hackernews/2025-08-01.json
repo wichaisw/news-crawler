@@ -1,0 +1,72 @@
+{
+  "date": "2025-08-01",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "tqtp5w",
+      "title": "Every satellite orbiting earth and who owns them (2023)dewesoft.com",
+      "description": "Score: 21 | Comments: 5 | Posted by jonbaer",
+      "url": "https://dewesoft.com/blog/every-satellite-orbiting-earth-and-who-owns-them",
+      "publishedAt": "2025-08-01T05:32:53.354Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jonbaer",
+      "tags": []
+    },
+    {
+      "id": "tqtp5w",
+      "title": "Every satellite orbiting earth and who owns them (2023)",
+      "description": "Score: 21 | Comments: 5 | Posted by jonbaer",
+      "url": "https://dewesoft.com/blog/every-satellite-orbiting-earth-and-who-owns-them",
+      "publishedAt": "2025-08-01T05:31:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jonbaer",
+      "tags": []
+    },
+    {
+      "id": "jcgxa3",
+      "title": "LLM leaderboard – Comparing models from OpenAI, Google, DeepSeek and others",
+      "description": "Score: 32 | Comments: 14 | Posted by bookofjoe",
+      "url": "https://artificialanalysis.ai/leaderboards/models",
+      "publishedAt": "2025-08-01T02:45:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bookofjoe",
+      "tags": []
+    },
+    {
+      "id": "fbpma4",
+      "title": "Show HN: KubeForge – A GUI for Kubernetes YAMLs",
+      "description": "Score: 19 | Comments: 9 | Posted by rakeda",
+      "url": "https://github.com/kubenote/KubeForge",
+      "publishedAt": "2025-08-01T02:30:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rakeda",
+      "tags": []
+    },
+    {
+      "id": "drvxm4",
+      "title": "Golden Literal Testing in UTest",
+      "description": "Score: 9 | Comments: 1 | Posted by lihaoyi",
+      "url": "https://www.lihaoyi.com/post/GoldenLiteralTestinginuTest090.html",
+      "publishedAt": "2025-08-01T00:04:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lihaoyi",
+      "tags": []
+    },
+    {
+      "id": "agot0x",
+      "title": "A memory safe C framework, RAII, I/O, coroutine and other concurrency primitives",
+      "description": "Score: 12 | Comments: 2 | Posted by thetechstech",
+      "url": "https://zelang-dev.github.io/c-asio/",
+      "publishedAt": "2025-08-01T00:02:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thetechstech",
+      "tags": []
+    }
+  ]
+}

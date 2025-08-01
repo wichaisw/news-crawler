@@ -190,6 +190,17 @@
       "tags": []
     },
     {
+      "id": "u5cnjf",
+      "title": "Programmers aren’t so humble anymore, maybe because nobody codes in Perl",
+      "description": "Score: 62 | Comments: 63 | Posted by Timothee",
+      "url": "https://www.wired.com/story/programmers-arent-humble-anymore-nobody-codes-in-perl/",
+      "publishedAt": "2025-07-29T17:51:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Timothee",
+      "tags": []
+    },
+    {
       "id": "ue454o",
       "title": "Elements of System Design",
       "description": "Score: 106 | Comments: 34 | Posted by qianli_cs",
@@ -377,6 +388,39 @@
       "tags": []
     },
     {
+      "id": "foulne",
+      "title": "Mountain of Ink",
+      "description": "Score: 51 | Comments: 10 | Posted by neilfrndes",
+      "url": "https://mountainofink.com",
+      "publishedAt": "2025-07-29T07:10:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "neilfrndes",
+      "tags": []
+    },
+    {
+      "id": "4kz7pd",
+      "title": "Show HN: Walk-through of rocket landing optimization paper [pdf]",
+      "description": "Score: 12 | Comments: 1 | Posted by scpowers",
+      "url": "https://scpowers.github.io/pdfs/rocket_landing.pdf",
+      "publishedAt": "2025-07-29T07:02:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "scpowers",
+      "tags": []
+    },
+    {
+      "id": "jmw4el",
+      "title": "Telephone colophon: Or, how I overengineered my call audio (2020)",
+      "description": "Score: 15 | Comments: 2 | Posted by mafro",
+      "url": "https://noahliebman.net/2020/12/telephone-colophon-or-how-i-overengineered-my-call-audio/",
+      "publishedAt": "2025-07-29T06:41:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mafro",
+      "tags": []
+    },
+    {
       "id": "s8nr6c",
       "title": "Florida’s attorney general targets a restaurant over an LGBTQ Pride event",
       "description": "Score: 36 | Comments: 4 | Posted by voxadam",
@@ -418,6 +462,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "tush726",
+      "tags": []
+    },
+    {
+      "id": "gf426l",
+      "title": "Zig Profiling on Apple Silicon",
+      "description": "Score: 100 | Comments: 24 | Posted by signa11",
+      "url": "https://blog.bugsiki.dev/posts/zig-profilers/",
+      "publishedAt": "2025-07-29T02:15:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "signa11",
+      "tags": []
+    },
+    {
+      "id": "a04d1w",
+      "title": "voyage-context-3: Contextual Retrieval Without the LLM",
+      "description": "Score: 3 | Comments: 0 | Posted by fzliu",
+      "url": "https://blog.voyageai.com/2025/07/23/voyage-context-3/",
+      "publishedAt": "2025-07-29T02:10:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fzliu",
       "tags": []
     },
     {
