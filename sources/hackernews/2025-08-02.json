@@ -1,0 +1,83 @@
+{
+  "date": "2025-08-02",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "b8j486",
+      "title": "Robert Wilson has diedtheartnewspaper.com",
+      "description": "Score: 34 | Comments: 8 | Posted by paulpauper",
+      "url": "https://www.theartnewspaper.com/2025/08/01/robert-wilson-playwright-director-artist-obituary",
+      "publishedAt": "2025-08-02T04:08:20.015Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "paulpauper",
+      "tags": []
+    },
+    {
+      "id": "x3fe2t",
+      "title": "Hardening mode for the compilerllvm.org",
+      "description": "Score: 66 | Comments: 4 | Posted by vitaut",
+      "url": "https://discourse.llvm.org/t/rfc-hardening-mode-for-the-compiler/87660",
+      "publishedAt": "2025-08-02T03:08:20.015Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vitaut",
+      "tags": []
+    },
+    {
+      "id": "b8j486",
+      "title": "Robert Wilson has died",
+      "description": "Score: 34 | Comments: 8 | Posted by paulpauper",
+      "url": "https://www.theartnewspaper.com/2025/08/01/robert-wilson-playwright-director-artist-obituary",
+      "publishedAt": "2025-08-02T02:57:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "paulpauper",
+      "tags": []
+    },
+    {
+      "id": "gnq8e3",
+      "title": "Peak Energy just shipped the US's first grid-scale sodium-ion battery",
+      "description": "Score: 52 | Comments: 8 | Posted by breve",
+      "url": "https://electrek.co/2025/07/30/peak-energy-us-first-grid-scale-sodium-ion-battery/",
+      "publishedAt": "2025-08-02T02:35:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "breve",
+      "tags": []
+    },
+    {
+      "id": "x3fe2t",
+      "title": "Hardening mode for the compiler",
+      "description": "Score: 66 | Comments: 4 | Posted by vitaut",
+      "url": "https://discourse.llvm.org/t/rfc-hardening-mode-for-the-compiler/87660",
+      "publishedAt": "2025-08-02T02:12:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vitaut",
+      "tags": []
+    },
+    {
+      "id": "9976cv",
+      "title": "The Rickover Corpus: A digital archive of Admiral Rickover's speeches and memos",
+      "description": "Score: 42 | Comments: 9 | Posted by stmw",
+      "url": "https://rickovercorpus.org/",
+      "publishedAt": "2025-08-02T00:59:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "stmw",
+      "tags": []
+    },
+    {
+      "id": "bhc7nh",
+      "title": "Meta violated privacy law, jury says in menstrual data fight",
+      "description": "Score: 57 | Comments: 10 | Posted by danso",
+      "url": "https://www.courthousenews.com/meta-violated-privacy-law-jury-says-in-menstrual-data-fight/",
+      "publishedAt": "2025-08-02T00:38:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "danso",
+      "tags": []
+    }
+  ]
+}

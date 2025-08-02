@@ -80,6 +80,17 @@
       "tags": []
     },
     {
+      "id": "x9nmvu",
+      "title": "A DH106 1A Comet has been restored at the de Havilland Aircraft Museum",
+      "description": "Score: 44 | Comments: 12 | Posted by rmason",
+      "url": "https://www.cnn.com/travel/de-havilland-comet-dh106-first-passenger-jet",
+      "publishedAt": "2025-07-29T20:14:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rmason",
+      "tags": []
+    },
+    {
       "id": "v7ukq5",
       "title": "Dropbox Passwords discontinuation",
       "description": "Score: 57 | Comments: 38 | Posted by h1fra",
@@ -176,6 +187,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "dkamm",
+      "tags": []
+    },
+    {
+      "id": "mugea4",
+      "title": "Pseudo, a Common Lisp macro for pseudocode expressions",
+      "description": "Score: 64 | Comments: 6 | Posted by reikonomusha",
+      "url": "http://funcall.blogspot.com/2025/07/pseudo.html",
+      "publishedAt": "2025-07-29T18:17:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "reikonomusha",
       "tags": []
     },
     {
@@ -300,6 +322,17 @@
       "tags": []
     },
     {
+      "id": "uattb1",
+      "title": "How Hyper built a 1M-accurate indoor GPS",
+      "description": "Score: 97 | Comments: 61 | Posted by AndrewHart",
+      "url": "https://andrewhart.me/hyper/",
+      "publishedAt": "2025-07-29T15:01:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "AndrewHart",
+      "tags": []
+    },
+    {
       "id": "sw8a11",
       "title": "Irrelevant facts about cats added to math problems increase LLM errors by 300%",
       "description": "Score: 360 | Comments: 172 | Posted by sxv",
@@ -355,6 +388,17 @@
       "tags": []
     },
     {
+      "id": "hcytos",
+      "title": "Processing: Mattie Lubchansky Wrote and Illustrated Simplicity",
+      "description": "Score: 4 | Comments: 0 | Posted by crescit_eundo",
+      "url": "https://countercraft.substack.com/p/processing-how-mattie-lubchansky",
+      "publishedAt": "2025-07-29T13:33:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "crescit_eundo",
+      "tags": []
+    },
+    {
       "id": "w6ymxy",
       "title": "Linux Performance Analysis (2015)",
       "description": "Score: 170 | Comments: 36 | Posted by benjacksondev",
@@ -363,6 +407,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "benjacksondev",
+      "tags": []
+    },
+    {
+      "id": "9jea1j",
+      "title": "Ethersync: Peer-to-peer collaborative editing of local text files",
+      "description": "Score: 95 | Comments: 10 | Posted by blinry",
+      "url": "https://github.com/ethersync/ethersync",
+      "publishedAt": "2025-07-29T13:15:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "blinry",
+      "tags": []
+    },
+    {
+      "id": "m578p5",
+      "title": "JavaScript retro sound effects generator",
+      "description": "Score: 39 | Comments: 9 | Posted by selvan",
+      "url": "https://github.grumdrig.com/jsfxr/",
+      "publishedAt": "2025-07-29T11:30:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "selvan",
       "tags": []
     },
     {
@@ -385,6 +451,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "am17an",
+      "tags": []
+    },
+    {
+      "id": "amnzew",
+      "title": "Yearly Organiser",
+      "description": "Score: 8 | Comments: 1 | Posted by anewhnaccount2",
+      "url": "https://neatnik.net/calendar/",
+      "publishedAt": "2025-07-29T08:23:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "anewhnaccount2",
+      "tags": []
+    },
+    {
+      "id": "93hztn",
+      "title": "Make Your Own Backup System – Part 2: Forging the FreeBSD Backup Stronghold",
+      "description": "Score: 97 | Comments: 3 | Posted by todsacerdoti",
+      "url": "https://it-notes.dragas.net/2025/07/29/make-your-own-backup-system-part-2-forging-the-freebsd-backup-stronghold/",
+      "publishedAt": "2025-07-29T07:42:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
       "tags": []
     },
     {
@@ -418,6 +506,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mafro",
+      "tags": []
+    },
+    {
+      "id": "dw5v6h",
+      "title": "Show HN: Draw a fish and watch it swim with the others",
+      "description": "Score: 823 | Comments: 212 | Posted by hallak",
+      "url": "https://drawafish.com",
+      "publishedAt": "2025-07-29T04:57:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hallak",
       "tags": []
     },
     {

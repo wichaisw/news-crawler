@@ -25,6 +25,17 @@
       "tags": []
     },
     {
+      "id": "zb9j0",
+      "title": "A criminal enterprise run by monkeys",
+      "description": "Score: 36 | Comments: 23 | Posted by mathattack",
+      "url": "https://www.wsj.com/lifestyle/monkeys-thieves-bali-temple-0b63a432",
+      "publishedAt": "2025-07-30T21:55:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mathattack",
+      "tags": []
+    },
+    {
       "id": "8729ri",
       "title": "Ollama's new app",
       "description": "Score: 296 | Comments: 155 | Posted by BUFU",
@@ -124,6 +135,17 @@
       "tags": []
     },
     {
+      "id": "492rrh",
+      "title": "Build an AI telephony agent for inbound and outbound calls",
+      "description": "Score: 56 | Comments: 31 | Posted by sagarkava",
+      "url": "https://github.com/videosdk-community/ai-telephony-demo",
+      "publishedAt": "2025-07-30T17:52:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sagarkava",
+      "tags": []
+    },
+    {
       "id": "bva8n2",
       "title": "Most Illinois farmland is not owned by farmers",
       "description": "Score: 195 | Comments: 225 | Posted by NaOH",
@@ -154,6 +176,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "gaplong",
+      "tags": []
+    },
+    {
+      "id": "2k7pkj",
+      "title": "What's Not to Like?",
+      "description": "Score: 22 | Comments: 17 | Posted by wyndham",
+      "url": "https://theamericanscholar.org/whats-not-to-like/",
+      "publishedAt": "2025-07-30T17:00:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wyndham",
       "tags": []
     },
     {
@@ -201,6 +234,17 @@
       "tags": []
     },
     {
+      "id": "xgbl68",
+      "title": "The tradeoff between human and AI context",
+      "description": "Score: 15 | Comments: 0 | Posted by softwaredoug",
+      "url": "https://softwaredoug.com/blog/2025/07/30/layers-of-ai-coding",
+      "publishedAt": "2025-07-30T15:37:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "softwaredoug",
+      "tags": []
+    },
+    {
       "id": "kqya14",
       "title": "Show HN: Sourcebot – Self-hosted Perplexity for your codebase",
       "description": "Score: 82 | Comments: 20 | Posted by bshzzle",
@@ -212,11 +256,33 @@
       "tags": []
     },
     {
+      "id": "9y7eb9",
+      "title": "Show HN: Print the daily weather forecast on a thermal receipt printer",
+      "description": "Score: 10 | Comments: 4 | Posted by chr15m",
+      "url": "https://github.com/chr15m/print-weather",
+      "publishedAt": "2025-07-30T14:34:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "chr15m",
+      "tags": []
+    },
+    {
       "id": "oi7eia",
       "title": "A short post on short trains",
       "description": "Score: 71 | Comments: 98 | Posted by surprisetalk",
       "url": "https://shakeddown.substack.com/p/a-short-post-on-short-trains",
       "publishedAt": "2025-07-30T14:15:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
+      "id": "zo49r",
+      "title": "Weather Model based on ADS-B",
+      "description": "Score: 128 | Comments: 20 | Posted by surprisetalk",
+      "url": "https://obrhubr.org/adsb-weather-model",
+      "publishedAt": "2025-07-30T14:14:56.000Z",
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "surprisetalk",
@@ -352,6 +418,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ranit",
+      "tags": []
+    },
+    {
+      "id": "heierj",
+      "title": "Show HN: An interactive dashboard to explore NYC rentals data",
+      "description": "Score: 66 | Comments: 49 | Posted by giulioco",
+      "url": "https://leaseswap.nyc/analytics",
+      "publishedAt": "2025-07-30T03:33:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "giulioco",
       "tags": []
     },
     {
