@@ -58,6 +58,17 @@
       "tags": []
     },
     {
+      "id": "crmsxl",
+      "title": "The Big Oops in type systems: This problem extends to FP as well",
+      "description": "Score: 85 | Comments: 56 | Posted by ksymph",
+      "url": "https://danieltan.weblog.lol/2025/07/the-big-oops-in-type-systems-this-problem-extends-to-fp-as-well",
+      "publishedAt": "2025-07-31T19:49:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ksymph",
+      "tags": []
+    },
+    {
       "id": "4xg1hw",
       "title": "Slowmichaelnotebook.com",
       "description": "Score: 673 | Comments: 166 | Posted by calvinfo",
@@ -146,11 +157,44 @@
       "tags": []
     },
     {
+      "id": "trr044",
+      "title": "6 weeks of Claude Code",
+      "description": "Score: 331 | Comments: 354 | Posted by mike1o1",
+      "url": "https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/",
+      "publishedAt": "2025-07-31T15:25:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mike1o1",
+      "tags": []
+    },
+    {
       "id": "aonae5",
       "title": "Ubiquiti launches UniFi OS Server for self-hosting",
       "description": "Score: 263 | Comments: 218 | Posted by speckx",
       "url": "https://lazyadmin.nl/home-network/unifi-os-server/",
       "publishedAt": "2025-07-31T15:24:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
+      "tags": []
+    },
+    {
+      "id": "amoq8i",
+      "title": "PixiEditor 2.0 – A FOSS universal 2D graphics editor",
+      "description": "Score: 197 | Comments: 20 | Posted by ksymph",
+      "url": "https://pixieditor.net/blog/2025/07/30/20-release/",
+      "publishedAt": "2025-07-31T15:21:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ksymph",
+      "tags": []
+    },
+    {
+      "id": "1mn4fh",
+      "title": "I tried living on IPv6 for a day",
+      "description": "Score: 81 | Comments: 119 | Posted by speckx",
+      "url": "https://www.xda-developers.com/the-internet-isnt-fully-ipv6-ready/",
+      "publishedAt": "2025-07-31T15:15:03.000Z",
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "speckx",
@@ -190,6 +234,17 @@
       "tags": []
     },
     {
+      "id": "l5f9k9",
+      "title": "Ongoing Lean formalisation of the proof of Fermat's Last Theorem",
+      "description": "Score: 60 | Comments: 27 | Posted by anonyonoor",
+      "url": "https://github.com/ImperialCollegeLondon/FLT",
+      "publishedAt": "2025-07-31T13:59:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "anonyonoor",
+      "tags": []
+    },
+    {
       "id": "wfumx3",
       "title": "Releasing weights for FLUX.1 Krea",
       "description": "Score: 244 | Comments: 82 | Posted by vmatsiiako",
@@ -209,6 +264,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "yla92",
+      "tags": []
+    },
+    {
+      "id": "2zl0l6",
+      "title": "OpenAI's \"Study Mode\" and the risks of flattery",
+      "description": "Score: 112 | Comments: 112 | Posted by benbreen",
+      "url": "https://resobscura.substack.com/p/openais-new-study-mode-and-the-risks",
+      "publishedAt": "2025-07-31T13:35:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "benbreen",
       "tags": []
     },
     {
@@ -234,6 +300,17 @@
       "tags": []
     },
     {
+      "id": "14fafl",
+      "title": "Helion begins work on Washington nuclear fusion plant",
+      "description": "Score: 74 | Comments: 47 | Posted by mpweiher",
+      "url": "https://www.nucnet.org/news/microsoft-backed-fusion-company-begins-work-on-washington-nuclear-fusion-plant-7-4-2025",
+      "publishedAt": "2025-07-31T12:41:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mpweiher",
+      "tags": []
+    },
+    {
       "id": "757wdw",
       "title": "Many countries that said no to ChatControl in 2024 are now undecided",
       "description": "Score: 348 | Comments: 247 | Posted by nickslaughter02",
@@ -256,6 +333,17 @@
       "tags": []
     },
     {
+      "id": "etqr5b",
+      "title": "Double-slit experiment holds up when stripped to its quantum essentials",
+      "description": "Score: 76 | Comments: 44 | Posted by ColinWright",
+      "url": "https://news.mit.edu/2025/famous-double-slit-experiment-holds-when-stripped-to-quantum-essentials-0728",
+      "publishedAt": "2025-07-31T08:00:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ColinWright",
+      "tags": []
+    },
+    {
       "id": "hvs7jq",
       "title": "Stargate Norwayopenai.com",
       "description": "Score: 39 | Comments: 10 | Posted by amrrs",
@@ -275,6 +363,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "amrrs",
+      "tags": []
+    },
+    {
+      "id": "kqhwz5",
+      "title": "Super-resolution of Sentinel-2 images (10M –> 5M)",
+      "description": "Score: 19 | Comments: 2 | Posted by mixtape2025-1",
+      "url": "https://github.com/Topping1/L1BSR-GUI",
+      "publishedAt": "2025-07-31T04:43:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mixtape2025-1",
       "tags": []
     },
     {
@@ -352,6 +451,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "doener",
+      "tags": []
+    },
+    {
+      "id": "60k31d",
+      "title": "Remote hosting for your telescope",
+      "description": "Score: 96 | Comments: 30 | Posted by gregorvand",
+      "url": "https://www.sierra-remote.com/",
+      "publishedAt": "2025-07-31T00:23:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gregorvand",
       "tags": []
     }
   ]

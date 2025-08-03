@@ -1,0 +1,94 @@
+{
+  "date": "2025-08-03",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "kqpi5w",
+      "title": "Twenty Eighth International Obfuscated C Code Contestioccc.org",
+      "description": "Score: 42 | Comments: 6 | Posted by mdl_principle",
+      "url": "https://www.ioccc.org/2024/index.html",
+      "publishedAt": "2025-08-03T05:08:38.618Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mdl_principle",
+      "tags": []
+    },
+    {
+      "id": "77uf40",
+      "title": "How I use Claude Code to implement new features in an existing complex codebase",
+      "description": "Score: 29 | Comments: 15 | Posted by plentysun",
+      "url": "https://www.sabrina.dev/p/ultimate-ai-coding-guide-claude-code",
+      "publishedAt": "2025-08-03T04:39:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "plentysun",
+      "tags": []
+    },
+    {
+      "id": "kqpi5w",
+      "title": "Twenty Eighth International Obfuscated C Code Contest",
+      "description": "Score: 42 | Comments: 6 | Posted by mdl_principle",
+      "url": "https://www.ioccc.org/2024/index.html",
+      "publishedAt": "2025-08-03T04:34:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mdl_principle",
+      "tags": []
+    },
+    {
+      "id": "jm3v4q",
+      "title": "Seed7 – The Extensible Programming Language",
+      "description": "Score: 9 | Comments: 0 | Posted by 0x54MUR41",
+      "url": "https://seed7.net",
+      "publishedAt": "2025-08-03T04:11:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "0x54MUR41",
+      "tags": []
+    },
+    {
+      "id": "n3rb66",
+      "title": "Writing a basic service for GNU Guix",
+      "description": "Score: 12 | Comments: 0 | Posted by hermitsings",
+      "url": "https://tannerhoelzel.com/gnu-shepherd-simple-service.html",
+      "publishedAt": "2025-08-03T03:43:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hermitsings",
+      "tags": []
+    },
+    {
+      "id": "ajzfng",
+      "title": "Parsing without ASTs and Optimizing with Sea of Nodes  [video]",
+      "description": "Score: 12 | Comments: 0 | Posted by surprisetalk",
+      "url": "https://www.youtube.com/watch?v=NxiKlnUtyio",
+      "publishedAt": "2025-08-03T02:52:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
+      "id": "8ejiyq",
+      "title": "Show HN: Voltpeek – Vim-inspired oscilloscope software",
+      "description": "Score: 9 | Comments: 1 | Posted by schuyler4",
+      "url": "https://github.com/schuyler4/voltpeek",
+      "publishedAt": "2025-08-03T00:29:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "schuyler4",
+      "tags": []
+    },
+    {
+      "id": "6wokq7",
+      "title": "C++26 Reflections adventures and compile-time UML",
+      "description": "Score: 74 | Comments: 27 | Posted by ibobev",
+      "url": "https://www.reachablecode.com/2025/07/31/c26-reflections-adventures-compile-time-uml/",
+      "publishedAt": "2025-08-03T00:12:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
+      "tags": []
+    }
+  ]
+}

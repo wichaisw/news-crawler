@@ -25,6 +25,17 @@
       "tags": []
     },
     {
+      "id": "xeyyz6",
+      "title": "Neural networks that learn non-linearity without activation functions [pdf]",
+      "description": "Score: 14 | Comments: 4 | Posted by mlnomadpy",
+      "url": "https://www.tahabouhsine.com/nmn/assets/deep_learning_two_point_o_point_one.pdf",
+      "publishedAt": "2025-07-30T21:59:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mlnomadpy",
+      "tags": []
+    },
+    {
       "id": "zb9j0",
       "title": "A criminal enterprise run by monkeys",
       "description": "Score: 36 | Comments: 23 | Posted by mathattack",
@@ -33,6 +44,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mathattack",
+      "tags": []
+    },
+    {
+      "id": "kqs3x5",
+      "title": "Micron rolls out 276-layer SSD trio for speed, scale, and stability",
+      "description": "Score: 21 | Comments: 10 | Posted by rbanffy",
+      "url": "https://blocksandfiles.com/2025/07/30/micron-three-276-layer-ssds/",
+      "publishedAt": "2025-07-30T21:54:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rbanffy",
       "tags": []
     },
     {
@@ -88,6 +110,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "danabramov",
+      "tags": []
+    },
+    {
+      "id": "ivxyd7",
+      "title": "A dive into open chat protocols",
+      "description": "Score: 97 | Comments: 19 | Posted by Bogdanp",
+      "url": "https://wiki.alopex.li/ADiveIntoOpenChat",
+      "publishedAt": "2025-07-30T19:00:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Bogdanp",
       "tags": []
     },
     {
@@ -234,6 +267,17 @@
       "tags": []
     },
     {
+      "id": "5sqsef",
+      "title": "Helsinki records zero traffic deaths for full year",
+      "description": "Score: 575 | Comments: 309 | Posted by DaveZale",
+      "url": "https://www.helsinkitimes.fi/finland/finland-news/domestic/27539-helsinki-records-zero-traffic-deaths-for-full-year.html",
+      "publishedAt": "2025-07-30T16:08:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "DaveZale",
+      "tags": []
+    },
+    {
       "id": "xgbl68",
       "title": "The tradeoff between human and AI context",
       "description": "Score: 15 | Comments: 0 | Posted by softwaredoug",
@@ -242,6 +286,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "softwaredoug",
+      "tags": []
+    },
+    {
+      "id": "39yaih",
+      "title": "LangExtract: Python library for extracting structured data from language models",
+      "description": "Score: 43 | Comments: 4 | Posted by simonpure",
+      "url": "https://github.com/google/langextract",
+      "publishedAt": "2025-07-30T14:56:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "simonpure",
       "tags": []
     },
     {
@@ -297,6 +352,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ElasticBottle",
+      "tags": []
+    },
+    {
+      "id": "eeivi0",
+      "title": "Mezzano, an operating system written in Common Lisp",
+      "description": "Score: 66 | Comments: 5 | Posted by dargscisyhp",
+      "url": "https://github.com/froggey/Mezzano",
+      "publishedAt": "2025-07-30T14:09:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dargscisyhp",
       "tags": []
     },
     {
@@ -377,6 +443,17 @@
       "tags": []
     },
     {
+      "id": "gabzgm",
+      "title": "Australia’s gains in wheat-farm productivity",
+      "description": "Score: 73 | Comments: 24 | Posted by tiarafawn",
+      "url": "https://www.reuters.com/investigations/less-rain-more-wheat-how-australian-farmers-defied-climate-doom-2025-07-29/",
+      "publishedAt": "2025-07-30T10:06:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tiarafawn",
+      "tags": []
+    },
+    {
       "id": "k66j31",
       "title": "A major AI training data set contains millions of examples of personal data",
       "description": "Score: 119 | Comments: 86 | Posted by pera",
@@ -385,6 +462,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "pera",
+      "tags": []
+    },
+    {
+      "id": "dtb9i",
+      "title": "A Quantum Gravimeter for GPS Backup",
+      "description": "Score: 4 | Comments: 0 | Posted by pseudolus",
+      "url": "https://spectrum.ieee.org/quantum-gravity-sensor",
+      "publishedAt": "2025-07-30T09:47:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pseudolus",
       "tags": []
     },
     {
@@ -410,6 +498,17 @@
       "tags": []
     },
     {
+      "id": "zo2so",
+      "title": "How I do support and community",
+      "description": "Score: 29 | Comments: 0 | Posted by sogen",
+      "url": "https://pketh.org/support-community.html",
+      "publishedAt": "2025-07-30T05:29:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sogen",
+      "tags": []
+    },
+    {
       "id": "gz4gnj",
       "title": "Why plane turbulence is becoming more frequent – and more severe",
       "description": "Score: 7 | Comments: 0 | Posted by ranit",
@@ -429,6 +528,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "giulioco",
+      "tags": []
+    },
+    {
+      "id": "8849vk",
+      "title": "Online Collection of Keygen Music",
+      "description": "Score: 244 | Comments: 58 | Posted by mifydev",
+      "url": "https://keygenmusic.tk",
+      "publishedAt": "2025-07-30T02:53:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mifydev",
       "tags": []
     },
     {

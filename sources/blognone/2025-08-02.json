@@ -3,6 +3,51 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "147625 at https://www.blognone.com",
+      "title": "Anthropic ตัดการเข้าถึง API ของพนักงาน OpenAI หลังพบว่าเรียกใช้ Claude Code",
+      "description": "Anthropic ตัดการเข้าถึง API ของพนักงาน OpenAI หลังพบว่าเรียกใช้ Claude Code Body Anthropic ตัดสิทธิการใช้งาน Claude API ของบริษัทคู่แข่ง OpenAI แล้ว",
+      "url": "https://www.blognone.com/node/147625",
+      "publishedAt": "2025-08-02T13:38:26.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "147624 at https://www.blognone.com",
+      "title": "กูเกิลเปิดบริการ Gemini 2.5 Deep Think ให้ใช้ สอบคณิตศาสตร์โอลิมปิกได้เหรียญทองแดง",
+      "description": "กูเกิลเปิดบริการ Gemini 2.5 Deep Think ให้ใช้ สอบคณิตศาสตร์โอลิมปิกได้เหรียญทองแดง Body กูเกิลเริ่มเปิดบริการ Gemini 2.5 Deep Think กับลูกค้าแพ็กเกจ",
+      "url": "https://www.blognone.com/node/147624",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2025/2025-07/all_benchmarks_blog.width-1000.format-webp.webp",
+      "publishedAt": "2025-08-02T13:25:24.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "147623 at https://www.blognone.com",
+      "title": "Vince Zampella บอก Battlefield 6 เป็นผู้สืบทอดของภาค 3 และ 4",
+      "description": "Vince Zampella บอก Battlefield 6 เป็นผู้สืบทอดของภาค 3 และ 4 Body Vince Zampella ผู้รับผิดชอบสูงสุดของแฟรนไชส์ Battlefield ให้สัมภาษณ์กับช่อง Friends",
+      "url": "https://www.blognone.com/node/147623",
+      "publishedAt": "2025-08-02T07:50:13.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "147622 at https://www.blognone.com",
+      "title": "Project Zero ปรับนโยบายเปิดเผยช่องโหว่ เปิดเผยผู้ผลิตที่ได้รับแจ้งภายใน 1 สัปดาห์",
+      "description": "Project Zero ปรับนโยบายเปิดเผยช่องโหว่ เปิดเผยผู้ผลิตที่ได้รับแจ้งภายใน 1 สัปดาห์ Body Project Zero",
+      "url": "https://www.blognone.com/node/147622",
+      "publishedAt": "2025-08-02T07:08:51.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "147621 at https://www.blognone.com",
       "title": "Cerebras เปิดบริการผู้ช่วยเขียนโปรแกรม ใช้ Qwen3-Coder FP8 มาให้บริการ ไม่มีโควต้ารายสัปดาห์",
       "description": "Cerebras เปิดบริการผู้ช่วยเขียนโปรแกรม ใช้ Qwen3-Coder FP8 มาให้บริการ ไม่มีโควต้ารายสัปดาห์ Body Cerebras ผู้พัฒนาชิปที่ผันตัวมาให้บริการ LLM",
