@@ -1,0 +1,50 @@
+{
+  "date": "2025-08-04",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "ds9ahg",
+      "title": "A parser for TypeScript types, written in TypeScript types",
+      "description": "Score: 25 | Comments: 4 | Posted by todsacerdoti",
+      "url": "https://github.com/easrng/tsints",
+      "publishedAt": "2025-08-04T02:12:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "iinv9i",
+      "title": "Ready or not, age verification is rolling out across the internet",
+      "description": "Score: 20 | Comments: 3 | Posted by GSSmarin",
+      "url": "https://www.theverge.com/analysis/715767/online-age-verification-not-ready",
+      "publishedAt": "2025-08-04T02:05:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "GSSmarin",
+      "tags": []
+    },
+    {
+      "id": "eaitom",
+      "title": "Poorest US workers hit hardest by slowing wage growth",
+      "description": "Score: 91 | Comments: 99 | Posted by hhs",
+      "url": "https://www.ft.com/content/cfb77a53-fef8-4382-b102-c217e0aa4b25",
+      "publishedAt": "2025-08-04T00:57:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hhs",
+      "tags": []
+    },
+    {
+      "id": "rys4",
+      "title": "Why doctors hate their computers (2018)",
+      "description": "Score: 38 | Comments: 28 | Posted by mitchbob",
+      "url": "https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers",
+      "publishedAt": "2025-08-04T00:41:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mitchbob",
+      "tags": []
+    }
+  ]
+}

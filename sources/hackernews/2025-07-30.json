@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "7v5gxc",
+      "title": "The Ski Rental Problem",
+      "description": "Score: 67 | Comments: 75 | Posted by skywalqer",
+      "url": "https://lesves.github.io/articles/ski-rental/",
+      "publishedAt": "2025-07-30T22:34:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "skywalqer",
+      "tags": []
+    },
+    {
       "id": "df94wh",
       "title": "Figma will IPO on July 31",
       "description": "Score: 175 | Comments: 89 | Posted by nevir",
@@ -113,6 +124,17 @@
       "tags": []
     },
     {
+      "id": "5b5fg8",
+      "title": "The Subway Game (1980)",
+      "description": "Score: 42 | Comments: 18 | Posted by Lammy",
+      "url": "https://www.gricer.com/subway_game/subway_game.html",
+      "publishedAt": "2025-07-30T19:02:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Lammy",
+      "tags": []
+    },
+    {
       "id": "ivxyd7",
       "title": "A dive into open chat protocols",
       "description": "Score: 97 | Comments: 19 | Posted by Bogdanp",
@@ -132,6 +154,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "akkartik",
+      "tags": []
+    },
+    {
+      "id": "8ij94s",
+      "title": "Flourishing chemosynthetic life at the greatest depths of hadal trenches",
+      "description": "Score: 75 | Comments: 11 | Posted by smartmic",
+      "url": "https://www.nature.com/articles/s41586-025-09317-z",
+      "publishedAt": "2025-07-30T18:20:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "smartmic",
       "tags": []
     },
     {
@@ -209,6 +242,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "gaplong",
+      "tags": []
+    },
+    {
+      "id": "lprcgs",
+      "title": "Build Your Own Minisforum N5 Inspired Mini NAS",
+      "description": "Score: 131 | Comments: 40 | Posted by LorenDB",
+      "url": "https://jackharvest.com/index.php/2025/07/27/build-your-own-minisforum-n5-inspired-mini-nas-a-comprehensive-guide/",
+      "publishedAt": "2025-07-30T17:14:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "LorenDB",
       "tags": []
     },
     {

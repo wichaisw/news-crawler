@@ -69,6 +69,28 @@
       "tags": []
     },
     {
+      "id": "855dhg",
+      "title": "Show HN: Schematra – Sinatra-inspired minimal web framework for Chicken Scheme",
+      "description": "Score: 31 | Comments: 1 | Posted by funkaster",
+      "url": "https://github.com/rolandoam/schematra",
+      "publishedAt": "2025-08-01T20:56:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "funkaster",
+      "tags": []
+    },
+    {
+      "id": "yatisq",
+      "title": "CloudGazing",
+      "description": "Score: 20 | Comments: 1 | Posted by speckx",
+      "url": "https://cloudgazing.online/",
+      "publishedAt": "2025-08-01T20:45:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
+      "tags": []
+    },
+    {
       "id": "t7nd1h",
       "title": "Researchers map where solar energy delivers the biggest climate payoff",
       "description": "Score: 78 | Comments: 42 | Posted by rbanffy",
@@ -275,6 +297,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "meetpateltech",
+      "tags": []
+    },
+    {
+      "id": "f593zc",
+      "title": "New quantum state of matter found at interface of exotic materials",
+      "description": "Score: 6 | Comments: 0 | Posted by janandonly",
+      "url": "https://phys.org/news/2025-07-quantum-state-interface-exotic-materials.html",
+      "publishedAt": "2025-08-01T09:42:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "janandonly",
       "tags": []
     },
     {
