@@ -91,6 +91,17 @@
       "tags": []
     },
     {
+      "id": "3os7rx",
+      "title": "Using drone imagery and AI to rapidly assess damage after hurricanes and floods",
+      "description": "Score: 23 | Comments: 5 | Posted by rbanffy",
+      "url": "https://stories.tamu.edu/news/2025/07/28/ai-turns-drone-footage-into-disaster-response-maps-in-minutes/",
+      "publishedAt": "2025-08-01T20:22:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rbanffy",
+      "tags": []
+    },
+    {
       "id": "t7nd1h",
       "title": "Researchers map where solar energy delivers the biggest climate payoff",
       "description": "Score: 78 | Comments: 42 | Posted by rbanffy",
@@ -212,6 +223,17 @@
       "tags": []
     },
     {
+      "id": "935yx",
+      "title": "Deterministic Simulation Testing in Rust: A Theater of State Machines",
+      "description": "Score: 31 | Comments: 1 | Posted by lukastyrychtr",
+      "url": "https://www.polarsignals.com/blog/posts/2025/07/08/dst-rust",
+      "publishedAt": "2025-08-01T16:36:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lukastyrychtr",
+      "tags": []
+    },
+    {
       "id": "7gkelj",
       "title": "Ergonomic keyboarding with the Svalboard: a half-year retrospective",
       "description": "Score: 94 | Comments: 46 | Posted by Twey",
@@ -245,6 +267,17 @@
       "tags": []
     },
     {
+      "id": "87qlka",
+      "title": "OpenIPC: Open IP Camera Firmware",
+      "description": "Score: 236 | Comments: 124 | Posted by zakki",
+      "url": "https://openipc.org/à",
+      "publishedAt": "2025-08-01T15:41:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zakki",
+      "tags": []
+    },
+    {
       "id": "5k8rrk",
       "title": "Fast (2019)",
       "description": "Score: 78 | Comments: 20 | Posted by samuel246",
@@ -253,6 +286,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "samuel246",
+      "tags": []
+    },
+    {
+      "id": "nv16bx",
+      "title": "The history of the Schwartzian Transform (2016)",
+      "description": "Score: 35 | Comments: 6 | Posted by mooreds",
+      "url": "https://www.perl.com/article/the-history-of-the-schwartzian-transform/",
+      "publishedAt": "2025-08-01T15:15:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mooreds",
       "tags": []
     },
     {
@@ -278,6 +322,17 @@
       "tags": []
     },
     {
+      "id": "dl7848",
+      "title": "How we built Bluey’s world",
+      "description": "Score: 352 | Comments: 155 | Posted by skrebbel",
+      "url": "https://www.itsnicethat.com/features/how-we-built-bluey-s-world-cartoon-background-scenery-art-director-catriona-drummond-animation-090725",
+      "publishedAt": "2025-08-01T12:33:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "skrebbel",
+      "tags": []
+    },
+    {
       "id": "p20nb1",
       "title": "The untold impact of cancellation",
       "description": "Score: 323 | Comments: 381 | Posted by cbeach",
@@ -286,6 +341,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "cbeach",
+      "tags": []
+    },
+    {
+      "id": "5hbs4g",
+      "title": "Cellular Starlink expands to support IoT devices",
+      "description": "Score: 72 | Comments: 57 | Posted by teleforce",
+      "url": "https://me.pcmag.com/en/networking/31452/spacexs-cellular-starlink-expands-to-support-iot-devices",
+      "publishedAt": "2025-08-01T11:32:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "teleforce",
       "tags": []
     },
     {

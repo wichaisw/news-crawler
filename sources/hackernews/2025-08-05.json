@@ -1,0 +1,72 @@
+{
+  "date": "2025-08-05",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "6t9sdl",
+      "title": "Monitor your security cameras with locally processed AIfrigate.video",
+      "description": "Score: 46 | Comments: 8 | Posted by zakki",
+      "url": "https://frigate.video/",
+      "publishedAt": "2025-08-05T05:10:47.862Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zakki",
+      "tags": []
+    },
+    {
+      "id": "6t9sdl",
+      "title": "Monitor your security cameras with locally processed AI",
+      "description": "Score: 46 | Comments: 8 | Posted by zakki",
+      "url": "https://frigate.video/",
+      "publishedAt": "2025-08-05T05:05:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zakki",
+      "tags": []
+    },
+    {
+      "id": "4d8ixk",
+      "title": "PHP 8.5 adds pipe operator",
+      "description": "Score: 59 | Comments: 15 | Posted by lemper",
+      "url": "https://thephp.foundation/blog/2025/07/11/php-85-adds-pipe-operator/",
+      "publishedAt": "2025-08-05T04:13:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lemper",
+      "tags": []
+    },
+    {
+      "id": "1edtn7",
+      "title": "Kyoto University team develops pain reliever comparable to morphine",
+      "description": "Score: 35 | Comments: 6 | Posted by nogajun",
+      "url": "https://www.japantimes.co.jp/news/2025/08/05/japan/japan-new-painkiller-comparable-to-morphine/",
+      "publishedAt": "2025-08-05T03:47:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nogajun",
+      "tags": []
+    },
+    {
+      "id": "ndun1v",
+      "title": "Perplexity Response to Cloudflare",
+      "description": "Score: 33 | Comments: 16 | Posted by Tokumei-no-hito",
+      "url": "https://twitter.com/perplexity_ai/status/1952531537385456019",
+      "publishedAt": "2025-08-05T02:42:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Tokumei-no-hito",
+      "tags": []
+    },
+    {
+      "id": "c3nqcs",
+      "title": "California farmers identify a hot new cash crop: Solar power",
+      "description": "Score: 20 | Comments: 7 | Posted by PaulHoule",
+      "url": "https://theconversation.com/california-farmers-identify-a-hot-new-cash-crop-solar-power-259653",
+      "publishedAt": "2025-08-05T02:18:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "PaulHoule",
+      "tags": []
+    }
+  ]
+}
