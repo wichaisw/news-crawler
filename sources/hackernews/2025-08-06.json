@@ -1,0 +1,138 @@
+{
+  "date": "2025-08-06",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "u15c36",
+      "title": "Teacher AI Use Is Already Out of Control and It's Not Ok",
+      "description": "Score: 3 | Comments: 2 | Posted by jruohonen",
+      "url": "https://simonwillison.net/2025/Aug/5/greyduet-on-rteachers/",
+      "publishedAt": "2025-08-06T05:44:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jruohonen",
+      "tags": []
+    },
+    {
+      "id": "50py5v",
+      "title": "Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Modelgithub.com/kittenml",
+      "description": "Score: 112 | Comments: 72 | Posted by divamgupta",
+      "url": "https://github.com/KittenML/KittenTTS",
+      "publishedAt": "2025-08-06T05:10:37.703Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "divamgupta",
+      "tags": []
+    },
+    {
+      "id": "50py5v",
+      "title": "Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model",
+      "description": "Score: 112 | Comments: 72 | Posted by divamgupta",
+      "url": "https://github.com/KittenML/KittenTTS",
+      "publishedAt": "2025-08-06T05:04:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "divamgupta",
+      "tags": []
+    },
+    {
+      "id": "mrq1t7",
+      "title": "PlayReady DRM leak triggers Microsoft takedown and Amazon account suspensions",
+      "description": "Score: 17 | Comments: 2 | Posted by esseph",
+      "url": "https://torrentfreak.com/playready-drm-leak-triggers-microsoft-takedown-and-amazon-account-suspensions/",
+      "publishedAt": "2025-08-06T03:59:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "esseph",
+      "tags": []
+    },
+    {
+      "id": "l73smf",
+      "title": "Whitehouse Moves to Destroy Satellite That Monitors Greenhouse Gases",
+      "description": "Score: 36 | Comments: 8 | Posted by WarOnPrivacy",
+      "url": "https://gizmodo.com/trump-administration-moves-to-destroy-satellite-that-monitors-greenhouse-gases-2000639234",
+      "publishedAt": "2025-08-06T03:50:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "WarOnPrivacy",
+      "tags": []
+    },
+    {
+      "id": "qefi4r",
+      "title": "The Amaranth hardware description language",
+      "description": "Score: 36 | Comments: 7 | Posted by pabs3",
+      "url": "https://amaranth-lang.org/docs/amaranth/latest/intro.html#the-amaranth-language",
+      "publishedAt": "2025-08-06T03:49:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pabs3",
+      "tags": []
+    },
+    {
+      "id": "byeo2b",
+      "title": "I'm Archiving Picocrypt",
+      "description": "Score: 72 | Comments: 7 | Posted by jaden",
+      "url": "https://github.com/Picocrypt/Picocrypt/issues/134",
+      "publishedAt": "2025-08-06T03:14:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jaden",
+      "tags": []
+    },
+    {
+      "id": "qtpktp",
+      "title": "Marines now have an official drone-fighting handbookmarinecorpstimes.com",
+      "description": "Score: 68 | Comments: 45 | Posted by Gaishan",
+      "url": "https://www.marinecorpstimes.com/news/your-marine-corps/2025/08/04/the-marines-now-have-an-official-drone-fighting-handbook/",
+      "publishedAt": "2025-08-06T03:10:37.704Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Gaishan",
+      "tags": []
+    },
+    {
+      "id": "qtpktp",
+      "title": "Marines now have an official drone-fighting handbook",
+      "description": "Score: 68 | Comments: 45 | Posted by Gaishan",
+      "url": "https://www.marinecorpstimes.com/news/your-marine-corps/2025/08/04/the-marines-now-have-an-official-drone-fighting-handbook/",
+      "publishedAt": "2025-08-06T03:05:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Gaishan",
+      "tags": []
+    },
+    {
+      "id": "tvony",
+      "title": "Software Rot",
+      "description": "Score: 59 | Comments: 17 | Posted by pabs3",
+      "url": "https://permacomputing.net/software_rot/",
+      "publishedAt": "2025-08-06T02:35:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pabs3",
+      "tags": []
+    },
+    {
+      "id": "qlhlyn",
+      "title": "US tech rules the European market",
+      "description": "Score: 61 | Comments: 33 | Posted by devonnull",
+      "url": "https://proton.me/blog/us-tech-rules-europe",
+      "publishedAt": "2025-08-06T02:34:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "devonnull",
+      "tags": []
+    },
+    {
+      "id": "xx996s",
+      "title": "Science Titan sub firm used intimidation tactics and flawed safety practices",
+      "description": "Score: 19 | Comments: 1 | Posted by teleforce",
+      "url": "https://www.bbc.com/news/live/cdjxp4n2371t",
+      "publishedAt": "2025-08-06T01:30:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "teleforce",
+      "tags": []
+    }
+  ]
+}
