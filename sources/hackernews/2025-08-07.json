@@ -1,0 +1,105 @@
+{
+  "date": "2025-08-07",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "bwq8wq",
+      "title": "How ChatGPT spoiled my semester (2024)",
+      "description": "Score: 38 | Comments: 8 | Posted by edent",
+      "url": "https://benborgers.com/chatgpt-semester",
+      "publishedAt": "2025-08-07T05:00:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "edent",
+      "tags": []
+    },
+    {
+      "id": "q0cqc0",
+      "title": "SF tech CEO offers buyouts to let workers flee 'extreme' work culture",
+      "description": "Score: 20 | Comments: 5 | Posted by Stratoscope",
+      "url": "https://www.sfgate.com/tech/article/sf-tech-ceo-buyouts-culture-20805250.php",
+      "publishedAt": "2025-08-07T03:40:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Stratoscope",
+      "tags": []
+    },
+    {
+      "id": "fri1v1",
+      "title": "Show HN: Rust framework for advanced file recognition and identification",
+      "description": "Score: 18 | Comments: 3 | Posted by reimisdev",
+      "url": "https://crates.io/crates/magical_rs",
+      "publishedAt": "2025-08-07T03:38:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "reimisdev",
+      "tags": []
+    },
+    {
+      "id": "limivy",
+      "title": "FDA approves eye drops that fix near vision without glasses",
+      "description": "Score: 48 | Comments: 25 | Posted by geox",
+      "url": "https://newatlas.com/aging/age-related-near-sighted-drops-vizz/",
+      "publishedAt": "2025-08-07T03:34:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "geox",
+      "tags": []
+    },
+    {
+      "id": "gi9lgj",
+      "title": "Running GPT-OSS-120B at 500 tokens per second on Nvidia GPUs",
+      "description": "Score: 80 | Comments: 21 | Posted by philipkiely",
+      "url": "https://www.baseten.co/blog/sota-performance-for-gpt-oss-120b-on-nvidia-gpus/",
+      "publishedAt": "2025-08-07T02:28:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "philipkiely",
+      "tags": []
+    },
+    {
+      "id": "p4yn3w",
+      "title": "Mac history echoes in current Mac operating systems",
+      "description": "Score: 92 | Comments: 23 | Posted by classichasclass",
+      "url": "http://tenfourfox.blogspot.com/2025/08/mac-history-echoes-in-mac-operating.html",
+      "publishedAt": "2025-08-07T02:27:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "classichasclass",
+      "tags": []
+    },
+    {
+      "id": "3fjpp4",
+      "title": "We replaced passwords with something worse",
+      "description": "Score: 71 | Comments: 62 | Posted by max__dev",
+      "url": "https://blog.danielh.cc/blog/passwords",
+      "publishedAt": "2025-08-07T02:19:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "max__dev",
+      "tags": []
+    },
+    {
+      "id": "kh6sp2",
+      "title": "A candidate giant planet imaged in the habitable zone of α  Cen A",
+      "description": "Score: 45 | Comments: 14 | Posted by pinewurst",
+      "url": "https://arxiv.org/abs/2508.03814",
+      "publishedAt": "2025-08-07T01:42:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pinewurst",
+      "tags": []
+    },
+    {
+      "id": "4rlk2x",
+      "title": "VIN: The 17-character code that runs the automotive world",
+      "description": "Score: 36 | Comments: 13 | Posted by samsullivan",
+      "url": "https://cardog.app/blog/whats-a-vin",
+      "publishedAt": "2025-08-07T01:26:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "samsullivan",
+      "tags": []
+    }
+  ]
+}

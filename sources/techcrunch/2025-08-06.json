@@ -1,0 +1,215 @@
+{
+  "date": "2025-08-06",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3034727",
+      "title": "Upwork is buying its way into corporate staffing beyond freelancers",
+      "description": "The company will merge Bubty and Ascen with its existing enterprise business to form a separate entity later this year.",
+      "url": "https://techcrunch.com/2025/08/06/upwork-acquires-bubty-and-ascen-with-plans-to-launch-a-standalone-enterprise-business/",
+      "publishedAt": "2025-08-06T20:05:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Rebecca Szkutak",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3034767",
+      "title": "Google denies AI search features are killing website traffic",
+      "description": "Though Google hasn't shared any specific data to back up its conclusions, even if we assume Google's claims to be true, this doesn't necessarily mean",
+      "url": "https://techcrunch.com/2025/08/06/google-denies-ai-search-features-are-killing-website-traffic/",
+      "publishedAt": "2025-08-06T19:45:29.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sarah Perez",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3034844",
+      "title": "A rival Tea app for men is leaking its users’ personal data and driver’s licenses",
+      "description": "The newly launched app, now trending on Apple's App Store, contains at least one major security flaw that exposes the private information of its",
+      "url": "https://techcrunch.com/2025/08/06/a-rival-tea-app-for-men-is-leaking-its-users-personal-data-and-drivers-licenses/",
+      "publishedAt": "2025-08-06T19:40:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Amanda Silberling, Zack Whittaker",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3034758",
+      "title": "Federal regulators give Zoox an exemption for its custom-built robotaxis",
+      "description": "NHTSA is also closing an investigation into the Amazon-owned autonomous vehicle company.",
+      "url": "https://techcrunch.com/2025/08/06/federal-regulators-give-zoox-an-exemption-for-its-custom-built-robotaxis/",
+      "publishedAt": "2025-08-06T19:02:51.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Kirsten Korosec",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3026741",
+      "title": "How to actually raise a seed round: Actionable advice from top investors at TechCrunch Disrupt 2025",
+      "description": "This isn’t your typical venture panel. Expect sharp insights on how to cut through the noise, structure your raise, and build relationships that last",
+      "url": "https://techcrunch.com/2025/08/06/how-to-actually-raise-a-seed-round-actionable-advice-from-top-investors-at-techcrunch-disrupt-2025-on-july-15/",
+      "publishedAt": "2025-08-06T18:48:27.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "TechCrunch Events",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3034441",
+      "title": "First impressions of Alexa+, Amazon’s upgraded, AI-powered digital assistant",
+      "description": "To find out whether Alexa is still the best smart assistant for my family, I'm going to test Amazon's AI-powered devices, experiment with AI queries,",
+      "url": "https://techcrunch.com/2025/08/06/first-impressions-of-alexa-amazons-upgraded-ai-powered-digital-assistant/",
+      "publishedAt": "2025-08-06T18:27:16.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sarah Perez",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3034724",
+      "title": "Google takes on ChatGPT’s Study Mode with new ‘Guided Learning’ tool in Gemini",
+      "description": "Google is also offering students in the U.S., Japan, Indonesia, Korea, and Brazil a free one-year subscription to its AI Pro plan.",
+      "url": "https://techcrunch.com/2025/08/06/google-takes-on-chatgpts-study-mode-with-new-guided-learning-tool-in-gemini/",
+      "publishedAt": "2025-08-06T18:18:10.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Aisha Malik",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3034683",
+      "title": "OpenAI is practically giving ChatGPT to the government for free",
+      "description": "GSA Federal Acquisition Service commissioner Josh Gruenbaum in a statement encouraged “other American AI technology companies to follow OpenAI’s lead",
+      "url": "https://techcrunch.com/2025/08/06/openai-is-practically-giving-chatgpt-to-the-government-for-free/",
+      "publishedAt": "2025-08-06T17:09:16.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Rebecca Bellan",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3034433",
+      "title": "Google’s AI coding agent Jules is now out of beta",
+      "description": "Powered by Gemini 2.5 Pro, Jules is an asynchronous, agent-based coding tool that integrates with GitHub, clones codebases into Google Cloud virtual",
+      "url": "https://techcrunch.com/2025/08/06/googles-ai-coding-agent-jules-is-now-out-of-beta/",
+      "publishedAt": "2025-08-06T16:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Jagmeet Singh",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3034583",
+      "title": "Payment platform Lava raises $5.8M to build digital wallets for the ‘agent-native economy’",
+      "description": "Lava is a digital wallet that lets merchants use credits to facilitate transactions.",
+      "url": "https://techcrunch.com/2025/08/06/billing-platform-lava-raises-5-8m-to-build-digital-wallets-for-the-agent-native-economy/",
+      "publishedAt": "2025-08-06T15:45:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3034610",
+      "title": "Key sections of the US Constitution deleted from government’s website",
+      "description": "Internet sleuths say the U.S. Constitution's website is now missing key sections from its website, including a key legal provision relating to habeas",
+      "url": "https://techcrunch.com/2025/08/06/key-sections-of-the-us-constitution-deleted-from-governments-website/",
+      "publishedAt": "2025-08-06T15:29:39.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Zack Whittaker, Dominic-Madori Davis",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3034606",
+      "title": "Tavily raises $25M to connect AI agents to the web",
+      "description": "The one-year-old startup raised a Series A led by Insight Partners.",
+      "url": "https://techcrunch.com/2025/08/06/tavily-raises-25m-to-connect-ai-agents-to-the-web/",
+      "publishedAt": "2025-08-06T15:15:58.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Marina Temkin",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3034479",
+      "title": "Citizen Lab director warns cyber industry about US authoritarian descent",
+      "description": "Ron Deibert, the head of the prominent digital human rights groups Citizen Lab, sounds the alarm at the Black Hat security conference about the",
+      "url": "https://techcrunch.com/2025/08/06/citizen-lab-director-warns-cyber-industry-about-us-authoritarian-descent/",
+      "publishedAt": "2025-08-06T15:01:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lorenzo Franceschi-Bicchierai",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3034594",
+      "title": "Apple to announce $100B further commitment for US manufacturing",
+      "description": "This is on top of Apple's previously announced plan to invest $500 billion into the U.S. over the next four years.",
+      "url": "https://techcrunch.com/2025/08/06/apple-to-announce-100b-further-commitment-for-u-s-manufacturing/",
+      "publishedAt": "2025-08-06T14:30:45.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3034289",
+      "title": "Instagram takes on Snapchat with new ‘Instagram Map’",
+      "description": "Instagram notes that location sharing is off by default on Instagram Map, and a user's location only updates when they open the app, meaning it",
+      "url": "https://techcrunch.com/2025/08/06/instagram-takes-on-snapchat-with-new-instagram-map/",
+      "publishedAt": "2025-08-06T14:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Aisha Malik",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3034522",
+      "title": "Tinder explores a redesign, dating ‘modes,’ and college-specific features to boost engagement",
+      "description": "Tinder will redesign and debut college-specific features, like searching for people within the college, to appeal to younger users.",
+      "url": "https://techcrunch.com/2025/08/06/tinder-explores-a-redesign-dating-modes-and-college-specific-features-to-boost-engagement/",
+      "publishedAt": "2025-08-06T13:40:04.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Ivan Mehta",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3034574",
+      "title": "Cohere’s new AI agent platform, North, promises to keep enterprise data secure",
+      "description": "Canadian AI firm Cohere aims to alleviate data privacy concerns with its new AI agent platform, North, which can be deployed privately so that",
+      "url": "https://techcrunch.com/2025/08/06/coheres-new-ai-agent-platform-north-promises-to-keep-enterprise-data-secure/",
+      "publishedAt": "2025-08-06T13:32:24.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Rebecca Bellan",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3034544",
+      "title": "Two arrested for smuggling AI chips to China — Nvidia says no to kill switches",
+      "description": "The U.S. Department of Justice (DOJ) said on Tuesday that two Chinese nationals have been arrested for their alleged involvement in illegally",
+      "url": "https://techcrunch.com/2025/08/06/two-arrested-for-smuggling-ai-chips-to-china-nvidia-says-no-to-kill-switches/",
+      "publishedAt": "2025-08-06T13:02:40.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Rebecca Szkutak",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3034476",
+      "title": "Photo-sharing app Locket is banking on a new celebrity-focused feature to fuel its growth",
+      "description": "Celebrity Lockets is a new feature where celebrities can engage with their most loyal followers on their home screens.",
+      "url": "https://techcrunch.com/2025/08/06/photo-sharing-app-locket-is-banking-on-a-new-celebrity-focused-feature-to-fuel-its-growth/",
+      "publishedAt": "2025-08-06T13:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lauren Forristal",
+      "tags": []
+    }
+  ]
+}

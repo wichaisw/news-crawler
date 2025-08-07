@@ -102,6 +102,39 @@
       "tags": []
     },
     {
+      "id": "9e96b",
+      "title": "You know more Finnish than you think",
+      "description": "Score: 88 | Comments: 48 | Posted by infinate",
+      "url": "https://dannybate.com/2025/08/03/you-know-more-finnish-than-you-think/",
+      "publishedAt": "2025-08-04T19:08:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "infinate",
+      "tags": []
+    },
+    {
+      "id": "gkferr",
+      "title": "SQLite offline sync for Android quick start",
+      "description": "Score: 9 | Comments: 0 | Posted by marcobambini",
+      "url": "https://github.com/sqliteai/sqlite-sync/tree/main/examples/android-integration",
+      "publishedAt": "2025-08-04T17:34:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "marcobambini",
+      "tags": []
+    },
+    {
+      "id": "ri5xyq",
+      "title": "Why is it worth spending time on type theory? (2013)",
+      "description": "Score: 78 | Comments: 37 | Posted by mindcrime",
+      "url": "https://math.stackexchange.com/questions/567265/why-is-it-worth-spending-time-on-type-theory",
+      "publishedAt": "2025-08-04T16:46:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mindcrime",
+      "tags": []
+    },
+    {
       "id": "q5j71b",
       "title": "Show HN: Kimu – Open-Source Video Editor",
       "description": "Score: 83 | Comments: 29 | Posted by robinroy03",
@@ -344,6 +377,17 @@
       "tags": []
     },
     {
+      "id": "hvnfnm",
+      "title": "The Real Origin of Cisco Systems (1999)",
+      "description": "Score: 81 | Comments: 23 | Posted by thunderbong",
+      "url": "https://www.tcracs.org/tcrwp/1origin-of-cisco/",
+      "publishedAt": "2025-08-04T09:48:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thunderbong",
+      "tags": []
+    },
+    {
       "id": "uu8bn7",
       "title": "Job-seekers are dodging AI interviewers",
       "description": "Score: 548 | Comments: 795 | Posted by robtherobber",
@@ -366,6 +410,17 @@
       "tags": []
     },
     {
+      "id": "yunfc7",
+      "title": "What is the average length of a queue of cars? (2023)",
+      "description": "Score: 10 | Comments: 2 | Posted by alexmolas",
+      "url": "https://e-dorigatti.github.io/math/2023/11/01/queue-length.html",
+      "publishedAt": "2025-08-04T04:55:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "alexmolas",
+      "tags": []
+    },
+    {
       "id": "ds9ahg",
       "title": "A parser for TypeScript types, written in TypeScript types",
       "description": "Score: 25 | Comments: 4 | Posted by todsacerdoti",
@@ -385,6 +440,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "GSSmarin",
+      "tags": []
+    },
+    {
+      "id": "uujmp1",
+      "title": "Compaq’s Rod Canion broke IBM's hold on the PC market",
+      "description": "Score: 59 | Comments: 21 | Posted by vinnyglennon",
+      "url": "https://every.to/feeds/b0e329f3048258e8eeb7/the-man-who-beat-ibm",
+      "publishedAt": "2025-08-04T01:31:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vinnyglennon",
       "tags": []
     },
     {
