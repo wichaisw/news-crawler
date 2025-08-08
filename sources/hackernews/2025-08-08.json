@@ -1,0 +1,83 @@
+{
+  "date": "2025-08-08",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "fx9g04",
+      "title": "GPT-5 leaked system promptgist.github.com",
+      "description": "Score: 214 | Comments: 160 | Posted by maoxiaoke",
+      "url": "https://gist.github.com/maoxiaoke/f6d5b28f9104cd856a2622a084f46fd7",
+      "publishedAt": "2025-08-08T03:10:19.245Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "maoxiaoke",
+      "tags": []
+    },
+    {
+      "id": "fx9g04",
+      "title": "GPT-5 leaked system prompt",
+      "description": "Score: 216 | Comments: 162 | Posted by maoxiaoke",
+      "url": "https://gist.github.com/maoxiaoke/f6d5b28f9104cd856a2622a084f46fd7",
+      "publishedAt": "2025-08-08T03:09:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "maoxiaoke",
+      "tags": []
+    },
+    {
+      "id": "9a6sw4",
+      "title": "The Paranoid Style in American Politics (1964)",
+      "description": "Score: 29 | Comments: 5 | Posted by mitchbob",
+      "url": "https://harpers.org/archive/1964/11/the-paranoid-style-in-american-politics/",
+      "publishedAt": "2025-08-08T02:55:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mitchbob",
+      "tags": []
+    },
+    {
+      "id": "oyil15",
+      "title": "GPT-5: \"How many times does the letter b appear in blueberry?\"",
+      "description": "Score: 29 | Comments: 8 | Posted by minimaxir",
+      "url": "https://bsky.app/profile/kjhealy.co/post/3lvtxbtexg226",
+      "publishedAt": "2025-08-08T02:51:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "minimaxir",
+      "tags": []
+    },
+    {
+      "id": "5zsjg9",
+      "title": "New executive order puts all grants under political control",
+      "description": "Score: 136 | Comments: 74 | Posted by pbui",
+      "url": "https://arstechnica.com/science/2025/08/new-executive-order-puts-all-grants-under-political-control/",
+      "publishedAt": "2025-08-08T02:37:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pbui",
+      "tags": []
+    },
+    {
+      "id": "ataf7c",
+      "title": "The fundamentals still matter",
+      "description": "Score: 18 | Comments: 15 | Posted by zekrom",
+      "url": "https://jordangoodman.bearblog.dev/fundamentals-still-matter/",
+      "publishedAt": "2025-08-08T01:22:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zekrom",
+      "tags": []
+    },
+    {
+      "id": "eb7kso",
+      "title": "How to Not Build the Torment Nexus",
+      "description": "Score: 17 | Comments: 1 | Posted by p3_1080",
+      "url": "https://buttondown.com/monteiro/archive/how-to-not-build-the-torment-nexus/",
+      "publishedAt": "2025-08-08T01:16:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "p3_1080",
+      "tags": []
+    }
+  ]
+}

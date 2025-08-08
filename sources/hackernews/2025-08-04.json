@@ -14,6 +14,17 @@
       "tags": []
     },
     {
+      "id": "5boeqk",
+      "title": "Over engineering my homelab so I don't pay cloud providers",
+      "description": "Score: 36 | Comments: 7 | Posted by JNRowe",
+      "url": "https://ergaster.org/posts/2025/08/04-overegineering-homelab/",
+      "publishedAt": "2025-08-04T23:14:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "JNRowe",
+      "tags": []
+    },
+    {
       "id": "315e22",
       "title": "EconTeen – Financial literacy lessons and tools for teens",
       "description": "Score: 67 | Comments: 38 | Posted by Chrisjackson4",
@@ -278,6 +289,17 @@
       "tags": []
     },
     {
+      "id": "ufm1uc",
+      "title": "Touch Mapper – open-source 3D printed tactile maps for the visually impaired",
+      "description": "Score: 17 | Comments: 2 | Posted by speckx",
+      "url": "https://touch-mapper.org",
+      "publishedAt": "2025-08-04T13:25:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
+      "tags": []
+    },
+    {
       "id": "yje9lv",
       "title": "Scientists shine a laser through a human head",
       "description": "Score: 97 | Comments: 43 | Posted by sohkamyung",
@@ -344,6 +366,17 @@
       "tags": []
     },
     {
+      "id": "eo0h2f",
+      "title": "Lessons from writing a Kubernetes Security book",
+      "description": "Score: 5 | Comments: 1 | Posted by bernardoortega",
+      "url": "https://medium.com/@raul.lapaz/learning-kubernetes-security-2cb906ad8037",
+      "publishedAt": "2025-08-04T11:44:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bernardoortega",
+      "tags": []
+    },
+    {
       "id": "8v1gh6",
       "title": "GHz spiking neuromorphic photonic chip with in-situ training",
       "description": "Score: 111 | Comments: 17 | Posted by juanviera23",
@@ -352,6 +385,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "juanviera23",
+      "tags": []
+    },
+    {
+      "id": "wtfrwa",
+      "title": "The Q Programming Language",
+      "description": "Score: 66 | Comments: 17 | Posted by ygritte",
+      "url": "https://git.urbach.dev/cli/q",
+      "publishedAt": "2025-08-04T11:07:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ygritte",
       "tags": []
     },
     {
@@ -377,6 +421,17 @@
       "tags": []
     },
     {
+      "id": "qj69jx",
+      "title": "Open music foundation models for full-song generation",
+      "description": "Score: 89 | Comments: 39 | Posted by selvan",
+      "url": "https://map-yue.github.io/",
+      "publishedAt": "2025-08-04T10:46:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "selvan",
+      "tags": []
+    },
+    {
       "id": "hvnfnm",
       "title": "The Real Origin of Cisco Systems (1999)",
       "description": "Score: 81 | Comments: 23 | Posted by thunderbong",
@@ -385,6 +440,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "thunderbong",
+      "tags": []
+    },
+    {
+      "id": "mcy490",
+      "title": "Writing a storage engine for Postgres: An in-memory table access method (2023)",
+      "description": "Score: 48 | Comments: 4 | Posted by ibobev",
+      "url": "https://notes.eatonphil.com/2023-11-01-postgres-table-access-methods.html",
+      "publishedAt": "2025-08-04T08:53:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
       "tags": []
     },
     {
