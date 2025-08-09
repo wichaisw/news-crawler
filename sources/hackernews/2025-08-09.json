@@ -1,0 +1,61 @@
+{
+  "date": "2025-08-09",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "v1b2j4",
+      "title": "Windsurf Employee #2 lost 99% of value in acquisition",
+      "description": "Score: 4 | Comments: 1 | Posted by wanderingmind",
+      "url": "https://x.com/premqnair",
+      "publishedAt": "2025-08-09T04:38:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wanderingmind",
+      "tags": []
+    },
+    {
+      "id": "vscss5",
+      "title": "Tesla used car prices keep plumetting, dips below average used car",
+      "description": "Score: 73 | Comments: 70 | Posted by MilnerRoute",
+      "url": "https://electrek.co/2025/08/08/tesla-used-car-prices-keep-plumetting-now-literrally-cheaper-than-average-used-car/",
+      "publishedAt": "2025-08-09T03:37:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "MilnerRoute",
+      "tags": []
+    },
+    {
+      "id": "tib0w1",
+      "title": "What the windsurf sale means for the AI coding ecosystem",
+      "description": "Score: 44 | Comments: 9 | Posted by whoami_nr",
+      "url": "https://ethanding.substack.com/p/windsurf-gets-margin-called",
+      "publishedAt": "2025-08-09T03:24:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "whoami_nr",
+      "tags": []
+    },
+    {
+      "id": "lpw3xz",
+      "title": "Let's properly analyze an AI article for once",
+      "description": "Score: 13 | Comments: 1 | Posted by pabs3",
+      "url": "https://nibblestew.blogspot.com/2025/08/lets-properly-analyze-ai-article-for.html",
+      "publishedAt": "2025-08-09T02:30:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pabs3",
+      "tags": []
+    },
+    {
+      "id": "yslt7s",
+      "title": "Dial-up Internet to be discontinued",
+      "description": "Score: 149 | Comments: 74 | Posted by Kye",
+      "url": "https://help.aol.com/articles/dial-up-internet-to-be-discontinued",
+      "publishedAt": "2025-08-09T01:37:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Kye",
+      "tags": []
+    }
+  ]
+}

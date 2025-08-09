@@ -69,6 +69,17 @@
       "tags": []
     },
     {
+      "id": "srj8gx",
+      "title": "Technical issues of separation in function cells and value cells (1988)",
+      "description": "Score: 5 | Comments: 0 | Posted by Jtsummers",
+      "url": "https://dreamsongs.com/Separation.html",
+      "publishedAt": "2025-08-05T18:13:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Jtsummers",
+      "tags": []
+    },
+    {
       "id": "576nex",
       "title": "US reportedly forcing TSMC to buy 49% stake in Intel to secure tariff relief",
       "description": "Score: 368 | Comments: 409 | Posted by voxadam",
@@ -88,6 +99,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "babel16",
+      "tags": []
+    },
+    {
+      "id": "t5kesy",
+      "title": "Debugging a mysterious HTTP streaming issue",
+      "description": "Score: 4 | Comments: 0 | Posted by skeptrune",
+      "url": "https://mintlify.com/blog/debugging-a-mysterious-http-streaming-issue-when-cloudflare-compression-breaks-everything",
+      "publishedAt": "2025-08-05T17:37:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "skeptrune",
       "tags": []
     },
     {
@@ -124,6 +146,17 @@
       "tags": []
     },
     {
+      "id": "qs8pe0",
+      "title": "The Day Novartis Chose Discovery",
+      "description": "Score: 17 | Comments: 4 | Posted by quadrin",
+      "url": "https://www.alexkesin.com/p/the-day-novartis-chose-discovery",
+      "publishedAt": "2025-08-05T16:36:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "quadrin",
+      "tags": []
+    },
+    {
       "id": "u1i0fn",
       "title": "Claude Opus 4.1",
       "description": "Score: 725 | Comments: 271 | Posted by meetpateltech",
@@ -132,6 +165,39 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "meetpateltech",
+      "tags": []
+    },
+    {
+      "id": "fknha",
+      "title": "Poltergeist: File watcher with auto-rebuild for any language or build system",
+      "description": "Score: 26 | Comments: 5 | Posted by jshchnz",
+      "url": "https://github.com/steipete/poltergeist",
+      "publishedAt": "2025-08-05T16:09:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jshchnz",
+      "tags": []
+    },
+    {
+      "id": "wp3bjn",
+      "title": "Don't use Redis as a rate limiter",
+      "description": "Score: 37 | Comments: 20 | Posted by 5pl1n73r",
+      "url": "https://medium.com/ratelimitly/why-you-shouldnt-use-redis-as-a-rate-limiter-part-1-of-2-3d4261f5b38a",
+      "publishedAt": "2025-08-05T16:05:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "5pl1n73r",
+      "tags": []
+    },
+    {
+      "id": "99wo8z",
+      "title": "Why building a self-hosted SaaS is harder",
+      "description": "Score: 33 | Comments: 9 | Posted by FinnLobsien",
+      "url": "https://www.getlago.com/blog/self-hosted-saas",
+      "publishedAt": "2025-08-05T15:58:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "FinnLobsien",
       "tags": []
     },
     {
@@ -176,6 +242,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "LAsteNERD",
+      "tags": []
+    },
+    {
+      "id": "8k0gkk",
+      "title": "Hacking Diffusion into Qwen3 for the Arc Challenge",
+      "description": "Score: 64 | Comments: 3 | Posted by mattnewton",
+      "url": "https://www.matthewnewton.com/blog/arc-challenge-diffusion",
+      "publishedAt": "2025-08-05T14:43:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mattnewton",
       "tags": []
     },
     {
@@ -242,6 +319,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "bradleyg223",
+      "tags": []
+    },
+    {
+      "id": "ta6v61",
+      "title": "Unmasking the Sea Star Killer",
+      "description": "Score: 51 | Comments: 8 | Posted by sohkamyung",
+      "url": "https://www.biographic.com/unmasking-the-sea-star-killer/",
+      "publishedAt": "2025-08-05T13:10:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sohkamyung",
       "tags": []
     },
     {
