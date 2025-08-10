@@ -1,0 +1,50 @@
+{
+  "date": "2025-08-10",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "xjpivc",
+      "title": "Computational Music Synthesis",
+      "description": "Score: 3 | Comments: 3 | Posted by nativeit",
+      "url": "https://cs.gmu.edu/~sean/book/synthesis/",
+      "publishedAt": "2025-08-10T03:37:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nativeit",
+      "tags": []
+    },
+    {
+      "id": "pqdjb6",
+      "title": "FidoNet Global HyperText Interface",
+      "description": "Score: 3 | Comments: 0 | Posted by xk3",
+      "url": "https://github.com/Mithgol/FGHI-URL/blob/master/FidoURL.txt",
+      "publishedAt": "2025-08-10T02:02:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "xk3",
+      "tags": []
+    },
+    {
+      "id": "w0pmti",
+      "title": "Happy BuyNothing Day",
+      "description": "Score: 179 | Comments: 45 | Posted by Improvement",
+      "url": "https://justbuynothing.com/",
+      "publishedAt": "2025-08-10T00:12:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Improvement",
+      "tags": []
+    },
+    {
+      "id": "4be00g",
+      "title": "Steve Wozniak's Perforated Pads of $2 Bills (2015)",
+      "description": "Score: 12 | Comments: 6 | Posted by CharlesW",
+      "url": "https://www.coinbooks.org/esylum_v18n36a40.html",
+      "publishedAt": "2025-08-10T00:04:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "CharlesW",
+      "tags": []
+    }
+  ]
+}
