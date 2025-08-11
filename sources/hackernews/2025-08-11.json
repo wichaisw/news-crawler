@@ -1,0 +1,105 @@
+{
+  "date": "2025-08-11",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "rj1z7w",
+      "title": "Online news publishers face extinction-level event from Google AI-powered search",
+      "description": "Score: 3 | Comments: 0 | Posted by sogen",
+      "url": "https://www.npr.org/2025/07/31/nx-s1-5484118/google-ai-overview-online-publishers",
+      "publishedAt": "2025-08-11T05:27:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sogen",
+      "tags": []
+    },
+    {
+      "id": "rpstlk",
+      "title": "Going Faster Than Memcpysquadrick.dev",
+      "description": "Score: 26 | Comments: 13 | Posted by snihalani",
+      "url": "https://squadrick.dev/journal/going-faster-than-memcpy",
+      "publishedAt": "2025-08-11T05:10:28.061Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "snihalani",
+      "tags": []
+    },
+    {
+      "id": "rpstlk",
+      "title": "Going Faster Than Memcpy",
+      "description": "Score: 27 | Comments: 13 | Posted by snihalani",
+      "url": "https://squadrick.dev/journal/going-faster-than-memcpy",
+      "publishedAt": "2025-08-11T04:59:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "snihalani",
+      "tags": []
+    },
+    {
+      "id": "hy8qek",
+      "title": "Graham: Synchronizing Clocks by Leveraging Local Clock Properties (2022) [pdf]",
+      "description": "Score: 13 | Comments: 2 | Posted by mlerner",
+      "url": "https://www.usenix.org/system/files/nsdi22-paper-najafi_1.pdf",
+      "publishedAt": "2025-08-11T04:54:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mlerner",
+      "tags": []
+    },
+    {
+      "id": "opyu8h",
+      "title": "Instagram's new 'Friend Map' feature puts your privacy at risk",
+      "description": "Score: 15 | Comments: 1 | Posted by LopRabbit",
+      "url": "https://proton.me/blog/instagram-maps-privacy-concern",
+      "publishedAt": "2025-08-11T03:57:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "LopRabbit",
+      "tags": []
+    },
+    {
+      "id": "vh90vc",
+      "title": "Vanishing from Hyundai’s data networktechno-fandom.org",
+      "description": "Score: 165 | Comments: 40 | Posted by pilingual",
+      "url": "http://techno-fandom.org/~hobbit/cars/ev/offnet.html",
+      "publishedAt": "2025-08-11T02:10:28.060Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pilingual",
+      "tags": []
+    },
+    {
+      "id": "vh90vc",
+      "title": "Vanishing from Hyundai’s data network",
+      "description": "Score: 165 | Comments: 40 | Posted by pilingual",
+      "url": "http://techno-fandom.org/~hobbit/cars/ev/offnet.html",
+      "publishedAt": "2025-08-11T01:55:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pilingual",
+      "tags": []
+    },
+    {
+      "id": "narwhn",
+      "title": "Flock Now Using AI to Report to Police If Our Movement Patterns Are \"Suspicious\"",
+      "description": "Score: 37 | Comments: 7 | Posted by cyberphobe",
+      "url": "https://www.aclu.org/news/national-security/surveillance-company-flock-now-using-ai-to-report-us-to-police-if-it-thinks-our-movement-patterns-are-suspicious",
+      "publishedAt": "2025-08-11T01:30:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cyberphobe",
+      "tags": []
+    },
+    {
+      "id": "gsxc7g",
+      "title": "TCP Client Self-Connect (2013)",
+      "description": "Score: 24 | Comments: 1 | Posted by Bogdanp",
+      "url": "http://sgros.blogspot.com/2013/08/tcp-client-self-connect.html",
+      "publishedAt": "2025-08-11T00:33:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Bogdanp",
+      "tags": []
+    }
+  ]
+}

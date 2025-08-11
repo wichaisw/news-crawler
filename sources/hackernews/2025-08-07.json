@@ -234,6 +234,28 @@
       "tags": []
     },
     {
+      "id": "1cbzvo",
+      "title": "Battery charge limiter for Apple Silicon MacBook devices",
+      "description": "Score: 81 | Comments: 68 | Posted by rahimnathwani",
+      "url": "https://github.com/actuallymentor/battery",
+      "publishedAt": "2025-08-07T15:31:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rahimnathwani",
+      "tags": []
+    },
+    {
+      "id": "1w3kzg",
+      "title": "Squashing my dumb bugs and why I log build IDs",
+      "description": "Score: 29 | Comments: 9 | Posted by wglb",
+      "url": "https://rachelbythebay.com/w/2025/08/03/scope/",
+      "publishedAt": "2025-08-07T15:20:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wglb",
+      "tags": []
+    },
+    {
       "id": "83bl7j",
       "title": "How to sell if your user is not the buyer",
       "description": "Score: 164 | Comments: 84 | Posted by mooreds",
@@ -242,6 +264,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mooreds",
+      "tags": []
+    },
+    {
+      "id": "6tsty6",
+      "title": "Creating the Longest Possible Ski Jump in “The Games: Winter Challenge”",
+      "description": "Score: 139 | Comments: 7 | Posted by alberto-m",
+      "url": "https://mrwint.github.io/winter/writeup/writeup2.html",
+      "publishedAt": "2025-08-07T14:57:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "alberto-m",
       "tags": []
     },
     {
@@ -275,6 +308,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "grahamjperrin",
+      "tags": []
+    },
+    {
+      "id": "g0rmk9",
+      "title": "Easily run Windows software on Linux with Bottles",
+      "description": "Score: 24 | Comments: 11 | Posted by doener",
+      "url": "https://usebottles.com/",
+      "publishedAt": "2025-08-07T13:39:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "doener",
       "tags": []
     },
     {
@@ -322,6 +366,17 @@
       "tags": []
     },
     {
+      "id": "teuub3",
+      "title": "PHP compile time generics: yay or nay?",
+      "description": "Score: 61 | Comments: 25 | Posted by moebrowne",
+      "url": "https://thephp.foundation/blog/2025/08/05/compile-generics/",
+      "publishedAt": "2025-08-07T11:49:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "moebrowne",
+      "tags": []
+    },
+    {
       "id": "clxwsa",
       "title": "Show HN: Stasher – Burn-after-read secrets from the CLI, no server, no trust",
       "description": "Score: 60 | Comments: 51 | Posted by stasher-dev",
@@ -352,6 +407,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "eggspurt",
+      "tags": []
+    },
+    {
+      "id": "jksejt",
+      "title": "\"McKinsey in a Box\": The End of Strategic Consulting?",
+      "description": "Score: 12 | Comments: 5 | Posted by gfortaine",
+      "url": "https://knowledge.insead.edu/strategy/mckinsey-box-end-strategic-consulting",
+      "publishedAt": "2025-08-07T09:39:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gfortaine",
+      "tags": []
+    },
+    {
+      "id": "7paisv",
+      "title": "Lists and Lists: Basics of Lisp through interactive fiction (1996)",
+      "description": "Score: 25 | Comments: 5 | Posted by prathyvsh",
+      "url": "https://eblong.com/zarf/zweb/lists/",
+      "publishedAt": "2025-08-07T08:04:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "prathyvsh",
       "tags": []
     },
     {

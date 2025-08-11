@@ -1,0 +1,17 @@
+{
+  "date": "2025-08-11",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3035561",
+      "title": "Security flaws in a carmaker’s web portal let one hacker remotely unlock cars from anywhere",
+      "description": "Security researcher Eaton Zveare told TechCrunch that the flaws he discovered in the carmaker's centralized dealer portal exposed vast access to",
+      "url": "https://techcrunch.com/2025/08/10/security-flaws-in-a-carmakers-web-portal-let-one-hacker-remotely-unlock-cars-from-anywhere/",
+      "publishedAt": "2025-08-11T00:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Zack Whittaker",
+      "tags": []
+    }
+  ]
+}
