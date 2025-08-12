@@ -1,0 +1,94 @@
+{
+  "date": "2025-08-12",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "5z41fh",
+      "title": "LLMs' \"simulated reasoning\" abilities are a brittle mirage",
+      "description": "Score: 4 | Comments: 1 | Posted by blueridge",
+      "url": "https://arstechnica.com/ai/2025/08/researchers-find-llms-are-bad-at-logical-inference-good-at-fluent-nonsense/",
+      "publishedAt": "2025-08-12T05:52:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "blueridge",
+      "tags": []
+    },
+    {
+      "id": "41cpvs",
+      "title": "StarDict sends X11 clipboard to remote serverslwn.net",
+      "description": "Score: 39 | Comments: 12 | Posted by pabs3",
+      "url": "https://lwn.net/SubscriberLink/1032732/3334850da49689e1/",
+      "publishedAt": "2025-08-12T04:09:19.974Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pabs3",
+      "tags": []
+    },
+    {
+      "id": "41cpvs",
+      "title": "StarDict sends X11 clipboard to remote servers",
+      "description": "Score: 39 | Comments: 12 | Posted by pabs3",
+      "url": "https://lwn.net/SubscriberLink/1032732/3334850da49689e1/",
+      "publishedAt": "2025-08-12T04:08:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pabs3",
+      "tags": []
+    },
+    {
+      "id": "b2clyu",
+      "title": "Weathering Software Winter",
+      "description": "Score: 37 | Comments: 12 | Posted by todsacerdoti",
+      "url": "https://100r.co/site/weathering_software_winter.html",
+      "publishedAt": "2025-08-12T03:05:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "ddbyk0",
+      "title": "Chris Simpkins, creator of Hack font, has died",
+      "description": "Score: 64 | Comments: 6 | Posted by laqq3",
+      "url": "https://typo.social/@Hilary/114845913381245488",
+      "publishedAt": "2025-08-12T02:51:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "laqq3",
+      "tags": []
+    },
+    {
+      "id": "vhrr4d",
+      "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models [pdf]arxiv.org",
+      "description": "Score: 172 | Comments: 16 | Posted by SerCe",
+      "url": "https://www.arxiv.org/pdf/2508.06471",
+      "publishedAt": "2025-08-12T02:09:19.973Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "SerCe",
+      "tags": []
+    },
+    {
+      "id": "vhrr4d",
+      "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models [pdf]",
+      "description": "Score: 172 | Comments: 16 | Posted by SerCe",
+      "url": "https://www.arxiv.org/pdf/2508.06471",
+      "publishedAt": "2025-08-12T01:26:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "SerCe",
+      "tags": []
+    },
+    {
+      "id": "a3zxjz",
+      "title": "Japan's largest paper, Yomiuri Shimbun, sues Perplexity for copyright violations",
+      "description": "Score: 111 | Comments: 40 | Posted by aspenmayer",
+      "url": "https://www.niemanlab.org/2025/08/japans-largest-newspaper-yomiuri-shimbun-sues-perplexity-for-copyright-violations/",
+      "publishedAt": "2025-08-12T00:07:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "aspenmayer",
+      "tags": []
+    }
+  ]
+}

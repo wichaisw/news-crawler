@@ -289,6 +289,17 @@
       "tags": []
     },
     {
+      "id": "g1lshv",
+      "title": "A simple pixel physics simulator in Rust using Macroquad",
+      "description": "Score: 48 | Comments: 3 | Posted by sbirulo",
+      "url": "https://github.com/gale93/sbixel",
+      "publishedAt": "2025-08-07T14:21:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sbirulo",
+      "tags": []
+    },
+    {
       "id": "4r6ajq",
       "title": "Windows XP Professional",
       "description": "Score: 333 | Comments: 194 | Posted by pentagrama",
@@ -385,6 +396,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "stasher-dev",
+      "tags": []
+    },
+    {
+      "id": "3g9dap",
+      "title": "Millau Viaduct",
+      "description": "Score: 137 | Comments: 56 | Posted by oliverulerich",
+      "url": "https://www.fosterandpartners.com/projects/millau-viaduct",
+      "publishedAt": "2025-08-07T10:23:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "oliverulerich",
       "tags": []
     },
     {

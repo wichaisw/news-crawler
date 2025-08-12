@@ -36,6 +36,17 @@
       "tags": []
     },
     {
+      "id": "8okuof",
+      "title": "A Guide Dog for the Face-Blind",
+      "description": "Score: 27 | Comments: 20 | Posted by arto",
+      "url": "https://asimov.blog/a-guide-dog-for-the-face-blind/",
+      "publishedAt": "2025-08-08T20:26:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "arto",
+      "tags": []
+    },
+    {
       "id": "9vvpey",
       "title": "The Framework Desktop is a beast",
       "description": "Score: 432 | Comments: 399 | Posted by lemonberry",
@@ -88,6 +99,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "LorenDB",
+      "tags": []
+    },
+    {
+      "id": "tx8y6v",
+      "title": "How to teach your kids to play poker: Start with one card",
+      "description": "Score: 69 | Comments: 94 | Posted by ioblomov",
+      "url": "https://www.bloomberg.com/news/articles/2025-08-08/how-to-teach-your-kids-poker-with-one-card-at-age-four",
+      "publishedAt": "2025-08-08T19:11:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ioblomov",
       "tags": []
     },
     {
@@ -157,6 +179,28 @@
       "tags": []
     },
     {
+      "id": "lej9vb",
+      "title": "All known 49-year-old Apple-1 computer",
+      "description": "Score: 57 | Comments: 9 | Posted by elvis70",
+      "url": "https://www.apple1registry.com/en/list.html",
+      "publishedAt": "2025-08-08T17:32:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "elvis70",
+      "tags": []
+    },
+    {
+      "id": "w087in",
+      "title": "Byte Buddy is a code generation and manipulation library for Java",
+      "description": "Score: 78 | Comments: 27 | Posted by mooreds",
+      "url": "https://bytebuddy.net/",
+      "publishedAt": "2025-08-08T17:25:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mooreds",
+      "tags": []
+    },
+    {
       "id": "8mgqtb",
       "title": "Open SWE: An open-source asynchronous coding agent",
       "description": "Score: 80 | Comments: 19 | Posted by palashshah",
@@ -187,6 +231,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "anarbadalov",
+      "tags": []
+    },
+    {
+      "id": "h2s0d0",
+      "title": "You're Wrong About Dates – and Your Code Is Lying to You",
+      "description": "Score: 4 | Comments: 1 | Posted by pgte",
+      "url": "https://metaduck.com/youre-wrong-about-dates/",
+      "publishedAt": "2025-08-08T15:17:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pgte",
+      "tags": []
+    },
+    {
+      "id": "jjnqk0",
+      "title": "Why tail-recursive functions are loops",
+      "description": "Score: 88 | Comments: 99 | Posted by speckx",
+      "url": "https://kmicinski.com/functional-programming/2025/08/01/loops/",
+      "publishedAt": "2025-08-08T15:10:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
       "tags": []
     },
     {
@@ -253,6 +319,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "pr337h4m",
+      "tags": []
+    },
+    {
+      "id": "pxp7y6",
+      "title": "White Mountain Direttissima",
+      "description": "Score: 45 | Comments: 29 | Posted by oftenwrong",
+      "url": "https://whitemountainski.co/pages/white-mountain-direttissima",
+      "publishedAt": "2025-08-08T07:44:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "oftenwrong",
+      "tags": []
+    },
+    {
+      "id": "30t7zl",
+      "title": "FreeBSD Scheduling on Hybrid CPUs",
+      "description": "Score: 44 | Comments: 16 | Posted by fntlnz",
+      "url": "https://wiki.freebsd.org/Scheduler/Hybrid",
+      "publishedAt": "2025-08-08T05:51:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fntlnz",
       "tags": []
     },
     {
