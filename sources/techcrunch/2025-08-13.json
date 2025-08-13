@@ -1,0 +1,28 @@
+{
+  "date": "2025-08-13",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3036508",
+      "title": "ChatGPT’s model picker is back, and it’s complicated",
+      "description": "GPT-5 was supposed to get rid of all the complicated AI models to choose from in ChatGPT, but that's not how it's panned out.",
+      "url": "https://techcrunch.com/2025/08/12/chatgpts-model-picker-is-back-and-its-complicated/",
+      "publishedAt": "2025-08-13T03:25:19.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Maxwell Zeff",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3036445",
+      "title": "Sam Altman, OpenAI will reportedly back a startup that takes on Musk’s Neuralink",
+      "description": "Neuralink has been making serious progress. Soon Sam Altman and OpenAI could be backing a challenger.",
+      "url": "https://techcrunch.com/2025/08/12/sam-altman-openai-will-reportedly-back-a-startup-that-takes-on-musks-neuralink/",
+      "publishedAt": "2025-08-13T00:30:20.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Julie Bort",
+      "tags": []
+    }
+  ]
+}

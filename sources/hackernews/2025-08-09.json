@@ -25,6 +25,17 @@
       "tags": []
     },
     {
+      "id": "ks67e0",
+      "title": "Debian GNU/Hurd 2025 released",
+      "description": "Score: 206 | Comments: 118 | Posted by jrepinc",
+      "url": "https://lists.debian.org/debian-hurd/2025/08/msg00038.html",
+      "publishedAt": "2025-08-09T23:02:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jrepinc",
+      "tags": []
+    },
+    {
       "id": "sm6z6s",
       "title": "How I code with AI on a budget/free",
       "description": "Score: 208 | Comments: 65 | Posted by indigodaddy",
@@ -146,6 +157,17 @@
       "tags": []
     },
     {
+      "id": "1l5osx",
+      "title": "Bezier-rs – algorithms for Bézier segments and shapes",
+      "description": "Score: 70 | Comments: 4 | Posted by jarek-foksa",
+      "url": "https://graphite.rs/libraries/bezier-rs/",
+      "publishedAt": "2025-08-09T14:33:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jarek-foksa",
+      "tags": []
+    },
+    {
       "id": "sfko0k",
       "title": "Mexico to US livestock trade halted due to screwworm spread",
       "description": "Score: 249 | Comments: 193 | Posted by burnt-resistor",
@@ -245,6 +267,17 @@
       "tags": []
     },
     {
+      "id": "i3pqtf",
+      "title": "Multimodal WFH setup: flight SIM, EE lab, and music studio in 60sqft/5.5M²",
+      "description": "Score: 214 | Comments: 86 | Posted by brunohaid",
+      "url": "https://www.sdo.group/study",
+      "publishedAt": "2025-08-09T11:48:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "brunohaid",
+      "tags": []
+    },
+    {
       "id": "aym8cy",
       "title": "Did California's fast food minimum wage reduce employment?",
       "description": "Score: 110 | Comments: 219 | Posted by lxm",
@@ -275,6 +308,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "pabs3",
+      "tags": []
+    },
+    {
+      "id": "79cwqd",
+      "title": "Visualizing quaternions: An explorable video series (2018)",
+      "description": "Score: 26 | Comments: 3 | Posted by uncircle",
+      "url": "https://eater.net/quaternions",
+      "publishedAt": "2025-08-09T08:20:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "uncircle",
+      "tags": []
+    },
+    {
+      "id": "zep5r6",
+      "title": "Dumb to managed switch conversion (2010)",
+      "description": "Score: 47 | Comments: 25 | Posted by userbinator",
+      "url": "https://spritesmods.com/?art=rtl8366sb&page=1",
+      "publishedAt": "2025-08-09T07:31:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "userbinator",
       "tags": []
     },
     {
@@ -344,6 +399,17 @@
       "tags": []
     },
     {
+      "id": "j020wj",
+      "title": "Blender is Native on Windows 11 on Arm",
+      "description": "Score: 145 | Comments: 54 | Posted by thunderbong",
+      "url": "https://www.thurrott.com/music-videos/324346/blender-is-native-on-windows-11-on-arm",
+      "publishedAt": "2025-08-09T02:26:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thunderbong",
+      "tags": []
+    },
+    {
       "id": "yslt7s",
       "title": "Dial-up Internet to be discontinued",
       "description": "Score: 149 | Comments: 74 | Posted by Kye",
@@ -352,6 +418,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "Kye",
+      "tags": []
+    },
+    {
+      "id": "7w1cto",
+      "title": "A spellchecker used to be a major feat of software engineering (2008)",
+      "description": "Score: 154 | Comments: 150 | Posted by Bogdanp",
+      "url": "https://prog21.dadgum.com/29.html",
+      "publishedAt": "2025-08-09T01:07:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Bogdanp",
       "tags": []
     }
   ]

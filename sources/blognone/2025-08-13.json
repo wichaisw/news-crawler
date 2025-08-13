@@ -1,0 +1,50 @@
+{
+  "date": "2025-08-13",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "147753 at https://www.blognone.com",
+      "title": "Apple โต้ข้อกล่าวหา Elon Musk ยืนยัน App Store คัดเลือกและแนะนำแอปด้วยระบบที่มีกฎเกณฑ์ ไม่มีอคติ",
+      "description": "Apple โต้ข้อกล่าวหา Elon Musk ยืนยัน App Store คัดเลือกและแนะนำแอปด้วยระบบที่มีกฎเกณฑ์ ไม่มีอคติ Body แอปเปิลออกมาชี้แจงหลังจาก Elon Musk",
+      "url": "https://www.blognone.com/node/147753",
+      "publishedAt": "2025-08-13T05:25:04.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "147751 at https://www.blognone.com",
+      "title": "Perplexity ประกาศยื่นข้อเสนอซื้อกิจการ Chrome จาก Google ที่ราคา 1.1 ล้านล้านบาท",
+      "description": "Perplexity ประกาศยื่นข้อเสนอซื้อกิจการ Chrome จาก Google ที่ราคา 1.1 ล้านล้านบาท Body Perplexity เปิดเผยว่าบริษัทยื่นข้อเสนอซื้อกิจการ Chrome",
+      "url": "https://www.blognone.com/node/147751",
+      "publishedAt": "2025-08-13T01:19:11.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "147750 at https://www.blognone.com",
+      "title": "Claude 4 Sonnet ขยายอินพุตเป็น 1 ล้านโทเค็น อ่านโค้ดทีเดียว 75,000 บรรทัด",
+      "description": "Claude 4 Sonnet ขยายอินพุตเป็น 1 ล้านโทเค็น อ่านโค้ดทีเดียว 75,000 บรรทัด Body Anthropic ประกาศขยายขนาด context ของ Claude 4 Sonnet จากเดิม 200,000",
+      "url": "https://www.blognone.com/node/147750",
+      "publishedAt": "2025-08-13T00:43:48.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "147749 at https://www.blognone.com",
+      "title": "Claude เพิ่มฟีเจอร์ จดจำแชทที่เคยคุยในอดีตได้ เหมือน Memory ใน ChatGPT",
+      "description": "Claude เพิ่มฟีเจอร์ จดจำแชทที่เคยคุยในอดีตได้ เหมือน Memory ใน ChatGPT Body Anthropic เพิ่มความสามารถใหม่ให้แชทบอต Claude",
+      "url": "https://www.blognone.com/node/147749",
+      "publishedAt": "2025-08-13T00:40:54.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}
