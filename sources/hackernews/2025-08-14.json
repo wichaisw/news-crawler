@@ -1,0 +1,83 @@
+{
+  "date": "2025-08-14",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "a228eq",
+      "title": "Convo-Lang: LLM Programming Language and Runtimeconvo-lang.ai",
+      "description": "Score: 7 | Comments: 2 | Posted by handfuloflight",
+      "url": "https://learn.convo-lang.ai/",
+      "publishedAt": "2025-08-14T05:41:31.842Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "handfuloflight",
+      "tags": []
+    },
+    {
+      "id": "a228eq",
+      "title": "Convo-Lang: LLM Programming Language and Runtime",
+      "description": "Score: 7 | Comments: 2 | Posted by handfuloflight",
+      "url": "https://learn.convo-lang.ai/",
+      "publishedAt": "2025-08-14T05:40:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "handfuloflight",
+      "tags": []
+    },
+    {
+      "id": "lalmcc",
+      "title": "My AI-driven identity crisis",
+      "description": "Score: 37 | Comments: 22 | Posted by wonger_",
+      "url": "https://dusty.phillips.codes/2025/06/08/my-ai-driven-identity-crisis/",
+      "publishedAt": "2025-08-14T03:44:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wonger_",
+      "tags": []
+    },
+    {
+      "id": "qw4t5c",
+      "title": "Show HN: Yet another memory system for LLMs",
+      "description": "Score: 49 | Comments: 6 | Posted by blackmanta",
+      "url": "https://github.com/trvon/yams",
+      "publishedAt": "2025-08-14T03:34:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "blackmanta",
+      "tags": []
+    },
+    {
+      "id": "svsdkh",
+      "title": "Funding Open Source like public infrastructure",
+      "description": "Score: 11 | Comments: 2 | Posted by pabs3",
+      "url": "https://dri.es/funding-open-source-like-public-infrastructure",
+      "publishedAt": "2025-08-14T03:24:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pabs3",
+      "tags": []
+    },
+    {
+      "id": "gy1x62",
+      "title": "Zenobia Pay – A mission to build an alternative to high-fee card networks",
+      "description": "Score: 47 | Comments: 22 | Posted by pranay01",
+      "url": "https://zenobiapay.com/blog/open-source-payments",
+      "publishedAt": "2025-08-14T02:19:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pranay01",
+      "tags": []
+    },
+    {
+      "id": "6afb1z",
+      "title": "What Medieval People Got Right About Learning (2019)",
+      "description": "Score: 50 | Comments: 20 | Posted by ripe",
+      "url": "https://www.scotthyoung.com/blog/2019/06/07/apprenticeships/",
+      "publishedAt": "2025-08-14T00:29:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ripe",
+      "tags": []
+    }
+  ]
+}

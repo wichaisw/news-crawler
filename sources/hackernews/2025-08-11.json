@@ -47,6 +47,17 @@
       "tags": []
     },
     {
+      "id": "j1p7j3",
+      "title": "Show HN: Real-time privacy protection for smart glasses",
+      "description": "Score: 26 | Comments: 15 | Posted by tash_2s",
+      "url": "https://github.com/PrivacyIsAllYouNeed/protector",
+      "publishedAt": "2025-08-11T19:40:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tash_2s",
+      "tags": []
+    },
+    {
       "id": "20qjpk",
       "title": "Neki – sharded Postgres by the team behind Vitess",
       "description": "Score: 181 | Comments: 26 | Posted by thdxr",
@@ -132,6 +143,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "bckmn",
+      "tags": []
+    },
+    {
+      "id": "6w7z91",
+      "title": "Fighting with YouTube to show a preview image",
+      "description": "Score: 72 | Comments: 16 | Posted by shaneos",
+      "url": "https://shaneosullivan.wordpress.com/2025/08/11/fighting-with-youtube-to-show-a-preview-image/",
+      "publishedAt": "2025-08-11T16:11:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "shaneos",
       "tags": []
     },
     {
@@ -366,6 +388,17 @@
       "tags": []
     },
     {
+      "id": "ghgede",
+      "title": "Nyxt: The Emacs-like web browser",
+      "description": "Score: 21 | Comments: 7 | Posted by signa11",
+      "url": "https://lwn.net/Articles/1001773/",
+      "publishedAt": "2025-08-11T01:46:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "signa11",
+      "tags": []
+    },
+    {
       "id": "2mkrw2",
       "title": "Optimizing my sleep around Claude usage limits",
       "description": "Score: 182 | Comments: 118 | Posted by mattwiese",
@@ -385,6 +418,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "cyberphobe",
+      "tags": []
+    },
+    {
+      "id": "7kyb5f",
+      "title": "Angle brackets in a Nix flake world",
+      "description": "Score: 17 | Comments: 2 | Posted by setheron",
+      "url": "https://fzakaria.com/2025/08/10/angle-brackets-in-a-nix-flake-world",
+      "publishedAt": "2025-08-11T01:06:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "setheron",
       "tags": []
     },
     {

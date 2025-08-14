@@ -1,0 +1,72 @@
+{
+  "date": "2025-08-14",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "147771 at https://www.blognone.com",
+      "title": "Igor Babuschkin ผู้ร่วมก่อตั้ง xAI ลาออกแล้ว ไปเปิดกองทุนของตัวเอง",
+      "description": "Igor Babuschkin ผู้ร่วมก่อตั้ง xAI ลาออกแล้ว ไปเปิดกองทุนของตัวเอง Body Igor Babuschkin ผู้ร่วม ก่อตั้ง xAI กับ Elon Musk (ซึ่งหลายคนเพิ่งรู้ว่า xAI",
+      "url": "https://www.blognone.com/node/147771",
+      "publishedAt": "2025-08-14T04:05:16.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "147770 at https://www.blognone.com",
+      "title": "[ลือ] Perplexity เจรจาซื้อบริษัทเบราว์เซอร์หลายราย The Browser Company, Brave, DuckDuckGo",
+      "description": "[ลือ] Perplexity เจรจาซื้อบริษัทเบราว์เซอร์หลายราย The Browser Company, Brave, DuckDuckGo Body หลังจาก Perplexity",
+      "url": "https://www.blognone.com/node/147770",
+      "publishedAt": "2025-08-14T03:49:13.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "147769 at https://www.blognone.com",
+      "title": "Astral สร้าง Python Registry ใหม่ pxy แก้ปัญหาการติดตั้งแพ็กเกจช้า",
+      "description": "Astral สร้าง Python Registry ใหม่ pxy แก้ปัญหาการติดตั้งแพ็กเกจช้า Body Astral ผู้สร้างเครื่องมือเกี่ยวกับภาษา Python ด้วย Rust เช่นตัวติดตั้งแพ็กเกจ",
+      "url": "https://www.blognone.com/node/147769",
+      "publishedAt": "2025-08-14T03:34:26.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "147768 at https://www.blognone.com",
+      "title": "ตำรวจสหราชอาณาจักรเตรียมใช้รถตู้ติดกล้องตรวจจับใบหน้า ขับหาคนร้ายไปเรื่อยๆ ทั่วประเทศ",
+      "description": "ตำรวจสหราชอาณาจักรเตรียมใช้รถตู้ติดกล้องตรวจจับใบหน้า ขับหาคนร้ายไปเรื่อยๆ ทั่วประเทศ Body",
+      "url": "https://www.blognone.com/node/147768",
+      "publishedAt": "2025-08-14T03:05:28.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "147767 at https://www.blognone.com",
+      "title": "NGINX เตรียมรองรับ ACME Protocol ในตัว อิมพลีเมนต์ด้วย Rust",
+      "description": "NGINX เตรียมรองรับ ACME Protocol ในตัว อิมพลีเมนต์ด้วย Rust Body NGINX เว็บเซิร์ฟเวอร์ที่ได้รับความนิยมสูงประกาศเพิ่มพรีวิวฟีเจอร์ ACME protocol",
+      "url": "https://www.blognone.com/node/147767",
+      "publishedAt": "2025-08-14T02:38:39.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "147766 at https://www.blognone.com",
+      "title": "Tencent ไตรมาส 2/2025 รายได้รวมโต 15% จากธุรกิจเกมในจีนและการเติบโตจาก AI",
+      "description": "Tencent ไตรมาส 2/2025 รายได้รวมโต 15% จากธุรกิจเกมในจีนและการเติบโตจาก AI Body Tencent รายงานผลประกอบการประจำไตรมาสที่ 2 ปี 2025 มีรายได้รวม 1.86",
+      "url": "https://www.blognone.com/node/147766",
+      "publishedAt": "2025-08-14T00:44:16.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}
