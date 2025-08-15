@@ -1,0 +1,116 @@
+{
+  "date": "2025-08-15",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "9z06x7",
+      "title": "Lessons learned from implementing SIMD-accelerated algorithms in pure Rust",
+      "description": "Score: 7 | Comments: 0 | Posted by thunderbong",
+      "url": "https://kerkour.com/rust-simd?hn=1",
+      "publishedAt": "2025-08-15T05:26:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thunderbong",
+      "tags": []
+    },
+    {
+      "id": "nmc27d",
+      "title": "South Park and the greatest TV contract clause",
+      "description": "Score: 49 | Comments: 6 | Posted by JustExAWS",
+      "url": "https://www.readtrung.com/p/south-park-and-the-greatest-tv-contract",
+      "publishedAt": "2025-08-15T04:27:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "JustExAWS",
+      "tags": []
+    },
+    {
+      "id": "ad180u",
+      "title": "Teenage Engineering's free computer case",
+      "description": "Score: 40 | Comments: 21 | Posted by textadventure",
+      "url": "https://teenage.engineering/store/computer-2",
+      "publishedAt": "2025-08-15T04:25:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "textadventure",
+      "tags": []
+    },
+    {
+      "id": "q86h0b",
+      "title": "Progress towards universal Copy/Paste shortcuts on Linuxstosberg.com",
+      "description": "Score: 36 | Comments: 24 | Posted by uncircle",
+      "url": "https://mark.stosberg.com/universal-copy-paste/",
+      "publishedAt": "2025-08-15T04:09:31.577Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "uncircle",
+      "tags": []
+    },
+    {
+      "id": "j3fgxz",
+      "title": "Amazon to launch drone delivery service in Kansas City before holiday season",
+      "description": "Score: 6 | Comments: 0 | Posted by MBCook",
+      "url": "https://www.kshb.com/news/local-news/amazon-to-launch-drone-delivery-service-in-kansas-city-before-holiday-season",
+      "publishedAt": "2025-08-15T03:51:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "MBCook",
+      "tags": []
+    },
+    {
+      "id": "4k6xek",
+      "title": "Mathematician Finds Easier Way to Solve Quadratic Equations",
+      "description": "Score: 10 | Comments: 1 | Posted by quantummagic",
+      "url": "https://www.popularmechanics.com/science/math/a65676247/easier-way-to-solve-quadratic-equations/",
+      "publishedAt": "2025-08-15T03:45:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "quantummagic",
+      "tags": []
+    },
+    {
+      "id": "4g0503",
+      "title": "Measuring Thinking Efficiency in Reasoning Models: The Missing Benchmark",
+      "description": "Score: 4 | Comments: 0 | Posted by AntiRush",
+      "url": "https://nousresearch.com/measuring-thinking-efficiency-in-reasoning-models-the-missing-benchmark/",
+      "publishedAt": "2025-08-15T02:37:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "AntiRush",
+      "tags": []
+    },
+    {
+      "id": "ka5t1j",
+      "title": "Time to End Roundtripping by Big Pharma",
+      "description": "Score: 55 | Comments: 20 | Posted by luu",
+      "url": "https://www.cfr.org/blog/time-end-roundtripping-big-pharma",
+      "publishedAt": "2025-08-15T01:08:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "luu",
+      "tags": []
+    },
+    {
+      "id": "7cv42l",
+      "title": "Maintainers of Last Resort",
+      "description": "Score: 9 | Comments: 0 | Posted by 8organicbits",
+      "url": "https://words.filippo.io/last-resort/",
+      "publishedAt": "2025-08-15T00:48:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "8organicbits",
+      "tags": []
+    },
+    {
+      "id": "zafees",
+      "title": "The secret code behind the CIA's Kryptos puzzle is up for sale",
+      "description": "Score: 66 | Comments: 33 | Posted by elahieh",
+      "url": "https://news.artnet.com/art-world/cia-kryptos-sculpture-code-auction-2677451",
+      "publishedAt": "2025-08-15T00:33:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "elahieh",
+      "tags": []
+    }
+  ]
+}

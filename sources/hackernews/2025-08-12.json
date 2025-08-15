@@ -80,6 +80,17 @@
       "tags": []
     },
     {
+      "id": "d9bkqh",
+      "title": "500 days of math",
+      "description": "Score: 170 | Comments: 84 | Posted by gmays",
+      "url": "https://gmays.com/500-days-of-math/",
+      "publishedAt": "2025-08-12T18:33:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gmays",
+      "tags": []
+    },
+    {
       "id": "pnux8z",
       "title": "The equality delete problem in Apache Iceberg",
       "description": "Score: 52 | Comments: 29 | Posted by dkgs",
@@ -223,6 +234,28 @@
       "tags": []
     },
     {
+      "id": "23y9a",
+      "title": "What's the strongest AI model you can train on a laptop in five minutes?",
+      "description": "Score: 521 | Comments: 184 | Posted by ingve",
+      "url": "https://www.seangoedecke.com/model-on-a-mbp/",
+      "publishedAt": "2025-08-12T13:15:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingve",
+      "tags": []
+    },
+    {
+      "id": "imzxoe",
+      "title": "Show HN: Understanding the Spatial Web Browser Engine",
+      "description": "Score: 9 | Comments: 1 | Posted by yorkie",
+      "url": "https://m-creativelab.github.io/jsar-runtime/blogs/spatial-browser-engine.html",
+      "publishedAt": "2025-08-12T12:43:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "yorkie",
+      "tags": []
+    },
+    {
       "id": "gvermx",
       "title": "Kodak says it might have to cease operations",
       "description": "Score: 202 | Comments: 128 | Posted by mastry",
@@ -245,6 +278,17 @@
       "tags": []
     },
     {
+      "id": "q86h0b",
+      "title": "Progress towards universal Copy/Paste shortcuts on Linux",
+      "description": "Score: 36 | Comments: 25 | Posted by uncircle",
+      "url": "https://mark.stosberg.com/universal-copy-paste/",
+      "publishedAt": "2025-08-12T12:00:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "uncircle",
+      "tags": []
+    },
+    {
       "id": "bf45e0",
       "title": "Monero appears to be in the midst of a successful 51% attack",
       "description": "Score: 468 | Comments: 220 | Posted by treyd",
@@ -253,6 +297,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "treyd",
+      "tags": []
+    },
+    {
+      "id": "shamil",
+      "title": "Architecting large software projects [video]",
+      "description": "Score: 97 | Comments: 43 | Posted by jackdoe",
+      "url": "https://www.youtube.com/watch?v=sSpULGNHyoI",
+      "publishedAt": "2025-08-12T08:05:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jackdoe",
       "tags": []
     },
     {

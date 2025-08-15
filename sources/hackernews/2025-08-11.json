@@ -14,6 +14,17 @@
       "tags": []
     },
     {
+      "id": "be1u11",
+      "title": "Lambdas, Nested Functions, and Blocks (2021)",
+      "description": "Score: 33 | Comments: 7 | Posted by zaikunzhang",
+      "url": "https://thephd.dev/lambdas-nested-functions-block-expressions-oh-my",
+      "publishedAt": "2025-08-11T23:31:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zaikunzhang",
+      "tags": []
+    },
+    {
       "id": "w6kgju",
       "title": "What does it mean to be thirsty?",
       "description": "Score: 46 | Comments: 25 | Posted by pseudolus",
@@ -190,6 +201,17 @@
       "tags": []
     },
     {
+      "id": "g8jkyz",
+      "title": "Map of Wales and Pronunciation from Wikipedia",
+      "description": "Score: 6 | Comments: 1 | Posted by gregsadetsky",
+      "url": "https://www.mapiau.cymru/mapiau/MapLlais/index.html",
+      "publishedAt": "2025-08-11T15:38:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gregsadetsky",
+      "tags": []
+    },
+    {
       "id": "n5iehw",
       "title": "36B solar mass black hole at centre of the Cosmic Horseshoe gravitational lens",
       "description": "Score: 132 | Comments: 92 | Posted by bookofjoe",
@@ -212,6 +234,17 @@
       "tags": []
     },
     {
+      "id": "335pp2",
+      "title": "Reverse Proxy Deep Dive: Why Load Balancing at Scale Is Hard",
+      "description": "Score: 70 | Comments: 6 | Posted by miggy",
+      "url": "https://startwithawhy.com/reverseproxy/2025/08/08/ReverseProxy-Deep-Dive-Part4.html",
+      "publishedAt": "2025-08-11T14:05:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "miggy",
+      "tags": []
+    },
+    {
       "id": "sg8hco",
       "title": "Claude Code is all you need",
       "description": "Score: 577 | Comments: 314 | Posted by sixhobbits",
@@ -223,6 +256,17 @@
       "tags": []
     },
     {
+      "id": "s12zzg",
+      "title": "Repairing an HP 5370A Time Interval Counter",
+      "description": "Score: 21 | Comments: 4 | Posted by thomasjb",
+      "url": "https://tomverbeure.github.io/2025/08/10/HP-5370A-Repair.html",
+      "publishedAt": "2025-08-11T13:59:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thomasjb",
+      "tags": []
+    },
+    {
       "id": "sk8esz",
       "title": "I tried every todo app and ended up with a .txt file",
       "description": "Score: 934 | Comments: 558 | Posted by al3rez",
@@ -231,6 +275,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "al3rez",
+      "tags": []
+    },
+    {
+      "id": "b5mk43",
+      "title": "The Kuzma Self-Playing Guitar System",
+      "description": "Score: 14 | Comments: 7 | Posted by surprisetalk",
+      "url": "https://www.core77.com/posts/137962/The-Kuzma-Self-Playing-Guitar-System",
+      "publishedAt": "2025-08-11T13:18:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
       "tags": []
     },
     {
@@ -286,6 +341,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "n4fhox",
+      "title": "Homekit-steam-user-switcher: A way to remotely switch Steam users using HomeKit",
+      "description": "Score: 47 | Comments: 8 | Posted by rcarmo",
+      "url": "https://github.com/rcarmo/homekit-steam-user-switcher",
+      "publishedAt": "2025-08-11T07:18:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rcarmo",
       "tags": []
     },
     {
@@ -352,6 +418,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mlerner",
+      "tags": []
+    },
+    {
+      "id": "48par5",
+      "title": "Making reliable distributed systems in the presence of software errors (2003) [pdf]",
+      "description": "Score: 34 | Comments: 4 | Posted by vismit2000",
+      "url": "http://erlang.org/download/armstrong_thesis_2003.pdf",
+      "publishedAt": "2025-08-11T04:20:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vismit2000",
       "tags": []
     },
     {
