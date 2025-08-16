@@ -1,0 +1,83 @@
+{
+  "date": "2025-08-16",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "9zxx6n",
+      "title": "America's Stock-Market Dominance Is an Emergency for Europe",
+      "description": "Score: 12 | Comments: 1 | Posted by mudil",
+      "url": "https://www.wsj.com/finance/investing/americas-stock-market-dominance-is-an-emergency-for-europe-627b3221",
+      "publishedAt": "2025-08-16T04:28:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mudil",
+      "tags": []
+    },
+    {
+      "id": "d8mvj3",
+      "title": "PuTTY has a new websiteputty.software",
+      "description": "Score: 100 | Comments: 60 | Posted by GalaxySnail",
+      "url": "https://putty.software/",
+      "publishedAt": "2025-08-16T04:08:16.204Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "GalaxySnail",
+      "tags": []
+    },
+    {
+      "id": "d8mvj3",
+      "title": "PuTTY has a new website",
+      "description": "Score: 100 | Comments: 60 | Posted by GalaxySnail",
+      "url": "https://putty.software/",
+      "publishedAt": "2025-08-16T03:35:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "GalaxySnail",
+      "tags": []
+    },
+    {
+      "id": "qvojv7",
+      "title": "The 10 Percent Is in a Fit of Rage over Airport Lounges",
+      "description": "Score: 12 | Comments: 2 | Posted by petethomas",
+      "url": "https://newrepublic.com/article/199158/ten-percent-rage-airport-lounges",
+      "publishedAt": "2025-08-16T03:09:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "petethomas",
+      "tags": []
+    },
+    {
+      "id": "qmqtqm",
+      "title": "Best Practices for Building Agentic AI Systemsuserjot.com",
+      "description": "Score: 84 | Comments: 39 | Posted by vinhnx",
+      "url": "https://userjot.com/blog/best-practices-building-agentic-ai-systems",
+      "publishedAt": "2025-08-16T03:08:16.205Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vinhnx",
+      "tags": []
+    },
+    {
+      "id": "qmqtqm",
+      "title": "Best Practices for Building Agentic AI Systems",
+      "description": "Score: 84 | Comments: 39 | Posted by vinhnx",
+      "url": "https://userjot.com/blog/best-practices-building-agentic-ai-systems",
+      "publishedAt": "2025-08-16T02:39:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vinhnx",
+      "tags": []
+    },
+    {
+      "id": "70o5l7",
+      "title": "EV automakers see billions in revenue disappear as US ends emission credits",
+      "description": "Score: 10 | Comments: 6 | Posted by breve",
+      "url": "https://electrek.co/2025/08/15/tesla-rivian-others-see-billions-in-revenue-disappear-us-end-emission-credits/",
+      "publishedAt": "2025-08-16T01:59:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "breve",
+      "tags": []
+    }
+  ]
+}

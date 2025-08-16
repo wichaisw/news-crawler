@@ -36,6 +36,17 @@
       "tags": []
     },
     {
+      "id": "kh5l3s",
+      "title": "Secret Messengers: Disseminating Sigint in the Second World War [pdf]",
+      "description": "Score: 12 | Comments: 0 | Posted by sohkamyung",
+      "url": "https://media.defense.gov/2025/Jul/25/2003761271/-1/-1/0/SECRET_MESSENGERS.PDF",
+      "publishedAt": "2025-08-13T23:19:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sohkamyung",
+      "tags": []
+    },
+    {
       "id": "cp5i64",
       "title": "What does Palantir actually do?",
       "description": "Score: 276 | Comments: 226 | Posted by mudil",
@@ -99,6 +110,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "the_mitsuhiko",
+      "tags": []
+    },
+    {
+      "id": "bt8ape",
+      "title": "AI is different",
+      "description": "Score: 175 | Comments: 165 | Posted by grep_it",
+      "url": "https://www.antirez.com/news/155",
+      "publishedAt": "2025-08-13T18:49:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "grep_it",
       "tags": []
     },
     {
@@ -234,6 +256,17 @@
       "tags": []
     },
     {
+      "id": "be1aq3",
+      "title": "Show HN: Prime Number Grid Visualizer",
+      "description": "Score: 80 | Comments: 38 | Posted by dduplex",
+      "url": "https://enda.sh/primegrid/",
+      "publishedAt": "2025-08-13T13:59:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dduplex",
+      "tags": []
+    },
+    {
       "id": "whie3m",
       "title": "We caught companies making it harder to delete your personal data online",
       "description": "Score: 276 | Comments: 68 | Posted by amarcheschi",
@@ -267,6 +300,17 @@
       "tags": []
     },
     {
+      "id": "f8o5eo",
+      "title": "Prompting by Activation Maximization",
+      "description": "Score: 4 | Comments: 0 | Posted by thatjoeoverthr",
+      "url": "https://joecooper.me/blog/activation/",
+      "publishedAt": "2025-08-13T13:28:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thatjoeoverthr",
+      "tags": []
+    },
+    {
       "id": "tp2fc8",
       "title": "The Mary Queen of Scots Channel Anamorphosis: A 3D Simulation",
       "description": "Score: 76 | Comments: 13 | Posted by warrenm",
@@ -297,6 +341,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "net01",
+      "tags": []
+    },
+    {
+      "id": "ly51yq",
+      "title": "Bird signs and cycles, February, 2024",
+      "description": "Score: 6 | Comments: 1 | Posted by sjmulder",
+      "url": "https://subject.space/projects-static/winter-bird-cycles/",
+      "publishedAt": "2025-08-13T12:14:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sjmulder",
       "tags": []
     },
     {
@@ -440,6 +495,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "Kortaggio",
+      "tags": []
+    },
+    {
+      "id": "455n9j",
+      "title": "Deep-Sea Desalination Pulls Fresh Water from the Depths",
+      "description": "Score: 24 | Comments: 2 | Posted by noleary",
+      "url": "https://www.scientificamerican.com/article/deep-sea-desalination-pulls-drinking-water-from-the-depths/",
+      "publishedAt": "2025-08-13T00:08:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "noleary",
       "tags": []
     }
   ]

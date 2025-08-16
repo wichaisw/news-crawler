@@ -168,6 +168,17 @@
       "tags": []
     },
     {
+      "id": "1lfahm",
+      "title": "The Role of Feature Normalization in Ijepa",
+      "description": "Score: 5 | Comments: 0 | Posted by bigonion",
+      "url": "https://github.com/theAdamColton/elucidating-featurenorm-ijepa",
+      "publishedAt": "2025-08-12T15:28:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bigonion",
+      "tags": []
+    },
+    {
       "id": "8524ql",
       "title": "Evaluating LLMs playing text adventures",
       "description": "Score: 96 | Comments: 63 | Posted by todsacerdoti",
@@ -176,6 +187,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "h6vwmq",
+      "title": "Recto – A Truly 2D Language",
+      "description": "Score: 102 | Comments: 49 | Posted by mhagiwara",
+      "url": "https://masatohagiwara.net/recto.html",
+      "publishedAt": "2025-08-12T15:06:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mhagiwara",
       "tags": []
     },
     {
@@ -209,6 +231,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "icy",
+      "tags": []
+    },
+    {
+      "id": "focd4m",
+      "title": "ARM adds neural accelerators to GPUs",
+      "description": "Score: 147 | Comments: 29 | Posted by dagmx",
+      "url": "https://newsroom.arm.com/news/arm-announces-arm-neural-technology",
+      "publishedAt": "2025-08-12T14:03:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dagmx",
       "tags": []
     },
     {
@@ -352,6 +385,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "blueridge",
+      "tags": []
+    },
+    {
+      "id": "u8g3e",
+      "title": "Compiler Bug Causes Compiler Bug: How a 12-Year-Old G++ Bug Took Down Solidity",
+      "description": "Score: 124 | Comments: 62 | Posted by luu",
+      "url": "https://osec.io/blog/2025-08-11-compiler-bug-causes-compiler-bug/",
+      "publishedAt": "2025-08-12T05:04:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "luu",
+      "tags": []
+    },
+    {
+      "id": "2mk2eh",
+      "title": "'Constantine Cavafy' Review: A Poet's Odyssey Within",
+      "description": "Score: 16 | Comments: 1 | Posted by lermontov",
+      "url": "https://www.wsj.com/arts-culture/books/constantine-cavafy-review-a-poets-odyssey-within-1e341d7c",
+      "publishedAt": "2025-08-12T04:53:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lermontov",
       "tags": []
     },
     {
