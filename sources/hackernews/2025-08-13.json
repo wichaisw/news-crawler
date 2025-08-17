@@ -102,6 +102,28 @@
       "tags": []
     },
     {
+      "id": "uga5va",
+      "title": "That 16B password story (a.k.a. \"data troll\")",
+      "description": "Score: 69 | Comments: 7 | Posted by el_duderino",
+      "url": "https://www.troyhunt.com/that-16-billion-password-story-aka-data-troll/",
+      "publishedAt": "2025-08-13T20:01:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "el_duderino",
+      "tags": []
+    },
+    {
+      "id": "ea664a",
+      "title": "Modern Cars Wreak Havoc on Radar Detectors",
+      "description": "Score: 39 | Comments: 36 | Posted by PaulHoule",
+      "url": "https://www.thedrive.com/news/modern-cars-wreak-havoc-on-radar-detectors-heres-how-escort-adapts",
+      "publishedAt": "2025-08-13T19:55:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "PaulHoule",
+      "tags": []
+    },
+    {
       "id": "idwt5l",
       "title": "PYX: The next step in Python packagingastral.sh",
       "description": "Score: 536 | Comments: 301 | Posted by the_mitsuhiko",
@@ -201,6 +223,17 @@
       "tags": []
     },
     {
+      "id": "w0uj26",
+      "title": "An Argument for Increasing TCP's Initial Congestion Window Again",
+      "description": "Score: 43 | Comments: 9 | Posted by cyb0rg0",
+      "url": "https://jeclark.net/articles/tcp-initcwnd/?tag=performance",
+      "publishedAt": "2025-08-13T15:23:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cyb0rg0",
+      "tags": []
+    },
+    {
       "id": "xbwld7",
       "title": "This website is for humans",
       "description": "Score: 548 | Comments: 288 | Posted by charles_f",
@@ -242,6 +275,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "tanrax",
+      "tags": []
+    },
+    {
+      "id": "t5u8gx",
+      "title": "Writing a competitive BZip2 encoder in Ada from scratch in a few days – part 2",
+      "description": "Score: 101 | Comments: 7 | Posted by ajdude",
+      "url": "https://gautiersblog.blogspot.com/2025/07/writing-bzip2-encoder-in-ada-from.html",
+      "publishedAt": "2025-08-13T14:47:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ajdude",
       "tags": []
     },
     {
@@ -344,6 +388,17 @@
       "tags": []
     },
     {
+      "id": "5rmdhg",
+      "title": "Counting Words at SIMD Speed",
+      "description": "Score: 8 | Comments: 2 | Posted by healeycodes",
+      "url": "https://healeycodes.com/counting-words-at-simd-speed",
+      "publishedAt": "2025-08-13T12:30:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "healeycodes",
+      "tags": []
+    },
+    {
       "id": "ly51yq",
       "title": "Bird signs and cycles, February, 2024",
       "description": "Score: 6 | Comments: 1 | Posted by sjmulder",
@@ -352,6 +407,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "sjmulder",
+      "tags": []
+    },
+    {
+      "id": "362h77",
+      "title": "FFmpeg moves to Forgejo",
+      "description": "Score: 243 | Comments: 199 | Posted by whataguy",
+      "url": "https://code.ffmpeg.org/FFmpeg/FFmpeg",
+      "publishedAt": "2025-08-13T11:08:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "whataguy",
       "tags": []
     },
     {
@@ -377,6 +443,17 @@
       "tags": []
     },
     {
+      "id": "qu6ko0",
+      "title": "The Raft Consensus Algorithm (2015)",
+      "description": "Score: 122 | Comments: 24 | Posted by nromiun",
+      "url": "https://raft.github.io/",
+      "publishedAt": "2025-08-13T09:09:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nromiun",
+      "tags": []
+    },
+    {
       "id": "df58jm",
       "title": "Claude says “You're absolutely right!” about everything",
       "description": "Score: 692 | Comments: 497 | Posted by pr337h4m",
@@ -385,6 +462,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "pr337h4m",
+      "tags": []
+    },
+    {
+      "id": "c47d37",
+      "title": "For Iris Murdoch, morality is about love, not duties and rules",
+      "description": "Score: 31 | Comments: 23 | Posted by prismatic",
+      "url": "https://aeon.co/essays/for-iris-murdoch-morality-is-about-love-not-duties-and-rules",
+      "publishedAt": "2025-08-13T06:12:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "prismatic",
+      "tags": []
+    },
+    {
+      "id": "f362r1",
+      "title": "Stylish Bugs",
+      "description": "Score: 9 | Comments: 1 | Posted by r4um",
+      "url": "https://flak.tedunangst.com/post/stylish-bugs",
+      "publishedAt": "2025-08-13T05:17:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "r4um",
       "tags": []
     },
     {
@@ -440,6 +539,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "SerCe",
+      "tags": []
+    },
+    {
+      "id": "g746wk",
+      "title": "Dokploy is the sweet spot between PaaS and EC2",
+      "description": "Score: 88 | Comments: 49 | Posted by nikodunk",
+      "url": "https://nikodunk.com/2025-06-10-diy-serverless-(coreos-+-dokploy)",
+      "publishedAt": "2025-08-13T02:24:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nikodunk",
       "tags": []
     },
     {

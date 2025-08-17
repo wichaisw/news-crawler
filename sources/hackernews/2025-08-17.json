@@ -1,0 +1,94 @@
+{
+  "date": "2025-08-17",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "5ldsyl",
+      "title": "CIA's 'Kryptos' sculpture, unsolved for 35 years, is up for sale",
+      "description": "Score: 8 | Comments: 4 | Posted by joahua",
+      "url": "https://www.washingtonpost.com/entertainment/art/2025/08/14/kryptos-code-k4-solution-jim-sanborn-auction",
+      "publishedAt": "2025-08-17T04:19:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "joahua",
+      "tags": []
+    },
+    {
+      "id": "47r8vu",
+      "title": "The End of Tesla?",
+      "description": "Score: 10 | Comments: 1 | Posted by agnosticmantis",
+      "url": "https://www.youtube.com/watch?v=2znwoOp2rw4",
+      "publishedAt": "2025-08-17T03:53:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "agnosticmantis",
+      "tags": []
+    },
+    {
+      "id": "9ojcn6",
+      "title": "$3.1B annual cost estimated for fossil fuel plants DOE won't allow to retire",
+      "description": "Score: 8 | Comments: 0 | Posted by toomuchtodo",
+      "url": "https://www.utilitydive.com/news/doe-mandate-fossil-fueled-power-plants-emergency/757653/",
+      "publishedAt": "2025-08-17T03:31:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "toomuchtodo",
+      "tags": []
+    },
+    {
+      "id": "3b133y",
+      "title": "Hyundai wants loniq 5 customers to pay for cybersecurity patch in baffling move",
+      "description": "Score: 89 | Comments: 45 | Posted by duxup",
+      "url": "https://www.neowin.net/news/hyundai-wants-ioniq-5-customers-to-pay-for-cybersecurity-patch-in-baffling-move/",
+      "publishedAt": "2025-08-17T02:49:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "duxup",
+      "tags": []
+    },
+    {
+      "id": "d1pmyv",
+      "title": "Passive Microwave Repeaters",
+      "description": "Score: 15 | Comments: 3 | Posted by BallsInIt",
+      "url": "https://computer.rip/2025-08-16-passive-microwave-repeaters.html",
+      "publishedAt": "2025-08-17T00:25:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "BallsInIt",
+      "tags": []
+    },
+    {
+      "id": "funenv",
+      "title": "FAA Insider Opens Up About Drone Incursions over Military Bases",
+      "description": "Score: 16 | Comments: 1 | Posted by breve",
+      "url": "https://www.twz.com/air/foreign-nexus-in-military-base-drone-incursions-detailed-by-government-insider",
+      "publishedAt": "2025-08-17T00:24:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "breve",
+      "tags": []
+    },
+    {
+      "id": "kzi7tt",
+      "title": "GDPR meant nothing: chat control ends privacy for the EU [video]",
+      "description": "Score: 185 | Comments: 91 | Posted by givemeethekeys",
+      "url": "https://www.youtube.com/watch?v=3NyUgv6dpJc",
+      "publishedAt": "2025-08-17T00:21:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "givemeethekeys",
+      "tags": []
+    },
+    {
+      "id": "362h77",
+      "title": "FFmpeg moves to Forgejoffmpeg.org",
+      "description": "Score: 243 | Comments: 199 | Posted by whataguy",
+      "url": "https://code.ffmpeg.org/FFmpeg/FFmpeg",
+      "publishedAt": "2025-08-17T00:08:22.533Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "whataguy",
+      "tags": []
+    }
+  ]
+}
