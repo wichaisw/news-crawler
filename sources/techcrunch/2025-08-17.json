@@ -1,0 +1,39 @@
+{
+  "date": "2025-08-17",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3037439",
+      "title": "GPT-5 is supposed to be nicer now",
+      "description": "OpenAI announced late Friday that it’s updating its latest model to be “warmer and friendlier.”",
+      "url": "https://techcrunch.com/2025/08/17/gpt-5-is-supposed-to-be-nicer-now/",
+      "publishedAt": "2025-08-17T21:08:21.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3037437",
+      "title": "‘Stranger Things’ creators may be leaving Netflix",
+      "description": "Netflix could soon lose the creative team behind one of its biggest hits, with the Duffer Brothers reportedly signing an exclusive deal with",
+      "url": "https://techcrunch.com/2025/08/17/stranger-things-creators-may-be-leaving-netflix/",
+      "publishedAt": "2025-08-17T20:07:35.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3037434",
+      "title": "Duolingo CEO says controversial AI memo was misunderstood",
+      "description": "While Duolingo CEO Luis von Ahn faced backlash after declaring that Duolingo would become an “AI-first company,” he suggested in a new interview the",
+      "url": "https://techcrunch.com/2025/08/17/duolingo-ceo-says-controversial-ai-memo-was-misunderstood/",
+      "publishedAt": "2025-08-17T16:34:17.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    }
+  ]
+}

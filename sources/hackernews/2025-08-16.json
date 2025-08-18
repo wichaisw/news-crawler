@@ -234,6 +234,17 @@
       "tags": []
     },
     {
+      "id": "v9dfik",
+      "title": "PG Auto Upgrade – Docker (and K8s) container to auto upgrade your database",
+      "description": "Score: 20 | Comments: 9 | Posted by justinclift",
+      "url": "https://github.com/pgautoupgrade/docker-pgautoupgrade",
+      "publishedAt": "2025-08-16T12:10:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "justinclift",
+      "tags": []
+    },
+    {
       "id": "jys0p7",
       "title": "Traps to Developers",
       "description": "Score: 193 | Comments: 85 | Posted by qouteall",
@@ -297,6 +308,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "GalaxySnail",
+      "tags": []
+    },
+    {
+      "id": "1r43ze",
+      "title": "A Visual Exploration of Gaussian Processes (2019)",
+      "description": "Score: 52 | Comments: 0 | Posted by vinhnx",
+      "url": "https://distill.pub/2019/visual-exploration-gaussian-processes/",
+      "publishedAt": "2025-08-16T03:21:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vinhnx",
       "tags": []
     },
     {

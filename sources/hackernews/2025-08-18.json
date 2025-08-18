@@ -1,0 +1,127 @@
+{
+  "date": "2025-08-18",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "wrqufr",
+      "title": "IMDB Terminal Browser",
+      "description": "Score: 14 | Comments: 6 | Posted by thunderbong",
+      "url": "https://github.com/isene/IMDB",
+      "publishedAt": "2025-08-18T04:13:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thunderbong",
+      "tags": []
+    },
+    {
+      "id": "mpi6yj",
+      "title": "The System Inside the System",
+      "description": "Score: 9 | Comments: 0 | Posted by todsacerdoti",
+      "url": "https://worksonmymachine.ai/p/the-system-inside-the-system",
+      "publishedAt": "2025-08-18T03:53:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "cxnazz",
+      "title": "A gigantic jet caught on camera: A spritacular moment for NASA astronautnasa.gov",
+      "description": "Score: 59 | Comments: 15 | Posted by acossta",
+      "url": "https://science.nasa.gov/science-research/heliophysics/a-gigantic-jet-caught-on-camera-a-spritacular-moment-for-nasa-astronaut-nicole-ayers/",
+      "publishedAt": "2025-08-18T03:10:24.529Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "acossta",
+      "tags": []
+    },
+    {
+      "id": "hvwqxf",
+      "title": "Google admits anti-competitive conduct involving Google Search in Australia",
+      "description": "Score: 123 | Comments: 68 | Posted by Improvement",
+      "url": "https://www.accc.gov.au/media-release/google-admits-anti-competitive-conduct-involving-google-search-in-australia",
+      "publishedAt": "2025-08-18T02:54:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Improvement",
+      "tags": []
+    },
+    {
+      "id": "atpz7s",
+      "title": "Show HN: ASCII Tree Editor",
+      "description": "Score: 9 | Comments: 1 | Posted by novoreorx",
+      "url": "https://asciitree.reorx.com/",
+      "publishedAt": "2025-08-18T02:52:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "novoreorx",
+      "tags": []
+    },
+    {
+      "id": "yzb8dq",
+      "title": "NUMA Is the New Network: Reshaping Per-Socket Microservice Placement",
+      "description": "Score: 42 | Comments: 16 | Posted by signa11",
+      "url": "https://codemia.io/blog/path/NUMA-Is-the-New-Network-How-Per-Socket-Memory-Models-Are-Reshaping-Microservice-Placement",
+      "publishedAt": "2025-08-18T01:40:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "signa11",
+      "tags": []
+    },
+    {
+      "id": "eivnmd",
+      "title": "Men paying thousands to get their legs broken – and lengthened",
+      "description": "Score: 20 | Comments: 22 | Posted by pseudolus",
+      "url": "https://www.theguardian.com/lifeandstyle/2025/aug/17/being-short-is-a-curse-the-men-paying-thousands-to-get-their-legs-broken-and-lengthened",
+      "publishedAt": "2025-08-18T01:20:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pseudolus",
+      "tags": []
+    },
+    {
+      "id": "u4tsi9",
+      "title": "Clojure Async Flow Guideclojure.github.io",
+      "description": "Score: 95 | Comments: 35 | Posted by simonpure",
+      "url": "https://clojure.github.io/core.async/flow-guide.html",
+      "publishedAt": "2025-08-18T01:10:24.529Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "simonpure",
+      "tags": []
+    },
+    {
+      "id": "py8rce",
+      "title": "Mangle – a language for deductive database programming",
+      "description": "Score: 33 | Comments: 3 | Posted by simonpure",
+      "url": "https://github.com/google/mangle",
+      "publishedAt": "2025-08-18T00:55:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "simonpure",
+      "tags": []
+    },
+    {
+      "id": "u4tsi9",
+      "title": "Clojure Async Flow Guide",
+      "description": "Score: 95 | Comments: 35 | Posted by simonpure",
+      "url": "https://clojure.github.io/core.async/flow-guide.html",
+      "publishedAt": "2025-08-18T00:52:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "simonpure",
+      "tags": []
+    },
+    {
+      "id": "ada33v",
+      "title": "State of the U.S. Semiconductor Industry 2025 [pdf]",
+      "description": "Score: 16 | Comments: 0 | Posted by gmays",
+      "url": "https://www.semiconductors.org/wp-content/uploads/2025/07/SIA-State-of-the-Industry-Report-2025.pdf",
+      "publishedAt": "2025-08-18T00:45:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gmays",
+      "tags": []
+    }
+  ]
+}
