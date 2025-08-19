@@ -3,6 +3,28 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "k6k9wo",
+      "title": "An IRC-Enabled Lawn Mower (2021)",
+      "description": "Score: 75 | Comments: 10 | Posted by rickcarlino",
+      "url": "https://jotunheimr.idlerpg.net/users/jotun/lawnmower/",
+      "publishedAt": "2025-08-16T23:48:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rickcarlino",
+      "tags": []
+    },
+    {
+      "id": "4fjxmz",
+      "title": "Free up space (effortlessly) on WSL2",
+      "description": "Score: 29 | Comments: 21 | Posted by twilight-code",
+      "url": "https://www.freecodecamp.org/news/how-to-free-up-and-automatically-manage-disk-space-for-wsl-on-windows-1011/",
+      "publishedAt": "2025-08-16T23:15:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "twilight-code",
+      "tags": []
+    },
+    {
       "id": "y7w02q",
       "title": "Flock Reports to Police If It Thinks Car Movement Patterns \"Suspicious\"",
       "description": "Score: 52 | Comments: 8 | Posted by gscott",
@@ -66,6 +88,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "colinprince",
+      "tags": []
+    },
+    {
+      "id": "tjudkc",
+      "title": "X-ray scans reveal Buddhist prayers inside tiny Tibetan scrolls",
+      "description": "Score: 94 | Comments: 8 | Posted by Hooke",
+      "url": "https://www.popsci.com/technology/tibetan-prayer-scroll-scans/",
+      "publishedAt": "2025-08-16T20:54:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Hooke",
       "tags": []
     },
     {
@@ -212,6 +245,17 @@
       "tags": []
     },
     {
+      "id": "emeci5",
+      "title": "Show HN: I built an app to block Shorts and Reels",
+      "description": "Score: 533 | Comments: 209 | Posted by adrianhacar",
+      "url": "https://scrollguard.app/",
+      "publishedAt": "2025-08-16T14:01:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "adrianhacar",
+      "tags": []
+    },
+    {
       "id": "t9oenu",
       "title": "Dicing an Onion, the Mathematically Optimal Way",
       "description": "Score: 246 | Comments: 86 | Posted by surprisetalk",
@@ -245,6 +289,17 @@
       "tags": []
     },
     {
+      "id": "aupcl1",
+      "title": "Walkie-Textie Wireless Communicator",
+      "description": "Score: 129 | Comments: 89 | Posted by chrisjj",
+      "url": "http://www.technoblogy.com/show?2AON",
+      "publishedAt": "2025-08-16T12:08:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "chrisjj",
+      "tags": []
+    },
+    {
       "id": "jys0p7",
       "title": "Traps to Developers",
       "description": "Score: 193 | Comments: 85 | Posted by qouteall",
@@ -253,6 +308,39 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "qouteall",
+      "tags": []
+    },
+    {
+      "id": "8ijrm6",
+      "title": "Countrywide natural experiment links built environment to physical activity",
+      "description": "Score: 55 | Comments: 41 | Posted by Anon84",
+      "url": "https://www.nature.com/articles/s41586-025-09321-3",
+      "publishedAt": "2025-08-16T10:02:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Anon84",
+      "tags": []
+    },
+    {
+      "id": "jdyeez",
+      "title": "The Cutaway Illustrations of Fred Freeman (2016)",
+      "description": "Score: 81 | Comments: 10 | Posted by Michelangelo11",
+      "url": "https://5wgraphicsblog.com/2016/10/24/the-cutaway-illustrations-of-fred-freeman/",
+      "publishedAt": "2025-08-16T09:41:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Michelangelo11",
+      "tags": []
+    },
+    {
+      "id": "t43ayu",
+      "title": "DBCrust – A modern database CLI",
+      "description": "Score: 15 | Comments: 5 | Posted by kelem",
+      "url": "https://github.com/clement-tourriere/dbcrust",
+      "publishedAt": "2025-08-16T09:22:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kelem",
       "tags": []
     },
     {
@@ -352,6 +440,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "vinhnx",
+      "tags": []
+    },
+    {
+      "id": "xbmcde",
+      "title": "Association for the Preservation of Spiritualist and Occult Periodicals",
+      "description": "Score: 18 | Comments: 2 | Posted by andrii",
+      "url": "https://iapsop.com",
+      "publishedAt": "2025-08-16T02:12:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andrii",
       "tags": []
     },
     {

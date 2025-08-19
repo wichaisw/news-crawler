@@ -1,0 +1,83 @@
+{
+  "date": "2025-08-19",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "z50buy",
+      "title": "Court decides \"Pay or Okay\" on DerStandard.at is illegal",
+      "description": "Score: 5 | Comments: 0 | Posted by tomwas54",
+      "url": "https://noyb.eu/en/court-decides-pay-or-okay-derstandardat-illegal",
+      "publishedAt": "2025-08-19T05:23:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tomwas54",
+      "tags": []
+    },
+    {
+      "id": "oalr4n",
+      "title": "OpenMower – An open source lawn mowergithub.com/clemenselflein",
+      "description": "Score: 172 | Comments: 35 | Posted by rickcarlino",
+      "url": "https://github.com/ClemensElflein/OpenMower",
+      "publishedAt": "2025-08-19T01:09:12.315Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rickcarlino",
+      "tags": []
+    },
+    {
+      "id": "oalr4n",
+      "title": "OpenMower – An open source lawn mower",
+      "description": "Score: 172 | Comments: 35 | Posted by rickcarlino",
+      "url": "https://github.com/ClemensElflein/OpenMower",
+      "publishedAt": "2025-08-19T00:35:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rickcarlino",
+      "tags": []
+    },
+    {
+      "id": "dycc4h",
+      "title": "A general Fortran code for solutions of problems in space mechanics [pdf]",
+      "description": "Score: 32 | Comments: 11 | Posted by keepamovin",
+      "url": "https://jonathanadams.pro/blog-articles/Nasa-Fortran-Code-1963.pdf",
+      "publishedAt": "2025-08-19T00:12:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "keepamovin",
+      "tags": []
+    },
+    {
+      "id": "lalchx",
+      "title": "XZ Utils Backdoor Still Lurking in Docker Images",
+      "description": "Score: 79 | Comments: 30 | Posted by torgoguys",
+      "url": "https://www.binarly.io/blog/persistent-risk-xz-utils-backdoor-still-lurking-in-docker-images",
+      "publishedAt": "2025-08-19T00:07:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "torgoguys",
+      "tags": []
+    },
+    {
+      "id": "3ylfef",
+      "title": "Ted Chiang: The Secret Third Thing",
+      "description": "Score: 65 | Comments: 17 | Posted by pseudolus",
+      "url": "https://linch.substack.com/p/ted-chiang-review",
+      "publishedAt": "2025-08-19T00:05:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pseudolus",
+      "tags": []
+    },
+    {
+      "id": "df20ki",
+      "title": "Croatian freediver held breath for 29 minutes",
+      "description": "Score: 159 | Comments: 62 | Posted by toomanyrichies",
+      "url": "https://divernet.com/scuba-news/freediving/how-croatian-freediver-held-breath-for-29-minutes/",
+      "publishedAt": "2025-08-19T00:04:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "toomanyrichies",
+      "tags": []
+    }
+  ]
+}
