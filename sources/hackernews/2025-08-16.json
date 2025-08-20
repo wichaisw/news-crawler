@@ -146,6 +146,17 @@
       "tags": []
     },
     {
+      "id": "agjne1",
+      "title": "Tiny, removable \"mini SSD\" could eventually be a big deal for gaming handhelds",
+      "description": "Score: 49 | Comments: 51 | Posted by quantummagic",
+      "url": "https://arstechnica.com/gadgets/2025/08/tiny-removable-mini-ssd-could-eventually-be-a-big-deal-for-gaming-handhelds/",
+      "publishedAt": "2025-08-16T19:14:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "quantummagic",
+      "tags": []
+    },
+    {
       "id": "qvb4di",
       "title": "A Lisp in 99LOC",
       "description": "Score: 57 | Comments: 6 | Posted by shikaan",
@@ -300,6 +311,17 @@
       "tags": []
     },
     {
+      "id": "k36aaf",
+      "title": "How Figma’s multiplayer technology works (2019)",
+      "description": "Score: 132 | Comments: 44 | Posted by redbell",
+      "url": "https://www.figma.com/blog/how-figmas-multiplayer-technology-works/",
+      "publishedAt": "2025-08-16T11:41:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "redbell",
+      "tags": []
+    },
+    {
       "id": "jys0p7",
       "title": "Traps to Developers",
       "description": "Score: 193 | Comments: 85 | Posted by qouteall",
@@ -352,6 +374,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "gyomu",
+      "tags": []
+    },
+    {
+      "id": "pct82z",
+      "title": "Guile bindings for Sway window manager",
+      "description": "Score: 72 | Comments: 7 | Posted by ducktective",
+      "url": "https://github.com/ebeem/guile-swayer",
+      "publishedAt": "2025-08-16T08:43:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ducktective",
+      "tags": []
+    },
+    {
+      "id": "8jhibz",
+      "title": "Candle Flame Oscillations as a Clock",
+      "description": "Score: 268 | Comments: 61 | Posted by cpldcpu",
+      "url": "https://cpldcpu.com/2025/08/13/candle-flame-oscillations-as-a-clock/",
+      "publishedAt": "2025-08-16T07:49:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cpldcpu",
       "tags": []
     },
     {

@@ -1,0 +1,149 @@
+{
+  "date": "2025-08-20",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "lt2pga",
+      "title": "Type-Machine",
+      "description": "Score: 7 | Comments: 1 | Posted by todsacerdoti",
+      "url": "https://arthi-chaud.github.io/posts/type-machine/",
+      "publishedAt": "2025-08-20T04:59:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "2un6l6",
+      "title": "China blocked all HTTPS connection abroad for 1 hour in midnight",
+      "description": "Score: 79 | Comments: 26 | Posted by kotri",
+      "url": "https://gfw.report/blog/gfw_unconditional_rst_20250820/en/",
+      "publishedAt": "2025-08-20T04:27:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kotri",
+      "tags": []
+    },
+    {
+      "id": "hyziyi",
+      "title": "Monoid-Augmented FIFOs, Deamortised",
+      "description": "Score: 14 | Comments: 4 | Posted by todsacerdoti",
+      "url": "https://pvk.ca/Blog/2025/08/19/monoid-augmented-fifos/",
+      "publishedAt": "2025-08-20T03:35:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "kakr64",
+      "title": "We’re Not So Special: A new book challenges human exceptionalism",
+      "description": "Score: 41 | Comments: 69 | Posted by nobet",
+      "url": "https://democracyjournal.org/magazine/78/were-not-so-special/",
+      "publishedAt": "2025-08-20T02:25:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nobet",
+      "tags": []
+    },
+    {
+      "id": "1f8rdg",
+      "title": "The Value of Hitting the HN Front Page",
+      "description": "Score: 23 | Comments: 7 | Posted by mooreds",
+      "url": "https://www.mooreds.com/wordpress/archives/3530",
+      "publishedAt": "2025-08-20T02:00:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mooreds",
+      "tags": []
+    },
+    {
+      "id": "xw2e8e",
+      "title": "Skill issues – Dialectical Behavior Therapy and its discontents (2024)",
+      "description": "Score: 7 | Comments: 1 | Posted by zt",
+      "url": "https://www.thedriftmag.com/skill-issues/",
+      "publishedAt": "2025-08-20T01:57:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zt",
+      "tags": []
+    },
+    {
+      "id": "4713k4",
+      "title": "The Future of JavaScript: What Awaits Us",
+      "description": "Score: 4 | Comments: 0 | Posted by javatuts",
+      "url": "https://jsdev.space/future-of-javascript/",
+      "publishedAt": "2025-08-20T01:42:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "javatuts",
+      "tags": []
+    },
+    {
+      "id": "ivvr2n",
+      "title": "Calling Their Bluff",
+      "description": "Score: 30 | Comments: 2 | Posted by 4pkjai",
+      "url": "https://anguscheng.com/post/2025-08-13-calling-their-bluff/",
+      "publishedAt": "2025-08-20T01:19:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "4pkjai",
+      "tags": []
+    },
+    {
+      "id": "kpkzhg",
+      "title": "Copilot broke audit logs, but Microsoft won't tell customerspistachioapp.com",
+      "description": "Score: 372 | Comments: 122 | Posted by Sayrus",
+      "url": "https://pistachioapp.com/blog/copilot-broke-your-audit-log",
+      "publishedAt": "2025-08-20T01:09:24.828Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Sayrus",
+      "tags": []
+    },
+    {
+      "id": "6gd8wp",
+      "title": "AGENTS.md – Open format for guiding coding agentsagents.md",
+      "description": "Score: 326 | Comments: 146 | Posted by ghuntley",
+      "url": "https://agents.md/",
+      "publishedAt": "2025-08-20T01:09:24.827Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ghuntley",
+      "tags": []
+    },
+    {
+      "id": "y8sq6m",
+      "title": "AT&T Long Lines Map and Information",
+      "description": "Score: 6 | Comments: 0 | Posted by mk_stjames",
+      "url": "https://long-lines.com/map/",
+      "publishedAt": "2025-08-20T00:28:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mk_stjames",
+      "tags": []
+    },
+    {
+      "id": "kpkzhg",
+      "title": "Copilot broke audit logs, but Microsoft won't tell customers",
+      "description": "Score: 373 | Comments: 122 | Posted by Sayrus",
+      "url": "https://pistachioapp.com/blog/copilot-broke-your-audit-log",
+      "publishedAt": "2025-08-20T00:18:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Sayrus",
+      "tags": []
+    },
+    {
+      "id": "6gd8wp",
+      "title": "AGENTS.md – Open format for guiding coding agents",
+      "description": "Score: 328 | Comments: 146 | Posted by ghuntley",
+      "url": "https://agents.md/",
+      "publishedAt": "2025-08-20T00:15:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ghuntley",
+      "tags": []
+    }
+  ]
+}

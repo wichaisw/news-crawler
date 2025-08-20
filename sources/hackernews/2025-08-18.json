@@ -124,6 +124,17 @@
       "tags": []
     },
     {
+      "id": "np094r",
+      "title": "Show HN: Chroma Cloud – serverless search database for AI",
+      "description": "Score: 89 | Comments: 36 | Posted by jeffchuber",
+      "url": "https://trychroma.com/cloud",
+      "publishedAt": "2025-08-18T19:20:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jeffchuber",
+      "tags": []
+    },
+    {
       "id": "72ewy4",
       "title": "Show HN: We started building an AI dev tool but it turned into a Sims-style game",
       "description": "Score: 114 | Comments: 59 | Posted by maxraven",
@@ -278,6 +289,50 @@
       "tags": []
     },
     {
+      "id": "xkfqke",
+      "title": "Intel Foundry Demonstrates First Arm-Based Chip on 18A Node – HotHardware",
+      "description": "Score: 23 | Comments: 1 | Posted by rbanffy",
+      "url": "https://hothardware.com/news/intel-foundry-demos-deer-creek-falls-reference-soc",
+      "publishedAt": "2025-08-18T12:31:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rbanffy",
+      "tags": []
+    },
+    {
+      "id": "gy0fa5",
+      "title": "Physically Based Rendering in Filament",
+      "description": "Score: 36 | Comments: 10 | Posted by indigo945",
+      "url": "https://google.github.io/filament/Filament.md.html#overview",
+      "publishedAt": "2025-08-18T11:34:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "indigo945",
+      "tags": []
+    },
+    {
+      "id": "eqejwm",
+      "title": "How I Made Ruby Faster Than Ruby",
+      "description": "Score: 12 | Comments: 2 | Posted by ciconia",
+      "url": "https://noteflakes.com/articles/2025-08-18-how-to-make-ruby-faster",
+      "publishedAt": "2025-08-18T11:22:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ciconia",
+      "tags": []
+    },
+    {
+      "id": "tq80tv",
+      "title": "The End of Handwriting",
+      "description": "Score: 39 | Comments: 38 | Posted by beardyw",
+      "url": "https://www.wired.com/story/the-end-of-handwriting/",
+      "publishedAt": "2025-08-18T10:37:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "beardyw",
+      "tags": []
+    },
+    {
       "id": "cfz3t9",
       "title": "MCP doesn't need tools, it needs code",
       "description": "Score: 201 | Comments: 124 | Posted by the_mitsuhiko",
@@ -289,6 +344,17 @@
       "tags": []
     },
     {
+      "id": "gh47fk",
+      "title": "Fast Type-Aware Linting in Oxlint",
+      "description": "Score: 25 | Comments: 2 | Posted by manniL",
+      "url": "https://oxc.rs/blog/2025-08-17-oxlint-type-aware",
+      "publishedAt": "2025-08-18T09:35:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "manniL",
+      "tags": []
+    },
+    {
       "id": "zhdcte",
       "title": "Electromechanical reshaping,  an alternative to laser eye surgery",
       "description": "Score: 227 | Comments: 94 | Posted by Gaishan",
@@ -297,6 +363,39 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "Gaishan",
+      "tags": []
+    },
+    {
+      "id": "xaarsc",
+      "title": "Rails Charts Using ECharts from Apache",
+      "description": "Score: 29 | Comments: 4 | Posted by amalinovic",
+      "url": "https://github.com/railsjazz/rails_charts",
+      "publishedAt": "2025-08-18T09:00:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "amalinovic",
+      "tags": []
+    },
+    {
+      "id": "evw3l8",
+      "title": "Geotoy – Shadertoy for 3D Geometry",
+      "description": "Score: 119 | Comments: 23 | Posted by Ameo",
+      "url": "https://3d.ameo.design/geotoy",
+      "publishedAt": "2025-08-18T08:54:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Ameo",
+      "tags": []
+    },
+    {
+      "id": "hu6seq",
+      "title": "The joy of recursion, immutable data, & pure functions: Making mazes with JS",
+      "description": "Score: 66 | Comments: 18 | Posted by jrsinclair",
+      "url": "https://jrsinclair.com/articles/2025/joy-of-immutable-data-recursion-pure-functions-javascript-mazes/",
+      "publishedAt": "2025-08-18T07:57:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jrsinclair",
       "tags": []
     },
     {
