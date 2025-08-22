@@ -212,6 +212,28 @@
       "tags": []
     },
     {
+      "id": "k52oww",
+      "title": "How Not to Buy a SSD",
+      "description": "Score: 27 | Comments: 13 | Posted by speckx",
+      "url": "https://andrei.xyz/post/how-not-to-buy-a-ssd/",
+      "publishedAt": "2025-08-18T16:49:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
+      "tags": []
+    },
+    {
+      "id": "pfqt2b",
+      "title": "Miles from the ocean, there's diving beneath the streets of Budapest",
+      "description": "Score: 115 | Comments: 25 | Posted by thm",
+      "url": "https://www.cnn.com/2025/08/18/travel/budapest-diving-molnar-janos-cave",
+      "publishedAt": "2025-08-18T16:42:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thm",
+      "tags": []
+    },
+    {
       "id": "2yim5l",
       "title": "My Retro TVs",
       "description": "Score: 134 | Comments: 22 | Posted by the-mitr",
@@ -223,6 +245,17 @@
       "tags": []
     },
     {
+      "id": "tsvdho",
+      "title": "Elegant mathematics bending the future of design",
+      "description": "Score: 87 | Comments: 4 | Posted by robinhouston",
+      "url": "https://actu.epfl.ch/news/elegant-mathematics-bending-the-future-of-design/",
+      "publishedAt": "2025-08-18T16:36:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "robinhouston",
+      "tags": []
+    },
+    {
       "id": "ux7tte",
       "title": "Anna's Archive: An Update from the Team",
       "description": "Score: 876 | Comments: 392 | Posted by jerheinze",
@@ -231,6 +264,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jerheinze",
+      "tags": []
+    },
+    {
+      "id": "91zhg7",
+      "title": "Show HN: OS X Mavericks Forever",
+      "description": "Score: 320 | Comments: 135 | Posted by Wowfunhappy",
+      "url": "https://mavericksforever.com/",
+      "publishedAt": "2025-08-18T16:01:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Wowfunhappy",
       "tags": []
     },
     {
@@ -256,6 +300,17 @@
       "tags": []
     },
     {
+      "id": "mtyw8x",
+      "title": "An interactive guide to SVG paths",
+      "description": "Score: 261 | Comments: 26 | Posted by joshwcomeau",
+      "url": "https://www.joshwcomeau.com/svg/interactive-guide-to-paths/",
+      "publishedAt": "2025-08-18T15:19:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "joshwcomeau",
+      "tags": []
+    },
+    {
       "id": "7wisml",
       "title": "Launch HN: Reality Defender (YC W22) – API for Deepfake and GenAI Detection",
       "description": "Score: 75 | Comments: 36 | Posted by bpcrd",
@@ -267,6 +322,17 @@
       "tags": []
     },
     {
+      "id": "ojxfbk",
+      "title": "Benchmarks for Golang SQLite Drivers",
+      "description": "Score: 53 | Comments: 9 | Posted by cvilsmeier",
+      "url": "https://github.com/cvilsmeier/go-sqlite-bench",
+      "publishedAt": "2025-08-18T15:13:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cvilsmeier",
+      "tags": []
+    },
+    {
       "id": "5kffar",
       "title": "Counter-Strike: A billion-dollar game built in a dorm room",
       "description": "Score: 309 | Comments: 238 | Posted by asnyder",
@@ -275,6 +341,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "asnyder",
+      "tags": []
+    },
+    {
+      "id": "r99s8g",
+      "title": "The attr() function in CSS now supports types",
+      "description": "Score: 9 | Comments: 12 | Posted by speckx",
+      "url": "https://www.amitmerchant.com/attr-function-types-css/",
+      "publishedAt": "2025-08-18T13:54:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
       "tags": []
     },
     {
@@ -300,6 +377,17 @@
       "tags": []
     },
     {
+      "id": "p1kvtr",
+      "title": "Beyond the Logo: How We're Weaving Full Images Inside QR Codes",
+      "description": "Score: 51 | Comments: 19 | Posted by bhasinanant",
+      "url": "https://blog.nitroqr.com/beyond-the-logo-how-were-weaving-full-images-inside-qr-codes",
+      "publishedAt": "2025-08-18T12:43:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bhasinanant",
+      "tags": []
+    },
+    {
       "id": "xkfqke",
       "title": "Intel Foundry Demonstrates First Arm-Based Chip on 18A Node – HotHardware",
       "description": "Score: 23 | Comments: 1 | Posted by rbanffy",
@@ -308,6 +396,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "rbanffy",
+      "tags": []
+    },
+    {
+      "id": "1rdf6y",
+      "title": "Philosophical Thoughts on Kolmogorov-Arnold Networks (2024)",
+      "description": "Score: 37 | Comments: 4 | Posted by jxmorris12",
+      "url": "https://kindxiaoming.github.io/blog/2024/kolmogorov-arnold-networks/",
+      "publishedAt": "2025-08-18T12:03:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jxmorris12",
       "tags": []
     },
     {
@@ -443,6 +542,17 @@
       "tags": []
     },
     {
+      "id": "7keutq",
+      "title": "Happy 100000th birthday, Debian",
+      "description": "Score: 99 | Comments: 17 | Posted by pabs3",
+      "url": "https://lists.debian.org/debian-devel-announce/2025/08/msg00006.html",
+      "publishedAt": "2025-08-18T04:53:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pabs3",
+      "tags": []
+    },
+    {
       "id": "wrqufr",
       "title": "IMDB Terminal Browser",
       "description": "Score: 14 | Comments: 6 | Posted by thunderbong",
@@ -495,6 +605,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "novoreorx",
+      "tags": []
+    },
+    {
+      "id": "p2isf0",
+      "title": "The power of two random choices (2012)",
+      "description": "Score: 54 | Comments: 9 | Posted by signa11",
+      "url": "https://brooker.co.za/blog/2012/01/17/two-random.html",
+      "publishedAt": "2025-08-18T01:49:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "signa11",
       "tags": []
     },
     {

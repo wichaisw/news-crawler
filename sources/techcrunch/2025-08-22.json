@@ -1,0 +1,28 @@
+{
+  "date": "2025-08-22",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3039065",
+      "title": "OpenAI announces New Delhi office as it expands footprint in India",
+      "description": "OpenAI has started hiring in India as it looks to expand its presence in the fast-growing South Asian tech market.",
+      "url": "https://techcrunch.com/2025/08/21/openai-announces-new-delhi-office-as-it-expands-footprint-in-india/",
+      "publishedAt": "2025-08-22T06:06:18.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Jagmeet Singh",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3038945",
+      "title": "OpenAI lawyers question Meta’s role in Elon Musk’s $97B takeover bid",
+      "description": "OpenAI says that Elon Musk met with Meta CEO Mark Zuckerberg to discuss a $97 billion takeover bid of the ChatGPT-maker.",
+      "url": "https://techcrunch.com/2025/08/21/openai-lawyers-question-metas-role-in-elon-musks-97b-takeover-bid/",
+      "publishedAt": "2025-08-22T00:31:38.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Maxwell Zeff",
+      "tags": []
+    }
+  ]
+}

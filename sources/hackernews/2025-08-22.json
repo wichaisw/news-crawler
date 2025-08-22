@@ -1,0 +1,94 @@
+{
+  "date": "2025-08-22",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "lmzgtz",
+      "title": "Cloudflare incident on August 21, 2025",
+      "description": "Score: 13 | Comments: 0 | Posted by achalshah",
+      "url": "https://blog.cloudflare.com/cloudflare-incident-on-august-21-2025/",
+      "publishedAt": "2025-08-22T04:14:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "achalshah",
+      "tags": []
+    },
+    {
+      "id": "bilx2m",
+      "title": "Io_uring, kTLS and Rust for zero syscall HTTPS serverhabets.se",
+      "description": "Score: 61 | Comments: 13 | Posted by guntars",
+      "url": "https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html",
+      "publishedAt": "2025-08-22T04:09:04.764Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "guntars",
+      "tags": []
+    },
+    {
+      "id": "bilx2m",
+      "title": "Io_uring, kTLS and Rust for zero syscall HTTPS server",
+      "description": "Score: 62 | Comments: 12 | Posted by guntars",
+      "url": "https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html",
+      "publishedAt": "2025-08-22T03:51:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "guntars",
+      "tags": []
+    },
+    {
+      "id": "6f52jz",
+      "title": "Everything Is Correlated",
+      "description": "Score: 27 | Comments: 4 | Posted by gmays",
+      "url": "https://gwern.net/everything",
+      "publishedAt": "2025-08-22T02:05:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gmays",
+      "tags": []
+    },
+    {
+      "id": "akzmx7",
+      "title": "Control shopping cart wheels with your phone (2021)begaydocrime.com",
+      "description": "Score: 127 | Comments: 19 | Posted by mystraline",
+      "url": "https://www.begaydocrime.com/",
+      "publishedAt": "2025-08-22T01:09:04.764Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mystraline",
+      "tags": []
+    },
+    {
+      "id": "13cs6f",
+      "title": "MAGA's March Toward a Command Economy",
+      "description": "Score: 17 | Comments: 6 | Posted by cocacola1",
+      "url": "https://insights.som.yale.edu/insights/magas-march-toward-command-economy",
+      "publishedAt": "2025-08-22T01:01:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cocacola1",
+      "tags": []
+    },
+    {
+      "id": "akzmx7",
+      "title": "Control shopping cart wheels with your phone (2021)",
+      "description": "Score: 127 | Comments: 19 | Posted by mystraline",
+      "url": "https://www.begaydocrime.com/",
+      "publishedAt": "2025-08-22T00:59:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mystraline",
+      "tags": []
+    },
+    {
+      "id": "axqx7x",
+      "title": "Google scores six-year Meta cloud deal worth over $10B",
+      "description": "Score: 83 | Comments: 18 | Posted by herpderperator",
+      "url": "https://www.cnbc.com/2025/08/21/google-scores-six-year-meta-cloud-deal-worth-over-10-billion.html",
+      "publishedAt": "2025-08-22T00:34:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "herpderperator",
+      "tags": []
+    }
+  ]
+}
