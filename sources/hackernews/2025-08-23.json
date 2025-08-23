@@ -1,0 +1,105 @@
+{
+  "date": "2025-08-23",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "e7aprm",
+      "title": "A visual history of Visual C++ (2017)malsmith.net",
+      "description": "Score: 28 | Comments: 14 | Posted by rayanboulares",
+      "url": "http://www.malsmith.net/blog/visual-c-visual-history/",
+      "publishedAt": "2025-08-23T04:07:59.640Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rayanboulares",
+      "tags": []
+    },
+    {
+      "id": "jg8f0k",
+      "title": "Developer sentenced to prison for activating “kill switch” to avenge his firing",
+      "description": "Score: 51 | Comments: 46 | Posted by Volundr",
+      "url": "https://arstechnica.com/tech-policy/2025/08/developer-gets-4-years-for-activating-network-kill-switch-to-avenge-his-firing/",
+      "publishedAt": "2025-08-23T04:05:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Volundr",
+      "tags": []
+    },
+    {
+      "id": "e7aprm",
+      "title": "A visual history of Visual C++ (2017)",
+      "description": "Score: 28 | Comments: 14 | Posted by rayanboulares",
+      "url": "http://www.malsmith.net/blog/visual-c-visual-history/",
+      "publishedAt": "2025-08-23T03:39:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rayanboulares",
+      "tags": []
+    },
+    {
+      "id": "5w07k9",
+      "title": "Google says it dropped the energy cost of AI queries by 33x in one year",
+      "description": "Score: 77 | Comments: 30 | Posted by ksec",
+      "url": "https://arstechnica.com/ai/2025/08/google-says-it-dropped-the-energy-cost-of-ai-queries-by-33x-in-one-year/",
+      "publishedAt": "2025-08-23T03:22:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ksec",
+      "tags": []
+    },
+    {
+      "id": "jg18p3",
+      "title": "The Evolution of AI Software Engineering",
+      "description": "Score: 10 | Comments: 0 | Posted by ghuntley",
+      "url": "https://medium.com/commbank-technology/the-evolution-of-ai-software-engineering-75a8a5a02c14",
+      "publishedAt": "2025-08-23T03:08:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ghuntley",
+      "tags": []
+    },
+    {
+      "id": "lf0v2d",
+      "title": "Japan city drafts ordinance to cap smartphone use at 2 hours per day",
+      "description": "Score: 67 | Comments: 28 | Posted by Improvement",
+      "url": "https://english.kyodonews.net/articles/-/59582",
+      "publishedAt": "2025-08-23T02:20:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Improvement",
+      "tags": []
+    },
+    {
+      "id": "pec5k1",
+      "title": "My tips for using LLM agents to create software",
+      "description": "Score: 37 | Comments: 6 | Posted by efitz",
+      "url": "https://efitz-thoughts.blogspot.com/2025/08/my-experience-creating-software-with_22.html",
+      "publishedAt": "2025-08-23T00:59:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "efitz",
+      "tags": []
+    },
+    {
+      "id": "x5s9x",
+      "title": "South Korea deploys hologram police officer",
+      "description": "Score: 24 | Comments: 18 | Posted by amichail",
+      "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3322654/south-korea-deploys-hologram-police-officer-fight-crime-and-its-working",
+      "publishedAt": "2025-08-23T00:19:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "amichail",
+      "tags": []
+    },
+    {
+      "id": "lta3uc",
+      "title": "Computer fraud laws used to prosecute leaking air crash footage to CNN",
+      "description": "Score: 150 | Comments: 61 | Posted by BallsInIt",
+      "url": "https://www.techdirt.com/2025/08/22/investigators-used-terrible-computer-fraud-laws-to-ensure-people-were-punished-for-leaking-air-crash-footage-to-cnn/",
+      "publishedAt": "2025-08-23T00:04:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "BallsInIt",
+      "tags": []
+    }
+  ]
+}

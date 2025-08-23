@@ -58,6 +58,17 @@
       "tags": []
     },
     {
+      "id": "tm56bw",
+      "title": "From M1 MacBook to Arch Linux: A month-long experiment that became permanenent",
+      "description": "Score: 63 | Comments: 72 | Posted by articsputnik",
+      "url": "https://www.ssp.sh/blog/macbook-to-arch-linux-omarchy/",
+      "publishedAt": "2025-08-19T20:25:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "articsputnik",
+      "tags": []
+    },
+    {
       "id": "eroije",
       "title": "Perfect Freehand – Draw perfect pressure-sensitive freehand lines",
       "description": "Score: 124 | Comments: 10 | Posted by NikxDa",
@@ -190,6 +201,17 @@
       "tags": []
     },
     {
+      "id": "kckn2k",
+      "title": "What Happened to Egghead Software",
+      "description": "Score: 37 | Comments: 13 | Posted by zdw",
+      "url": "https://dfarq.homeip.net/what-happened-to-egghead-software/",
+      "publishedAt": "2025-08-19T15:18:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
       "id": "mv7ym7",
       "title": "Positron, a New Data Science IDE",
       "description": "Score: 147 | Comments: 42 | Posted by kgwgk",
@@ -223,6 +245,17 @@
       "tags": []
     },
     {
+      "id": "827utf",
+      "title": "I run a full Linux desktop in Docker just because I can",
+      "description": "Score: 76 | Comments: 32 | Posted by redbell",
+      "url": "https://www.howtogeek.com/i-run-a-full-linux-desktop-in-docker-just-because-i-can/",
+      "publishedAt": "2025-08-19T11:39:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "redbell",
+      "tags": []
+    },
+    {
       "id": "8yri80",
       "title": "PyPI Preventing Domain Resurrection Attacks",
       "description": "Score: 118 | Comments: 46 | Posted by pabs3",
@@ -253,6 +286,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "tomwas54",
+      "tags": []
+    },
+    {
+      "id": "scmemb",
+      "title": "Writing Micro Compiler in OCaml (2014)",
+      "description": "Score: 22 | Comments: 0 | Posted by notagoodidea",
+      "url": "http://troydm.github.io/blog/2014/03/29/writing-micro-compiler-in-ocaml/",
+      "publishedAt": "2025-08-19T02:00:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "notagoodidea",
       "tags": []
     },
     {
