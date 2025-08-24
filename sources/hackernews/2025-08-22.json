@@ -113,6 +113,17 @@
       "tags": []
     },
     {
+      "id": "hc4urb",
+      "title": "Why was Apache Kafka created?",
+      "description": "Score: 112 | Comments: 96 | Posted by enether",
+      "url": "https://bigdata.2minutestreaming.com/p/why-was-apache-kafka-created",
+      "publishedAt": "2025-08-22T19:31:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "enether",
+      "tags": []
+    },
+    {
       "id": "njaedp",
       "title": "Nitro: A tiny but flexible init system and process supervisor",
       "description": "Score: 171 | Comments: 60 | Posted by todsacerdoti",
@@ -168,6 +179,17 @@
       "tags": []
     },
     {
+      "id": "xc8tai",
+      "title": "Texas Instruments’ new plants where Apple will make iPhone chips",
+      "description": "Score: 129 | Comments: 110 | Posted by giuliomagnifico",
+      "url": "https://www.cnbc.com/2025/08/22/apple-will-make-chips-at-texas-instruments-60-billion-us-project.html",
+      "publishedAt": "2025-08-22T17:14:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "giuliomagnifico",
+      "tags": []
+    },
+    {
       "id": "iiknwy",
       "title": "Waymo granted permit to begin testing in New York City",
       "description": "Score: 542 | Comments: 508 | Posted by achristmascarl",
@@ -176,6 +198,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "achristmascarl",
+      "tags": []
+    },
+    {
+      "id": "6j5lvu",
+      "title": "Ergonomic errors in Rust: write fast, debug with ease, handle precisely",
+      "description": "Score: 20 | Comments: 23 | Posted by garrinm",
+      "url": "https://gmcgoldr.github.io/2025/08/21/stackerror.html",
+      "publishedAt": "2025-08-22T16:57:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "garrinm",
       "tags": []
     },
     {
@@ -201,6 +234,17 @@
       "tags": []
     },
     {
+      "id": "ad3fz0",
+      "title": "Hacker and physicist – a tale of \"common sense\"",
+      "description": "Score: 23 | Comments: 13 | Posted by supasaf",
+      "url": "https://www.supasaf.com/blog/general/hacker_physicist",
+      "publishedAt": "2025-08-22T15:54:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "supasaf",
+      "tags": []
+    },
+    {
       "id": "bkp6ox",
       "title": "FFmpeg 8.0",
       "description": "Score: 774 | Comments: 175 | Posted by gyan",
@@ -209,6 +253,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "gyan",
+      "tags": []
+    },
+    {
+      "id": "i8xavt",
+      "title": "Static sites with Python, uv, Caddy, and Docker",
+      "description": "Score: 111 | Comments: 69 | Posted by indigodaddy",
+      "url": "https://nkantar.com/blog/2025/08/static-python-uv-caddy-docker/",
+      "publishedAt": "2025-08-22T15:15:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "indigodaddy",
       "tags": []
     },
     {

@@ -1,0 +1,127 @@
+{
+  "date": "2025-08-24",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "drgci5",
+      "title": "Lithium May Be the Key to Stopping Alzheimer's",
+      "description": "Score: 5 | Comments: 1 | Posted by sowbug",
+      "url": "https://scitechdaily.com/according-to-harvard-scientists-this-missing-nutrient-may-be-the-key-to-stopping-alzheimers/",
+      "publishedAt": "2025-08-24T04:34:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sowbug",
+      "tags": []
+    },
+    {
+      "id": "g1hw9s",
+      "title": "ThinkMesh: A Python lib for parallel thinking in LLMs",
+      "description": "Score: 6 | Comments: 0 | Posted by martianlantern",
+      "url": "https://github.com/martianlantern/ThinkMesh",
+      "publishedAt": "2025-08-24T04:23:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "martianlantern",
+      "tags": []
+    },
+    {
+      "id": "cpnxip",
+      "title": "How to build a coding agentghuntley.com",
+      "description": "Score: 71 | Comments: 18 | Posted by ghuntley",
+      "url": "https://ghuntley.com/agent/",
+      "publishedAt": "2025-08-24T04:08:14.765Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ghuntley",
+      "tags": []
+    },
+    {
+      "id": "cpnxip",
+      "title": "How to build a coding agent",
+      "description": "Score: 72 | Comments: 18 | Posted by ghuntley",
+      "url": "https://ghuntley.com/agent/",
+      "publishedAt": "2025-08-24T03:21:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ghuntley",
+      "tags": []
+    },
+    {
+      "id": "pnk6kj",
+      "title": "Kinds of Programming People",
+      "description": "Score: 8 | Comments: 1 | Posted by saulpw",
+      "url": "https://leftoversalad.com/c/015_programmingpeople/",
+      "publishedAt": "2025-08-24T03:09:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "saulpw",
+      "tags": []
+    },
+    {
+      "id": "lfb4da",
+      "title": "I built a tiny mac app to monitor and manage my development processes",
+      "description": "Score: 40 | Comments: 18 | Posted by lexokoh",
+      "url": "https://github.com/kagehq/port-kill",
+      "publishedAt": "2025-08-24T03:08:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lexokoh",
+      "tags": []
+    },
+    {
+      "id": "u9weky",
+      "title": "Rolling the dice with CSS random()webkit.org",
+      "description": "Score: 54 | Comments: 2 | Posted by zdw",
+      "url": "https://webkit.org/blog/17285/rolling-the-dice-with-css-random/",
+      "publishedAt": "2025-08-24T03:08:14.766Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "sb35fm",
+      "title": "Agentic Browser Security: Indirect Prompt Injection in Perplexity Comet",
+      "description": "Score: 13 | Comments: 6 | Posted by drak0n1c",
+      "url": "https://brave.com/blog/comet-prompt-injection/",
+      "publishedAt": "2025-08-24T02:52:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "drak0n1c",
+      "tags": []
+    },
+    {
+      "id": "kwb5t8",
+      "title": "America by Design",
+      "description": "Score: 6 | Comments: 1 | Posted by aaronbrethorst",
+      "url": "https://americabydesign.gov",
+      "publishedAt": "2025-08-24T01:36:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "aaronbrethorst",
+      "tags": []
+    },
+    {
+      "id": "xmbzyp",
+      "title": "Evaluating LLMs for my personal use case",
+      "description": "Score: 32 | Comments: 5 | Posted by goranmoomin",
+      "url": "https://darkcoding.net/software/personal-ai-evals-aug-2025/",
+      "publishedAt": "2025-08-24T00:40:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "goranmoomin",
+      "tags": []
+    },
+    {
+      "id": "exdej3",
+      "title": "AGI is an engineering problem, not a model training problem",
+      "description": "Score: 119 | Comments: 241 | Posted by vincirufus",
+      "url": "https://www.vincirufus.com/posts/agi-is-engineering-problem/",
+      "publishedAt": "2025-08-24T00:18:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vincirufus",
+      "tags": []
+    }
+  ]
+}

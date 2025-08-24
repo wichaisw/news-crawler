@@ -47,6 +47,17 @@
       "tags": []
     },
     {
+      "id": "j7clgp",
+      "title": "A simple way to generate random points on a sphere",
+      "description": "Score: 65 | Comments: 57 | Posted by piinbinary",
+      "url": "https://www.johndcook.com/blog/2025/05/06/random-points-on-a-sphere/",
+      "publishedAt": "2025-08-19T21:11:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "piinbinary",
+      "tags": []
+    },
+    {
       "id": "fxuitn",
       "title": "Docker container for running Claude Code in \"dangerously skip permissions\" mode",
       "description": "Score: 23 | Comments: 10 | Posted by Luc",
@@ -176,6 +187,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "spiridow",
+      "tags": []
+    },
+    {
+      "id": "axxwwg",
+      "title": "450× Faster Joins with Index Condition Pushdown",
+      "description": "Score: 115 | Comments: 49 | Posted by marceloaltmann",
+      "url": "https://readyset.io/blog/optimizing-straddled-joins-in-readyset-from-hash-joins-to-index-condition-pushdown",
+      "publishedAt": "2025-08-19T15:43:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "marceloaltmann",
       "tags": []
     },
     {

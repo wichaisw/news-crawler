@@ -1,0 +1,39 @@
+{
+  "date": "2025-08-23",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3039347",
+      "title": "OpenAI warns against SPVs and other ‘unauthorized’ investments",
+      "description": "OpenAI isn't the only AI company looking to crack down on SPVs.",
+      "url": "https://techcrunch.com/2025/08/23/openai-warns-against-spvs-and-other-unauthorized-investments/",
+      "publishedAt": "2025-08-23T20:26:46.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3039345",
+      "title": "Amazon AGI Labs chief defends his reverse acquihire",
+      "description": "The former Adept CEO said he hopes to be \"remembered more as \"an AI research innovator\" than a \"a deal structure innovator.\"",
+      "url": "https://techcrunch.com/2025/08/23/amazon-agi-labs-chief-defends-his-reverse-acquihire/",
+      "publishedAt": "2025-08-23T20:01:04.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3039340",
+      "title": "The Trump administration’s big Intel investment comes from already awarded grants",
+      "description": "While Intel says the government is making an “$8.9 billion investment in Intel common stock,” the administration does not appear to be committing new",
+      "url": "https://techcrunch.com/2025/08/23/the-trump-administrations-big-intel-investment-comes-from-already-awarded-grants/",
+      "publishedAt": "2025-08-23T16:07:30.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    }
+  ]
+}
