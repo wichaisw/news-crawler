@@ -168,6 +168,17 @@
       "tags": []
     },
     {
+      "id": "tzwpgv",
+      "title": "Iterative DFS with stack-based graph traversal (2024)",
+      "description": "Score: 31 | Comments: 4 | Posted by cpp_frog",
+      "url": "https://dwf.dev/blog/2024/09/23/2024/dfs-iterative-stack-based",
+      "publishedAt": "2025-08-21T17:09:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cpp_frog",
+      "tags": []
+    },
+    {
       "id": "fe4pf5",
       "title": "The Core of Rust",
       "description": "Score: 154 | Comments: 135 | Posted by zdw",
@@ -311,6 +322,17 @@
       "tags": []
     },
     {
+      "id": "n2qav8",
+      "title": "Stepanov's biggest blunder? The curious case of adjacent difference",
+      "description": "Score: 47 | Comments: 10 | Posted by signa11",
+      "url": "https://mmapped.blog/posts/43-stepanovs-biggest-blunder",
+      "publishedAt": "2025-08-21T11:30:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "signa11",
+      "tags": []
+    },
+    {
       "id": "2jgwdh",
       "title": "Mark Zuckerberg freezes AI hiring amid bubble fears",
       "description": "Score: 720 | Comments: 766 | Posted by pera",
@@ -352,6 +374,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "edward",
+      "tags": []
+    },
+    {
+      "id": "tpv0pj",
+      "title": "The two versions of Parquet",
+      "description": "Score: 154 | Comments: 34 | Posted by tanelpoder",
+      "url": "https://www.jeronimo.dev/the-two-versions-of-parquet/",
+      "publishedAt": "2025-08-21T09:34:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tanelpoder",
+      "tags": []
+    },
+    {
+      "id": "jqxl3e",
+      "title": "My ZIP isn't your ZIP: Identifying and exploiting semantic gaps between parsers",
+      "description": "Score: 54 | Comments: 19 | Posted by layer8",
+      "url": "https://www.usenix.org/conference/usenixsecurity25/presentation/you",
+      "publishedAt": "2025-08-21T08:58:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "layer8",
       "tags": []
     },
     {

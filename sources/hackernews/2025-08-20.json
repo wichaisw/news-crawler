@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "m8vdiq",
+      "title": "Burner Phone 101",
+      "description": "Score: 321 | Comments: 127 | Posted by CharlesW",
+      "url": "https://rebeccawilliams.info/burner-phone-101/",
+      "publishedAt": "2025-08-20T23:25:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "CharlesW",
+      "tags": []
+    },
+    {
       "id": "bamnnn",
       "title": "SimpleIDE",
       "description": "Score: 52 | Comments: 24 | Posted by impendingchange",
@@ -55,6 +66,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "sammycage",
+      "tags": []
+    },
+    {
+      "id": "hie6ia",
+      "title": "Claim: GPT-5-pro can prove new interesting mathematics",
+      "description": "Score: 136 | Comments: 89 | Posted by marcuschong",
+      "url": "https://twitter.com/SebastienBubeck/status/1958198661139009862",
+      "publishedAt": "2025-08-20T19:42:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "marcuschong",
       "tags": []
     },
     {

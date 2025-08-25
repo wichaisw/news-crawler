@@ -1,0 +1,83 @@
+{
+  "date": "2025-08-25",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "gw83x2",
+      "title": "Bro, ban me at the IP level if you don't like me",
+      "description": "Score: 89 | Comments: 25 | Posted by classichasclass",
+      "url": "https://boston.conman.org/2025/08/21.1",
+      "publishedAt": "2025-08-25T04:23:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "classichasclass",
+      "tags": []
+    },
+    {
+      "id": "s1cnr0",
+      "title": "Git-Annex",
+      "description": "Score: 37 | Comments: 7 | Posted by keepamovin",
+      "url": "https://git-annex.branchable.com/",
+      "publishedAt": "2025-08-25T04:18:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "keepamovin",
+      "tags": []
+    },
+    {
+      "id": "iqwz92",
+      "title": "WordPress Login Security with Fail2ban",
+      "description": "Score: 7 | Comments: 0 | Posted by bubblebeard",
+      "url": "https://joshtronic.com/2025/08/03/wordpress-login-security-fail2ban/",
+      "publishedAt": "2025-08-25T04:10:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bubblebeard",
+      "tags": []
+    },
+    {
+      "id": "nd5uk2",
+      "title": "Mario 64 wastes so much memory",
+      "description": "Score: 5 | Comments: 0 | Posted by todsacerdoti",
+      "url": "https://www.youtube.com/watch?v=oZcbgNdWL7w",
+      "publishedAt": "2025-08-25T04:01:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "czj3rs",
+      "title": "The Unix-Haters Handbook (1994) [pdf]",
+      "description": "Score: 26 | Comments: 3 | Posted by oliverkwebb",
+      "url": "https://simson.net/ref/ugh.pdf",
+      "publishedAt": "2025-08-25T00:46:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "oliverkwebb",
+      "tags": []
+    },
+    {
+      "id": "z16zt6",
+      "title": "The Cowboy of Generic Drugs",
+      "description": "Score: 9 | Comments: 0 | Posted by quadrin",
+      "url": "https://www.alexkesin.com/p/the-cowboy-of-generic-drugs",
+      "publishedAt": "2025-08-25T00:25:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "quadrin",
+      "tags": []
+    },
+    {
+      "id": "zeit3m",
+      "title": "Prison isn’t set up for today’s tech so we have to do legal work the old way",
+      "description": "Score: 89 | Comments: 59 | Posted by danso",
+      "url": "https://prisonjournalismproject.org/2025/08/19/prisons-outdated-technology-hurts-our-chances-at-freedom/",
+      "publishedAt": "2025-08-25T00:10:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "danso",
+      "tags": []
+    }
+  ]
+}
