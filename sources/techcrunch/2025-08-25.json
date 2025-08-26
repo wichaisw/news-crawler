@@ -1,0 +1,182 @@
+{
+  "date": "2025-08-25",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3039715",
+      "title": "Tesla could have avoided that $242.5M Autopilot verdict, filings show",
+      "description": "Instead, a jury awarded plaintiffs $242.5 million in compensatory and punitive damages.",
+      "url": "https://techcrunch.com/2025/08/25/tesla-could-have-avoided-that-242-5m-autopilot-verdict-filings-show/",
+      "publishedAt": "2025-08-25T23:32:47.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Kirsten Korosec",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3039700",
+      "title": "a16z spends $1.49M in Washington lobbying, while rivals mostly sit out",
+      "description": "Venture giant Andreessen Horowitz is burning cash to shape policy on the Hill.",
+      "url": "https://techcrunch.com/2025/08/25/a16z-spends-1-49m-in-washington-lobbying-while-rivals-mostly-sit-out/",
+      "publishedAt": "2025-08-25T23:17:27.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Aria Alamalhodaei",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3037719",
+      "title": "Road to Battlefield: Central Eurasia’s largest startup competition in history sends four winners to TechCrunch Startup Battlefield",
+      "description": "The startup ecosystem in Central Eurasia is having its moment. What started as 485 applications from across 27 countries has culminated in the",
+      "url": "https://techcrunch.com/2025/08/25/road-to-battlefield-central-eurasias-largest-startup-competition-in-history-sends-four-winners-to-techcrunch-startup-battlefield/",
+      "publishedAt": "2025-08-25T22:27:59.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Cindy Zackney",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3039439",
+      "title": "Next set of VC judges locked in for Startup Battlefield 200 at TechCrunch Disrupt 2025",
+      "description": "The Startup Battlefield 2025 judging panel is getting even stronger. Our first wave of VCs brought serious firepower, and now we’re adding more top",
+      "url": "https://techcrunch.com/2025/08/25/next-batch-of-startup-battlefield-200-judges-revealed/",
+      "publishedAt": "2025-08-25T21:18:48.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "TechCrunch Events",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3039532",
+      "title": "AI sycophancy isn’t just a quirk, experts consider it a ‘dark pattern’ to turn users into profit",
+      "description": "Experts say that many of the AI industry’s design decisions are likely to fuel episodes of AI psychosis. Many raised concerns about several",
+      "url": "https://techcrunch.com/2025/08/25/ai-sycophancy-isnt-just-a-quirk-experts-consider-it-a-dark-pattern-to-turn-users-into-profit/",
+      "publishedAt": "2025-08-25T20:50:31.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Rebecca Bellan",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3039497",
+      "title": "Bounce launches a service for moving accounts between Bluesky and Mastodon",
+      "description": "Bounce publicly debuts a tool that will let you move your account between open social networks like Bluesky and Mastodon.",
+      "url": "https://techcrunch.com/2025/08/25/bounce-launches-a-service-for-moving-accounts-between-bluesky-and-mastodon/",
+      "publishedAt": "2025-08-25T19:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sarah Perez",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3039620",
+      "title": "Google will require developer verification for Android apps outside the Play Store",
+      "description": "Google will ask all Android developers to verify their identity starting next year.",
+      "url": "https://techcrunch.com/2025/08/25/google-will-require-developer-verification-for-android-apps-outside-the-play-store/",
+      "publishedAt": "2025-08-25T18:23:12.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sarah Perez",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3039629",
+      "title": "NotebookLM’s Video Overviews feature now supports 80 languages",
+      "description": "NotebookLM’s Video Overviews now supports 80 languages, including French and Spanish.",
+      "url": "https://techcrunch.com/2025/08/25/notebooklms-video-overview-feature-now-supports-80-languages/",
+      "publishedAt": "2025-08-25T18:17:57.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lauren Forristal",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3039560",
+      "title": "Elon Musk’s xAI sues Apple and OpenAI, alleging anticompetitive collusion",
+      "description": "According to Musk, Apple and OpenAI are colluding to stifle competition from other AI companies.",
+      "url": "https://techcrunch.com/2025/08/25/elon-musks-xai-sues-apple-and-openai-alleging-anticompetitive-collusion/",
+      "publishedAt": "2025-08-25T17:30:38.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Amanda Silberling",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3039576",
+      "title": "A new security flaw in TheTruthSpy phone spyware is putting victims at risk",
+      "description": "Exclusive: Hackers can take over the accounts of TheTruthSpy spyware customers, putting their victims' private phone data at risk thanks to a new",
+      "url": "https://techcrunch.com/2025/08/25/a-new-security-flaw-in-thetruthspy-phone-spyware-is-putting-victims-at-risk/",
+      "publishedAt": "2025-08-25T17:27:26.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Zack Whittaker, Lorenzo Franceschi-Bicchierai",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3039525",
+      "title": "Tech founder throws hat in California governor’s race",
+      "description": "Ethan Agarwal, who co-founded fintech startup The Coterie, says he's running for California governor.",
+      "url": "https://techcrunch.com/2025/08/25/tech-founder-throws-hat-in-california-governors-race/",
+      "publishedAt": "2025-08-25T17:05:22.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3039501",
+      "title": "Silicon Valley is pouring millions into pro-AI PACs to sway midterms",
+      "description": "The new pro-AI super-PAC network dubbed Leading the Future aims to use campaign donations and digital ads to advocate for favorable AI regulation and",
+      "url": "https://techcrunch.com/2025/08/25/silicon-valley-is-pouring-millions-into-pro-ai-pacs-to-sway-midterms/",
+      "publishedAt": "2025-08-25T15:11:43.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Rebecca Bellan",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3038522",
+      "title": "Volunteer opportunities still open for TechCrunch Disrupt 2025",
+      "description": "Whether you want to launch your own startup, build your event chops, or get inspired by real traction stories, volunteering at TechCrunch Disrupt",
+      "url": "https://techcrunch.com/2025/08/25/want-to-attend-techcrunch-disrupt-2025-for-free-volunteer-but-the-clocks-ticking/",
+      "publishedAt": "2025-08-25T15:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "TechCrunch Events",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3039264",
+      "title": "Robomart unveils new delivery robot with $3 flat fee to challenge DoorDash, Uber Eats",
+      "description": "Robomart's RM5 autonomous delivery robot can carry up to 50 pounds and deliver multiple customer orders at once.",
+      "url": "https://techcrunch.com/2025/08/25/robomart-unveils-new-delivery-robot-with-3-flat-fee-to-challenge-doordash-uber-eats/",
+      "publishedAt": "2025-08-25T15:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Rebecca Szkutak",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3039294",
+      "title": "Yottar wants to help energy users find capacity on the electrical grid",
+      "description": "The startup maps utility assets and collects data on electricity demand, which helps customers find locations ripe for upgrades or new equipment.",
+      "url": "https://techcrunch.com/2025/08/25/yottar-wants-to-help-energy-users-find-capacity-on-the-electrical-grid/",
+      "publishedAt": "2025-08-25T14:27:08.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Tim De Chant",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3039379",
+      "title": "Apple might opt for a curved glass design for 20th anniversary iPhone",
+      "description": "Apple is likely to debut a new curved glass design for the 20th anniversary iPhone in 2027.",
+      "url": "https://techcrunch.com/2025/08/25/apple-might-opt-for-a-curved-glassed-design-for-20th-anniversary-iphone/",
+      "publishedAt": "2025-08-25T14:18:39.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Ivan Mehta",
+      "tags": []
+    }
+  ]
+}

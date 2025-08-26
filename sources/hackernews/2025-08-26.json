@@ -1,0 +1,116 @@
+{
+  "date": "2025-08-26",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "k2sg07",
+      "title": "macOS dotfiles should not go in –/Library/Application Supportbecca.ooo",
+      "description": "Score: 67 | Comments: 20 | Posted by zdw",
+      "url": "https://becca.ooo/blog/macos-dotfiles/",
+      "publishedAt": "2025-08-26T05:09:22.786Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "k2sg07",
+      "title": "macOS dotfiles should not go in –/Library/Application Support",
+      "description": "Score: 68 | Comments: 22 | Posted by zdw",
+      "url": "https://becca.ooo/blog/macos-dotfiles/",
+      "publishedAt": "2025-08-26T04:49:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "jpba9y",
+      "title": "Multi-Path TCP: revolutionizing connectivity, one path at a time",
+      "description": "Score: 14 | Comments: 2 | Posted by signa11",
+      "url": "https://blog.cloudflare.com/multi-path-tcp-revolutionizing-connectivity-one-path-at-a-time/",
+      "publishedAt": "2025-08-26T04:48:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "signa11",
+      "tags": []
+    },
+    {
+      "id": "yhxwzz",
+      "title": "Will Smith's concert crowds are real, but AI is blurring the lines",
+      "description": "Score: 17 | Comments: 2 | Posted by jay_kyburz",
+      "url": "https://waxy.org/2025/08/will-smiths-concert-crowds-were-real-but-ai-is-blurring-the-lines/",
+      "publishedAt": "2025-08-26T04:11:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jay_kyburz",
+      "tags": []
+    },
+    {
+      "id": "l0i0g7",
+      "title": "The CTO Was ChatGPT",
+      "description": "Score: 25 | Comments: 7 | Posted by aldidoanta",
+      "url": "https://ehandbook.com/the-cto-was-chatgpt-63606f7056ef",
+      "publishedAt": "2025-08-26T02:06:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "aldidoanta",
+      "tags": []
+    },
+    {
+      "id": "1g42th",
+      "title": "Apple vs. Facebook Is Kayfabe",
+      "description": "Score: 53 | Comments: 14 | Posted by pchristensen",
+      "url": "https://infrequently.org/2025/08/apple-vs-fb-kayfabe/",
+      "publishedAt": "2025-08-26T01:37:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pchristensen",
+      "tags": []
+    },
+    {
+      "id": "4ey4tb",
+      "title": "The Limits of NTP Accuracy on Linux",
+      "description": "Score: 65 | Comments: 14 | Posted by signa11",
+      "url": "https://scottstuff.net/posts/2025/05/19/ntp-limits/",
+      "publishedAt": "2025-08-26T01:02:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "signa11",
+      "tags": []
+    },
+    {
+      "id": "bsw5ik",
+      "title": "Climbing catfish filmed scaling waterfalls",
+      "description": "Score: 58 | Comments: 1 | Posted by MaysonL",
+      "url": "https://www.science.org/content/article/thousands-climbing-catfish-filmed-scaling-waterfalls",
+      "publishedAt": "2025-08-26T00:37:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "MaysonL",
+      "tags": []
+    },
+    {
+      "id": "poq3yf",
+      "title": "macOS 26 Tahoe's Dead Canary Utility App Icons",
+      "description": "Score: 231 | Comments: 88 | Posted by Bogdanp",
+      "url": "https://daringfireball.net/2025/08/macos_26_tahoes_dead_canary_utility_app_icons",
+      "publishedAt": "2025-08-26T00:03:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Bogdanp",
+      "tags": []
+    },
+    {
+      "id": "7yetd8",
+      "title": "Australia Post halts most parcels to US as tariff chaos hits global carriers",
+      "description": "Score: 41 | Comments: 3 | Posted by Gaishan",
+      "url": "https://www.abc.net.au/news/2025-08-26/australia-post-commercial-shipping-suspension-us-tariffs/105696336",
+      "publishedAt": "2025-08-26T00:00:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Gaishan",
+      "tags": []
+    }
+  ]
+}

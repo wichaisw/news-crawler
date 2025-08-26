@@ -201,6 +201,17 @@
       "tags": []
     },
     {
+      "id": "s7ll1j",
+      "title": "Playing every game of Wordle simultaneously",
+      "description": "Score: 58 | Comments: 20 | Posted by chriskw",
+      "url": "https://chriskw.xyz/2025/08/24/Hyper-Wordle/",
+      "publishedAt": "2025-08-24T15:34:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "chriskw",
+      "tags": []
+    },
+    {
       "id": "cqt2d1",
       "title": "Comet AI browser can get prompt injected from any site, drain your bank account",
       "description": "Score: 520 | Comments: 178 | Posted by helloplanets",
@@ -267,11 +278,77 @@
       "tags": []
     },
     {
+      "id": "jtw1l1",
+      "title": "The Annotated Transformer (2022)",
+      "description": "Score: 125 | Comments: 11 | Posted by subset",
+      "url": "https://nlp.seas.harvard.edu/annotated-transformer/",
+      "publishedAt": "2025-08-24T09:58:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "subset",
+      "tags": []
+    },
+    {
+      "id": "1ucp9h",
+      "title": "When a Bug Saved the Company",
+      "description": "Score: 37 | Comments: 7 | Posted by ingve",
+      "url": "https://weblog.rogueamoeba.com/2025/08/21/when-a-bug-saved-the-company/",
+      "publishedAt": "2025-08-24T09:55:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingve",
+      "tags": []
+    },
+    {
+      "id": "yg0muf",
+      "title": "A visual introduction to big O notation",
+      "description": "Score: 428 | Comments: 135 | Posted by samwho",
+      "url": "https://samwho.dev/big-o/",
+      "publishedAt": "2025-08-24T07:39:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "samwho",
+      "tags": []
+    },
+    {
+      "id": "s9nyud",
+      "title": "DeepWiki: Understand Any Codebase",
+      "description": "Score: 139 | Comments: 21 | Posted by childishnemo",
+      "url": "https://www.aitidbits.ai/p/deepwiki",
+      "publishedAt": "2025-08-24T07:23:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "childishnemo",
+      "tags": []
+    },
+    {
+      "id": "g0ol2f",
+      "title": "How to Fix Your Context",
+      "description": "Score: 75 | Comments: 22 | Posted by itzlambda",
+      "url": "https://www.dbreunig.com/2025/06/26/how-to-fix-your-context.html",
+      "publishedAt": "2025-08-24T07:09:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "itzlambda",
+      "tags": []
+    },
+    {
       "id": "2mr2dy",
       "title": "Seed: Interactive software environment based on Common Lisp",
       "description": "Score: 109 | Comments: 21 | Posted by todsacerdoti",
       "url": "https://github.com/phantomics/seed",
       "publishedAt": "2025-08-24T06:57:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "i00c4v",
+      "title": "Neural Nets vs. Cellular Automata",
+      "description": "Score: 25 | Comments: 1 | Posted by todsacerdoti",
+      "url": "https://www.nets-vs-automata.net/",
+      "publishedAt": "2025-08-24T06:39:01.000Z",
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "todsacerdoti",
@@ -289,6 +366,17 @@
       "tags": []
     },
     {
+      "id": "xscm7",
+      "title": "Turning a Decommissioned iPhone into a UniFi Protect Camera",
+      "description": "Score: 78 | Comments: 32 | Posted by ingve",
+      "url": "https://www.caseyliss.com/2025/8/15/a-rube-goldberg-camera",
+      "publishedAt": "2025-08-24T06:13:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingve",
+      "tags": []
+    },
+    {
       "id": "eb4igc",
       "title": "It is worth it to buy the fast CPU",
       "description": "Score: 227 | Comments: 411 | Posted by ingve",
@@ -297,6 +385,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ingve",
+      "tags": []
+    },
+    {
+      "id": "fer4i9",
+      "title": "Mob Programming (2018)",
+      "description": "Score: 15 | Comments: 15 | Posted by ustad",
+      "url": "https://mobprogramming.org/",
+      "publishedAt": "2025-08-24T05:45:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ustad",
+      "tags": []
+    },
+    {
+      "id": "opou0p",
+      "title": "How to make things slower so they go faster",
+      "description": "Score: 114 | Comments: 28 | Posted by neehao",
+      "url": "https://www.gojiberries.io/how-to-make-things-slower-so-they-go-faster-a-jitter-design-manual/",
+      "publishedAt": "2025-08-24T05:10:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "neehao",
       "tags": []
     },
     {
