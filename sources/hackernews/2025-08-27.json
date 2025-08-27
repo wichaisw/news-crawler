@@ -1,0 +1,72 @@
+{
+  "date": "2025-08-27",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "82t67m",
+      "title": "Get Ready for the End of Fed Independence",
+      "description": "Score: 5 | Comments: 1 | Posted by JumpCrisscross",
+      "url": "https://www.wsj.com/economy/central-banking/get-ready-for-the-end-of-fed-independence-5a52a824",
+      "publishedAt": "2025-08-27T05:35:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "JumpCrisscross",
+      "tags": []
+    },
+    {
+      "id": "kybvri",
+      "title": "Uncomfortable Questions About Android Developer Verificationcommonsware.com",
+      "description": "Score: 57 | Comments: 7 | Posted by ingve",
+      "url": "https://commonsware.com/blog/2025/08/26/uncomfortable-questions-android-developer-verification.html",
+      "publishedAt": "2025-08-27T05:15:57.959Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingve",
+      "tags": []
+    },
+    {
+      "id": "kybvri",
+      "title": "Uncomfortable Questions About Android Developer Verification",
+      "description": "Score: 58 | Comments: 7 | Posted by ingve",
+      "url": "https://commonsware.com/blog/2025/08/26/uncomfortable-questions-android-developer-verification.html",
+      "publishedAt": "2025-08-27T05:14:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingve",
+      "tags": []
+    },
+    {
+      "id": "eqegnt",
+      "title": "AI coding made me faster, but I can't code to music anymore",
+      "description": "Score: 5 | Comments: 0 | Posted by _praf",
+      "url": "https://www.praf.me/ai-coding",
+      "publishedAt": "2025-08-27T05:10:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "_praf",
+      "tags": []
+    },
+    {
+      "id": "mskfz3",
+      "title": "Show HN: Regolith – Regex library that prevents ReDoS CVEs in TypeScript",
+      "description": "Score: 16 | Comments: 15 | Posted by roggenbuck",
+      "url": "https://github.com/JakeRoggenbuck/regolith",
+      "publishedAt": "2025-08-27T02:54:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "roggenbuck",
+      "tags": []
+    },
+    {
+      "id": "rknn79",
+      "title": "Dissecting the Apple M1 GPU, the end",
+      "description": "Score: 296 | Comments: 52 | Posted by alsetmusic",
+      "url": "https://rosenzweig.io/blog/asahi-gpu-part-n.html",
+      "publishedAt": "2025-08-27T01:44:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "alsetmusic",
+      "tags": []
+    }
+  ]
+}

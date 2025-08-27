@@ -80,6 +80,17 @@
       "tags": []
     },
     {
+      "id": "3fio5m",
+      "title": "Reverse Engineered Raspberry Pi Compute Module 5",
+      "description": "Score: 8 | Comments: 1 | Posted by _Microft",
+      "url": "https://github.com/schlae/cm5-reveng",
+      "publishedAt": "2025-08-24T20:34:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "_Microft",
+      "tags": []
+    },
+    {
       "id": "xzhvfi",
       "title": "Looking back at my transition from Windows to Linux",
       "description": "Score: 100 | Comments: 144 | Posted by trinsic2",
@@ -146,6 +157,17 @@
       "tags": []
     },
     {
+      "id": "lm0esd",
+      "title": "Chinese astronauts make rocket fuel and oxygen in space",
+      "description": "Score: 187 | Comments: 76 | Posted by Teever",
+      "url": "https://www.livescience.com/space/space-exploration/chinese-astronauts-make-rocket-fuel-and-oxygen-in-space-using-1st-of-its-kind-artificial-photosynthesis",
+      "publishedAt": "2025-08-24T17:54:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Teever",
+      "tags": []
+    },
+    {
       "id": "37lpd1",
       "title": "Bring Back the Blue-Book Exam",
       "description": "Score: 75 | Comments: 107 | Posted by diodorus",
@@ -154,6 +176,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "diodorus",
+      "tags": []
+    },
+    {
+      "id": "cricdq",
+      "title": "China's Guowang megaconstellation is more than another version of Starlink",
+      "description": "Score: 48 | Comments: 17 | Posted by rbanffy",
+      "url": "https://arstechnica.com/space/2025/08/china-may-have-taken-an-early-lead-in-the-race-for-a-military-megaconstellation/",
+      "publishedAt": "2025-08-24T17:43:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rbanffy",
       "tags": []
     },
     {
@@ -297,6 +330,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ingve",
+      "tags": []
+    },
+    {
+      "id": "4zuf5u",
+      "title": "Neuralink 'Participant 1' says his life has changed",
+      "description": "Score: 240 | Comments: 279 | Posted by danielmorozoff",
+      "url": "https://fortune.com/2025/08/23/neuralink-participant-1-noland-arbaugh-18-months-post-surgery-life-changed-elon-musk/",
+      "publishedAt": "2025-08-24T09:12:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "danielmorozoff",
       "tags": []
     },
     {
@@ -528,6 +572,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "vincirufus",
+      "tags": []
+    },
+    {
+      "id": "khrph7",
+      "title": "Integer continued fractions for complex numbers",
+      "description": "Score: 27 | Comments: 1 | Posted by bikenaga",
+      "url": "https://arxiv.org/abs/2508.15078",
+      "publishedAt": "2025-08-24T00:09:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bikenaga",
       "tags": []
     }
   ]

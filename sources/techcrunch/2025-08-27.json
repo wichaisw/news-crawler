@@ -1,0 +1,39 @@
+{
+  "date": "2025-08-27",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3040186",
+      "title": "SpaceX notches major wins during tenth Starship test",
+      "description": "SpaceX notched some new wins with the tenth Starship test flight.",
+      "url": "https://techcrunch.com/2025/08/26/spacex-notches-major-wins-during-tenth-starship-test/",
+      "publishedAt": "2025-08-27T01:25:37.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Aria Alamalhodaei",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3040176",
+      "title": "Assort Health nabs $50M to automate patient phone calls, sources say",
+      "description": "The startup, now valued at $750 million, is one of three that recently raised funding to use AI agents for helping healthcare practices answer",
+      "url": "https://techcrunch.com/2025/08/26/assort-health-nabs-50m-to-automate-patient-phone-calls-sources-say/",
+      "publishedAt": "2025-08-27T01:08:13.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Marina Temkin",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3040151",
+      "title": "Verily is closing its medical device program as Alphabet shifts more resources to AI",
+      "description": "Alphabet's life sciences arm Verily laid off staff and eliminated its entire devices program as AI and data infrastructure take center stage.",
+      "url": "https://techcrunch.com/2025/08/26/verily-is-closing-its-medical-device-program-as-alphabet-shifts-more-resources-to-ai/",
+      "publishedAt": "2025-08-27T00:14:19.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Connie Loizos",
+      "tags": []
+    }
+  ]
+}

@@ -135,6 +135,28 @@
       "tags": []
     },
     {
+      "id": "lasob6",
+      "title": "Cascata delle Marmore",
+      "description": "Score: 43 | Comments: 4 | Posted by arbuge",
+      "url": "https://en.wikipedia.org/wiki/Cascata_delle_Marmore",
+      "publishedAt": "2025-08-23T15:24:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "arbuge",
+      "tags": []
+    },
+    {
+      "id": "f7wa4b",
+      "title": "Light pollution prolongs avian activity",
+      "description": "Score: 50 | Comments: 5 | Posted by gmays",
+      "url": "https://gizmodo.com/birds-across-the-world-are-singing-all-day-for-a-disturbing-reason-2000646257",
+      "publishedAt": "2025-08-23T13:32:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gmays",
+      "tags": []
+    },
+    {
       "id": "70hipe",
       "title": "RFC 9839 and Bad Unicode",
       "description": "Score: 231 | Comments: 119 | Posted by Bogdanp",
@@ -187,6 +209,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "csj0q",
+      "title": "SpaCy: Industrial-Strength Natural Language Processing (NLP) in Python",
+      "description": "Score: 61 | Comments: 24 | Posted by marklit",
+      "url": "https://github.com/explosion/spaCy",
+      "publishedAt": "2025-08-23T09:07:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "marklit",
+      "tags": []
+    },
+    {
+      "id": "gntbbo",
+      "title": "How to store weather forecast data for fast time-series APIs (2022)",
+      "description": "Score: 20 | Comments: 1 | Posted by tcumulus",
+      "url": "https://openmeteo.substack.com/p/how-to-store-weather-forecast-data",
+      "publishedAt": "2025-08-23T08:19:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tcumulus",
       "tags": []
     },
     {
@@ -264,6 +308,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "Improvement",
+      "tags": []
+    },
+    {
+      "id": "wjzcja",
+      "title": "Eyecam",
+      "description": "Score: 20 | Comments: 3 | Posted by downboots",
+      "url": "https://marcteyssier.com/projects/eyecam/",
+      "publishedAt": "2025-08-23T01:12:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "downboots",
       "tags": []
     },
     {
