@@ -135,6 +135,17 @@
       "tags": []
     },
     {
+      "id": "yyfj0k",
+      "title": "A mini-book on AWS networking",
+      "description": "Score: 44 | Comments: 4 | Posted by crescit_eundo",
+      "url": "https://www.ducktyped.org/p/a-mini-book-on-aws-networking-introduction",
+      "publishedAt": "2025-08-25T19:15:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "crescit_eundo",
+      "tags": []
+    },
+    {
       "id": "7uycz0",
       "title": "Google will allow only apps from verified developers to be installed on Android9to5google.com",
       "description": "Score: 1406 | Comments: 1060 | Posted by kotaKat",
@@ -176,6 +187,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "giuliomagnifico",
+      "tags": []
+    },
+    {
+      "id": "4rsw48",
+      "title": "Will Bardenwerper on Baseball's Betrayal of Its Minor League Roots",
+      "description": "Score: 12 | Comments: 1 | Posted by PaulHoule",
+      "url": "https://lithub.com/will-bardenwerper-on-baseballs-betrayal-of-its-minor-league-roots/",
+      "publishedAt": "2025-08-25T17:46:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "PaulHoule",
       "tags": []
     },
     {
@@ -322,6 +344,17 @@
       "tags": []
     },
     {
+      "id": "erl9f1",
+      "title": "Areal, Are.na's new typeface",
+      "description": "Score: 120 | Comments: 78 | Posted by g0xA52A2A",
+      "url": "https://www.are.na/editorial/introducing-areal-are-nas-new-typeface",
+      "publishedAt": "2025-08-25T12:11:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "g0xA52A2A",
+      "tags": []
+    },
+    {
       "id": "fs5nba",
       "title": "Show HN: Diggit.dev – Git history for architecture archaeologists",
       "description": "Score: 32 | Comments: 6 | Posted by surprisetalk",
@@ -355,6 +388,50 @@
       "tags": []
     },
     {
+      "id": "cz80sb",
+      "title": "Partner with Product to pay down technical debt",
+      "description": "Score: 7 | Comments: 1 | Posted by kiyanwang",
+      "url": "https://dev.jimgrey.net/2025/08/19/unlocking-high-software-engineering-pace-partner-with-product-to-pay-down-technical-debt/",
+      "publishedAt": "2025-08-25T09:03:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kiyanwang",
+      "tags": []
+    },
+    {
+      "id": "bbq8ar",
+      "title": "What is this? The case for continually questioning our online experience",
+      "description": "Score: 3 | Comments: 0 | Posted by Gigamouse",
+      "url": "https://systems-souls-society.com/what-is-this-the-case-for-continually-questioning-our-online-experience/",
+      "publishedAt": "2025-08-25T08:43:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Gigamouse",
+      "tags": []
+    },
+    {
+      "id": "fuxe9n",
+      "title": "About Containers and VMs",
+      "description": "Score: 64 | Comments: 44 | Posted by Bogdanp",
+      "url": "https://linuxcontainers.org/incus/docs/main/explanation/containers_and_vms/",
+      "publishedAt": "2025-08-25T07:58:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Bogdanp",
+      "tags": []
+    },
+    {
+      "id": "ixyr4q",
+      "title": "On the screen, Libyans learned about everything but themselves (2021)",
+      "description": "Score: 19 | Comments: 1 | Posted by thomassmith65",
+      "url": "https://newlinesmag.com/argument/on-the-screen-libyans-learned-about-everything-but-themselves/",
+      "publishedAt": "2025-08-25T07:12:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thomassmith65",
+      "tags": []
+    },
+    {
       "id": "83opmd",
       "title": "What are OKLCH colors?",
       "description": "Score: 777 | Comments: 174 | Posted by tontonius",
@@ -363,6 +440,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "tontonius",
+      "tags": []
+    },
+    {
+      "id": "nq10n5",
+      "title": "Reverse-engineering the Globus INK, a Soviet spaceflight navigation computer (2023)",
+      "description": "Score: 18 | Comments: 3 | Posted by trymas",
+      "url": "https://www.righto.com/2023/03/reverse-engineering-globus-ink-soviet.html",
+      "publishedAt": "2025-08-25T05:55:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "trymas",
       "tags": []
     },
     {

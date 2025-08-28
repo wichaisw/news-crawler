@@ -1,0 +1,127 @@
+{
+  "date": "2025-08-28",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "h90gkw",
+      "title": "The Deletion of Docker.io/Bitnamibroadcom.com",
+      "description": "Score: 62 | Comments: 19 | Posted by zdkaster",
+      "url": "https://community.broadcom.com/tanzu/blogs/beltran-rueda-borrego/2025/08/18/how-to-prepare-for-the-bitnami-changes-coming-soon",
+      "publishedAt": "2025-08-28T05:09:17.842Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdkaster",
+      "tags": []
+    },
+    {
+      "id": "80v695",
+      "title": "Sci-Hub has been blocked in India",
+      "description": "Score: 54 | Comments: 8 | Posted by the-mitr",
+      "url": "https://sci-hub.se/sci-hub-blocked-india",
+      "publishedAt": "2025-08-28T04:47:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "the-mitr",
+      "tags": []
+    },
+    {
+      "id": "h90gkw",
+      "title": "The Deletion of Docker.io/Bitnami",
+      "description": "Score: 62 | Comments: 19 | Posted by zdkaster",
+      "url": "https://community.broadcom.com/tanzu/blogs/beltran-rueda-borrego/2025/08/18/how-to-prepare-for-the-bitnami-changes-coming-soon",
+      "publishedAt": "2025-08-28T04:37:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdkaster",
+      "tags": []
+    },
+    {
+      "id": "xaznz",
+      "title": "Certificates for Onion Services",
+      "description": "Score: 7 | Comments: 0 | Posted by keepamovin",
+      "url": "https://onionservices.torproject.org/research/proposals/usability/certificates/",
+      "publishedAt": "2025-08-28T03:05:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "keepamovin",
+      "tags": []
+    },
+    {
+      "id": "p62hwc",
+      "title": "Whispers from the Star – AI Interactive Story Game",
+      "description": "Score: 4 | Comments: 1 | Posted by LopRabbit",
+      "url": "https://wfts.anuttacon.com/",
+      "publishedAt": "2025-08-28T02:39:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "LopRabbit",
+      "tags": []
+    },
+    {
+      "id": "16ba6s",
+      "title": "The New York Times Mini Crossword Is No Longer Free to Play",
+      "description": "Score: 16 | Comments: 3 | Posted by josephcsible",
+      "url": "https://bookriot.com/the-new-york-times-mini-crossword-is-no-longer-free-to-play/",
+      "publishedAt": "2025-08-28T02:37:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "josephcsible",
+      "tags": []
+    },
+    {
+      "id": "vwhv1g",
+      "title": "Canaries in the Coal Mine? Recent Employment Effects of AI [pdf]",
+      "description": "Score: 41 | Comments: 26 | Posted by p1esk",
+      "url": "https://digitaleconomy.stanford.edu/wp-content/uploads/2025/08/Canaries_BrynjolfssonChandarChen.pdf",
+      "publishedAt": "2025-08-28T02:28:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "p1esk",
+      "tags": []
+    },
+    {
+      "id": "fundw1",
+      "title": "Bookmarks.txt is a concept of keeping URLs in plain text files",
+      "description": "Score: 48 | Comments: 28 | Posted by secwang",
+      "url": "https://github.com/soulim/bookmarks.txt",
+      "publishedAt": "2025-08-28T02:12:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "secwang",
+      "tags": []
+    },
+    {
+      "id": "krhepz",
+      "title": "Altered states of consciousness induced by breathwork accompanied by musicplos.org",
+      "description": "Score: 221 | Comments: 86 | Posted by gnabgib",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329411",
+      "publishedAt": "2025-08-28T01:09:17.843Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gnabgib",
+      "tags": []
+    },
+    {
+      "id": "rofpcx",
+      "title": "The National Design Studio is a scam",
+      "description": "Score: 179 | Comments: 47 | Posted by delaugust",
+      "url": "https://www.chrbutler.com/the-national-design-studio-is-a-scam",
+      "publishedAt": "2025-08-28T01:03:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "delaugust",
+      "tags": []
+    },
+    {
+      "id": "krhepz",
+      "title": "Altered states of consciousness induced by breathwork accompanied by music",
+      "description": "Score: 224 | Comments: 86 | Posted by gnabgib",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329411",
+      "publishedAt": "2025-08-28T00:22:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gnabgib",
+      "tags": []
+    }
+  ]
+}

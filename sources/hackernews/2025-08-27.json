@@ -3,6 +3,237 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "js4jtd",
+      "title": "Researchers find evidence of ChatGPT buzzwords turning up in everyday speech",
+      "description": "Score: 137 | Comments: 218 | Posted by giuliomagnifico",
+      "url": "https://news.fsu.edu/news/education-society/2025/08/26/on-screen-and-now-irl-fsu-researchers-find-evidence-suggesting-chatgpt-influences-how-we-speak/",
+      "publishedAt": "2025-08-27T21:27:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "giuliomagnifico",
+      "tags": []
+    },
+    {
+      "id": "br077v",
+      "title": "Google has eliminated 35% of managers overseeing small teams in past year",
+      "description": "Score: 379 | Comments: 167 | Posted by frays",
+      "url": "https://www.cnbc.com/2025/08/27/google-executive-says-company-has-cut-a-third-of-its-managers.html",
+      "publishedAt": "2025-08-27T21:16:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "frays",
+      "tags": []
+    },
+    {
+      "id": "xwqg85",
+      "title": "Yamanot.es: A music box of train station melodies from the JR Yamanote Line",
+      "description": "Score: 191 | Comments: 56 | Posted by zdw",
+      "url": "https://yamanot.es/",
+      "publishedAt": "2025-08-27T21:08:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "qe2fz",
+      "title": "Show HN: Meetup.com and eventribe alternative to small groups",
+      "description": "Score: 76 | Comments: 36 | Posted by orbanlevi",
+      "url": "https://github.com/polaroi8d/cactoide",
+      "publishedAt": "2025-08-27T20:53:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "orbanlevi",
+      "tags": []
+    },
+    {
+      "id": "2etbc4",
+      "title": "Beginning 1 September, we will need to geoblock Mississippi IPs",
+      "description": "Score: 185 | Comments: 221 | Posted by AndrewDucker",
+      "url": "https://dw-news.dreamwidth.org/44429.html",
+      "publishedAt": "2025-08-27T20:03:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "AndrewDucker",
+      "tags": []
+    },
+    {
+      "id": "v962zo",
+      "title": "Astrophysicists find no 'hair' on black holes",
+      "description": "Score: 48 | Comments: 45 | Posted by rolph",
+      "url": "https://www.quantamagazine.org/astrophysicists-find-no-hair-on-black-holes-20250827/",
+      "publishedAt": "2025-08-27T17:40:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rolph",
+      "tags": []
+    },
+    {
+      "id": "sa17cc",
+      "title": "A failure of security systems at PayPal is causing concern for German banks",
+      "description": "Score: 227 | Comments: 159 | Posted by tietjens",
+      "url": "https://www.nordbayern.de/news-in-english/paypal-security-systems-down-german-banks-block-payments-in-the-billions-1.14811187",
+      "publishedAt": "2025-08-27T17:28:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tietjens",
+      "tags": []
+    },
+    {
+      "id": "8ci1uk",
+      "title": "Typepad is shutting down",
+      "description": "Score: 156 | Comments: 74 | Posted by gmcharlt",
+      "url": "https://everything.typepad.com/blog/2025/08/typepad-is-shutting-down.html",
+      "publishedAt": "2025-08-27T16:28:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gmcharlt",
+      "tags": []
+    },
+    {
+      "id": "fgr8zo",
+      "title": "GMP damaging Zen 5 CPUs?",
+      "description": "Score: 179 | Comments: 146 | Posted by sequin",
+      "url": "https://gmplib.org/gmp-zen5",
+      "publishedAt": "2025-08-27T16:24:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sequin",
+      "tags": []
+    },
+    {
+      "id": "jtz8ed",
+      "title": "VIM Master",
+      "description": "Score: 252 | Comments: 87 | Posted by Fluffyrnz",
+      "url": "https://github.com/renzorlive/vimmaster",
+      "publishedAt": "2025-08-27T15:50:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Fluffyrnz",
+      "tags": []
+    },
+    {
+      "id": "khqx6b",
+      "title": "Unexpected productivity boost of Rust",
+      "description": "Score: 352 | Comments: 318 | Posted by bkolobara",
+      "url": "https://lubeno.dev/blog/rusts-productivity-curve",
+      "publishedAt": "2025-08-27T15:48:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bkolobara",
+      "tags": []
+    },
+    {
+      "id": "nbejvp",
+      "title": "Efficient Array Programming",
+      "description": "Score: 80 | Comments: 13 | Posted by todsacerdoti",
+      "url": "https://github.com/razetime/efficient-array-programming",
+      "publishedAt": "2025-08-27T15:16:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "nrkjgp",
+      "title": "What we find in the sewers",
+      "description": "Score: 60 | Comments: 27 | Posted by surprisetalk",
+      "url": "https://www.asimov.press/p/sewers",
+      "publishedAt": "2025-08-27T13:50:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
+      "id": "51bw8l",
+      "title": "Implementing Forth in Go and C",
+      "description": "Score: 143 | Comments: 20 | Posted by Bogdanp",
+      "url": "https://eli.thegreenplace.net/2025/implementing-forth-in-go-and-c/",
+      "publishedAt": "2025-08-27T13:19:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Bogdanp",
+      "tags": []
+    },
+    {
+      "id": "k5fns6",
+      "title": "Bring Your Own Agent to Zed – Featuring Gemini CLI",
+      "description": "Score: 146 | Comments: 39 | Posted by meetpateltech",
+      "url": "https://zed.dev/blog/bring-your-own-agent-to-zed",
+      "publishedAt": "2025-08-27T12:25:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "meetpateltech",
+      "tags": []
+    },
+    {
+      "id": "35bpe9",
+      "title": "How to slow down a program and why it can be useful",
+      "description": "Score: 144 | Comments: 52 | Posted by todsacerdoti",
+      "url": "https://stefan-marr.de/2025/08/how-to-slow-down-a-program/",
+      "publishedAt": "2025-08-27T11:38:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "w0lbet",
+      "title": "Monodraw",
+      "description": "Score: 562 | Comments: 173 | Posted by mafro",
+      "url": "https://monodraw.helftone.com/",
+      "publishedAt": "2025-08-27T10:54:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mafro",
+      "tags": []
+    },
+    {
+      "id": "m9zl8w",
+      "title": "The GitHub website is slow on Safari",
+      "description": "Score: 330 | Comments: 246 | Posted by talboren",
+      "url": "https://github.com/orgs/community/discussions/170758",
+      "publishedAt": "2025-08-27T09:43:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "talboren",
+      "tags": []
+    },
+    {
+      "id": "gyvg13",
+      "title": "WebLibre: The Privacy-Focused Browser",
+      "description": "Score: 109 | Comments: 79 | Posted by mnmalst",
+      "url": "https://docs.weblibre.eu/",
+      "publishedAt": "2025-08-27T08:38:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mnmalst",
+      "tags": []
+    },
+    {
+      "id": "hbh9we",
+      "title": "Malleable Software",
+      "description": "Score: 92 | Comments: 79 | Posted by tablet",
+      "url": "https://www.mdubakov.me/malleable-software-will-eat-the-saas-world/",
+      "publishedAt": "2025-08-27T08:04:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tablet",
+      "tags": []
+    },
+    {
+      "id": "wc3f62",
+      "title": "The Therac-25 Incident (2021)",
+      "description": "Score: 417 | Comments: 253 | Posted by lemper",
+      "url": "https://thedailywtf.com/articles/the-therac-25-incident",
+      "publishedAt": "2025-08-27T06:57:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lemper",
+      "tags": []
+    },
+    {
       "id": "82t67m",
       "title": "Get Ready for the End of Fed Independence",
       "description": "Score: 5 | Comments: 1 | Posted by JumpCrisscross",
@@ -66,6 +297,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "alsetmusic",
+      "tags": []
+    },
+    {
+      "id": "w04qia",
+      "title": "Malicious versions of Nx and some supporting plugins were published",
+      "description": "Score: 349 | Comments: 382 | Posted by longcat",
+      "url": "https://github.com/nrwl/nx/security/advisories/GHSA-cxm3-wv7p-598c",
+      "publishedAt": "2025-08-27T01:38:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "longcat",
       "tags": []
     }
   ]

@@ -36,6 +36,17 @@
       "tags": []
     },
     {
+      "id": "mq1z16",
+      "title": "Nvidia DGX Spark",
+      "description": "Score: 85 | Comments: 88 | Posted by janandonly",
+      "url": "https://www.nvidia.com/en-us/products/workstations/dgx-spark/",
+      "publishedAt": "2025-08-24T22:35:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "janandonly",
+      "tags": []
+    },
+    {
       "id": "q9xjtt",
       "title": "GNU cross-tools: musl-cross 313.3M",
       "description": "Score: 20 | Comments: 6 | Posted by 1vuio0pswjnm7",
@@ -135,6 +146,17 @@
       "tags": []
     },
     {
+      "id": "nrp46c",
+      "title": "Internet Access Providers Aren't Bound by DMCA Unmasking Subpoenas–In Re Cox",
+      "description": "Score: 132 | Comments: 16 | Posted by hn_acker",
+      "url": "https://blog.ericgoldman.org/archives/2025/08/internet-access-providers-arent-bound-by-dmca-unmasking-subpoenas-in-re-cox.htm",
+      "publishedAt": "2025-08-24T19:20:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hn_acker",
+      "tags": []
+    },
+    {
       "id": "9m7tcq",
       "title": "Everything I know about good API design",
       "description": "Score: 239 | Comments: 91 | Posted by ahamez",
@@ -198,6 +220,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "vgr-land",
+      "tags": []
+    },
+    {
+      "id": "wz00rc",
+      "title": "'Rocks as big as cars' are flying down the Dolomites",
+      "description": "Score: 101 | Comments: 53 | Posted by bookofjoe",
+      "url": "https://www.bbc.com/future/article/20250819-why-italys-beloved-ancient-monolith-is-falling",
+      "publishedAt": "2025-08-24T17:03:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bookofjoe",
       "tags": []
     },
     {
@@ -498,6 +531,17 @@
       "tags": []
     },
     {
+      "id": "fdz6oi",
+      "title": "You shouldn't salt a leech that's sucking your blood (2019)",
+      "description": "Score: 77 | Comments: 54 | Posted by pabs3",
+      "url": "https://www.cbc.ca/news/science/bloodsuckers-1.5361074",
+      "publishedAt": "2025-08-24T03:12:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pabs3",
+      "tags": []
+    },
+    {
       "id": "pnk6kj",
       "title": "Kinds of Programming People",
       "description": "Score: 8 | Comments: 1 | Posted by saulpw",
@@ -528,6 +572,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "khs3vc",
+      "title": "Using information theory to solve Mastermind",
+      "description": "Score: 99 | Comments: 32 | Posted by SchwKatze",
+      "url": "https://www.goranssongaspar.com/mastermind",
+      "publishedAt": "2025-08-24T02:54:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "SchwKatze",
       "tags": []
     },
     {

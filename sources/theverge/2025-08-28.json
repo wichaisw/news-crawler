@@ -1,0 +1,30 @@
+{
+  "date": "2025-08-28",
+  "source": "theverge",
+  "articles": [
+    {
+      "id": "r7t0o4",
+      "title": "Microsoft fires two employee protesters who occupied its president's office",
+      "description": "Microsoft has fired two employees that were involved in a sit-in protest in vice chair and president Brad Smith’s office. Software engineers Riki Fameli and Anna Hattle were both dismissed today, after being part of a group of seven protesters that managed to get inside Smith’s office in Building 34 yesterday. Microsoft was forced to temporarily [&#8230;]",
+      "url": "https://www.theverge.com/news/767251/microsoft-fires-two-employees-building-34-brad-smith-office-protest",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832915/STK095_MICROSOFT_2_CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2025-08-28T01:48:10.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Tom Warren",
+      "tags": []
+    },
+    {
+      "id": "f4e0xg",
+      "title": "FDA approves updated covid vaccines, but with severe new limits",
+      "description": "On Wednesday, the FDA approved the new round of COVID-19 vaccines from Pfizer, Moderna, and Novavax for use by seniors over the age of 65. But for anyone younger than that, the FDA approval only mentions  people who have “at least one underlying condition that puts them at high risk for severe outcomes from COVID-19.” [&#8230;]",
+      "url": "https://www.theverge.com/news/767208/fda-covid-vaccine-approval-rfk-cdc-director-susan-monarez",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/acastro_210309_1777_vaccine_0004.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2025-08-28T00:10:15.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Emma Roth",
+      "tags": []
+    }
+  ]
+}
