@@ -1,0 +1,138 @@
+{
+  "date": "2025-08-29",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "oi9nkf",
+      "title": "Strange CW Keyssites.google.com",
+      "description": "Score: 42 | Comments: 8 | Posted by austinallegro",
+      "url": "https://sites.google.com/site/oh6dccw/strangecwkeys",
+      "publishedAt": "2025-08-29T05:09:06.981Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "austinallegro",
+      "tags": []
+    },
+    {
+      "id": "i0no6f",
+      "title": "The \"996\" schedule of working 9am-9pm, 6 days a week comes to Silicon Valley",
+      "description": "Score: 10 | Comments: 0 | Posted by peachmaker",
+      "url": "https://fortune.com/2025/08/19/originated-in-china-the-996-schedule-of-working-9am-9pm-6-days-a-week-comes-to-silicon-valley/",
+      "publishedAt": "2025-08-29T04:40:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "peachmaker",
+      "tags": []
+    },
+    {
+      "id": "oi9nkf",
+      "title": "Strange CW Keys",
+      "description": "Score: 42 | Comments: 8 | Posted by austinallegro",
+      "url": "https://sites.google.com/site/oh6dccw/strangecwkeys",
+      "publishedAt": "2025-08-29T04:22:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "austinallegro",
+      "tags": []
+    },
+    {
+      "id": "5qa72b",
+      "title": "PSA: Libxslt is unmaintained and has 5 unpatched security bugs",
+      "description": "Score: 11 | Comments: 4 | Posted by burnt-resistor",
+      "url": "https://vuxml.freebsd.org/freebsd/b0a3466f-5efc-11f0-ae84-99047d0a6bcc.html",
+      "publishedAt": "2025-08-29T03:57:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "burnt-resistor",
+      "tags": []
+    },
+    {
+      "id": "eh3py4",
+      "title": "A power shortage could short-circuit Nvidia's rise",
+      "description": "Score: 7 | Comments: 0 | Posted by 1vuio0pswjnm7",
+      "url": "https://www.economist.com/business/2025/08/28/how-a-power-shortage-could-short-circuit-nvidias-rise",
+      "publishedAt": "2025-08-29T03:39:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "1vuio0pswjnm7",
+      "tags": []
+    },
+    {
+      "id": "mgxl6v",
+      "title": "People Are the Point",
+      "description": "Score: 14 | Comments: 3 | Posted by pabs3",
+      "url": "https://whatwelost.substack.com/p/people-are-the-point",
+      "publishedAt": "2025-08-29T03:36:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pabs3",
+      "tags": []
+    },
+    {
+      "id": "finlel",
+      "title": "A deep dive into Debian 13 /tmp: What's new, and what to do if you don't like itlowendbox.com",
+      "description": "Score: 65 | Comments: 26 | Posted by shaunpud",
+      "url": "https://lowendbox.com/blog/a-deep-dive-into-debian-13s-tmp-whats-new-and-what-to-do-if-you-dont-like-it/",
+      "publishedAt": "2025-08-29T03:09:06.984Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "shaunpud",
+      "tags": []
+    },
+    {
+      "id": "finlel",
+      "title": "A deep dive into Debian 13 /tmp: What's new, and what to do if you don't like it",
+      "description": "Score: 65 | Comments: 26 | Posted by shaunpud",
+      "url": "https://lowendbox.com/blog/a-deep-dive-into-debian-13s-tmp-whats-new-and-what-to-do-if-you-dont-like-it/",
+      "publishedAt": "2025-08-29T02:39:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "shaunpud",
+      "tags": []
+    },
+    {
+      "id": "hxmxsz",
+      "title": "Lucky 13: a look at Debian trixie",
+      "description": "Score: 42 | Comments: 0 | Posted by signa11",
+      "url": "https://lwn.net/Articles/1033474/",
+      "publishedAt": "2025-08-29T01:55:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "signa11",
+      "tags": []
+    },
+    {
+      "id": "q8ihsa",
+      "title": "Notes on Programming in C by Rob Pike",
+      "description": "Score: 9 | Comments: 1 | Posted by xelxebar",
+      "url": "https://www.lysator.liu.se/c/pikestyle.html",
+      "publishedAt": "2025-08-29T01:18:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "xelxebar",
+      "tags": []
+    },
+    {
+      "id": "3kfo68",
+      "title": "Claude Sonnet will ship in Xcodedeveloper.apple.com",
+      "description": "Score: 227 | Comments: 163 | Posted by zora_goron",
+      "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-26-release-notes",
+      "publishedAt": "2025-08-29T01:09:06.980Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zora_goron",
+      "tags": []
+    },
+    {
+      "id": "3kfo68",
+      "title": "Claude Sonnet will ship in Xcode",
+      "description": "Score: 227 | Comments: 163 | Posted by zora_goron",
+      "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-26-release-notes",
+      "publishedAt": "2025-08-29T00:44:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zora_goron",
+      "tags": []
+    }
+  ]
+}

@@ -245,6 +245,28 @@
       "tags": []
     },
     {
+      "id": "we7eeo",
+      "title": "TuneD is a system tuning service for Linux",
+      "description": "Score: 54 | Comments: 14 | Posted by tanelpoder",
+      "url": "https://tuned-project.org/",
+      "publishedAt": "2025-08-25T15:03:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tanelpoder",
+      "tags": []
+    },
+    {
+      "id": "nrkjgp",
+      "title": "What We Find in the Sewers",
+      "description": "Score: 8 | Comments: 2 | Posted by mailyk",
+      "url": "https://www.asimov.press/p/sewers",
+      "publishedAt": "2025-08-25T14:45:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mailyk",
+      "tags": []
+    },
+    {
       "id": "ct357e",
       "title": "Show HN: Base, an SQLite database editor for macOS",
       "description": "Score: 574 | Comments: 145 | Posted by __bb",
@@ -385,6 +407,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "wjSgoWPm5bWAhXB",
+      "tags": []
+    },
+    {
+      "id": "vr79vs",
+      "title": "Make any site multiplayer in a few lines. Serverless WebRTC matchmaking",
+      "description": "Score: 31 | Comments: 4 | Posted by haxiomic",
+      "url": "https://oxism.com/trystero/",
+      "publishedAt": "2025-08-25T09:48:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "haxiomic",
       "tags": []
     },
     {
