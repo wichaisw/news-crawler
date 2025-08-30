@@ -102,6 +102,17 @@
       "tags": []
     },
     {
+      "id": "259p7e",
+      "title": "I'm working on implementing a programming language all my own",
+      "description": "Score: 46 | Comments: 18 | Posted by ingve",
+      "url": "https://eli.li/to-the-surprise-of-literally-no-one-im-working-on-implementing-a-programming-language-all-my-own",
+      "publishedAt": "2025-08-27T16:24:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingve",
+      "tags": []
+    },
+    {
       "id": "fgr8zo",
       "title": "GMP damaging Zen 5 CPUs?",
       "description": "Score: 179 | Comments: 146 | Posted by sequin",
@@ -201,6 +212,28 @@
       "tags": []
     },
     {
+      "id": "6y86d9",
+      "title": "Delete tests",
+      "description": "Score: 57 | Comments: 37 | Posted by mooreds",
+      "url": "https://andre.arko.net/2025/06/30/you-should-delete-tests/",
+      "publishedAt": "2025-08-27T11:18:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mooreds",
+      "tags": []
+    },
+    {
+      "id": "ibjzmp",
+      "title": "Fixing an old .NET Core native library loading issue on Alpine",
+      "description": "Score: 60 | Comments: 19 | Posted by ingve",
+      "url": "https://andrewlock.net/fixing-an-old-dotnet-core-native-library-loading-issue-on-alpine/",
+      "publishedAt": "2025-08-27T10:59:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingve",
+      "tags": []
+    },
+    {
       "id": "w0lbet",
       "title": "Monodraw",
       "description": "Score: 562 | Comments: 173 | Posted by mafro",
@@ -212,6 +245,17 @@
       "tags": []
     },
     {
+      "id": "3ia590",
+      "title": "Lisp from Nothing, Second Edition",
+      "description": "Score: 217 | Comments: 47 | Posted by nils-m-holm",
+      "url": "http://t3x.org/lfn/index.html",
+      "publishedAt": "2025-08-27T09:50:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nils-m-holm",
+      "tags": []
+    },
+    {
       "id": "m9zl8w",
       "title": "The GitHub website is slow on Safari",
       "description": "Score: 330 | Comments: 246 | Posted by talboren",
@@ -220,6 +264,39 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "talboren",
+      "tags": []
+    },
+    {
+      "id": "imxklm",
+      "title": "What Does will-change In CSS Do?",
+      "description": "Score: 41 | Comments: 14 | Posted by ssernikk",
+      "url": "https://jakub.kr/components/will-change-in-css",
+      "publishedAt": "2025-08-27T09:07:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ssernikk",
+      "tags": []
+    },
+    {
+      "id": "tz185j",
+      "title": "This is my brain on leeches",
+      "description": "Score: 65 | Comments: 25 | Posted by aebtebeten",
+      "url": "https://todaythings.substack.com/p/this-is-my-brain-on-leeches",
+      "publishedAt": "2025-08-27T09:06:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "aebtebeten",
+      "tags": []
+    },
+    {
+      "id": "i5axo3",
+      "title": "Hermes 4",
+      "description": "Score: 120 | Comments: 70 | Posted by sibellavia",
+      "url": "https://hermes4.nousresearch.com/",
+      "publishedAt": "2025-08-27T08:58:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sibellavia",
       "tags": []
     },
     {
@@ -275,6 +352,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "matt_d",
+      "tags": []
+    },
+    {
+      "id": "rex8ys",
+      "title": "How do I get into the game industry",
+      "description": "Score: 146 | Comments: 103 | Posted by Michelangelo11",
+      "url": "https://garry.net/posts/how-do-i-get-into-the-game-industry",
+      "publishedAt": "2025-08-27T06:23:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Michelangelo11",
       "tags": []
     },
     {
@@ -352,6 +440,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "longcat",
+      "tags": []
+    },
+    {
+      "id": "6w3crc",
+      "title": "Acoustic Panels as Wall Coverings in Star Trek: The Next Generation",
+      "description": "Score: 50 | Comments: 4 | Posted by Kye",
+      "url": "https://www.ex-astris-scientia.org/database/acoustic-panels.htm",
+      "publishedAt": "2025-08-27T00:34:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Kye",
       "tags": []
     }
   ]

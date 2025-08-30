@@ -1,0 +1,94 @@
+{
+  "date": "2025-08-30",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "e0mgui",
+      "title": "Fun and Immersive Typing Game",
+      "description": "Score: 3 | Comments: 0 | Posted by martyhendricks",
+      "url": "https://keybara.io",
+      "publishedAt": "2025-08-30T04:05:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "martyhendricks",
+      "tags": []
+    },
+    {
+      "id": "4opo0z",
+      "title": "US Homeland Security chief reports breach at FEMA, fires 23 employees",
+      "description": "Score: 15 | Comments: 6 | Posted by clwg",
+      "url": "https://www.reuters.com/world/us/us-homeland-security-chief-reports-breach-fema-fires-23-employees-2025-08-29",
+      "publishedAt": "2025-08-30T03:52:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "clwg",
+      "tags": []
+    },
+    {
+      "id": "24a4i",
+      "title": "The fight against labeling long-term streaming rentals as \"purchases\" you \"buy\"",
+      "description": "Score: 14 | Comments: 0 | Posted by makeitdouble",
+      "url": "https://arstechnica.com/gadgets/2025/08/i-like-plaintiffs-chances-prime-video-back-in-court-over-using-the-word-buy/",
+      "publishedAt": "2025-08-30T03:47:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "makeitdouble",
+      "tags": []
+    },
+    {
+      "id": "nlaoev",
+      "title": "Show HN: Hacker News em dash user leaderboard pre-ChatGPT",
+      "description": "Score: 50 | Comments: 43 | Posted by tkgally",
+      "url": "https://www.gally.net/miscellaneous/hn-em-dash-user-leaderboard.html",
+      "publishedAt": "2025-08-30T03:40:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tkgally",
+      "tags": []
+    },
+    {
+      "id": "9mpd8c",
+      "title": "Accelerating life sciences research",
+      "description": "Score: 26 | Comments: 6 | Posted by oskarpearson",
+      "url": "https://openai.com/index/accelerating-life-sciences-research-with-retro-biosciences/",
+      "publishedAt": "2025-08-30T03:35:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "oskarpearson",
+      "tags": []
+    },
+    {
+      "id": "igt0zc",
+      "title": "SynthID – A tool to watermark and identify content generated through AI",
+      "description": "Score: 13 | Comments: 2 | Posted by jonbaer",
+      "url": "https://deepmind.google/science/synthid/",
+      "publishedAt": "2025-08-30T03:29:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jonbaer",
+      "tags": []
+    },
+    {
+      "id": "a2buit",
+      "title": "Why Romania excels in international Olympiads",
+      "description": "Score: 86 | Comments: 74 | Posted by collate",
+      "url": "https://www.palladiummag.com/2025/08/29/why-romania-excels-in-international-olympiads/",
+      "publishedAt": "2025-08-30T00:09:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "collate",
+      "tags": []
+    },
+    {
+      "id": "6y86d9",
+      "title": "Delete testsarko.net",
+      "description": "Score: 55 | Comments: 37 | Posted by mooreds",
+      "url": "https://andre.arko.net/2025/06/30/you-should-delete-tests/",
+      "publishedAt": "2025-08-30T00:07:36.154Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mooreds",
+      "tags": []
+    }
+  ]
+}

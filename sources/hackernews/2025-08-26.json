@@ -25,6 +25,17 @@
       "tags": []
     },
     {
+      "id": "s2mwey",
+      "title": "Trying to get error backtraces in Rust libraries right",
+      "description": "Score: 5 | Comments: 0 | Posted by emschwartz",
+      "url": "https://www.iroh.computer/blog/error-handling-in-iroh",
+      "publishedAt": "2025-08-26T22:02:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "emschwartz",
+      "tags": []
+    },
+    {
       "id": "d1z8ag",
       "title": "Proposal: AI Content Disclosure Header",
       "description": "Score: 62 | Comments: 44 | Posted by exprez135",
@@ -110,6 +121,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "freediver",
+      "tags": []
+    },
+    {
+      "id": "ths67c",
+      "title": "15-Fold increase in solar thermoelectric generator performance",
+      "description": "Score: 68 | Comments: 19 | Posted by bookofjoe",
+      "url": "https://www.nature.com/articles/s41377-025-01916-9",
+      "publishedAt": "2025-08-26T17:58:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bookofjoe",
       "tags": []
     },
     {
@@ -245,6 +267,17 @@
       "tags": []
     },
     {
+      "id": "nopktz",
+      "title": "Why You Should Be Using XSLT 3.0 (2017)",
+      "description": "Score: 46 | Comments: 25 | Posted by protomolecool",
+      "url": "https://www.xml.com/articles/2017/02/14/why-you-should-be-using-xslt-30/",
+      "publishedAt": "2025-08-26T13:07:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "protomolecool",
+      "tags": []
+    },
+    {
       "id": "eumdgi",
       "title": "The Relativity of Wrong (1988)",
       "description": "Score: 92 | Comments: 69 | Posted by speckx",
@@ -253,6 +286,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "speckx",
+      "tags": []
+    },
+    {
+      "id": "xztexw",
+      "title": "Reloading Classes in Python",
+      "description": "Score: 22 | Comments: 3 | Posted by apwheele",
+      "url": "https://andrewpwheeler.com/2025/08/26/reloading-classes-in-python-and-shared-borders/",
+      "publishedAt": "2025-08-26T11:12:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "apwheele",
       "tags": []
     },
     {
