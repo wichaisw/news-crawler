@@ -3,6 +3,28 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "147980 at https://www.blognone.com",
+      "title": "เป็น AI ก็ต้องล็อกอิน Cloudflare เปิดช่องทางให้ AI Agent แสดงตัวก่อนเข้าเว็บ",
+      "description": "เป็น AI ก็ต้องล็อกอิน Cloudflare เปิดช่องทางให้ AI Agent แสดงตัวก่อนเข้าเว็บ Body Cloudflare ประกาศแนวทาง signed agent เปิดทางให้ผู้ให้บริการ AI",
+      "url": "https://www.blognone.com/node/147980",
+      "publishedAt": "2025-08-30T17:34:35.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "147978 at https://www.blognone.com",
+      "title": "ลูกค้ารวยเรารวย NVIDIA บอก 39% ของรายได้ มาจากลูกค้าใหญ่ที่สุด 2 ราย",
+      "description": "ลูกค้ารวยเรารวย NVIDIA บอก 39% ของรายได้ มาจากลูกค้าใหญ่ที่สุด 2 ราย Body เก็บตกรายละเอียด งานแถลงผลประกอบการไตรมาส 2/25 ของ NVIDIA",
+      "url": "https://www.blognone.com/node/147978",
+      "publishedAt": "2025-08-30T07:27:31.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "147975 at https://www.blognone.com",
       "title": "Xcode 26 เพิ่มฟีเจอร์ AI ช่วยเขียนโค้ด รองรับ ChatGPT และ Claude",
       "description": "Xcode 26 เพิ่มฟีเจอร์ AI ช่วยเขียนโค้ด รองรับ ChatGPT และ Claude Body แอปเปิลออก Xcode 26 Beta 7 เตรียมรับระบบปฏิบัติการชุดใหม่ iOS 26, iPadOS 26,",

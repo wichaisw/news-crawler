@@ -1,0 +1,94 @@
+{
+  "date": "2025-08-31",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "ip541p",
+      "title": "Intermittent fasting correlated with increased risk of cardiovascular disease",
+      "description": "Score: 10 | Comments: 5 | Posted by 6LLvveMx2koXfwn",
+      "url": "https://www.bbc.com/news/articles/c0l6ye6xe12o",
+      "publishedAt": "2025-08-31T05:13:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "6LLvveMx2koXfwn",
+      "tags": []
+    },
+    {
+      "id": "o4ejed",
+      "title": "Sheafification – The optimal path to mathematical mastery",
+      "description": "Score: 15 | Comments: 9 | Posted by atomicnature",
+      "url": "https://sheafification.com/the-fast-track/",
+      "publishedAt": "2025-08-31T04:31:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "atomicnature",
+      "tags": []
+    },
+    {
+      "id": "em188y",
+      "title": "Josef Bacik Leaving Meta and Stepping Back from Kernel Development",
+      "description": "Score: 12 | Comments: 0 | Posted by Alupis",
+      "url": "https://www.phoronix.com/news/Josef-Bacik-Leaves-Meta",
+      "publishedAt": "2025-08-31T04:21:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Alupis",
+      "tags": []
+    },
+    {
+      "id": "jnv6uz",
+      "title": "Who makes money from open-source AI models?",
+      "description": "Score: 5 | Comments: 0 | Posted by indigodaddy",
+      "url": "https://blog.kilocode.ai/p/who-monetizes-open-source-ai-models",
+      "publishedAt": "2025-08-31T04:01:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "indigodaddy",
+      "tags": []
+    },
+    {
+      "id": "qh5053",
+      "title": "Red is a next-generation programming language strongly inspired by REBOL",
+      "description": "Score: 15 | Comments: 1 | Posted by Levitating",
+      "url": "https://github.com/red/red",
+      "publishedAt": "2025-08-31T03:14:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Levitating",
+      "tags": []
+    },
+    {
+      "id": "8dbs19",
+      "title": "Are people's bosses making them use AI tools?",
+      "description": "Score: 42 | Comments: 20 | Posted by soraminazuki",
+      "url": "https://piccalil.li/blog/are-peoples-bosses-really-making-them-use-ai/",
+      "publishedAt": "2025-08-31T02:47:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "soraminazuki",
+      "tags": []
+    },
+    {
+      "id": "2fgxz",
+      "title": "ETFs now hold more than $3.1T worth of just top US companies",
+      "description": "Score: 77 | Comments: 71 | Posted by GodelNumbering",
+      "url": "https://www.signalbloom.ai/etf/stats",
+      "publishedAt": "2025-08-31T01:31:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "GodelNumbering",
+      "tags": []
+    },
+    {
+      "id": "7g87y2",
+      "title": "Scottish brothers finish mammoth row across Pacific Ocean after 139 days",
+      "description": "Score: 61 | Comments: 19 | Posted by e2e4",
+      "url": "https://www.abc.net.au/news/2025-08-30/scottish-maclean-brothers-finish-pacific-ocean-row/105711488",
+      "publishedAt": "2025-08-31T00:51:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "e2e4",
+      "tags": []
+    }
+  ]
+}

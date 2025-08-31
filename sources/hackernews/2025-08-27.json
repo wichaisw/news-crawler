@@ -47,6 +47,17 @@
       "tags": []
     },
     {
+      "id": "z2m8oq",
+      "title": "Compositional Datalog on SQL: Relational Algebra of the Environment",
+      "description": "Score: 16 | Comments: 1 | Posted by philzook",
+      "url": "https://www.philipzucker.com/compose_datalog/",
+      "publishedAt": "2025-08-27T20:09:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "philzook",
+      "tags": []
+    },
+    {
       "id": "2etbc4",
       "title": "Beginning 1 September, we will need to geoblock Mississippi IPs",
       "description": "Score: 185 | Comments: 221 | Posted by AndrewDucker",
@@ -55,6 +66,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "AndrewDucker",
+      "tags": []
+    },
+    {
+      "id": "y7eqaj",
+      "title": "Andrew Ng says bottleneck in AI startups isn't coding – it's product management",
+      "description": "Score: 83 | Comments: 112 | Posted by cl42",
+      "url": "https://www.businessinsider.com/andrew-ng-product-management-bottleneck-coding-ai-startups-2025-8",
+      "publishedAt": "2025-08-27T19:43:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cl42",
       "tags": []
     },
     {
@@ -91,6 +113,17 @@
       "tags": []
     },
     {
+      "id": "ksqiay",
+      "title": "Can cheaper lasers handle short distances?",
+      "description": "Score: 35 | Comments: 7 | Posted by PaulHoule",
+      "url": "https://semiengineering.com/can-cheaper-lasers-handle-short-distances/",
+      "publishedAt": "2025-08-27T16:28:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "PaulHoule",
+      "tags": []
+    },
+    {
       "id": "8ci1uk",
       "title": "Typepad is shutting down",
       "description": "Score: 156 | Comments: 74 | Posted by gmcharlt",
@@ -99,6 +132,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "gmcharlt",
+      "tags": []
+    },
+    {
+      "id": "mmasex",
+      "title": "Spectrum – catching clojure.spec conform errors at compile time",
+      "description": "Score: 25 | Comments: 0 | Posted by alhazraed",
+      "url": "https://github.com/arohner/spectrum",
+      "publishedAt": "2025-08-27T16:28:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "alhazraed",
       "tags": []
     },
     {
@@ -121,6 +165,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "sequin",
+      "tags": []
+    },
+    {
+      "id": "ldxpqp",
+      "title": "The World Runs 20B Instances of Curl. Where's the Support?",
+      "description": "Score: 16 | Comments: 4 | Posted by CrankyBear",
+      "url": "https://thenewstack.io/the-world-runs-20-billion-instances-of-curl-wheres-the-support/",
+      "publishedAt": "2025-08-27T16:01:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "CrankyBear",
       "tags": []
     },
     {
@@ -179,6 +234,17 @@
       "tags": []
     },
     {
+      "id": "eaujan",
+      "title": "Show HN: I made an Animal Crossing style letter editor",
+      "description": "Score: 189 | Comments: 27 | Posted by IdreesInc",
+      "url": "https://acmail.idreesinc.com",
+      "publishedAt": "2025-08-27T13:18:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "IdreesInc",
+      "tags": []
+    },
+    {
       "id": "k5fns6",
       "title": "Bring Your Own Agent to Zed – Featuring Gemini CLI",
       "description": "Score: 146 | Comments: 39 | Posted by meetpateltech",
@@ -190,6 +256,17 @@
       "tags": []
     },
     {
+      "id": "wrpoe8",
+      "title": "Running our Docker registry on-prem with Harbor",
+      "description": "Score: 43 | Comments: 14 | Posted by airblade",
+      "url": "https://dev.37signals.com/running-our-docker-registry-on-prem-with-harbor/",
+      "publishedAt": "2025-08-27T12:10:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "airblade",
+      "tags": []
+    },
+    {
       "id": "k3qhvj",
       "title": "The King's Quarry: How Louis XVI Went from Hunter to Hunted",
       "description": "Score: 13 | Comments: 0 | Posted by crescit_eundo",
@@ -198,6 +275,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "crescit_eundo",
+      "tags": []
+    },
+    {
+      "id": "gzkdta",
+      "title": "Bi-directional accountability: A leadership shift most organizations avoid",
+      "description": "Score: 52 | Comments: 21 | Posted by todsacerdoti",
+      "url": "https://www.alnewkirk.com/bidirectional-accountability/",
+      "publishedAt": "2025-08-27T11:52:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
       "tags": []
     },
     {
@@ -220,6 +308,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mooreds",
+      "tags": []
+    },
+    {
+      "id": "uo0euk",
+      "title": "Pig lung transplanted into a human",
+      "description": "Score: 102 | Comments: 68 | Posted by signa11",
+      "url": "https://www.sciencealert.com/pig-lung-transplanted-into-a-human-in-major-scientific-first",
+      "publishedAt": "2025-08-27T11:00:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "signa11",
       "tags": []
     },
     {
@@ -333,6 +432,17 @@
       "tags": []
     },
     {
+      "id": "lp00gs",
+      "title": "Terminal sessions you can bookmark",
+      "description": "Score: 6 | Comments: 1 | Posted by imsnif",
+      "url": "https://poor.dev/blog/building-zellij-web-terminal/",
+      "publishedAt": "2025-08-27T07:16:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "imsnif",
+      "tags": []
+    },
+    {
       "id": "wc3f62",
       "title": "The Therac-25 Incident (2021)",
       "description": "Score: 417 | Comments: 253 | Posted by lemper",
@@ -407,6 +517,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "_praf",
+      "tags": []
+    },
+    {
+      "id": "ek012r",
+      "title": "SQL Design Patterns",
+      "description": "Score: 101 | Comments: 24 | Posted by mci",
+      "url": "https://vadimtropashko.wordpress.com/%e2%80%9csql-design-patterns%e2%80%9d-book/about/",
+      "publishedAt": "2025-08-27T04:59:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mci",
+      "tags": []
+    },
+    {
+      "id": "7h46d4",
+      "title": "A24's Empire of Auteurs",
+      "description": "Score: 66 | Comments: 36 | Posted by prismatic",
+      "url": "https://www.newyorker.com/magazine/2025/09/01/a24s-empire-of-auteurs",
+      "publishedAt": "2025-08-27T03:04:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "prismatic",
       "tags": []
     },
     {
