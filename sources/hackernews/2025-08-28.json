@@ -3,6 +3,28 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "f8xhie",
+      "title": "Ford and the Birth of the Model T",
+      "description": "Score: 21 | Comments: 5 | Posted by chmaynard",
+      "url": "https://www.construction-physics.com/p/ford-and-the-birth-of-the-model-t",
+      "publishedAt": "2025-08-28T23:52:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "chmaynard",
+      "tags": []
+    },
+    {
+      "id": "lgw1en",
+      "title": "Mainframe upgrade done with wire cutters (2010)",
+      "description": "Score: 10 | Comments: 0 | Posted by WorldPeas",
+      "url": "https://alt.folklore.computers.narkive.com/nZagiUHj/mainframe-upgrade-done-with-wire-cutters",
+      "publishedAt": "2025-08-28T23:30:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "WorldPeas",
+      "tags": []
+    },
+    {
       "id": "peyjxj",
       "title": "Python: The Documentary [video]",
       "description": "Score: 177 | Comments: 52 | Posted by chmaynard",
@@ -157,6 +179,17 @@
       "tags": []
     },
     {
+      "id": "gii5ts",
+      "title": "PEZ Robo Dispenser Using Arduino",
+      "description": "Score: 10 | Comments: 1 | Posted by austinallegro",
+      "url": "https://www.instructables.com/PEZ-Robo-Dispenser-Using-Arduino/",
+      "publishedAt": "2025-08-28T18:43:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "austinallegro",
+      "tags": []
+    },
+    {
       "id": "x2vemk",
       "title": "Web Bot Auth",
       "description": "Score: 49 | Comments: 47 | Posted by ananddtyagi",
@@ -212,6 +245,39 @@
       "tags": []
     },
     {
+      "id": "2tttst",
+      "title": "Pong Clock",
+      "description": "Score: 76 | Comments: 17 | Posted by donohoe",
+      "url": "https://bigjobby.com/pong/?v=2.0/",
+      "publishedAt": "2025-08-28T16:29:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "donohoe",
+      "tags": []
+    },
+    {
+      "id": "s01moz",
+      "title": "Vibe coding as a coding veteran: from 8-bit assembly to English-as-code",
+      "description": "Score: 116 | Comments: 82 | Posted by thunderbong",
+      "url": "https://levelup.gitconnected.com/vibe-coding-as-a-coding-veteran-cd370fe2be50",
+      "publishedAt": "2025-08-28T15:55:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thunderbong",
+      "tags": []
+    },
+    {
+      "id": "o0e3yi",
+      "title": "The Last Vestal Virgin and the Fall of Rome",
+      "description": "Score: 48 | Comments: 68 | Posted by thomassmith65",
+      "url": "https://debramaymacleod.com/blog/the-last-vestal-virgin-and-the-fall-of-rome",
+      "publishedAt": "2025-08-28T15:50:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thomassmith65",
+      "tags": []
+    },
+    {
       "id": "c0vo9z",
       "title": "Optimising for maintainability – Gleam in production at Strand",
       "description": "Score: 89 | Comments: 22 | Posted by Bogdanp",
@@ -245,6 +311,17 @@
       "tags": []
     },
     {
+      "id": "de01bv",
+      "title": "What brain surgery taught me about the fragile gift of consciousness",
+      "description": "Score: 106 | Comments: 36 | Posted by NaOH",
+      "url": "https://bigthink.com/business/brain-surgery-fragile-gift-of-consciousness/",
+      "publishedAt": "2025-08-28T14:22:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "NaOH",
+      "tags": []
+    },
+    {
       "id": "tfyjug",
       "title": "AI adoption linked to 13% decline in jobs for young U.S. workers: study",
       "description": "Score: 271 | Comments: 393 | Posted by pseudolus",
@@ -264,6 +341,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mi12-root",
+      "tags": []
+    },
+    {
+      "id": "fdrac0",
+      "title": "Bayes, Bits and Brains",
+      "description": "Score: 44 | Comments: 2 | Posted by cgadski",
+      "url": "https://bayesbitsbrains.github.io/",
+      "publishedAt": "2025-08-28T13:51:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cgadski",
+      "tags": []
+    },
+    {
+      "id": "3ccbwn",
+      "title": "Hobbyist Maintainers with Thomas DePierre",
+      "description": "Score: 11 | Comments: 3 | Posted by pabs3",
+      "url": "https://opensourcesecurity.io/2025/2025-06-hobbyist-thomas-depierre/",
+      "publishedAt": "2025-08-28T13:32:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pabs3",
       "tags": []
     },
     {
