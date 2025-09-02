@@ -47,6 +47,17 @@
       "tags": []
     },
     {
+      "id": "fl20al",
+      "title": "The ABC Programming Language",
+      "description": "Score: 50 | Comments: 6 | Posted by TheFreim",
+      "url": "https://homepages.cwi.nl/~steven/abc/",
+      "publishedAt": "2025-08-28T22:57:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "TheFreim",
+      "tags": []
+    },
+    {
       "id": "lklm0v",
       "title": "Rupert's Property",
       "description": "Score: 43 | Comments: 7 | Posted by robinhouston",
@@ -220,6 +231,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "bikenaga",
+      "tags": []
+    },
+    {
+      "id": "ny33nv",
+      "title": "Making Minecraft Spherical",
+      "description": "Score: 649 | Comments: 88 | Posted by iamwil",
+      "url": "https://www.bowerbyte.com/posts/blocky-planet/",
+      "publishedAt": "2025-08-28T18:12:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "iamwil",
       "tags": []
     },
     {
