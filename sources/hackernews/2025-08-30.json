@@ -14,6 +14,17 @@
       "tags": []
     },
     {
+      "id": "t2u9sq",
+      "title": "Lisp interpreter with GC in <750 lines of Odin (and <500 lines of C)",
+      "description": "Score: 26 | Comments: 3 | Posted by PaulHoule",
+      "url": "https://github.com/krig/LISP",
+      "publishedAt": "2025-08-30T23:35:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "PaulHoule",
+      "tags": []
+    },
+    {
       "id": "wy8ox5",
       "title": "Enrollment at trade schools is expected to grow",
       "description": "Score: 51 | Comments: 69 | Posted by m-hodges",
@@ -33,6 +44,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mikhael",
+      "tags": []
+    },
+    {
+      "id": "sgruos",
+      "title": "Magic Lantern Is Back",
+      "description": "Score: 27 | Comments: 4 | Posted by felipemesquita",
+      "url": "https://www.magiclantern.fm/forum/index.php?topic=27315.0",
+      "publishedAt": "2025-08-30T21:52:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "felipemesquita",
       "tags": []
     },
     {
@@ -256,6 +278,39 @@
       "tags": []
     },
     {
+      "id": "21hu65",
+      "title": "Triangle Grids",
+      "description": "Score: 54 | Comments: 8 | Posted by Bogdanp",
+      "url": "https://kvachev.com/blog/posts/triangular-grid/",
+      "publishedAt": "2025-08-30T08:46:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Bogdanp",
+      "tags": []
+    },
+    {
+      "id": "6lnqwj",
+      "title": "Pearl – An Erlang lexer and syntax highlighter in Gleam",
+      "description": "Score: 23 | Comments: 1 | Posted by TheWiggles",
+      "url": "https://github.com/GearsDatapacks/pearl",
+      "publishedAt": "2025-08-30T08:30:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "TheWiggles",
+      "tags": []
+    },
+    {
+      "id": "w53f6s",
+      "title": "10-20x Faster LLVM -O0 Back-End – Code Generation",
+      "description": "Score: 50 | Comments: 2 | Posted by mpweiher",
+      "url": "https://discourse.llvm.org/t/tpde-llvm-10-20x-faster-llvm-o0-back-end/86664",
+      "publishedAt": "2025-08-30T06:55:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mpweiher",
+      "tags": []
+    },
+    {
       "id": "lz56ag",
       "title": "From multi-head to latent attention: The evolution of attention mechanisms",
       "description": "Score: 166 | Comments: 38 | Posted by mgninad",
@@ -330,6 +385,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jonbaer",
+      "tags": []
+    },
+    {
+      "id": "vzozxu",
+      "title": "What happens during startup?",
+      "description": "Score: 40 | Comments: 3 | Posted by colinprince",
+      "url": "https://eclecticlight.co/2025/08/29/what-happens-during-startup/",
+      "publishedAt": "2025-08-30T02:35:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "colinprince",
       "tags": []
     },
     {

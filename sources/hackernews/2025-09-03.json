@@ -1,0 +1,72 @@
+{
+  "date": "2025-09-03",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "xbweny",
+      "title": "Comic Sans typeball designed to work with the IBM Selectric typewritersprintables.com",
+      "description": "Score: 34 | Comments: 1 | Posted by Sami_Lehtinen",
+      "url": "https://www.printables.com/model/441233-comic-sans-typeball-for-the-ibm-selectric-typewrit",
+      "publishedAt": "2025-09-03T04:08:42.353Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Sami_Lehtinen",
+      "tags": []
+    },
+    {
+      "id": "xbweny",
+      "title": "Comic Sans typeball designed to work with the IBM Selectric typewriters",
+      "description": "Score: 34 | Comments: 1 | Posted by Sami_Lehtinen",
+      "url": "https://www.printables.com/model/441233-comic-sans-typeball-for-the-ibm-selectric-typewrit",
+      "publishedAt": "2025-09-03T03:13:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Sami_Lehtinen",
+      "tags": []
+    },
+    {
+      "id": "4ebywd",
+      "title": "Zig Software Foundation 2025 Financial Report and Fundraiser",
+      "description": "Score: 68 | Comments: 15 | Posted by smlavine",
+      "url": "https://ziglang.org/news/2025-financials/",
+      "publishedAt": "2025-09-03T01:45:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "smlavine",
+      "tags": []
+    },
+    {
+      "id": "itzugb",
+      "title": "Show HN: LightCycle, a FOSS game in Rust based on Tron",
+      "description": "Score: 24 | Comments: 8 | Posted by DavidCanHelp",
+      "url": "https://github.com/Tortured-Metaphor/LightCycle",
+      "publishedAt": "2025-09-03T00:08:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "DavidCanHelp",
+      "tags": []
+    },
+    {
+      "id": "s8vplu",
+      "title": "%CPU utilization is a liebrendanlong.com",
+      "description": "Score: 194 | Comments: 74 | Posted by BrendanLong",
+      "url": "https://www.brendanlong.com/cpu-utilization-is-a-lie.html",
+      "publishedAt": "2025-09-03T00:08:42.352Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "BrendanLong",
+      "tags": []
+    },
+    {
+      "id": "s8vplu",
+      "title": "%CPU utilization is a lie",
+      "description": "Score: 194 | Comments: 74 | Posted by BrendanLong",
+      "url": "https://www.brendanlong.com/cpu-utilization-is-a-lie.html",
+      "publishedAt": "2025-09-03T00:01:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "BrendanLong",
+      "tags": []
+    }
+  ]
+}

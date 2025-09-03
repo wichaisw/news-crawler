@@ -14,6 +14,17 @@
       "tags": []
     },
     {
+      "id": "xfm593",
+      "title": "Writing a Hypervisor in 1k Lines",
+      "description": "Score: 108 | Comments: 11 | Posted by ingve",
+      "url": "https://seiya.me/blog/hypervisor-in-1000-lines",
+      "publishedAt": "2025-08-29T22:12:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingve",
+      "tags": []
+    },
+    {
       "id": "mrgzxn",
       "title": "How to stop Google from AI-summarising your website",
       "description": "Score: 62 | Comments: 54 | Posted by teruza",
@@ -212,6 +223,17 @@
       "tags": []
     },
     {
+      "id": "uupllv",
+      "title": "Untangling the myths and mysteries of Dvorak and QWERTY (2023)",
+      "description": "Score: 54 | Comments: 70 | Posted by kens",
+      "url": "https://aresluna.org/the-primitive-tortureboard/",
+      "publishedAt": "2025-08-29T13:59:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kens",
+      "tags": []
+    },
+    {
       "id": "tv9dns",
       "title": "Show HN: Find Hidden Gems on HN",
       "description": "Score: 101 | Comments: 18 | Posted by pj4533",
@@ -308,6 +330,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "porridgeraisin",
+      "tags": []
+    },
+    {
+      "id": "9cxou4",
+      "title": "An LLM is a lossy encyclopedia",
+      "description": "Score: 471 | Comments: 310 | Posted by tosh",
+      "url": "https://simonwillison.net/2025/Aug/29/lossy-encyclopedia/",
+      "publishedAt": "2025-08-29T09:40:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tosh",
       "tags": []
     },
     {

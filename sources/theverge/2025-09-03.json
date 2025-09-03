@@ -1,0 +1,30 @@
+{
+  "date": "2025-09-03",
+  "source": "theverge",
+  "articles": [
+    {
+      "id": "8o2dma",
+      "title": "Disney will pay $10 million to settle FTC claim it used cartoons to collect YouTube data on kids",
+      "description": "Disney has agreed to pay $10 million to settle allegations from the Federal Trade Commission that it violated federal law by misleadingly labeling cartoons on YouTube so it could illegally collect children’s personal data. The FTC alleges that Disney failed to label some videos of its popular kids cartoons it uploaded to YouTube as “Made [&#8230;]",
+      "url": "https://www.theverge.com/policy/769771/disney-ftc-coppa-settlement-kids-data",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK157_Disney_01-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2025-09-03T02:01:35.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Lauren Feiner",
+      "tags": []
+    },
+    {
+      "id": "sdfwi0",
+      "title": "Google critics think the search remedies ruling is a total whiff",
+      "description": "The remedies ruling in the Department of Justice’s antitrust case against Google finally landed on Tuesday. Last year, Judge Amit Mehta ruled that Google was a monopolist in the search and advertising markets, but while today’s ruling says that Google will have to share some search data with competitors, Google doesn’t have to spin off [&#8230;]",
+      "url": "https://www.theverge.com/news/769738/google-doj-antitrust-remedies-ruling-critics",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK093_GOOGLE_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2025-09-03T00:06:24.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Jay Peters",
+      "tags": []
+    }
+  ]
+}
