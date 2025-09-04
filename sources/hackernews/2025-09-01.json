@@ -157,6 +157,28 @@
       "tags": []
     },
     {
+      "id": "6upkn8",
+      "title": "Lessons from building an AI data analyst",
+      "description": "Score: 63 | Comments: 10 | Posted by pedromnasc",
+      "url": "https://www.pedronasc.com/articles/lessons-building-ai-data-analyst",
+      "publishedAt": "2025-09-01T16:40:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pedromnasc",
+      "tags": []
+    },
+    {
+      "id": "6p5lob",
+      "title": "Minesweeper thermodynamics",
+      "description": "Score: 86 | Comments: 17 | Posted by robinhouston",
+      "url": "https://oscarcunningham.com/792/minesweeper-thermodynamics/",
+      "publishedAt": "2025-09-01T16:14:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "robinhouston",
+      "tags": []
+    },
+    {
       "id": "foystq",
       "title": "A Unique, High-Tech (Family) Computer",
       "description": "Score: 48 | Comments: 7 | Posted by zdw",
@@ -278,6 +300,17 @@
       "tags": []
     },
     {
+      "id": "2ggx7r",
+      "title": "OSMAnd vs. Organic Maps",
+      "description": "Score: 99 | Comments: 58 | Posted by icheyne",
+      "url": "https://blog.firedrake.org/archive/2025/09/OSMAnd_vs_Organic_Maps.html",
+      "publishedAt": "2025-09-01T08:14:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "icheyne",
+      "tags": []
+    },
+    {
       "id": "1hhxss",
       "title": "Preserving Order in Concurrent Go Apps: Three Approaches Compared",
       "description": "Score: 71 | Comments: 21 | Posted by destel",
@@ -289,6 +322,17 @@
       "tags": []
     },
     {
+      "id": "46ml49",
+      "title": "AR Fluid Simulation Demo",
+      "description": "Score: 35 | Comments: 1 | Posted by danybittel",
+      "url": "https://danybittel.ch/fluid",
+      "publishedAt": "2025-09-01T04:38:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "danybittel",
+      "tags": []
+    },
+    {
       "id": "82bgak",
       "title": "What Is Complexity in Chess?",
       "description": "Score: 11 | Comments: 0 | Posted by fzliu",
@@ -297,6 +341,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "fzliu",
+      "tags": []
+    },
+    {
+      "id": "wgbkfe",
+      "title": "Show HN: A roguelike game that runs inside Notepad++",
+      "description": "Score: 4 | Comments: 0 | Posted by lowsun",
+      "url": "https://github.com/thelowsunoverthemoon/NeuroPriest",
+      "publishedAt": "2025-09-01T00:51:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lowsun",
       "tags": []
     },
     {

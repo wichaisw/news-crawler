@@ -1,0 +1,61 @@
+{
+  "date": "2025-09-04",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "may0zo",
+      "title": "Étoilé – desktop built on GNUStepetoileos.com",
+      "description": "Score: 82 | Comments: 24 | Posted by pabs3",
+      "url": "http://etoileos.com/",
+      "publishedAt": "2025-09-04T03:08:49.994Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pabs3",
+      "tags": []
+    },
+    {
+      "id": "may0zo",
+      "title": "Étoilé – desktop built on GNUStep",
+      "description": "Score: 82 | Comments: 24 | Posted by pabs3",
+      "url": "http://etoileos.com/",
+      "publishedAt": "2025-09-04T02:55:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pabs3",
+      "tags": []
+    },
+    {
+      "id": "3agf70",
+      "title": "Reverse engineering Solos smart glassesjfloren.net",
+      "description": "Score: 54 | Comments: 6 | Posted by floren",
+      "url": "https://jfloren.net/b/2025/8/28/0",
+      "publishedAt": "2025-09-04T02:08:49.994Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "floren",
+      "tags": []
+    },
+    {
+      "id": "m0j224",
+      "title": "The Rust Innovation Lab",
+      "description": "Score: 4 | Comments: 0 | Posted by pabs3",
+      "url": "https://rustfoundation.org/rust-innovation-lab/",
+      "publishedAt": "2025-09-04T01:21:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pabs3",
+      "tags": []
+    },
+    {
+      "id": "4t3lcf",
+      "title": "Neovim Pack",
+      "description": "Score: 104 | Comments: 73 | Posted by k2enemy",
+      "url": "https://neovim.io/doc/user/pack.html#vim.pack",
+      "publishedAt": "2025-09-04T00:18:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "k2enemy",
+      "tags": []
+    }
+  ]
+}

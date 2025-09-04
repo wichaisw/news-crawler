@@ -14,6 +14,17 @@
       "tags": []
     },
     {
+      "id": "7obfju",
+      "title": "Lively Linear Lisp (1992) [pdf]",
+      "description": "Score: 68 | Comments: 1 | Posted by todsacerdoti",
+      "url": "https://www.cs.utexas.edu/users/hunt/research/hash-cons/hash-cons-papers/BakerLinearLisp.pdf",
+      "publishedAt": "2025-08-31T23:10:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    },
+    {
       "id": "64i4ev",
       "title": "Show HN: Spotilyrics – See synchronized Spotify lyrics inside VS Code",
       "description": "Score: 11 | Comments: 3 | Posted by therepanic",
@@ -33,6 +44,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "toomuchtodo",
+      "tags": []
+    },
+    {
+      "id": "3agf70",
+      "title": "Reverse engineering Solos smart glasses",
+      "description": "Score: 54 | Comments: 6 | Posted by floren",
+      "url": "https://jfloren.net/b/2025/8/28/0",
+      "publishedAt": "2025-08-31T22:52:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "floren",
       "tags": []
     },
     {
@@ -278,6 +300,17 @@
       "tags": []
     },
     {
+      "id": "u2faoo",
+      "title": "Nyxstone: An LLVM-based (Dis)assembly Framework",
+      "description": "Score: 8 | Comments: 0 | Posted by user20250831",
+      "url": "https://www.emproof.com/introducing-nyxstone-an-llvm-based-disassembly-framework/",
+      "publishedAt": "2025-08-31T14:11:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "user20250831",
+      "tags": []
+    },
+    {
       "id": "glryva",
       "title": "Spacing Over Cards",
       "description": "Score: 34 | Comments: 4 | Posted by smagin",
@@ -352,6 +385,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "Bogdanp",
+      "tags": []
+    },
+    {
+      "id": "lrm4hi",
+      "title": "Ten Thousand Lifetimes with Roguelikes",
+      "description": "Score: 30 | Comments: 17 | Posted by YeGoblynQueenne",
+      "url": "https://ian.mccowan.space/study/essays/roguelikes/",
+      "publishedAt": "2025-08-31T10:46:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "YeGoblynQueenne",
+      "tags": []
+    },
+    {
+      "id": "dpcmgt",
+      "title": "This Page Is a Quine (2021)",
+      "description": "Score: 49 | Comments: 8 | Posted by ycombyourhair",
+      "url": "https://pranavg.me/",
+      "publishedAt": "2025-08-31T09:52:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ycombyourhair",
       "tags": []
     },
     {
@@ -440,6 +495,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "soraminazuki",
+      "tags": []
+    },
+    {
+      "id": "n5uwhj",
+      "title": "Abstract Machine Models (2022)",
+      "description": "Score: 80 | Comments: 7 | Posted by mustache_kimono",
+      "url": "https://dr-knz.net/abstract-machine-models.html",
+      "publishedAt": "2025-08-31T02:20:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mustache_kimono",
       "tags": []
     },
     {
