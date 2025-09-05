@@ -1,0 +1,105 @@
+{
+  "date": "2025-09-05",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "9g2dv",
+      "title": "Why RDF Is the Natural Knowledge Layer for AI Systems",
+      "description": "Score: 3 | Comments: 0 | Posted by arto",
+      "url": "https://bryon.io/why-rdf-is-the-natural-knowledge-layer-for-ai-systems-a5fd0b43d4c5",
+      "publishedAt": "2025-09-05T05:39:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "arto",
+      "tags": []
+    },
+    {
+      "id": "todbrs",
+      "title": "Swimming in Tech Debt",
+      "description": "Score: 9 | Comments: 6 | Posted by loumf",
+      "url": "https://helpthisbook.com/lou-franco/swimming-in-tech-debt",
+      "publishedAt": "2025-09-05T05:33:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "loumf",
+      "tags": []
+    },
+    {
+      "id": "mn2giu",
+      "title": "BMW kills Home Assistant integration to “protect security” [video]",
+      "description": "Score: 23 | Comments: 1 | Posted by givemeethekeys",
+      "url": "https://www.youtube.com/watch?v=e-udt3wTfhQ",
+      "publishedAt": "2025-09-05T03:54:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "givemeethekeys",
+      "tags": []
+    },
+    {
+      "id": "3rgst9",
+      "title": "Using AI to perceive the universe in greater depth",
+      "description": "Score: 7 | Comments: 1 | Posted by diwank",
+      "url": "https://deepmind.google/discover/blog/using-ai-to-perceive-the-universe-in-greater-depth/",
+      "publishedAt": "2025-09-05T02:35:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "diwank",
+      "tags": []
+    },
+    {
+      "id": "ul6zw4",
+      "title": "Fil's Unbelievable Garbage Collectorfil-c.org",
+      "description": "Score: 235 | Comments: 71 | Posted by pizlonator",
+      "url": "https://fil-c.org/fugc",
+      "publishedAt": "2025-09-05T01:08:58.924Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pizlonator",
+      "tags": []
+    },
+    {
+      "id": "ul6zw4",
+      "title": "Fil's Unbelievable Garbage Collector",
+      "description": "Score: 235 | Comments: 71 | Posted by pizlonator",
+      "url": "https://fil-c.org/fugc",
+      "publishedAt": "2025-09-05T00:55:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pizlonator",
+      "tags": []
+    },
+    {
+      "id": "8mi30w",
+      "title": "Forking Chrome to render in a terminal (2023)",
+      "description": "Score: 59 | Comments: 5 | Posted by riddley",
+      "url": "https://fathy.fr/carbonyl",
+      "publishedAt": "2025-09-05T00:54:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "riddley",
+      "tags": []
+    },
+    {
+      "id": "fovi7",
+      "title": "When can I reuse this calendar?",
+      "description": "Score: 8 | Comments: 0 | Posted by thomassmith65",
+      "url": "https://whencanireusethiscalendar.com",
+      "publishedAt": "2025-09-05T00:49:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thomassmith65",
+      "tags": []
+    },
+    {
+      "id": "zg69to",
+      "title": "Evolving the OCaml Programming Language (2025) [pdf]",
+      "description": "Score: 79 | Comments: 6 | Posted by matt_d",
+      "url": "https://kcsrk.info/slides/Evolution_Ashoka_2025.pdf",
+      "publishedAt": "2025-09-05T00:05:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "matt_d",
+      "tags": []
+    }
+  ]
+}
