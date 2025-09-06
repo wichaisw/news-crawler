@@ -47,6 +47,28 @@
       "tags": []
     },
     {
+      "id": "ro9ke1",
+      "title": "All of our lives overlap in the Network Of Time",
+      "description": "Score: 79 | Comments: 24 | Posted by colinprince",
+      "url": "https://networkoftime.com/",
+      "publishedAt": "2025-09-02T20:25:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "colinprince",
+      "tags": []
+    },
+    {
+      "id": "h4ptjm",
+      "title": "Apertus 70B: Truly Open - Swiss LLM by ETH, EPFL and CSCS",
+      "description": "Score: 230 | Comments: 40 | Posted by denysvitali",
+      "url": "https://huggingface.co/swiss-ai/Apertus-70B-2509",
+      "publishedAt": "2025-09-02T20:14:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "denysvitali",
+      "tags": []
+    },
+    {
       "id": "39wri4",
       "title": "Matrix.org service offline: corrupted database",
       "description": "Score: 30 | Comments: 0 | Posted by joecool1029",
@@ -88,6 +110,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "giuliomagnifico",
+      "tags": []
+    },
+    {
+      "id": "23rx1s",
+      "title": "Museum of Color",
+      "description": "Score: 13 | Comments: 0 | Posted by NaOH",
+      "url": "https://emergencemagazine.org/essay/museum-of-color/",
+      "publishedAt": "2025-09-02T19:05:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "NaOH",
       "tags": []
     },
     {
@@ -143,6 +176,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "imadr",
+      "tags": []
+    },
+    {
+      "id": "ix8fhv",
+      "title": "Mac Clones History: A Tale of Poor Margins and Bad Timing",
+      "description": "Score: 35 | Comments: 7 | Posted by shortformblog",
+      "url": "https://tedium.co/2025/09/02/apple-macintosh-clones-history/",
+      "publishedAt": "2025-09-02T17:40:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "shortformblog",
       "tags": []
     },
     {
@@ -212,6 +256,17 @@
       "tags": []
     },
     {
+      "id": "aknymo",
+      "title": "Meschers: Geometry Processing of Impossible Objects",
+      "description": "Score: 45 | Comments: 0 | Posted by cubefox",
+      "url": "https://anadodik.github.io/publication/meschers/",
+      "publishedAt": "2025-09-02T16:09:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cubefox",
+      "tags": []
+    },
+    {
       "id": "kpzncc",
       "title": "Anthropic raises $13B Series F",
       "description": "Score: 530 | Comments: 529 | Posted by meetpateltech",
@@ -256,6 +311,17 @@
       "tags": []
     },
     {
+      "id": "egpl4d",
+      "title": "Rearchitecting GitHub Pages (2015)",
+      "description": "Score: 27 | Comments: 1 | Posted by djoldman",
+      "url": "https://github.blog/news-insights/rearchitecting-github-pages/",
+      "publishedAt": "2025-09-02T14:21:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "djoldman",
+      "tags": []
+    },
+    {
       "id": "eoh5k1",
       "title": "The Little Book of Linear Algebra",
       "description": "Score: 339 | Comments: 91 | Posted by scapbi",
@@ -289,6 +355,17 @@
       "tags": []
     },
     {
+      "id": "fy32ip",
+      "title": "How big are our embeddings now and why?",
+      "description": "Score: 87 | Comments: 13 | Posted by alexmolas",
+      "url": "https://vickiboykis.com/2025/09/01/how-big-are-our-embeddings-now-and-why/",
+      "publishedAt": "2025-09-02T11:45:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "alexmolas",
+      "tags": []
+    },
+    {
       "id": "nve83j",
       "title": "Toronto’s network of pedestrian tunnels",
       "description": "Score: 197 | Comments: 144 | Posted by bensouthwood",
@@ -311,6 +388,17 @@
       "tags": []
     },
     {
+      "id": "lp6o6t",
+      "title": "Debugging Rustler on Illumos",
+      "description": "Score: 50 | Comments: 0 | Posted by todsacerdoti",
+      "url": "https://system-illumination.org/01-rustler.html",
+      "publishedAt": "2025-09-02T08:42:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    },
+    {
       "id": "7cefat",
       "title": "Run Erlang/Elixir on Microcontrollers and Embedded Linux",
       "description": "Score: 195 | Comments: 49 | Posted by weatherlight",
@@ -330,6 +418,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "Sadzeih",
+      "tags": []
+    },
+    {
+      "id": "cl9jmq",
+      "title": "Making the most of a dumb fax switcher box in the old days",
+      "description": "Score: 69 | Comments: 18 | Posted by bertman",
+      "url": "https://rachelbythebay.com/w/2025/09/01/fax/",
+      "publishedAt": "2025-09-02T06:17:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bertman",
       "tags": []
     },
     {
@@ -374,6 +473,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "josephcsible",
+      "tags": []
+    },
+    {
+      "id": "lts8de",
+      "title": "The Old Robots Web Site",
+      "description": "Score: 163 | Comments: 30 | Posted by jfil",
+      "url": "https://www.theoldrobots.com/index2.html",
+      "publishedAt": "2025-09-02T02:43:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jfil",
       "tags": []
     },
     {

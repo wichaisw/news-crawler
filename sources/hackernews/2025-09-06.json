@@ -1,0 +1,72 @@
+{
+  "date": "2025-09-06",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "tfabeg",
+      "title": "Ohio senator introduces 25% tax on companies that outsource jobs overseas",
+      "description": "Score: 28 | Comments: 15 | Posted by TMWNN",
+      "url": "https://www.foxnews.com/politics/gop-senator-drops-hammer-companies-shipping-jobs-overseas-crucial-bill",
+      "publishedAt": "2025-09-06T04:07:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "TMWNN",
+      "tags": []
+    },
+    {
+      "id": "lg9tx8",
+      "title": "AI and the Rise of Techno-Fascism in the United States",
+      "description": "Score: 38 | Comments: 3 | Posted by breve",
+      "url": "https://www.theatlantic.com/podcasts/archive/2025/09/ai-and-the-fight-between-democracy-and-autocracy/684095/",
+      "publishedAt": "2025-09-06T02:41:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "breve",
+      "tags": []
+    },
+    {
+      "id": "a3codt",
+      "title": "PlateShapez – Tool for generating adversarially perturbed license plate overlays",
+      "description": "Score: 20 | Comments: 7 | Posted by Rhea_Karty",
+      "url": "https://github.com/bennjordan/PlateShapez",
+      "publishedAt": "2025-09-06T02:08:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Rhea_Karty",
+      "tags": []
+    },
+    {
+      "id": "6b0zth",
+      "title": "Developing a Space Flight Simulator in Clojure",
+      "description": "Score: 93 | Comments: 14 | Posted by todsacerdoti",
+      "url": "https://www.wedesoft.de/software/2025/09/05/clojure-game/",
+      "publishedAt": "2025-09-06T01:39:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "h35aus",
+      "title": "A sunscreen scandal shocking Australia",
+      "description": "Score: 67 | Comments: 51 | Posted by pseudolus",
+      "url": "https://www.bbc.com/news/articles/c4gzl41rpdqo",
+      "publishedAt": "2025-09-06T01:10:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pseudolus",
+      "tags": []
+    },
+    {
+      "id": "605d6d",
+      "title": "GLM 4.5 with Claude Code",
+      "description": "Score: 73 | Comments: 37 | Posted by vincirufus",
+      "url": "https://docs.z.ai/guides/llm/glm-4.5",
+      "publishedAt": "2025-09-06T00:45:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vincirufus",
+      "tags": []
+    }
+  ]
+}
