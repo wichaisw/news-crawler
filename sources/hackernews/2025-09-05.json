@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "ruektc",
+      "title": "The math of shuffling cards almost brought down an online poker empire",
+      "description": "Score: 52 | Comments: 55 | Posted by indigodaddy",
+      "url": "https://www.scientificamerican.com/article/how-the-math-of-shuffling-cards-almost-brought-down-an-online-poker-empire/",
+      "publishedAt": "2025-09-05T22:50:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "indigodaddy",
+      "tags": []
+    },
+    {
       "id": "meyngj",
       "title": "Supercharger for Business – Tesla",
       "description": "Score: 22 | Comments: 10 | Posted by bilsbie",
@@ -36,6 +47,17 @@
       "tags": []
     },
     {
+      "id": "w8g3hw",
+      "title": "Kenvue stock drops on report RFK Jr will link autism to Tylenol during pregnancy",
+      "description": "Score: 124 | Comments: 337 | Posted by randycupertino",
+      "url": "https://www.cnbc.com/2025/09/05/rfk-tylenol-autism-kenvue-stock-for-url.html",
+      "publishedAt": "2025-09-05T21:56:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "randycupertino",
+      "tags": []
+    },
+    {
       "id": "wel3ca",
       "title": "Nest 1st gen and 2nd gen thermostats no longer supported from 10/25/2025",
       "description": "Score: 245 | Comments: 225 | Posted by RyanShook",
@@ -58,6 +80,17 @@
       "tags": []
     },
     {
+      "id": "kz4a29",
+      "title": "William James at CERN (1995)",
+      "description": "Score: 18 | Comments: 2 | Posted by benbreen",
+      "url": "http://bactra.org/wm-james-at-cern/",
+      "publishedAt": "2025-09-05T20:07:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "benbreen",
+      "tags": []
+    },
+    {
       "id": "6fjc84",
       "title": "Anthropic agrees to pay $1.5B to settle lawsuit with book authors",
       "description": "Score: 578 | Comments: 418 | Posted by acomjean",
@@ -77,6 +110,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "speckx",
+      "tags": []
+    },
+    {
+      "id": "y21kjc",
+      "title": "Matmul on Blackwell: Part 2 – Using Hardware Features to Optimize Matmul",
+      "description": "Score: 17 | Comments: 7 | Posted by robertvc",
+      "url": "https://www.modular.com/blog/matrix-multiplication-on-nvidias-blackwell-part-2-using-hardware-features-to-optimize-matmul",
+      "publishedAt": "2025-09-05T18:16:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "robertvc",
       "tags": []
     },
     {
@@ -110,6 +154,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "kickofline",
+      "tags": []
+    },
+    {
+      "id": "k1ol1n",
+      "title": "What to do with an old iPad",
+      "description": "Score: 101 | Comments: 48 | Posted by owenmakes",
+      "url": "http://odb.ar/blog/2025/09/05/hosting-my-blog-on-an-iPad-2.html",
+      "publishedAt": "2025-09-05T17:14:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "owenmakes",
       "tags": []
     },
     {
@@ -154,6 +209,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "arbayi",
+      "tags": []
+    },
+    {
+      "id": "a3wcy1",
+      "title": "Protobuffers Are Wrong (2018)",
+      "description": "Score: 212 | Comments: 265 | Posted by b-man",
+      "url": "https://reasonablypolymorphic.com/blog/protos-are-wrong/",
+      "publishedAt": "2025-09-05T15:25:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "b-man",
       "tags": []
     },
     {

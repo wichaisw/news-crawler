@@ -1,0 +1,105 @@
+{
+  "date": "2025-09-07",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "xf89qb",
+      "title": "Unofficial Windows 11 requirements bypass tool allows disabling all AI features",
+      "description": "Score: 29 | Comments: 4 | Posted by pinewurst",
+      "url": "https://www.neowin.net/news/unofficial-windows-11-requirements-bypass-tool-now-allows-you-to-disable-all-ai-features/",
+      "publishedAt": "2025-09-07T04:27:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pinewurst",
+      "tags": []
+    },
+    {
+      "id": "wiihqu",
+      "title": "RFC 3339 vs. ISO 8601",
+      "description": "Score: 14 | Comments: 2 | Posted by gregsadetsky",
+      "url": "https://ijmacd.github.io/rfc3339-iso8601/",
+      "publishedAt": "2025-09-07T03:36:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gregsadetsky",
+      "tags": []
+    },
+    {
+      "id": "m7ivwk",
+      "title": "The world has a running Rational R1000/400 computer again (2019)",
+      "description": "Score: 18 | Comments: 6 | Posted by MaxLeiter",
+      "url": "https://datamuseum.dk/wiki/Rational/R1000s400/Logbook/2019#2019-10-28",
+      "publishedAt": "2025-09-07T02:46:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "MaxLeiter",
+      "tags": []
+    },
+    {
+      "id": "412s40",
+      "title": "Show HN: Lightweight tool for managing Linux virtual machines",
+      "description": "Score: 22 | Comments: 1 | Posted by ccheshirecat",
+      "url": "https://github.com/ccheshirecat/flint",
+      "publishedAt": "2025-09-07T02:30:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ccheshirecat",
+      "tags": []
+    },
+    {
+      "id": "r1zt2u",
+      "title": "Navy SEALs reportedly killed North Korean fishermen to hide a failed mission",
+      "description": "Score: 156 | Comments: 96 | Posted by nomilk",
+      "url": "https://www.nytimes.com/2025/09/05/us/navy-seal-north-korea-trump-2019.html",
+      "publishedAt": "2025-09-07T02:30:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nomilk",
+      "tags": []
+    },
+    {
+      "id": "fvwbdo",
+      "title": "Show HN: I recreated Windows XP as my portfolio",
+      "description": "Score: 323 | Comments: 157 | Posted by mitchivin",
+      "url": "https://mitchivin.com/",
+      "publishedAt": "2025-09-07T01:44:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mitchivin",
+      "tags": []
+    },
+    {
+      "id": "lwppmw",
+      "title": "The key to getting MVC correct is understanding what models are",
+      "description": "Score: 57 | Comments: 34 | Posted by csb6",
+      "url": "https://stlab.cc/tips/about-mvc.html",
+      "publishedAt": "2025-09-07T01:26:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "csb6",
+      "tags": []
+    },
+    {
+      "id": "iiz6km",
+      "title": "Game launcher installs Root CA certificate on your machine (2024)",
+      "description": "Score: 47 | Comments: 19 | Posted by vandalism",
+      "url": "https://github.com/SoapboxRaceWorld/GameLauncher_NFSW/issues/276",
+      "publishedAt": "2025-09-07T01:13:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vandalism",
+      "tags": []
+    },
+    {
+      "id": "yxx6c5",
+      "title": "Blogs used to be different",
+      "description": "Score: 58 | Comments: 21 | Posted by mkdirpepper",
+      "url": "https://jetgirl.art/blogs-used-to-be-very-different/",
+      "publishedAt": "2025-09-07T00:45:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mkdirpepper",
+      "tags": []
+    }
+  ]
+}

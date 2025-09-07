@@ -146,6 +146,17 @@
       "tags": []
     },
     {
+      "id": "nndfrz",
+      "title": "Hitting Peak File IO Performance with Zig",
+      "description": "Score: 42 | Comments: 3 | Posted by ozgrakkurt",
+      "url": "https://steelcake.com/blog/nvme-zig/",
+      "publishedAt": "2025-09-04T19:15:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ozgrakkurt",
+      "tags": []
+    },
+    {
       "id": "oythtd",
       "title": "LLM Visualization",
       "description": "Score: 299 | Comments: 12 | Posted by gmays",
@@ -300,6 +311,39 @@
       "tags": []
     },
     {
+      "id": "1cbhg0",
+      "title": "An Anatomically Correct Replica of the Human Brain, Knitted by a Psychiatrist",
+      "description": "Score: 4 | Comments: 0 | Posted by mdp2021",
+      "url": "https://www.openculture.com/2025/09/anatomically-correct-replica-of-the-human-brain-knitted-by-a-psychiatrist.html",
+      "publishedAt": "2025-09-04T08:34:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mdp2021",
+      "tags": []
+    },
+    {
+      "id": "580sxf",
+      "title": "A robot walks on water thanks to evolution's solution",
+      "description": "Score: 4 | Comments: 0 | Posted by lentoutcry",
+      "url": "https://arstechnica.com/science/2025/09/robotic-bug-literally-walks-on-water/",
+      "publishedAt": "2025-09-04T07:52:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lentoutcry",
+      "tags": []
+    },
+    {
+      "id": "fz5tyv",
+      "title": "Kruci: Post-mortem of a UI library",
+      "description": "Score: 53 | Comments: 13 | Posted by Patryk27",
+      "url": "https://pwy.io/posts/kruci-post-mortem/",
+      "publishedAt": "2025-09-04T06:22:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Patryk27",
+      "tags": []
+    },
+    {
       "id": "lcp9t2",
       "title": "Melvyn Bragg steps down from presenting In Our Time",
       "description": "Score: 273 | Comments: 154 | Posted by aways",
@@ -322,6 +366,17 @@
       "tags": []
     },
     {
+      "id": "fubqk9",
+      "title": "The life-changing Sarah Paine framework",
+      "description": "Score: 45 | Comments: 14 | Posted by ashia",
+      "url": "https://www.valstech.blog/p/the-life-changing-sarah-paine-framework",
+      "publishedAt": "2025-09-04T05:39:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ashia",
+      "tags": []
+    },
+    {
       "id": "may0zo",
       "title": "Étoilé – desktop built on GNUStepetoileos.com",
       "description": "Score: 82 | Comments: 24 | Posted by pabs3",
@@ -341,6 +396,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jonbaer",
+      "tags": []
+    },
+    {
+      "id": "3aaksy",
+      "title": "Processing Piano Tutorial Videos in the Browser",
+      "description": "Score: 35 | Comments: 6 | Posted by catchmeifyoucan",
+      "url": "https://www.heyraviteja.com/post/portfolio/piano-reader/",
+      "publishedAt": "2025-09-04T02:57:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "catchmeifyoucan",
       "tags": []
     },
     {
@@ -385,6 +451,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "pabs3",
+      "tags": []
+    },
+    {
+      "id": "nd81ju",
+      "title": "Anonymous recursive functions in Racket",
+      "description": "Score: 69 | Comments: 35 | Posted by azhenley",
+      "url": "https://github.com/shriram/anonymous-recursive-function",
+      "publishedAt": "2025-09-04T00:39:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "azhenley",
       "tags": []
     },
     {

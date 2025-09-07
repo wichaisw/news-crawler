@@ -47,6 +47,28 @@
       "tags": []
     },
     {
+      "id": "ejfi5b",
+      "title": "Like humans, every tree has its own microbiome, a new study has found",
+      "description": "Score: 34 | Comments: 6 | Posted by bookofjoe",
+      "url": "https://www.nytimes.com/2025/08/27/science/biology-trees-microbiomes.html",
+      "publishedAt": "2025-09-03T22:21:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bookofjoe",
+      "tags": []
+    },
+    {
+      "id": "igyw9i",
+      "title": "Troubleshooting ZFS – Common Issues and How to Fix Them",
+      "description": "Score: 55 | Comments: 15 | Posted by zdw",
+      "url": "https://klarasystems.com/articles/troubleshooting-zfs-common-issues-how-to-fix-them/",
+      "publishedAt": "2025-09-03T22:07:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
       "id": "s51il",
       "title": "What Is the Fourier Transform?",
       "description": "Score: 8 | Comments: 1 | Posted by jnord",
@@ -344,6 +366,17 @@
       "tags": []
     },
     {
+      "id": "evoh0j",
+      "title": "Baby's first type checker",
+      "description": "Score: 67 | Comments: 15 | Posted by alexmolas",
+      "url": "https://austinhenley.com/blog/babytypechecker.html",
+      "publishedAt": "2025-09-03T08:41:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "alexmolas",
+      "tags": []
+    },
+    {
       "id": "7ggd4f",
       "title": "Finding thousands of exposed Ollama instances using Shodan",
       "description": "Score: 149 | Comments: 64 | Posted by rldjbpin",
@@ -352,6 +385,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "rldjbpin",
+      "tags": []
+    },
+    {
+      "id": "bx22jg",
+      "title": "Braincraft challenge – 1000 neurons, 100 seconds, 10 runs, 2 choices, no reward",
+      "description": "Score: 38 | Comments: 2 | Posted by phreeza",
+      "url": "https://github.com/rougier/braincraft",
+      "publishedAt": "2025-09-03T07:31:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "phreeza",
       "tags": []
     },
     {
