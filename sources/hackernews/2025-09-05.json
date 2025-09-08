@@ -69,6 +69,28 @@
       "tags": []
     },
     {
+      "id": "ny1wrp",
+      "title": "Default musl allocator considered harmful to performance",
+      "description": "Score: 49 | Comments: 7 | Posted by fanf2",
+      "url": "https://nickb.dev/blog/default-musl-allocator-considered-harmful-to-performance/",
+      "publishedAt": "2025-09-05T20:42:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fanf2",
+      "tags": []
+    },
+    {
+      "id": "ssz3re",
+      "title": "Speed Brain: Helping web pages load faster (2024)",
+      "description": "Score: 28 | Comments: 6 | Posted by Velocifyer",
+      "url": "https://blog.cloudflare.com/introducing-speed-brain/",
+      "publishedAt": "2025-09-05T20:16:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Velocifyer",
+      "tags": []
+    },
+    {
       "id": "6fjc84",
       "title": "Anthropic agrees to pay $1.5B to settle lawsuit with book authorsnytimes.com",
       "description": "Score: 578 | Comments: 418 | Posted by acomjean",
@@ -135,6 +157,17 @@
       "tags": []
     },
     {
+      "id": "qqg12k",
+      "title": "Requiem for an Exit",
+      "description": "Score: 23 | Comments: 0 | Posted by mnewme",
+      "url": "https://calls.ars.electronica.art/2025/prix/winners/15487/",
+      "publishedAt": "2025-09-05T18:08:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mnewme",
+      "tags": []
+    },
+    {
       "id": "gkjkng",
       "title": "Realtek RTL8127 10GbE PCIe cards and M.2 modules are starting to show up",
       "description": "Score: 25 | Comments: 0 | Posted by zdw",
@@ -154,6 +187,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "kickofline",
+      "tags": []
+    },
+    {
+      "id": "ap9sc",
+      "title": "Exploring Interlisp-10 and Twenex",
+      "description": "Score: 15 | Comments: 0 | Posted by naves",
+      "url": "https://journal.paoloamoroso.com/exploring-interlisp-10-and-twenex",
+      "publishedAt": "2025-09-05T17:16:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "naves",
       "tags": []
     },
     {
@@ -267,6 +311,17 @@
       "tags": []
     },
     {
+      "id": "ky9ako",
+      "title": "Forty-Four Esolangs: The Art of Esoteric Code",
+      "description": "Score: 37 | Comments: 18 | Posted by eso_eso",
+      "url": "https://spectrum.ieee.org/esoteric-programming-languages-daniel-temkin",
+      "publishedAt": "2025-09-05T12:33:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "eso_eso",
+      "tags": []
+    },
+    {
       "id": "mkx50w",
       "title": "I ditched Docker for Podman",
       "description": "Score: 914 | Comments: 537 | Posted by codesmash",
@@ -330,6 +385,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "calcifer",
+      "tags": []
+    },
+    {
+      "id": "j6twb7",
+      "title": "Truco and clones: the beginnings of Argentinian computer gaming",
+      "description": "Score: 19 | Comments: 3 | Posted by Michelangelo11",
+      "url": "https://zeitgame.net/archives/18373",
+      "publishedAt": "2025-09-05T07:18:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Michelangelo11",
       "tags": []
     },
     {

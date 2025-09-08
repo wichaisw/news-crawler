@@ -1,0 +1,61 @@
+{
+  "date": "2025-09-07",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3043266",
+      "title": "Microsoft says Azure affected after cables cut in the Red Sea",
+      "description": "It's not clear who cut the cables or why.",
+      "url": "https://techcrunch.com/2025/09/07/microsoft-says-azure-affected-after-cables-cut-in-the-red-sea/",
+      "publishedAt": "2025-09-07T21:31:17.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3043277",
+      "title": "Are bad incentives to blame for AI hallucinations?",
+      "description": "How can a chatbot be so wrong — and sound so confident in its wrongness?",
+      "url": "https://techcrunch.com/2025/09/07/are-bad-incentives-to-blame-for-ai-hallucinations/",
+      "publishedAt": "2025-09-07T21:23:23.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3043271",
+      "title": "Koah raises $5M to bring ads into AI apps",
+      "description": "One investor says Koah is \"building the essential monetization layer for consumer AI.\"",
+      "url": "https://techcrunch.com/2025/09/07/koah-raises-5m-to-bring-ads-into-ai-apps/",
+      "publishedAt": "2025-09-07T20:48:42.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3043075",
+      "title": "Hyundai’s eVTOL startup Supernal pauses work following CEO and CTO departures",
+      "description": "The shakeup comes as the startup was still struggling to get its test vehicle off the ground -- literally. The first flight was only in March.",
+      "url": "https://techcrunch.com/2025/09/07/hyundais-evtol-startup-supernal-pauses-work-following-ceo-and-cto-departures/",
+      "publishedAt": "2025-09-07T19:19:08.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sean O'Kane",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=2970347",
+      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+      "description": "Mistral AI, the French company behind AI assistant Le Chat and several foundational models, is officially regarded as one of France’s most promising",
+      "url": "https://techcrunch.com/2025/09/07/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "publishedAt": "2025-09-07T14:54:03.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anna Heim",
+      "tags": []
+    }
+  ]
+}

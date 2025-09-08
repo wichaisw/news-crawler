@@ -1,0 +1,72 @@
+{
+  "date": "2025-09-08",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "24q8zp",
+      "title": "AI Adoption Rate Trending Down for Large Companies",
+      "description": "Score: 4 | Comments: 0 | Posted by walterbell",
+      "url": "https://www.apolloacademy.com/ai-adoption-rate-trending-down-for-large-companies/",
+      "publishedAt": "2025-09-08T05:56:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "walterbell",
+      "tags": []
+    },
+    {
+      "id": "z8lfu7",
+      "title": "GitHub Community Discussions: Past year's top 2 requests are to disable Copilot",
+      "description": "Score: 48 | Comments: 17 | Posted by carodgers",
+      "url": "https://github.com/orgs/community/discussions",
+      "publishedAt": "2025-09-08T03:54:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "carodgers",
+      "tags": []
+    },
+    {
+      "id": "xnfzhb",
+      "title": "'Make invalid states unrepresentable' considered harmful",
+      "description": "Score: 38 | Comments: 34 | Posted by zdw",
+      "url": "https://www.seangoedecke.com/invalid-states/",
+      "publishedAt": "2025-09-08T03:40:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "mofqv9",
+      "title": "The brompton-ness of it all",
+      "description": "Score: 23 | Comments: 0 | Posted by paulpauper",
+      "url": "https://backofmind.substack.com/p/the-brompton-ness-of-it-all",
+      "publishedAt": "2025-09-08T01:56:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "paulpauper",
+      "tags": []
+    },
+    {
+      "id": "c8wnqr",
+      "title": "Building a Multilingual Blog with FastHTML",
+      "description": "Score: 6 | Comments: 0 | Posted by indigodaddy",
+      "url": "https://simn.fr/posts/multilingual-blog-fasthtml",
+      "publishedAt": "2025-09-08T00:34:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "indigodaddy",
+      "tags": []
+    },
+    {
+      "id": "gj17kg",
+      "title": "How the Slavic Migration Reshaped Central and Eastern Europe",
+      "description": "Score: 10 | Comments: 0 | Posted by gmays",
+      "url": "https://www.mpg.de/25256341/0827-evan-slavic-migration-reshaped-central-and-eastern-europe-150495-x",
+      "publishedAt": "2025-09-08T00:30:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gmays",
+      "tags": []
+    }
+  ]
+}

@@ -47,6 +47,17 @@
       "tags": []
     },
     {
+      "id": "cf0syc",
+      "title": "Hungry Hungry Hippos Autoplay (2017)",
+      "description": "Score: 8 | Comments: 4 | Posted by austinallegro",
+      "url": "https://www.mikekohn.net/micro/hungry_hungry_hippos.php",
+      "publishedAt": "2025-09-04T22:22:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "austinallegro",
+      "tags": []
+    },
+    {
       "id": "s51il",
       "title": "What Is the Fourier Transform?",
       "description": "Score: 235 | Comments: 98 | Posted by rbanffy",
@@ -91,6 +102,17 @@
       "tags": []
     },
     {
+      "id": "bm88lb",
+      "title": "SQLite's File Format",
+      "description": "Score: 174 | Comments: 77 | Posted by whatisabcdefgh",
+      "url": "https://www.sqlite.org/fileformat.html",
+      "publishedAt": "2025-09-04T21:36:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "whatisabcdefgh",
+      "tags": []
+    },
+    {
       "id": "1k36ms",
       "title": "Rocketships and Slingshots",
       "description": "Score: 37 | Comments: 14 | Posted by juecd",
@@ -121,6 +143,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "pykello",
+      "tags": []
+    },
+    {
+      "id": "ktb8fg",
+      "title": "The race to build a distributed GPU runtime",
+      "description": "Score: 58 | Comments: 29 | Posted by jonbaer",
+      "url": "https://voltrondata.com/blog/the-race-to-build-a-distributed-gpu-runtime",
+      "publishedAt": "2025-09-04T20:18:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jonbaer",
       "tags": []
     },
     {
@@ -168,6 +201,17 @@
       "tags": []
     },
     {
+      "id": "ihylbz",
+      "title": "I solved a distributed queue problem after 15 years",
+      "description": "Score: 21 | Comments: 2 | Posted by jedberg",
+      "url": "https://www.dbos.dev/blog/durable-queues",
+      "publishedAt": "2025-09-04T17:56:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jedberg",
+      "tags": []
+    },
+    {
       "id": "xjwnx4",
       "title": "Saquon Barkley is playing for equity",
       "description": "Score: 96 | Comments: 99 | Posted by polinapompliano",
@@ -176,6 +220,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "polinapompliano",
+      "tags": []
+    },
+    {
+      "id": "8j46ic",
+      "title": "Analog optical computer for AI inference and combinatorial optimization",
+      "description": "Score: 47 | Comments: 4 | Posted by officerk",
+      "url": "https://www.nature.com/articles/s41586-025-09430-z",
+      "publishedAt": "2025-09-04T17:06:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "officerk",
       "tags": []
     },
     {
@@ -333,6 +388,17 @@
       "tags": []
     },
     {
+      "id": "xfa67u",
+      "title": "How many dimensions is this?",
+      "description": "Score: 33 | Comments: 3 | Posted by robin_reala",
+      "url": "https://lcamtuf.substack.com/p/how-many-dimensions-is-this",
+      "publishedAt": "2025-09-04T07:25:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "robin_reala",
+      "tags": []
+    },
+    {
       "id": "fz5tyv",
       "title": "Kruci: Post-mortem of a UI library",
       "description": "Score: 53 | Comments: 13 | Posted by Patryk27",
@@ -374,6 +440,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ashia",
+      "tags": []
+    },
+    {
+      "id": "ffj464",
+      "title": "Purikura: The Japanese Grandmother of the Selfie",
+      "description": "Score: 63 | Comments: 33 | Posted by pantsuits",
+      "url": "https://www.tokyocowboy.co/articles/purikura-the-grandmother-of-the-selfie",
+      "publishedAt": "2025-09-04T03:46:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pantsuits",
       "tags": []
     },
     {
