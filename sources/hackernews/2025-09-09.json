@@ -1,0 +1,83 @@
+{
+  "date": "2025-09-09",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "enzwx8",
+      "title": "Docker Considered Harmful (2025)",
+      "description": "Score: 8 | Comments: 1 | Posted by Wicher",
+      "url": "https://quantum5.ca/2025/03/18/docker-considered-harmful/",
+      "publishedAt": "2025-09-09T04:54:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Wicher",
+      "tags": []
+    },
+    {
+      "id": "elnu00",
+      "title": "Strong Eventual Consistency – The Big Idea Behind CRDTs",
+      "description": "Score: 4 | Comments: 0 | Posted by tempodox",
+      "url": "https://lewiscampbell.tech/blog/250908.html",
+      "publishedAt": "2025-09-09T04:46:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tempodox",
+      "tags": []
+    },
+    {
+      "id": "w8pr81",
+      "title": "Byte Type: Supporting Raw Data Copies in the LLVM IR",
+      "description": "Score: 4 | Comments: 0 | Posted by luu",
+      "url": "https://blog.llvm.org/posts/2025-08-29-gsoc-byte-type/",
+      "publishedAt": "2025-09-09T04:44:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "luu",
+      "tags": []
+    },
+    {
+      "id": "baru37",
+      "title": "Incident Report for Anthropic",
+      "description": "Score: 29 | Comments: 25 | Posted by bashtoni",
+      "url": "https://status.anthropic.com/incidents/72f99lh1cj2c",
+      "publishedAt": "2025-09-09T01:51:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bashtoni",
+      "tags": []
+    },
+    {
+      "id": "gih77p",
+      "title": "Show HN: Attempt – A CLI for retrying fallible commands",
+      "description": "Score: 25 | Comments: 12 | Posted by maxbond",
+      "url": "https://github.com/MaxBondABE/attempt",
+      "publishedAt": "2025-09-09T01:37:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "maxbond",
+      "tags": []
+    },
+    {
+      "id": "xopttd",
+      "title": "No adblocker detected",
+      "description": "Score: 242 | Comments: 94 | Posted by LorenDB",
+      "url": "https://maurycyz.com/misc/ads/",
+      "publishedAt": "2025-09-09T01:09:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "LorenDB",
+      "tags": []
+    },
+    {
+      "id": "ulqp0l",
+      "title": "Jakub and Szymon",
+      "description": "Score: 10 | Comments: 0 | Posted by davidbarker",
+      "url": "https://blog.samaltman.com/jakub-and-szymon",
+      "publishedAt": "2025-09-09T00:13:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "davidbarker",
+      "tags": []
+    }
+  ]
+}

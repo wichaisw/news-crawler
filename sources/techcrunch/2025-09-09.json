@@ -1,0 +1,50 @@
+{
+  "date": "2025-09-09",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3044152",
+      "title": "OpenAI denies that it’s weighing a ‘last-ditch’ California exit amid regulatory pressure over its restructuring",
+      "description": "OpenAI executives are discussing a potential relocation out of California as increasing political resistance threatens the company's efforts to",
+      "url": "https://techcrunch.com/2025/09/08/openai-denies-that-its-weighing-a-last-ditch-california-exit-amid-regulatory-pressure-over-its-restructuring/",
+      "publishedAt": "2025-09-09T06:00:44.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Connie Loizos",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3044015",
+      "title": "ReOrbit lands record funding to take on Musk’s Starlink from Europe",
+      "description": "Finnish startup ReOrbit, has raised a record €45 million Series A for the country to offer \"sovereign\" satellites.",
+      "url": "https://techcrunch.com/2025/09/08/reorbit-lands-record-funding-to-take-on-musks-starlink-from-europe/",
+      "publishedAt": "2025-09-09T04:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anna Heim",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3044132",
+      "title": "Nepal reverses social media ban as protests turn deadly",
+      "description": "Nepal has reversed its social media ban following nationwide “Gen Z” protests and public backlash.",
+      "url": "https://techcrunch.com/2025/09/08/nepal-reverses-social-media-ban-as-protests-turn-deadly/",
+      "publishedAt": "2025-09-09T02:46:32.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Jagmeet Singh",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3044127",
+      "title": "Snap breaks into ‘startup squads’ as ad revenue stalls",
+      "description": "CEO Evan Spiegel just announced the company is restructuring around small \"startup squads\" of 10 to 15 people to regain agility against larger",
+      "url": "https://techcrunch.com/2025/09/08/snap-breaks-into-startup-squads-as-ad-revenue-stalls/",
+      "publishedAt": "2025-09-09T01:41:29.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Connie Loizos",
+      "tags": []
+    }
+  ]
+}
