@@ -179,6 +179,17 @@
       "tags": []
     },
     {
+      "id": "le9rjx",
+      "title": "Show HN: Bottlefire – Build single-executable microVMs from Docker images",
+      "description": "Score: 78 | Comments: 12 | Posted by losfair",
+      "url": "https://bottlefire.dev/",
+      "publishedAt": "2025-09-07T13:48:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "losfair",
+      "tags": []
+    },
+    {
       "id": "fsan9b",
       "title": "Belling the Cat",
       "description": "Score: 193 | Comments: 66 | Posted by walterbell",
@@ -198,6 +209,39 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "appliku",
+      "tags": []
+    },
+    {
+      "id": "rur4uc",
+      "title": "Cities obey the laws of living things",
+      "description": "Score: 50 | Comments: 11 | Posted by dnetesn",
+      "url": "https://nautil.us/cities-obey-the-laws-of-living-things-1236057/",
+      "publishedAt": "2025-09-07T11:31:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dnetesn",
+      "tags": []
+    },
+    {
+      "id": "qqw7rx",
+      "title": "Show HN: Ion, a Rust/Tokio powered JavaScript runtime for embedders",
+      "description": "Score: 25 | Comments: 2 | Posted by apatheticonion",
+      "url": "https://github.com/alshdavid/ion",
+      "publishedAt": "2025-09-07T11:21:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "apatheticonion",
+      "tags": []
+    },
+    {
+      "id": "7mtq4d",
+      "title": "Show HN: An Open Source XR(AR/VR) Operating System",
+      "description": "Score: 27 | Comments: 9 | Posted by ayush_xeneva",
+      "url": "https://www.getxeneva.com/",
+      "publishedAt": "2025-09-07T11:09:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ayush_xeneva",
       "tags": []
     },
     {
@@ -234,6 +278,28 @@
       "tags": []
     },
     {
+      "id": "h4vfd1",
+      "title": "Cassette Logic: technology that never dies but is already dead",
+      "description": "Score: 14 | Comments: 10 | Posted by seductivebarry",
+      "url": "https://www.differentshelf.com/cassette-logic/",
+      "publishedAt": "2025-09-07T09:20:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "seductivebarry",
+      "tags": []
+    },
+    {
+      "id": "i12jvt",
+      "title": "Things you can do with a debugger but not with print debugging",
+      "description": "Score: 107 | Comments: 87 | Posted by never_inline",
+      "url": "https://mahesh-hegde.github.io/posts/what_debugger_can/",
+      "publishedAt": "2025-09-07T08:22:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "never_inline",
+      "tags": []
+    },
+    {
       "id": "9bnlfp",
       "title": "I am giving up on Intel and have bought an AMD Ryzen 9950X3D",
       "description": "Score: 203 | Comments: 210 | Posted by secure",
@@ -242,6 +308,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "secure",
+      "tags": []
+    },
+    {
+      "id": "3sv8nt",
+      "title": "How We Built Our lakeFS Iceberg Catalog",
+      "description": "Score: 6 | Comments: 0 | Posted by forthelastime",
+      "url": "https://lakefs.io/blog/how-we-built-lakefs-iceberg-catalog/",
+      "publishedAt": "2025-09-07T06:43:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "forthelastime",
       "tags": []
     },
     {
@@ -363,6 +440,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mkdirpepper",
+      "tags": []
+    },
+    {
+      "id": "gv705i",
+      "title": "Axial twist theory",
+      "description": "Score: 105 | Comments: 22 | Posted by lordnacho",
+      "url": "https://en.wikipedia.org/wiki/Axial_twist_theory",
+      "publishedAt": "2025-09-07T00:25:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lordnacho",
       "tags": []
     }
   ]

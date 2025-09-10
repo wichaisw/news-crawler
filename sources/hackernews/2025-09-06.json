@@ -146,6 +146,17 @@
       "tags": []
     },
     {
+      "id": "3hsrib",
+      "title": "How to study people who are drunk",
+      "description": "Score: 11 | Comments: 3 | Posted by marojejian",
+      "url": "https://www.economist.com/science-and-technology/2025/09/03/how-to-study-people-who-are-very-drunk",
+      "publishedAt": "2025-09-06T19:39:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "marojejian",
+      "tags": []
+    },
+    {
       "id": "d4u6pf",
       "title": "How the “Kim” dump exposed North Korea's credential theft playbook",
       "description": "Score: 255 | Comments: 74 | Posted by notmine1337",
@@ -308,6 +319,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "vincirufus",
+      "tags": []
+    },
+    {
+      "id": "yt7fcf",
+      "title": "Yet Another TypeSafe and Generic Programming Candidate for C",
+      "description": "Score: 59 | Comments: 12 | Posted by brightprogramer",
+      "url": "https://github.com/brightprogrammer/MisraStdC",
+      "publishedAt": "2025-09-06T00:06:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "brightprogramer",
       "tags": []
     }
   ]

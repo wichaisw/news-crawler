@@ -1,0 +1,61 @@
+{
+  "date": "2025-09-10",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "h2fd5n",
+      "title": "I replaced Animal Crossing's dialogue with a live LLM by hacking GameCube memoryjoshfonseca.com",
+      "description": "Score: 192 | Comments: 37 | Posted by vuciv",
+      "url": "https://joshfonseca.com/blogs/animal-crossing-llm",
+      "publishedAt": "2025-09-10T03:09:05.713Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vuciv",
+      "tags": []
+    },
+    {
+      "id": "h2fd5n",
+      "title": "I replaced Animal Crossing's dialogue with a live LLM by hacking GameCube memory",
+      "description": "Score: 192 | Comments: 37 | Posted by vuciv",
+      "url": "https://joshfonseca.com/blogs/animal-crossing-llm",
+      "publishedAt": "2025-09-10T02:59:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vuciv",
+      "tags": []
+    },
+    {
+      "id": "kh7wpp",
+      "title": "R-Zero: Self-Evolving Reasoning LLM from Zero Data",
+      "description": "Score: 11 | Comments: 2 | Posted by lawrenceyan",
+      "url": "https://arxiv.org/abs/2508.05004",
+      "publishedAt": "2025-09-10T02:02:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lawrenceyan",
+      "tags": []
+    },
+    {
+      "id": "q5tsg8",
+      "title": "Three farmers on monopolies and mismanagement in U.S. agriculture",
+      "description": "Score: 148 | Comments: 150 | Posted by strict9",
+      "url": "https://www.agweb.com/markets/outraged-farmers-blame-ag-monopolies-catastrophic-collapse-looms",
+      "publishedAt": "2025-09-10T01:17:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "strict9",
+      "tags": []
+    },
+    {
+      "id": "eehw8y",
+      "title": "NASA finds Titan's lakes may be creating vesicles with primitive cell walls",
+      "description": "Score: 85 | Comments: 9 | Posted by Gaishan",
+      "url": "https://www.sciencedaily.com/releases/2025/08/250831112449.htm",
+      "publishedAt": "2025-09-10T00:10:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Gaishan",
+      "tags": []
+    }
+  ]
+}

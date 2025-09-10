@@ -1,0 +1,30 @@
+{
+  "date": "2025-09-10",
+  "source": "theverge",
+  "articles": [
+    {
+      "id": "j7bxy6",
+      "title": "Nikon's first RED co-brand is the Nikon ZR",
+      "description": "Nikon has just unveiled the ZR, its first official co-brand with RED, the cinema camera company it purchased in April of last year. The ZR takes what Nikon has already been doing well, with its heavily adaptable Z-mount, internal RAW video recording and popular color science and turns it up to 11 for video shooters. [&#8230;]",
+      "url": "https://www.theverge.com/cameras/775373/nikons-first-red-co-brand-is-the-nikon-zr",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Nikon-ZR-David-Imel-for-Verge.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2025-09-10T06:01:57.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "David Imel",
+      "tags": []
+    },
+    {
+      "id": "hxzgs9",
+      "title": "Apple says the iPhone 17 comes with a massive security upgrade",
+      "description": "It’s less noticeable than a thinner profile or trick camera lenses, but Apple is pointing out another upgrade in the iPhone 17 family of phones that it says is part of “the most significant upgrade to memory safety in the history of consumer operating systems.” Explicitly targeting the spyware industry that produces exploits for tools [&#8230;]",
+      "url": "https://www.theverge.com/news/775234/iphone-17-air-a19-memory-integrity-enforcement-mte-security",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/IMG_0166.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2025-09-10T00:05:58.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Richard Lawler",
+      "tags": []
+    }
+  ]
+}

@@ -267,6 +267,17 @@
       "tags": []
     },
     {
+      "id": "j70vgc",
+      "title": "Go for Bash Programmers – Part II: CLI Tools",
+      "description": "Score: 100 | Comments: 4 | Posted by reisinge",
+      "url": "https://github.com/go-monk/from-bash-to-go-part-ii",
+      "publishedAt": "2025-09-08T12:26:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "reisinge",
+      "tags": []
+    },
+    {
       "id": "q9ap0z",
       "title": "A clickable visual guide to the Rust type system",
       "description": "Score: 211 | Comments: 36 | Posted by ashvardanian",
@@ -300,6 +311,17 @@
       "tags": []
     },
     {
+      "id": "o81jod",
+      "title": "Anscombe's Quartet",
+      "description": "Score: 114 | Comments: 25 | Posted by gidellav",
+      "url": "https://en.wikipedia.org/wiki/Anscombe%27s_quartet",
+      "publishedAt": "2025-09-08T09:29:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gidellav",
+      "tags": []
+    },
+    {
       "id": "j0zxfz",
       "title": "Immich – High performance self-hosted photo and video management",
       "description": "Score: 489 | Comments: 167 | Posted by rzk",
@@ -330,6 +352,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "walterbell",
+      "tags": []
+    },
+    {
+      "id": "ihylbz",
+      "title": "I solved a distributed queue problem after 15 years",
+      "description": "Score: 95 | Comments: 39 | Posted by Bogdanp",
+      "url": "https://www.dbos.dev/blog/durable-queues",
+      "publishedAt": "2025-09-08T05:28:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Bogdanp",
       "tags": []
     },
     {
