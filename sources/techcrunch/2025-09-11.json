@@ -1,0 +1,28 @@
+{
+  "date": "2025-09-11",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3045125",
+      "title": "A California bill that would regulate AI companion chatbots is close to becoming law",
+      "description": "If SB 243 is enacted, California would become the first state to require operators to implement safety protocols for AI companions and hold companies",
+      "url": "https://techcrunch.com/2025/09/10/a-california-bill-that-would-regulate-ai-companion-chatbots-is-close-to-becoming-law/",
+      "publishedAt": "2025-09-11T05:10:51.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Rebecca Bellan",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3045119",
+      "title": "Perplexity reportedly raised $200M at $20B valuation",
+      "description": "The AI-powered search startup's valuation jumped from $18 billion two months earlier.",
+      "url": "https://techcrunch.com/2025/09/10/perplexity-reportedly-raised-200m-at-20b-valuation/",
+      "publishedAt": "2025-09-11T03:59:10.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Marina Temkin",
+      "tags": []
+    }
+  ]
+}

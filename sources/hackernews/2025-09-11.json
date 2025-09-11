@@ -1,0 +1,72 @@
+{
+  "date": "2025-09-11",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "4t6t3z",
+      "title": "The Four Fallacies of Modern AI",
+      "description": "Score: 20 | Comments: 7 | Posted by 13years",
+      "url": "https://blog.apiad.net/p/the-four-fallacies-of-modern-ai",
+      "publishedAt": "2025-09-11T02:26:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "13years",
+      "tags": []
+    },
+    {
+      "id": "91vt6c",
+      "title": "Apple paying $95M in a Siri eavesdropping settlement",
+      "description": "Score: 30 | Comments: 7 | Posted by 1vuio0pswjnm7",
+      "url": "https://www.cbsnews.com/news/apple-siri-settlement-95-million-lopez-how-to-file-claim/",
+      "publishedAt": "2025-09-11T02:07:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "1vuio0pswjnm7",
+      "tags": []
+    },
+    {
+      "id": "yg1g1b",
+      "title": "Court rejects Verizon claim that selling location data without consent is legal",
+      "description": "Score: 307 | Comments: 23 | Posted by nobody9999",
+      "url": "https://arstechnica.com/tech-policy/2025/09/court-rejects-verizon-claim-that-selling-location-data-without-consent-is-legal/",
+      "publishedAt": "2025-09-11T01:27:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nobody9999",
+      "tags": []
+    },
+    {
+      "id": "otcnqa",
+      "title": "Where did the Smurfs get their hats (2018)",
+      "description": "Score: 42 | Comments: 17 | Posted by andsoitis",
+      "url": "https://www.pipelinecomics.com/beginning-bd-smurfs-hats-origin/",
+      "publishedAt": "2025-09-11T00:52:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andsoitis",
+      "tags": []
+    },
+    {
+      "id": "7huo9w",
+      "title": "$142 upgrade kit and spare modules turn Nvidia RTX 4090 24GB to 48GB AI card",
+      "description": "Score: 31 | Comments: 7 | Posted by RachelF",
+      "url": "https://www.tomshardware.com/pc-components/gpus/usd142-upgrade-kit-and-spare-modules-turn-nvidia-rtx-4090-24gb-to-48gb-ai-card-technician-explains-how-chinese-factories-turn-gaming-flagships-into-highly-desirable-ai-gpus",
+      "publishedAt": "2025-09-11T00:51:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "RachelF",
+      "tags": []
+    },
+    {
+      "id": "71cawh",
+      "title": "Uniprof: Universal CPU Profiling",
+      "description": "Score: 7 | Comments: 0 | Posted by jshchnz",
+      "url": "https://www.uniprof.sh/",
+      "publishedAt": "2025-09-11T00:13:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jshchnz",
+      "tags": []
+    }
+  ]
+}

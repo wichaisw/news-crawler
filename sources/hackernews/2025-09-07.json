@@ -36,6 +36,17 @@
       "tags": []
     },
     {
+      "id": "o0xxt3",
+      "title": "What would you do with 52 hours a week of discretionary time?",
+      "description": "Score: 7 | Comments: 3 | Posted by ntnbr",
+      "url": "https://www.njbrown.com/blog/25/",
+      "publishedAt": "2025-09-07T22:30:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ntnbr",
+      "tags": []
+    },
+    {
       "id": "nhyh9d",
       "title": "Intel Arc Pro B50 GPU Launched at $349 for Compact Workstations",
       "description": "Score: 82 | Comments: 90 | Posted by qwytw",
@@ -135,6 +146,17 @@
       "tags": []
     },
     {
+      "id": "udb3cp",
+      "title": "Clojure's Solutions to the Expression Problem",
+      "description": "Score: 92 | Comments: 5 | Posted by adityaathalye",
+      "url": "https://www.infoq.com/presentations/Clojure-Expression-Problem/",
+      "publishedAt": "2025-09-07T19:31:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "adityaathalye",
+      "tags": []
+    },
+    {
       "id": "j1lgvb",
       "title": "How to make metals from Martian dirt",
       "description": "Score: 51 | Comments: 38 | Posted by PaulHoule",
@@ -201,6 +223,17 @@
       "tags": []
     },
     {
+      "id": "qqazxu",
+      "title": "Semantic Line Breaks (2017)",
+      "description": "Score: 84 | Comments: 52 | Posted by Bogdanp",
+      "url": "https://sembr.org",
+      "publishedAt": "2025-09-07T12:14:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Bogdanp",
+      "tags": []
+    },
+    {
       "id": "8gvcgt",
       "title": "Algebraic Effects in Practice with Flix",
       "description": "Score: 90 | Comments: 43 | Posted by appliku",
@@ -209,6 +242,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "appliku",
+      "tags": []
+    },
+    {
+      "id": "29wtew",
+      "title": "Some thoughts on personal Git hosting",
+      "description": "Score: 86 | Comments: 81 | Posted by ColinWright",
+      "url": "https://shkspr.mobi/blog/2025/09/some-thoughts-on-personal-git-hosting/",
+      "publishedAt": "2025-09-07T12:01:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ColinWright",
       "tags": []
     },
     {
@@ -308,6 +352,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "secure",
+      "tags": []
+    },
+    {
+      "id": "pwlkjb",
+      "title": "A polyglot's guide to multiple-dispatch (2016)",
+      "description": "Score: 47 | Comments: 8 | Posted by andsoitis",
+      "url": "https://eli.thegreenplace.net/2016/a-polyglots-guide-to-multiple-dispatch/",
+      "publishedAt": "2025-09-07T06:49:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andsoitis",
       "tags": []
     },
     {
@@ -451,6 +506,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "lordnacho",
+      "tags": []
+    },
+    {
+      "id": "1lqe7q",
+      "title": "Knowledge and memory",
+      "description": "Score: 95 | Comments: 45 | Posted by zdw",
+      "url": "https://www.robinsloan.com/lab/knowledge-and-memory/",
+      "publishedAt": "2025-09-07T00:15:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
       "tags": []
     }
   ]

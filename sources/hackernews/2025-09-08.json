@@ -36,6 +36,17 @@
       "tags": []
     },
     {
+      "id": "jzujrw",
+      "title": "Formally verifying a floating-point division routine with Gappa – part 1",
+      "description": "Score: 14 | Comments: 1 | Posted by montalbano",
+      "url": "https://community.arm.com/arm-community-blogs/b/embedded-and-microcontrollers-blog/posts/formally-verifying-a-floating-point-division-routine-with-gappa-p1",
+      "publishedAt": "2025-09-08T21:35:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "montalbano",
+      "tags": []
+    },
+    {
       "id": "1ssko1",
       "title": "Liquid Glass in the Browser: Refraction with CSS and SVG",
       "description": "Score: 159 | Comments: 38 | Posted by Sateeshm",
@@ -110,6 +121,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ionychal",
+      "tags": []
+    },
+    {
+      "id": "b51m5",
+      "title": "The HackberryPi CM5 handheld computer",
+      "description": "Score: 177 | Comments: 51 | Posted by kristianpaul",
+      "url": "https://github.com/ZitaoTech/HackberryPiCM5",
+      "publishedAt": "2025-09-08T18:36:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kristianpaul",
+      "tags": []
+    },
+    {
+      "id": "qg5nak",
+      "title": "All clickwheel iPod games have now been preserved for posterity",
+      "description": "Score: 239 | Comments: 61 | Posted by CharlesW",
+      "url": "https://arstechnica.com/gaming/2025/09/all-54-lost-clickwheel-ipod-games-have-now-been-preserved-for-posterity/",
+      "publishedAt": "2025-09-08T18:09:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "CharlesW",
       "tags": []
     },
     {
@@ -234,6 +267,17 @@
       "tags": []
     },
     {
+      "id": "tk0jl2",
+      "title": "Picat: A Logic-based Multi-paradigm Language (2014) [pdf]",
+      "description": "Score: 23 | Comments: 0 | Posted by b-man",
+      "url": "https://logicprogramming.org/wp-content/uploads/2014/07/alp14.pdf",
+      "publishedAt": "2025-09-08T13:04:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "b-man",
+      "tags": []
+    },
+    {
       "id": "ltells",
       "title": "AI might yet follow the path of previous technological revolutions",
       "description": "Score: 143 | Comments: 196 | Posted by mooreds",
@@ -300,6 +344,28 @@
       "tags": []
     },
     {
+      "id": "6u3xaa",
+      "title": "A desktop environment without graphics (tmux-like)",
+      "description": "Score: 45 | Comments: 8 | Posted by mustaphah",
+      "url": "https://github.com/Julien-cpsn/desktop-tui",
+      "publishedAt": "2025-09-08T12:07:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mustaphah",
+      "tags": []
+    },
+    {
+      "id": "fmdmgx",
+      "title": "Hot Chips 2025: Session 1 – CPUs – By George Cozma",
+      "description": "Score: 11 | Comments: 0 | Posted by rbanffy",
+      "url": "https://chipsandcheese.com/p/hot-chips-2025-session-1-cpus",
+      "publishedAt": "2025-09-08T12:02:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rbanffy",
+      "tags": []
+    },
+    {
       "id": "b2efgq",
       "title": "How RSS beat Microsoft",
       "description": "Score: 283 | Comments: 158 | Posted by vidyesh",
@@ -308,6 +374,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "vidyesh",
+      "tags": []
+    },
+    {
+      "id": "c3gm53",
+      "title": "Distributing your own scripts via Homebrew",
+      "description": "Score: 66 | Comments: 13 | Posted by ingve",
+      "url": "https://justin.searls.co/posts/how-to-distribute-your-own-scripts-via-homebrew/",
+      "publishedAt": "2025-09-08T10:36:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingve",
       "tags": []
     },
     {
@@ -330,6 +407,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "rzk",
+      "tags": []
+    },
+    {
+      "id": "qf73p3",
+      "title": "Rewriting Dataframes for MicroHaskell",
+      "description": "Score: 14 | Comments: 0 | Posted by internet_points",
+      "url": "https://mchav.github.io/rewriting-dataframes-for-microhs/",
+      "publishedAt": "2025-09-08T07:45:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "internet_points",
+      "tags": []
+    },
+    {
+      "id": "huw4gl",
+      "title": "Deliberate Abstraction",
+      "description": "Score: 15 | Comments: 3 | Posted by todsacerdoti",
+      "url": "https://entropicthoughts.com/deliberate-abstraction",
+      "publishedAt": "2025-09-08T07:20:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
       "tags": []
     },
     {
@@ -396,6 +495,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "paulpauper",
+      "tags": []
+    },
+    {
+      "id": "2t5cnv",
+      "title": "Harvey Mudd Miniature Machine",
+      "description": "Score: 61 | Comments: 23 | Posted by nill0",
+      "url": "https://www.cs.hmc.edu/~cs5grad/cs5/hmmm/documentation/documentation.html",
+      "publishedAt": "2025-09-08T01:46:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nill0",
       "tags": []
     },
     {
