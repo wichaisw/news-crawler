@@ -1,0 +1,105 @@
+{
+  "date": "2025-09-12",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "scbfu9",
+      "title": "Sam Altman on Tucker Carlson [video]",
+      "description": "Score: 6 | Comments: 5 | Posted by ericzawo",
+      "url": "https://www.youtube.com/watch?v=5KmpT-BoVf4",
+      "publishedAt": "2025-09-12T05:22:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ericzawo",
+      "tags": []
+    },
+    {
+      "id": "q9mgy5",
+      "title": "Differences between stal/IX and regular Linux",
+      "description": "Score: 14 | Comments: 1 | Posted by lioeters",
+      "url": "https://stal-ix.github.io/STALIX.html",
+      "publishedAt": "2025-09-12T03:08:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lioeters",
+      "tags": []
+    },
+    {
+      "id": "fu3pf9",
+      "title": "Debian 13, Postgres, and the US time zones",
+      "description": "Score: 30 | Comments: 3 | Posted by move-on-by",
+      "url": "https://rachelbythebay.com/w/2025/09/11/debtz/",
+      "publishedAt": "2025-09-12T02:33:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "move-on-by",
+      "tags": []
+    },
+    {
+      "id": "hy9wn0",
+      "title": "The challenge of maintaining curl",
+      "description": "Score: 66 | Comments: 16 | Posted by signa11",
+      "url": "https://lwn.net/Articles/1034966/",
+      "publishedAt": "2025-09-12T01:42:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "signa11",
+      "tags": []
+    },
+    {
+      "id": "4tvkel",
+      "title": "The effects of algorithms on the public discourse",
+      "description": "Score: 147 | Comments: 73 | Posted by Improvement",
+      "url": "https://tekhne.dev/internet-resist/",
+      "publishedAt": "2025-09-12T00:39:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Improvement",
+      "tags": []
+    },
+    {
+      "id": "khtoom",
+      "title": "Backprompting: Leveraging synthetic production data for health advice guardrails",
+      "description": "Score: 16 | Comments: 0 | Posted by PaulHoule",
+      "url": "https://arxiv.org/abs/2508.18384",
+      "publishedAt": "2025-09-12T00:31:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "PaulHoule",
+      "tags": []
+    },
+    {
+      "id": "2oufow",
+      "title": "Float Exposed",
+      "description": "Score: 90 | Comments: 17 | Posted by SomaticPirate",
+      "url": "https://float.exposed/",
+      "publishedAt": "2025-09-12T00:11:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "SomaticPirate",
+      "tags": []
+    },
+    {
+      "id": "550l1n",
+      "title": "Why our website looks like an operating systemposthog.com",
+      "description": "Score: 160 | Comments: 114 | Posted by bnc319",
+      "url": "https://posthog.com/blog/why-os",
+      "publishedAt": "2025-09-12T00:08:45.205Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bnc319",
+      "tags": []
+    },
+    {
+      "id": "q5i4t0",
+      "title": "Toddlerbot: Open-Source Humanoid Robot",
+      "description": "Score: 40 | Comments: 6 | Posted by base698",
+      "url": "https://toddlerbot.github.io/",
+      "publishedAt": "2025-09-12T00:04:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "base698",
+      "tags": []
+    }
+  ]
+}
