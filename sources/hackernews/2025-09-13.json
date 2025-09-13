@@ -1,0 +1,127 @@
+{
+  "date": "2025-09-13",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "mu7uzb",
+      "title": "GCC Rust Compiler Continues Quest to Compile the Linux Kernel Crate",
+      "description": "Score: 3 | Comments: 1 | Posted by MilnerRoute",
+      "url": "https://www.phoronix.com/news/gccrs-August-2025",
+      "publishedAt": "2025-09-13T05:16:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "MilnerRoute",
+      "tags": []
+    },
+    {
+      "id": "atousl",
+      "title": "Qwen 3 now supports ARM and MLX",
+      "description": "Score: 7 | Comments: 1 | Posted by dworks",
+      "url": "https://www.alizila.com/qwen-ecosystem-expands-rapidly-accelerating-ai-adoption-across-industries/",
+      "publishedAt": "2025-09-13T05:01:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dworks",
+      "tags": []
+    },
+    {
+      "id": "xkyi2e",
+      "title": "SkiftOS: A hobby OS built from scratch using C/C++ for ARM, x86, and RISC-V",
+      "description": "Score: 8 | Comments: 1 | Posted by ksec",
+      "url": "https://skiftos.org",
+      "publishedAt": "2025-09-13T04:55:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ksec",
+      "tags": []
+    },
+    {
+      "id": "4ji51u",
+      "title": "Raspberry Pi Synthesizers – How the Pi is transforming synths",
+      "description": "Score: 3 | Comments: 0 | Posted by zdw",
+      "url": "https://www.gearnews.com/raspberry-pi-synthesizers-how-the-pi-is-transforming-synths/",
+      "publishedAt": "2025-09-13T04:08:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "74hmf3",
+      "title": "Show HN: wcwidth-o1 – Find Unicode text cell width in no time for JavaScript/TS",
+      "description": "Score: 8 | Comments: 2 | Posted by dawson0",
+      "url": "https://github.com/dawsonhuang0/Wcwidth-O1",
+      "publishedAt": "2025-09-13T02:53:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dawson0",
+      "tags": []
+    },
+    {
+      "id": "nbmbtm",
+      "title": "OCI Registry Explorer",
+      "description": "Score: 26 | Comments: 4 | Posted by jcbhmr",
+      "url": "https://oci.dag.dev/",
+      "publishedAt": "2025-09-13T02:41:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jcbhmr",
+      "tags": []
+    },
+    {
+      "id": "dg5qw1",
+      "title": "Chatbox app is back on the US app store",
+      "description": "Score: 35 | Comments: 12 | Posted by themez",
+      "url": "https://github.com/chatboxai/chatbox/issues/2644",
+      "publishedAt": "2025-09-13T02:13:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "themez",
+      "tags": []
+    },
+    {
+      "id": "zch0n1",
+      "title": "Legal win",
+      "description": "Score: 133 | Comments: 98 | Posted by pentagrama",
+      "url": "https://ma.tt/2025/09/legal-win/",
+      "publishedAt": "2025-09-13T01:55:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pentagrama",
+      "tags": []
+    },
+    {
+      "id": "tp8ici",
+      "title": "California lawmakers pass SB 79, housing bill that brings dense housing",
+      "description": "Score: 129 | Comments: 54 | Posted by mji",
+      "url": "https://www.latimes.com/california/story/2025-09-12/california-lawmakers-pass-sb-79-housing-bill-that-brings-dense-housing-to-transit-hubs",
+      "publishedAt": "2025-09-13T01:32:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mji",
+      "tags": []
+    },
+    {
+      "id": "tm2i5m",
+      "title": "Life, work, death and the peasant: Rent and extraction",
+      "description": "Score: 137 | Comments: 22 | Posted by baud147258",
+      "url": "https://acoup.blog/2025/09/12/collections-life-work-death-and-the-peasant-part-ivc-rent-and-extraction/",
+      "publishedAt": "2025-09-13T01:15:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "baud147258",
+      "tags": []
+    },
+    {
+      "id": "q4bsym",
+      "title": "Meow: Yet another modal editing on Emacs",
+      "description": "Score: 73 | Comments: 10 | Posted by Bogdanp",
+      "url": "https://github.com/meow-edit/meow",
+      "publishedAt": "2025-09-13T01:00:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Bogdanp",
+      "tags": []
+    }
+  ]
+}

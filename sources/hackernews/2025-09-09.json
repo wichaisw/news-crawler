@@ -190,6 +190,17 @@
       "tags": []
     },
     {
+      "id": "kmkqgh",
+      "title": "Real-time AI hallucination detection with timeplus: A chess example",
+      "description": "Score: 15 | Comments: 8 | Posted by gangtao",
+      "url": "https://www.timeplus.com/post/ai-chess-hallucination-detection",
+      "publishedAt": "2025-09-09T15:20:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gangtao",
+      "tags": []
+    },
+    {
       "id": "fp0lx4",
       "title": "Building a DOOM-like multiplayer shooter in pure SQL",
       "description": "Score: 164 | Comments: 32 | Posted by lvogel",
@@ -223,6 +234,17 @@
       "tags": []
     },
     {
+      "id": "grfyvq",
+      "title": "Unauthorized Windows/386",
+      "description": "Score: 59 | Comments: 10 | Posted by Bogdanp",
+      "url": "https://virtuallyfun.com/2025/09/06/unauthorized-windows-386/",
+      "publishedAt": "2025-09-09T15:09:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Bogdanp",
+      "tags": []
+    },
+    {
       "id": "t164b4",
       "title": "A new experimental Go API for JSON",
       "description": "Score: 192 | Comments: 65 | Posted by darccio",
@@ -245,6 +267,17 @@
       "tags": []
     },
     {
+      "id": "x0u1kz",
+      "title": "Kefir: Solo-developed full C17/C23 compiler with extensive validation",
+      "description": "Score: 40 | Comments: 5 | Posted by jprotopopov",
+      "url": "https://kefir.protopopov.lv/posts/announce0.html",
+      "publishedAt": "2025-09-09T14:34:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jprotopopov",
+      "tags": []
+    },
+    {
       "id": "lpfywk",
       "title": "Claude now has access to a server-side container environment",
       "description": "Score: 497 | Comments: 274 | Posted by meetpateltech",
@@ -256,6 +289,28 @@
       "tags": []
     },
     {
+      "id": "1tjw3q",
+      "title": "Antlr-Ng Parser Generator",
+      "description": "Score: 25 | Comments: 8 | Posted by djoldman",
+      "url": "https://www.antlr-ng.org/",
+      "publishedAt": "2025-09-09T14:04:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "djoldman",
+      "tags": []
+    },
+    {
+      "id": "7p86ut",
+      "title": "How to Use Claude Code Subagents to Parallelize Development",
+      "description": "Score: 29 | Comments: 12 | Posted by zachwills",
+      "url": "https://zachwills.net/how-to-use-claude-code-subagents-to-parallelize-development/",
+      "publishedAt": "2025-09-09T13:21:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zachwills",
+      "tags": []
+    },
+    {
       "id": "2zq4ly",
       "title": "Show HN: Term.everything – Run any GUI app in the terminal",
       "description": "Score: 765 | Comments: 110 | Posted by mmulet",
@@ -264,6 +319,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mmulet",
+      "tags": []
+    },
+    {
+      "id": "momi5f",
+      "title": "Reduce bandwidth costs with dm-cache: fast local SSD caching for network storage",
+      "description": "Score: 44 | Comments: 15 | Posted by tlar",
+      "url": "https://devcenter.upsun.com/posts/cut-aws-bandwidth-costs-95-with-dm-cache/",
+      "publishedAt": "2025-09-09T12:14:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tlar",
       "tags": []
     },
     {
@@ -308,6 +374,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "nobody9999",
+      "tags": []
+    },
+    {
+      "id": "94a498",
+      "title": "How to become a pure mathematician or statistician (2008)",
+      "description": "Score: 87 | Comments: 75 | Posted by ipnon",
+      "url": "http://hbpms.blogspot.com/",
+      "publishedAt": "2025-09-09T07:10:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ipnon",
       "tags": []
     },
     {
@@ -377,6 +454,17 @@
       "tags": []
     },
     {
+      "id": "bc1lsh",
+      "title": "First 'perovskite camera' can see inside the human body",
+      "description": "Score: 48 | Comments: 11 | Posted by geox",
+      "url": "https://news.northwestern.edu/stories/2025/09/first-perovskite-camera-can-see-inside-the-human-body/",
+      "publishedAt": "2025-09-09T01:49:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "geox",
+      "tags": []
+    },
+    {
       "id": "gih77p",
       "title": "Show HN: Attempt – A CLI for retrying fallible commands",
       "description": "Score: 25 | Comments: 12 | Posted by maxbond",
@@ -396,6 +484,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "LorenDB",
+      "tags": []
+    },
+    {
+      "id": "2ce75f",
+      "title": "Windows-Use: an AI agent that interacts with Windows at GUI layer",
+      "description": "Score: 111 | Comments: 22 | Posted by djhu9",
+      "url": "https://github.com/CursorTouch/Windows-Use",
+      "publishedAt": "2025-09-09T00:33:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "djhu9",
       "tags": []
     },
     {
