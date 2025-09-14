@@ -223,6 +223,17 @@
       "tags": []
     },
     {
+      "id": "ab1wxv",
+      "title": "Perrinn 424 – An open access electric hyper car designed for racing",
+      "description": "Score: 23 | Comments: 1 | Posted by pillars",
+      "url": "https://discover.perrinn.com/home",
+      "publishedAt": "2025-09-10T15:14:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pillars",
+      "tags": []
+    },
+    {
       "id": "s0d0y1",
       "title": "Jiratui – A Textual UI for interacting with Atlassian Jira from your shell",
       "description": "Score: 193 | Comments: 57 | Posted by gjvc",
@@ -245,6 +256,39 @@
       "tags": []
     },
     {
+      "id": "fui17r",
+      "title": "Lexy: A parser combinator library for C++17",
+      "description": "Score: 38 | Comments: 5 | Posted by klaussilveira",
+      "url": "https://github.com/foonathan/lexy",
+      "publishedAt": "2025-09-10T14:05:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "klaussilveira",
+      "tags": []
+    },
+    {
+      "id": "dqkrea",
+      "title": "The Socratic Journal Method: A Simple Journaling Method That Works",
+      "description": "Score: 50 | Comments: 11 | Posted by surprisetalk",
+      "url": "https://mindthenerd.com/the-socratic-journal-method-a-simple-journaling-method-that-actually-works/",
+      "publishedAt": "2025-09-10T14:03:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
+      "id": "k2ptkz",
+      "title": "George Bernard Shaw by G. K. Chesterton (1909)",
+      "description": "Score: 12 | Comments: 1 | Posted by lordleft",
+      "url": "https://www.gutenberg.org/ebooks/19535",
+      "publishedAt": "2025-09-10T13:59:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lordleft",
+      "tags": []
+    },
+    {
       "id": "fo25kc",
       "title": "Show HN: Small Transfers – charge from 0.000001 USD per request for your SaaS",
       "description": "Score: 131 | Comments: 38 | Posted by strnisa",
@@ -253,6 +297,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "strnisa",
+      "tags": []
+    },
+    {
+      "id": "gxcw05",
+      "title": "Presence in VR should show tiny people, not user avatars (2022)",
+      "description": "Score: 10 | Comments: 4 | Posted by andsoitis",
+      "url": "https://interconnected.org/home/2022/05/03/landscape",
+      "publishedAt": "2025-09-10T12:49:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andsoitis",
       "tags": []
     },
     {
@@ -374,6 +429,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "lawrenceyan",
+      "tags": []
+    },
+    {
+      "id": "5yx59i",
+      "title": "Open Source SDR Ham Transceiver Prototype",
+      "description": "Score: 97 | Comments: 9 | Posted by crcastle",
+      "url": "https://m17project.org/2025/08/18/first-linht-tests/",
+      "publishedAt": "2025-09-10T01:38:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "crcastle",
       "tags": []
     },
     {

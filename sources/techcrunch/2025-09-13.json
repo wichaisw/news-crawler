@@ -1,0 +1,72 @@
+{
+  "date": "2025-09-13",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3045713",
+      "title": "Tesla board chair calls debate over Elon Musk’s $1T pay package ‘a little bit weird’",
+      "description": "Tesla's board chair is defending a proposed 10-year, $1 trillion compensation package for CEO Elon Musk.",
+      "url": "https://techcrunch.com/2025/09/13/tesla-board-chair-calls-debate-over-elon-musks-1t-pay-package-a-little-bit-weird/",
+      "publishedAt": "2025-09-13T21:33:34.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3045540",
+      "title": "Pilot union urges FAA to reject Rainmaker’s drone cloud-seeding plan",
+      "description": "Rainmaker wants to use flares to seed clouds — the airline pilots' union says it won't be safe.",
+      "url": "https://techcrunch.com/2025/09/13/pilot-union-urges-faa-to-reject-rainmakers-drone-cloud-seeding-plan/",
+      "publishedAt": "2025-09-13T19:10:43.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Aria Alamalhodaei, Tim De Chant",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3045708",
+      "title": "California lawmakers pass AI safety bill SB 53 — but Newsom could still veto",
+      "description": "The state's landmark safety bill sets new transparency requirements for large AI companies.",
+      "url": "https://techcrunch.com/2025/09/13/california-lawmakers-pass-ai-safety-bill-sb-53-but-newsom-could-still-veto/",
+      "publishedAt": "2025-09-13T18:56:50.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3045700",
+      "title": "xAI reportedly lays off 500 workers from data annotation team",
+      "description": "Elon Musk's AI startup says it's shifting focus from generalist AI tutors to specialists.",
+      "url": "https://techcrunch.com/2025/09/13/xai-reportedly-lays-off-500-workers-from-data-annotation-team/",
+      "publishedAt": "2025-09-13T15:50:50.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3045548",
+      "title": "Here’s the tech powering ICE’s deportation crackdown",
+      "description": "From phone spyware and facial recognition to forensic phone hacking technology to databases and more, this tech powers Trump's deportation machine.",
+      "url": "https://techcrunch.com/2025/09/13/heres-the-tech-powering-ices-deportation-crackdown/",
+      "publishedAt": "2025-09-13T15:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lorenzo Franceschi-Bicchierai",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3045687",
+      "title": "Hike, once a unicorn, shuts down as India cracks down on real-money gaming",
+      "description": "Hike, which started as a WhatsApp rival before pivoting to real-money gaming, is now sunsetting after India's sweeping ban.",
+      "url": "https://techcrunch.com/2025/09/13/hike-once-a-unicorn-shuts-down-as-india-cracks-down-on-real-money-gaming/",
+      "publishedAt": "2025-09-13T14:05:49.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Jagmeet Singh",
+      "tags": []
+    }
+  ]
+}
