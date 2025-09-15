@@ -1,0 +1,138 @@
+{
+  "date": "2025-09-15",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "8gsd4m",
+      "title": "Learn Rust the Right Way",
+      "description": "Score: 4 | Comments: 1 | Posted by mahirsaid",
+      "url": "https://doc.rust-lang.org/stable/book/ch07-02-defining-modules-to-control-scope-and-privacy.html",
+      "publishedAt": "2025-09-15T05:21:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mahirsaid",
+      "tags": []
+    },
+    {
+      "id": "3btd5d",
+      "title": "Americans Crushed by Auto Loans as Defaults and Repossessions Surge",
+      "description": "Score: 9 | Comments: 3 | Posted by toomuchtodo",
+      "url": "https://www.carscoops.com/2025/09/auto-loan-delinquencies-are-off-the-dial-and-even-prime-borrowers-are-struggling/",
+      "publishedAt": "2025-09-15T04:56:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "toomuchtodo",
+      "tags": []
+    },
+    {
+      "id": "zdxjqi",
+      "title": "Starlink is currently experiencing a service outage",
+      "description": "Score: 26 | Comments: 9 | Posted by thallium205",
+      "url": "https://www.starlink.com/",
+      "publishedAt": "2025-09-15T04:51:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thallium205",
+      "tags": []
+    },
+    {
+      "id": "6qbl3b",
+      "title": "How Container Filesystem Works: Building a Docker-Like Container from Scratch",
+      "description": "Score: 6 | Comments: 0 | Posted by thunderbong",
+      "url": "https://labs.iximiuz.com/tutorials/container-filesystem-from-scratch",
+      "publishedAt": "2025-09-15T04:22:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thunderbong",
+      "tags": []
+    },
+    {
+      "id": "i5d3sy",
+      "title": "A qualitative analysis of pig-butchering scams",
+      "description": "Score: 36 | Comments: 5 | Posted by stmw",
+      "url": "https://arxiv.org/abs/2503.20821",
+      "publishedAt": "2025-09-15T03:58:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "stmw",
+      "tags": []
+    },
+    {
+      "id": "nbycyp",
+      "title": "Language Models Pack Billions of Concepts into 12,000 Dimensions",
+      "description": "Score: 32 | Comments: 9 | Posted by lawrenceyan",
+      "url": "https://nickyoder.com/johnson-lindenstrauss/",
+      "publishedAt": "2025-09-15T03:54:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lawrenceyan",
+      "tags": []
+    },
+    {
+      "id": "nfdgzm",
+      "title": "Decentralized YouTube alternative adds livestream scheduling in new release",
+      "description": "Score: 37 | Comments: 7 | Posted by MilnerRoute",
+      "url": "https://news.itsfoss.com/peertube-7-3/",
+      "publishedAt": "2025-09-15T03:27:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "MilnerRoute",
+      "tags": []
+    },
+    {
+      "id": "rqcuke",
+      "title": "Not all browsers perform revocation checking",
+      "description": "Score: 61 | Comments: 54 | Posted by sugarpimpdorsey",
+      "url": "https://revoked-isrgrootx1.letsencrypt.org/",
+      "publishedAt": "2025-09-15T03:18:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sugarpimpdorsey",
+      "tags": []
+    },
+    {
+      "id": "ymslix",
+      "title": "Which NPM package has the largest version number?",
+      "description": "Score: 45 | Comments: 11 | Posted by genshii",
+      "url": "https://adamhl.dev/blog/largest-number-in-npm-package/",
+      "publishedAt": "2025-09-15T03:03:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "genshii",
+      "tags": []
+    },
+    {
+      "id": "lhenru",
+      "title": "FBI Alert: Two Cybercriminal Groups Are Actively Compromising Salesforce",
+      "description": "Score: 14 | Comments: 1 | Posted by kPwn",
+      "url": "https://securityonline.info/fbi-alert-two-cybercriminal-groups-are-actively-compromising-salesforce/",
+      "publishedAt": "2025-09-15T02:35:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kPwn",
+      "tags": []
+    },
+    {
+      "id": "i62pjf",
+      "title": "For Good First Issue – A repository of social impact and open source projects",
+      "description": "Score: 21 | Comments: 2 | Posted by Brysonbw",
+      "url": "https://forgoodfirstissue.github.com/",
+      "publishedAt": "2025-09-15T02:02:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Brysonbw",
+      "tags": []
+    },
+    {
+      "id": "gp3cwo",
+      "title": "Show HN: Dagger.js – A buildless, runtime-only JavaScript micro-framework",
+      "description": "Score: 45 | Comments: 28 | Posted by TonyPeakman",
+      "url": "https://daggerjs.org",
+      "publishedAt": "2025-09-15T01:28:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "TonyPeakman",
+      "tags": []
+    }
+  ]
+}

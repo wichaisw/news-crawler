@@ -47,6 +47,28 @@
       "tags": []
     },
     {
+      "id": "kq92dc",
+      "title": "Patela: A basement full of amnesic servers",
+      "description": "Score: 35 | Comments: 0 | Posted by akyuu",
+      "url": "https://osservatorionessuno.org/blog/2025/05/patela-a-basement-full-of-amnesic-servers/",
+      "publishedAt": "2025-09-11T22:03:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "akyuu",
+      "tags": []
+    },
+    {
+      "id": "tbnlam",
+      "title": "Analyzing the memory ordering models of the Apple M1",
+      "description": "Score: 59 | Comments: 6 | Posted by charles_irl",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1383762124000390",
+      "publishedAt": "2025-09-11T21:33:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "charles_irl",
+      "tags": []
+    },
+    {
       "id": "knhlu4",
       "title": "How Palantir is mapping the nation’s data",
       "description": "Score: 191 | Comments: 71 | Posted by mdhb",
@@ -113,6 +135,28 @@
       "tags": []
     },
     {
+      "id": "pd18f",
+      "title": "Irrlicht Engine – a cross-platform realtime 3D engine",
+      "description": "Score: 57 | Comments: 36 | Posted by smartmic",
+      "url": "https://irrlicht.sourceforge.io/?page_id=45",
+      "publishedAt": "2025-09-11T18:40:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "smartmic",
+      "tags": []
+    },
+    {
+      "id": "3at23u",
+      "title": "MIT-MC CP/M archive files, 1979-1984",
+      "description": "Score: 67 | Comments: 1 | Posted by elvis70",
+      "url": "https://github.com/MITDDC/cpmarchive-1979-1984",
+      "publishedAt": "2025-09-11T18:36:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "elvis70",
+      "tags": []
+    },
+    {
       "id": "682gld",
       "title": "Making io_uring pervasive in QEMU [pdf]",
       "description": "Score: 66 | Comments: 7 | Posted by ingve",
@@ -132,6 +176,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mustaphah",
+      "tags": []
+    },
+    {
+      "id": "2ukd7t",
+      "title": "FakeIt: C++ Mocking Made Easy",
+      "description": "Score: 13 | Comments: 7 | Posted by klaussilveira",
+      "url": "https://github.com/eranpeer/FakeIt",
+      "publishedAt": "2025-09-11T18:04:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "klaussilveira",
       "tags": []
     },
     {
@@ -223,6 +278,17 @@
       "tags": []
     },
     {
+      "id": "7vxooe",
+      "title": "La-Proteina",
+      "description": "Score: 23 | Comments: 5 | Posted by birriel",
+      "url": "https://github.com/NVIDIA-Digital-Bio/la-proteina",
+      "publishedAt": "2025-09-11T13:43:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "birriel",
+      "tags": []
+    },
+    {
       "id": "lybbxj",
       "title": "From burner phones to decks of cards: NYC teens adjusting to the smartphone ban",
       "description": "Score: 208 | Comments: 170 | Posted by geox",
@@ -275,6 +341,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "Bogdanp",
+      "tags": []
+    },
+    {
+      "id": "6gemdg",
+      "title": "Learning Lens Blur Fields",
+      "description": "Score: 15 | Comments: 0 | Posted by bookofjoe",
+      "url": "https://blur-fields.github.io/",
+      "publishedAt": "2025-09-11T12:21:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bookofjoe",
       "tags": []
     },
     {
@@ -341,6 +418,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "uneven9434",
+      "tags": []
+    },
+    {
+      "id": "u24rgy",
+      "title": "Page Object (2013)",
+      "description": "Score: 21 | Comments: 2 | Posted by adityaathalye",
+      "url": "https://martinfowler.com/bliki/PageObject.html",
+      "publishedAt": "2025-09-11T05:26:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "adityaathalye",
       "tags": []
     },
     {

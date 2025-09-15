@@ -69,6 +69,17 @@
       "tags": []
     },
     {
+      "id": "rz09vn",
+      "title": "You’re a slow thinker. Now what?",
+      "description": "Score: 341 | Comments: 141 | Posted by sebg",
+      "url": "https://chillphysicsenjoyer.substack.com/p/youre-a-slow-thinker-now-what",
+      "publishedAt": "2025-09-10T22:01:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sebg",
+      "tags": []
+    },
+    {
       "id": "w89n33",
       "title": "KDE launches its own distribution",
       "description": "Score: 343 | Comments: 176 | Posted by Bogdanp",
@@ -154,6 +165,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jxmorris12",
+      "tags": []
+    },
+    {
+      "id": "hlxaex",
+      "title": "Observable Notebooks Data Loaders",
+      "description": "Score: 73 | Comments: 19 | Posted by mbostock",
+      "url": "https://observablehq.com/notebook-kit/data-loaders",
+      "publishedAt": "2025-09-10T17:04:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mbostock",
+      "tags": []
+    },
+    {
+      "id": "k1bl05",
+      "title": "Introduction to GrapheneOS",
+      "description": "Score: 159 | Comments: 155 | Posted by renehsz",
+      "url": "https://dataswamp.org/~solene/2025-01-12-intro-to-grapheneos.html",
+      "publishedAt": "2025-09-10T16:32:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "renehsz",
       "tags": []
     },
     {
