@@ -14,6 +14,17 @@
       "tags": []
     },
     {
+      "id": "8ytuh2",
+      "title": "People Who Hunt Down Old TVs",
+      "description": "Score: 55 | Comments: 26 | Posted by tmendez",
+      "url": "https://www.bbc.com/future/article/20250911-the-people-who-hunt-down-old-tvs",
+      "publishedAt": "2025-09-12T22:51:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tmendez",
+      "tags": []
+    },
+    {
       "id": "a2dbn2",
       "title": "FFglitch, FFmpeg fork for glitch art",
       "description": "Score: 132 | Comments: 16 | Posted by captain_bender",
@@ -22,6 +33,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "captain_bender",
+      "tags": []
+    },
+    {
+      "id": "65lca5",
+      "title": "NASA's Guardian Tsunami Detection Tech Catches Wave in Real Time",
+      "description": "Score: 153 | Comments: 24 | Posted by geox",
+      "url": "https://www.jpl.nasa.gov/news/nasas-guardian-tsunami-detection-tech-catches-wave-in-real-time/",
+      "publishedAt": "2025-09-12T21:25:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "geox",
       "tags": []
     },
     {
@@ -36,6 +58,17 @@
       "tags": []
     },
     {
+      "id": "oqrzgu",
+      "title": "Debian Upgrade Marathon: 3.1 Sarge",
+      "description": "Score: 31 | Comments: 4 | Posted by zdw",
+      "url": "https://wrongthink.link/posts/debian-upgrade-marathon-sarge/",
+      "publishedAt": "2025-09-12T20:55:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
       "id": "t2dqdo",
       "title": "I used standard Emacs extension-points to extend org-mode",
       "description": "Score: 143 | Comments: 10 | Posted by Karrot_Kream",
@@ -47,6 +80,17 @@
       "tags": []
     },
     {
+      "id": "vsnhn0",
+      "title": "Human writers have always used the em dash",
+      "description": "Score: 107 | Comments: 124 | Posted by FromTheArchives",
+      "url": "https://www.theringer.com/2025/08/20/pop-culture/em-dash-use-ai-artificial-intelligence-chatgpt-google-gemini",
+      "publishedAt": "2025-09-12T20:06:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "FromTheArchives",
+      "tags": []
+    },
+    {
       "id": "6mxz5q",
       "title": "Porsche demonstrates inductive EV charging at IAA",
       "description": "Score: 15 | Comments: 9 | Posted by sizzle",
@@ -55,6 +99,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "sizzle",
+      "tags": []
+    },
+    {
+      "id": "z5jcsy",
+      "title": "I wish my web server were in the corner of my room (2022)",
+      "description": "Score: 60 | Comments: 32 | Posted by jonassaid",
+      "url": "https://interconnected.org/home/2022/10/10/servers",
+      "publishedAt": "2025-09-12T20:05:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jonassaid",
       "tags": []
     },
     {
@@ -132,6 +187,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "rcarmo",
+      "tags": []
+    },
+    {
+      "id": "hzjg24",
+      "title": "Removing newlines in FASTA file increases ZSTD compression ratio by 10x",
+      "description": "Score: 247 | Comments: 98 | Posted by bede",
+      "url": "https://log.bede.im/2025/09/12/zstandard-long-range-genomes.html",
+      "publishedAt": "2025-09-12T16:25:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bede",
       "tags": []
     },
     {
@@ -223,6 +289,17 @@
       "tags": []
     },
     {
+      "id": "8or9w3",
+      "title": "Learn x86-64 assembly by writing a GUI from scratch",
+      "description": "Score: 35 | Comments: 6 | Posted by ibobev",
+      "url": "https://gaultier.github.io/blog/x11_x64.html",
+      "publishedAt": "2025-09-12T12:51:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
+      "tags": []
+    },
+    {
       "id": "lhd8lr",
       "title": "The treasury is expanding the Patriot Act to attack Bitcoin self custody",
       "description": "Score: 655 | Comments: 473 | Posted by bilsbie",
@@ -242,6 +319,39 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "zeepthee",
+      "tags": []
+    },
+    {
+      "id": "8meerk",
+      "title": "Dinosaurs to supercrocs: Niger's bone keepers preserve its ancient fossils",
+      "description": "Score: 5 | Comments: 1 | Posted by Qem",
+      "url": "https://www.aljazeera.com/features/2025/9/12/dinosaurs-to-supercrocs-nigers-bone-keepers-preserve-its-ancient-fossils",
+      "publishedAt": "2025-09-12T11:46:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Qem",
+      "tags": []
+    },
+    {
+      "id": "y8i2m1",
+      "title": "Self-Assembly Gets Automated in Reverse of 'Game of Life'",
+      "description": "Score: 55 | Comments: 7 | Posted by kjhughes",
+      "url": "https://www.quantamagazine.org/self-assembly-gets-automated-in-reverse-of-game-of-life-20250910/",
+      "publishedAt": "2025-09-12T11:15:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kjhughes",
+      "tags": []
+    },
+    {
+      "id": "b5lwbr",
+      "title": "The Rising Sea: Foundations of Algebraic Geometry Notes",
+      "description": "Score: 34 | Comments: 5 | Posted by ibobev",
+      "url": "https://math.stanford.edu/~vakil/216blog/",
+      "publishedAt": "2025-09-12T10:30:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
       "tags": []
     },
     {
@@ -319,6 +429,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "move-on-by",
+      "tags": []
+    },
+    {
+      "id": "aiwdzc",
+      "title": "When Your Father Is a Magician, What Do You Believe?",
+      "description": "Score: 54 | Comments: 12 | Posted by pseudolus",
+      "url": "https://thereader.mitpress.mit.edu/when-your-father-is-a-magician-what-do-you-believe/",
+      "publishedAt": "2025-09-12T02:28:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pseudolus",
       "tags": []
     },
     {

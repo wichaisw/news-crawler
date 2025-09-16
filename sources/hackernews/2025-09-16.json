@@ -1,0 +1,61 @@
+{
+  "date": "2025-09-16",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "ivkqaz",
+      "title": "Public static void main(String[] args) is dead",
+      "description": "Score: 115 | Comments: 79 | Posted by charles_irl",
+      "url": "https://mccue.dev/pages/9-16-25-psvm",
+      "publishedAt": "2025-09-16T04:42:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "charles_irl",
+      "tags": []
+    },
+    {
+      "id": "i1qp8m",
+      "title": "Show HN: Pyproc – Call Python from Go Without CGO or Microservices",
+      "description": "Score: 5 | Comments: 0 | Posted by acc_10000",
+      "url": "https://github.com/YuminosukeSato/pyproc",
+      "publishedAt": "2025-09-16T04:08:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "acc_10000",
+      "tags": []
+    },
+    {
+      "id": "qij4if",
+      "title": "\"Your\" vs. \"My\" in user interfaces",
+      "description": "Score: 7 | Comments: 0 | Posted by Twixes",
+      "url": "https://adamsilver.io/blog/your-vs-my-in-user-interfaces/",
+      "publishedAt": "2025-09-16T03:05:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Twixes",
+      "tags": []
+    },
+    {
+      "id": "2yoj5w",
+      "title": "Linux phones are more important now than ever",
+      "description": "Score: 326 | Comments: 180 | Posted by wicket",
+      "url": "https://feddit.org/post/18353777",
+      "publishedAt": "2025-09-16T00:33:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wicket",
+      "tags": []
+    },
+    {
+      "id": "diwn1b",
+      "title": "I feel Apple has lost its alignment with me and other long-time customers",
+      "description": "Score: 215 | Comments: 190 | Posted by mgrayson",
+      "url": "https://morrick.me/archives/10137",
+      "publishedAt": "2025-09-16T00:20:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mgrayson",
+      "tags": []
+    }
+  ]
+}

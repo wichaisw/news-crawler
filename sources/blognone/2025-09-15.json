@@ -3,6 +3,40 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "148180 at https://www.blognone.com",
+      "title": "OpenAI ออก GPT-5-Codex ใหม่ เทรน GPT-5 สำหรับการเขียนโค้ด คอมเมนต์โค้ดได้แม่นยำมากขึ้น",
+      "description": "OpenAI ออก GPT-5-Codex ใหม่ เทรน GPT-5 สำหรับการเขียนโค้ด คอมเมนต์โค้ดได้แม่นยำมากขึ้น Body OpenAI เปิดตัว GPT-5-Codex โมเดลสำหรับเครื่องมือ AI",
+      "url": "https://www.blognone.com/node/148180",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2025/2025-09/screenshot-2025-09-16-041817.png",
+      "publishedAt": "2025-09-15T23:00:50.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148178 at https://www.blognone.com",
+      "title": "Alphabet บริษัทแม่ Google มีมูลค่ากิจการทะลุ 3 ล้านล้านดอลลาร์ แล้ว",
+      "description": "Alphabet บริษัทแม่ Google มีมูลค่ากิจการทะลุ 3 ล้านล้านดอลลาร์ แล้ว Body Alphabet บริษัทแม่ของกูเกิล",
+      "url": "https://www.blognone.com/node/148178",
+      "publishedAt": "2025-09-15T23:00:30.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148179 at https://www.blognone.com",
+      "title": "Apple อัปเดต iOS 26, iPadOS 26, macOS 26 Tahoe และ watchOS 26 ให้ผู้ใช้งานวันนี้",
+      "description": "Apple อัปเดต iOS 26, iPadOS 26, macOS 26 Tahoe และ watchOS 26 ให้ผู้ใช้งานวันนี้ Body แอปเปิลออกอัปเดตซอฟต์แวร์ระบบปฏิบัติการเวอร์ชันใหม่ประจำปี",
+      "url": "https://www.blognone.com/node/148179",
+      "publishedAt": "2025-09-15T23:00:02.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "148170 at https://www.blognone.com",
       "title": "ทีมวิจัยกูเกิลเปิดตัว VaultGemma โมเดลรักษาความเป็นส่วนตัวแบบ Differential Privacy",
       "description": "ทีมวิจัยกูเกิลเปิดตัว VaultGemma โมเดลรักษาความเป็นส่วนตัวแบบ Differential Privacy Body ทีมวิจัย Google Research เปิดตัวโมเดล VaultGemma",
