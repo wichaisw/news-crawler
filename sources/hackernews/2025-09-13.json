@@ -80,6 +80,17 @@
       "tags": []
     },
     {
+      "id": "qy0wn9",
+      "title": "Wait4X allows you to wait for a port or a service to enter the requested state",
+      "description": "Score: 26 | Comments: 7 | Posted by atkrad",
+      "url": "https://github.com/wait4x/wait4x",
+      "publishedAt": "2025-09-13T20:45:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "atkrad",
+      "tags": []
+    },
+    {
       "id": "15i77n",
       "title": "Turgot Map of Paris",
       "description": "Score: 55 | Comments: 13 | Posted by Michelangelo11",
@@ -168,6 +179,17 @@
       "tags": []
     },
     {
+      "id": "x3rjac",
+      "title": "CubeSats are fascinating learning tools for space",
+      "description": "Score: 34 | Comments: 3 | Posted by calcifer",
+      "url": "https://www.jeffgeerling.com/blog/2025/cubesats-are-fascinating-learning-tools-space",
+      "publishedAt": "2025-09-13T15:37:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "calcifer",
+      "tags": []
+    },
+    {
       "id": "9ahnz8",
       "title": "From unit tests to whole universe tests (with will wilson of antithesis) [video]",
       "description": "Score: 22 | Comments: 10 | Posted by zdw",
@@ -198,6 +220,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "wallflower",
+      "tags": []
+    },
+    {
+      "id": "6qbl3b",
+      "title": "How Container Filesystem Works: Building a Docker-Like Container from Scratch",
+      "description": "Score: 135 | Comments: 25 | Posted by lgunsch",
+      "url": "https://labs.iximiuz.com/tutorials/container-filesystem-from-scratch",
+      "publishedAt": "2025-09-13T14:37:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lgunsch",
+      "tags": []
+    },
+    {
+      "id": "y0ootr",
+      "title": "Wind turbine blade transportation challenges",
+      "description": "Score: 95 | Comments: 125 | Posted by Brajeshwar",
+      "url": "https://spectrum.ieee.org/wind-turbine-blade-transport-plane",
+      "publishedAt": "2025-09-13T14:28:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Brajeshwar",
       "tags": []
     },
     {
@@ -267,6 +311,17 @@
       "tags": []
     },
     {
+      "id": "wbk4dh",
+      "title": "UTF-8 history (2003)",
+      "description": "Score: 95 | Comments: 35 | Posted by mikecarlton",
+      "url": "https://doc.cat-v.org/bell_labs/utf-8_history",
+      "publishedAt": "2025-09-13T08:56:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mikecarlton",
+      "tags": []
+    },
+    {
       "id": "b1rvqk",
       "title": "Java 25's new CPU-Time Profiler",
       "description": "Score: 170 | Comments: 96 | Posted by SerCe",
@@ -308,6 +363,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ksec",
+      "tags": []
+    },
+    {
+      "id": "bnfd4v",
+      "title": "Mystery in the Moon",
+      "description": "Score: 8 | Comments: 2 | Posted by benbreen",
+      "url": "https://engelsbergideas.com/reviews/mystery-in-the-moon/",
+      "publishedAt": "2025-09-13T04:33:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "benbreen",
       "tags": []
     },
     {

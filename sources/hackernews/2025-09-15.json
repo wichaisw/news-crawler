@@ -278,6 +278,28 @@
       "tags": []
     },
     {
+      "id": "4b0iw4",
+      "title": "A dumb introduction to z3",
+      "description": "Score: 164 | Comments: 17 | Posted by kfl",
+      "url": "https://asibahi.github.io/thoughts/a-gentle-introduction-to-z3/",
+      "publishedAt": "2025-09-15T11:46:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kfl",
+      "tags": []
+    },
+    {
+      "id": "jbl5od",
+      "title": "Coders End, from Typers to Thinkers",
+      "description": "Score: 22 | Comments: 10 | Posted by elieteyssedou",
+      "url": "https://etsd.tech/posts/coders-end/",
+      "publishedAt": "2025-09-15T09:54:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "elieteyssedou",
+      "tags": []
+    },
+    {
       "id": "bmjddc",
       "title": "RustGPT: A pure-Rust transformer LLM built from scratch",
       "description": "Score: 352 | Comments: 163 | Posted by amazonhut",
@@ -286,6 +308,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "amazonhut",
+      "tags": []
+    },
+    {
+      "id": "uknxfc",
+      "title": "Tuberculosis shaped Victorian fashion (2016)",
+      "description": "Score: 3 | Comments: 0 | Posted by franze",
+      "url": "https://www.smithsonianmag.com/science-nature/how-tuberculosis-shaped-victorian-fashion-180959029/",
+      "publishedAt": "2025-09-15T08:32:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "franze",
       "tags": []
     },
     {
@@ -308,6 +341,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mahirsaid",
+      "tags": []
+    },
+    {
+      "id": "3rcyql",
+      "title": "Cex.C – Comprehensively EXtended C Language",
+      "description": "Score: 20 | Comments: 5 | Posted by lifthrasiir",
+      "url": "https://github.com/alexveden/cex",
+      "publishedAt": "2025-09-15T05:05:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lifthrasiir",
       "tags": []
     },
     {
@@ -429,6 +473,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "TonyPeakman",
+      "tags": []
+    },
+    {
+      "id": "wq9z64",
+      "title": "I built my own phone because innovation is sad rn [video]",
+      "description": "Score: 220 | Comments: 44 | Posted by Timothee",
+      "url": "https://www.youtube.com/watch?v=qy_9w_c2ub0",
+      "publishedAt": "2025-09-15T01:12:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Timothee",
       "tags": []
     }
   ]
