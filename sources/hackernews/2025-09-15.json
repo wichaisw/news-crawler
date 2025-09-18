@@ -47,6 +47,17 @@
       "tags": []
     },
     {
+      "id": "imd2ef",
+      "title": "Boring is good",
+      "description": "Score: 125 | Comments: 25 | Posted by zdw",
+      "url": "https://jenson.org/boring/",
+      "publishedAt": "2025-09-15T20:51:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
       "id": "vniavg",
       "title": "Scryer Prolog Meetup 2025",
       "description": "Score: 36 | Comments: 1 | Posted by aarroyoc",
@@ -102,6 +113,17 @@
       "tags": []
     },
     {
+      "id": "lyvyu1",
+      "title": "What's New in C# 14: Null-Conditional Assignments",
+      "description": "Score: 104 | Comments: 78 | Posted by ivankahl",
+      "url": "https://blog.ivankahl.com/csharp-14-null-conditional-assignments/",
+      "publishedAt": "2025-09-15T18:08:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ivankahl",
+      "tags": []
+    },
+    {
       "id": "305rg9",
       "title": "Hosting a website on a disposable vape",
       "description": "Score: 842 | Comments: 391 | Posted by BogdanTheGeek",
@@ -146,6 +168,17 @@
       "tags": []
     },
     {
+      "id": "j20wf4",
+      "title": "Condor Technology to Fly \"Cuzco\" RISC-V CPU into the Datacenter",
+      "description": "Score: 10 | Comments: 3 | Posted by rbanffy",
+      "url": "https://www.nextplatform.com/2025/09/15/condor-technology-to-fly-cuzco-risc-v-cpu-into-the-datacenter/",
+      "publishedAt": "2025-09-15T16:48:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rbanffy",
+      "tags": []
+    },
+    {
       "id": "ejios0",
       "title": "Wanted to spy on my dog, ended up spying on TP-Link",
       "description": "Score: 382 | Comments: 126 | Posted by kennedn",
@@ -176,6 +209,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "PaulHoule",
+      "tags": []
+    },
+    {
+      "id": "d56uab",
+      "title": "Orange Pi RV2 $40 RISC-V SBC: Friendly Gateway to IoT and AI Projects",
+      "description": "Score: 13 | Comments: 9 | Posted by warrenm",
+      "url": "https://riscv.org/ecosystem-news/2025/09/orange-pi-rv2-40-risc-v-sbc-friendly-gateway-to-iot-and-ai-projects/",
+      "publishedAt": "2025-09-15T15:46:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "warrenm",
       "tags": []
     },
     {

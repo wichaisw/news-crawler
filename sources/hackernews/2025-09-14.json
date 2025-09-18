@@ -124,6 +124,28 @@
       "tags": []
     },
     {
+      "id": "eku90y",
+      "title": "Understanding Deflate",
+      "description": "Score: 52 | Comments: 5 | Posted by ingve",
+      "url": "https://jjrscott.com/to-deflate-or-not/",
+      "publishedAt": "2025-09-14T19:12:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingve",
+      "tags": []
+    },
+    {
+      "id": "e0kq6v",
+      "title": "Grade 2 Braille",
+      "description": "Score: 27 | Comments: 15 | Posted by admp",
+      "url": "https://en.wikipedia.org/wiki/English_Braille",
+      "publishedAt": "2025-09-14T18:49:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "admp",
+      "tags": []
+    },
+    {
       "id": "nvcmcx",
       "title": "Writing an operating system kernel from scratch",
       "description": "Score: 270 | Comments: 49 | Posted by Bogdanp",
@@ -242,6 +264,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "klelatti",
+      "tags": []
+    },
+    {
+      "id": "z84i2k",
+      "title": "Can Your GrimDark Beat the Germans (2022)",
+      "description": "Score: 15 | Comments: 1 | Posted by bryanrasmussen",
+      "url": "https://medium.com/luminasticity/can-your-grimdark-beat-the-germans-429f3e6fc4df",
+      "publishedAt": "2025-09-14T07:30:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bryanrasmussen",
       "tags": []
     },
     {

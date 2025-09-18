@@ -1,0 +1,50 @@
+{
+  "date": "2025-09-18",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3046976",
+      "title": "India leads the way on Google’s Nano Banana with a local creative twist",
+      "description": "Indian users turning Google’s Nano Banana into a viral trend engine, from retro AI portraits to figurine-style selfies.",
+      "url": "https://techcrunch.com/2025/09/17/india-leads-the-way-on-googles-nano-banana-with-a-local-creative-twist/",
+      "publishedAt": "2025-09-18T04:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Jagmeet Singh",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3047044",
+      "title": "Meta launches Hyperscape, technology to turn real-world spaces into VR",
+      "description": "Meta launches Hyperscape into beta, allowing users to turn real world spaces into digital spaces for VR.",
+      "url": "https://techcrunch.com/2025/09/17/meta-launches-hyperscape-technology-to-turn-real-world-spaces-into-vr/",
+      "publishedAt": "2025-09-18T00:43:31.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sarah Perez",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3046937",
+      "title": "Meta unveils new smart glasses with a display and wristband controller",
+      "description": "Meta showed off its newest AI-powered smart glasses, which have a display and are controlled by a wristband, at Meta Connect 2025.",
+      "url": "https://techcrunch.com/2025/09/17/meta-unveils-new-smart-glasses-with-a-display-and-wristband-controller/",
+      "publishedAt": "2025-09-18T00:25:39.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Maxwell Zeff",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3046965",
+      "title": "Meta unveils its new Oakley Meta Vanguard smart glasses for athletes",
+      "description": "The new smart glasses are geared toward runners, cyclists, and other athletes.",
+      "url": "https://techcrunch.com/2025/09/17/meta-unveils-its-new-oakley-meta-vanguard-smart-glasses-for-athletes/",
+      "publishedAt": "2025-09-18T00:15:06.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Aisha Malik",
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "date": "2025-09-18",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "7cfh37",
+      "title": "European ant is the first known animal to clone members of another species",
+      "description": "Score: 7 | Comments: 0 | Posted by zdw",
+      "url": "https://www.livescience.com/animals/ants/almost-like-science-fiction-european-ant-is-the-first-known-animal-to-clone-members-of-another-species",
+      "publishedAt": "2025-09-18T05:27:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "z64vhm",
+      "title": "Towards a Physics Foundation Model",
+      "description": "Score: 26 | Comments: 9 | Posted by NeoInHacker",
+      "url": "https://arxiv.org/abs/2509.13805",
+      "publishedAt": "2025-09-18T03:06:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "NeoInHacker",
+      "tags": []
+    },
+    {
+      "id": "efcpzz",
+      "title": "A QBasic Text Adventure Still Expanding in 2025",
+      "description": "Score: 23 | Comments: 9 | Posted by ATiredGoat",
+      "url": "https://the-ventureweaver.itch.io/",
+      "publishedAt": "2025-09-18T02:25:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ATiredGoat",
+      "tags": []
+    },
+    {
+      "id": "d3f4pm",
+      "title": "Show HN: The text disappears when you screenshot it",
+      "description": "Score: 105 | Comments: 40 | Posted by zikero",
+      "url": "https://unscreenshottable.vercel.app/?text=Hello",
+      "publishedAt": "2025-09-18T02:18:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zikero",
+      "tags": []
+    },
+    {
+      "id": "4kdh3q",
+      "title": "Computer Networks: A Systems Approach",
+      "description": "Score: 5 | Comments: 0 | Posted by tripdout",
+      "url": "https://book.systemsapproach.org/index.html",
+      "publishedAt": "2025-09-18T02:16:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tripdout",
+      "tags": []
+    },
+    {
+      "id": "e7w4ih",
+      "title": "Slack has raised our charges by $195k per yearskyfall.dev",
+      "description": "Score: 548 | Comments: 282 | Posted by JustSkyfall",
+      "url": "https://skyfall.dev/posts/slack",
+      "publishedAt": "2025-09-18T02:09:11.627Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "JustSkyfall",
+      "tags": []
+    },
+    {
+      "id": "gdop04",
+      "title": "No CSS, No JavaScript. Longevity on the Web",
+      "description": "Score: 8 | Comments: 0 | Posted by jollyjerry",
+      "url": "https://jch.github.io/posts/2025-09-18-no-css-no-js.html",
+      "publishedAt": "2025-09-18T01:59:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jollyjerry",
+      "tags": []
+    },
+    {
+      "id": "e7w4ih",
+      "title": "Slack has raised our charges by $195k per year",
+      "description": "Score: 553 | Comments: 282 | Posted by JustSkyfall",
+      "url": "https://skyfall.dev/posts/slack",
+      "publishedAt": "2025-09-18T01:37:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "JustSkyfall",
+      "tags": []
+    },
+    {
+      "id": "4p6wn5",
+      "title": "Hypervisor 101 in Rust",
+      "description": "Score: 68 | Comments: 2 | Posted by pykello",
+      "url": "https://tandasat.github.io/Hypervisor-101-in-Rust/",
+      "publishedAt": "2025-09-18T01:18:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pykello",
+      "tags": []
+    },
+    {
+      "id": "80rakl",
+      "title": "Meta Ray-Ban Displaymeta.com",
+      "description": "Score: 299 | Comments: 401 | Posted by martpie",
+      "url": "https://www.meta.com/blog/meta-ray-ban-display-ai-glasses-connect-2025/",
+      "publishedAt": "2025-09-18T01:09:11.628Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "martpie",
+      "tags": []
+    },
+    {
+      "id": "80rakl",
+      "title": "Meta Ray-Ban Display",
+      "description": "Score: 300 | Comments: 402 | Posted by martpie",
+      "url": "https://www.meta.com/blog/meta-ray-ban-display-ai-glasses-connect-2025/",
+      "publishedAt": "2025-09-18T00:30:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "martpie",
+      "tags": []
+    },
+    {
+      "id": "7zxokf",
+      "title": "Stepping Down as Libxml2 Maintainer",
+      "description": "Score: 50 | Comments: 11 | Posted by zdw",
+      "url": "https://discourse.gnome.org/t/stepping-down-as-libxml2-maintainer/31398",
+      "publishedAt": "2025-09-18T00:17:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    }
+  ]
+}
