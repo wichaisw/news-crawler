@@ -80,6 +80,17 @@
       "tags": []
     },
     {
+      "id": "nuqv8",
+      "title": "Visual lexicon of consumer aesthetics from the 1970s until now",
+      "description": "Score: 45 | Comments: 9 | Posted by tontonius",
+      "url": "https://cari.institute/",
+      "publishedAt": "2025-09-15T19:15:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tontonius",
+      "tags": []
+    },
+    {
       "id": "fils9x",
       "title": "How People Use ChatGPT [pdf]",
       "description": "Score: 92 | Comments: 53 | Posted by nycdatasci",
@@ -322,6 +333,17 @@
       "tags": []
     },
     {
+      "id": "1lgu05",
+      "title": "Pizza Cutters, from Underdesigned to Overdesigned",
+      "description": "Score: 7 | Comments: 3 | Posted by surprisetalk",
+      "url": "https://www.core77.com/posts/138409/Pizza-Cutters-from-Underdesigned-to-Overdesigned",
+      "publishedAt": "2025-09-15T12:10:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
       "id": "4b0iw4",
       "title": "A dumb introduction to z3",
       "description": "Score: 164 | Comments: 17 | Posted by kfl",
@@ -330,6 +352,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "kfl",
+      "tags": []
+    },
+    {
+      "id": "mcuabk",
+      "title": "Leatherman (Vagabond)",
+      "description": "Score: 23 | Comments: 3 | Posted by redbell",
+      "url": "https://en.wikipedia.org/wiki/Leatherman_(vagabond)",
+      "publishedAt": "2025-09-15T11:17:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "redbell",
+      "tags": []
+    },
+    {
+      "id": "hy7v5o",
+      "title": "Tracking trust with Rust in the kernel",
+      "description": "Score: 67 | Comments: 6 | Posted by pykello",
+      "url": "https://lwn.net/Articles/1034603/",
+      "publishedAt": "2025-09-15T10:54:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pykello",
       "tags": []
     },
     {
@@ -374,6 +418,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ibobev",
+      "tags": []
+    },
+    {
+      "id": "cuqq7q",
+      "title": "PostgreSQL Maintenance Without Superuser",
+      "description": "Score: 63 | Comments: 2 | Posted by radimm",
+      "url": "https://boringsql.com/posts/postgresql-predefined-roles/",
+      "publishedAt": "2025-09-15T06:17:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "radimm",
       "tags": []
     },
     {
@@ -506,6 +561,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "Brysonbw",
+      "tags": []
+    },
+    {
+      "id": "h0qdrv",
+      "title": "TIC-80 – Tiny Computer",
+      "description": "Score: 64 | Comments: 12 | Posted by archargelod",
+      "url": "https://tic80.com/",
+      "publishedAt": "2025-09-15T01:37:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "archargelod",
       "tags": []
     },
     {

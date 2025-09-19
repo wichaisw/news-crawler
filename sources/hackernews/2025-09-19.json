@@ -1,0 +1,83 @@
+{
+  "date": "2025-09-19",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "r4vwlu",
+      "title": "The health benefits of sunlight may outweigh the risk of skin cancer",
+      "description": "Score: 23 | Comments: 5 | Posted by petethomas",
+      "url": "https://www.economist.com/science-and-technology/2025/09/17/the-health-benefits-of-sunlight-may-outweigh-the-risk-of-skin-cancer",
+      "publishedAt": "2025-09-19T04:46:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "petethomas",
+      "tags": []
+    },
+    {
+      "id": "8sxod0",
+      "title": "Bravo Apple! Calculator app has a memory leak",
+      "description": "Score: 47 | Comments: 21 | Posted by pfexec",
+      "url": "https://xcancel.com/neogoose_btw/status/1968757466570621251",
+      "publishedAt": "2025-09-19T03:22:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pfexec",
+      "tags": []
+    },
+    {
+      "id": "1gond1",
+      "title": "Gemini in Chrome",
+      "description": "Score: 112 | Comments: 97 | Posted by angst",
+      "url": "https://gemini.google/overview/gemini-in-chrome/",
+      "publishedAt": "2025-09-19T02:25:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "angst",
+      "tags": []
+    },
+    {
+      "id": "f6f755",
+      "title": "Playing “Minecraft” without Minecraft (2024)",
+      "description": "Score: 69 | Comments: 7 | Posted by coolcoder613",
+      "url": "https://lenowo.org/viewtopic.php?t=5",
+      "publishedAt": "2025-09-19T02:13:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "coolcoder613",
+      "tags": []
+    },
+    {
+      "id": "62mxky",
+      "title": "The Math of Catastrophe",
+      "description": "Score: 26 | Comments: 3 | Posted by pseudolus",
+      "url": "https://www.quantamagazine.org/the-math-of-climate-change-tipping-points-20250915/",
+      "publishedAt": "2025-09-19T01:34:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pseudolus",
+      "tags": []
+    },
+    {
+      "id": "dpac4y",
+      "title": "David Lynch LA House",
+      "description": "Score: 126 | Comments: 39 | Posted by ewf",
+      "url": "https://www.wallpaper.com/design-interiors/david-lynch-house-los-angeles-for-sale",
+      "publishedAt": "2025-09-19T00:30:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ewf",
+      "tags": []
+    },
+    {
+      "id": "prt0f",
+      "title": "Bluefin LTS Is Released",
+      "description": "Score: 13 | Comments: 3 | Posted by nikodunk",
+      "url": "https://docs.projectbluefin.io/blog/bluefin-lts-ga/",
+      "publishedAt": "2025-09-19T00:13:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nikodunk",
+      "tags": []
+    }
+  ]
+}
