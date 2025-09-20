@@ -1,0 +1,83 @@
+{
+  "date": "2025-09-20",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "n0cwvr",
+      "title": "High-performance read-through cache for object storage",
+      "description": "Score: 8 | Comments: 1 | Posted by pranay01",
+      "url": "https://github.com/s2-streamstore/cachey",
+      "publishedAt": "2025-09-20T04:13:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pranay01",
+      "tags": []
+    },
+    {
+      "id": "it6f3b",
+      "title": "MCP Server Could Have Been a JSON File",
+      "description": "Score: 15 | Comments: 4 | Posted by reenorap",
+      "url": "https://materializedview.io/p/mcp-server-could-have-been-json-file",
+      "publishedAt": "2025-09-20T04:07:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "reenorap",
+      "tags": []
+    },
+    {
+      "id": "z5j6w6",
+      "title": "Supporting Our AI Overlords: Redesigning Data Systems to Be Agent-First",
+      "description": "Score: 5 | Comments: 1 | Posted by derekhecksher",
+      "url": "https://arxiv.org/abs/2509.00997",
+      "publishedAt": "2025-09-20T03:41:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "derekhecksher",
+      "tags": []
+    },
+    {
+      "id": "gsszc3",
+      "title": "Pentagon demands journalists pledge to not obtain unauthorized material",
+      "description": "Score: 20 | Comments: 1 | Posted by anigbrowl",
+      "url": "https://www.washingtonpost.com/business/2025/09/19/pentagon-hegseth-press-unauthorized-material/",
+      "publishedAt": "2025-09-20T02:54:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "anigbrowl",
+      "tags": []
+    },
+    {
+      "id": "m9rjc8",
+      "title": "Things managers do that leaders never would",
+      "description": "Score: 92 | Comments: 59 | Posted by 9x39",
+      "url": "https://simonsinek.com/stories/5-things-managers-do-that-leaders-never-would-according-to-simon/",
+      "publishedAt": "2025-09-20T02:11:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "9x39",
+      "tags": []
+    },
+    {
+      "id": "ohg0ch",
+      "title": "Grok 4 Fast",
+      "description": "Score: 12 | Comments: 0 | Posted by meetpateltech",
+      "url": "https://x.ai/news/grok-4-fast",
+      "publishedAt": "2025-09-20T01:55:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "meetpateltech",
+      "tags": []
+    },
+    {
+      "id": "fv6k9s",
+      "title": "If all the world were a monorepojtibs.substack.com",
+      "description": "Score: 84 | Comments: 19 | Posted by sebg",
+      "url": "https://jtibs.substack.com/p/if-all-the-world-were-a-monorepo",
+      "publishedAt": "2025-09-20T01:08:16.881Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sebg",
+      "tags": []
+    }
+  ]
+}

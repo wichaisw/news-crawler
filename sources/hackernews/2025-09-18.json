@@ -113,6 +113,17 @@
       "tags": []
     },
     {
+      "id": "bzwuaz",
+      "title": "Shipping 100 hardware units in under eight weeks",
+      "description": "Score: 121 | Comments: 70 | Posted by M_farhan_h",
+      "url": "https://farhanhossain.substack.com/p/how-we-shipped-100-hardware-units",
+      "publishedAt": "2025-09-18T20:11:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "M_farhan_h",
+      "tags": []
+    },
+    {
       "id": "fbojpb",
       "title": "U.S. already has the critical minerals it needs, according to new analysis",
       "description": "Score: 133 | Comments: 146 | Posted by giuliomagnifico",
@@ -198,6 +209,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jcbhmr",
+      "tags": []
+    },
+    {
+      "id": "vwbr0l",
+      "title": "Faster Argmin on Floats",
+      "description": "Score: 10 | Comments: 4 | Posted by return_to_monke",
+      "url": "https://algorithmiker.github.io/faster-float-argmin/",
+      "publishedAt": "2025-09-18T16:20:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "return_to_monke",
       "tags": []
     },
     {
@@ -462,6 +484,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "k78xkv",
+      "title": "Xmonad seeking help for Wayland port (2023)",
+      "description": "Score: 66 | Comments: 44 | Posted by clircle",
+      "url": "https://xmonad.org/news/2023/10/06/wayland.html",
+      "publishedAt": "2025-09-18T00:04:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "clircle",
       "tags": []
     }
   ]
