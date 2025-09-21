@@ -157,6 +157,28 @@
       "tags": []
     },
     {
+      "id": "uhvgbf",
+      "title": "MapSCII – World map in terminal",
+      "description": "Score: 161 | Comments: 20 | Posted by _august",
+      "url": "https://github.com/rastapasta/mapscii",
+      "publishedAt": "2025-09-18T18:12:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "_august",
+      "tags": []
+    },
+    {
+      "id": "o0tiee",
+      "title": "Lidar, optical distance and time of flight sensors",
+      "description": "Score: 4 | Comments: 0 | Posted by mahirsaid",
+      "url": "https://ams-osram.com/innovation/technology/depth-and-3d-sensing/lidar-optical-distance-and-time-of-flight-sensors",
+      "publishedAt": "2025-09-18T18:05:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mahirsaid",
+      "tags": []
+    },
+    {
       "id": "5dv41e",
       "title": "This map is not upside down",
       "description": "Score: 230 | Comments: 322 | Posted by aagha",
@@ -187,6 +209,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ndhandala",
+      "tags": []
+    },
+    {
+      "id": "ic09v4",
+      "title": "Were RNNs all we needed? A GPU programming perspective",
+      "description": "Score: 49 | Comments: 11 | Posted by omegablues",
+      "url": "https://dhruvmsheth.github.io/projects/gpu_pogramming_curnn/",
+      "publishedAt": "2025-09-18T16:47:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "omegablues",
       "tags": []
     },
     {
@@ -311,6 +344,17 @@
       "tags": []
     },
     {
+      "id": "dhl53y",
+      "title": "Teardown of Apple 40W dynamic power adapter with 60W max",
+      "description": "Score: 124 | Comments: 90 | Posted by givinguflac",
+      "url": "https://www.chargerlab.com/teardown-of-apple-40w-dynamic-power-adapter-with-60w-max-a3365/",
+      "publishedAt": "2025-09-18T13:04:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "givinguflac",
+      "tags": []
+    },
+    {
       "id": "1lq1yp",
       "title": "KDE is now my favorite desktop",
       "description": "Score: 756 | Comments: 612 | Posted by todsacerdoti",
@@ -330,6 +374,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "stycznik",
+      "tags": []
+    },
+    {
+      "id": "kozr0w",
+      "title": "After Babel Fish: The promise of cheap translations at the speed of the Web",
+      "description": "Score: 50 | Comments: 10 | Posted by miqkt",
+      "url": "https://hedgehogreview.com/issues/lessons-of-babel/articles/after-babel-fish",
+      "publishedAt": "2025-09-18T10:16:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "miqkt",
+      "tags": []
+    },
+    {
+      "id": "qevd4i",
+      "title": "Scream cipher",
+      "description": "Score: 258 | Comments: 94 | Posted by alexmolas",
+      "url": "https://sethmlarson.dev/scream-cipher",
+      "publishedAt": "2025-09-18T09:22:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "alexmolas",
       "tags": []
     },
     {
@@ -363,6 +429,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "l447od",
+      "title": "Evals in 2025: going beyond simple benchmarks to build models people can use",
+      "description": "Score: 65 | Comments: 6 | Posted by jxmorris12",
+      "url": "https://github.com/huggingface/evaluation-guidebook/blob/main/yearly_dives/2025-evaluations-for-useful-models.md",
+      "publishedAt": "2025-09-18T05:16:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jxmorris12",
       "tags": []
     },
     {
@@ -462,6 +539,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "martpie",
+      "tags": []
+    },
+    {
+      "id": "qtefxi",
+      "title": "Learning Languages with the Help of Algorithms",
+      "description": "Score: 10 | Comments: 2 | Posted by ibobev",
+      "url": "https://www.johndcook.com/blog/2025/09/17/learning-languages-with-the-help-of-algorithms/",
+      "publishedAt": "2025-09-18T01:07:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
       "tags": []
     },
     {

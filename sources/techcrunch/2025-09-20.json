@@ -3,6 +3,72 @@
   "source": "techcrunch",
   "articles": [
     {
+      "id": "https://techcrunch.com/?p=3048222",
+      "title": "White House offers more details about potential TikTok deal",
+      "description": "The White House press secretary said Americans will hold six of seven board seats in the restructured TikTok, and the video app’s algorithm will be",
+      "url": "https://techcrunch.com/2025/09/20/white-house-offers-more-details-about-potential-tiktok-deal/",
+      "publishedAt": "2025-09-20T20:09:32.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3048211",
+      "title": "Amazon, Google, Microsoft reportedly warn H-1B employees to stay in the US",
+      "description": "Large tech companies have responded to President Donald Trump’s dramatic changes to H-1B visa applications by telling employees with those visas to",
+      "url": "https://techcrunch.com/2025/09/20/amazon-google-microsoft-warn-h-1b-employees-to-stay-in-the-us/",
+      "publishedAt": "2025-09-20T19:01:44.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3046872",
+      "title": "How Phoebe Gates and Sophia Kianni used Gen Z methods to raise $8M for Phia",
+      "description": "Phia raises $8M seed round in deal led by Kleiner Perkins.",
+      "url": "https://techcrunch.com/2025/09/20/how-phoebe-gates-and-sophia-kianni-used-gen-z-methods-to-raise-8m-for-phia/",
+      "publishedAt": "2025-09-20T16:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3046926",
+      "title": "Updates to Studio, YouTube Live, new gen AI tools, and everything else announced at Made on YouTube",
+      "description": "YouTube unveiled tons of new updates, features, and tools geared toward creators.",
+      "url": "https://techcrunch.com/2025/09/20/updates-to-studio-youtube-live-new-gen-ai-tools-and-everything-else-announced-at-made-on-youtube/",
+      "publishedAt": "2025-09-20T15:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Karyne Levy",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3048176",
+      "title": "Lincoln Center’s Collider Fellows explore how tech could transform the performing arts",
+      "description": "At a time of high anxiety around technology’s impact on arts and culture, Lincoln Center for the Performing Arts’ Collider Fellowship is focused on",
+      "url": "https://techcrunch.com/2025/09/20/lincoln-centers-collider-fellows-explore-how-tech-could-transform-the-performing-arts/",
+      "publishedAt": "2025-09-20T14:19:31.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3039128",
+      "title": "Only 7 days left to save on TechCrunch Disrupt 2025 tickets — lock in Regular Bird pricing now",
+      "description": "Time is running out to grab your pass to TechCrunch Disrupt 2025, happening October 27–29 in San Francisco. With less than 7 days left to lock in",
+      "url": "https://techcrunch.com/2025/09/20/only-7-days-left-to-save-on-techcrunch-disrupt-2025-tickets-lock-in-regular-bird-pricing-now/",
+      "publishedAt": "2025-09-20T14:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "TechCrunch Events",
+      "tags": []
+    },
+    {
       "id": "https://techcrunch.com/?p=3047970",
       "title": "Google isn’t kidding around about cost cutting, even slashing its FT subscription",
       "description": "These cuts may save Google mere thousands; they also come as Google faces increasingly strained relationships with news publishers.",
