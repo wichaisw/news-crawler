@@ -80,6 +80,17 @@
       "tags": []
     },
     {
+      "id": "9off33",
+      "title": "A coin flip by any other name (2023)",
+      "description": "Score: 50 | Comments: 6 | Posted by lawrenceyan",
+      "url": "https://cgad.ski/blog/a-coin-flip-by-any-other-name.html",
+      "publishedAt": "2025-09-18T21:59:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lawrenceyan",
+      "tags": []
+    },
+    {
       "id": "3d2gyd",
       "title": "Show HN: I created a small 2D game about an ant",
       "description": "Score: 63 | Comments: 16 | Posted by aanthonymax",
@@ -88,6 +99,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "aanthonymax",
+      "tags": []
+    },
+    {
+      "id": "xgxni4",
+      "title": "RCA VideoDisc's Legacy: Scanning Capacitance Microscope",
+      "description": "Score: 16 | Comments: 3 | Posted by WaitWaitWha",
+      "url": "https://spectrum.ieee.org/rca-videodisc",
+      "publishedAt": "2025-09-18T20:58:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "WaitWaitWha",
       "tags": []
     },
     {
@@ -124,6 +146,17 @@
       "tags": []
     },
     {
+      "id": "l90mbn",
+      "title": "Simulating a Machine from the 80s",
+      "description": "Score: 16 | Comments: 2 | Posted by roman-mazur",
+      "url": "https://rmazur.io/blog/fahivets.html",
+      "publishedAt": "2025-09-18T20:03:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "roman-mazur",
+      "tags": []
+    },
+    {
       "id": "fbojpb",
       "title": "U.S. already has the critical minerals it needs, according to new analysis",
       "description": "Score: 133 | Comments: 146 | Posted by giuliomagnifico",
@@ -143,6 +176,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "bpierre",
+      "tags": []
+    },
+    {
+      "id": "2nrnic",
+      "title": "Calculator Forensics (2002)",
+      "description": "Score: 77 | Comments: 35 | Posted by ColinWright",
+      "url": "https://www.rskey.org/~mwsebastian/miscprj/results.htm",
+      "publishedAt": "2025-09-18T18:43:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ColinWright",
       "tags": []
     },
     {
@@ -212,6 +256,17 @@
       "tags": []
     },
     {
+      "id": "k78vlu",
+      "title": "How Isaac Newton discovered the binomial power series (2022)",
+      "description": "Score: 61 | Comments: 13 | Posted by FromTheArchives",
+      "url": "https://www.quantamagazine.org/how-isaac-newton-discovered-the-binomial-power-series-20220831/",
+      "publishedAt": "2025-09-18T16:59:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "FromTheArchives",
+      "tags": []
+    },
+    {
       "id": "ic09v4",
       "title": "Were RNNs all we needed? A GPU programming perspective",
       "description": "Score: 49 | Comments: 11 | Posted by omegablues",
@@ -278,6 +333,39 @@
       "tags": []
     },
     {
+      "id": "efmxm0",
+      "title": "Discovering new solutions to century-old problems in fluid dynamics",
+      "description": "Score: 37 | Comments: 2 | Posted by roboboffin",
+      "url": "https://deepmind.google/discover/blog/discovering-new-solutions-to-century-old-problems-in-fluid-dynamics/",
+      "publishedAt": "2025-09-18T15:09:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "roboboffin",
+      "tags": []
+    },
+    {
+      "id": "l82udc",
+      "title": "Show HN: I wrote an OS in 1000 lines of Zig",
+      "description": "Score: 140 | Comments: 20 | Posted by botirk",
+      "url": "https://github.com/botirk38/OS-1000-lines-zig",
+      "publishedAt": "2025-09-18T15:05:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "botirk",
+      "tags": []
+    },
+    {
+      "id": "u42mrn",
+      "title": "Hi No Youjin",
+      "description": "Score: 49 | Comments: 5 | Posted by mrcgnc",
+      "url": "https://aethermug.com/posts/hi-no-youjin",
+      "publishedAt": "2025-09-18T14:45:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mrcgnc",
+      "tags": []
+    },
+    {
       "id": "9hp4nb",
       "title": "TernFS – An exabyte scale, multi-region distributed filesystem",
       "description": "Score: 215 | Comments: 85 | Posted by rostayob",
@@ -308,6 +396,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "sandslash",
+      "tags": []
+    },
+    {
+      "id": "9wsi9x",
+      "title": "Model Flop Utilization Beyond 6ND",
+      "description": "Score: 16 | Comments: 0 | Posted by brrrrrm",
+      "url": "https://jott.live/markdown/mfu",
+      "publishedAt": "2025-09-18T14:05:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "brrrrrm",
       "tags": []
     },
     {
@@ -352,6 +451,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "givinguflac",
+      "tags": []
+    },
+    {
+      "id": "4xq97z",
+      "title": "Obsidian Note Codes",
+      "description": "Score: 64 | Comments: 9 | Posted by surprisetalk",
+      "url": "https://ezhik.jp/obsidian/note-codes/",
+      "publishedAt": "2025-09-18T12:22:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
       "tags": []
     },
     {
@@ -410,6 +520,17 @@
       "tags": []
     },
     {
+      "id": "i5nna4",
+      "title": "40k-Year-Old Symbols in Caves Worldwide May Be the Earliest Written Language",
+      "description": "Score: 129 | Comments: 76 | Posted by mdp2021",
+      "url": "https://www.openculture.com/2025/09/40000-year-old-symbols-found-in-caves-worldwide-may-be-the-earliest-written-language.html",
+      "publishedAt": "2025-09-18T07:27:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mdp2021",
+      "tags": []
+    },
+    {
       "id": "jvvlyf",
       "title": "Pnpm has a new setting to stave off supply chain attacks",
       "description": "Score: 207 | Comments: 135 | Posted by ivanb",
@@ -440,6 +561,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jxmorris12",
+      "tags": []
+    },
+    {
+      "id": "5lspft",
+      "title": "INapGPU: Text-mode graphics card, using only TTL gates",
+      "description": "Score: 56 | Comments: 6 | Posted by userbinator",
+      "url": "https://github.com/Leoneq/iNapGPU",
+      "publishedAt": "2025-09-18T04:53:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "userbinator",
+      "tags": []
+    },
+    {
+      "id": "krplhq",
+      "title": "Why, as a responsible adult, SimCity 2000 hits differently",
+      "description": "Score: 225 | Comments: 294 | Posted by doppp",
+      "url": "https://arstechnica.com/gaming/2025/09/thirty-years-later-simcity-2000-hasnt-changed-but-i-have/",
+      "publishedAt": "2025-09-18T04:26:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "doppp",
       "tags": []
     },
     {

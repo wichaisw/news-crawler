@@ -1,0 +1,116 @@
+{
+  "date": "2025-09-22",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "y2i3ee",
+      "title": "Privacy and Security Risks in the eSIM Ecosystem [pdf]",
+      "description": "Score: 47 | Comments: 6 | Posted by walterbell",
+      "url": "https://www.usenix.org/system/files/usenixsecurity25-motallebighomi.pdf",
+      "publishedAt": "2025-09-22T04:35:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "walterbell",
+      "tags": []
+    },
+    {
+      "id": "ooylju",
+      "title": "The US Is Tracking 14 Potential Rabies Outbreaks in 20 States",
+      "description": "Score: 69 | Comments: 41 | Posted by treasure2seek",
+      "url": "https://www.accuweather.com/en/health-wellness/the-us-is-tracking-14-potential-rabies-outbreaks-in-20-states-heres-what-to-know/1817668",
+      "publishedAt": "2025-09-22T03:41:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "treasure2seek",
+      "tags": []
+    },
+    {
+      "id": "7kurye",
+      "title": "South Korea's President says US investment demands would spark financial crisis",
+      "description": "Score: 13 | Comments: 0 | Posted by rbanffy",
+      "url": "https://www.reuters.com/world/china/south-koreas-president-lee-says-us-investment-demands-would-spark-financial-2025-09-21/",
+      "publishedAt": "2025-09-22T03:30:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rbanffy",
+      "tags": []
+    },
+    {
+      "id": "apmylt",
+      "title": "South Korea's President says US investment demands would spark financial crisis",
+      "description": "Score: 125 | Comments: 84 | Posted by donsupreme",
+      "url": "https://www.cnbc.com/2025/09/21/south-koreas-president-lee-trump-investment-financial-crisis.html",
+      "publishedAt": "2025-09-22T02:32:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "donsupreme",
+      "tags": []
+    },
+    {
+      "id": "qgdtt3",
+      "title": "Seattle, Tech Boomtown, Grapples with a Future of Fewer Tech Jobs",
+      "description": "Score: 36 | Comments: 9 | Posted by mooreds",
+      "url": "https://www.wsj.com/tech/seattle-tech-amazon-microsoft-jobs-95f2db27",
+      "publishedAt": "2025-09-22T02:26:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mooreds",
+      "tags": []
+    },
+    {
+      "id": "j44ntk",
+      "title": "DSM Disorders Disappear in Statistical Clustering of Psychiatric Symptoms (2024)",
+      "description": "Score: 83 | Comments: 29 | Posted by rendx",
+      "url": "https://www.psychiatrymargins.com/p/traditional-dsm-disorders-dissolve?r=2wyot6&triedRedirect=true",
+      "publishedAt": "2025-09-22T02:24:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rendx",
+      "tags": []
+    },
+    {
+      "id": "69h8x5",
+      "title": "Pointer Tagging in C++: The Art of Packing Bits into a Pointer",
+      "description": "Score: 22 | Comments: 15 | Posted by signa11",
+      "url": "https://vectrx.substack.com/p/pointer-tagging-in-c-the-art-of-packing",
+      "publishedAt": "2025-09-22T01:46:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "signa11",
+      "tags": []
+    },
+    {
+      "id": "fnibn",
+      "title": "Show HN: Wan-Animate – Unified Character Animation and Replacement",
+      "description": "Score: 12 | Comments: 1 | Posted by laiwuchiyuan",
+      "url": "https://www.wananimate.net/",
+      "publishedAt": "2025-09-22T01:37:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "laiwuchiyuan",
+      "tags": []
+    },
+    {
+      "id": "gp9xpe",
+      "title": "How I, a beginner developer, read the tutorial you, a developer, wrote for me",
+      "description": "Score: 164 | Comments: 82 | Posted by wonger_",
+      "url": "https://anniemueller.com/posts/how-i-a-non-developer-read-the-tutorial-you-a-developer-wrote-for-me-a-beginner",
+      "publishedAt": "2025-09-22T01:27:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wonger_",
+      "tags": []
+    },
+    {
+      "id": "sc4ucb",
+      "title": "Linux 6.18 Expected to Land Google's Rust Binder Driver",
+      "description": "Score: 20 | Comments: 4 | Posted by CharlesW",
+      "url": "https://www.phoronix.com/news/Rust-Binder-For-Linux-6.18",
+      "publishedAt": "2025-09-22T00:25:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "CharlesW",
+      "tags": []
+    }
+  ]
+}
