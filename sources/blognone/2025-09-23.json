@@ -1,0 +1,40 @@
+{
+  "date": "2025-09-23",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "148275 at https://www.blognone.com",
+      "title": "Cloudflare เปิด Cap'n Web โปรโตคอล RPC ทดแทน GraphQL ระบุเข้าใจง่ายกว่า",
+      "description": "Cloudflare เปิด Cap'n Web โปรโตคอล RPC ทดแทน GraphQL ระบุเข้าใจง่ายกว่า Body Cloudflare เปิดโตรงการ Cap'n Web โปรโตคอลสำหรับการเรียก RPC",
+      "url": "https://www.blognone.com/node/148275",
+      "publishedAt": "2025-09-23T05:17:14.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148274 at https://www.blognone.com",
+      "title": "ประธานศาลฎีกา ออกคำแนะนำการใช้ AI ในงานคดี ให้ระวังข้อมูลส่วนบุคคล-ตรวจสอบความถูกต้อง",
+      "description": "ประธานศาลฎีกา ออกคำแนะนำการใช้ AI ในงานคดี ให้ระวังข้อมูลส่วนบุคคล-ตรวจสอบความถูกต้อง Body นางชนากานต์ ธีรเวชพลกุล ประธานศาลฎีกา ออก \"คำแนะนำ\"",
+      "url": "https://www.blognone.com/node/148274",
+      "publishedAt": "2025-09-23T02:11:16.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148273 at https://www.blognone.com",
+      "title": "Facebook Dating เพิ่มฟีเจอร์ AI ช่วยแนะนำคู่เดท แก้ปัญหาปัดแล้วไม่ถูกใจสักที",
+      "description": "Facebook Dating เพิ่มฟีเจอร์ AI ช่วยแนะนำคู่เดท แก้ปัญหาปัดแล้วไม่ถูกใจสักที Body Facebook มี บริการหาคู่เดท Facebook Dating เปิดตัวมานานพอสมควร",
+      "url": "https://www.blognone.com/node/148273",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2025/2025-09/your-dating-assistant.webp",
+      "publishedAt": "2025-09-23T01:49:37.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}

@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "ftiwjt",
+      "title": "Based C++",
+      "description": "Score: 36 | Comments: 7 | Posted by phamtrongthang",
+      "url": "https://github.com/SheafificationOfG/based-cpp",
+      "publishedAt": "2025-09-19T22:36:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "phamtrongthang",
+      "tags": []
+    },
+    {
       "id": "26kdf6",
       "title": "Less is safer: How Obsidian reduces the risk of supply chain attacksobsidian.md",
       "description": "Score: 246 | Comments: 98 | Posted by saeedesmaili",
@@ -33,6 +44,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "barddoo",
+      "tags": []
+    },
+    {
+      "id": "aum7s5",
+      "title": "After 50 years, The Magic Circle finally inducts Penn and Teller",
+      "description": "Score: 162 | Comments: 54 | Posted by wbl",
+      "url": "https://www.nytimes.com/2025/09/19/arts/penn-teller-magic-circle.html",
+      "publishedAt": "2025-09-19T21:51:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wbl",
       "tags": []
     },
     {
@@ -113,6 +135,17 @@
       "tags": []
     },
     {
+      "id": "2ie2lp",
+      "title": "Some stuff on how Linux consoles interact with the mouse",
+      "description": "Score: 8 | Comments: 0 | Posted by kencausey",
+      "url": "https://utcc.utoronto.ca/~cks/space/blog/linux/LinuxConsoleAndMouse",
+      "publishedAt": "2025-09-19T18:26:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kencausey",
+      "tags": []
+    },
+    {
       "id": "73xe9m",
       "title": "An untidy history of AI across four books",
       "description": "Score: 98 | Comments: 34 | Posted by ewf",
@@ -132,6 +165,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "ge851r",
+      "title": "Rungis: The Market and the City – A day at Europe's largest fresh food market",
+      "description": "Score: 12 | Comments: 2 | Posted by speckx",
+      "url": "https://www.vittlesmagazine.com/p/rungis-the-market-and-the-city",
+      "publishedAt": "2025-09-19T15:53:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
       "tags": []
     },
     {
@@ -168,6 +212,17 @@
       "tags": []
     },
     {
+      "id": "qf2mdf",
+      "title": "Jailhouse confessions of a teen hacker",
+      "description": "Score: 79 | Comments: 37 | Posted by wslh",
+      "url": "https://www.bloomberg.com/news/features/2025-09-19/multimillion-dollar-hacking-spree-scattered-spider-teen-s-jailhouse-confessions",
+      "publishedAt": "2025-09-19T14:29:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wslh",
+      "tags": []
+    },
+    {
       "id": "a51fw1",
       "title": "I regret building this $3000 Pi AI cluster",
       "description": "Score: 423 | Comments: 309 | Posted by speckx",
@@ -201,6 +256,17 @@
       "tags": []
     },
     {
+      "id": "nvyr24",
+      "title": "I built a dual RTX 3090 rig for local AI in 2025 (and lessons learned)",
+      "description": "Score: 8 | Comments: 7 | Posted by tensorlibb",
+      "url": "https://www.llamabuilds.ai/build/portable-25l-nvlinked-dual-3090-llm-rig",
+      "publishedAt": "2025-09-19T12:06:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tensorlibb",
+      "tags": []
+    },
+    {
       "id": "y1lqhu",
       "title": "Statistical Physics with R: Ising Model with Monte Carlo",
       "description": "Score: 107 | Comments: 61 | Posted by northlondoner",
@@ -223,6 +289,17 @@
       "tags": []
     },
     {
+      "id": "12aw4y",
+      "title": "Egyptian Hieroglyphic Alphabet (2015)",
+      "description": "Score: 28 | Comments: 9 | Posted by teleforce",
+      "url": "https://discoveringegypt.com/egyptian-hieroglyphic-writing/egyptian-hieroglyphic-alphabet/",
+      "publishedAt": "2025-09-19T07:15:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "teleforce",
+      "tags": []
+    },
+    {
       "id": "bbjyyt",
       "title": "Nostr",
       "description": "Score: 338 | Comments: 296 | Posted by dtj1123",
@@ -231,6 +308,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "dtj1123",
+      "tags": []
+    },
+    {
+      "id": "xp1npp",
+      "title": "The common sense unit of work",
+      "description": "Score: 10 | Comments: 2 | Posted by todsacerdoti",
+      "url": "https://blog.nilenso.com/blog/2025/09/17/the-common-sense-unit-of-work/",
+      "publishedAt": "2025-09-19T05:49:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
       "tags": []
     },
     {

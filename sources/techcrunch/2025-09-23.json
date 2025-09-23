@@ -1,0 +1,28 @@
+{
+  "date": "2025-09-23",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3048927",
+      "title": "After India, OpenAI launches its affordable ChatGPT Go plan in Indonesia",
+      "description": "OpenAI is launching ChatGPT Go in Indonesia to compete with Google AI Plus plan.",
+      "url": "https://techcrunch.com/2025/09/22/after-india-openai-launches-its-affordable-chatgpt-go-plan-in-indonesia/",
+      "publishedAt": "2025-09-23T05:47:26.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Ivan Mehta",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3048671",
+      "title": "Rocket.new, one of India’s first vibe-coding startups, snags $15M from Accel, Salesforce Ventures",
+      "description": "Rocket.new has surged to 400,000 users and $4.5M ARR in three months.",
+      "url": "https://techcrunch.com/2025/09/22/rocket-new-one-of-indias-first-vibe-coding-startups-snags-15m-from-accel-salesforce-ventures/",
+      "publishedAt": "2025-09-23T05:30:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Jagmeet Singh",
+      "tags": []
+    }
+  ]
+}

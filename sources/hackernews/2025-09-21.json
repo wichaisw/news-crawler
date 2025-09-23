@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "4umhwa",
+      "title": "Biconnected components",
+      "description": "Score: 48 | Comments: 17 | Posted by emih",
+      "url": "https://emi-h.com/articles/bcc.html",
+      "publishedAt": "2025-09-21T23:06:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "emih",
+      "tags": []
+    },
+    {
       "id": "hrvfz4",
       "title": "Why is Venus hell and Earth an Eden?",
       "description": "Score: 95 | Comments: 119 | Posted by pseudolus",
@@ -113,6 +124,17 @@
       "tags": []
     },
     {
+      "id": "wpyaw8",
+      "title": "A board member's perspective of the RubyGems controversy",
+      "description": "Score: 92 | Comments: 105 | Posted by Qwuke",
+      "url": "https://apiguy.substack.com/p/a-board-members-perspective-of-the",
+      "publishedAt": "2025-09-21T19:20:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Qwuke",
+      "tags": []
+    },
+    {
       "id": "kjct5e",
       "title": "Bringing Observability to Claude Code: OpenTelemetry in Action",
       "description": "Score: 40 | Comments: 14 | Posted by pranay01",
@@ -121,6 +143,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "pranay01",
+      "tags": []
+    },
+    {
+      "id": "mpqjjl",
+      "title": "Transforming recursion into iteration for LLVM loop optimizations",
+      "description": "Score: 33 | Comments: 4 | Posted by matt_d",
+      "url": "https://dspace.mit.edu/handle/1721.1/162684",
+      "publishedAt": "2025-09-21T18:13:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "matt_d",
       "tags": []
     },
     {
@@ -242,6 +275,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "arnon",
+      "tags": []
+    },
+    {
+      "id": "1r8g2q",
+      "title": "What happens when coding agents stop feeling like dialup?",
+      "description": "Score: 114 | Comments: 103 | Posted by martinald",
+      "url": "https://martinalderson.com/posts/what-happens-when-coding-agents-stop-feeling-like-dialup/",
+      "publishedAt": "2025-09-21T12:11:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "martinald",
       "tags": []
     },
     {

@@ -1,0 +1,116 @@
+{
+  "date": "2025-09-23",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "bl7pw5",
+      "title": "Delete FROM users WHERE location = 'Iran';gist.github.com",
+      "description": "Score: 107 | Comments: 45 | Posted by avestura",
+      "url": "https://gist.github.com/avestura/ce2aa6e55dad783b1aba946161d5fef4",
+      "publishedAt": "2025-09-23T05:32:18.732Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "avestura",
+      "tags": []
+    },
+    {
+      "id": "bl7pw5",
+      "title": "Delete FROM users WHERE location = 'Iran';",
+      "description": "Score: 110 | Comments: 52 | Posted by avestura",
+      "url": "https://gist.github.com/avestura/ce2aa6e55dad783b1aba946161d5fef4",
+      "publishedAt": "2025-09-23T05:30:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "avestura",
+      "tags": []
+    },
+    {
+      "id": "qh43dz",
+      "title": "Zoxide: A Better CD Command",
+      "description": "Score: 4 | Comments: 1 | Posted by gasull",
+      "url": "https://github.com/ajeetdsouza/zoxide",
+      "publishedAt": "2025-09-23T04:48:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gasull",
+      "tags": []
+    },
+    {
+      "id": "a9lc0t",
+      "title": "Gamebooks and graph theory (2019)",
+      "description": "Score: 8 | Comments: 0 | Posted by guardienaveugle",
+      "url": "https://notes.atomutek.org/gamebooks-and-graph-theory.html",
+      "publishedAt": "2025-09-23T04:10:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "guardienaveugle",
+      "tags": []
+    },
+    {
+      "id": "sf7akt",
+      "title": "The Latest Linux File-System: TernFS",
+      "description": "Score: 22 | Comments: 9 | Posted by guiambros",
+      "url": "https://www.phoronix.com/news/TernFS-File-System-Open-Source",
+      "publishedAt": "2025-09-23T03:39:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "guiambros",
+      "tags": []
+    },
+    {
+      "id": "6e38td",
+      "title": "Nine Things I Learned in Ninety Years",
+      "description": "Score: 86 | Comments: 12 | Posted by coderintherye",
+      "url": "http://edwardpackard.com/wp-content/uploads/2025/09/Nine-Things-I-Learned-in-Ninety-Years.pdf",
+      "publishedAt": "2025-09-23T03:03:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "coderintherye",
+      "tags": []
+    },
+    {
+      "id": "jbf213",
+      "title": "Selling numbered rocks, you get whatever's next in sequence",
+      "description": "Score: 55 | Comments: 39 | Posted by cloudmanager",
+      "url": "https://weight.rocks",
+      "publishedAt": "2025-09-23T02:35:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cloudmanager",
+      "tags": []
+    },
+    {
+      "id": "6l7ob0",
+      "title": "Creating a database of motivated proofs – Gowers's Weblog",
+      "description": "Score: 8 | Comments: 0 | Posted by furcyd",
+      "url": "https://gowers.wordpress.com/2025/09/22/creating-a-database-of-motivated-proofs/",
+      "publishedAt": "2025-09-23T01:10:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "furcyd",
+      "tags": []
+    },
+    {
+      "id": "w6fs25",
+      "title": "X server implementation for SIXEL-featured terminals (2010-2014)",
+      "description": "Score: 36 | Comments: 3 | Posted by jesprenj",
+      "url": "https://github.com/saitoha/xserver-SIXEL",
+      "publishedAt": "2025-09-23T01:07:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jesprenj",
+      "tags": []
+    },
+    {
+      "id": "2xsk2e",
+      "title": "Fall Foliage Map 2025",
+      "description": "Score: 143 | Comments: 15 | Posted by rappatic",
+      "url": "https://www.explorefall.com/fall-foliage-map",
+      "publishedAt": "2025-09-23T00:14:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rappatic",
+      "tags": []
+    }
+  ]
+}
