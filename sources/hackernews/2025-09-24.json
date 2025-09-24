@@ -1,0 +1,127 @@
+{
+  "date": "2025-09-24",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "eslalv",
+      "title": "Greatest irony of the AI age: Humans hired to clean AI slop",
+      "description": "Score: 20 | Comments: 8 | Posted by wahvinci",
+      "url": "https://www.sify.com/ai-analytics/greatest-irony-of-the-ai-age-humans-being-increasingly-hired-to-clean-ai-slop/",
+      "publishedAt": "2025-09-24T04:15:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wahvinci",
+      "tags": []
+    },
+    {
+      "id": "dgq3ak",
+      "title": "New study shows plants and animals emit a visible light that expires at death",
+      "description": "Score: 6 | Comments: 1 | Posted by ivewonyoung",
+      "url": "https://pubs.acs.org/doi/10.1021/acs.jpclett.4c03546",
+      "publishedAt": "2025-09-24T03:27:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ivewonyoung",
+      "tags": []
+    },
+    {
+      "id": "i672wc",
+      "title": "Quadratic memory reductions for Zero-knowledge Proofsgithub.com/logannye",
+      "description": "Score: 45 | Comments: 1 | Posted by logannyeMD",
+      "url": "https://github.com/logannye/space-efficient-zero-knowledge-proofs",
+      "publishedAt": "2025-09-24T03:09:53.985Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "logannyeMD",
+      "tags": []
+    },
+    {
+      "id": "jf7ekh",
+      "title": "America's top companies keep talking about AI – but can't explain the upsides",
+      "description": "Score: 68 | Comments: 34 | Posted by 1vuio0pswjnm7",
+      "url": "https://www.ft.com/content/e93e56df-dd9b-40c1-b77a-dba1ca01e473",
+      "publishedAt": "2025-09-24T02:59:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "1vuio0pswjnm7",
+      "tags": []
+    },
+    {
+      "id": "i672wc",
+      "title": "Quadratic memory reductions for Zero-knowledge Proofs",
+      "description": "Score: 45 | Comments: 2 | Posted by logannyeMD",
+      "url": "https://github.com/logannye/space-efficient-zero-knowledge-proofs",
+      "publishedAt": "2025-09-24T02:12:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "logannyeMD",
+      "tags": []
+    },
+    {
+      "id": "von1ir",
+      "title": "Zutty: Zero-cost Unicode Teletype, high-end terminal for low-end systems",
+      "description": "Score: 39 | Comments: 8 | Posted by klaussilveira",
+      "url": "https://git.hq.sig7.se/zutty.git",
+      "publishedAt": "2025-09-24T02:07:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "klaussilveira",
+      "tags": []
+    },
+    {
+      "id": "iojgrp",
+      "title": "Gartner had my post ridiculing Gartner removed",
+      "description": "Score: 32 | Comments: 2 | Posted by zepton",
+      "url": "https://bsky.app/profile/gergely.pragmaticengineer.com/post/3lzjbtzwkes2g",
+      "publishedAt": "2025-09-24T01:47:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zepton",
+      "tags": []
+    },
+    {
+      "id": "jq2hpi",
+      "title": "Bring true randomness to Spotify with Fisher-Yates shuffle",
+      "description": "Score: 14 | Comments: 2 | Posted by Elliott-Diy",
+      "url": "https://github.com/vuciv/true-random-shuffle",
+      "publishedAt": "2025-09-24T01:47:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Elliott-Diy",
+      "tags": []
+    },
+    {
+      "id": "84bhb0",
+      "title": "Baldur's Gate 3 Steam Deck – Native Versionlarian.com",
+      "description": "Score: 267 | Comments: 166 | Posted by _JamesA_",
+      "url": "https://larian.com/support/faqs/steam-deck-native-version_121",
+      "publishedAt": "2025-09-24T01:09:53.984Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "_JamesA_",
+      "tags": []
+    },
+    {
+      "id": "a4lznf",
+      "title": "Periodic Table of Cognition",
+      "description": "Score: 24 | Comments: 2 | Posted by garspin",
+      "url": "https://kk.org/thetechnium/the-periodic-table-of-cognition/",
+      "publishedAt": "2025-09-24T00:33:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "garspin",
+      "tags": []
+    },
+    {
+      "id": "84bhb0",
+      "title": "Baldur's Gate 3 Steam Deck – Native Version",
+      "description": "Score: 269 | Comments: 168 | Posted by _JamesA_",
+      "url": "https://larian.com/support/faqs/steam-deck-native-version_121",
+      "publishedAt": "2025-09-24T00:26:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "_JamesA_",
+      "tags": []
+    }
+  ]
+}

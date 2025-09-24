@@ -289,6 +289,28 @@
       "tags": []
     },
     {
+      "id": "6ufd6z",
+      "title": "How is einx notation universal?",
+      "description": "Score: 19 | Comments: 1 | Posted by HiPHInch",
+      "url": "https://einx.readthedocs.io/en/stable/faq/universal.html",
+      "publishedAt": "2025-09-21T07:11:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "HiPHInch",
+      "tags": []
+    },
+    {
+      "id": "cubcxf",
+      "title": "A webshell and a normal file that have the same MD5",
+      "description": "Score: 16 | Comments: 5 | Posted by shlomo_z",
+      "url": "https://github.com/phith0n/collision-webshell",
+      "publishedAt": "2025-09-21T05:52:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "shlomo_z",
+      "tags": []
+    },
+    {
       "id": "b9ibue",
       "title": "Representing Heterogeneous Data (2023)",
       "description": "Score: 4 | Comments: 0 | Posted by azhenley",

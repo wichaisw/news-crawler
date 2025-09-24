@@ -135,6 +135,28 @@
       "tags": []
     },
     {
+      "id": "nkz4du",
+      "title": "Markov chains are the original language models",
+      "description": "Score: 325 | Comments: 117 | Posted by chilipepperhott",
+      "url": "https://elijahpotter.dev/articles/markov_chains_are_the_original_language_models",
+      "publishedAt": "2025-09-19T18:42:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "chilipepperhott",
+      "tags": []
+    },
+    {
+      "id": "687euw",
+      "title": "Show HN: Run Qwen3-Next-80B on 8GB GPU at 1tok/2s throughput",
+      "description": "Score: 108 | Comments: 15 | Posted by anuarsh",
+      "url": "https://github.com/Mega4alik/ollm",
+      "publishedAt": "2025-09-19T18:36:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "anuarsh",
+      "tags": []
+    },
+    {
       "id": "2ie2lp",
       "title": "Some stuff on how Linux consoles interact with the mouse",
       "description": "Score: 8 | Comments: 0 | Posted by kencausey",
@@ -143,6 +165,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "kencausey",
+      "tags": []
+    },
+    {
+      "id": "wtmxp4",
+      "title": "Processing Strings 109x Faster Than Nvidia on H100",
+      "description": "Score: 178 | Comments: 23 | Posted by ashvardanian",
+      "url": "https://ashvardanian.com/posts/stringwars-on-gpus/",
+      "publishedAt": "2025-09-19T18:24:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ashvardanian",
       "tags": []
     },
     {

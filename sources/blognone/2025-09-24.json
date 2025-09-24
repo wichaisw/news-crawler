@@ -1,0 +1,50 @@
+{
+  "date": "2025-09-24",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "148288 at https://www.blognone.com",
+      "title": "GitHub ยกระดับความปลอดภัย npm หลังโดนโจมตีบ่อย บังคับใช้ 2FA, ลดอายุ token เหลือ 7 วัน",
+      "description": "GitHub ยกระดับความปลอดภัย npm หลังโดนโจมตีบ่อย บังคับใช้ 2FA, ลดอายุ token เหลือ 7 วัน Body GitHub ประกาศแผนยกระดับความปลอดภัยระบบจัดการแพ็กเกจ npm",
+      "url": "https://www.blognone.com/node/148288",
+      "publishedAt": "2025-09-24T01:44:05.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148287 at https://www.blognone.com",
+      "title": "WhatsApp เพิ่มความสามารถแปลภาษาภายในแอป",
+      "description": "WhatsApp เพิ่มความสามารถแปลภาษาภายในแอป Body WhatsApp เพิ่มฟีเจอร์แปลภาษาสำหรับผู้ใช้งาน โดยสามารถกดค้างที่ข้อความในภาษาต่างประเทศและเลือก Translate",
+      "url": "https://www.blognone.com/node/148287",
+      "publishedAt": "2025-09-24T01:38:22.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148286 at https://www.blognone.com",
+      "title": "OpenAI, Oracle และ SoftBank ประกาศแผนสร้างศูนย์ข้อมูล Stargate เพิ่มอีก 5 แห่ง",
+      "description": "OpenAI, Oracle และ SoftBank ประกาศแผนสร้างศูนย์ข้อมูล Stargate เพิ่มอีก 5 แห่ง Body OpenAI, Oracle และ SoftBank ประกาศแผนสร้างศูนย์ข้อมูล AI",
+      "url": "https://www.blognone.com/node/148286",
+      "publishedAt": "2025-09-24T01:00:04.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148285 at https://www.blognone.com",
+      "title": "Apple Store สาขา Ginza ประเทศญี่ปุ่น กลับมาเปิดที่เดิม ศุกร์ 26 กันยายนนี้",
+      "description": "Apple Store สาขา Ginza ประเทศญี่ปุ่น กลับมาเปิดที่เดิม ศุกร์ 26 กันยายนนี้ Body แอปเปิลประกาศว่าร้าน Apple Store สาขากินซ่า ในเมืองโตเกียว",
+      "url": "https://www.blognone.com/node/148285",
+      "publishedAt": "2025-09-24T00:06:27.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}

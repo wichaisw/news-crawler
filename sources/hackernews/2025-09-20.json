@@ -234,6 +234,17 @@
       "tags": []
     },
     {
+      "id": "1df81v",
+      "title": "A vibrator helped me debug a motorcycle brake light system",
+      "description": "Score: 63 | Comments: 20 | Posted by mygnu",
+      "url": "https://bikesafe.me/blogs/news/how-a-vibrator-helped-me-debug-a-motorcycle-brake-light-system",
+      "publishedAt": "2025-09-20T11:33:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mygnu",
+      "tags": []
+    },
+    {
       "id": "8qlquk",
       "title": "FLX1s phone is launched",
       "description": "Score: 214 | Comments: 146 | Posted by slau",
@@ -253,6 +264,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "redbell",
+      "tags": []
+    },
+    {
+      "id": "1z9p2d",
+      "title": "Show HN: Ggc – A Git CLI tool written in Go with interactive UI",
+      "description": "Score: 31 | Comments: 1 | Posted by bmf-san",
+      "url": "https://github.com/bmf-san/ggc/releases/tag/v6.0.0",
+      "publishedAt": "2025-09-20T11:10:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bmf-san",
+      "tags": []
+    },
+    {
+      "id": "kxkvki",
+      "title": "Introduction to Programming Languages",
+      "description": "Score: 27 | Comments: 2 | Posted by parksb",
+      "url": "https://hjaem.info/itpl",
+      "publishedAt": "2025-09-20T08:22:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "parksb",
       "tags": []
     },
     {
