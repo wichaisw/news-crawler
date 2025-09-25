@@ -1,0 +1,30 @@
+{
+  "date": "2025-09-25",
+  "source": "theverge",
+  "articles": [
+    {
+      "id": "sbumut",
+      "title": "Honor’s Magic 8 Pro is getting a new AI button",
+      "description": "Honor has revealed the design of its upcoming Magic 8 Pro flagship in a selection of images shared exclusively with The Verge, confirming that the phone will include a dedicated AI button. When the Magic 8 series launches in China next month, the phones will be among the first powered by the Snapdragon 8 Elite [&#8230;]",
+      "url": "https://www.theverge.com/news/784711/honor-magic-8-pro-design-snapdragon-8-elite-gen-5-ai-button-first-look-exclusive",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/honor-magic-8-pro-exclusive-verge4.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2025-09-25T04:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Dominic Preston",
+      "tags": []
+    },
+    {
+      "id": "749b2y",
+      "title": "Google just asked the Supreme Court to save it from the Epic ruling",
+      "description": "“The Supreme Court is Google’s last hope to avoid an Epic reckoning in October,” I wrote last week. Google apparently agrees. Today, it’s finally elevated its Epic v. Google case, the one that might fracture its control over the entire Android app ecosystem, to the Supreme Court level. Google has now confirmed it will appeal [&#8230;]",
+      "url": "https://www.theverge.com/news/785456/google-just-asked-the-supreme-court-to-save-it-from-the-epic-ruling",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25047551/236883_Epic_Vs_Google_C_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2025-09-25T00:53:41.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Sean Hollister",
+      "tags": []
+    }
+  ]
+}

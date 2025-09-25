@@ -157,6 +157,17 @@
       "tags": []
     },
     {
+      "id": "48y79p",
+      "title": "Driving Complex Decisions",
+      "description": "Score: 41 | Comments: 2 | Posted by garrettdbates",
+      "url": "https://garrettdbates.com/driving-complex-decisions",
+      "publishedAt": "2025-09-21T17:51:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "garrettdbates",
+      "tags": []
+    },
+    {
       "id": "sqdj47",
       "title": "Sj.h: A tiny little JSON parsing library in ~150 lines of C99",
       "description": "Score: 370 | Comments: 180 | Posted by simonpure",
@@ -289,6 +300,50 @@
       "tags": []
     },
     {
+      "id": "64jk4e",
+      "title": "Linkgraphs are fun",
+      "description": "Score: 24 | Comments: 3 | Posted by soapdog",
+      "url": "https://andregarzia.com/2025/09/linkgraphs-are-fun.html",
+      "publishedAt": "2025-09-21T11:45:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "soapdog",
+      "tags": []
+    },
+    {
+      "id": "34azb3",
+      "title": "Quicksort explained IKEA-style",
+      "description": "Score: 434 | Comments: 94 | Posted by foehrenwald",
+      "url": "https://idea-instructions.com/quick-sort/",
+      "publishedAt": "2025-09-21T11:35:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "foehrenwald",
+      "tags": []
+    },
+    {
+      "id": "ejd3wz",
+      "title": "The (Business) Process Deadlock",
+      "description": "Score: 9 | Comments: 1 | Posted by BinaryIgor",
+      "url": "https://www.ufried.com/blog/business_processes/",
+      "publishedAt": "2025-09-21T08:09:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "BinaryIgor",
+      "tags": []
+    },
+    {
+      "id": "eklhyv",
+      "title": "History of Telecommunications T-Carrier",
+      "description": "Score: 15 | Comments: 2 | Posted by aberoham",
+      "url": "https://computer.rip/2025-09-20-T-carrier.html",
+      "publishedAt": "2025-09-21T07:30:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "aberoham",
+      "tags": []
+    },
+    {
       "id": "6ufd6z",
       "title": "How is einx notation universal?",
       "description": "Score: 19 | Comments: 1 | Posted by HiPHInch",
@@ -330,6 +385,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "ouf6l5",
+      "title": "Kirkwood Gap Facts for Kids",
+      "description": "Score: 18 | Comments: 2 | Posted by kamaraju",
+      "url": "https://kids.kiddle.co/Kirkwood_gap",
+      "publishedAt": "2025-09-21T04:03:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kamaraju",
       "tags": []
     },
     {

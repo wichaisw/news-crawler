@@ -1,0 +1,72 @@
+{
+  "date": "2025-09-25",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "nojkez",
+      "title": "Denmark shuts multiple airports, more unidentified drones spotted",
+      "description": "Score: 7 | Comments: 0 | Posted by hallh",
+      "url": "https://www.msn.com/en-us/news/world/denmark-shuts-second-airport-in-a-week-more-unidentified-drones-spotted/ar-AA1NfVVj",
+      "publishedAt": "2025-09-25T05:54:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hallh",
+      "tags": []
+    },
+    {
+      "id": "sn926v",
+      "title": "The Unix-Haters Handbook (1994)",
+      "description": "Score: 7 | Comments: 0 | Posted by caned",
+      "url": "https://archive.org/details/TheUnixHatersHandbook",
+      "publishedAt": "2025-09-25T04:07:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "caned",
+      "tags": []
+    },
+    {
+      "id": "h48oej",
+      "title": "The Online Sports Gambling Experiment Has Failed (2024)",
+      "description": "Score: 25 | Comments: 2 | Posted by throwaway2037",
+      "url": "https://www.lesswrong.com/posts/tHiB8jLocbPLagYDZ/the-online-sports-gambling-experiment-has-failed",
+      "publishedAt": "2025-09-25T01:45:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "throwaway2037",
+      "tags": []
+    },
+    {
+      "id": "qy3odf",
+      "title": "Homeowner baffled after washing machine uses 3.6GB of internet data a day (2024)",
+      "description": "Score: 77 | Comments: 38 | Posted by lando2319",
+      "url": "https://www.newsweek.com/homeowner-baffled-washing-machine-uses-3-6gb-internet-1862675",
+      "publishedAt": "2025-09-25T01:24:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lando2319",
+      "tags": []
+    },
+    {
+      "id": "d9ammh",
+      "title": "The \"Wage Level\" Mirage: H-1B proposal could help outsourcers and hurt US talent",
+      "description": "Score: 46 | Comments: 64 | Posted by johntfella",
+      "url": "https://ifp.org/the-wage-level-mirage/",
+      "publishedAt": "2025-09-25T01:05:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "johntfella",
+      "tags": []
+    },
+    {
+      "id": "rfzlir",
+      "title": "Do YC after you graduate: Early decision for studentsycombinator.com",
+      "description": "Score: 100 | Comments: 111 | Posted by snowmaker",
+      "url": "https://www.ycombinator.com/early-decision",
+      "publishedAt": "2025-09-25T00:09:57.697Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "snowmaker",
+      "tags": []
+    }
+  ]
+}
