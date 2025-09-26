@@ -1,0 +1,149 @@
+{
+  "date": "2025-09-26",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "hlw62o",
+      "title": "No reachable chess position with more than 218 moves",
+      "description": "Score: 8 | Comments: 0 | Posted by emporas",
+      "url": "https://lichess.org/@/Tobs40/blog/there-is-no-reachable-chess-position-with-more-than-218-moves/a5xdxeqs",
+      "publishedAt": "2025-09-26T04:47:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "emporas",
+      "tags": []
+    },
+    {
+      "id": "4vs5nv",
+      "title": "The effect of H-1B quota on employment and selection of foreign-born labor (2018)",
+      "description": "Score: 26 | Comments: 4 | Posted by johntfella",
+      "url": "https://doi.org/10.1016/j.euroecorev.2018.06.010",
+      "publishedAt": "2025-09-26T04:33:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "johntfella",
+      "tags": []
+    },
+    {
+      "id": "y8do7z",
+      "title": "A platform-jumping prince – History of Prince of Persia's 1990s Ports",
+      "description": "Score: 22 | Comments: 1 | Posted by michelangelo",
+      "url": "https://www.jordanmechner.com/en/latest-news/#a-platform-jumping-prince",
+      "publishedAt": "2025-09-26T04:29:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "michelangelo",
+      "tags": []
+    },
+    {
+      "id": "qf88fx",
+      "title": "My Deus Ex lipsyncing fix modjoewintergreen.com",
+      "description": "Score: 80 | Comments: 26 | Posted by jonny_eh",
+      "url": "https://www.joewintergreen.com/my-deus-ex-lipsyncing-fix-mod-making-of/",
+      "publishedAt": "2025-09-26T04:09:12.693Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jonny_eh",
+      "tags": []
+    },
+    {
+      "id": "ypvxbb",
+      "title": "Flock Reinstalls Cameras Without City Approval After Unlawful Govt Access",
+      "description": "Score: 74 | Comments: 21 | Posted by ptk",
+      "url": "https://evanstonroundtable.com/2025/09/24/flock-safety-reinstalls-evanston-cameras/",
+      "publishedAt": "2025-09-26T03:51:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ptk",
+      "tags": []
+    },
+    {
+      "id": "qf88fx",
+      "title": "My Deus Ex lipsyncing fix mod",
+      "description": "Score: 80 | Comments: 26 | Posted by jonny_eh",
+      "url": "https://www.joewintergreen.com/my-deus-ex-lipsyncing-fix-mod-making-of/",
+      "publishedAt": "2025-09-26T03:45:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jonny_eh",
+      "tags": []
+    },
+    {
+      "id": "1tuq57",
+      "title": "Writing Memory Safe JIT Compilers",
+      "description": "Score: 25 | Comments: 7 | Posted by sgammon",
+      "url": "https://medium.com/graalvm/writing-truly-memory-safe-jit-compilers-f79ad44558dd",
+      "publishedAt": "2025-09-26T02:10:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sgammon",
+      "tags": []
+    },
+    {
+      "id": "mrpoxn",
+      "title": "All British adults to require a digital ID 'Brit Card'",
+      "description": "Score: 93 | Comments: 68 | Posted by alex77456",
+      "url": "https://news.sky.com/video/all-british-adults-to-require-a-digital-id-brit-card-13438041",
+      "publishedAt": "2025-09-26T02:09:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "alex77456",
+      "tags": []
+    },
+    {
+      "id": "z5ngyj",
+      "title": "Bit is all we need: binary normalized neural networks",
+      "description": "Score: 31 | Comments: 7 | Posted by PaulHoule",
+      "url": "https://arxiv.org/abs/2509.07025",
+      "publishedAt": "2025-09-26T01:43:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "PaulHoule",
+      "tags": []
+    },
+    {
+      "id": "hutkt6",
+      "title": "Exploit allows for takeover of fleets of Unitree robots",
+      "description": "Score: 48 | Comments: 18 | Posted by vmayoral",
+      "url": "https://spectrum.ieee.org/unitree-robot-exploit",
+      "publishedAt": "2025-09-26T01:38:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vmayoral",
+      "tags": []
+    },
+    {
+      "id": "1z00yh",
+      "title": "Cloudflare Data Platform",
+      "description": "Score: 19 | Comments: 2 | Posted by jonbaer",
+      "url": "https://blog.cloudflare.com/cloudflare-data-platform/",
+      "publishedAt": "2025-09-26T01:37:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jonbaer",
+      "tags": []
+    },
+    {
+      "id": "mz9zn4",
+      "title": "The Digital Markets Act: time for a reset",
+      "description": "Score: 56 | Comments: 94 | Posted by zdw",
+      "url": "https://blog.google/around-the-globe/google-europe/the-digital-markets-act-time-for-a-reset/",
+      "publishedAt": "2025-09-26T00:14:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "bawbkt",
+      "title": "Investigating a Forged PDF",
+      "description": "Score: 67 | Comments: 20 | Posted by teddyh",
+      "url": "https://mjg59.dreamwidth.org/73317.html",
+      "publishedAt": "2025-09-26T00:14:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "teddyh",
+      "tags": []
+    }
+  ]
+}
