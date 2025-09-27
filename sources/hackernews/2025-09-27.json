@@ -1,0 +1,39 @@
+{
+  "date": "2025-09-27",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "37vmt",
+      "title": "Asahi Progress Report for Linux 6.16",
+      "description": "Score: 12 | Comments: 1 | Posted by transpute",
+      "url": "https://asahilinux.org/2025/08/progress-report-6-16/",
+      "publishedAt": "2025-09-27T03:01:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "transpute",
+      "tags": []
+    },
+    {
+      "id": "9zz1v4",
+      "title": "Why Today's Humanoids Won't Learn Dexterity",
+      "description": "Score: 24 | Comments: 12 | Posted by chmaynard",
+      "url": "https://rodneybrooks.com/why-todays-humanoids-wont-learn-dexterity/",
+      "publishedAt": "2025-09-27T02:53:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "chmaynard",
+      "tags": []
+    },
+    {
+      "id": "ddyfg1",
+      "title": "GPT-OSS Reinforcement Learning",
+      "description": "Score: 26 | Comments: 4 | Posted by vinhnx",
+      "url": "https://docs.unsloth.ai/new/gpt-oss-reinforcement-learning",
+      "publishedAt": "2025-09-27T02:01:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vinhnx",
+      "tags": []
+    }
+  ]
+}

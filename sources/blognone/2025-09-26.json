@@ -3,6 +3,73 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "148328 at https://www.blognone.com",
+      "title": "PostgreSQL ออกเวอร์ชั่น 18 เร็วขึ้นสูงสุด 3 เท่าตัว, รองรับ UUIDv7, OAuth 2.0",
+      "description": "PostgreSQL ออกเวอร์ชั่น 18 เร็วขึ้นสูงสุด 3 เท่าตัว, รองรับ UUIDv7, OAuth 2.0 Body PostgreSQL ฐานข้อมูลยอดนิยม ออกเวอร์ชั่น 18.0",
+      "url": "https://www.blognone.com/node/148328",
+      "publishedAt": "2025-09-26T17:31:09.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148327 at https://www.blognone.com",
+      "title": "เปิดตัว Xiaomi 17, 17 Pro, 17 Pro Max มีหน้าจอที่สองด้านหลัง, ชิป Snapdragon 8 Elite Gen 5",
+      "description": "เปิดตัว Xiaomi 17, 17 Pro, 17 Pro Max มีหน้าจอที่สองด้านหลัง, ชิป Snapdragon 8 Elite Gen 5 Body ในช่วงวันเดียวกับที่ Xiaomi เปิดตัว Xiaomi 15T",
+      "url": "https://www.blognone.com/node/148327",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2025/2025-09/xiaomi-17.webp",
+      "publishedAt": "2025-09-26T13:23:19.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148326 at https://www.blognone.com",
+      "title": "แอปไวรัล Neon ที่ให้ผู้ใช้งานขายข้อมูลตอนคุยโทรศัพท์กับบริษัท AI แลกเปลี่ยนเป็นเงิน หายไปจาก App Store แล้ว",
+      "description": "แอปไวรัล Neon ที่ให้ผู้ใช้งานขายข้อมูลตอนคุยโทรศัพท์กับบริษัท AI แลกเปลี่ยนเป็นเงิน หายไปจาก App Store แล้ว Body",
+      "url": "https://www.blognone.com/node/148326",
+      "publishedAt": "2025-09-26T11:23:15.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148325 at https://www.blognone.com",
+      "title": "Apple เรียกร้อง EU ให้พิจารณาแนวทางกฎหมายดิจิทัลใหม่ ระบุไม่ได้ทำให้ตลาดรวมดีขึ้น ผู้ผลิตทำงานยากกว่าเดิม",
+      "description": "Apple เรียกร้อง EU ให้พิจารณาแนวทางกฎหมายดิจิทัลใหม่ ระบุไม่ได้ทำให้ตลาดรวมดีขึ้น ผู้ผลิตทำงานยากกว่าเดิม Body",
+      "url": "https://www.blognone.com/node/148325",
+      "publishedAt": "2025-09-26T07:19:17.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148324 at https://www.blognone.com",
+      "title": "กูเกิลปล่อย Chrome DevTools MCP เปิดทางใช้ AI แก้ปัญหาเว็บ",
+      "description": "กูเกิลปล่อย Chrome DevTools MCP เปิดทางใช้ AI แก้ปัญหาเว็บ Body กูเกิลปล่อย Chrome DevTools MCP ให้แอปปัญญาประดิษฐ์ เช่น Gemini, Claude, Cursor, หรือ",
+      "url": "https://www.blognone.com/node/148324",
+      "publishedAt": "2025-09-26T06:24:33.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148323 at https://www.blognone.com",
+      "title": "PlayStation เปิดตัวลำโพงไร้สายเกมมิ่ง Pulse Elevate มีไมโครโฟนในตัว",
+      "description": "PlayStation เปิดตัวลำโพงไร้สายเกมมิ่ง Pulse Elevate มีไมโครโฟนในตัว Body เก็บตกงานแถลงข่าว PlayStation ในงาน Tokyo Game Show นอกจากการเปิดตัวเกมใหม่ๆ",
+      "url": "https://www.blognone.com/node/148323",
+      "publishedAt": "2025-09-26T05:15:24.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "148322 at https://www.blognone.com",
       "title": "Windows 10 เพิ่มตัวเลือกขยายระยะซัพพอร์ต 1 ปี ฟรี ไม่มีเงื่อนไข แต่ให้เฉพาะกลุ่มประเทศ EU",
       "description": "Windows 10 เพิ่มตัวเลือกขยายระยะซัพพอร์ต 1 ปี ฟรี ไม่มีเงื่อนไข แต่ให้เฉพาะกลุ่มประเทศ EU Body Windows 10 จะสิ้นสุดระยะชัพพอร์ตแพตช์ความปลอดภัยใน",

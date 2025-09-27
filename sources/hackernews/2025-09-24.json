@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "bawbkt",
+      "title": "Investigating a Forged PDF",
+      "description": "Score: 36 | Comments: 4 | Posted by jonah-archive",
+      "url": "https://mjg59.dreamwidth.org/73317.html",
+      "publishedAt": "2025-09-24T23:45:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jonah-archive",
+      "tags": []
+    },
+    {
       "id": "fxfw5f",
       "title": "How did sports betting become legal in the US?",
       "description": "Score: 142 | Comments: 154 | Posted by _1729",
@@ -99,6 +110,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jonbruner",
+      "tags": []
+    },
+    {
+      "id": "12azv0",
+      "title": "Elephantshark, a tool to monitor Postgres network traffic",
+      "description": "Score: 20 | Comments: 0 | Posted by gmac",
+      "url": "https://neon.com/blog/elephantshark-monitor-postgres-network-traffic",
+      "publishedAt": "2025-09-24T18:52:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gmac",
       "tags": []
     },
     {
@@ -278,6 +300,17 @@
       "tags": []
     },
     {
+      "id": "u6tn93",
+      "title": "Amiga SPICE is a program for simulating electronic circuits",
+      "description": "Score: 24 | Comments: 6 | Posted by doener",
+      "url": "https://www.edsa.uk/blog/amiga-spice",
+      "publishedAt": "2025-09-24T11:53:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "doener",
+      "tags": []
+    },
+    {
       "id": "ud7sbf",
       "title": "EU age verification app not planning desktop support",
       "description": "Score: 520 | Comments: 356 | Posted by sschueller",
@@ -333,6 +366,17 @@
       "tags": []
     },
     {
+      "id": "vmil3l",
+      "title": "Traefik's 10-year anniversary",
+      "description": "Score: 197 | Comments: 111 | Posted by beckford",
+      "url": "https://traefik.io/blog/celebrating-10-years-of-traefik",
+      "publishedAt": "2025-09-24T08:29:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "beckford",
+      "tags": []
+    },
+    {
       "id": "95ui7p",
       "title": "That Secret Service SIM farm story is bogus",
       "description": "Score: 1011 | Comments: 571 | Posted by sixhobbits",
@@ -341,6 +385,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "sixhobbits",
+      "tags": []
+    },
+    {
+      "id": "pefgr8",
+      "title": "The Beauty of Programming (2001)",
+      "description": "Score: 151 | Comments: 25 | Posted by andsoitis",
+      "url": "https://www.brynmawr.edu/inside/academic-information/departments-programs/computer-science/beauty-programming",
+      "publishedAt": "2025-09-24T04:51:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andsoitis",
       "tags": []
     },
     {

@@ -245,6 +245,17 @@
       "tags": []
     },
     {
+      "id": "kmoyaz",
+      "title": "Ultra efficient vector extension for SQLite",
+      "description": "Score: 119 | Comments: 45 | Posted by marcobambini",
+      "url": "https://marcobambini.substack.com/p/the-state-of-vector-search-in-sqlite",
+      "publishedAt": "2025-09-23T14:33:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "marcobambini",
+      "tags": []
+    },
+    {
       "id": "ruml7x",
       "title": "Getting AI to work in complex codebases",
       "description": "Score: 315 | Comments: 274 | Posted by dhorthy",
