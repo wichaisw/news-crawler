@@ -1,0 +1,83 @@
+{
+  "date": "2025-09-28",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "96wc5t",
+      "title": "Linus Torvalds and the Supposedly \"Garbage Code\"",
+      "description": "Score: 5 | Comments: 0 | Posted by todsacerdoti",
+      "url": "https://giodicanio.com/2025/08/27/linus-torvalds-and-the-supposedly-garbage-code/",
+      "publishedAt": "2025-09-28T05:12:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "jtee98",
+      "title": "IBM Intellistation 185 AIX workstation (2016)",
+      "description": "Score: 5 | Comments: 1 | Posted by hxorr",
+      "url": "http://www.ibmfiles.com/pages/intellipower185.htm",
+      "publishedAt": "2025-09-28T05:04:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hxorr",
+      "tags": []
+    },
+    {
+      "id": "6vx0bo",
+      "title": "Do not do this unless you want magic black smoke",
+      "description": "Score: 43 | Comments: 22 | Posted by behnamoh",
+      "url": "https://www.linspyre.com/ecoholics/temps.html",
+      "publishedAt": "2025-09-28T01:48:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "behnamoh",
+      "tags": []
+    },
+    {
+      "id": "ffaa3w",
+      "title": "Bonding twelve 56K modems together to set dial-up broadband records",
+      "description": "Score: 69 | Comments: 23 | Posted by wrayjustin",
+      "url": "https://www.tomshardware.com/networking/enthusiasts-bond-twelve-56k-dial-up-modems-together-to-set-dial-up-broadband-records-a-dozen-screeching-boxes-achieve-record-668-kbps-download-speeds",
+      "publishedAt": "2025-09-28T00:59:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wrayjustin",
+      "tags": []
+    },
+    {
+      "id": "15rqf",
+      "title": "Much-loved Osterley Bookshop saved from closure after public support",
+      "description": "Score: 4 | Comments: 0 | Posted by ggandhi",
+      "url": "https://www.ianvisits.co.uk/articles/much-loved-osterley-bookshop-saved-from-closure-after-public-support-83917/",
+      "publishedAt": "2025-09-28T00:38:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ggandhi",
+      "tags": []
+    },
+    {
+      "id": "vyhtz7",
+      "title": "GitHub Wiki Search Engine Enablement",
+      "description": "Score: 4 | Comments: 1 | Posted by turtleyacht",
+      "url": "https://github-wiki-see.page/",
+      "publishedAt": "2025-09-28T00:22:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "turtleyacht",
+      "tags": []
+    },
+    {
+      "id": "4quxad",
+      "title": "UK government underwriting £1.5B loan to Jaguar Land Rover after cyber-attack",
+      "description": "Score: 43 | Comments: 15 | Posted by echelon_musk",
+      "url": "https://www.theguardian.com/business/2025/sep/27/jaguar-land-rover-plans-to-restart-engine-manufacturing-in-early-october-report-says",
+      "publishedAt": "2025-09-28T00:12:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "echelon_musk",
+      "tags": []
+    }
+  ]
+}

@@ -91,6 +91,17 @@
       "tags": []
     },
     {
+      "id": "abmcm6",
+      "title": "Frankenstein's Sheep",
+      "description": "Score: 7 | Comments: 1 | Posted by domofutu",
+      "url": "https://nymag.com/intelligencer/article/montana-mountain-king-marco-polo-argali-sheep-cloning-labs.html",
+      "publishedAt": "2025-09-24T21:48:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "domofutu",
+      "tags": []
+    },
+    {
       "id": "dplq6h",
       "title": "SonyShell – An effort to “SSH into my Sony DSLR”",
       "description": "Score: 95 | Comments: 43 | Posted by beligum",
@@ -132,6 +143,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "lossolo",
+      "tags": []
+    },
+    {
+      "id": "k19uzj",
+      "title": "Depictions of Celestial Objects Spanning Nearly a Millennium (2014)",
+      "description": "Score: 39 | Comments: 0 | Posted by NaOH",
+      "url": "https://publicdomainreview.org/collection/flowers-of-the-sky/",
+      "publishedAt": "2025-09-24T18:01:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "NaOH",
       "tags": []
     },
     {
@@ -220,6 +242,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "lukefleed",
+      "tags": []
+    },
+    {
+      "id": "6ghdq2",
+      "title": "The 3,000-year-old story hidden in the @ sign",
+      "description": "Score: 32 | Comments: 8 | Posted by andsoitis",
+      "url": "https://www.bbc.com/future/article/20250923-the-3000-year-old-story-hidden-in-your-keyboard",
+      "publishedAt": "2025-09-24T15:16:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andsoitis",
+      "tags": []
+    },
+    {
+      "id": "8ctlpx",
+      "title": "Just how resilient are large language models?",
+      "description": "Score: 29 | Comments: 10 | Posted by decodebytes",
+      "url": "https://www.rdrocket.com/blog/just-how-resilient-are-large-language-models",
+      "publishedAt": "2025-09-24T15:10:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "decodebytes",
       "tags": []
     },
     {
@@ -344,6 +388,17 @@
       "tags": []
     },
     {
+      "id": "4w9m35",
+      "title": "Python developers are embracing type hints",
+      "description": "Score: 86 | Comments: 93 | Posted by ocamoss",
+      "url": "https://pyrefly.org/blog/why-typed-python/",
+      "publishedAt": "2025-09-24T11:23:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ocamoss",
+      "tags": []
+    },
+    {
       "id": "lmnuzp",
       "title": "How AWS S3 serves 1 petabyte per second on top of slow HDDs",
       "description": "Score: 274 | Comments: 127 | Posted by todsacerdoti",
@@ -385,6 +440,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "sixhobbits",
+      "tags": []
+    },
+    {
+      "id": "awxqhg",
+      "title": "The Magical Number Seven, Plus or Minus Two (1956) [pdf]",
+      "description": "Score: 7 | Comments: 0 | Posted by signa11",
+      "url": "https://labs.la.utexas.edu/gilden/files/2016/04/MagicNumberSeven-Miller1956.pdf",
+      "publishedAt": "2025-09-24T08:02:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "signa11",
       "tags": []
     },
     {
