@@ -47,6 +47,17 @@
       "tags": []
     },
     {
+      "id": "lxsklj",
+      "title": "Fernflower Java Decompiler",
+      "description": "Score: 22 | Comments: 8 | Posted by bartekpacia",
+      "url": "https://github.com/JetBrains/fernflower",
+      "publishedAt": "2025-09-25T20:20:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bartekpacia",
+      "tags": []
+    },
+    {
       "id": "n8iv8c",
       "title": "The VAX (2005)",
       "description": "Score: 26 | Comments: 13 | Posted by TMWNN",
@@ -66,6 +77,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "sorenjan",
+      "tags": []
+    },
+    {
+      "id": "s7mxdl",
+      "title": "Corral.BAS",
+      "description": "Score: 28 | Comments: 7 | Posted by ibobev",
+      "url": "https://basic-code.bearblog.dev/corral/",
+      "publishedAt": "2025-09-25T19:31:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
       "tags": []
     },
     {
@@ -135,6 +157,17 @@
       "tags": []
     },
     {
+      "id": "9mx15v",
+      "title": "Workings of Science: Debunked Software Theories (2022) [pdf]",
+      "description": "Score: 5 | Comments: 1 | Posted by waldarbeiter",
+      "url": "https://dl.acm.org/doi/pdf/10.1145/3512338",
+      "publishedAt": "2025-09-25T18:18:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "waldarbeiter",
+      "tags": []
+    },
+    {
       "id": "biqmvb",
       "title": "Athlon 64: How AMD turned the tables on Intel",
       "description": "Score: 235 | Comments: 165 | Posted by giuliomagnifico",
@@ -143,6 +176,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "giuliomagnifico",
+      "tags": []
+    },
+    {
+      "id": "m3z2km",
+      "title": "A safe, non-owning C++ pointer class",
+      "description": "Score: 41 | Comments: 30 | Posted by niekb",
+      "url": "https://techblog.rosemanlabs.com/c++/safety/object-lifetime/2025/08/28/a-safe-pointer-that-protects-against-use-after-free-and-updates-when-the-pointee-is-moved.html",
+      "publishedAt": "2025-09-25T17:28:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "niekb",
       "tags": []
     },
     {
@@ -201,6 +245,17 @@
       "tags": []
     },
     {
+      "id": "3w6bjp",
+      "title": "Collaborating with a robot biases human spatial attention",
+      "description": "Score: 22 | Comments: 7 | Posted by PaulHoule",
+      "url": "https://www.cell.com/iscience/fulltext/S2589-0042(25)01052-1",
+      "publishedAt": "2025-09-25T15:45:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "PaulHoule",
+      "tags": []
+    },
+    {
       "id": "ao0o36",
       "title": "Amazon fined $2.5B for using deceptive methods to sign up consumers for Prime",
       "description": "Score: 311 | Comments: 154 | Posted by Improvement",
@@ -209,6 +264,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "Improvement",
+      "tags": []
+    },
+    {
+      "id": "kkd6lq",
+      "title": "Zlib visualizer",
+      "description": "Score: 75 | Comments: 9 | Posted by elisaado",
+      "url": "https://lynn.github.io/flateview/",
+      "publishedAt": "2025-09-25T15:19:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "elisaado",
+      "tags": []
+    },
+    {
+      "id": "z67zkt",
+      "title": "A fast, strong, topologically meaningful and fun knot invariant",
+      "description": "Score: 41 | Comments: 6 | Posted by bikenaga",
+      "url": "https://arxiv.org/abs/2509.18456",
+      "publishedAt": "2025-09-25T15:07:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bikenaga",
       "tags": []
     },
     {
@@ -275,6 +352,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "speckx",
+      "tags": []
+    },
+    {
+      "id": "gp5mx9",
+      "title": "The Long Trip from Silica to Smartphone",
+      "description": "Score: 25 | Comments: 2 | Posted by sohkamyung",
+      "url": "https://spectrum.ieee.org/the-long-strange-trip-from-silica-to-smartphone",
+      "publishedAt": "2025-09-25T12:07:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sohkamyung",
+      "tags": []
+    },
+    {
+      "id": "h4uu4x",
+      "title": "How many elephants?",
+      "description": "Score: 28 | Comments: 9 | Posted by tagawa",
+      "url": "http://howmanyelephants.co.uk",
+      "publishedAt": "2025-09-25T12:00:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tagawa",
       "tags": []
     },
     {
@@ -366,6 +465,17 @@
       "tags": []
     },
     {
+      "id": "np0095",
+      "title": "Patagonian Welsh",
+      "description": "Score: 41 | Comments: 14 | Posted by tintinnabula",
+      "url": "https://en.wikipedia.org/wiki/Patagonian_Welsh",
+      "publishedAt": "2025-09-25T04:30:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tintinnabula",
+      "tags": []
+    },
+    {
       "id": "sn926v",
       "title": "The Unix-Haters Handbook (1994)",
       "description": "Score: 7 | Comments: 0 | Posted by caned",
@@ -385,6 +495,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "dang",
+      "tags": []
+    },
+    {
+      "id": "hzde0t",
+      "title": "Comparing Rust to Carbon",
+      "description": "Score: 71 | Comments: 16 | Posted by pykello",
+      "url": "https://lwn.net/Articles/1036912/",
+      "publishedAt": "2025-09-25T02:22:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pykello",
       "tags": []
     },
     {
@@ -418,6 +539,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "johntfella",
+      "tags": []
+    },
+    {
+      "id": "3l733m",
+      "title": "Rustroid, a Rust IDE for Android",
+      "description": "Score: 86 | Comments: 32 | Posted by coolcoder613",
+      "url": "https://rustroid.is-a.dev/story",
+      "publishedAt": "2025-09-25T00:28:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "coolcoder613",
       "tags": []
     },
     {

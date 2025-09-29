@@ -1,0 +1,138 @@
+{
+  "date": "2025-09-29",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "bzzxfx",
+      "title": "Zero ASIC releases Wildebeest, the highest performance FPGA synthesis toolzeroasic.com",
+      "description": "Score: 57 | Comments: 7 | Posted by stefanpie",
+      "url": "https://www.zeroasic.com/blog/wildebeest-launch",
+      "publishedAt": "2025-09-29T04:10:22.409Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "stefanpie",
+      "tags": []
+    },
+    {
+      "id": "bzzxfx",
+      "title": "Zero ASIC releases Wildebeest, the highest performance FPGA synthesis tool",
+      "description": "Score: 57 | Comments: 7 | Posted by stefanpie",
+      "url": "https://www.zeroasic.com/blog/wildebeest-launch",
+      "publishedAt": "2025-09-29T03:45:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "stefanpie",
+      "tags": []
+    },
+    {
+      "id": "bjvn56",
+      "title": "High-Level Synthesis Synthesis",
+      "description": "Score: 9 | Comments: 1 | Posted by stefanpie",
+      "url": "https://stefanabikaram.com/writing/hls-synthesis/",
+      "publishedAt": "2025-09-29T03:42:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "stefanpie",
+      "tags": []
+    },
+    {
+      "id": "q5rv0x",
+      "title": "F-Droid and Google's Developer Registration Decreef-droid.org",
+      "description": "Score: 223 | Comments: 46 | Posted by gumby271",
+      "url": "https://f-droid.org/2025/09/29/google-developer-registration-decree.html",
+      "publishedAt": "2025-09-29T03:10:22.406Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gumby271",
+      "tags": []
+    },
+    {
+      "id": "45djj2",
+      "title": "The Jaguar Land Rover hack: stalled factories, outsourced cybersecurity",
+      "description": "Score: 19 | Comments: 1 | Posted by walterbell",
+      "url": "https://www.theguardian.com/business/2025/sep/20/jaguar-land-rover-hack-factories-cybersecurity-jlr",
+      "publishedAt": "2025-09-29T02:57:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "walterbell",
+      "tags": []
+    },
+    {
+      "id": "jw7eut",
+      "title": "Reader Response to \"AI Overinvestment\"",
+      "description": "Score: 50 | Comments: 55 | Posted by walterbell",
+      "url": "https://www.mbi-deepdives.com/reader-response-to-ai-overinvestment/",
+      "publishedAt": "2025-09-29T02:53:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "walterbell",
+      "tags": []
+    },
+    {
+      "id": "60mj9",
+      "title": "The elusive roots of rosin potatoes (2022)",
+      "description": "Score: 7 | Comments: 0 | Posted by moonka",
+      "url": "https://bittersoutherner.com/feature/2022/the-elusive-roots-of-rosin-potatoes",
+      "publishedAt": "2025-09-29T02:41:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "moonka",
+      "tags": []
+    },
+    {
+      "id": "q5rv0x",
+      "title": "F-Droid and Google's Developer Registration Decree",
+      "description": "Score: 224 | Comments: 46 | Posted by gumby271",
+      "url": "https://f-droid.org/2025/09/29/google-developer-registration-decree.html",
+      "publishedAt": "2025-09-29T02:10:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gumby271",
+      "tags": []
+    },
+    {
+      "id": "zbdul0",
+      "title": "Primer on FedEx's Distribution Network (2024)",
+      "description": "Score: 73 | Comments: 19 | Posted by hyperific",
+      "url": "https://ontheseams.substack.com/p/a-brief-primer-on-fedexs-distribution",
+      "publishedAt": "2025-09-29T01:18:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hyperific",
+      "tags": []
+    },
+    {
+      "id": "flntl",
+      "title": "Cleaning house in Nx monorepo, how i removed unused deps safely",
+      "description": "Score: 45 | Comments: 17 | Posted by birdculture",
+      "url": "https://johnjames.blog/posts/cleaning-house-in-nx-monorepo-how-i-removed-120-unused-deps-safely",
+      "publishedAt": "2025-09-29T01:12:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "birdculture",
+      "tags": []
+    },
+    {
+      "id": "q1im01",
+      "title": "Show HN: Automatically set real iOS alarms for calendar events",
+      "description": "Score: 14 | Comments: 4 | Posted by jiffydiffy",
+      "url": "https://apps.apple.com/us/app/reminders-alarms-beacon/id6752361800",
+      "publishedAt": "2025-09-29T01:11:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jiffydiffy",
+      "tags": []
+    },
+    {
+      "id": "tn49aa",
+      "title": "Health officials in the US are sounding the alarm over drug-resistant bacteria",
+      "description": "Score: 61 | Comments: 24 | Posted by mooreds",
+      "url": "https://www.aljazeera.com/news/2025/9/24/what-are-nightmare-bacteria-and-why-are-infections-rising-in-the-us",
+      "publishedAt": "2025-09-29T00:16:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mooreds",
+      "tags": []
+    }
+  ]
+}

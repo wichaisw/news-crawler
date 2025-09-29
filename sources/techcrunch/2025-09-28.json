@@ -1,0 +1,83 @@
+{
+  "date": "2025-09-28",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3051348",
+      "title": "Oura CEO talks potential IPO and ‘nonnegotiable’ data privacy",
+      "description": "In a recent interview with The New York Times, Oura Health CEO Tom Hale didn’t discuss reports that the company is raising new funding that would",
+      "url": "https://techcrunch.com/2025/09/28/oura-ceo-talks-potential-ipo-and-nonnegotiable-data-privacy/",
+      "publishedAt": "2025-09-28T22:01:14.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3051346",
+      "title": "DJI loses lawsuit over classification as Chinese military company",
+      "description": "A federal judge has rejected drone maker DJI’s efforts to get off a Department of Defense list of Chinese military companies.",
+      "url": "https://techcrunch.com/2025/09/28/dji-loses-lawsuit-over-classification-as-chinese-military-company/",
+      "publishedAt": "2025-09-28T20:57:16.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3048567",
+      "title": "The billion-dollar infrastructure deals powering the AI boom",
+      "description": "Here's everything we know about the biggest AI infrastructure projects, including major spending from Meta, Oracle, Microsoft, Google, and OpenAI.",
+      "url": "https://techcrunch.com/2025/09/28/the-billion-dollar-infrastructure-deals-powering-the-ai-boom/",
+      "publishedAt": "2025-09-28T18:07:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Russell Brandom",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3051098",
+      "title": "TechCrunch Mobility: Self-driving trucks startup Kodiak goes public and a shake-up at Hyundai’s Supernal",
+      "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "url": "https://techcrunch.com/2025/09/28/techcrunch-mobility-self-driving-trucks-startup-kodiak-goes-public-and-a-shake-up-at-hyundais-supernal/",
+      "publishedAt": "2025-09-28T16:01:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Kirsten Korosec",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3051339",
+      "title": "Do EA buyout talks hint at bigger industry troubles?",
+      "description": "Why is Electronic Arts, one of the biggest names in the video game business, reportedly in talks to go private?",
+      "url": "https://techcrunch.com/2025/09/28/do-ea-buyout-talks-hint-at-bigger-industry-troubles/",
+      "publishedAt": "2025-09-28T15:15:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3050933",
+      "title": "Lootlock protects kids from overspending on gaming and will be presenting at TechCrunch Disrupt 2025",
+      "description": "The gaming industry notoriously targets kids for in-app purchases. Lootlock gives parents granular control over kids game spending.",
+      "url": "https://techcrunch.com/2025/09/28/lootlock-protects-kids-from-overspending-on-gaming-and-will-be-presenting-at-techcrunch-disrupt-2025/",
+      "publishedAt": "2025-09-28T15:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Julie Bort",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3051123",
+      "title": "Wiz chief technologist Ami Luttwak on how AI is transforming cyberattacks",
+      "description": "Ami Luttwak, CTO of Wiz, breaks down how AI is changing cybersecurity, why startups shouldn't write a single line of code before thinking about",
+      "url": "https://techcrunch.com/2025/09/28/wiz-chief-technologist-ami-luttwak-on-how-ai-is-transforming-cyberattacks/",
+      "publishedAt": "2025-09-28T14:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Rebecca Bellan",
+      "tags": []
+    }
+  ]
+}
