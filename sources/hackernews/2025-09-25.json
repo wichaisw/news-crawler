@@ -25,6 +25,17 @@
       "tags": []
     },
     {
+      "id": "7je6ud",
+      "title": "C2PA Investigations",
+      "description": "Score: 21 | Comments: 5 | Posted by zdw",
+      "url": "https://www.tbray.org/ongoing/When/202x/2025/09/18/C2PA-Investigations",
+      "publishedAt": "2025-09-25T23:12:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
       "id": "yo3cit",
       "title": "RedoxFS is the default filesystem of Redox OS, inspired by ZFS",
       "description": "Score: 147 | Comments: 83 | Posted by doener",
@@ -33,6 +44,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "doener",
+      "tags": []
+    },
+    {
+      "id": "uxacrm",
+      "title": "The phaseout of the mmap() file operation in Linux",
+      "description": "Score: 104 | Comments: 24 | Posted by chmaynard",
+      "url": "https://lwn.net/SubscriberLink/1038715/e4a2f8f50c244545/",
+      "publishedAt": "2025-09-25T21:16:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "chmaynard",
       "tags": []
     },
     {

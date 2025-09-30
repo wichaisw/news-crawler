@@ -1,0 +1,85 @@
+{
+  "date": "2025-09-30",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "148357 at https://www.blognone.com",
+      "title": "[ลือ] Huawei ตั้งเป้าผลิตชิป Ascend 910C เพิ่มอีกเท่าตัวในปี 2026",
+      "description": "[ลือ] Huawei ตั้งเป้าผลิตชิป Ascend 910C เพิ่มอีกเท่าตัวในปี 2026 Body Bloomberg รายงานว่า Huawei เตรียมเร่งการผลิตชิปประมวลผล AI ของตัวเอง Ascend",
+      "url": "https://www.blognone.com/node/148357",
+      "publishedAt": "2025-09-30T03:35:00.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148356 at https://www.blognone.com",
+      "title": "ไมโครซอฟท์รวมทีม Windows ที่แยกกันตั้งแต่ปี 2018 กลับมาอยู่ด้วยกัน",
+      "description": "ไมโครซอฟท์รวมทีม Windows ที่แยกกันตั้งแต่ปี 2018 กลับมาอยู่ด้วยกัน Body The Verge บอกว่าเห็นบันทึกภายในของไมโครซอฟท์ เขียนโดย Pavan Davuluri",
+      "url": "https://www.blognone.com/node/148356",
+      "publishedAt": "2025-09-30T02:36:30.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148355 at https://www.blognone.com",
+      "title": "Claude Code เพิ่มฟีเจอร์ Checkpoint ให้ย้อนกลับได้, ออก VS Code Extension",
+      "description": "Claude Code เพิ่มฟีเจอร์ Checkpoint ให้ย้อนกลับได้, ออก VS Code Extension Body Anthopic อัพเดตฟีเจอร์ของ Claude Code บริการช่วยเขียนโค้ด ต้อนรับ",
+      "url": "https://www.blognone.com/node/148355",
+      "publishedAt": "2025-09-30T02:08:09.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148354 at https://www.blognone.com",
+      "title": "ถึงยุค Vibe Work ไมโครซอฟท์เปิดตัว Agent Mode ใน Word และ Excel",
+      "description": "ถึงยุค Vibe Work ไมโครซอฟท์เปิดตัว Agent Mode ใน Word และ Excel Body คนที่เคยใช้เครื่องมือ AI ช่วยเขียนโค้ดคงรู้จักกับคำว่า \"vibe code\"",
+      "url": "https://www.blognone.com/node/148354",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2025/2025-09/excel-agent-architecture-diagram.png",
+      "publishedAt": "2025-09-30T01:39:48.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148352 at https://www.blognone.com",
+      "title": "Apple อัปเดต iOS 26.0.1 แก้ไขบั๊ก Wi-Fi กับกล้องใน iPhone 17 และ iPhone Air",
+      "description": "Apple อัปเดต iOS 26.0.1 แก้ไขบั๊ก Wi-Fi กับกล้องใน iPhone 17 และ iPhone Air Body แอปเปิลออกอัปเดตย่อยของระบบปฏิบัติการ iOS 26.0.1 และ iPadOS 26.0.1",
+      "url": "https://www.blognone.com/node/148352",
+      "publishedAt": "2025-09-30T00:26:27.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148351 at https://www.blognone.com",
+      "title": "OpenAI เปิดตัว ChatGPT: Instant Checkout ผู้ช่วยซื้อของออนไลน์ผ่านแชทบอต",
+      "description": "OpenAI เปิดตัว ChatGPT: Instant Checkout ผู้ช่วยซื้อของออนไลน์ผ่านแชทบอต Body OpenAI เปิดตัว Instant Checkout ผู้ช่วย AI",
+      "url": "https://www.blognone.com/node/148351",
+      "publishedAt": "2025-09-30T00:24:42.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148353 at https://www.blognone.com",
+      "title": "เปิดตัว Claude Sonnet 4.5 เขียนโค้ดเก่งกว่าเดิมอีกขั้น, เปิด Claude Agent SDK ให้ใช้งาน",
+      "description": "เปิดตัว Claude Sonnet 4.5 เขียนโค้ดเก่งกว่าเดิมอีกขั้น, เปิด Claude Agent SDK ให้ใช้งาน Body Anthropic เปิดตัว Claude Sonnet 4.5 โมเดลตัวแรกในซีรีส์",
+      "url": "https://www.blognone.com/node/148353",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2025/2025-09/sonnet-45-table.webp",
+      "publishedAt": "2025-09-30T00:20:16.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "date": "2025-09-30",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "uru9mo",
+      "title": "OpenAI Is Preparing to Launch a Social App for AI-Generated Videos",
+      "description": "Score: 9 | Comments: 7 | Posted by thm",
+      "url": "https://www.wired.com/story/openai-launches-sora-2-tiktok-like-app/",
+      "publishedAt": "2025-09-30T04:26:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thm",
+      "tags": []
+    },
+    {
+      "id": "36t2t0",
+      "title": "AI tools I wish existed",
+      "description": "Score: 65 | Comments: 40 | Posted by Poleris",
+      "url": "https://sharif.io/28-ideas-2025",
+      "publishedAt": "2025-09-30T04:14:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Poleris",
+      "tags": []
+    },
+    {
+      "id": "vacgwp",
+      "title": "Show HN: Devbox – Containers for better dev environments",
+      "description": "Score: 26 | Comments: 8 | Posted by TheRealBadDev",
+      "url": "https://devbox.ar0.eu/",
+      "publishedAt": "2025-09-30T02:26:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "TheRealBadDev",
+      "tags": []
+    },
+    {
+      "id": "mjsf9r",
+      "title": "Show HN: Simple WhatsApp API (Open Source)",
+      "description": "Score: 5 | Comments: 1 | Posted by Codegres",
+      "url": "https://github.com/Codegres-com/Simple-Whatsapp-API",
+      "publishedAt": "2025-09-30T02:18:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Codegres",
+      "tags": []
+    },
+    {
+      "id": "9ul93a",
+      "title": "Show HN: Cap'n-rs – Rust implementation of Cloudflare's Cap'n Web protocol",
+      "description": "Score: 6 | Comments: 0 | Posted by brian_meek",
+      "url": "https://github.com/currentspace/capn-rs",
+      "publishedAt": "2025-09-30T02:13:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "brian_meek",
+      "tags": []
+    },
+    {
+      "id": "mp4f5g",
+      "title": "Awakening Bell",
+      "description": "Score: 20 | Comments: 0 | Posted by mehagar",
+      "url": "https://awakeningbell.org/",
+      "publishedAt": "2025-09-30T01:46:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mehagar",
+      "tags": []
+    },
+    {
+      "id": "cl1z55",
+      "title": "Proxmox 9 made unprivileged LXCs pointless for QuickSync users",
+      "description": "Score: 6 | Comments: 0 | Posted by alexktz",
+      "url": "https://blog.ktz.me/proxmox-9-made-unprivileged-lxcs-pointless-for-quicksync-users/",
+      "publishedAt": "2025-09-30T01:11:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "alexktz",
+      "tags": []
+    },
+    {
+      "id": "lnan4x",
+      "title": "Show HN: WebRTC LAN Baby Monitor for iOS and iPadOS",
+      "description": "Score: 18 | Comments: 1 | Posted by ryan-a",
+      "url": "https://apps.apple.com/au/app/baby-monitor-lullamon/id6752753231",
+      "publishedAt": "2025-09-30T00:23:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ryan-a",
+      "tags": []
+    }
+  ]
+}
