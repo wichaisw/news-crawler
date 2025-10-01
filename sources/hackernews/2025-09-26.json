@@ -190,6 +190,17 @@
       "tags": []
     },
     {
+      "id": "p5h4k7",
+      "title": "How does lossless compression in Fuji RAF files work? (2020)",
+      "description": "Score: 98 | Comments: 58 | Posted by dsego",
+      "url": "https://capnfabs.net/posts/fuji-raf-compression-algorithm/",
+      "publishedAt": "2025-09-26T18:43:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dsego",
+      "tags": []
+    },
+    {
       "id": "nq2ha2",
       "title": "Oral Microbes Linked to 3-Fold Increased Risk of Pancreatic Cancer",
       "description": "Score: 87 | Comments: 31 | Posted by bmau5",
@@ -374,6 +385,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "surprisetalk",
+      "tags": []
+    },
+    {
+      "id": "utxkln",
+      "title": "Design of the SCHEME-78 Lisp-based microprocessor (1980)",
+      "description": "Score: 98 | Comments: 32 | Posted by fanf2",
+      "url": "https://dl.acm.org/doi/10.1145/359024.359031",
+      "publishedAt": "2025-09-26T11:42:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fanf2",
       "tags": []
     },
     {

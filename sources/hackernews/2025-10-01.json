@@ -1,0 +1,105 @@
+{
+  "date": "2025-10-01",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "w4b3ep",
+      "title": "The Mainstream Media Is Catastrophically Failing to Meet the Moment",
+      "description": "Score: 4 | Comments: 0 | Posted by BallsInIt",
+      "url": "https://www.techdirt.com/2025/09/30/the-mainstream-media-is-catastrophically-failing-to-meet-the-moment/",
+      "publishedAt": "2025-10-01T05:52:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "BallsInIt",
+      "tags": []
+    },
+    {
+      "id": "571wk9",
+      "title": "Intelligent Kubernetes Load Balancing at Databricks",
+      "description": "Score: 13 | Comments: 1 | Posted by ayf",
+      "url": "https://www.databricks.com/blog/intelligent-kubernetes-load-balancing-databricks",
+      "publishedAt": "2025-10-01T05:06:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ayf",
+      "tags": []
+    },
+    {
+      "id": "qlew6m",
+      "title": "An informational website about why I went to prison",
+      "description": "Score: 155 | Comments: 62 | Posted by andsoitis",
+      "url": "https://prison.josh.mn/",
+      "publishedAt": "2025-10-01T03:44:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andsoitis",
+      "tags": []
+    },
+    {
+      "id": "z6g3jb",
+      "title": "Blockdiff: We built our own file format for VM disk snapshots",
+      "description": "Score: 15 | Comments: 0 | Posted by cyanf",
+      "url": "https://cognition.ai/blog/blockdiff",
+      "publishedAt": "2025-10-01T03:13:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cyanf",
+      "tags": []
+    },
+    {
+      "id": "5p07re",
+      "title": "The gaslit asset classdshr.org",
+      "description": "Score: 69 | Comments: 25 | Posted by zdw",
+      "url": "https://blog.dshr.org/2025/09/the-gaslit-asset-class.html",
+      "publishedAt": "2025-10-01T03:09:45.309Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "769rmt",
+      "title": "CDC File Transfergithub.com/google",
+      "description": "Score: 135 | Comments: 29 | Posted by GalaxySnail",
+      "url": "https://github.com/google/cdc-file-transfer",
+      "publishedAt": "2025-10-01T03:09:45.308Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "GalaxySnail",
+      "tags": []
+    },
+    {
+      "id": "5p07re",
+      "title": "The gaslit asset class",
+      "description": "Score: 69 | Comments: 23 | Posted by zdw",
+      "url": "https://blog.dshr.org/2025/09/the-gaslit-asset-class.html",
+      "publishedAt": "2025-10-01T02:59:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "769rmt",
+      "title": "CDC File Transfer",
+      "description": "Score: 135 | Comments: 29 | Posted by GalaxySnail",
+      "url": "https://github.com/google/cdc-file-transfer",
+      "publishedAt": "2025-10-01T02:38:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "GalaxySnail",
+      "tags": []
+    },
+    {
+      "id": "xwv687",
+      "title": "Rio Terminal: A hardware-accelerated GPU terminal emulator",
+      "description": "Score: 42 | Comments: 27 | Posted by birdculture",
+      "url": "https://rioterm.com/",
+      "publishedAt": "2025-10-01T00:29:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "birdculture",
+      "tags": []
+    }
+  ]
+}

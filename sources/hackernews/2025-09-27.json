@@ -14,6 +14,17 @@
       "tags": []
     },
     {
+      "id": "munbk3",
+      "title": "The Lowest Level PL",
+      "description": "Score: 3 | Comments: 4 | Posted by emporas",
+      "url": "https://pramatias.github.io/cubes/cubes_en.html",
+      "publishedAt": "2025-09-27T23:40:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "emporas",
+      "tags": []
+    },
+    {
       "id": "aydc7n",
       "title": "Faster Virtual Machines: Speeding Up Programming Language Execution (2023)",
       "description": "Score: 12 | Comments: 0 | Posted by ofalkaed",
@@ -66,6 +77,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "birdculture",
+      "tags": []
+    },
+    {
+      "id": "9oo3w8",
+      "title": "Washi: The Japanese paper crafted to last 1000 years [video]",
+      "description": "Score: 53 | Comments: 13 | Posted by rmason",
+      "url": "https://www.bbc.com/reel/video/p0m4mg2j/washi-the-japanese-paper-crafted-to-last-1-000-years",
+      "publishedAt": "2025-09-27T21:43:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rmason",
       "tags": []
     },
     {
@@ -267,6 +289,28 @@
       "tags": []
     },
     {
+      "id": "h58a50",
+      "title": "Drunk CSS",
+      "description": "Score: 71 | Comments: 26 | Posted by FromTheArchives",
+      "url": "https://shkspr.mobi/blog/2025/09/drunk-css/",
+      "publishedAt": "2025-09-27T13:28:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "FromTheArchives",
+      "tags": []
+    },
+    {
+      "id": "uc9b6p",
+      "title": "Tiny worlds: A minimal implementation of DeepMind's Genie world model",
+      "description": "Score: 15 | Comments: 2 | Posted by simonpure",
+      "url": "https://github.com/AlmondGod/tinyworlds",
+      "publishedAt": "2025-09-27T12:54:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "simonpure",
+      "tags": []
+    },
+    {
       "id": "xaxqwq",
       "title": "Why We Think",
       "description": "Score: 102 | Comments: 19 | Posted by gmays",
@@ -275,6 +319,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "gmays",
+      "tags": []
+    },
+    {
+      "id": "pn0dv2",
+      "title": "Computer Vision: Algorithms and Applications, 2nd ed",
+      "description": "Score: 89 | Comments: 20 | Posted by ibobev",
+      "url": "https://szeliski.org/Book/",
+      "publishedAt": "2025-09-27T12:27:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
+      "tags": []
+    },
+    {
+      "id": "1kf0fz",
+      "title": "DITA – Darwin Information Typing Architecture",
+      "description": "Score: 16 | Comments: 1 | Posted by smartmic",
+      "url": "https://dita-lang.org/",
+      "publishedAt": "2025-09-27T12:06:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "smartmic",
       "tags": []
     },
     {
