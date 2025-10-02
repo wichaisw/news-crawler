@@ -14,6 +14,17 @@
       "tags": []
     },
     {
+      "id": "2y9az6",
+      "title": "Extrapolating Quantum Factoring",
+      "description": "Score: 3 | Comments: 0 | Posted by ibobev",
+      "url": "https://www.johndcook.com/blog/2025/09/28/extrapolating-quantum-factoring/",
+      "publishedAt": "2025-09-28T22:23:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
+      "tags": []
+    },
+    {
       "id": "lij3l4",
       "title": "Go ahead, write the “stupid” code",
       "description": "Score: 97 | Comments: 56 | Posted by spikepuppet",
@@ -22,6 +33,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "spikepuppet",
+      "tags": []
+    },
+    {
+      "id": "51n3dz",
+      "title": "\"DSEG\": Original 7-segment and 14-segment fonts (2014)",
+      "description": "Score: 40 | Comments: 18 | Posted by LeoPanthera",
+      "url": "https://www.keshikan.net/fonts-e.html",
+      "publishedAt": "2025-09-28T22:00:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "LeoPanthera",
       "tags": []
     },
     {
@@ -146,6 +168,17 @@
       "tags": []
     },
     {
+      "id": "fm1t5u",
+      "title": "A 3K-year-old copper smelting site could be key to understanding origins of iron",
+      "description": "Score: 11 | Comments: 2 | Posted by pseudolus",
+      "url": "https://phys.org/news/2025-09-year-copper-smelting-site-key.html",
+      "publishedAt": "2025-09-28T17:21:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pseudolus",
+      "tags": []
+    },
+    {
       "id": "4oug1e",
       "title": "Testing “Exotic” P2P VPN",
       "description": "Score: 103 | Comments: 23 | Posted by todsacerdoti",
@@ -220,6 +253,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "andreisergo",
+      "tags": []
+    },
+    {
+      "id": "kii04l",
+      "title": "JackTrip: Multi-machine audio network performance over the Internet",
+      "description": "Score: 8 | Comments: 2 | Posted by wallflower",
+      "url": "https://github.com/jacktrip/jacktrip",
+      "publishedAt": "2025-09-28T14:34:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wallflower",
+      "tags": []
+    },
+    {
+      "id": "i8b1g3",
+      "title": "A replica of Citizen Quartz watch based on Harel's paper introducing statecharts",
+      "description": "Score: 89 | Comments: 12 | Posted by all2",
+      "url": "https://andyjakubowski.github.io/statechart-watch/",
+      "publishedAt": "2025-09-28T14:00:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "all2",
       "tags": []
     },
     {

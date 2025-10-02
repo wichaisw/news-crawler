@@ -1,0 +1,61 @@
+{
+  "date": "2025-10-02",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "74r596",
+      "title": "Typepad is closed for businesstypepad.com",
+      "description": "Score: 40 | Comments: 2 | Posted by saaspirant",
+      "url": "https://www.typepad.com",
+      "publishedAt": "2025-10-02T05:09:12.710Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "saaspirant",
+      "tags": []
+    },
+    {
+      "id": "74r596",
+      "title": "Typepad is closed for business",
+      "description": "Score: 40 | Comments: 2 | Posted by saaspirant",
+      "url": "https://www.typepad.com",
+      "publishedAt": "2025-10-02T04:14:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "saaspirant",
+      "tags": []
+    },
+    {
+      "id": "8nch1q",
+      "title": "The biggest semantic mess in Futhark",
+      "description": "Score: 44 | Comments: 6 | Posted by jmillikin",
+      "url": "https://futhark-lang.org/blog/2025-09-26-the-biggest-semantic-mess.html",
+      "publishedAt": "2025-10-02T00:38:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jmillikin",
+      "tags": []
+    },
+    {
+      "id": "331krh",
+      "title": "Keyhive – Local-first access control",
+      "description": "Score: 66 | Comments: 2 | Posted by dannyobrien",
+      "url": "https://www.inkandswitch.com/keyhive/notebook/",
+      "publishedAt": "2025-10-02T00:12:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dannyobrien",
+      "tags": []
+    },
+    {
+      "id": "zdrn9c",
+      "title": "F3: Open-source data file format for the future [pdf]cmu.edu",
+      "description": "Score: 96 | Comments: 50 | Posted by eatonphil",
+      "url": "https://db.cs.cmu.edu/papers/2025/zeng-sigmod2025.pdf",
+      "publishedAt": "2025-10-02T00:09:12.711Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "eatonphil",
+      "tags": []
+    }
+  ]
+}
