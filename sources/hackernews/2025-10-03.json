@@ -1,0 +1,193 @@
+{
+  "date": "2025-10-03",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "ph40k4",
+      "title": "In Praise of RSS and Controlled Feeds of Information",
+      "description": "Score: 9 | Comments: 0 | Posted by curioussquirrel",
+      "url": "https://blog.burkert.me/posts/in_praise_of_syndication/",
+      "publishedAt": "2025-10-03T05:13:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "curioussquirrel",
+      "tags": []
+    },
+    {
+      "id": "clfmeh",
+      "title": "Japan's ruling party is in crisis as voters swing to right-wing rivals",
+      "description": "Score: 10 | Comments: 0 | Posted by rawgabbit",
+      "url": "https://www.cnn.com/2025/10/02/asia/japan-ruling-party-election-explainer-intl-hnk",
+      "publishedAt": "2025-10-03T05:10:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rawgabbit",
+      "tags": []
+    },
+    {
+      "id": "4s208z",
+      "title": "Fp8 runs ~100 tflops faster when the kernel name has \"cutlass\" in itgithub.com/triton-lang",
+      "description": "Score: 48 | Comments: 6 | Posted by mmastrac",
+      "url": "https://github.com/triton-lang/triton/pull/7298",
+      "publishedAt": "2025-10-03T05:08:45.880Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mmastrac",
+      "tags": []
+    },
+    {
+      "id": "dkjdbu",
+      "title": "'Western Qwen': IBM Wows with Granite 4 LLM Launch and Hybrid Mamba/Transformer",
+      "description": "Score: 20 | Comments: 2 | Posted by 2bluesc",
+      "url": "https://venturebeat.com/ai/western-qwen-ibm-wows-with-granite-4-llm-launch-and-hybrid-mamba-transformer",
+      "publishedAt": "2025-10-03T04:26:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "2bluesc",
+      "tags": []
+    },
+    {
+      "id": "4s208z",
+      "title": "Fp8 runs ~100 tflops faster when the kernel name has \"cutlass\" in it",
+      "description": "Score: 48 | Comments: 6 | Posted by mmastrac",
+      "url": "https://github.com/triton-lang/triton/pull/7298",
+      "publishedAt": "2025-10-03T04:21:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mmastrac",
+      "tags": []
+    },
+    {
+      "id": "wm2nb",
+      "title": "Digital ID – The New Chains of Capitalist Surveillance",
+      "description": "Score: 13 | Comments: 2 | Posted by Refreeze5224",
+      "url": "https://theslowburningfuse.wordpress.com/2025/09/26/digital-id-the-new-chains-of-capitalist-surveillance/",
+      "publishedAt": "2025-10-03T04:15:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Refreeze5224",
+      "tags": []
+    },
+    {
+      "id": "hz90tl",
+      "title": "Blender 4.5 brings big changes",
+      "description": "Score: 80 | Comments: 12 | Posted by pykello",
+      "url": "https://lwn.net/Articles/1036262/",
+      "publishedAt": "2025-10-03T03:52:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pykello",
+      "tags": []
+    },
+    {
+      "id": "nh1ag3",
+      "title": "You Want Technology with Warts",
+      "description": "Score: 32 | Comments: 5 | Posted by tartoran",
+      "url": "https://entropicthoughts.com/you-want-technology-with-warts",
+      "publishedAt": "2025-10-03T03:13:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tartoran",
+      "tags": []
+    },
+    {
+      "id": "ukwhzh",
+      "title": "Google Workspace Updates: Send Gmail end-to-end encrypted emails to anyone",
+      "description": "Score: 7 | Comments: 2 | Posted by OptionOfT",
+      "url": "https://workspaceupdates.googleblog.com/2025/10/send-gmail-end-to-end-encrypted-emails-in-gmail.html",
+      "publishedAt": "2025-10-03T03:04:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "OptionOfT",
+      "tags": []
+    },
+    {
+      "id": "dgfr43",
+      "title": "KitteHub: Workflow as Python code using AutoKitteh",
+      "description": "Score: 3 | Comments: 0 | Posted by itayd",
+      "url": "https://github.com/autokitteh/kittehub",
+      "publishedAt": "2025-10-03T02:59:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "itayd",
+      "tags": []
+    },
+    {
+      "id": "tl6d4q",
+      "title": "Stdlib: A library of frameworks, templates, and guides for technical leadership",
+      "description": "Score: 31 | Comments: 3 | Posted by mooreds",
+      "url": "https://debuggingleadership.com/stdlib",
+      "publishedAt": "2025-10-03T02:33:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mooreds",
+      "tags": []
+    },
+    {
+      "id": "25z5us",
+      "title": "FyneDesk: A full desktop environment for Linux written in Go",
+      "description": "Score: 68 | Comments: 23 | Posted by xk3",
+      "url": "https://github.com/FyshOS/fynedesk",
+      "publishedAt": "2025-10-03T02:13:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "xk3",
+      "tags": []
+    },
+    {
+      "id": "u6357m",
+      "title": "Show HN: BetterBrain – Dementia prevention, covered by insurance",
+      "description": "Score: 9 | Comments: 1 | Posted by adi4213",
+      "url": "https://www.betterbrain.com/insurance",
+      "publishedAt": "2025-10-03T02:03:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "adi4213",
+      "tags": []
+    },
+    {
+      "id": "irigjo",
+      "title": "I spent the day teaching seniors how to use an iPhone",
+      "description": "Score: 108 | Comments: 104 | Posted by dabinat",
+      "url": "https://forums.macrumors.com/threads/i-spent-the-day-trying-to-teach-seniors-how-to-use-an-iphone-and-it-was-a-nightmare.2468117/",
+      "publishedAt": "2025-10-03T01:20:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dabinat",
+      "tags": []
+    },
+    {
+      "id": "f6xjwr",
+      "title": "Microcomputers – The Second Wave: Toward a Mass Market",
+      "description": "Score: 27 | Comments: 8 | Posted by cfmcdonald",
+      "url": "https://technicshistory.com/2025/10/03/microcomputers-the-second-wave-towards-a-mass-market/",
+      "publishedAt": "2025-10-03T00:51:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cfmcdonald",
+      "tags": []
+    },
+    {
+      "id": "d08f21",
+      "title": "Researchers develop molecular qubits that communicate at telecom frequencies",
+      "description": "Score: 27 | Comments: 5 | Posted by hhs",
+      "url": "https://chicagoquantum.org/news/researchers-develop-molecular-qubits-communicate-telecom-frequencies",
+      "publishedAt": "2025-10-03T00:44:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hhs",
+      "tags": []
+    },
+    {
+      "id": "tc8jqn",
+      "title": "Apple takes down ICE tracking apps after pressure from DOJ",
+      "description": "Score: 386 | Comments: 238 | Posted by aspenmayer",
+      "url": "https://www.foxbusiness.com/politics/apple-takes-down-ice-tracking-app-after-pressure-from-ag-bondi",
+      "publishedAt": "2025-10-03T00:34:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "aspenmayer",
+      "tags": []
+    }
+  ]
+}

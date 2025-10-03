@@ -1,0 +1,215 @@
+{
+  "date": "2025-10-02",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3053808",
+      "title": "Amazon to resume drone delivery following crash in Arizona",
+      "description": "Investigations by the National Transportation Safety Board and Federal Aviation Administration are underway.",
+      "url": "https://techcrunch.com/2025/10/02/amazon-to-resume-drone-delivery-following-crash-in-arizona/",
+      "publishedAt": "2025-10-02T23:30:23.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Kirsten Korosec",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3053554",
+      "title": "Department of Energy cancels $7.5B of clean energy projects in mostly blue states",
+      "description": "The Trump administration canceled over 300 awards related to clean energy on October 1. The states most affected by the cuts voted for Democrat",
+      "url": "https://techcrunch.com/2025/10/02/department-of-energy-cancels-7-5b-of-clean-energy-projects-in-mostly-blue-states/",
+      "publishedAt": "2025-10-02T19:53:46.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Tim De Chant",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3053689",
+      "title": "Anthropic hires new CTO with focus on AI infrastructure",
+      "description": "As part of the change, Anthropic is updating the structure of its core technical group, bringing the company's product-engineering team into closer",
+      "url": "https://techcrunch.com/2025/10/02/anthropic-hires-new-cto-with-focus-on-ai-infrastructure/",
+      "publishedAt": "2025-10-02T19:00:39.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Russell Brandom",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3053683",
+      "title": "OpenAI’s Sora soars to No. 3 on the US App Store",
+      "description": "Sora becomes the No. 3 US app after 164K downloads in 2 days, making the AI video app an early hit.",
+      "url": "https://techcrunch.com/2025/10/02/openais-sora-soars-to-no-3-on-the-u-s-app-store/",
+      "publishedAt": "2025-10-02T18:24:54.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sarah Perez",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3053579",
+      "title": "YouTubers aren’t relying on ad revenue anymore — here’s how some are diversifying",
+      "description": "YouTubers are no longer just creators, and in some cases, their side businesses are growing faster than their channels.",
+      "url": "https://techcrunch.com/2025/10/02/youtubers-arent-relying-on-ad-revenue-anymore-heres-how-some-are-diversifying/",
+      "publishedAt": "2025-10-02T18:06:25.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lauren Forristal",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3053575",
+      "title": "Google’s Jules enters developers’ toolchains as AI coding agent competition heats up",
+      "description": "Jules is already being used by developers to complete code after experimenting on vibe-coding platforms.",
+      "url": "https://techcrunch.com/2025/10/02/googles-jules-enters-developers-toolchains-as-ai-coding-agent-competition-heats-up/",
+      "publishedAt": "2025-10-02T18:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Jagmeet Singh",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3053048",
+      "title": "Threads takes on X with new communities feature",
+      "description": "The idea, explains Meta, is to give users dedicated spaces within the app where they can delve deeper into conversations on topics that matter to",
+      "url": "https://techcrunch.com/2025/10/02/threads-takes-on-x-with-new-communities-feature/",
+      "publishedAt": "2025-10-02T17:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sarah Perez",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3053438",
+      "title": "How startups could be affected by a prolonged government shutdown",
+      "description": "Slow or stopped permitting and a frozen visa process are existential threats for some startups.",
+      "url": "https://techcrunch.com/2025/10/02/how-startups-could-be-affected-by-a-prolonged-government-shutdown/",
+      "publishedAt": "2025-10-02T16:05:22.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3052756",
+      "title": "Celebrating the partners driving Disrupt’s big ideas, connections, and community",
+      "description": "TechCrunch Disrupt 2025 wouldn’t be possible without the incredible support of our sponsors, who bring world-class expertise, bold innovation, and",
+      "url": "https://techcrunch.com/2025/10/02/celebrating-the-partners-driving-disrupts-big-ideas-connections-and-community/",
+      "publishedAt": "2025-10-02T16:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Cindy Zackney",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3053432",
+      "title": "Ex-OpenAI researcher dissects one of ChatGPT’s delusional spirals",
+      "description": "A former OpenAI researcher looked into how ChatGPT can mislead delusional users about their reality and its own capabilities.",
+      "url": "https://techcrunch.com/2025/10/02/ex-openai-researcher-dissects-one-of-chatgpts-delusional-spirals/",
+      "publishedAt": "2025-10-02T15:46:25.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Maxwell Zeff",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3053584",
+      "title": "Perplexity’s Comet AI browser now free; Max users get new ‘background assistant’",
+      "description": "AI search startup Perplexity is making its new Comet browser available to everyone in the world for free as it works to position the product against",
+      "url": "https://techcrunch.com/2025/10/02/perplexitys-comet-ai-browser-now-free-max-users-get-new-background-assistant/",
+      "publishedAt": "2025-10-02T15:36:09.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Rebecca Bellan",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3053563",
+      "title": "Amazon now lets Prime members add items to upcoming orders with one tap",
+      "description": "Amazon's new \"Add to today's delivery\" button makes it easier for Prime members to buy more and tack on items to existing orders.",
+      "url": "https://techcrunch.com/2025/10/02/amazon-now-lets-prime-members-add-items-to-upcoming-orders-with-one-tap/",
+      "publishedAt": "2025-10-02T15:26:53.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sarah Perez",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3053551",
+      "title": "Rivian’s best-case guess for 2025 sales is a 16% drop from last year",
+      "description": "The company will likely sell fewer EVs this year than in both 2024 and 2023, making next year's launch of the R2 SUV even more important.",
+      "url": "https://techcrunch.com/2025/10/02/rivians-best-case-guess-for-2025-sales-is-a-16-drop-from-last-year/",
+      "publishedAt": "2025-10-02T15:19:14.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sean O'Kane",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3053244",
+      "title": "Phoebe Gates and Sophia Kianni share the playbook for scaling consumer AI and winning Gen Z at TechCrunch Disrupt 2025",
+      "description": "Phia co-founders Phoebe Gates and Sophia Kianni are redefining how Gen Z shops with AI. At TechCrunch Disrupt 2025, they’ll share how they’re scaling",
+      "url": "https://techcrunch.com/2025/10/02/storming-the-gates-scaling-consumer-ai-with-phoebe-gates-and-sophia-kianni-only-at-techcrunch-disrupt-2025/",
+      "publishedAt": "2025-10-02T15:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "TechCrunch Events",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3053504",
+      "title": "A new a16z report looks at which AI companies startups are actually paying for",
+      "description": "a16z releases its first AI spending report that shows which AI-native application layer companies startups are actually spending money on .",
+      "url": "https://techcrunch.com/2025/10/02/a-new-a16z-report-looks-at-which-ai-companies-startups-are-actually-paying-for/",
+      "publishedAt": "2025-10-02T15:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3053566",
+      "title": "Hackers are sending extortion emails to executives after claiming Oracle apps’ data breach",
+      "description": "Google says hackers associated with the Clop ransomware gang are emailing executives at multiple organizations claiming to have stolen their personal",
+      "url": "https://techcrunch.com/2025/10/02/hackers-are-sending-extortion-emails-to-executives-after-claiming-oracle-apps-data-breach/",
+      "publishedAt": "2025-10-02T14:57:07.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Zack Whittaker",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3053543",
+      "title": "OpenAI is the world’s most valuable private company after private stock sale",
+      "description": "OpenAI employees sold $6.6B in shares, leading company's valuation to jump to $500B.",
+      "url": "https://techcrunch.com/2025/10/02/openai-is-the-worlds-most-valuable-private-company-after-private-stock-sale/",
+      "publishedAt": "2025-10-02T14:35:44.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Russell Brandom",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3053539",
+      "title": "Apple shelves Vision Pro overhaul to focus on AI glasses",
+      "description": "Bloomberg reports that the tech giant is developing at least two types of smart glasses.",
+      "url": "https://techcrunch.com/2025/10/02/apple-shelves-vision-pro-overhaul-to-focus-on-ai-glasses/",
+      "publishedAt": "2025-10-02T14:06:13.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Aisha Malik",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3051666",
+      "title": "Last chance alert: Founder and Investor Bundle savings for TechCrunch Disrupt 2025 ends tomorrow",
+      "description": "Founder and Investor Bundle savings for TechCrunch Disrupt 2025 end tomorrow, October 3. Groups of 4–9 founders save 15% and investors save 20%.",
+      "url": "https://techcrunch.com/2025/10/02/last-chance-alert-founder-and-investor-bundle-savings-for-techcrunch-disrupt-2025-ends-tomorrow/",
+      "publishedAt": "2025-10-02T14:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "TechCrunch Events",
+      "tags": []
+    }
+  ]
+}
