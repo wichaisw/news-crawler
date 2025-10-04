@@ -234,6 +234,17 @@
       "tags": []
     },
     {
+      "id": "11l1i",
+      "title": "The Temporal Dead Zone, or why the TypeScript codebase is full of var statements",
+      "description": "Score: 88 | Comments: 47 | Posted by vincentrolfs",
+      "url": "https://vincentrolfs.dev/blog/ts-var",
+      "publishedAt": "2025-10-01T14:06:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vincentrolfs",
+      "tags": []
+    },
+    {
       "id": "wanob9",
       "title": "Unix philosophy and filesystem access makes Claude Code amazing",
       "description": "Score: 277 | Comments: 148 | Posted by noahbrier",
@@ -278,6 +289,17 @@
       "tags": []
     },
     {
+      "id": "74za6c",
+      "title": "The Crete Fleet – Concrete Tugs and Barges from WWI",
+      "description": "Score: 7 | Comments: 0 | Posted by surprisetalk",
+      "url": "https://thecretefleet.com",
+      "publishedAt": "2025-10-01T12:56:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
       "id": "2531v",
       "title": "Building an IoT Notification Device from Scratch",
       "description": "Score: 76 | Comments: 16 | Posted by bertwagner",
@@ -308,6 +330,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "boris_m",
+      "tags": []
+    },
+    {
+      "id": "1845tp",
+      "title": "The Beer Can (2023)",
+      "description": "Score: 286 | Comments: 52 | Posted by Michelangelo11",
+      "url": "https://brr.fyi/posts/beer-can",
+      "publishedAt": "2025-10-01T07:51:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Michelangelo11",
+      "tags": []
+    },
+    {
+      "id": "3uc7ak",
+      "title": "Advanced Matrix Multiplication Optimization on Multi-Core Processors (2024)",
+      "description": "Score: 45 | Comments: 3 | Posted by skidrow",
+      "url": "https://salykova.github.io/gemm-cpu",
+      "publishedAt": "2025-10-01T07:31:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "skidrow",
       "tags": []
     },
     {

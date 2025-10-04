@@ -3,6 +3,51 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "148399 at https://www.blognone.com",
+      "title": "Red Hat ถูกแฮก GitLab ข้อมูลลูกค้ารั่วไหล",
+      "description": "Red Hat ถูกแฮก GitLab ข้อมูลลูกค้ารั่วไหล Body Red Hat ผู้พัฒนาซอฟต์แวร์โอเพนซอร์สรายใหญ่ถูกแฮกเซิร์ฟเวอร์ GitLab ภายใน",
+      "url": "https://www.blognone.com/node/148399",
+      "publishedAt": "2025-10-03T15:48:01.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148398 at https://www.blognone.com",
+      "title": "IBM เปิดตัว Granite 4.0 โมเดลไฮบริด Transformer-Mamba ใช้แรมน้อยลงมาก",
+      "description": "IBM เปิดตัว Granite 4.0 โมเดลไฮบริด Transformer-Mamba ใช้แรมน้อยลงมาก Body IBM มีโมเดล LLM ของตัวเองชื่อ Granite มาสักพักใหญ่ๆ และล่าสุดเปิดตัว",
+      "url": "https://www.blognone.com/node/148398",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2025/2025-10/granite-4-arch.webp",
+      "publishedAt": "2025-10-03T14:01:53.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148397 at https://www.blognone.com",
+      "title": "Jules บริการ Coding Agent ของกูเกิล เพิ่มอินเทอร์เฟซ Command-Line และ API",
+      "description": "Jules บริการ Coding Agent ของกูเกิล เพิ่มอินเทอร์เฟซ Command-Line และ API Body ตอนงาน Google I/O ปีนี้ กูเกิลเปิดตัว Jules บริการ coding agent",
+      "url": "https://www.blognone.com/node/148397",
+      "publishedAt": "2025-10-03T12:38:32.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148396 at https://www.blognone.com",
+      "title": "JetBrains เปิดตัว Claude Agent ฝังมาใน IDE ตระกูล JetBrains เลย",
+      "description": "JetBrains เปิดตัว Claude Agent ฝังมาใน IDE ตระกูล JetBrains เลย Body JetBrains เปิดตัว Claude Agent ซึ่งเป็น agent ช่วยเขียนโค้ดพลัง AI เข้ามาใน IDE",
+      "url": "https://www.blognone.com/node/148396",
+      "publishedAt": "2025-10-03T11:22:49.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "148395 at https://www.blognone.com",
       "title": "Threads เพิ่มฟีเจอร์ Communities ห้องสนทนาตามหัวข้อ แบบเดียวกับบน X",
       "description": "Threads เพิ่มฟีเจอร์ Communities ห้องสนทนาตามหัวข้อ แบบเดียวกับบน X Body ค่อยๆ งอกมาทีละฟีเจอร์กับ Threads บริการโซเชียลเน้นข้อความของบริษัท Meta",

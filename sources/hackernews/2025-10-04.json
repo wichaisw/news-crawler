@@ -1,0 +1,105 @@
+{
+  "date": "2025-10-04",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "uu86vw",
+      "title": "What's up with Linux support for Qualcomm X Elite chips?",
+      "description": "Score: 9 | Comments: 0 | Posted by walterbell",
+      "url": "https://www.osnews.com/story/142075/whats-up-with-linux-support-for-qualcomm-x-elite-chips/",
+      "publishedAt": "2025-10-04T04:47:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "walterbell",
+      "tags": []
+    },
+    {
+      "id": "2am2q0",
+      "title": "Starship's Eleventh Flight Test",
+      "description": "Score: 30 | Comments: 8 | Posted by starwatch",
+      "url": "https://www.spacex.com/launches/starship-flight-11",
+      "publishedAt": "2025-10-04T04:25:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "starwatch",
+      "tags": []
+    },
+    {
+      "id": "uya7q9",
+      "title": "Toyota runs a car-hacking event to boost security (2024)",
+      "description": "Score: 20 | Comments: 3 | Posted by octagons",
+      "url": "https://toyotatimes.jp/en/spotlights/1061.html",
+      "publishedAt": "2025-10-04T03:11:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "octagons",
+      "tags": []
+    },
+    {
+      "id": "qb73o6",
+      "title": "New antibiotic targets IBD and AI predicted how it would work",
+      "description": "Score: 63 | Comments: 12 | Posted by KLK2019",
+      "url": "https://healthsci.mcmaster.ca/new-antibiotic-targets-ibd-and-ai-predicted-how-it-would-work-before-scientists-could-prove-it/",
+      "publishedAt": "2025-10-04T01:09:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "KLK2019",
+      "tags": []
+    },
+    {
+      "id": "pingpn",
+      "title": "Track which Electron apps slow down macOS 26 Tahoe",
+      "description": "Score: 73 | Comments: 49 | Posted by mikamika83",
+      "url": "https://avarayr.github.io/shamelectron/",
+      "publishedAt": "2025-10-04T00:45:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mikamika83",
+      "tags": []
+    },
+    {
+      "id": "aub1yg",
+      "title": "Sora Update #1",
+      "description": "Score: 55 | Comments: 62 | Posted by davidbarker",
+      "url": "https://blog.samaltman.com/sora-update-number-1",
+      "publishedAt": "2025-10-04T00:39:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "davidbarker",
+      "tags": []
+    },
+    {
+      "id": "3trdeu",
+      "title": "Discord customer service data breach leaks user info and scanned photo IDs",
+      "description": "Score: 90 | Comments: 16 | Posted by healsdata",
+      "url": "https://www.theverge.com/news/792032/discord-customer-service-data-breach-hack",
+      "publishedAt": "2025-10-04T00:39:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "healsdata",
+      "tags": []
+    },
+    {
+      "id": "uyxqxd",
+      "title": "I Use Org-Roam to Take Notes for CS",
+      "description": "Score: 9 | Comments: 0 | Posted by amitav1",
+      "url": "https://michaelneuper.com/posts/how-i-use-org-roam-to-takes-notes-for-cs/",
+      "publishedAt": "2025-10-04T00:32:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "amitav1",
+      "tags": []
+    },
+    {
+      "id": "j9tz51",
+      "title": "Binary Formats Gallery",
+      "description": "Score: 44 | Comments: 15 | Posted by vitalnodo",
+      "url": "https://formats.kaitai.io/",
+      "publishedAt": "2025-10-04T00:19:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vitalnodo",
+      "tags": []
+    }
+  ]
+}

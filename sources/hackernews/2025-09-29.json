@@ -36,6 +36,17 @@
       "tags": []
     },
     {
+      "id": "wr6i5p",
+      "title": "Low-dose radiation offers relief to people with knee osteoarthritis",
+      "description": "Score: 102 | Comments: 59 | Posted by geox",
+      "url": "https://www.astro.org/news-and-publications/news-and-media-center/news-releases/2025/low-dose-radiation-therapy-offers-substantial-relief-to-people-with-painful-knee-osteoarthritis",
+      "publishedAt": "2025-09-29T22:44:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "geox",
+      "tags": []
+    },
+    {
       "id": "1pttks",
       "title": "Going down the rabbit hole of Postgres 18 features",
       "description": "Score: 26 | Comments: 1 | Posted by tudorg",
@@ -113,6 +124,17 @@
       "tags": []
     },
     {
+      "id": "a4gmrl",
+      "title": "Effective context engineering for AI agents",
+      "description": "Score: 76 | Comments: 10 | Posted by epenson",
+      "url": "https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents",
+      "publishedAt": "2025-09-29T20:18:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "epenson",
+      "tags": []
+    },
+    {
       "id": "9248x5",
       "title": "How I block all 26M of your curl requests",
       "description": "Score: 95 | Comments: 30 | Posted by foxmoss",
@@ -154,6 +176,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "polyrand",
+      "tags": []
+    },
+    {
+      "id": "wh668c",
+      "title": "LoRA Without Regret",
+      "description": "Score: 104 | Comments: 27 | Posted by grantpitt",
+      "url": "https://thinkingmachines.ai/blog/lora/",
+      "publishedAt": "2025-09-29T17:52:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "grantpitt",
       "tags": []
     },
     {

@@ -135,6 +135,17 @@
       "tags": []
     },
     {
+      "id": "eprk2i",
+      "title": "A B+ tree node underflows: merge or borrow?",
+      "description": "Score: 30 | Comments: 0 | Posted by jasim",
+      "url": "https://jacobsherin.com/posts/2025-08-16-bplustree-compare-borrow-merge/",
+      "publishedAt": "2025-09-30T16:41:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jasim",
+      "tags": []
+    },
+    {
       "id": "z5v8zo",
       "title": "Show HN: Sculptor – A UI for Claude Code",
       "description": "Score: 147 | Comments: 68 | Posted by thejash",
@@ -300,6 +311,17 @@
       "tags": []
     },
     {
+      "id": "7wf0u9",
+      "title": "Show HN: Magic-markers – control a smart bulb with crayola markers",
+      "description": "Score: 4 | Comments: 0 | Posted by jchap",
+      "url": "https://github.com/thejchap/magic-markers",
+      "publishedAt": "2025-09-30T12:03:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jchap",
+      "tags": []
+    },
+    {
       "id": "2e3hud",
       "title": "Orbiting the Hénon Attractor",
       "description": "Score: 58 | Comments: 9 | Posted by dtj1123",
@@ -311,6 +333,17 @@
       "tags": []
     },
     {
+      "id": "4k62ak",
+      "title": "Io_uring is not an event system (2021)",
+      "description": "Score: 38 | Comments: 19 | Posted by signa11",
+      "url": "https://despairlabs.com/blog/posts/2021-06-16-io-uring-is-not-an-event-system/",
+      "publishedAt": "2025-09-30T10:43:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "signa11",
+      "tags": []
+    },
+    {
       "id": "685xhn",
       "title": "Comprehension debt: A ticking time bomb of LLM-generated code",
       "description": "Score: 490 | Comments: 315 | Posted by todsacerdoti",
@@ -319,6 +352,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "24dr8e",
+      "title": "Open Printer is an open source inkjet printer with DRM-free ink",
+      "description": "Score: 278 | Comments: 78 | Posted by mnmalst",
+      "url": "https://www.notebookcheck.net/Open-Printer-is-an-open-source-inkjet-printer-with-DRM-free-ink-and-roll-paper-support.1126929.0.html",
+      "publishedAt": "2025-09-30T08:57:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mnmalst",
       "tags": []
     },
     {
@@ -341,6 +385,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "rot22",
+      "tags": []
+    },
+    {
+      "id": "3rt9ne",
+      "title": "Discrete Fourier Transform",
+      "description": "Score: 43 | Comments: 7 | Posted by pykello",
+      "url": "https://nima101.github.io/dft",
+      "publishedAt": "2025-09-30T05:46:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pykello",
+      "tags": []
+    },
+    {
+      "id": "7nmqd8",
+      "title": "Fluid Glass",
+      "description": "Score: 317 | Comments: 50 | Posted by memalign",
+      "url": "https://chiuhans111.github.io/fluidglass/",
+      "publishedAt": "2025-09-30T05:15:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "memalign",
       "tags": []
     },
     {
@@ -429,6 +495,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "alexktz",
+      "tags": []
+    },
+    {
+      "id": "wqigx8",
+      "title": "Modern Font Stacks",
+      "description": "Score: 313 | Comments: 67 | Posted by surprisetalk",
+      "url": "https://modernfontstacks.com/",
+      "publishedAt": "2025-09-30T00:49:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
       "tags": []
     },
     {

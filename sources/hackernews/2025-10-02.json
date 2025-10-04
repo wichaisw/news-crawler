@@ -36,6 +36,17 @@
       "tags": []
     },
     {
+      "id": "590317",
+      "title": "Where it's at://",
+      "description": "Score: 182 | Comments: 90 | Posted by steveklabnik",
+      "url": "https://overreacted.io/where-its-at/",
+      "publishedAt": "2025-10-02T20:31:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "steveklabnik",
+      "tags": []
+    },
+    {
       "id": "3mjyq5",
       "title": "Anti-aging breakthrough: Stem cells reverse signs of aging in monkeys",
       "description": "Score: 225 | Comments: 187 | Posted by bilsbie",
@@ -55,6 +66,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ndneighbor",
+      "tags": []
+    },
+    {
+      "id": "79essj",
+      "title": "Litestream v0.5.0",
+      "description": "Score: 392 | Comments: 174 | Posted by emschwartz",
+      "url": "https://fly.io/blog/litestream-v050-is-here/",
+      "publishedAt": "2025-10-02T19:02:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "emschwartz",
       "tags": []
     },
     {
@@ -209,6 +231,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "nashashmi",
+      "tags": []
+    },
+    {
+      "id": "60n81h",
+      "title": "Asked to do something illegal at work? Here's what these software engineers did",
+      "description": "Score: 287 | Comments: 172 | Posted by bschne",
+      "url": "https://blog.pragmaticengineer.com/asked-to-do-something-illegal-at-work/",
+      "publishedAt": "2025-10-02T08:51:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bschne",
+      "tags": []
+    },
+    {
+      "id": "s7tgs2",
+      "title": "Old Stockholm Telephone Tower",
+      "description": "Score: 36 | Comments: 9 | Posted by ZeljkoS",
+      "url": "https://en.wikipedia.org/wiki/Old_Stockholm_telephone_tower",
+      "publishedAt": "2025-10-02T07:12:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ZeljkoS",
       "tags": []
     },
     {
