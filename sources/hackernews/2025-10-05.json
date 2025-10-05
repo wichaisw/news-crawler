@@ -1,0 +1,72 @@
+{
+  "date": "2025-10-05",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "rrr05b",
+      "title": "Way past its prime: how did Amazon get so rubbish?",
+      "description": "Score: 20 | Comments: 6 | Posted by sandebert",
+      "url": "https://www.theguardian.com/technology/2025/oct/05/way-past-its-prime-how-did-amazon-get-so-rubbish",
+      "publishedAt": "2025-10-05T05:47:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sandebert",
+      "tags": []
+    },
+    {
+      "id": "ehyvum",
+      "title": "Scientists debunk claims of seed oil health risks",
+      "description": "Score: 6 | Comments: 0 | Posted by thelastgallon",
+      "url": "https://hsph.harvard.edu/news/scientists-debunk-seed-oil-health-risks/",
+      "publishedAt": "2025-10-05T04:50:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thelastgallon",
+      "tags": []
+    },
+    {
+      "id": "lzkfbk",
+      "title": "Americans increasingly see legal sports betting as a bad thing for society",
+      "description": "Score: 41 | Comments: 30 | Posted by aloukissas",
+      "url": "https://www.pewresearch.org/short-reads/2025/10/02/americans-increasingly-see-legal-sports-betting-as-a-bad-thing-for-society-and-sports/",
+      "publishedAt": "2025-10-05T04:01:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "aloukissas",
+      "tags": []
+    },
+    {
+      "id": "j8m0am",
+      "title": "You can't parse XML with regex. Let's do it anyways",
+      "description": "Score: 54 | Comments: 46 | Posted by birdculture",
+      "url": "https://sdomi.pl/weblog/26-nobody-here-is-free-of-sin/",
+      "publishedAt": "2025-10-05T01:58:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "birdculture",
+      "tags": []
+    },
+    {
+      "id": "s1hvco",
+      "title": "Parrot – type-safe SQL in Gleam, supports SQlite, PostgreSQL and MySQL",
+      "description": "Score: 36 | Comments: 6 | Posted by TheWiggles",
+      "url": "https://github.com/daniellionel01/parrot",
+      "publishedAt": "2025-10-05T00:51:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "TheWiggles",
+      "tags": []
+    },
+    {
+      "id": "o1v684",
+      "title": "Mod. 5140 - IBM's First Laptop Computer",
+      "description": "Score: 28 | Comments: 12 | Posted by jumpocelot",
+      "url": "https://richardsapperdesign.com/products/mod-5140/",
+      "publishedAt": "2025-10-05T00:35:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jumpocelot",
+      "tags": []
+    }
+  ]
+}

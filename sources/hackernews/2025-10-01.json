@@ -25,6 +25,17 @@
       "tags": []
     },
     {
+      "id": "z67x8c",
+      "title": "Machine Learnability as a Measure of Order in Aperiodic Sequences",
+      "description": "Score: 18 | Comments: 0 | Posted by PaulHoule",
+      "url": "https://arxiv.org/abs/2509.18103",
+      "publishedAt": "2025-10-01T22:01:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "PaulHoule",
+      "tags": []
+    },
+    {
       "id": "za1t2o",
       "title": "Egg-Shaped Curves (2007)",
       "description": "Score: 41 | Comments: 4 | Posted by runxel",
@@ -168,6 +179,28 @@
       "tags": []
     },
     {
+      "id": "nvq8gd",
+      "title": "Clavier: An FPGA-based mechanical keyboard with USB hub and comms interfaces",
+      "description": "Score: 76 | Comments: 20 | Posted by zdw",
+      "url": "https://github.com/lsartory/Clavier",
+      "publishedAt": "2025-10-01T17:05:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "vo17ed",
+      "title": "Newton: physics simulation engine built upon NVIDIA Warp",
+      "description": "Score: 79 | Comments: 12 | Posted by skilled",
+      "url": "https://github.com/newton-physics/newton",
+      "publishedAt": "2025-10-01T16:57:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "skilled",
+      "tags": []
+    },
+    {
       "id": "m05pbh",
       "title": "The RAG Obituary: Killed by agents, buried by context windows",
       "description": "Score: 97 | Comments: 83 | Posted by nbstme",
@@ -198,6 +231,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "sumanep",
+      "tags": []
+    },
+    {
+      "id": "l4fshj",
+      "title": "Mathematical Models/Algorithms for Optimization of Lego Construction Problems [pdf]",
+      "description": "Score: 36 | Comments: 0 | Posted by felineflock",
+      "url": "https://backend.orbit.dtu.dk/ws/portalfiles/portal/236623063/PhD_Thesis_Torkil_Kollsker.pdf",
+      "publishedAt": "2025-10-01T15:16:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "felineflock",
       "tags": []
     },
     {
@@ -300,6 +344,17 @@
       "tags": []
     },
     {
+      "id": "nr5jtx",
+      "title": "Five years as a startup CTO: How, why, and was it worth it? (2024)",
+      "description": "Score: 130 | Comments: 94 | Posted by mooreds",
+      "url": "https://distinctplace.com/2024/09/11/five-years-as-startup-cto-was-it-all-worth-it/",
+      "publishedAt": "2025-10-01T12:45:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mooreds",
+      "tags": []
+    },
+    {
       "id": "2531v",
       "title": "Building an IoT Notification Device from Scratch",
       "description": "Score: 76 | Comments: 16 | Posted by bertwagner",
@@ -308,6 +363,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "bertwagner",
+      "tags": []
+    },
+    {
+      "id": "o3g52t",
+      "title": "The Art of Color... Science?",
+      "description": "Score: 14 | Comments: 1 | Posted by gbugniot",
+      "url": "https://nikonrumors.com/2025/09/30/the-art-of-color-science.aspx/",
+      "publishedAt": "2025-10-01T09:20:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gbugniot",
+      "tags": []
+    },
+    {
+      "id": "o5tyu7",
+      "title": "What .NET 10 GC Changes Mean for Developers",
+      "description": "Score: 22 | Comments: 1 | Posted by roxeem",
+      "url": "https://roxeem.com/2025/09/30/what-net-10-gc-changes-mean-for-developers/",
+      "publishedAt": "2025-10-01T08:40:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "roxeem",
       "tags": []
     },
     {
@@ -396,6 +473,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "andsoitis",
+      "tags": []
+    },
+    {
+      "id": "opvhyn",
+      "title": "Baseball durations after the pitch clock",
+      "description": "Score: 63 | Comments: 83 | Posted by zdw",
+      "url": "https://leancrew.com/all-this/2025/09/baseball-durations-after-the-pitch-clock/",
+      "publishedAt": "2025-10-01T03:15:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
       "tags": []
     },
     {

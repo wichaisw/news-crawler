@@ -1,0 +1,116 @@
+{
+  "date": "2025-10-04",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3052540",
+      "title": "A breach every month raises doubts about South Korea’s digital defenses",
+      "description": "Known for its blazing fast internet and home to some of the world’s biggest tech giants, South Korea has also faced a string of data breaches and",
+      "url": "https://techcrunch.com/2025/10/04/a-breach-every-month-raises-doubts-about-south-koreas-digital-defenses/",
+      "publishedAt": "2025-10-04T21:10:12.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Kate Park",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3054384",
+      "title": "Newsom signs bill giving Uber and Lyft drivers in California the right to unionize",
+      "description": "Drivers for ride-hailing apps like Uber and Lyft will soon have the right to unionize in California as independent contractors, thanks to a bill",
+      "url": "https://techcrunch.com/2025/10/04/newsom-signs-bill-giving-uber-and-lyft-drivers-in-california-the-right-to-unionize/",
+      "publishedAt": "2025-10-04T20:57:33.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3054378",
+      "title": "If you’re not an AI startup, good luck raising money from VCs",
+      "description": "New PitchBook data illustrates how dramatically AI is dominating startup investment, with 2025 on-track to become the first year when AI accounts for",
+      "url": "https://techcrunch.com/2025/10/04/if-youre-not-an-ai-startup-good-luck-raising-money-from-vcs/",
+      "publishedAt": "2025-10-04T20:05:28.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3054214",
+      "title": "Startups and the U.S. government: It’s getting complicated",
+      "description": "Equity co-hosts Anthony Ha, Kirsten Korosec, and Max Zeff explore the how startups are navigating a topsy-turvy relationship with the U.S. government.",
+      "url": "https://techcrunch.com/2025/10/04/startups-and-the-u-s-government-its-getting-complicated/",
+      "publishedAt": "2025-10-04T19:10:05.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Kirsten Korosec",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3053233",
+      "title": "Anker offered Eufy camera owners $2 per video for AI training",
+      "description": "Hundreds of Eufy customers have donated hundreds of thousands of videos to train the company’s AI systems.",
+      "url": "https://techcrunch.com/2025/10/04/anker-offered-to-pay-eufy-camera-owners-to-share-videos-for-training-its-ai/",
+      "publishedAt": "2025-10-04T18:19:42.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lorenzo Franceschi-Bicchierai",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3053269",
+      "title": "Instacrops will demo its water-saving, crop-boosting AI at TechCrunch Disrupt 2025",
+      "description": "Agriculture consumes a vast amount of water, and some countries are under more stress than others. Instacrops pivoted to AI to help farmers cut water",
+      "url": "https://techcrunch.com/2025/10/04/instacrops-will-demo-its-water-saving-crop-boosting-ai-at-techcrunch-disrupt-2025/",
+      "publishedAt": "2025-10-04T16:30:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Tim De Chant",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3054361",
+      "title": "Sam Altman says Sora will add ‘granular,’ opt-in copyright controls",
+      "description": "OpenAI may be reversing course on how it approaches copyright and intellectual property in its new video app Sora.",
+      "url": "https://techcrunch.com/2025/10/04/sam-altman-says-sora-will-add-granular-opt-in-copyright-controls/",
+      "publishedAt": "2025-10-04T16:26:50.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3054331",
+      "title": "Event startup Partiful wasn’t stripping GPS locations from user-uploaded photos",
+      "description": "The event planning startup, which has raised over $27M from a16z and others, fixed the bug after TechCrunch found that Partiful was not removing",
+      "url": "https://techcrunch.com/2025/10/04/event-startup-partiful-wasnt-stripping-gps-locations-from-user-uploaded-photos/",
+      "publishedAt": "2025-10-04T15:50:07.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Zack Whittaker, Amanda Silberling",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3054326",
+      "title": "Tesla’s insurance arm accused of ‘egregious delays’ and ‘systemic failures’ by CA regulator",
+      "description": "California's Department of Insurance has been warning Tesla to fix its claims process since 2022, but consumer complaints have skyrocketed anyways.",
+      "url": "https://techcrunch.com/2025/10/04/teslas-insurance-arm-accused-of-egregious-delays-and-systemic-failures-by-ca-regulator/",
+      "publishedAt": "2025-10-04T13:29:23.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sean O'Kane",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3054323",
+      "title": "Bezos predicts that millions will live in space in ‘couple of decades’",
+      "description": "Amazon founder Jeff Bezos made a rare public appearance at Italian Tech Week in Turin on Friday and used the opportunity to predict that millions of",
+      "url": "https://techcrunch.com/2025/10/03/bezos-predicts-that-millions-will-live-in-space-kind-of-soon/",
+      "publishedAt": "2025-10-04T06:38:25.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Connie Loizos",
+      "tags": []
+    }
+  ]
+}
