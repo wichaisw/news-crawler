@@ -3,6 +3,281 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "f4r5s6",
+      "title": "Rule-Based Expert Systems: The Mycin Experiments (1984)",
+      "description": "Score: 46 | Comments: 7 | Posted by mindcrime",
+      "url": "https://www.shortliffe.net/Buchanan-Shortliffe-1984/MYCIN%20Book.htm",
+      "publishedAt": "2025-10-05T23:51:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mindcrime",
+      "tags": []
+    },
+    {
+      "id": "k6qgp4",
+      "title": "Estimating AI energy use",
+      "description": "Score: 59 | Comments: 47 | Posted by pseudolus",
+      "url": "https://spectrum.ieee.org/ai-energy-use",
+      "publishedAt": "2025-10-05T23:00:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pseudolus",
+      "tags": []
+    },
+    {
+      "id": "1l184u",
+      "title": "Germany outfitted half a million balconies with solar panels",
+      "description": "Score: 180 | Comments: 216 | Posted by bilsbie",
+      "url": "https://grist.org/buildings/how-germany-outfitted-half-a-million-balconies-with-solar-panels/",
+      "publishedAt": "2025-10-05T22:18:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bilsbie",
+      "tags": []
+    },
+    {
+      "id": "6z4rvn",
+      "title": "Ken Parker, famed luthier, has died",
+      "description": "Score: 90 | Comments: 26 | Posted by dagmx",
+      "url": "https://kenparkerarchtops.com",
+      "publishedAt": "2025-10-05T22:10:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dagmx",
+      "tags": []
+    },
+    {
+      "id": "xtm3z2",
+      "title": "The death of industrial design and the era of dull electronics",
+      "description": "Score: 129 | Comments: 63 | Posted by CharlesW",
+      "url": "https://hackaday.com/2025/07/23/the-death-of-industrial-design-and-the-era-of-dull-electronics/",
+      "publishedAt": "2025-10-05T20:55:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "CharlesW",
+      "tags": []
+    },
+    {
+      "id": "rosxzj",
+      "title": "Toybox: All-in-one Linux command line",
+      "description": "Score: 65 | Comments: 25 | Posted by welovebunnies",
+      "url": "https://github.com/landley/toybox",
+      "publishedAt": "2025-10-05T19:09:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "welovebunnies",
+      "tags": []
+    },
+    {
+      "id": "13mamh",
+      "title": "Gliding behind existing aircraft, Aerocart cargo gliders",
+      "description": "Score: 15 | Comments: 1 | Posted by fcpguru",
+      "url": "https://www.aerolane.com/",
+      "publishedAt": "2025-10-05T18:49:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fcpguru",
+      "tags": []
+    },
+    {
+      "id": "5tuxsc",
+      "title": "What GPT-OSS leaks about OpenAI's training data",
+      "description": "Score: 214 | Comments: 50 | Posted by fi-le",
+      "url": "https://fi-le.net/oss/",
+      "publishedAt": "2025-10-05T18:28:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fi-le",
+      "tags": []
+    },
+    {
+      "id": "pobhjs",
+      "title": "Period-Correct Graphics in PC Emulators: Part 1 – The Amiga",
+      "description": "Score: 19 | Comments: 0 | Posted by birdculture",
+      "url": "https://blog.johnnovak.net/2022/04/15/achieving-period-correct-graphics-in-personal-computer-emulators-part-1-the-amiga/",
+      "publishedAt": "2025-10-05T18:16:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "birdculture",
+      "tags": []
+    },
+    {
+      "id": "vk2ssr",
+      "title": "Fire destroys S. Korean government's cloud storage system, no backups availablejoins.com",
+      "description": "Score: 1290 | Comments: 568 | Posted by ksec",
+      "url": "https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936",
+      "publishedAt": "2025-10-05T18:10:04.905Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ksec",
+      "tags": []
+    },
+    {
+      "id": "if74yz",
+      "title": "Callbacks in C++ using template functors (1994)",
+      "description": "Score: 43 | Comments: 34 | Posted by zengid",
+      "url": "http://www.tutok.sk/fastgl/callback.html",
+      "publishedAt": "2025-10-05T17:50:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zengid",
+      "tags": []
+    },
+    {
+      "id": "yr20jg",
+      "title": "Show HN: ut – Rust based CLI utilities for devs and IT",
+      "description": "Score: 136 | Comments: 39 | Posted by ksdme9",
+      "url": "https://github.com/ksdme/ut",
+      "publishedAt": "2025-10-05T17:36:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ksdme9",
+      "tags": []
+    },
+    {
+      "id": "vk2ssr",
+      "title": "Fire destroys S. Korean government's cloud storage system, no backups available",
+      "description": "Score: 1290 | Comments: 568 | Posted by ksec",
+      "url": "https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936",
+      "publishedAt": "2025-10-05T17:20:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ksec",
+      "tags": []
+    },
+    {
+      "id": "z5kdqa",
+      "title": "Implicit Actor Critic Coupling via a Supervised Learning Framework for RLVR",
+      "description": "Score: 38 | Comments: 9 | Posted by getnormality",
+      "url": "https://arxiv.org/abs/2509.02522",
+      "publishedAt": "2025-10-05T17:01:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "getnormality",
+      "tags": []
+    },
+    {
+      "id": "9q9qur",
+      "title": "What Julia has that Rust desperately needs",
+      "description": "Score: 28 | Comments: 3 | Posted by jdiaz97",
+      "url": "https://jdiaz97.github.io/blog/what-julia-has-that-rust-needs/",
+      "publishedAt": "2025-10-05T16:14:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jdiaz97",
+      "tags": []
+    },
+    {
+      "id": "kyoq7s",
+      "title": "BYD builds fastest car",
+      "description": "Score: 180 | Comments: 142 | Posted by trextrex",
+      "url": "https://www.autotrader.co.uk/content/news/byd-builds-world-s-fastest-car",
+      "publishedAt": "2025-10-05T15:54:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "trextrex",
+      "tags": []
+    },
+    {
+      "id": "ettv3e",
+      "title": "NFS at 40 – Remembering the Sun Microsystems Network File System",
+      "description": "Score: 116 | Comments: 86 | Posted by signa11",
+      "url": "https://nfs40.online/",
+      "publishedAt": "2025-10-05T15:49:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "signa11",
+      "tags": []
+    },
+    {
+      "id": "i2eaht",
+      "title": "Show HN: ASCII Drawing Board",
+      "description": "Score: 87 | Comments: 33 | Posted by delopsu",
+      "url": "https://www.delopsu.com/draw.html",
+      "publishedAt": "2025-10-05T15:36:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "delopsu",
+      "tags": []
+    },
+    {
+      "id": "vr3foy",
+      "title": "NIST's DeepSeek \"evaluation\" is a hit piece",
+      "description": "Score: 246 | Comments: 142 | Posted by aratahikaru5",
+      "url": "https://erichartford.com/the-demonization-of-deepseek",
+      "publishedAt": "2025-10-05T15:12:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "aratahikaru5",
+      "tags": []
+    },
+    {
+      "id": "h75j5j",
+      "title": "The QNX Operating System",
+      "description": "Score: 205 | Comments: 65 | Posted by BirAdam",
+      "url": "https://www.abortretry.fail/p/the-qnx-operating-system",
+      "publishedAt": "2025-10-05T14:47:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "BirAdam",
+      "tags": []
+    },
+    {
+      "id": "lizee5",
+      "title": "86 GB/s bitpacking with ARM SIMD (single thread)",
+      "description": "Score: 105 | Comments: 24 | Posted by ashtonsix",
+      "url": "https://github.com/ashtonsix/perf-portfolio/tree/main/bytepack",
+      "publishedAt": "2025-10-05T12:27:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ashtonsix",
+      "tags": []
+    },
+    {
+      "id": "4nfh9d",
+      "title": "Beginner Guide to VPS Hetzner and Coolify",
+      "description": "Score: 274 | Comments: 134 | Posted by itsbrgv",
+      "url": "https://bhargav.dev/blog/VPS_Setup_and_Security_Checklist_A_Complete_Self_Hosting_Guide",
+      "publishedAt": "2025-10-05T10:39:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "itsbrgv",
+      "tags": []
+    },
+    {
+      "id": "9w63by",
+      "title": "Self hosting 10TB in S3 on a framework laptop and disks",
+      "description": "Score: 206 | Comments: 95 | Posted by ddxv",
+      "url": "https://jamesoclaire.com/2025/10/05/self-hosting-10tb-in-s3-on-a-framework-laptop-disks/",
+      "publishedAt": "2025-10-05T09:51:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ddxv",
+      "tags": []
+    },
+    {
+      "id": "v3x1q9",
+      "title": "Personal data storage is an idea whose time has come",
+      "description": "Score: 366 | Comments: 248 | Posted by erlend_sh",
+      "url": "https://blog.muni.town/personal-data-storage-idea/",
+      "publishedAt": "2025-10-05T09:07:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "erlend_sh",
+      "tags": []
+    },
+    {
+      "id": "yd168m",
+      "title": "Social Cooling (2017)",
+      "description": "Score: 398 | Comments: 221 | Posted by laurex",
+      "url": "https://www.socialcooling.com/",
+      "publishedAt": "2025-10-05T06:01:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "laurex",
+      "tags": []
+    },
+    {
       "id": "rrr05b",
       "title": "Way past its prime: how did Amazon get so rubbish?",
       "description": "Score: 20 | Comments: 6 | Posted by sandebert",
@@ -14,6 +289,17 @@
       "tags": []
     },
     {
+      "id": "hmht15",
+      "title": "Managing context on the Claude Developer Platform",
+      "description": "Score: 203 | Comments: 83 | Posted by benzguo",
+      "url": "https://www.anthropic.com/news/context-management",
+      "publishedAt": "2025-10-05T05:20:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "benzguo",
+      "tags": []
+    },
+    {
       "id": "ehyvum",
       "title": "Scientists debunk claims of seed oil health risks",
       "description": "Score: 6 | Comments: 0 | Posted by thelastgallon",
@@ -22,6 +308,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "thelastgallon",
+      "tags": []
+    },
+    {
+      "id": "ducm89",
+      "title": "Ambigr.am",
+      "description": "Score: 267 | Comments: 37 | Posted by surprisetalk",
+      "url": "https://ambigr.am/hall-of-fame",
+      "publishedAt": "2025-10-05T04:11:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
       "tags": []
     },
     {

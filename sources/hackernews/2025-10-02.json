@@ -36,6 +36,28 @@
       "tags": []
     },
     {
+      "id": "v22txi",
+      "title": "Joint Book Review: Class, by Paul Fussell",
+      "description": "Score: 6 | Comments: 1 | Posted by jger15",
+      "url": "https://www.thepsmiths.com/p/joint-review-class-by-paul-fussell",
+      "publishedAt": "2025-10-02T21:10:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jger15",
+      "tags": []
+    },
+    {
+      "id": "xbczxl",
+      "title": "Catalyst evolution reveals the unsung heroes in industrial ammonia production",
+      "description": "Score: 5 | Comments: 0 | Posted by PaulHoule",
+      "url": "https://phys.org/news/2025-09-catalyst-evolution-reveals-unsung-heroes.html",
+      "publishedAt": "2025-10-02T20:47:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "PaulHoule",
+      "tags": []
+    },
+    {
       "id": "590317",
       "title": "Where it's at://",
       "description": "Score: 182 | Comments: 90 | Posted by steveklabnik",
@@ -44,6 +66,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "steveklabnik",
+      "tags": []
+    },
+    {
+      "id": "hw15vt",
+      "title": "Why are hyperlinks blue? (2021)",
+      "description": "Score: 89 | Comments: 54 | Posted by redbell",
+      "url": "https://blog.mozilla.org/en/internet-culture/deep-dives/why-are-hyperlinks-blue/",
+      "publishedAt": "2025-10-02T20:13:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "redbell",
       "tags": []
     },
     {
@@ -124,6 +157,17 @@
       "tags": []
     },
     {
+      "id": "87aop2",
+      "title": "Comparing a RISC and a CISC with similar hardware organization (1991)",
+      "description": "Score: 72 | Comments: 56 | Posted by luu",
+      "url": "https://dl.acm.org/doi/pdf/10.1145/106972.107003",
+      "publishedAt": "2025-10-02T17:12:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "luu",
+      "tags": []
+    },
+    {
       "id": "qladef",
       "title": "Why I chose Lua for this blog",
       "description": "Score: 142 | Comments: 92 | Posted by nairadithya",
@@ -190,6 +234,17 @@
       "tags": []
     },
     {
+      "id": "8o6plh",
+      "title": "Intro to BirdNET-Pi: Eavesdropping on my feathered friends",
+      "description": "Score: 88 | Comments: 16 | Posted by zdw",
+      "url": "https://hannahilea.com/blog/birdnet-intro/",
+      "publishedAt": "2025-10-02T14:49:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
       "id": "y9wgf0",
       "title": "N8n added native persistent storage with DataTables",
       "description": "Score: 146 | Comments: 71 | Posted by XCSme",
@@ -212,6 +267,17 @@
       "tags": []
     },
     {
+      "id": "82xvby",
+      "title": "Magic Wormhole: Get things from one computer to another, safely",
+      "description": "Score: 92 | Comments: 27 | Posted by xd1936",
+      "url": "https://magic-wormhole.readthedocs.io/en/latest/welcome.html",
+      "publishedAt": "2025-10-02T12:25:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "xd1936",
+      "tags": []
+    },
+    {
       "id": "jnl54y",
       "title": "Show HN: The Little Book of C",
       "description": "Score: 29 | Comments: 4 | Posted by tamnd",
@@ -220,6 +286,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "tamnd",
+      "tags": []
+    },
+    {
+      "id": "1hnyb",
+      "title": "The G in GPU is for Graphics damnit",
+      "description": "Score: 117 | Comments: 28 | Posted by sebg",
+      "url": "https://ut21.github.io/blog/triton.html",
+      "publishedAt": "2025-10-02T11:46:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sebg",
       "tags": []
     },
     {
@@ -253,6 +330,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "bschne",
+      "tags": []
+    },
+    {
+      "id": "te91zw",
+      "title": "Sonic Robo Blast 2: 25 year old continuously developed DOOM engine-based fangame",
+      "description": "Score: 103 | Comments: 12 | Posted by __grob",
+      "url": "https://www.srb2.org/",
+      "publishedAt": "2025-10-02T07:50:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "__grob",
       "tags": []
     },
     {

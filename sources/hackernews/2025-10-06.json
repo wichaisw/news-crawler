@@ -1,0 +1,105 @@
+{
+  "date": "2025-10-06",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "hzxb42",
+      "title": "CHERI with a Linux on Top",
+      "description": "Score: 8 | Comments: 1 | Posted by pykello",
+      "url": "https://lwn.net/Articles/1037974/",
+      "publishedAt": "2025-10-06T04:25:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pykello",
+      "tags": []
+    },
+    {
+      "id": "ghdsxu",
+      "title": "1 Trillion Web Pages Archived",
+      "description": "Score: 111 | Comments: 11 | Posted by pabs3",
+      "url": "https://blog.archive.org/trillion/",
+      "publishedAt": "2025-10-06T03:48:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pabs3",
+      "tags": []
+    },
+    {
+      "id": "o5y0nq",
+      "title": "Find Nearby Automated License Plate Readers (ALPR)",
+      "description": "Score: 34 | Comments: 2 | Posted by walterbell",
+      "url": "https://deflock.me/",
+      "publishedAt": "2025-10-06T03:42:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "walterbell",
+      "tags": []
+    },
+    {
+      "id": "urgcv0",
+      "title": "The Server in the Closet",
+      "description": "Score: 14 | Comments: 0 | Posted by freediver",
+      "url": "https://robertgreiner.com/the-server-in-the-closet/",
+      "publishedAt": "2025-10-06T03:35:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "freediver",
+      "tags": []
+    },
+    {
+      "id": "j4edqq",
+      "title": "Building Effective Text-to-3D AI Agents: A Hybrid Architecture Approach",
+      "description": "Score: 11 | Comments: 2 | Posted by addy999",
+      "url": "https://www.addy.rocks/blog/text-to-3d-agent-hybrid-architecture",
+      "publishedAt": "2025-10-06T02:57:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "addy999",
+      "tags": []
+    },
+    {
+      "id": "rkazlj",
+      "title": "Revocation Confusion",
+      "description": "Score: 11 | Comments: 3 | Posted by nullpxl",
+      "url": "https://nullpxl.com/post/revocation-confusion/",
+      "publishedAt": "2025-10-06T02:30:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nullpxl",
+      "tags": []
+    },
+    {
+      "id": "vgydrp",
+      "title": "Why do LLMs freak out over the seahorse emoji?",
+      "description": "Score: 172 | Comments: 70 | Posted by nyxt",
+      "url": "https://vgel.me/posts/seahorse/",
+      "publishedAt": "2025-10-06T02:20:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nyxt",
+      "tags": []
+    },
+    {
+      "id": "7m4lbi",
+      "title": "Should I choose Ada, SPARK, or Rust over C/C++? (2024)",
+      "description": "Score: 58 | Comments: 54 | Posted by 1vuio0pswjnm7",
+      "url": "https://blog.adacore.com/should-i-choose-ada-spark-or-rust-over-c-c",
+      "publishedAt": "2025-10-06T01:35:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "1vuio0pswjnm7",
+      "tags": []
+    },
+    {
+      "id": "upx7vl",
+      "title": "Mic-E-Mouse – Covert eavesdropping through computer mice",
+      "description": "Score: 53 | Comments: 9 | Posted by davekeck",
+      "url": "https://sites.google.com/view/mic-e-mouse",
+      "publishedAt": "2025-10-06T01:34:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "davekeck",
+      "tags": []
+    }
+  ]
+}
