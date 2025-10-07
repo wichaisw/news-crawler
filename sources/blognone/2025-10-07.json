@@ -1,0 +1,84 @@
+{
+  "date": "2025-10-07",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "148429 at https://www.blognone.com",
+      "title": "อวสาน 4G? เอกสารภายใน T-Mobile เตรียมย้ายคลื่น LTE ไปทำ 5G แทนแล้ว",
+      "description": "อวสาน 4G? เอกสารภายใน T-Mobile เตรียมย้ายคลื่น LTE ไปทำ 5G แทนแล้ว Body เว็บข่าวสายโทรคมนาคม The Mobile Report ของสหรัฐ",
+      "url": "https://www.blognone.com/node/148429",
+      "publishedAt": "2025-10-07T03:49:22.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148428 at https://www.blognone.com",
+      "title": "Anthropic ได้งานใหญ่ Deloitte นำ Claude ไปใช้กับพนักงาน 470,000 คนทั่วโลก",
+      "description": "Anthropic ได้งานใหญ่ Deloitte นำ Claude ไปใช้กับพนักงาน 470,000 คนทั่วโลก Body Deloitte บริษัทบัญชีและที่ปรึกษารายใหญ่ของโลก ประกาศเลือกใช้โมเดล",
+      "url": "https://www.blognone.com/node/148428",
+      "publishedAt": "2025-10-07T03:28:52.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148427 at https://www.blognone.com",
+      "title": "Instagram เตรียมแจกรางวัล Rings ให้แหวนทองสำหรับ Creator ระดับท็อปของโลก",
+      "description": "Instagram เตรียมแจกรางวัล Rings ให้แหวนทองสำหรับ Creator ระดับท็อปของโลก Body ผู้ใช้งาน YouTube อาจคุ้นเคยกับเจ้าของช่องดังๆ ได้ รางวัลโล่ Creator",
+      "url": "https://www.blognone.com/node/148427",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2025/2025-10/ig-rings-badge.webp",
+      "publishedAt": "2025-10-07T03:08:19.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148426 at https://www.blognone.com",
+      "title": "OpenAI เพิ่มความสามารถใหม่ Codex: เชื่อมต่อ Slack, ใช้ Agent เดียวกับ Codex CLI",
+      "description": "OpenAI เพิ่มความสามารถใหม่ Codex: เชื่อมต่อ Slack, ใช้ Agent เดียวกับ Codex CLI Body OpenAI ประกาศว่า Codex เครื่องมือช่วยเขียนโค้ด พลัง AI",
+      "url": "https://www.blognone.com/node/148426",
+      "publishedAt": "2025-10-07T01:22:46.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148425 at https://www.blognone.com",
+      "title": "ลาก่อน n8n, OpenAI เปิดตัว Agent Builder ออกแบบ Agent โดยไม่ต้องเขียนโค้ด ใช้ฟรีคิดแต่ค่า API",
+      "description": "ลาก่อน n8n, OpenAI เปิดตัว Agent Builder ออกแบบ Agent โดยไม่ต้องเขียนโค้ด ใช้ฟรีคิดแต่ค่า API Body OpenAI เปิดบริการ Agent Builder บริการออกแบบ",
+      "url": "https://www.blognone.com/node/148425",
+      "publishedAt": "2025-10-07T01:15:51.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148424 at https://www.blognone.com",
+      "title": "OpenAI เปิดตัว AgentKit ชุดเครื่องมือสร้าง AI Agent สำหรับลูกค้าองค์กรแบบครบวงจร",
+      "description": "OpenAI เปิดตัว AgentKit ชุดเครื่องมือสร้าง AI Agent สำหรับลูกค้าองค์กรแบบครบวงจร Body OpenAI เปิดตัว AgentKit ชุดเครื่องมือสำหรับสร้างและดีพลอย AI",
+      "url": "https://www.blognone.com/node/148424",
+      "publishedAt": "2025-10-07T01:10:48.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148423 at https://www.blognone.com",
+      "title": "เปิดตัว Apps in ChatGPT ยุคสมัยใหม่ของ Apps เรียกและรันผ่าน ChatGPT",
+      "description": "เปิดตัว Apps in ChatGPT ยุคสมัยใหม่ของ Apps เรียกและรันผ่าน ChatGPT Body OpenAI เปิดตัว Apps in ChatGPT ซึ่งบอกว่าเป็นยุคใหม่ของแอป",
+      "url": "https://www.blognone.com/node/148423",
+      "publishedAt": "2025-10-07T00:13:06.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}

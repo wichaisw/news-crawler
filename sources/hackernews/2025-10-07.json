@@ -1,0 +1,116 @@
+{
+  "date": "2025-10-07",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "9rtnjv",
+      "title": "Learning a foreign language–before you're born",
+      "description": "Score: 6 | Comments: 1 | Posted by XzetaU8",
+      "url": "https://nouvelles.umontreal.ca/en/article/2025/10/03/learning-a-foreign-language-before-you-re-born",
+      "publishedAt": "2025-10-07T05:43:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "XzetaU8",
+      "tags": []
+    },
+    {
+      "id": "rxitmh",
+      "title": "Solar energy is now the world's cheapest source of power, study finds",
+      "description": "Score: 6 | Comments: 2 | Posted by geox",
+      "url": "https://techxplore.com/news/2025-10-solar-energy-world-cheapest-source.html",
+      "publishedAt": "2025-10-07T05:26:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "geox",
+      "tags": []
+    },
+    {
+      "id": "efnrs3",
+      "title": "RIAA: Telegram and Discord Are Notorious Hubs for Pre-Release Music Piracy",
+      "description": "Score: 11 | Comments: 1 | Posted by gslin",
+      "url": "https://torrentfreak.com/riaa-telegram-discord-are-notorious-hubs-for-pre-release-music-piracy/",
+      "publishedAt": "2025-10-07T04:39:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gslin",
+      "tags": []
+    },
+    {
+      "id": "epsgld",
+      "title": "California law forces Netflix, Hulu to turn down ad volumes",
+      "description": "Score: 29 | Comments: 1 | Posted by c420",
+      "url": "https://www.politico.com/news/2025/10/06/dial-it-down-california-forces-netflix-hulu-to-lower-ad-volume-00595663",
+      "publishedAt": "2025-10-07T04:03:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "c420",
+      "tags": []
+    },
+    {
+      "id": "pnt2a7",
+      "title": "Pdoc – Generate API documentation for Python projects",
+      "description": "Score: 39 | Comments: 5 | Posted by joshdavham",
+      "url": "https://pdoc.dev/",
+      "publishedAt": "2025-10-07T03:40:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "joshdavham",
+      "tags": []
+    },
+    {
+      "id": "lx5bsk",
+      "title": "Show HN: I made a free tool that tells you the hairstyle that suit you the best",
+      "description": "Score: 4 | Comments: 0 | Posted by pabloschz",
+      "url": "https://haircutai.app",
+      "publishedAt": "2025-10-07T03:31:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pabloschz",
+      "tags": []
+    },
+    {
+      "id": "rk0y48",
+      "title": "Origami Patterns Solve a Major Physics Riddle",
+      "description": "Score: 30 | Comments: 4 | Posted by pseudolus",
+      "url": "https://www.quantamagazine.org/origami-patterns-solve-a-major-physics-riddle-20251006/",
+      "publishedAt": "2025-10-07T01:34:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pseudolus",
+      "tags": []
+    },
+    {
+      "id": "4frez",
+      "title": "Hardware Stockholm Syndrome",
+      "description": "Score: 20 | Comments: 5 | Posted by rajiv_abraham",
+      "url": "https://programmingsimplicity.substack.com/p/hardware-stockholm-syndrome",
+      "publishedAt": "2025-10-07T00:46:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rajiv_abraham",
+      "tags": []
+    },
+    {
+      "id": "irzz7o",
+      "title": "Analytical review of depression and suicidality from finasteride",
+      "description": "Score: 58 | Comments: 68 | Posted by gnabgib",
+      "url": "https://www.psychiatrist.com/jcp/analytical-review-depression-suicidality-finasteride/",
+      "publishedAt": "2025-10-07T00:11:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gnabgib",
+      "tags": []
+    },
+    {
+      "id": "51oy1s",
+      "title": "The least amount of CSS for a decent looking site (2023)thecascade.dev",
+      "description": "Score: 234 | Comments: 71 | Posted by loughnane",
+      "url": "https://thecascade.dev/article/least-amount-of-css/",
+      "publishedAt": "2025-10-07T00:09:31.569Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "loughnane",
+      "tags": []
+    }
+  ]
+}

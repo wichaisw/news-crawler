@@ -146,6 +146,17 @@
       "tags": []
     },
     {
+      "id": "fjct22",
+      "title": "Cuckoo hashing improves SIMD hash tables (and other hash table tradeoffs)",
+      "description": "Score: 61 | Comments: 0 | Posted by ibraheemdev",
+      "url": "https://reiner.org/cuckoo-hashing",
+      "publishedAt": "2025-10-04T18:45:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibraheemdev",
+      "tags": []
+    },
+    {
       "id": "bx66da",
       "title": "ProofOfThought: LLM-based reasoning using Z3 theorem proving",
       "description": "Score: 233 | Comments: 121 | Posted by barthelomew",
@@ -344,6 +355,17 @@
       "tags": []
     },
     {
+      "id": "oaie54",
+      "title": "Orcas are bringing humans gifts",
+      "description": "Score: 143 | Comments: 91 | Posted by wslh",
+      "url": "https://www.newscientist.com/article/2486216-orcas-are-bringing-humans-gifts-what-does-it-mean/",
+      "publishedAt": "2025-10-04T01:00:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wslh",
+      "tags": []
+    },
+    {
       "id": "pingpn",
       "title": "Track which Electron apps slow down macOS 26 Tahoe",
       "description": "Score: 73 | Comments: 49 | Posted by mikamika83",
@@ -385,6 +407,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "amitav1",
+      "tags": []
+    },
+    {
+      "id": "thyvq7",
+      "title": "Who owns Express VPN, Nord, Surfshark? VPN relationships explained (2024)",
+      "description": "Score: 326 | Comments: 212 | Posted by walterbell",
+      "url": "https://windscribe.com/blog/the-vpn-relationship-map/",
+      "publishedAt": "2025-10-04T00:30:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "walterbell",
       "tags": []
     },
     {
