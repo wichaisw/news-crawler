@@ -179,6 +179,17 @@
       "tags": []
     },
     {
+      "id": "9wbgl3",
+      "title": "Show HN: I'm building a browser for reverse engineers",
+      "description": "Score: 218 | Comments: 31 | Posted by nullpt_rs",
+      "url": "https://nullpt.rs/reverse-engineering-browser",
+      "publishedAt": "2025-10-06T15:32:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nullpt_rs",
+      "tags": []
+    },
+    {
       "id": "mec2hz",
       "title": "Mise: Monorepo Tasks",
       "description": "Score: 313 | Comments: 66 | Posted by jdxcode",
@@ -212,6 +223,28 @@
       "tags": []
     },
     {
+      "id": "d686l",
+      "title": "An illustrated introduction to linear algebra",
+      "description": "Score: 304 | Comments: 54 | Posted by egonschiele",
+      "url": "https://www.ducktyped.org/p/an-illustrated-introduction-to-linear",
+      "publishedAt": "2025-10-06T12:38:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "egonschiele",
+      "tags": []
+    },
+    {
+      "id": "odhni4",
+      "title": "Chess.com regional pricing: A case study",
+      "description": "Score: 106 | Comments: 96 | Posted by mobeigi",
+      "url": "https://mobeigi.com/blog/economics/chesscom-regional-pricing/",
+      "publishedAt": "2025-10-06T12:29:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mobeigi",
+      "tags": []
+    },
+    {
       "id": "qb7mjv",
       "title": "AMD signs AI chip-supply deal with OpenAI, gives it option to take a 10% stake",
       "description": "Score: 399 | Comments: 319 | Posted by chillax",
@@ -223,6 +256,17 @@
       "tags": []
     },
     {
+      "id": "fo3efd",
+      "title": "Mathematicians discover prime number pattern in fractal chaos",
+      "description": "Score: 21 | Comments: 2 | Posted by baruchel",
+      "url": "https://www.scientificamerican.com/article/mathematicians-discover-prime-number-pattern-in-fractal-chaos/",
+      "publishedAt": "2025-10-06T12:02:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "baruchel",
+      "tags": []
+    },
+    {
       "id": "ub26l6",
       "title": "Show HN: I've build a platform for writing technical/scientific documents",
       "description": "Score: 48 | Comments: 25 | Posted by WolfOliver",
@@ -231,6 +275,39 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "WolfOliver",
+      "tags": []
+    },
+    {
+      "id": "hqpq28",
+      "title": "Functional Threading \"Macros\"",
+      "description": "Score: 63 | Comments: 4 | Posted by GarethX",
+      "url": "https://aartaka.me/threading.html",
+      "publishedAt": "2025-10-06T10:46:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "GarethX",
+      "tags": []
+    },
+    {
+      "id": "xrwjyf",
+      "title": "A terminal command that tells you if your USB-C cable is bad",
+      "description": "Score: 58 | Comments: 32 | Posted by freetonik",
+      "url": "https://kau.sh/blog/usbi/",
+      "publishedAt": "2025-10-06T09:06:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "freetonik",
+      "tags": []
+    },
+    {
+      "id": "diwsr6",
+      "title": "Global Village Construction Set",
+      "description": "Score: 113 | Comments: 25 | Posted by jacquesm",
+      "url": "https://www.opensourceecology.org/gvcs/",
+      "publishedAt": "2025-10-06T08:36:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jacquesm",
       "tags": []
     },
     {

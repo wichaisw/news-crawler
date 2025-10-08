@@ -25,6 +25,28 @@
       "tags": []
     },
     {
+      "id": "6jkfk0",
+      "title": "Show HN: DidMySettingsChange – A tool that checks changed windows settings",
+      "description": "Score: 32 | Comments: 11 | Posted by nolesapex",
+      "url": "https://github.com/nolesapex/DidMySettingsChange",
+      "publishedAt": "2025-10-05T22:49:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nolesapex",
+      "tags": []
+    },
+    {
+      "id": "5blscz",
+      "title": "Bat: Cat with syntax highlighting",
+      "description": "Score: 167 | Comments: 62 | Posted by Olshansky",
+      "url": "https://github.com/sharkdp/bat",
+      "publishedAt": "2025-10-05T22:21:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Olshansky",
+      "tags": []
+    },
+    {
       "id": "1l184u",
       "title": "Germany outfitted half a million balconies with solar panels",
       "description": "Score: 180 | Comments: 216 | Posted by bilsbie",
@@ -44,6 +66,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "dagmx",
+      "tags": []
+    },
+    {
+      "id": "cj507k",
+      "title": "Packing the world for longest lines of sight",
+      "description": "Score: 57 | Comments: 8 | Posted by tombh",
+      "url": "https://tombh.co.uk/packing-world-lines-of-sight",
+      "publishedAt": "2025-10-05T21:02:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tombh",
       "tags": []
     },
     {
@@ -223,6 +256,17 @@
       "tags": []
     },
     {
+      "id": "l9452r",
+      "title": "Meta launches Hyperscape, technology to turn real-world spaces into VR",
+      "description": "Score: 6 | Comments: 5 | Posted by PaulHoule",
+      "url": "https://techcrunch.com/2025/09/17/meta-launches-hyperscape-technology-to-turn-real-world-spaces-into-vr/",
+      "publishedAt": "2025-10-05T13:42:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "PaulHoule",
+      "tags": []
+    },
+    {
       "id": "lizee5",
       "title": "86 GB/s bitpacking with ARM SIMD (single thread)",
       "description": "Score: 105 | Comments: 24 | Posted by ashtonsix",
@@ -264,6 +308,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "erlend_sh",
+      "tags": []
+    },
+    {
+      "id": "fqp54m",
+      "title": "Adding Stride Scheduling to Xv6",
+      "description": "Score: 15 | Comments: 0 | Posted by todsacerdoti",
+      "url": "https://nickchandler.dev/articles/2025/10/03/lab-report-adding-stride-scheduling-to-xv6/",
+      "publishedAt": "2025-10-05T09:04:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
       "tags": []
     },
     {
@@ -363,6 +418,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jumpocelot",
+      "tags": []
+    },
+    {
+      "id": "gm79hu",
+      "title": "Windows 3.1 in a Windows 95 Virtual Machine (2022)",
+      "description": "Score: 60 | Comments: 28 | Posted by Lammy",
+      "url": "https://www.geoffchappell.com/notes/windows/retro/extrawin.htm",
+      "publishedAt": "2025-10-05T00:20:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Lammy",
       "tags": []
     }
   ]

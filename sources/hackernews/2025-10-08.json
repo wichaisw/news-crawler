@@ -1,0 +1,72 @@
+{
+  "date": "2025-10-08",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "op5oal",
+      "title": "Without data centers, GDP growth was 0.1% in the first half of 2025",
+      "description": "Score: 49 | Comments: 3 | Posted by ryan_j_naughton",
+      "url": "https://fortune.com/2025/10/07/data-centers-gdp-growth-zero-first-half-2025-jason-furman-harvard-economist/",
+      "publishedAt": "2025-10-08T05:13:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ryan_j_naughton",
+      "tags": []
+    },
+    {
+      "id": "z06g8h",
+      "title": "TiVo exiting legacy DVR businessmediaplaynews.com",
+      "description": "Score: 48 | Comments: 30 | Posted by TMWNN",
+      "url": "https://www.mediaplaynews.com/tivo-exiting-legacy-dvr-business/",
+      "publishedAt": "2025-10-08T04:09:36.252Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "TMWNN",
+      "tags": []
+    },
+    {
+      "id": "z06g8h",
+      "title": "TiVo exiting legacy DVR business",
+      "description": "Score: 48 | Comments: 30 | Posted by TMWNN",
+      "url": "https://www.mediaplaynews.com/tivo-exiting-legacy-dvr-business/",
+      "publishedAt": "2025-10-08T03:36:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "TMWNN",
+      "tags": []
+    },
+    {
+      "id": "xj7hl4",
+      "title": "The paradoxical efficient market hypothesis (2024)",
+      "description": "Score: 39 | Comments: 29 | Posted by tkhattra",
+      "url": "https://3quarksdaily.com/3quarksdaily/2024/09/the-paradoxical-efficient-market-hypothesis.html",
+      "publishedAt": "2025-10-08T02:11:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tkhattra",
+      "tags": []
+    },
+    {
+      "id": "1s5z86",
+      "title": "Bob Ross paintings to be auctioned to fund US public broadcasting",
+      "description": "Score: 80 | Comments: 38 | Posted by breve",
+      "url": "https://www.bbc.com/news/articles/cly10275v5zo",
+      "publishedAt": "2025-10-08T02:06:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "breve",
+      "tags": []
+    },
+    {
+      "id": "zfqpc2",
+      "title": "Study of 1M-year-old skull points to earlier origins of modern humans",
+      "description": "Score: 66 | Comments: 61 | Posted by rjknight",
+      "url": "https://www.theguardian.com/science/2025/sep/25/study-of-1m-year-old-skull-points-to-earlier-origins-of-modern-humans",
+      "publishedAt": "2025-10-08T00:17:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rjknight",
+      "tags": []
+    }
+  ]
+}

@@ -69,6 +69,28 @@
       "tags": []
     },
     {
+      "id": "e3ztuq",
+      "title": "How does gradient descent work?",
+      "description": "Score: 230 | Comments: 19 | Posted by jxmorris12",
+      "url": "https://centralflows.github.io/part1/",
+      "publishedAt": "2025-10-03T20:59:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jxmorris12",
+      "tags": []
+    },
+    {
+      "id": "eevwmq",
+      "title": "Reconstruction of Konrad Zuse's Z3 Computer",
+      "description": "Score: 73 | Comments: 17 | Posted by andsoitis",
+      "url": "https://dcmlr.inf.fu-berlin.de/rojas/index.html%3Fp=560.html",
+      "publishedAt": "2025-10-03T20:47:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andsoitis",
+      "tags": []
+    },
+    {
       "id": "fohonu",
       "title": "Interstellar Object 3I/Atlas Passed Mars Last Night",
       "description": "Score: 130 | Comments: 90 | Posted by jandrewrogers",
@@ -275,6 +297,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "simonpure",
+      "tags": []
+    },
+    {
+      "id": "t4o95f",
+      "title": "Who needs Git when you have 1M context windows?",
+      "description": "Score: 155 | Comments: 176 | Posted by alexmolas",
+      "url": "https://www.alexmolas.com/2025/07/28/unexpected-benefit-llm.html",
+      "publishedAt": "2025-10-03T13:37:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "alexmolas",
       "tags": []
     },
     {
