@@ -69,6 +69,17 @@
       "tags": []
     },
     {
+      "id": "abkx8h",
+      "title": "The agony and ecstasy of restoring a Fra Angelico masterpiece",
+      "description": "Score: 6 | Comments: 0 | Posted by bookofjoe",
+      "url": "https://www.ft.com/content/87d4dcfe-f66a-4aad-bba9-394e9fc77c1d",
+      "publishedAt": "2025-10-05T22:06:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bookofjoe",
+      "tags": []
+    },
+    {
       "id": "cj507k",
       "title": "Packing the world for longest lines of sight",
       "description": "Score: 57 | Comments: 8 | Posted by tombh",
@@ -88,6 +99,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "CharlesW",
+      "tags": []
+    },
+    {
+      "id": "vltyld",
+      "title": "Memory access is O(N^[1/3])",
+      "description": "Score: 161 | Comments: 117 | Posted by jxmorris12",
+      "url": "https://vitalik.eth.limo/general/2025/10/05/memory13.html",
+      "publishedAt": "2025-10-05T20:34:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jxmorris12",
       "tags": []
     },
     {
@@ -407,6 +429,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "TheWiggles",
+      "tags": []
+    },
+    {
+      "id": "dgk2uv",
+      "title": "When Curl Works but IntelliJ Doesn't: The Ollama Connection Mystery",
+      "description": "Score: 68 | Comments: 25 | Posted by tymscar",
+      "url": "https://blog.tymscar.com/posts/intellijollamaconnectionmystery/",
+      "publishedAt": "2025-10-05T00:39:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tymscar",
       "tags": []
     },
     {

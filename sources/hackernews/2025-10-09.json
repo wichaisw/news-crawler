@@ -1,0 +1,94 @@
+{
+  "date": "2025-10-09",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "fjww8r",
+      "title": "Drug Rehabs Lure in Patients for Insurance Money–Then Leave Them on the Street",
+      "description": "Score: 3 | Comments: 0 | Posted by JumpCrisscross",
+      "url": "https://www.wsj.com/us-news/drug-rehabs-insurance-curbing-6c56ded6",
+      "publishedAt": "2025-10-09T05:32:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "JumpCrisscross",
+      "tags": []
+    },
+    {
+      "id": "8usns3",
+      "title": "Download all of your GitHub data",
+      "description": "Score: 3 | Comments: 0 | Posted by jcbhmr",
+      "url": "https://github.blog/developer-skills/github/download-your-data/",
+      "publishedAt": "2025-10-09T05:29:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jcbhmr",
+      "tags": []
+    },
+    {
+      "id": "1lu0c0",
+      "title": "Two things LLM coding agents are still bad at",
+      "description": "Score: 3 | Comments: 1 | Posted by kixpanganiban",
+      "url": "https://kix.dev/two-things-llm-coding-agents-are-still-bad-at/",
+      "publishedAt": "2025-10-09T04:33:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kixpanganiban",
+      "tags": []
+    },
+    {
+      "id": "uih7fk",
+      "title": "Oral History of Ken Thompson [video]",
+      "description": "Score: 11 | Comments: 0 | Posted by alphazard",
+      "url": "https://www.youtube.com/watch?v=OmVHkL0IWk4",
+      "publishedAt": "2025-10-09T03:44:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "alphazard",
+      "tags": []
+    },
+    {
+      "id": "tnysut",
+      "title": "California enacts law enabling people to universally opt out of data sharing",
+      "description": "Score: 270 | Comments: 48 | Posted by thm",
+      "url": "https://therecord.media/california-signs-law-opt-out-browsers",
+      "publishedAt": "2025-10-09T02:59:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thm",
+      "tags": []
+    },
+    {
+      "id": "84v8le",
+      "title": "Corruption: When Norms Upstage the Law",
+      "description": "Score: 21 | Comments: 2 | Posted by PaulHoule",
+      "url": "https://knowablemagazine.org/content/article/society/2025/how-corruption-interplays-with-social-norms",
+      "publishedAt": "2025-10-09T02:26:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "PaulHoule",
+      "tags": []
+    },
+    {
+      "id": "hd1f1o",
+      "title": "Designing a Low Latency 10G Ethernet Core (2023)",
+      "description": "Score: 66 | Comments: 9 | Posted by picture",
+      "url": "https://ttchisholm.github.io/ethernet/2023/05/01/designing-10g-eth-1.html",
+      "publishedAt": "2025-10-09T01:17:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "picture",
+      "tags": []
+    },
+    {
+      "id": "lwpo4t",
+      "title": "In-Party Love, Out-Party Hate, and Affective Polarization in Twelve Democracies",
+      "description": "Score: 24 | Comments: 17 | Posted by PaulHoule",
+      "url": "https://academic.oup.com/poq/article/89/2/459/8152104?login=false",
+      "publishedAt": "2025-10-09T01:02:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "PaulHoule",
+      "tags": []
+    }
+  ]
+}

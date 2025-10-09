@@ -113,6 +113,17 @@
       "tags": []
     },
     {
+      "id": "fn1odi",
+      "title": "Talk Python in Production",
+      "description": "Score: 4 | Comments: 1 | Posted by mikeckennedy",
+      "url": "https://talkpython.fm/books/python-in-production",
+      "publishedAt": "2025-10-06T19:59:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mikeckennedy",
+      "tags": []
+    },
+    {
       "id": "2phf4s",
       "title": "Apps SDK",
       "description": "Score: 351 | Comments: 293 | Posted by alvis",
@@ -154,6 +165,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "af78",
+      "tags": []
+    },
+    {
+      "id": "ryjwmh",
+      "title": "Sora, AI Bicycles, and Meta Disruption",
+      "description": "Score: 60 | Comments: 39 | Posted by feross",
+      "url": "https://stratechery.com/2025/sora-ai-bicycles-and-meta-disruption/",
+      "publishedAt": "2025-10-06T16:17:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "feross",
       "tags": []
     },
     {
@@ -256,6 +278,17 @@
       "tags": []
     },
     {
+      "id": "vtspyj",
+      "title": "The Fourth Quadrant of Knowledge",
+      "description": "Score: 34 | Comments: 9 | Posted by speckx",
+      "url": "https://lyonhe.art/the-fourth-quadrant-of-knowledge/",
+      "publishedAt": "2025-10-06T12:16:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
+      "tags": []
+    },
+    {
       "id": "fo3efd",
       "title": "Mathematicians discover prime number pattern in fractal chaos",
       "description": "Score: 21 | Comments: 2 | Posted by baruchel",
@@ -267,6 +300,17 @@
       "tags": []
     },
     {
+      "id": "ht0ujr",
+      "title": "Tire Pressure Sensor IDs: Why, Where and When (2015)",
+      "description": "Score: 45 | Comments: 26 | Posted by walterbell",
+      "url": "https://www.tomorrowstechnician.com/tpms-sensor-ids-why-where-and-when/",
+      "publishedAt": "2025-10-06T11:28:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "walterbell",
+      "tags": []
+    },
+    {
       "id": "ub26l6",
       "title": "Show HN: I've build a platform for writing technical/scientific documents",
       "description": "Score: 48 | Comments: 25 | Posted by WolfOliver",
@@ -275,6 +319,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "WolfOliver",
+      "tags": []
+    },
+    {
+      "id": "18sq9b",
+      "title": "A Global Mining Dataset",
+      "description": "Score: 22 | Comments: 5 | Posted by marklit",
+      "url": "https://tech.marksblogg.com/icmm-mining-data.html",
+      "publishedAt": "2025-10-06T10:48:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "marklit",
       "tags": []
     },
     {
@@ -308,6 +363,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jacquesm",
+      "tags": []
+    },
+    {
+      "id": "xcq3qk",
+      "title": "A History of Large Language Models",
+      "description": "Score: 24 | Comments: 1 | Posted by alexmolas",
+      "url": "https://gregorygundersen.com/blog/2025/10/01/large-language-models/",
+      "publishedAt": "2025-10-06T08:13:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "alexmolas",
       "tags": []
     },
     {
@@ -399,6 +465,17 @@
       "tags": []
     },
     {
+      "id": "oqou3",
+      "title": "Why we need SIMD",
+      "description": "Score: 122 | Comments: 38 | Posted by atan2",
+      "url": "https://parallelprogrammer.substack.com/p/why-we-need-simd-the-real-reason",
+      "publishedAt": "2025-10-06T03:10:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "atan2",
+      "tags": []
+    },
+    {
       "id": "j4edqq",
       "title": "Building Effective Text-to-3D AI Agents: A Hybrid Architecture Approach",
       "description": "Score: 11 | Comments: 2 | Posted by addy999",
@@ -451,6 +528,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "davekeck",
+      "tags": []
+    },
+    {
+      "id": "eecr8r",
+      "title": "Rejected announces from libtorrent clients proxying through SOCKS",
+      "description": "Score: 16 | Comments: 12 | Posted by apsec112",
+      "url": "https://catgirl.online/2025/10/01/libtorrent-socks-woes",
+      "publishedAt": "2025-10-06T00:52:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "apsec112",
       "tags": []
     }
   ]
