@@ -1,0 +1,51 @@
+{
+  "date": "2025-10-10",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "148466 at https://www.blognone.com",
+      "title": "Ubuntu 25.10 ออกแล้ว: GNOME 49, ใช้ Wayland อย่างเดียว, Sudo-rs เขียนด้วย Rust",
+      "description": "Ubuntu 25.10 ออกแล้ว: GNOME 49, ใช้ Wayland อย่างเดียว, Sudo-rs เขียนด้วย Rust Body พบกันทุก 6 เดือน Ubuntu 25.10 Questing Quokka ออกตัวจริงแล้ว",
+      "url": "https://www.blognone.com/node/148466",
+      "publishedAt": "2025-10-10T03:24:05.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148465 at https://www.blognone.com",
+      "title": "โอกาสใหม่ YouTube เปิดให้เจ้าของช่องที่โดนแบน ยื่นขอเปิดช่องใหม่ได้อีกครั้ง",
+      "description": "โอกาสใหม่ YouTube เปิดให้เจ้าของช่องที่โดนแบน ยื่นขอเปิดช่องใหม่ได้อีกครั้ง Body YouTube ปรับนโยบายช่วยเหลือเจ้าของช่องที่เคยโดนแบน",
+      "url": "https://www.blognone.com/node/148465",
+      "publishedAt": "2025-10-10T03:09:10.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148464 at https://www.blognone.com",
+      "title": "อวสานแอพโพสต์รูป? ซีอีโอ Instagram บอกเอง สนใจทำ Instagram TV ใช้ดูคลิปบนทีวี",
+      "description": "อวสานแอพโพสต์รูป? ซีอีโอ Instagram บอกเอง สนใจทำ Instagram TV ใช้ดูคลิปบนทีวี Body ทิศทางของ Instagram ในฐานะแอพโพสต์รูปภาพ",
+      "url": "https://www.blognone.com/node/148464",
+      "publishedAt": "2025-10-10T02:47:19.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148463 at https://www.blognone.com",
+      "title": "อินเทลโชว์ Panther Lake และ Xeon 6+ Clearwater Forest ชิปสองตัวแรกที่ผลิตแบบ 18A",
+      "description": "อินเทลโชว์ Panther Lake และ Xeon 6+ Clearwater Forest ชิปสองตัวแรกที่ผลิตแบบ 18A Body การรอคอยอันยาวนาน (ใกล้) สิ้นสุดลงแล้ว?",
+      "url": "https://www.blognone.com/node/148463",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2025/2025-10/intel-core-ultra-series-3-scaled.jpg",
+      "publishedAt": "2025-10-10T00:16:23.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}

@@ -245,6 +245,17 @@
       "tags": []
     },
     {
+      "id": "wbum4s",
+      "title": "A beginner's guide to deploying LLMs with AMD on Windows using PyTorch",
+      "description": "Score: 53 | Comments: 6 | Posted by beckford",
+      "url": "https://gpuopen.com/learn/pytorch-windows-amd-llm-guide/",
+      "publishedAt": "2025-10-06T13:15:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "beckford",
+      "tags": []
+    },
+    {
       "id": "d686l",
       "title": "An illustrated introduction to linear algebra",
       "description": "Score: 304 | Comments: 54 | Posted by egonschiele",
@@ -256,6 +267,17 @@
       "tags": []
     },
     {
+      "id": "mbw815",
+      "title": "My first contribution to Linux",
+      "description": "Score: 460 | Comments: 58 | Posted by vkoskiv",
+      "url": "https://vkoskiv.com/first-linux-patch/",
+      "publishedAt": "2025-10-06T12:31:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vkoskiv",
+      "tags": []
+    },
+    {
       "id": "odhni4",
       "title": "Chess.com regional pricing: A case study",
       "description": "Score: 106 | Comments: 96 | Posted by mobeigi",
@@ -264,6 +286,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mobeigi",
+      "tags": []
+    },
+    {
+      "id": "7rr500",
+      "title": "Show HN: Turn your OpenAPI spec into negative tests",
+      "description": "Score: 47 | Comments: 1 | Posted by ludovicianul",
+      "url": "https://github.com/dochia-dev/dochia-cli",
+      "publishedAt": "2025-10-06T12:25:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ludovicianul",
       "tags": []
     },
     {
@@ -289,6 +322,17 @@
       "tags": []
     },
     {
+      "id": "gteo58",
+      "title": "How to Create an IoT App in Kotlin Multiplatform",
+      "description": "Score: 14 | Comments: 2 | Posted by submiter_dor",
+      "url": "https://www.thedroidsonroids.com/blog/how-to-create-an-iot-app-in-kotlin-multiplatform",
+      "publishedAt": "2025-10-06T12:05:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "submiter_dor",
+      "tags": []
+    },
+    {
       "id": "fo3efd",
       "title": "Mathematicians discover prime number pattern in fractal chaos",
       "description": "Score: 21 | Comments: 2 | Posted by baruchel",
@@ -300,6 +344,17 @@
       "tags": []
     },
     {
+      "id": "xjz14s",
+      "title": "A case for learning GPU programming with a compute-first mindset",
+      "description": "Score: 51 | Comments: 8 | Posted by todsacerdoti",
+      "url": "https://themaister.net/blog/2025/10/05/a-case-for-learning-gpu-programming-with-a-compute-first-mindset/",
+      "publishedAt": "2025-10-06T11:57:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    },
+    {
       "id": "ht0ujr",
       "title": "Tire Pressure Sensor IDs: Why, Where and When (2015)",
       "description": "Score: 45 | Comments: 26 | Posted by walterbell",
@@ -308,6 +363,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "walterbell",
+      "tags": []
+    },
+    {
+      "id": "maqxv9",
+      "title": "The little Random that could",
+      "description": "Score: 4 | Comments: 0 | Posted by unripe_syntax",
+      "url": "https://blog.julik.nl/2025/10/the-little-random-that-could",
+      "publishedAt": "2025-10-06T11:02:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "unripe_syntax",
       "tags": []
     },
     {
@@ -344,6 +410,39 @@
       "tags": []
     },
     {
+      "id": "642n4b",
+      "title": "Embracing the parallel coding agent lifestyle",
+      "description": "Score: 122 | Comments: 101 | Posted by jbredeche",
+      "url": "https://simonwillison.net/2025/Oct/5/parallel-coding-agents/",
+      "publishedAt": "2025-10-06T10:40:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jbredeche",
+      "tags": []
+    },
+    {
+      "id": "a6c5zj",
+      "title": "ScribeOCR – Web interface for recognizing text, OCR, & creating digitized docs",
+      "description": "Score: 48 | Comments: 2 | Posted by atomicnature",
+      "url": "https://github.com/scribeocr/scribeocr",
+      "publishedAt": "2025-10-06T10:39:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "atomicnature",
+      "tags": []
+    },
+    {
+      "id": "igpdbr",
+      "title": "The Real Reason Endurance Sank",
+      "description": "Score: 9 | Comments: 2 | Posted by vintagedave",
+      "url": "https://arstechnica.com/science/2025/10/heres-the-real-reason-endurance-sank/",
+      "publishedAt": "2025-10-06T10:28:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vintagedave",
+      "tags": []
+    },
+    {
       "id": "xrwjyf",
       "title": "A terminal command that tells you if your USB-C cable is bad",
       "description": "Score: 58 | Comments: 32 | Posted by freetonik",
@@ -352,6 +451,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "freetonik",
+      "tags": []
+    },
+    {
+      "id": "665lss",
+      "title": "Neutts-air – Open-source, on device TTS",
+      "description": "Score: 68 | Comments: 15 | Posted by nopelynopington",
+      "url": "https://github.com/neuphonic/neutts-air",
+      "publishedAt": "2025-10-06T09:06:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nopelynopington",
       "tags": []
     },
     {
@@ -388,6 +498,17 @@
       "tags": []
     },
     {
+      "id": "2iovp8",
+      "title": "Under the hood: Vec<T>",
+      "description": "Score: 163 | Comments: 121 | Posted by r4um",
+      "url": "https://marma.dev/articles/2025/under-the-hood-vec-t",
+      "publishedAt": "2025-10-06T07:38:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "r4um",
+      "tags": []
+    },
+    {
       "id": "oa3iw1",
       "title": "Flightcontrol: A PaaS that deploys to your AWS account",
       "description": "Score: 157 | Comments: 93 | Posted by handfuloflight",
@@ -396,6 +517,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "handfuloflight",
+      "tags": []
+    },
+    {
+      "id": "usasz0",
+      "title": "CPU cache-friendly data structures in Go",
+      "description": "Score: 161 | Comments: 58 | Posted by g0xA52A2A",
+      "url": "https://skoredin.pro/blog/golang/cpu-cache-friendly-go",
+      "publishedAt": "2025-10-06T06:23:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "g0xA52A2A",
       "tags": []
     },
     {

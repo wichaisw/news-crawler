@@ -3,6 +3,73 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "148462 at https://www.blognone.com",
+      "title": "Langflow, n8n, Dify, Make แสดงท่าทีต่อ Agent Builder ของ OpenAI ยืนยันยังแข่งได้",
+      "description": "Langflow, n8n, Dify, Make แสดงท่าทีต่อ Agent Builder ของ OpenAI ยืนยันยังแข่งได้ Body หลังจาก OpenAI เปิดตัว Agent Builder",
+      "url": "https://www.blognone.com/node/148462",
+      "publishedAt": "2025-10-09T15:03:23.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148461 at https://www.blognone.com",
+      "title": "Meta ตั้ง React Foundation เป็นองค์กรใหม่ดูแล React และ React Native",
+      "description": "Meta ตั้ง React Foundation เป็นองค์กรใหม่ดูแล React และ React Native Body Meta ประกาศยกโครงการ React และ React Native รวมถึงโครงการข้างเคียงอื่นๆ",
+      "url": "https://www.blognone.com/node/148461",
+      "publishedAt": "2025-10-09T14:48:38.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148460 at https://www.blognone.com",
+      "title": "กูเกิลเปิดตัว Gemini Enterprise แพลตฟอร์ม AI เวอร์ชันองค์กร เพิ่มฟีเจอร์ควบคุม-สร้าง Agent",
+      "description": "กูเกิลเปิดตัว Gemini Enterprise แพลตฟอร์ม AI เวอร์ชันองค์กร เพิ่มฟีเจอร์ควบคุม-สร้าง Agent Body กูเกิลเปิดตัว Gemini Enterprise บริการแพลตฟอร์ม AI",
+      "url": "https://www.blognone.com/node/148460",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2025/2025-10/gem-enterprise.webp",
+      "publishedAt": "2025-10-09T14:09:59.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148459 at https://www.blognone.com",
+      "title": "Python 3.14 ออกตัวจริง ปิด GIL ได้เป็นทางการ",
+      "description": "Python 3.14 ออกตัวจริง ปิด GIL ได้เป็นทางการ Body Python ออกเวอร์ชั่น 3.14 ประมาณหนึ่งปีหลัง Python 3.13 โดยปรับสถานะฟีเจอร์ปิด Global Interpreter",
+      "url": "https://www.blognone.com/node/148459",
+      "publishedAt": "2025-10-09T07:43:08.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148458 at https://www.blognone.com",
+      "title": "[ลือ] Ubisoft ยกเลิกโครงการ Assassin’s Creed ภาคสงครามกลางเมืองสหรัฐ ตัวเอกเป็นทาสคนดำ",
+      "description": "[ลือ] Ubisoft ยกเลิกโครงการ Assassin’s Creed ภาคสงครามกลางเมืองสหรัฐ ตัวเอกเป็นทาสคนดำ Body ที่ใดมี Ubisoft ที่นั่นมีดราม่า จดหมายข่าว Game File",
+      "url": "https://www.blognone.com/node/148458",
+      "publishedAt": "2025-10-09T07:01:30.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148457 at https://www.blognone.com",
+      "title": "IBM ประกาศใช้ Claude เป็นโมเดลเบื้องหลัง IDE ตัวใหม่พลัง AI",
+      "description": "IBM ประกาศใช้ Claude เป็นโมเดลเบื้องหลัง IDE ตัวใหม่พลัง AI Body IBM ประกาศเลือกใช้โมเดล Claude ของ Anthropic สำหรับซอฟต์แวร์ IDE",
+      "url": "https://www.blognone.com/node/148457",
+      "publishedAt": "2025-10-09T06:31:34.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "148455 at https://www.blognone.com",
       "title": "กูเกิลประกาศ AI Mode ใน Search จะรองรับภาษาไทยแล้ว เปิดใช้งานสัปดาห์หน้า",
       "description": "กูเกิลประกาศ AI Mode ใน Search จะรองรับภาษาไทยแล้ว เปิดใช้งานสัปดาห์หน้า Body กูเกิลประกาศขยายฟีเจอร์ AI Mode ใน Google Search เพิ่มอีก 35 ภาษา",

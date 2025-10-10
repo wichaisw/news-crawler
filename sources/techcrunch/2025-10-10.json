@@ -1,0 +1,28 @@
+{
+  "date": "2025-10-10",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3056342",
+      "title": "Shutdown silver lining? Your IPO review comes after investors buy in",
+      "description": "With 90% of SEC staff furloughed, the agency announced on Thursday that it won't penalize companies for omitting pricing details during the shutdown.",
+      "url": "https://techcrunch.com/2025/10/09/shutdown-silver-lining-your-ipo-review-comes-after-investors-buy-in/",
+      "publishedAt": "2025-10-10T04:40:25.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Connie Loizos",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3056234",
+      "title": "Flipkart’s Super.money quietly partners with troubled Juspay as it expands its reach",
+      "description": "Super.money, the fintech arm of Flipkart, is looking to raise a round of funding at a $1 billion valuation, after securing $50 million from Flipkart",
+      "url": "https://techcrunch.com/2025/10/09/flipkarts-super-money-quietly-partners-with-with-troubled-juspay-as-it-expands-its-reach/",
+      "publishedAt": "2025-10-10T02:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Jagmeet Singh",
+      "tags": []
+    }
+  ]
+}

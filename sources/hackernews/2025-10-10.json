@@ -1,0 +1,127 @@
+{
+  "date": "2025-10-10",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "niyi04",
+      "title": "Reasoning LLMs are wandering solution explorersarxiv.org",
+      "description": "Score: 42 | Comments: 19 | Posted by Surreal4434",
+      "url": "https://arxiv.org/abs/2505.20296",
+      "publishedAt": "2025-10-10T05:09:42.320Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Surreal4434",
+      "tags": []
+    },
+    {
+      "id": "niyi04",
+      "title": "Reasoning LLMs are wandering solution explorers",
+      "description": "Score: 43 | Comments: 20 | Posted by Surreal4434",
+      "url": "https://arxiv.org/abs/2505.20296",
+      "publishedAt": "2025-10-10T04:40:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Surreal4434",
+      "tags": []
+    },
+    {
+      "id": "os5x8o",
+      "title": "I'm turning 41, but I don't feel like celebrating",
+      "description": "Score: 35 | Comments: 25 | Posted by pr337h4m",
+      "url": "https://twitter.com/durov/status/1976420399970701543",
+      "publishedAt": "2025-10-10T04:32:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pr337h4m",
+      "tags": []
+    },
+    {
+      "id": "6h1bzi",
+      "title": "How plausible is self-hosting everything and still have a normal \"digital life\"",
+      "description": "Score: 9 | Comments: 1 | Posted by sipofwater",
+      "url": "https://old.reddit.com/r/selfhosted/comments/1o1brzj/how_plausible_is_selfhosting_everything_and_still/",
+      "publishedAt": "2025-10-10T04:27:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sipofwater",
+      "tags": []
+    },
+    {
+      "id": "1ner7t",
+      "title": "My approach to building large technical projects (2023)",
+      "description": "Score: 45 | Comments: 5 | Posted by mad2021",
+      "url": "https://mitchellh.com/writing/building-large-technical-projects",
+      "publishedAt": "2025-10-10T03:45:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mad2021",
+      "tags": []
+    },
+    {
+      "id": "fodity",
+      "title": "Love C, Hate C: Web Framework Memory Problems",
+      "description": "Score: 19 | Comments: 6 | Posted by OneLessThing",
+      "url": "https://alew.is/lava.html",
+      "publishedAt": "2025-10-10T03:39:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "OneLessThing",
+      "tags": []
+    },
+    {
+      "id": "qidapj",
+      "title": "The RubyGems \"Security Incident\"",
+      "description": "Score: 45 | Comments: 3 | Posted by semiquaver",
+      "url": "https://andre.arko.net/2025/10/09/the-rubygems-security-incident/",
+      "publishedAt": "2025-10-10T03:30:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "semiquaver",
+      "tags": []
+    },
+    {
+      "id": "i0gfct",
+      "title": "Managing Encrypted Filesystems with dirlock",
+      "description": "Score: 7 | Comments: 0 | Posted by pykello",
+      "url": "https://lwn.net/Articles/1038859/",
+      "publishedAt": "2025-10-10T03:12:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pykello",
+      "tags": []
+    },
+    {
+      "id": "jjfnjy",
+      "title": "Vexing Exceptions",
+      "description": "Score: 4 | Comments: 0 | Posted by CGamesPlay",
+      "url": "https://ericlippert.com/2008/09/10/vexing-exceptions/",
+      "publishedAt": "2025-10-10T02:54:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "CGamesPlay",
+      "tags": []
+    },
+    {
+      "id": "xdh4ju",
+      "title": "Open-Source Agentic AI",
+      "description": "Score: 29 | Comments: 3 | Posted by Johnson8053",
+      "url": "https://github.com/AFK-surf/open-agent",
+      "publishedAt": "2025-10-10T02:30:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Johnson8053",
+      "tags": []
+    },
+    {
+      "id": "c1ps0g",
+      "title": "Intent Weaving for AI Coding Agents",
+      "description": "Score: 18 | Comments: 6 | Posted by igorpcosta",
+      "url": "https://www.autohand.ai/updates/intent-weaving",
+      "publishedAt": "2025-10-10T02:21:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "igorpcosta",
+      "tags": []
+    }
+  ]
+}
