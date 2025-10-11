@@ -1,0 +1,50 @@
+{
+  "date": "2025-10-11",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "w0tznw",
+      "title": "All fluffed up: why modern balls spark injury worries and frustration in tennis",
+      "description": "Score: 7 | Comments: 0 | Posted by ggm",
+      "url": "https://www.theguardian.com/sport/2025/oct/10/all-fluffed-up-why-modern-balls-are-causing-frustration-and-injury-in-tennis",
+      "publishedAt": "2025-10-11T04:42:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ggm",
+      "tags": []
+    },
+    {
+      "id": "90y108",
+      "title": "What Is Going on with All This Radioactive Shrimp?",
+      "description": "Score: 10 | Comments: 1 | Posted by riffraff",
+      "url": "https://www.consumerreports.org/health/food-safety/radioactive-shrimp-explained-a5493175857/",
+      "publishedAt": "2025-10-11T04:31:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "riffraff",
+      "tags": []
+    },
+    {
+      "id": "ptj1yt",
+      "title": "Naked mole rats reveal genetic secret to long life",
+      "description": "Score: 7 | Comments: 0 | Posted by wahvinci",
+      "url": "https://www.bbc.com/news/articles/cz7rxy21lxwo",
+      "publishedAt": "2025-10-11T04:20:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wahvinci",
+      "tags": []
+    },
+    {
+      "id": "5ayawk",
+      "title": "How hard do you have to hit a chicken to cook it? (2020)",
+      "description": "Score: 23 | Comments: 6 | Posted by jxmorris12",
+      "url": "https://james-simon.github.io/blog/chicken-cooking/",
+      "publishedAt": "2025-10-11T02:06:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jxmorris12",
+      "tags": []
+    }
+  ]
+}

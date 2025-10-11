@@ -1,0 +1,28 @@
+{
+  "date": "2025-10-11",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3056619",
+      "title": "The fixer’s dilemma: Chris Lehane and OpenAI’s impossible mission",
+      "description": "The company’s Sora problem is really at the root of everything else.",
+      "url": "https://techcrunch.com/2025/10/10/the-fixers-dilemma-chris-lehane-and-openais-impossible-mission/",
+      "publishedAt": "2025-10-11T06:04:26.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Connie Loizos",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3056615",
+      "title": "Salesforce CEO says National Guard should patrol San Francisco — stunning his own PR team",
+      "description": "Though Benioff's shift mirrors Silicon Valley's broader accommodation of Trump, the exchange offered a rare glimpse of just how far that",
+      "url": "https://techcrunch.com/2025/10/10/salesforce-ceo-says-national-guard-should-patrol-san-francisco-stunning-his-own-pr-team/",
+      "publishedAt": "2025-10-11T00:37:25.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Connie Loizos",
+      "tags": []
+    }
+  ]
+}

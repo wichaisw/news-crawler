@@ -168,6 +168,17 @@
       "tags": []
     },
     {
+      "id": "cekalk",
+      "title": "Show HN: A Digital Twin of my coffee roaster that runs in the browser",
+      "description": "Score: 80 | Comments: 27 | Posted by jvkoch",
+      "url": "https://autoroaster.com/",
+      "publishedAt": "2025-10-06T16:31:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jvkoch",
+      "tags": []
+    },
+    {
       "id": "ryjwmh",
       "title": "Sora, AI Bicycles, and Meta Disruption",
       "description": "Score: 60 | Comments: 39 | Posted by feross",
@@ -179,6 +190,17 @@
       "tags": []
     },
     {
+      "id": "koyqtt",
+      "title": "The product of the railways is the timetable",
+      "description": "Score: 76 | Comments: 73 | Posted by NaOH",
+      "url": "https://springbett.substack.com/p/the-product-of-the-railways-is-the",
+      "publishedAt": "2025-10-06T16:02:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "NaOH",
+      "tags": []
+    },
+    {
       "id": "s9k7z9",
       "title": "OpenZL: An open source format-aware compression framework",
       "description": "Score: 305 | Comments: 66 | Posted by terrelln",
@@ -187,6 +209,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "terrelln",
+      "tags": []
+    },
+    {
+      "id": "rk0y48",
+      "title": "Origami Patterns Solve a Major Physics Riddle",
+      "description": "Score: 53 | Comments: 3 | Posted by westurner",
+      "url": "https://www.quantamagazine.org/origami-patterns-solve-a-major-physics-riddle-20251006/",
+      "publishedAt": "2025-10-06T15:53:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "westurner",
       "tags": []
     },
     {
@@ -242,6 +275,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "healeycodes",
+      "tags": []
+    },
+    {
+      "id": "c4jcbu",
+      "title": "Design Principle: Composable Services",
+      "description": "Score: 5 | Comments: 2 | Posted by mooreds",
+      "url": "https://sleepingpotato.com/design-principle-composable-services/",
+      "publishedAt": "2025-10-06T13:16:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mooreds",
       "tags": []
     },
     {
@@ -443,6 +487,17 @@
       "tags": []
     },
     {
+      "id": "4ouueb",
+      "title": "Ohno Type School: A (2020)",
+      "description": "Score: 180 | Comments: 64 | Posted by tobr",
+      "url": "https://ohnotype.co/blog/ohno-type-school-a",
+      "publishedAt": "2025-10-06T10:18:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tobr",
+      "tags": []
+    },
+    {
       "id": "xrwjyf",
       "title": "A terminal command that tells you if your USB-C cable is bad",
       "description": "Score: 58 | Comments: 32 | Posted by freetonik",
@@ -473,6 +528,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jacquesm",
+      "tags": []
+    },
+    {
+      "id": "4s5ivh",
+      "title": "Wi-fi signal tracks heartbeat without wearables",
+      "description": "Score: 62 | Comments: 50 | Posted by JeanKage",
+      "url": "https://spectrum.ieee.org/wi-fi-signal-heartbeat-detection",
+      "publishedAt": "2025-10-06T08:16:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "JeanKage",
       "tags": []
     },
     {
@@ -671,6 +737,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "apsec112",
+      "tags": []
+    },
+    {
+      "id": "nkcyq1",
+      "title": "Dimensions of everyday objects",
+      "description": "Score: 61 | Comments: 6 | Posted by kaniksu",
+      "url": "https://www.dimensions.com/",
+      "publishedAt": "2025-10-06T00:37:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kaniksu",
       "tags": []
     }
   ]
