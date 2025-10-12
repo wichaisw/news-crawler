@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "e0iuwx",
+      "title": "Building a JavaScript Runtime using C",
+      "description": "Score: 69 | Comments: 24 | Posted by redbell",
+      "url": "https://devlogs.xyz/blog/building-a-javaScript-runtime",
+      "publishedAt": "2025-10-07T22:18:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "redbell",
+      "tags": []
+    },
+    {
       "id": "jtkq92",
       "title": "Become unbannable from your email",
       "description": "Score: 191 | Comments: 147 | Posted by bfoks",
@@ -91,6 +102,17 @@
       "tags": []
     },
     {
+      "id": "t70sh5",
+      "title": "How Apple designs a virtual knob (2012)",
+      "description": "Score: 132 | Comments: 79 | Posted by gregsadetsky",
+      "url": "https://jherrm.github.io/knobs/",
+      "publishedAt": "2025-10-07T18:19:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gregsadetsky",
+      "tags": []
+    },
+    {
       "id": "bubvrj",
       "title": "Less is more: Recursive reasoning with tiny networks",
       "description": "Score: 203 | Comments: 43 | Posted by guybedo",
@@ -110,6 +132,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "SolonIslandus",
+      "tags": []
+    },
+    {
+      "id": "iwildl",
+      "title": "The World's 2.75B Buildings",
+      "description": "Score: 19 | Comments: 4 | Posted by marklit",
+      "url": "https://tech.marksblogg.com/building-footprints-gba.html",
+      "publishedAt": "2025-10-07T17:26:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "marklit",
       "tags": []
     },
     {
@@ -385,6 +418,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "rajiv_abraham",
+      "tags": []
+    },
+    {
+      "id": "8js5xm",
+      "title": "The World Trade Center under construction through photos, 1966-1979",
+      "description": "Score: 209 | Comments: 100 | Posted by kinderjaje",
+      "url": "https://rarehistoricalphotos.com/twin-towers-construction-photographs/",
+      "publishedAt": "2025-10-07T00:40:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kinderjaje",
       "tags": []
     },
     {

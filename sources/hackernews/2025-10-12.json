@@ -1,0 +1,105 @@
+{
+  "date": "2025-10-12",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "5yjwt1",
+      "title": "Spyware maker NSO Group confirms acquisition by US investors",
+      "description": "Score: 15 | Comments: 1 | Posted by corvad",
+      "url": "https://techcrunch.com/2025/10/10/spyware-maker-nso-group-confirms-acquisition-by-us-investors/",
+      "publishedAt": "2025-10-12T05:39:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "corvad",
+      "tags": []
+    },
+    {
+      "id": "xoq4vf",
+      "title": "Pipelining in psql (PostgreSQL 18)",
+      "description": "Score: 3 | Comments: 0 | Posted by tanelpoder",
+      "url": "https://postgresql.verite.pro/blog/2025/10/01/psql-pipeline.html",
+      "publishedAt": "2025-10-12T04:46:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tanelpoder",
+      "tags": []
+    },
+    {
+      "id": "7296oy",
+      "title": "Neighbor shielded 7-year-old during South Shore federal raid",
+      "description": "Score: 32 | Comments: 4 | Posted by perihelions",
+      "url": "https://chicago.suntimes.com/immigration/2025/10/10/neighbor-shielded-7-year-old-during-south-shore-federal-raid-i-didnt-want-them-to-take-her",
+      "publishedAt": "2025-10-12T03:53:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "perihelions",
+      "tags": []
+    },
+    {
+      "id": "6oo23d",
+      "title": "Major security breach at Austrian AI startup localmind.ai",
+      "description": "Score: 7 | Comments: 1 | Posted by tobwen",
+      "url": "https://localmind.ai/",
+      "publishedAt": "2025-10-12T03:50:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tobwen",
+      "tags": []
+    },
+    {
+      "id": "nk1zll",
+      "title": "Coral Protocol Open Infrastructure Connecting the Internet of Agents",
+      "description": "Score: 6 | Comments: 0 | Posted by joj333",
+      "url": "https://arxiv.org/abs/2505.00749",
+      "publishedAt": "2025-10-12T03:41:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "joj333",
+      "tags": []
+    },
+    {
+      "id": "utqp38",
+      "title": "He was wrongfully imprisoned for 43 years",
+      "description": "Score: 12 | Comments: 0 | Posted by perihelions",
+      "url": "https://www.miamiherald.com/news/local/immigration/article312442984.html?giftCode=44d98622506ff2b3ff180a1aa7e0aca3b2f09cf4ee6fa75f97d023c41d2a2b15",
+      "publishedAt": "2025-10-12T03:29:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "perihelions",
+      "tags": []
+    },
+    {
+      "id": "g98msb",
+      "title": "China's New Rare Earth and Magnet Restrictions Threaten US Defense Supply Chains",
+      "description": "Score: 129 | Comments: 112 | Posted by stopbulying",
+      "url": "https://www.csis.org/analysis/chinas-new-rare-earth-and-magnet-restrictions-threaten-us-defense-supply-chains",
+      "publishedAt": "2025-10-12T01:37:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "stopbulying",
+      "tags": []
+    },
+    {
+      "id": "n7tc5s",
+      "title": "Show HN: Rift – A tiling window manager for macOS",
+      "description": "Score: 73 | Comments: 27 | Posted by atticus_",
+      "url": "https://github.com/acsandmann/rift",
+      "publishedAt": "2025-10-12T00:22:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "atticus_",
+      "tags": []
+    },
+    {
+      "id": "17q70f",
+      "title": "Meta Superintelligence's surprising first paperpaddedinputs.substack.com",
+      "description": "Score: 206 | Comments: 104 | Posted by skadamat",
+      "url": "https://paddedinputs.substack.com/p/meta-superintelligences-surprising",
+      "publishedAt": "2025-10-12T00:08:07.611Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "skadamat",
+      "tags": []
+    }
+  ]
+}

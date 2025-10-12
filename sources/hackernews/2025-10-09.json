@@ -36,6 +36,17 @@
       "tags": []
     },
     {
+      "id": "hj7zte",
+      "title": "How Kyoto, Japan Became the Loveliest Tourist-Trap",
+      "description": "Score: 16 | Comments: 6 | Posted by trevortheblack",
+      "url": "https://nymag.com/intelligencer/article/kyoto-japan-tourism-attraction-travel-tourist-trap.html",
+      "publishedAt": "2025-10-09T21:15:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "trevortheblack",
+      "tags": []
+    },
+    {
       "id": "sy6wqc",
       "title": "A built-in 'off switch' to stop persistent pain",
       "description": "Score: 139 | Comments: 63 | Posted by gmays",
@@ -330,6 +341,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "kixpanganiban",
+      "tags": []
+    },
+    {
+      "id": "v99eed",
+      "title": "I/O Multiplexing (select vs. poll vs. epoll/kqueue)",
+      "description": "Score: 6 | Comments: 0 | Posted by pykello",
+      "url": "https://nima101.github.io/io_multiplexing",
+      "publishedAt": "2025-10-09T04:06:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pykello",
       "tags": []
     },
     {

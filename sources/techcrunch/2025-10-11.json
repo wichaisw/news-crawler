@@ -3,6 +3,72 @@
   "source": "techcrunch",
   "articles": [
     {
+      "id": "https://techcrunch.com/?p=3056682",
+      "title": "Thinking Machines Lab co-founder Andrew Tulloch heads to Meta",
+      "description": "AI researcher Andrew Tulloch reportedly announced his departure to employees in a message on Friday.",
+      "url": "https://techcrunch.com/2025/10/11/thinking-machines-lab-co-founder-andrew-tulloch-heads-to-meta/",
+      "publishedAt": "2025-10-11T19:10:37.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3056679",
+      "title": "Apple says goodbye to the Clips app",
+      "description": "Apple appears to be winding down support of Clips, with the company removing Clips from the App Store and saying it will no longer be making any",
+      "url": "https://techcrunch.com/2025/10/11/apple-says-goodbye-to-the-clips-app/",
+      "publishedAt": "2025-10-11T18:47:59.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3056676",
+      "title": "Ready or not, enterprises are betting on AI",
+      "description": "This has been a big week for AI companies signing enterprise deals, with Zendesk unveiling new AI agents that are supposed to be able to resolve 80%",
+      "url": "https://techcrunch.com/2025/10/11/ready-or-not-enterprises-are-betting-on-ai/",
+      "publishedAt": "2025-10-11T17:52:03.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3056641",
+      "title": "Prince Harry and Meghan call out the harmful effects of social media on today’s youth",
+      "description": "Prince Harry and Meghan spoke about the dangers of social media at a gala and festival in New York.",
+      "url": "https://techcrunch.com/2025/10/11/prince-harry-and-meghan-call-out-the-harmful-effects-of-social-media-on-todays-youth/",
+      "publishedAt": "2025-10-11T16:57:37.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3056671",
+      "title": "Trump fires back at China’s rare earth mineral restrictions by threatening 100% tariffs",
+      "description": "President Donald Trump declared Friday that he will impose a 100% tariff on all imports from China, while also imposing export controls on “any and",
+      "url": "https://techcrunch.com/2025/10/11/trump-fires-back-at-chinas-rare-earth-mineral-restrictions-by-threatening-100-tariffs/",
+      "publishedAt": "2025-10-11T16:57:30.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3055191",
+      "title": "It’s not too late for Apple to get AI right",
+      "description": "Apple still has a shot at leading the AI-powered app era. As OpenAI launches its ChatGPT app platform, Apple’s smarter Siri and deep ecosystem could",
+      "url": "https://techcrunch.com/2025/10/11/its-not-too-late-for-apple-to-get-ai-right/",
+      "publishedAt": "2025-10-11T15:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sarah Perez",
+      "tags": []
+    },
+    {
       "id": "https://techcrunch.com/?p=3056619",
       "title": "The fixer’s dilemma: Chris Lehane and OpenAI’s impossible mission",
       "description": "The company’s Sora problem is really at the root of everything else.",

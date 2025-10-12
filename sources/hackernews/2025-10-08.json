@@ -135,6 +135,17 @@
       "tags": []
     },
     {
+      "id": "m5e5sv",
+      "title": "Show HN: Solving the cluster 1 problem with vCluster standalone",
+      "description": "Score: 11 | Comments: 1 | Posted by saiyampathak",
+      "url": "https://www.vcluster.com/blog/vcluster-standalone-multi-tenancy-kubernetes",
+      "publishedAt": "2025-10-08T16:50:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "saiyampathak",
+      "tags": []
+    },
+    {
       "id": "sd1nl9",
       "title": "Show HN: I built a local-first podcast app",
       "description": "Score: 59 | Comments: 21 | Posted by aegrumet",
@@ -176,6 +187,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "cainxinth",
+      "tags": []
+    },
+    {
+      "id": "ipu827",
+      "title": "Beyond indexes: How open table formats optimize query performance",
+      "description": "Score: 38 | Comments: 1 | Posted by jandrewrogers",
+      "url": "https://jack-vanlightly.com/blog/2025/10/8/beyond-indexes-how-open-table-formats-optimize-query-performance",
+      "publishedAt": "2025-10-08T15:01:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jandrewrogers",
       "tags": []
     },
     {
@@ -267,6 +289,17 @@
       "tags": []
     },
     {
+      "id": "u1e2ud",
+      "title": "All-New Next Gen of UniFi Storage",
+      "description": "Score: 61 | Comments: 39 | Posted by ycombinete",
+      "url": "https://blog.ui.com/article/all-new-next-gen-of-unifi-storage",
+      "publishedAt": "2025-10-08T10:05:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ycombinete",
+      "tags": []
+    },
+    {
       "id": "shveiz",
       "title": "Nobel Prize in Chemistry 2025",
       "description": "Score: 306 | Comments: 53 | Posted by pykello",
@@ -275,6 +308,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "pykello",
+      "tags": []
+    },
+    {
+      "id": "ih3nwp",
+      "title": "Every LLM Is Its Own Media Channel",
+      "description": "Score: 12 | Comments: 3 | Posted by businessmate",
+      "url": "https://www.aivojournal.org/every-llm-is-its-own-media-channel/",
+      "publishedAt": "2025-10-08T07:41:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "businessmate",
       "tags": []
     },
     {
