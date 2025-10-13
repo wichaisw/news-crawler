@@ -58,6 +58,17 @@
       "tags": []
     },
     {
+      "id": "h5wxl8",
+      "title": "C++ Reflection and Qt MOC",
+      "description": "Score: 87 | Comments: 39 | Posted by coffeeaddict1",
+      "url": "https://wiki.qt.io/C%2B%2B_reflection_(P2996)_and_moc",
+      "publishedAt": "2025-10-08T22:59:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "coffeeaddict1",
+      "tags": []
+    },
+    {
       "id": "oetngp",
       "title": "Kurt Got Got",
       "description": "Score: 228 | Comments: 153 | Posted by tabletcorry",
@@ -245,6 +256,17 @@
       "tags": []
     },
     {
+      "id": "kz307t",
+      "title": "Show HN: Baby's first international landline",
+      "description": "Score: 86 | Comments: 20 | Posted by nbr23",
+      "url": "https://wip.tf/posts/telefonefix-building-babys-first-international-landline/",
+      "publishedAt": "2025-10-08T13:31:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nbr23",
+      "tags": []
+    },
+    {
       "id": "2qvu1n",
       "title": "The email they shouldn't have read",
       "description": "Score: 364 | Comments: 155 | Posted by miniBill",
@@ -253,6 +275,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "miniBill",
+      "tags": []
+    },
+    {
+      "id": "q4idek",
+      "title": "The Tiny Teams Playbook",
+      "description": "Score: 98 | Comments: 31 | Posted by tilt",
+      "url": "https://www.latent.space/p/tiny",
+      "publishedAt": "2025-10-08T12:50:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tilt",
       "tags": []
     },
     {
@@ -311,6 +344,17 @@
       "tags": []
     },
     {
+      "id": "lqomqj",
+      "title": "Database Linting and Analysis for PostgreSQL",
+      "description": "Score: 66 | Comments: 9 | Posted by fljdin",
+      "url": "https://pglinter.readthedocs.io/en/latest/",
+      "publishedAt": "2025-10-08T08:09:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fljdin",
+      "tags": []
+    },
+    {
       "id": "ih3nwp",
       "title": "Every LLM Is Its Own Media Channel",
       "description": "Score: 12 | Comments: 3 | Posted by businessmate",
@@ -319,6 +363,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "businessmate",
+      "tags": []
+    },
+    {
+      "id": "rxr1v1",
+      "title": "Tauri binding for Python through Pyo3",
+      "description": "Score: 52 | Comments: 1 | Posted by 0x1997",
+      "url": "https://github.com/pytauri/pytauri",
+      "publishedAt": "2025-10-08T06:58:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "0x1997",
       "tags": []
     },
     {

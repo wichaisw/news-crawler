@@ -25,6 +25,17 @@
       "tags": []
     },
     {
+      "id": "lmdy00",
+      "title": "Konrad Zuse's Helix Tower [pdf]",
+      "description": "Score: 83 | Comments: 6 | Posted by xg15",
+      "url": "https://www.iaarc.org/publications/fulltext/The_helix-tower_by_konrad_zuse_automated_con-_and_deconstruction.pdf",
+      "publishedAt": "2025-10-07T20:44:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "xg15",
+      "tags": []
+    },
+    {
       "id": "f1wab7",
       "title": "Gemini 2.5 Computer Use modelblog.google",
       "description": "Score: 452 | Comments: 231 | Posted by mfiguiere",
@@ -201,6 +212,17 @@
       "tags": []
     },
     {
+      "id": "ygi7w6",
+      "title": "The Flummoxagon",
+      "description": "Score: 128 | Comments: 26 | Posted by robinhouston",
+      "url": "https://n-e-r-v-o-u-s.com/blog/?p=9827",
+      "publishedAt": "2025-10-07T15:40:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "robinhouston",
+      "tags": []
+    },
+    {
       "id": "jqdve8",
       "title": "IKEA Catalogs 1951-2021",
       "description": "Score: 337 | Comments: 74 | Posted by bookofjoe",
@@ -311,6 +333,17 @@
       "tags": []
     },
     {
+      "id": "ccxx9c",
+      "title": "The neurons that let us see what isn't there",
+      "description": "Score: 40 | Comments: 2 | Posted by rbanffy",
+      "url": "https://arstechnica.com/science/2025/10/the-neurons-that-let-us-see-what-isnt-there/",
+      "publishedAt": "2025-10-07T10:40:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rbanffy",
+      "tags": []
+    },
+    {
       "id": "w995qw",
       "title": "Nobel Prize in Physics 2025",
       "description": "Score: 383 | Comments: 84 | Posted by luisb",
@@ -330,6 +363,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "thunderbong",
+      "tags": []
+    },
+    {
+      "id": "e0u6i1",
+      "title": "Loko Scheme: bare metal optimizing Scheme compiler",
+      "description": "Score: 159 | Comments: 14 | Posted by dTal",
+      "url": "https://scheme.fail/",
+      "publishedAt": "2025-10-07T07:41:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dTal",
+      "tags": []
+    },
+    {
+      "id": "s4xm6a",
+      "title": "Thishereness",
+      "description": "Score: 4 | Comments: 1 | Posted by benbreen",
+      "url": "https://www.lrb.co.uk/the-paper/v47/n18/erin-maglaque/thishereness",
+      "publishedAt": "2025-10-07T07:19:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "benbreen",
       "tags": []
     },
     {

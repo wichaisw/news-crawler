@@ -1,0 +1,105 @@
+{
+  "date": "2025-10-13",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "ab1yjt",
+      "title": "Fastmail Desktop Appfastmail.com",
+      "description": "Score: 39 | Comments: 21 | Posted by soheilpro",
+      "url": "https://www.fastmail.com/blog/desktop-app/",
+      "publishedAt": "2025-10-13T05:10:02.744Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "soheilpro",
+      "tags": []
+    },
+    {
+      "id": "wif7rr",
+      "title": "OpenAI and Hollywood studios clash over copyrights and consent",
+      "description": "Score: 3 | Comments: 0 | Posted by 1vuio0pswjnm7",
+      "url": "https://www.latimes.com/entertainment-arts/business/story/2025-10-11/hollywood-ai-battle-heats-up-sora2-openai-sam-altman",
+      "publishedAt": "2025-10-13T04:37:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "1vuio0pswjnm7",
+      "tags": []
+    },
+    {
+      "id": "ab1yjt",
+      "title": "Fastmail Desktop App",
+      "description": "Score: 41 | Comments: 22 | Posted by soheilpro",
+      "url": "https://www.fastmail.com/blog/desktop-app/",
+      "publishedAt": "2025-10-13T04:14:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "soheilpro",
+      "tags": []
+    },
+    {
+      "id": "sezovl",
+      "title": "Countering Trusting Trust Through Diverse Double-Compiling (DDC)",
+      "description": "Score: 18 | Comments: 2 | Posted by ibobev",
+      "url": "https://dwheeler.com/trusting-trust/",
+      "publishedAt": "2025-10-13T02:39:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
+      "tags": []
+    },
+    {
+      "id": "c6z0ew",
+      "title": "Despite what's happening in the USA, renewables are winning globally",
+      "description": "Score: 114 | Comments: 97 | Posted by pseudolus",
+      "url": "https://thebulletin.org/2025/10/despite-whats-happening-in-the-usa-renewables-are-winning-globally/",
+      "publishedAt": "2025-10-13T02:15:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pseudolus",
+      "tags": []
+    },
+    {
+      "id": "wv8u4c",
+      "title": "For centuries massive meals amazed visitors to Korea (2019)atlasobscura.com",
+      "description": "Score: 73 | Comments: 31 | Posted by carabiner",
+      "url": "https://www.atlasobscura.com/articles/history-of-korean-food",
+      "publishedAt": "2025-10-13T02:10:02.744Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "carabiner",
+      "tags": []
+    },
+    {
+      "id": "wv8u4c",
+      "title": "For centuries massive meals amazed visitors to Korea (2019)",
+      "description": "Score: 73 | Comments: 31 | Posted by carabiner",
+      "url": "https://www.atlasobscura.com/articles/history-of-korean-food",
+      "publishedAt": "2025-10-13T01:46:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "carabiner",
+      "tags": []
+    },
+    {
+      "id": "o7rgqk",
+      "title": "John Searle has died",
+      "description": "Score: 70 | Comments: 51 | Posted by sgustard",
+      "url": "https://www.nytimes.com/2025/10/12/books/john-searle-dead.html",
+      "publishedAt": "2025-10-13T00:57:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sgustard",
+      "tags": []
+    },
+    {
+      "id": "tb9shp",
+      "title": "Syntax highlighting is a waste of an information channel",
+      "description": "Score: 6 | Comments: 2 | Posted by swyx",
+      "url": "https://buttondown.com/hillelwayne/archive/syntax-highlighting-is-a-waste-of-an-information/",
+      "publishedAt": "2025-10-13T00:48:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "swyx",
+      "tags": []
+    }
+  ]
+}

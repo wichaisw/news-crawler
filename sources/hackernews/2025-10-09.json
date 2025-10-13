@@ -223,6 +223,28 @@
       "tags": []
     },
     {
+      "id": "qn70wq",
+      "title": "3D-Printed Automatic Weather Station",
+      "description": "Score: 54 | Comments: 10 | Posted by hyperbovine",
+      "url": "https://3dpaws.comet.ucar.edu",
+      "publishedAt": "2025-10-09T15:45:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hyperbovine",
+      "tags": []
+    },
+    {
+      "id": "c9jemj",
+      "title": "Keyboard Holders, Generation 1",
+      "description": "Score: 34 | Comments: 0 | Posted by hannahilea",
+      "url": "https://cceckman.com/writing/keyboard-holders-gen1/",
+      "publishedAt": "2025-10-09T15:29:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hannahilea",
+      "tags": []
+    },
+    {
       "id": "6p9m0q",
       "title": "Why Self-Host?",
       "description": "Score: 286 | Comments: 221 | Posted by romanzipp",
@@ -297,6 +319,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ceejayoz",
+      "tags": []
+    },
+    {
+      "id": "btr7l4",
+      "title": "MicroPythonOS – An Android-like OS for microcontrollers",
+      "description": "Score: 52 | Comments: 10 | Posted by alefnula",
+      "url": "https://micropythonos.com",
+      "publishedAt": "2025-10-09T10:35:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "alefnula",
       "tags": []
     },
     {
