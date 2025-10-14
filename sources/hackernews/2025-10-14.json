@@ -1,0 +1,116 @@
+{
+  "date": "2025-10-14",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "gons56",
+      "title": "Copy-and-Patch: A Copy-and-Patch Tutorial",
+      "description": "Score: 13 | Comments: 1 | Posted by todsacerdoti",
+      "url": "https://transactional.blog/copy-and-patch/tutorial",
+      "publishedAt": "2025-10-14T05:14:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "a3k2d0",
+      "title": "Show HN: Wordle but you have to predict your score before playing",
+      "description": "Score: 12 | Comments: 11 | Posted by boringgame",
+      "url": "https://boring.game/invite/SRhyUStjin",
+      "publishedAt": "2025-10-14T03:26:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "boringgame",
+      "tags": []
+    },
+    {
+      "id": "fzpppc",
+      "title": "New York Times, AP, Newsmax and others say they won't sign new Pentagon rules",
+      "description": "Score: 96 | Comments: 17 | Posted by baobun",
+      "url": "https://apnews.com/article/pentagon-press-access-defense-department-rules-95878bce05096912887701eaa6d019c6",
+      "publishedAt": "2025-10-14T02:51:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "baobun",
+      "tags": []
+    },
+    {
+      "id": "qerdom",
+      "title": "Modifying a Casio F-Series Digital Watch (2020)",
+      "description": "Score: 25 | Comments: 4 | Posted by camtarn",
+      "url": "https://shellzine.net/casio-f-series-mods/",
+      "publishedAt": "2025-10-14T02:48:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "camtarn",
+      "tags": []
+    },
+    {
+      "id": "luvz12",
+      "title": "Don’t Look Up: Sensitive internal links in the clear on GEO satellites [pdf]ucsd.edu",
+      "description": "Score: 164 | Comments: 44 | Posted by dweekly",
+      "url": "https://satcom.sysnet.ucsd.edu/docs/dontlookup_ccs25_fullpaper.pdf",
+      "publishedAt": "2025-10-14T02:10:05.879Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dweekly",
+      "tags": []
+    },
+    {
+      "id": "luvz12",
+      "title": "Don’t Look Up: Sensitive internal links in the clear on GEO satellites [pdf]",
+      "description": "Score: 164 | Comments: 44 | Posted by dweekly",
+      "url": "https://satcom.sysnet.ucsd.edu/docs/dontlookup_ccs25_fullpaper.pdf",
+      "publishedAt": "2025-10-14T01:48:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dweekly",
+      "tags": []
+    },
+    {
+      "id": "g3j6g4",
+      "title": "NVIDIA DGX Spark In-Depth Review: A New Standard for Local AI Inference",
+      "description": "Score: 16 | Comments: 9 | Posted by yvbbrjdr",
+      "url": "https://lmsys.org/blog/2025-10-13-nvidia-dgx-spark/",
+      "publishedAt": "2025-10-14T01:07:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "yvbbrjdr",
+      "tags": []
+    },
+    {
+      "id": "tzvpx1",
+      "title": "Nanochat",
+      "description": "Score: 6 | Comments: 1 | Posted by bilsbie",
+      "url": "https://simonwillison.net/2025/Oct/13/nanochat/",
+      "publishedAt": "2025-10-14T00:58:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bilsbie",
+      "tags": []
+    },
+    {
+      "id": "kcqr1q",
+      "title": "Traffic lights with four colors and a new white light are coming",
+      "description": "Score: 9 | Comments: 13 | Posted by fcpguru",
+      "url": "https://unionrayo.com/en/traffic-lights-color-white-autonomous-cars/",
+      "publishedAt": "2025-10-14T00:47:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fcpguru",
+      "tags": []
+    },
+    {
+      "id": "2wuud6",
+      "title": "StreamingVLM: Real-Time Understanding for Infinite Video Streams",
+      "description": "Score: 22 | Comments: 0 | Posted by badmonster",
+      "url": "https://arxiv.org/abs/2510.09608",
+      "publishedAt": "2025-10-14T00:02:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "badmonster",
+      "tags": []
+    }
+  ]
+}

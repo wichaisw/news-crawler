@@ -14,6 +14,17 @@
       "tags": []
     },
     {
+      "id": "awtaxq",
+      "title": "Passt – Plug a Simple Socket Transport",
+      "description": "Score: 12 | Comments: 0 | Posted by zdw",
+      "url": "https://passt.top/passt/about/",
+      "publishedAt": "2025-10-06T23:27:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
       "id": "vzgl6",
       "title": "Microsoft is plugging more holes that let you use Windows 11 without MS account",
       "description": "Score: 278 | Comments: 358 | Posted by josephcsible",
@@ -330,6 +341,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "speckx",
+      "tags": []
+    },
+    {
+      "id": "mntngk",
+      "title": "More random home lab things I've recently learned",
+      "description": "Score: 192 | Comments: 105 | Posted by otter-in-a-suit",
+      "url": "https://chollinger.com/blog/2025/10/more-homelab-things-ive-recently-learned/",
+      "publishedAt": "2025-10-06T13:02:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "otter-in-a-suit",
+      "tags": []
+    },
+    {
+      "id": "og0ncq",
+      "title": "Uv overtakes pip in CI",
+      "description": "Score: 178 | Comments: 141 | Posted by ThibWeb",
+      "url": "https://wagtail.org/blog/uv-overtakes-pip-in-ci/",
+      "publishedAt": "2025-10-06T12:45:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ThibWeb",
       "tags": []
     },
     {

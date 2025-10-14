@@ -267,6 +267,17 @@
       "tags": []
     },
     {
+      "id": "mzsgne",
+      "title": "CRDT and SQLite: Local-First Value Synchronization",
+      "description": "Score: 69 | Comments: 15 | Posted by marcobambini",
+      "url": "https://marcobambini.substack.com/p/the-secret-life-of-a-local-first",
+      "publishedAt": "2025-10-09T14:01:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "marcobambini",
+      "tags": []
+    },
+    {
       "id": "wlgiet",
       "title": "Python's splitlines does more than just newlines",
       "description": "Score: 98 | Comments: 38 | Posted by Bogdanp",
@@ -440,6 +451,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "PaulHoule",
+      "tags": []
+    },
+    {
+      "id": "frdkka",
+      "title": "First device based on 'optical thermodynamics' can route light without switches",
+      "description": "Score: 128 | Comments: 16 | Posted by rbanffy",
+      "url": "https://phys.org/news/2025-10-device-based-optical-thermodynamics-route.html",
+      "publishedAt": "2025-10-09T00:54:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rbanffy",
       "tags": []
     }
   ]

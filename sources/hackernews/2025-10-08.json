@@ -69,6 +69,17 @@
       "tags": []
     },
     {
+      "id": "lqrcmq",
+      "title": "Palisades Fire suspect's ChatGPT history to be used as evidence",
+      "description": "Score: 74 | Comments: 51 | Posted by quuxplusone",
+      "url": "https://www.rollingstone.com/culture/culture-news/chatgpt-palisades-fire-suspect-1235443216/",
+      "publishedAt": "2025-10-08T21:53:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "quuxplusone",
+      "tags": []
+    },
+    {
       "id": "oetngp",
       "title": "Kurt Got Got",
       "description": "Score: 228 | Comments: 153 | Posted by tabletcorry",
@@ -165,6 +176,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "aegrumet",
+      "tags": []
+    },
+    {
+      "id": "yqleqn",
+      "title": "JSON River – Parse JSON incrementally as it streams in",
+      "description": "Score: 171 | Comments: 78 | Posted by rickcarlino",
+      "url": "https://github.com/rictic/jsonriver",
+      "publishedAt": "2025-10-08T16:38:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rickcarlino",
       "tags": []
     },
     {
@@ -330,6 +352,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ycombinete",
+      "tags": []
+    },
+    {
+      "id": "cl5icr",
+      "title": "Scaling request logging with ClickHouse, Kafka, and Vector",
+      "description": "Score: 122 | Comments: 18 | Posted by mjwhansen",
+      "url": "https://www.geocod.io/code-and-coordinates/2025-10-02-from-millions-to-billions/",
+      "publishedAt": "2025-10-08T09:56:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mjwhansen",
       "tags": []
     },
     {
