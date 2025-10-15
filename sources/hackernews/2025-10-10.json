@@ -25,6 +25,17 @@
       "tags": []
     },
     {
+      "id": "5nro0t",
+      "title": "Printing Petscii Faster",
+      "description": "Score: 17 | Comments: 1 | Posted by ibobev",
+      "url": "https://retrogamecoders.com/printing-petscii-faster/",
+      "publishedAt": "2025-10-10T22:20:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
+      "tags": []
+    },
+    {
       "id": "5vaj5e",
       "title": "(Re)Introducing the Pebble Appstoreericmigi.com",
       "description": "Score: 109 | Comments: 8 | Posted by duck",
@@ -33,6 +44,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "duck",
+      "tags": []
+    },
+    {
+      "id": "v1xoaq",
+      "title": "Beating the L1 cache with value speculation (2021)",
+      "description": "Score: 25 | Comments: 7 | Posted by shoo",
+      "url": "https://mazzo.li/posts/value-speculation.html",
+      "publishedAt": "2025-10-10T21:54:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "shoo",
       "tags": []
     },
     {

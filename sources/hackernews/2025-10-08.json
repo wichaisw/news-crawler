@@ -91,6 +91,17 @@
       "tags": []
     },
     {
+      "id": "wlgiet",
+      "title": "Python's splitlines does more than just newlines",
+      "description": "Score: 6 | Comments: 1 | Posted by woodruffw",
+      "url": "https://yossarian.net/til/post/python-s-splitlines-does-a-lot-more-than-just-newlines/",
+      "publishedAt": "2025-10-08T20:47:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "woodruffw",
+      "tags": []
+    },
+    {
       "id": "heij9w",
       "title": "I played 1k hands of online poker and built a web app with Cursor AI",
       "description": "Score: 82 | Comments: 113 | Posted by reillychase",
@@ -267,6 +278,17 @@
       "tags": []
     },
     {
+      "id": "utbap1",
+      "title": "Testing a compiler-driven full-stack web framework",
+      "description": "Score: 44 | Comments: 10 | Posted by franjo_mindek",
+      "url": "https://wasp.sh/blog/2025/10/07/how-we-test-a-web-framework",
+      "publishedAt": "2025-10-08T13:45:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "franjo_mindek",
+      "tags": []
+    },
+    {
       "id": "209mn3",
       "title": "We found a bug in Go's ARM64 compiler",
       "description": "Score: 655 | Comments: 99 | Posted by jgrahamc",
@@ -286,6 +308,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "nbr23",
+      "tags": []
+    },
+    {
+      "id": "3dg20x",
+      "title": "Hacking the Humane AI Pin",
+      "description": "Score: 112 | Comments: 24 | Posted by agg23",
+      "url": "https://writings.agg.im/posts/hacking_ai_pin/",
+      "publishedAt": "2025-10-08T13:24:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "agg23",
       "tags": []
     },
     {
@@ -344,6 +377,17 @@
       "tags": []
     },
     {
+      "id": "laqfjw",
+      "title": "Ultrasound is ushering a new era of surgery-free cancer treatment",
+      "description": "Score: 384 | Comments: 108 | Posted by 1659447091",
+      "url": "https://www.bbc.com/future/article/20251007-how-ultrasound-is-ushering-a-new-era-of-surgery-free-cancer-treatment",
+      "publishedAt": "2025-10-08T10:18:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "1659447091",
+      "tags": []
+    },
+    {
       "id": "u1e2ud",
       "title": "All-New Next Gen of UniFi Storage",
       "description": "Score: 61 | Comments: 39 | Posted by ycombinete",
@@ -374,6 +418,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "pykello",
+      "tags": []
+    },
+    {
+      "id": "hsiy7x",
+      "title": "Show HN: CSS Extras",
+      "description": "Score: 98 | Comments: 60 | Posted by mofle",
+      "url": "https://github.com/sindresorhus/css-extras",
+      "publishedAt": "2025-10-08T09:19:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mofle",
       "tags": []
     },
     {
@@ -418,6 +473,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "pillars",
+      "tags": []
+    },
+    {
+      "id": "ur25md",
+      "title": "Automatic K8s pod placement to match external service zones",
+      "description": "Score: 79 | Comments: 38 | Posted by toredash",
+      "url": "https://github.com/toredash/automatic-zone-placement",
+      "publishedAt": "2025-10-08T05:21:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "toredash",
       "tags": []
     },
     {

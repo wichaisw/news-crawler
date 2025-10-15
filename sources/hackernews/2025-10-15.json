@@ -1,0 +1,83 @@
+{
+  "date": "2025-10-15",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "wit6x",
+      "title": "I am a programmer, not a rubber-stamp that approves Copilot generated code",
+      "description": "Score: 43 | Comments: 26 | Posted by pyeri",
+      "url": "https://prahladyeri.github.io/blog/2025/10/i-am-a-programmer.html",
+      "publishedAt": "2025-10-15T05:09:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pyeri",
+      "tags": []
+    },
+    {
+      "id": "86amxf",
+      "title": "Can we know whether a profiler is accurate?",
+      "description": "Score: 27 | Comments: 5 | Posted by todsacerdoti",
+      "url": "https://stefan-marr.de/2025/10/can-we-know-whether-a-profiler-is-accurate/",
+      "publishedAt": "2025-10-15T02:04:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "mhecm0",
+      "title": "Disk Prices",
+      "description": "Score: 82 | Comments: 35 | Posted by bookofjoe",
+      "url": "https://diskprices.com/?locale=us",
+      "publishedAt": "2025-10-15T02:02:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bookofjoe",
+      "tags": []
+    },
+    {
+      "id": "tl7g5j",
+      "title": "Why The Pentagon run the best schools and the safest nuclear program",
+      "description": "Score: 39 | Comments: 24 | Posted by guardianbob",
+      "url": "https://www.governance.fyi/p/the-pentagons-best-schools-and-safest",
+      "publishedAt": "2025-10-15T01:29:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "guardianbob",
+      "tags": []
+    },
+    {
+      "id": "51ghz7",
+      "title": "New England's last coal plant has stopped operating, according to its owners",
+      "description": "Score: 81 | Comments: 56 | Posted by toomuchtodo",
+      "url": "https://www.nhpr.org/nh-news/2025-10-06/new-englands-last-coal-plant-has-stopped-operating-according-to-its-owners",
+      "publishedAt": "2025-10-15T01:10:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "toomuchtodo",
+      "tags": []
+    },
+    {
+      "id": "83lk8h",
+      "title": "Nvidia DGX Spark: great hardware, early days for the ecosystem",
+      "description": "Score: 73 | Comments: 22 | Posted by GavinAnderegg",
+      "url": "https://simonwillison.net/2025/Oct/14/nvidia-dgx-spark/",
+      "publishedAt": "2025-10-15T00:49:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "GavinAnderegg",
+      "tags": []
+    },
+    {
+      "id": "6qnbbs",
+      "title": "FSF announces Librephone projectfsf.org",
+      "description": "Score: 583 | Comments: 234 | Posted by g-b-r",
+      "url": "https://www.fsf.org/news/librephone-project",
+      "publishedAt": "2025-10-15T00:10:01.114Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "g-b-r",
+      "tags": []
+    }
+  ]
+}
