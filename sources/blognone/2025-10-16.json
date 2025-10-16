@@ -1,0 +1,39 @@
+{
+  "date": "2025-10-16",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "148523 at https://www.blognone.com",
+      "title": "X ทดสอบแสดงข้อมูลเพิ่มเติมในหน้าโปรไฟล์ เช่น วันที่สมัคร, ประเทศที่ใช้งาน",
+      "description": "X ทดสอบแสดงข้อมูลเพิ่มเติมในหน้าโปรไฟล์ เช่น วันที่สมัคร, ประเทศที่ใช้งาน Body Nikita Bier หัวหน้าฝ่ายผลิตภัณฑ์ของ X โพสต์ข้อความว่า X",
+      "url": "https://www.blognone.com/node/148523",
+      "publishedAt": "2025-10-16T01:35:50.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148522 at https://www.blognone.com",
+      "title": "Arm ร่วมมือกับ Meta เพื่อพัฒนาประสิทธิภาพ AI ตั้งแต่ระดับอุปกรณ์ผู้ใช้งาน ไปจนถึงบนคลาวด์",
+      "description": "Arm ร่วมมือกับ Meta เพื่อพัฒนาประสิทธิภาพ AI ตั้งแต่ระดับอุปกรณ์ผู้ใช้งาน ไปจนถึงบนคลาวด์ Body Arm และ Meta",
+      "url": "https://www.blognone.com/node/148522",
+      "publishedAt": "2025-10-16T01:27:08.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148521 at https://www.blognone.com",
+      "title": "Apple ไม่ให้อะแดปเตอร์มากับ MacBook Pro M5 แล้ว ต้องซื้อแยก มีผลเฉพาะยุโรปและสหราชอาณาจักร",
+      "description": "Apple ไม่ให้อะแดปเตอร์มากับ MacBook Pro M5 แล้ว ต้องซื้อแยก มีผลเฉพาะยุโรปและสหราชอาณาจักร Body แอปเปิล หยุดให้อะแดปเตอร์แปลงไฟ ในกล่องสำหรับคนซื้อ",
+      "url": "https://www.blognone.com/node/148521",
+      "publishedAt": "2025-10-16T01:09:26.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}

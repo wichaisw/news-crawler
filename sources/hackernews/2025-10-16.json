@@ -1,0 +1,193 @@
+{
+  "date": "2025-10-16",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "723pax",
+      "title": "New Coding Models and Integrationsollama.com",
+      "description": "Score: 22 | Comments: 0 | Posted by meetpateltech",
+      "url": "https://ollama.com/blog/coding-models",
+      "publishedAt": "2025-10-16T05:47:03.289Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "meetpateltech",
+      "tags": []
+    },
+    {
+      "id": "723pax",
+      "title": "New Coding Models and Integrations",
+      "description": "Score: 22 | Comments: 0 | Posted by meetpateltech",
+      "url": "https://ollama.com/blog/coding-models",
+      "publishedAt": "2025-10-16T05:46:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "meetpateltech",
+      "tags": []
+    },
+    {
+      "id": "ywsz9l",
+      "title": "TurboTax's 20-Year Fight to Stop Americans from Filing Their Taxes for Free (2019)",
+      "description": "Score: 25 | Comments: 1 | Posted by lelandfe",
+      "url": "https://www.propublica.org/article/inside-turbotax-20-year-fight-to-stop-americans-from-filing-their-taxes-for-free",
+      "publishedAt": "2025-10-16T05:31:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lelandfe",
+      "tags": []
+    },
+    {
+      "id": "kd7lea",
+      "title": "What Does George Orwell's '1984' Mean in 2024?",
+      "description": "Score: 31 | Comments: 12 | Posted by KnuthIsGod",
+      "url": "https://www.smithsonianmag.com/history/what-does-george-orwells-1984-mean-in-2024-180984468/",
+      "publishedAt": "2025-10-16T04:45:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "KnuthIsGod",
+      "tags": []
+    },
+    {
+      "id": "6np80r",
+      "title": "Australian wet rainforests may be switching from absorbing carbon to emitting it",
+      "description": "Score: 7 | Comments: 0 | Posted by nreece",
+      "url": "https://www.abc.net.au/news/science/2025-10-16/australian-rainforest-trees-carbon-storage-producer/105886554",
+      "publishedAt": "2025-10-16T04:21:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nreece",
+      "tags": []
+    },
+    {
+      "id": "5te2v1",
+      "title": "TaxCalcBench: Evaluating Frontier Models on the Tax Calculation Task",
+      "description": "Score: 19 | Comments: 1 | Posted by handfuloflight",
+      "url": "https://arxiv.org/abs/2507.16126",
+      "publishedAt": "2025-10-16T03:45:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "handfuloflight",
+      "tags": []
+    },
+    {
+      "id": "plab0r",
+      "title": "Free applicatives, the handle pattern, and remote systems",
+      "description": "Score: 21 | Comments: 2 | Posted by _jackdk_",
+      "url": "https://exploring-better-ways.bellroy.com/free-applicatives-the-handle-pattern-and-remote-systems.html",
+      "publishedAt": "2025-10-16T03:33:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "_jackdk_",
+      "tags": []
+    },
+    {
+      "id": "8mu74k",
+      "title": "GitHub Action auto-redaction of Bearer Token malforms JSON payload in uv release",
+      "description": "Score: 10 | Comments: 0 | Posted by pbd",
+      "url": "https://twitter.com/charliermarsh/status/1978512448366706893",
+      "publishedAt": "2025-10-16T03:27:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pbd",
+      "tags": []
+    },
+    {
+      "id": "e64hw3",
+      "title": "Acid Drop",
+      "description": "Score: 5 | Comments: 1 | Posted by kordlessagain",
+      "url": "https://github.com/acidvegas/acid-drop",
+      "publishedAt": "2025-10-16T03:26:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kordlessagain",
+      "tags": []
+    },
+    {
+      "id": "3kxstq",
+      "title": "Reactive Programming paradigm for Go for event-driven applications",
+      "description": "Score: 5 | Comments: 1 | Posted by bern4444",
+      "url": "https://github.com/samber/ro",
+      "publishedAt": "2025-10-16T03:17:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bern4444",
+      "tags": []
+    },
+    {
+      "id": "slmovn",
+      "title": "We're losing the war against drug-resistant infections faster than we thought",
+      "description": "Score: 73 | Comments: 19 | Posted by pseudolus",
+      "url": "https://www.npr.org/sections/goats-and-soda/2025/10/15/g-s1-93449/antibiotic-resistance-bacteria",
+      "publishedAt": "2025-10-16T02:06:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pseudolus",
+      "tags": []
+    },
+    {
+      "id": "44den3",
+      "title": "Show HN: Shorter – search for shorter versions of your domain",
+      "description": "Score: 11 | Comments: 4 | Posted by aanesn",
+      "url": "https://shorter.dev",
+      "publishedAt": "2025-10-16T01:59:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "aanesn",
+      "tags": []
+    },
+    {
+      "id": "rkxxtd",
+      "title": "New Alzheimer's Treatment Clears Plaques from Brains of Mice Within Hours",
+      "description": "Score: 67 | Comments: 32 | Posted by amichail",
+      "url": "https://www.sciencealert.com/new-alzheimers-treatment-clears-plaques-from-brains-of-mice-within-hours",
+      "publishedAt": "2025-10-16T01:42:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "amichail",
+      "tags": []
+    },
+    {
+      "id": "w33bhq",
+      "title": "Retiring Windows 10 and Microsoft's move towards a surveillance state",
+      "description": "Score: 344 | Comments: 217 | Posted by trinsic2",
+      "url": "https://www.scottrlarson.com/publications/publication-windows-move-towards-surveillance/",
+      "publishedAt": "2025-10-16T01:00:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "trinsic2",
+      "tags": []
+    },
+    {
+      "id": "c1c4z9",
+      "title": "The Pentagon Press Corps Is Gone",
+      "description": "Score: 49 | Comments: 2 | Posted by throw0101d",
+      "url": "https://www.cjr.org/news/the-pentagon-press-corps-is-gone.php",
+      "publishedAt": "2025-10-16T00:53:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "throw0101d",
+      "tags": []
+    },
+    {
+      "id": "5zhmsh",
+      "title": "Who's Submitting AI-Tainted Filings in Court?",
+      "description": "Score: 29 | Comments: 7 | Posted by cratermoon",
+      "url": "https://cyberlaw.stanford.edu/whos-submitting-ai-tainted-filings-in-court/",
+      "publishedAt": "2025-10-16T00:50:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cratermoon",
+      "tags": []
+    },
+    {
+      "id": "b509op",
+      "title": "A Magnetic Field Orientation That Changes the Fundamental Design of Motors",
+      "description": "Score: 8 | Comments: 0 | Posted by dillonshook",
+      "url": "https://www.paranetics.com/copy-of-home",
+      "publishedAt": "2025-10-16T00:29:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dillonshook",
+      "tags": []
+    }
+  ]
+}

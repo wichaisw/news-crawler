@@ -212,6 +212,28 @@
       "tags": []
     },
     {
+      "id": "5f4519",
+      "title": "Silver Snoopy Award",
+      "description": "Score: 24 | Comments: 3 | Posted by LorenDB",
+      "url": "https://www.nasa.gov/space-flight-awareness/silver-snoopy-award/",
+      "publishedAt": "2025-10-12T12:04:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "LorenDB",
+      "tags": []
+    },
+    {
+      "id": "tux5z4",
+      "title": "Looking at kmalloc() and the SLUB Memory Allocator (2019)",
+      "description": "Score: 10 | Comments: 0 | Posted by signa11",
+      "url": "https://ruffell.nz/programming/writeups/2019/02/15/looking-at-kmalloc-and-the-slub-memory-allocator.html",
+      "publishedAt": "2025-10-12T10:59:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "signa11",
+      "tags": []
+    },
+    {
       "id": "gc6lyq",
       "title": "Macro Splats 2025",
       "description": "Score: 394 | Comments: 64 | Posted by danybittel",
@@ -242,6 +264,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "alecco",
+      "tags": []
+    },
+    {
+      "id": "n4cotx",
+      "title": "Functions Are Asymmetric",
+      "description": "Score: 11 | Comments: 7 | Posted by ingve",
+      "url": "https://www.elbeno.com/blog/?p=1804",
+      "publishedAt": "2025-10-12T07:41:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingve",
       "tags": []
     },
     {

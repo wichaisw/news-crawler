@@ -1,0 +1,28 @@
+{
+  "date": "2025-10-16",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3057066",
+      "title": "Co-founder of Indian social network Koo releases a new photo sharing app",
+      "description": "PicSee is a new app that detects your friends' photos on device and allows you to send it to them.",
+      "url": "https://techcrunch.com/2025/10/15/co-founder-of-indian-social-network-koo-releases-a-new-photo-sharing-app/",
+      "publishedAt": "2025-10-16T03:30:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Ivan Mehta",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3058011",
+      "title": "Seoul weighs approval for Google, Apple high-resolution map requests",
+      "description": "South Korea weighs granting Google and Apple access to high-resolution map data amid lingering security and regulatory concerns.",
+      "url": "https://techcrunch.com/2025/10/15/seoul-weighs-approval-for-google-apple-high-resolution-map-requests/",
+      "publishedAt": "2025-10-16T00:48:52.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Kate Park",
+      "tags": []
+    }
+  ]
+}
