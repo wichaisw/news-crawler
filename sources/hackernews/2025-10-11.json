@@ -201,6 +201,17 @@
       "tags": []
     },
     {
+      "id": "z1v7w3",
+      "title": "Read Your Way Through Hà NộI",
+      "description": "Score: 11 | Comments: 0 | Posted by jxmorris12",
+      "url": "https://vietnamesetypography.com/samples/read-your-way-through-ha-noi/",
+      "publishedAt": "2025-10-11T17:28:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jxmorris12",
+      "tags": []
+    },
+    {
       "id": "dis5nq",
       "title": "GNU Health",
       "description": "Score: 378 | Comments: 104 | Posted by smartmic",
@@ -242,6 +253,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "davedx",
+      "tags": []
+    },
+    {
+      "id": "nr1830",
+      "title": "Eon – An Effects-Based OCaml Nameserver",
+      "description": "Score: 55 | Comments: 3 | Posted by Bogdanp",
+      "url": "https://ryan.freumh.org/eon.html",
+      "publishedAt": "2025-10-11T10:02:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Bogdanp",
       "tags": []
     },
     {
@@ -341,6 +363,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jxmorris12",
+      "tags": []
+    },
+    {
+      "id": "45f7an",
+      "title": "How to tame a user interface using a spreadsheet",
+      "description": "Score: 106 | Comments: 25 | Posted by msephton",
+      "url": "https://blog.gingerbeardman.com/2025/10/11/how-to-tame-a-user-interface-using-a-spreadsheet/",
+      "publishedAt": "2025-10-11T00:11:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "msephton",
       "tags": []
     }
   ]

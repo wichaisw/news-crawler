@@ -1,0 +1,42 @@
+{
+  "date": "2025-10-17",
+  "source": "theverge",
+  "articles": [
+    {
+      "id": "twte50",
+      "title": "AT&#038;T is raising home internet prices for the second year in a row",
+      "description": "Everything seems to be getting back-to-back price hikes right now, why not your home internet bill too? AT&#38;T is raising prices by $5 a month on all AT&#38;T Internet plans, the company confirms to The Verge. That’s on top of its $5-a-month increase from November 2024, and, it appears, a $5-a-month increase on some customers [&#8230;]",
+      "url": "https://www.theverge.com/news/801423/att-fiber-home-internet-december-2025-price-raise-hike",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK158_ATT_03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2025-10-17T06:01:20.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Sean Hollister",
+      "tags": []
+    },
+    {
+      "id": "6xyits",
+      "title": "Why world models are the next big thing in AI",
+      "description": "This is an excerpt of Sources by Alex Heath, a newsletter about AI and the tech industry, syndicated just for The Verge subscribers once a week. Around the middle of last year, Pim de Witte started reaching out to a handful of prominent AI labs to see if they'd be interested in using data from [&#8230;]",
+      "url": "https://www.theverge.com/column/801370/ai-world-models-general-intuition-medal",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2025-10-17T01:30:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Alex Heath",
+      "tags": []
+    },
+    {
+      "id": "7qfslh",
+      "title": "MacBook Pro rumor points to OLED, touchscreen upgrades next year",
+      "description": "Apple just announced 14-inch MacBook Pro updates that add a new generation M5 processor, faster storage, and a promise of 24-hour battery life, but Bloomberg’s Mark Gurman now reports next year’s refresh will be more thorough. For several years, Gurman has said that, according to his sources, the next major MacBook Pro revamp would add [&#8230;]",
+      "url": "https://www.theverge.com/news/801363/apple-macbook-pro-2026-rumor-oled-touchscreen",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25786626/247412_Apple_MacBook_Pro_16_M4_Max_ADiBenedetto_0008.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2025-10-17T00:46:04.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Richard Lawler",
+      "tags": []
+    }
+  ]
+}

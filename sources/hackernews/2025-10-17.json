@@ -1,0 +1,50 @@
+{
+  "date": "2025-10-17",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "v3yrsp",
+      "title": "Free the Internet: The Tor Project's annual fundraiser",
+      "description": "Score: 78 | Comments: 10 | Posted by pabs3",
+      "url": "https://blog.torproject.org/2025-fundraiser-donations-matched/",
+      "publishedAt": "2025-10-17T04:10:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pabs3",
+      "tags": []
+    },
+    {
+      "id": "i2d7yj",
+      "title": "Meow.camerameow.camera",
+      "description": "Score: 55 | Comments: 14 | Posted by southwindcg",
+      "url": "https://meow.camera/",
+      "publishedAt": "2025-10-17T04:09:18.959Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "southwindcg",
+      "tags": []
+    },
+    {
+      "id": "i2d7yj",
+      "title": "Meow.camera",
+      "description": "Score: 58 | Comments: 14 | Posted by southwindcg",
+      "url": "https://meow.camera/",
+      "publishedAt": "2025-10-17T03:27:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "southwindcg",
+      "tags": []
+    },
+    {
+      "id": "i105od",
+      "title": "Next steps for BPF support in the GNU toolchain",
+      "description": "Score: 23 | Comments: 1 | Posted by signa11",
+      "url": "https://lwn.net/Articles/1039827/",
+      "publishedAt": "2025-10-17T03:13:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "signa11",
+      "tags": []
+    }
+  ]
+}
