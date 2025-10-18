@@ -1,0 +1,72 @@
+{
+  "date": "2025-10-18",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "tkm4zv",
+      "title": "The Majority AI View",
+      "description": "Score: 12 | Comments: 4 | Posted by Bogdanp",
+      "url": "https://www.anildash.com//2025/10/17/the-majority-ai-view/",
+      "publishedAt": "2025-10-18T04:56:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Bogdanp",
+      "tags": []
+    },
+    {
+      "id": "s9yjrh",
+      "title": "Japan asks OpenAI to keep Sora 2's hands off anime IP",
+      "description": "Score: 29 | Comments: 4 | Posted by maxloh",
+      "url": "https://www.theregister.com/2025/10/15/japan_openai_copyrighted_anime/",
+      "publishedAt": "2025-10-18T02:10:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "maxloh",
+      "tags": []
+    },
+    {
+      "id": "guc8mg",
+      "title": "Show HN: ServiceRadar – open-source Network Observability Platform",
+      "description": "Score: 19 | Comments: 1 | Posted by carverauto",
+      "url": "https://github.com/carverauto/serviceradar",
+      "publishedAt": "2025-10-18T01:49:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "carverauto",
+      "tags": []
+    },
+    {
+      "id": "tyk3mh",
+      "title": "The Unix Executable as a Smalltalk Method [pdf]",
+      "description": "Score: 60 | Comments: 5 | Posted by pcfwik",
+      "url": "https://programmingmadecomplicated.wordpress.com/wp-content/uploads/2025/10/onward25-jakubovic.pdf",
+      "publishedAt": "2025-10-18T01:03:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pcfwik",
+      "tags": []
+    },
+    {
+      "id": "9fvi1p",
+      "title": "Seeing plasma in colour: new imaging from ST40",
+      "description": "Score: 4 | Comments: 0 | Posted by jonbaer",
+      "url": "https://tokamakenergy.com/2025/10/15/seeing-plasma-in-colour-new-imaging-from-st40/",
+      "publishedAt": "2025-10-18T00:32:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jonbaer",
+      "tags": []
+    },
+    {
+      "id": "mcx3cm",
+      "title": "NeXT Computer Offices",
+      "description": "Score: 83 | Comments: 13 | Posted by walterbell",
+      "url": "https://archive.org/details/NeXTComputerOffices",
+      "publishedAt": "2025-10-18T00:15:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "walterbell",
+      "tags": []
+    }
+  ]
+}

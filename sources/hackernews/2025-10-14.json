@@ -201,6 +201,17 @@
       "tags": []
     },
     {
+      "id": "9la1fd",
+      "title": "Smithsonian Open Access",
+      "description": "Score: 58 | Comments: 6 | Posted by bookofjoe",
+      "url": "https://www.si.edu/openaccess",
+      "publishedAt": "2025-10-14T16:29:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bookofjoe",
+      "tags": []
+    },
+    {
       "id": "z6v89i",
       "title": "How AI hears accents: An audible visualization of accent clusters",
       "description": "Score: 196 | Comments: 78 | Posted by ilyausorov",
@@ -256,6 +267,17 @@
       "tags": []
     },
     {
+      "id": "3k2773",
+      "title": "When if is just a function",
+      "description": "Score: 37 | Comments: 43 | Posted by soheilpro",
+      "url": "https://ryelang.org/blog/posts/if-as-function-blogpost-working-on-it_ver1/",
+      "publishedAt": "2025-10-14T14:20:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "soheilpro",
+      "tags": []
+    },
+    {
       "id": "3qv21v",
       "title": "Pyrefly: Python type checker and language server in Rust",
       "description": "Score: 185 | Comments: 131 | Posted by brianzelip",
@@ -308,6 +330,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "fork-bomber",
+      "tags": []
+    },
+    {
+      "id": "glvel0",
+      "title": "PlayStation 3 Architecture (2021)",
+      "description": "Score: 120 | Comments: 23 | Posted by adamwk",
+      "url": "https://www.copetti.org/writings/consoles/playstation-3",
+      "publishedAt": "2025-10-14T05:21:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "adamwk",
       "tags": []
     },
     {

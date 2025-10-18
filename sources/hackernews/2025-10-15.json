@@ -113,6 +113,17 @@
       "tags": []
     },
     {
+      "id": "ls7tpd",
+      "title": "Exploring PostgreSQL 18's new UUIDv7 support",
+      "description": "Score: 197 | Comments: 143 | Posted by s4i",
+      "url": "https://aiven.io/blog/exploring-postgresql-18-new-uuidv7-support",
+      "publishedAt": "2025-10-15T14:40:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "s4i",
+      "tags": []
+    },
+    {
       "id": "20gj37",
       "title": "Reverse engineering a 27MHz RC toy communication using RTL SDR",
       "description": "Score: 83 | Comments: 20 | Posted by austinallegro",
