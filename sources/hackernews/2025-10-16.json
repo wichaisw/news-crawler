@@ -36,6 +36,17 @@
       "tags": []
     },
     {
+      "id": "jww1ub",
+      "title": "K8s with 1M nodes",
+      "description": "Score: 168 | Comments: 40 | Posted by denysvitali",
+      "url": "https://bchess.github.io/k8s-1m/",
+      "publishedAt": "2025-10-16T22:04:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "denysvitali",
+      "tags": []
+    },
+    {
       "id": "wxqdw4",
       "title": "Understanding Spec-Driven-Development: Kiro, Spec-Kit, and Tessl",
       "description": "Score: 55 | Comments: 6 | Posted by janpio",
@@ -110,6 +121,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "pixelmelt",
+      "tags": []
+    },
+    {
+      "id": "rdo9cq",
+      "title": "When you opened a screen shot of a video in Paint, the video was playing in it",
+      "description": "Score: 205 | Comments: 29 | Posted by birdculture",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20251014-00/?p=111681",
+      "publishedAt": "2025-10-16T19:57:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "birdculture",
       "tags": []
     },
     {
@@ -198,6 +220,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "meetpateltech",
+      "tags": []
+    },
+    {
+      "id": "wtiwrk",
+      "title": "Secret diplomatic message deciphered after 350 years",
+      "description": "Score: 131 | Comments: 17 | Posted by robin_reala",
+      "url": "https://www.nationalarchives.gov.uk/explore-the-collection/the-collection-blog/secret-diplomatic-message-deciphered-after-350-years/",
+      "publishedAt": "2025-10-16T15:56:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "robin_reala",
       "tags": []
     },
     {
@@ -297,6 +330,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "shardullavekar",
+      "tags": []
+    },
+    {
+      "id": "c874zn",
+      "title": "Solution to CIA’s Kryptos sculpture is found in Smithsonian vault",
+      "description": "Score: 139 | Comments: 80 | Posted by elahieh",
+      "url": "https://www.nytimes.com/2025/10/16/science/kryptos-cia-solution-sanborn-auction.html",
+      "publishedAt": "2025-10-16T10:56:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "elahieh",
       "tags": []
     },
     {
@@ -462,6 +506,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "amichail",
+      "tags": []
+    },
+    {
+      "id": "hai2a9",
+      "title": "Coral NPU: A full-stack platform for Edge AI",
+      "description": "Score: 114 | Comments: 17 | Posted by LER0ever",
+      "url": "https://research.google/blog/coral-npu-a-full-stack-platform-for-edge-ai/",
+      "publishedAt": "2025-10-16T01:25:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "LER0ever",
       "tags": []
     },
     {

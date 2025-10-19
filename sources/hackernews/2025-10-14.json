@@ -91,6 +91,17 @@
       "tags": []
     },
     {
+      "id": "gfdvor",
+      "title": "Why the open social web matters now",
+      "description": "Score: 127 | Comments: 68 | Posted by benwerd",
+      "url": "https://werd.io/why-the-open-social-web-matters-now/",
+      "publishedAt": "2025-10-14T19:50:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "benwerd",
+      "tags": []
+    },
+    {
       "id": "ww4xiw",
       "title": "How to turn liquid glass into a solid interface",
       "description": "Score: 116 | Comments: 85 | Posted by tambourine_man",
@@ -223,6 +234,17 @@
       "tags": []
     },
     {
+      "id": "2ru3nm",
+      "title": "Ruby Blocks",
+      "description": "Score: 182 | Comments: 116 | Posted by stonecharioteer",
+      "url": "https://tech.stonecharioteer.com/posts/2025/ruby-blocks/",
+      "publishedAt": "2025-10-14T15:58:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "stonecharioteer",
+      "tags": []
+    },
+    {
       "id": "6du3op",
       "title": "A modern approach to preventing CSRF in Go",
       "description": "Score: 40 | Comments: 5 | Posted by todsacerdoti",
@@ -319,6 +341,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "keepamovin",
+      "tags": []
+    },
+    {
+      "id": "5pa8qi",
+      "title": "Adding Breadcrumbs to a Rails Application",
+      "description": "Score: 41 | Comments: 2 | Posted by flow-flow",
+      "url": "https://avohq.io/blog/breadcrumbs-rails",
+      "publishedAt": "2025-10-14T09:54:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "flow-flow",
       "tags": []
     },
     {

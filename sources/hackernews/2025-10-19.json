@@ -1,0 +1,50 @@
+{
+  "date": "2025-10-19",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "o5xb72",
+      "title": "The Accountability Problem",
+      "description": "Score: 29 | Comments: 2 | Posted by FrancoisBosun",
+      "url": "https://www.jamesshore.com/v2/blog/2025/the-accountability-problem",
+      "publishedAt": "2025-10-19T02:22:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "FrancoisBosun",
+      "tags": []
+    },
+    {
+      "id": "r6y7ro",
+      "title": "Friendship Begins at Home3quarksdaily.com",
+      "description": "Score: 74 | Comments: 28 | Posted by herbertl",
+      "url": "https://3quarksdaily.com/3quarksdaily/2025/10/friendship-begins-at-home.html",
+      "publishedAt": "2025-10-19T02:08:43.747Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "herbertl",
+      "tags": []
+    },
+    {
+      "id": "r6y7ro",
+      "title": "Friendship Begins at Home",
+      "description": "Score: 74 | Comments: 28 | Posted by herbertl",
+      "url": "https://3quarksdaily.com/3quarksdaily/2025/10/friendship-begins-at-home.html",
+      "publishedAt": "2025-10-19T01:23:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "herbertl",
+      "tags": []
+    },
+    {
+      "id": "hmesdn",
+      "title": "Using Pegs in Janet",
+      "description": "Score: 20 | Comments: 2 | Posted by Bogdanp",
+      "url": "https://articles.inqk.net/2020/09/19/how-to-use-pegs-in-janet.html",
+      "publishedAt": "2025-10-19T00:33:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Bogdanp",
+      "tags": []
+    }
+  ]
+}
