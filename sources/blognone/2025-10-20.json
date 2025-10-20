@@ -1,0 +1,73 @@
+{
+  "date": "2025-10-20",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "148575 at https://www.blognone.com",
+      "title": "เว็บ Xubuntu.org อาจถูกแฮก ใช้เผยแพร่มัลแวร์ขโมยคริปโต",
+      "description": "เว็บ Xubuntu.org อาจถูกแฮก ใช้เผยแพร่มัลแวร์ขโมยคริปโต Body ผู้ใช้จำนวนมากรายงานว่าเว็บ Xubuntu.org ที่ใช้เผยแพร่ Ubuntu เวอร์ชั่นปรับแต่งใช้ XFCE",
+      "url": "https://www.blognone.com/node/148575",
+      "publishedAt": "2025-10-20T04:24:35.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148574 at https://www.blognone.com",
+      "title": "Sony ยื่นขอใบอนุญาตตั้งธนาคารในสหรัฐ เพื่อออกเหรียญ Stablecoin",
+      "description": "Sony ยื่นขอใบอนุญาตตั้งธนาคารในสหรัฐ เพื่อออกเหรียญ Stablecoin Body วงการคริปโตกำลังจะมีผู้เล่นหน้าใหม่ที่เป็นบริษัทยักษ์ใหญ่ระดับโลก นั่นคือ Sony",
+      "url": "https://www.blognone.com/node/148574",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2025/2025-10/sony-bank.png",
+      "publishedAt": "2025-10-20T03:43:43.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148573 at https://www.blognone.com",
+      "title": "ออกตัวแรงไปนิด นักวิจัย OpenAI บอก GPT-5 แก้โจทย์คณิตศาสตร์ Paul Erdős ได้ แต่จริงๆ แล้วเข้าใจผิด",
+      "description": "ออกตัวแรงไปนิด นักวิจัย OpenAI บอก GPT-5 แก้โจทย์คณิตศาสตร์ Paul Erdős ได้ แต่จริงๆ แล้วเข้าใจผิด Body ในโลกคณิตศาสตร์ มีข้อคาดการณ์ (conjecture) ที่",
+      "url": "https://www.blognone.com/node/148573",
+      "publishedAt": "2025-10-20T03:09:19.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148572 at https://www.blognone.com",
+      "title": "GIMP ออกแพ็กเกจ Snap อย่างเป็นทางการ",
+      "description": "GIMP ออกแพ็กเกจ Snap อย่างเป็นทางการ Body โครงการ GIMP ประกาศออก แพ็กเกจ Snap สำหรับดิสโทรตระกูล Ubuntu (รวมถึงดิสโทรอื่นๆ ที่รองรับ) อย่างเป็นทางการ",
+      "url": "https://www.blognone.com/node/148572",
+      "publishedAt": "2025-10-20T02:46:05.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148571 at https://www.blognone.com",
+      "title": "ไมโครซอฟท์เริ่มปล่อยอัพเดต Windows 11 25H2 ให้กับผู้ใช้ทุกคนแล้ว",
+      "description": "ไมโครซอฟท์เริ่มปล่อยอัพเดต Windows 11 25H2 ให้กับผู้ใช้ทุกคนแล้ว Body ไมโครซอฟท์ปล่อย Windows 11 2025 Update หรือ 25H2 ให้กับ ผู้ใช้ทุกคน แล้ว",
+      "url": "https://www.blognone.com/node/148571",
+      "publishedAt": "2025-10-20T02:36:52.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148570 at https://www.blognone.com",
+      "title": "X เปลี่ยนวิธีแสดงเนื้อหาลิงก์ภายนอกแบบใหม่ มีแถบ Reaction อยู่ด้านล่าง",
+      "description": "X เปลี่ยนวิธีแสดงเนื้อหาลิงก์ภายนอกแบบใหม่ มีแถบ Reaction อยู่ด้านล่าง Body X ทดสอบวิธีแสดงเนื้อหาลิงก์ภายนอกแบบใหม่",
+      "url": "https://www.blognone.com/node/148570",
+      "publishedAt": "2025-10-20T00:14:09.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}

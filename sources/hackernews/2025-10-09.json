@@ -47,6 +47,17 @@
       "tags": []
     },
     {
+      "id": "oe6cvs",
+      "title": "Show HN: Open-Source Voice AI Badge Powered by ESP32+WebRTC",
+      "description": "Score: 43 | Comments: 4 | Posted by Sean-Der",
+      "url": "https://github.com/VapiAI/vapicon-2025-hardware-workshop",
+      "publishedAt": "2025-10-09T20:55:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Sean-Der",
+      "tags": []
+    },
+    {
       "id": "sy6wqc",
       "title": "A built-in 'off switch' to stop persistent pain",
       "description": "Score: 139 | Comments: 63 | Posted by gmays",
@@ -352,6 +363,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "lairv",
+      "tags": []
+    },
+    {
+      "id": "bhskvn",
+      "title": "Discussion of the Benefits and Drawbacks of the Git Pre-Commit Hook",
+      "description": "Score: 13 | Comments: 8 | Posted by hambes",
+      "url": "https://yeldirium.de/2025/10/09/pre-commit-hooks/index.html",
+      "publishedAt": "2025-10-09T13:18:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hambes",
       "tags": []
     },
     {

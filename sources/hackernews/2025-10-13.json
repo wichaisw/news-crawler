@@ -124,6 +124,17 @@
       "tags": []
     },
     {
+      "id": "46cpcg",
+      "title": "The Cancer Imaging Archive (TCIA)",
+      "description": "Score: 45 | Comments: 5 | Posted by 1970-01-01",
+      "url": "https://www.cancerimagingarchive.net/",
+      "publishedAt": "2025-10-13T17:06:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "1970-01-01",
+      "tags": []
+    },
+    {
       "id": "9194tf",
       "title": "Carbonized 1,300-Year-Old Bread Loaves Unearthed in Turkey",
       "description": "Score: 31 | Comments: 13 | Posted by ilamont",
@@ -220,6 +231,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "sqliteonline",
+      "tags": []
+    },
+    {
+      "id": "4rsx40",
+      "title": "Don't Force Your LLM to Write Terse [Q/Kdb] Code: An Information Theory Argument",
+      "description": "Score: 18 | Comments: 8 | Posted by gabiteodoru",
+      "url": "https://medium.com/@gabiteodoru/dont-force-your-llm-to-write-terse-code-an-argument-from-information-theory-for-q-kdb-developers-04077c5b7038",
+      "publishedAt": "2025-10-13T12:44:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gabiteodoru",
       "tags": []
     },
     {
