@@ -179,6 +179,17 @@
       "tags": []
     },
     {
+      "id": "6zn34x",
+      "title": "ChkTag: x86 Memory Safety",
+      "description": "Score: 227 | Comments: 105 | Posted by ashvardanian",
+      "url": "https://community.intel.com/t5/Blogs/Tech-Innovation/open-intel/ChkTag-x86-Memory-Safety/post/1721490",
+      "publishedAt": "2025-10-14T18:04:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ashvardanian",
+      "tags": []
+    },
+    {
       "id": "own1gd",
       "title": "SmolBSD – build your own minimal BSD system",
       "description": "Score: 168 | Comments: 11 | Posted by birdculture",
@@ -366,6 +377,17 @@
       "tags": []
     },
     {
+      "id": "77bvsm",
+      "title": "When Compiler Optimizations Hurt Performance",
+      "description": "Score: 12 | Comments: 0 | Posted by rbanffy",
+      "url": "https://nemanjatrifunovic.substack.com/p/when-compiler-optimizations-hurt",
+      "publishedAt": "2025-10-14T09:49:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rbanffy",
+      "tags": []
+    },
+    {
       "id": "6fn8ap",
       "title": "Comparing the power consumption of a 30 year old refrigerator to a new one",
       "description": "Score: 155 | Comments: 182 | Posted by furkansahin",
@@ -374,6 +396,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "furkansahin",
+      "tags": []
+    },
+    {
+      "id": "ndd4s1",
+      "title": "Optical diffraction patterns made with a MOPA laser engraving machine [video]",
+      "description": "Score: 126 | Comments: 23 | Posted by emsign",
+      "url": "https://www.youtube.com/watch?v=RsGHr7dXLuI",
+      "publishedAt": "2025-10-14T07:09:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "emsign",
       "tags": []
     },
     {

@@ -3,6 +3,50 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "148580 at https://www.blognone.com",
+      "title": "It was DNS. AWS ชี้แจง US-EAST-1 ล่มเพราะ DNS ดับ",
+      "description": "It was DNS. AWS ชี้แจง US-EAST-1 ล่มเพราะ DNS ดับ Body เหตุการณ์ AWS US-EAST-1 มีปัญหาเป็นวงกว้าง ยังคงสร้างผลกระทบเนื่อง โดยบริการจำนวนมาก เช่น EC2",
+      "url": "https://www.blognone.com/node/148580",
+      "publishedAt": "2025-10-20T13:36:42.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148579 at https://www.blognone.com",
+      "title": "X เปิดตัว Handle บริการซื้อต่อชื่อบัญชีเก่าที่ไม่ Active แล้ว",
+      "description": "X เปิดตัว Handle บริการซื้อต่อชื่อบัญชีเก่าที่ไม่ Active แล้ว Body X เปิดตัวบริการใหม่ X Handle Marketplace",
+      "url": "https://www.blognone.com/node/148579",
+      "publishedAt": "2025-10-20T11:20:27.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148577 at https://www.blognone.com",
+      "title": "AWS โซน US-EAST-1 ขัดข้อง ทำ Canva, Slack, Roblox, Perplexity และหลายบริการออนไลน์ล่ม",
+      "description": "AWS โซน US-EAST-1 ขัดข้อง ทำ Canva, Slack, Roblox, Perplexity และหลายบริการออนไลน์ล่ม Body Amazon Web Services หรือ AWS",
+      "url": "https://www.blognone.com/node/148577",
+      "publishedAt": "2025-10-20T08:35:43.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148576 at https://www.blognone.com",
+      "title": "[Counterpoint] iPhone 17 มียอดขายที่สูงกว่า iPhone 16 ถึง 14% ใน 10 วันแรกที่เริ่มขายในอเมริกาและจีน",
+      "description": "[Counterpoint] iPhone 17 มียอดขายที่สูงกว่า iPhone 16 ถึง 14% ใน 10 วันแรกที่เริ่มขายในอเมริกาและจีน Body บริษัทวิจัยตลาด Counterpoint Research",
+      "url": "https://www.blognone.com/node/148576",
+      "publishedAt": "2025-10-20T05:48:17.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "148575 at https://www.blognone.com",
       "title": "เว็บ Xubuntu.org อาจถูกแฮก ใช้เผยแพร่มัลแวร์ขโมยคริปโต",
       "description": "เว็บ Xubuntu.org อาจถูกแฮก ใช้เผยแพร่มัลแวร์ขโมยคริปโต Body ผู้ใช้จำนวนมากรายงานว่าเว็บ Xubuntu.org ที่ใช้เผยแพร่ Ubuntu เวอร์ชั่นปรับแต่งใช้ XFCE",

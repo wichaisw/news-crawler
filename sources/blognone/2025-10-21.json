@@ -1,0 +1,39 @@
+{
+  "date": "2025-10-21",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "148583 at https://www.blognone.com",
+      "title": "Servo เอนจินเบราว์เซอร์เขียนด้วย Rust ออกเวอร์ชั่น 0.0.1 หลังพัฒนามา 13 ปี",
+      "description": "Servo เอนจินเบราว์เซอร์เขียนด้วย Rust ออกเวอร์ชั่น 0.0.1 หลังพัฒนามา 13 ปี Body Servo โครงการเอนจินเบราว์เซอร์ที่เขียนด้วย Rust ทั้งหมด",
+      "url": "https://www.blognone.com/node/148583",
+      "publishedAt": "2025-10-21T05:02:30.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148582 at https://www.blognone.com",
+      "title": "Anthropic เปิดตัว Claude Code เวอร์ชันเว็บ สั่งเขียนโค้ดได้ผ่านเบราว์เซอร์",
+      "description": "Anthropic เปิดตัว Claude Code เวอร์ชันเว็บ สั่งเขียนโค้ดได้ผ่านเบราว์เซอร์ Body Anthropic เปิดตัว Claude Code on the web",
+      "url": "https://www.blognone.com/node/148582",
+      "publishedAt": "2025-10-21T02:32:14.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148581 at https://www.blognone.com",
+      "title": "รัฐบาลจีนระบุ NSA แฮกศูนย์เทียบเวลาแห่งชาติ",
+      "description": "รัฐบาลจีนระบุ NSA แฮกศูนย์เทียบเวลาแห่งชาติ Body กระทรวงความมั่นคงแห่งรัฐของรัฐบาลจีนแถลงว่า NSA โจมตี National Time Service Center",
+      "url": "https://www.blognone.com/node/148581",
+      "publishedAt": "2025-10-21T01:18:21.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}

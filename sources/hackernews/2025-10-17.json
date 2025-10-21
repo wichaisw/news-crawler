@@ -14,6 +14,17 @@
       "tags": []
     },
     {
+      "id": "dbx8vj",
+      "title": "Results from blood test for 50 cancers",
+      "description": "Score: 79 | Comments: 41 | Posted by dabinat",
+      "url": "https://www.bbc.com/news/articles/c205g21n1zzo",
+      "publishedAt": "2025-10-17T23:54:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dabinat",
+      "tags": []
+    },
+    {
       "id": "hz7k8r",
       "title": "Every vibe-coded website is the same page with different words. So I made that",
       "description": "Score: 117 | Comments: 87 | Posted by todsacerdoti",
@@ -66,6 +77,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "wofo",
+      "tags": []
+    },
+    {
+      "id": "fkr4g1",
+      "title": "Code from MIT's 1986 SICP video lectures",
+      "description": "Score: 101 | Comments: 13 | Posted by felipap",
+      "url": "https://github.com/felipap/sicp-code",
+      "publishedAt": "2025-10-17T20:18:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "felipap",
       "tags": []
     },
     {
@@ -176,6 +198,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "felarof",
+      "tags": []
+    },
+    {
+      "id": "fbzwuh",
+      "title": "Show HN: I'm making a detective game built on Wikipedia",
+      "description": "Score: 33 | Comments: 8 | Posted by jasonsmiles",
+      "url": "https://detective.wiki/",
+      "publishedAt": "2025-10-17T15:34:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jasonsmiles",
       "tags": []
     },
     {
@@ -319,6 +352,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "signa11",
+      "tags": []
+    },
+    {
+      "id": "j1cpga",
+      "title": "Art Must Act",
+      "description": "Score: 35 | Comments: 2 | Posted by tintinnabula",
+      "url": "https://aeon.co/essays/harold-rosenberg-exhorted-artists-to-take-action-and-resist-cliche",
+      "publishedAt": "2025-10-17T00:28:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tintinnabula",
       "tags": []
     }
   ]

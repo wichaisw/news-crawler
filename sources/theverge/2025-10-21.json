@@ -1,0 +1,30 @@
+{
+  "date": "2025-10-21",
+  "source": "theverge",
+  "articles": [
+    {
+      "id": "jvdxoh",
+      "title": "Google’s new deadline for Epic consequences is October 29th",
+      "description": "Two days from today, October 22nd, was Google’s deadline to begin opening up its app store, stop forcing developers to use Google Play Billing, let them set their own prices, and more, following Epic’s repeated wins in Epic v. Google. But both Epic and Google have just successfully and mysteriously argued for one final week’s [&#8230;]",
+      "url": "https://www.theverge.com/news/803143/googles-new-deadline-for-epic-consequences-is-october-29th",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25047547/236883_Epic_Vs_Google_B_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2025-10-21T00:28:15.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Sean Hollister",
+      "tags": []
+    },
+    {
+      "id": "ker2ud",
+      "title": "Bryan Cranston and SAG-AFTRA say OpenAI is taking their deepfake concerns seriously",
+      "description": "Actors, studios, agents, and the actors union SAG-AFTRA have all expressed their concerns about appearing in Sora 2's AI-generated videos ever since the deepfake machine was released last month. Now a joint statement from actor Bryan Cranston, OpenAI, the union, and others says that after videos of him appeared on Sora — one even showed [&#8230;]",
+      "url": "https://www.theverge.com/news/803141/openai-sora-bryan-cranston-deepfakes",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/kTm2Q30DT9sCOWpyFewTes78TWbe7s-fy-w68LlL6V0.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2025-10-21T00:14:57.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Elissa Welle",
+      "tags": []
+    }
+  ]
+}

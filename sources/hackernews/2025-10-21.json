@@ -1,0 +1,50 @@
+{
+  "date": "2025-10-21",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "kes43u",
+      "title": "What went down at WCSB 89.3FM: Cleveland State's axed student radio station",
+      "description": "Score: 4 | Comments: 0 | Posted by repeekad",
+      "url": "https://www.cleveland.com/news/2025/10/what-went-down-at-wcsb-893fm-a-voice-from-inside-cleveland-states-axed-student-radio-station.html",
+      "publishedAt": "2025-10-21T05:05:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "repeekad",
+      "tags": []
+    },
+    {
+      "id": "7as1cv",
+      "title": "Nuclear Exercising at NATO",
+      "description": "Score: 6 | Comments: 0 | Posted by georgecmu",
+      "url": "https://walberque.substack.com/p/nuclear-exercising-at-nato",
+      "publishedAt": "2025-10-21T04:48:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "georgecmu",
+      "tags": []
+    },
+    {
+      "id": "l158wt",
+      "title": "Association between prenatal exposure to plastics and autism in boys",
+      "description": "Score: 5 | Comments: 1 | Posted by donsupreme",
+      "url": "https://www.scimex.org/newsfeed/florey-research-finds-association-between-prenatal-exposure-to-plastics-and-autism-in-boys",
+      "publishedAt": "2025-10-21T04:34:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "donsupreme",
+      "tags": []
+    },
+    {
+      "id": "nqr2mk",
+      "title": "60k kids have avoided peanut allergies due to 2015 advice, study finds",
+      "description": "Score: 68 | Comments: 42 | Posted by zdw",
+      "url": "https://www.cbsnews.com/news/peanut-allergies-60000-kids-avoided-2015-advice/",
+      "publishedAt": "2025-10-21T03:53:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    }
+  ]
+}
