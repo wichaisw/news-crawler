@@ -1,0 +1,72 @@
+{
+  "date": "2025-10-22",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "5jvyvb",
+      "title": "Evaluating the Infinity Cache in AMD Strix Halochipsandcheese.com",
+      "description": "Score: 33 | Comments: 9 | Posted by zdw",
+      "url": "https://chipsandcheese.com/p/evaluating-the-infinity-cache-in",
+      "publishedAt": "2025-10-22T05:10:19.458Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "5jvyvb",
+      "title": "Evaluating the Infinity Cache in AMD Strix Halo",
+      "description": "Score: 33 | Comments: 9 | Posted by zdw",
+      "url": "https://chipsandcheese.com/p/evaluating-the-infinity-cache-in",
+      "publishedAt": "2025-10-22T04:20:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "op78p3",
+      "title": "If you'd built a \"tool\" that stupid, why would you advertise the fact?svpow.com",
+      "description": "Score: 21 | Comments: 2 | Posted by surprisetalk",
+      "url": "https://svpow.com/2025/10/13/if-youd-built-a-tool-that-stupid-why-would-you-advertise-the-fact/",
+      "publishedAt": "2025-10-22T04:10:19.459Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
+      "id": "lk6ctm",
+      "title": "Show HN: AutoLearn Skills for self-improving agents",
+      "description": "Score: 14 | Comments: 8 | Posted by toobulkeh",
+      "url": "https://www.autolearn.dev",
+      "publishedAt": "2025-10-22T02:54:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "toobulkeh",
+      "tags": []
+    },
+    {
+      "id": "4fjsb7",
+      "title": "OpenBSD 7.8",
+      "description": "Score: 130 | Comments: 29 | Posted by paulnpace",
+      "url": "https://cdn.openbsd.org/pub/OpenBSD/7.8/ANNOUNCEMENT",
+      "publishedAt": "2025-10-22T02:02:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "paulnpace",
+      "tags": []
+    },
+    {
+      "id": "a38vyn",
+      "title": "Cdb: Add support for cdb64",
+      "description": "Score: 78 | Comments: 22 | Posted by kreco",
+      "url": "https://cdb.cr.yp.to/download.html",
+      "publishedAt": "2025-10-22T00:11:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kreco",
+      "tags": []
+    }
+  ]
+}

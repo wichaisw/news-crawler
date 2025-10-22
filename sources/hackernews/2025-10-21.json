@@ -3,6 +3,259 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "anohsw",
+      "title": "The Hidden Engineering of Niagara Falls",
+      "description": "Score: 90 | Comments: 2 | Posted by chmaynard",
+      "url": "https://practical.engineering/blog/2025/10/21/the-hidden-engineering-of-niagara-falls",
+      "publishedAt": "2025-10-21T22:43:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "chmaynard",
+      "tags": []
+    },
+    {
+      "id": "knewor",
+      "title": "Eget: Easy pre-built binary installation from GitHub",
+      "description": "Score: 11 | Comments: 1 | Posted by lfx",
+      "url": "https://github.com/zyedidia/eget",
+      "publishedAt": "2025-10-21T21:33:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lfx",
+      "tags": []
+    },
+    {
+      "id": "smk9li",
+      "title": "The Lottery-fication of Everything",
+      "description": "Score: 82 | Comments: 48 | Posted by _1729",
+      "url": "https://www.dopaminemarkets.com/p/the-lottery-fication-of-everything",
+      "publishedAt": "2025-10-21T21:05:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "_1729",
+      "tags": []
+    },
+    {
+      "id": "9zei70",
+      "title": "rlsw – Raylib software OpenGL renderer in less than 5k LOC",
+      "description": "Score: 151 | Comments: 32 | Posted by fschuett",
+      "url": "https://github.com/raysan5/raylib/blob/master/src/external/rlsw.h",
+      "publishedAt": "2025-10-21T21:00:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fschuett",
+      "tags": []
+    },
+    {
+      "id": "itt47o",
+      "title": "Erowid - Documenting the Complex Relationship Between Humans and Psychoactives",
+      "description": "Score: 51 | Comments: 2 | Posted by slow_typist",
+      "url": "https://www.erowid.org",
+      "publishedAt": "2025-10-21T20:31:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "slow_typist",
+      "tags": []
+    },
+    {
+      "id": "yj71az",
+      "title": "Replacing a $3000/mo Heroku bill with a $55/mo server",
+      "description": "Score: 539 | Comments: 377 | Posted by jryio",
+      "url": "https://disco.cloud/blog/how-idealistorg-replaced-a-3000mo-heroku-bill-with-a-55-server/",
+      "publishedAt": "2025-10-21T20:28:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jryio",
+      "tags": []
+    },
+    {
+      "id": "5bl0m",
+      "title": "Doomsday scoreboard",
+      "description": "Score: 197 | Comments: 96 | Posted by diymaker",
+      "url": "https://doomsday.march1studios.com/",
+      "publishedAt": "2025-10-21T20:14:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "diymaker",
+      "tags": []
+    },
+    {
+      "id": "vtvntc",
+      "title": "Researchers complete first human trial on viability of enteral ventilation",
+      "description": "Score: 36 | Comments: 43 | Posted by mustaphah",
+      "url": "https://newatlas.com/disease/butt-breathing-ignobel-prize/",
+      "publishedAt": "2025-10-21T18:44:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mustaphah",
+      "tags": []
+    },
+    {
+      "id": "z3rozx",
+      "title": "ChatGPT Atlas",
+      "description": "Score: 625 | Comments: 588 | Posted by easton",
+      "url": "https://chatgpt.com/atlas",
+      "publishedAt": "2025-10-21T17:18:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "easton",
+      "tags": []
+    },
+    {
+      "id": "ll180w",
+      "title": "The Programmer Identity Crisis",
+      "description": "Score: 219 | Comments: 202 | Posted by imasl42",
+      "url": "https://hojberg.xyz/the-programmer-identity-crisis/",
+      "publishedAt": "2025-10-21T16:47:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "imasl42",
+      "tags": []
+    },
+    {
+      "id": "eano43",
+      "title": "Build your own database",
+      "description": "Score: 448 | Comments: 67 | Posted by nansdotio",
+      "url": "https://www.nan.fyi/database",
+      "publishedAt": "2025-10-21T16:31:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nansdotio",
+      "tags": []
+    },
+    {
+      "id": "k1cjtp",
+      "title": "Public trust demands open-source voting systems",
+      "description": "Score: 199 | Comments: 241 | Posted by philips",
+      "url": "https://www.voting.works/news/public-trust-demands-open-source-voting-systems",
+      "publishedAt": "2025-10-21T16:01:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "philips",
+      "tags": []
+    },
+    {
+      "id": "2of99",
+      "title": "Foreign hackers breached a US nuclear weapons plant via SharePoint flaws",
+      "description": "Score: 356 | Comments: 249 | Posted by zdw",
+      "url": "https://www.csoonline.com/article/4074962/foreign-hackers-breached-a-us-nuclear-weapons-plant-via-sharepoint-flaws.html",
+      "publishedAt": "2025-10-21T15:51:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "qqs3yp",
+      "title": "20,858 Public Domain Audio Books",
+      "description": "Score: 57 | Comments: 5 | Posted by smooke",
+      "url": "https://librivox.org/search",
+      "publishedAt": "2025-10-21T15:48:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "smooke",
+      "tags": []
+    },
+    {
+      "id": "4traqv",
+      "title": "Show HN: Katakate – Dozens of VMs per node for safe code exec",
+      "description": "Score: 101 | Comments: 36 | Posted by gbxk",
+      "url": "https://github.com/Katakate/k7",
+      "publishedAt": "2025-10-21T15:22:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gbxk",
+      "tags": []
+    },
+    {
+      "id": "lpbl0b",
+      "title": "LLMs can get \"brain rot\"",
+      "description": "Score: 342 | Comments: 195 | Posted by tamnd",
+      "url": "https://llm-brain-rot.github.io/",
+      "publishedAt": "2025-10-21T14:24:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tamnd",
+      "tags": []
+    },
+    {
+      "id": "r2lghq",
+      "title": "Ilo – a Forth system running on UEFI",
+      "description": "Score: 110 | Comments: 43 | Posted by rickcarlino",
+      "url": "https://asciinema.org/a/Lbxa2w9R5IbaJqW3INqVrbX8E",
+      "publishedAt": "2025-10-21T13:05:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rickcarlino",
+      "tags": []
+    },
+    {
+      "id": "z202s8",
+      "title": "Our modular, high-performance Merkle Tree library for Rust",
+      "description": "Score: 129 | Comments: 27 | Posted by bibiver",
+      "url": "https://github.com/bilinearlabs/rs-merkle-tree",
+      "publishedAt": "2025-10-21T12:58:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bibiver",
+      "tags": []
+    },
+    {
+      "id": "5fwmnx",
+      "title": "NASA chief suggests SpaceX may be booted from moon mission",
+      "description": "Score: 274 | Comments: 780 | Posted by voxleone",
+      "url": "https://www.cnn.com/2025/10/20/science/nasa-spacex-moon-landing-contract-sean-duffy",
+      "publishedAt": "2025-10-21T12:58:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "voxleone",
+      "tags": []
+    },
+    {
+      "id": "22qcl6",
+      "title": "Neural audio codecs: how to get audio into LLMs",
+      "description": "Score: 348 | Comments: 103 | Posted by karimf",
+      "url": "https://kyutai.org/next/codec-explainer",
+      "publishedAt": "2025-10-21T12:55:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "karimf",
+      "tags": []
+    },
+    {
+      "id": "2fm8gg",
+      "title": "StarGrid: A new Palm OS strategy game",
+      "description": "Score: 195 | Comments: 48 | Posted by capitain",
+      "url": "https://quarters.captaintouch.com/blog/posts/2025-10-21-stargrid-has-arrived,-a-brand-new-palm-os-strategy-game-in-2025.html",
+      "publishedAt": "2025-10-21T11:42:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "capitain",
+      "tags": []
+    },
+    {
+      "id": "l73c63",
+      "title": "Diamond Thermal Conductivity: A New Era in Chip Cooling",
+      "description": "Score: 180 | Comments: 59 | Posted by rbanffy",
+      "url": "https://spectrum.ieee.org/diamond-thermal-conductivity",
+      "publishedAt": "2025-10-21T11:16:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rbanffy",
+      "tags": []
+    },
+    {
+      "id": "qwatei",
+      "title": "Language Support for Marginalia Search",
+      "description": "Score: 167 | Comments: 14 | Posted by Bogdanp",
+      "url": "https://www.marginalia.nu/log/a_126_multilingual/",
+      "publishedAt": "2025-10-21T06:48:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Bogdanp",
+      "tags": []
+    },
+    {
       "id": "kes43u",
       "title": "What went down at WCSB 89.3FM: Cleveland State's axed student radio station",
       "description": "Score: 4 | Comments: 0 | Posted by repeekad",
@@ -44,6 +297,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "js1yyq",
+      "title": "Wikipedia says traffic is falling due to AI search summaries and social video",
+      "description": "Score: 353 | Comments: 309 | Posted by gmays",
+      "url": "https://techcrunch.com/2025/10/18/wikipedia-says-traffic-is-falling-due-to-ai-search-summaries-and-social-video/",
+      "publishedAt": "2025-10-21T01:29:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gmays",
       "tags": []
     }
   ]
