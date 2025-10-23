@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "u76n5e",
+      "title": "I, Sharpie",
+      "description": "Score: 42 | Comments: 27 | Posted by delichon",
+      "url": "https://www.commonplace.org/p/chris-griswold-i-sharpie",
+      "publishedAt": "2025-10-15T23:57:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "delichon",
+      "tags": []
+    },
+    {
       "id": "h0s6im",
       "title": "Writing an LLM from scratch, part 22 – training our LLM",
       "description": "Score: 134 | Comments: 2 | Posted by gpjt",

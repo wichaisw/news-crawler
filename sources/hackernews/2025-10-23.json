@@ -1,0 +1,94 @@
+{
+  "date": "2025-10-23",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "xr9b5w",
+      "title": "VST3 audio plugin format is now MITsteinberg.net",
+      "description": "Score: 18 | Comments: 3 | Posted by rock_artist",
+      "url": "https://forums.steinberg.net/t/vst-3-8-0-sdk-released/1011988",
+      "publishedAt": "2025-10-23T05:48:43.858Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rock_artist",
+      "tags": []
+    },
+    {
+      "id": "xr9b5w",
+      "title": "VST3 audio plugin format is now MIT",
+      "description": "Score: 18 | Comments: 3 | Posted by rock_artist",
+      "url": "https://forums.steinberg.net/t/vst-3-8-0-sdk-released/1011988",
+      "publishedAt": "2025-10-23T05:48:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rock_artist",
+      "tags": []
+    },
+    {
+      "id": "4fmnbp",
+      "title": "The mild mannered Englishman who was the most prolific ghost hunter",
+      "description": "Score: 7 | Comments: 0 | Posted by gmays",
+      "url": "https://lithub.com/the-mild-mannered-englishman-who-was-the-worlds-most-prolific-ghost-hunter/",
+      "publishedAt": "2025-10-23T04:23:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gmays",
+      "tags": []
+    },
+    {
+      "id": "1mzyuj",
+      "title": "Why Everyone Is Leaving New Zealand [video]",
+      "description": "Score: 9 | Comments: 4 | Posted by l8rlump",
+      "url": "https://www.youtube.com/watch?v=F_VUBpALcVE",
+      "publishedAt": "2025-10-23T04:09:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "l8rlump",
+      "tags": []
+    },
+    {
+      "id": "nzsfmo",
+      "title": "The myth of outrunning your diet",
+      "description": "Score: 24 | Comments: 22 | Posted by wjb3",
+      "url": "https://williamjbarry.substack.com/p/the-myth-of-outrunning-your-diet",
+      "publishedAt": "2025-10-23T03:47:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wjb3",
+      "tags": []
+    },
+    {
+      "id": "xp8xxl",
+      "title": "Tesla reports steep drop in profits despite US rush to buy electric vehicles",
+      "description": "Score: 50 | Comments: 39 | Posted by jethronethro",
+      "url": "https://www.theguardian.com/technology/2025/oct/22/tesla-earnings-report-latest-drop-profits",
+      "publishedAt": "2025-10-23T01:52:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jethronethro",
+      "tags": []
+    },
+    {
+      "id": "8c0s8u",
+      "title": "Sodium-ion batteries have started to appear in cars and home storage",
+      "description": "Score: 74 | Comments: 52 | Posted by xbmcuser",
+      "url": "https://cleantechnica.com/2025/10/22/the-sodium-ion-battery-revolution-has-started/",
+      "publishedAt": "2025-10-23T01:36:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "xbmcuser",
+      "tags": []
+    },
+    {
+      "id": "jolgjp",
+      "title": "Summary of the Amazon DynamoDB Service Disruption in US-East-1 Region",
+      "description": "Score: 71 | Comments: 4 | Posted by meetpateltech",
+      "url": "https://aws.amazon.com/message/101925/",
+      "publishedAt": "2025-10-23T01:19:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "meetpateltech",
+      "tags": []
+    }
+  ]
+}
