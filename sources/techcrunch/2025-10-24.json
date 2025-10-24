@@ -1,0 +1,28 @@
+{
+  "date": "2025-10-24",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3061688",
+      "title": "Big tech is paying for Trump’s White House ballroom",
+      "description": "Trump's $250 million White House ballroom will be funded in part by big tech companies like Amazon, Apple, Google, Meta, and Microsoft.",
+      "url": "https://techcrunch.com/2025/10/23/big-tech-is-paying-for-trumps-white-house-ballroom/",
+      "publishedAt": "2025-10-24T02:54:46.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Amanda Silberling",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3061790",
+      "title": "With an Intel recovery underway, all eyes turn to its foundry business",
+      "description": "Intel added $20 billion to its balance sheet in Q3 but didn't offer many details on the progress of its floundering foundry business.",
+      "url": "https://techcrunch.com/2025/10/23/with-an-intel-recovery-underway-all-eyes-turn-to-its-foundry-business/",
+      "publishedAt": "2025-10-24T00:09:29.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Rebecca Szkutak",
+      "tags": []
+    }
+  ]
+}

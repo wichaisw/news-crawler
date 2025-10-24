@@ -1,0 +1,72 @@
+{
+  "date": "2025-10-24",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "sip057",
+      "title": "JupyterGIS breaks through to the next level",
+      "description": "Score: 23 | Comments: 1 | Posted by arjxn-py",
+      "url": "https://eo4society.esa.int/2025/10/16/jupytergis-breaks-through-to-the-next-level/",
+      "publishedAt": "2025-10-24T04:13:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "arjxn-py",
+      "tags": []
+    },
+    {
+      "id": "32dorx",
+      "title": "Roc Cameraroc.camera",
+      "description": "Score: 93 | Comments: 85 | Posted by martialg",
+      "url": "https://roc.camera/",
+      "publishedAt": "2025-10-24T03:09:46.699Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "martialg",
+      "tags": []
+    },
+    {
+      "id": "32dorx",
+      "title": "Roc Camera",
+      "description": "Score: 93 | Comments: 85 | Posted by martialg",
+      "url": "https://roc.camera/",
+      "publishedAt": "2025-10-24T02:54:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "martialg",
+      "tags": []
+    },
+    {
+      "id": "nix594",
+      "title": "Fast-DLLM: Training-Free Acceleration of Diffusion LLM",
+      "description": "Score: 9 | Comments: 0 | Posted by nathan-barry",
+      "url": "https://arxiv.org/abs/2505.22618",
+      "publishedAt": "2025-10-24T02:50:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nathan-barry",
+      "tags": []
+    },
+    {
+      "id": "6ssdmi",
+      "title": "Computer science courses that don't exist, but should (2015)",
+      "description": "Score: 140 | Comments: 94 | Posted by wonger_",
+      "url": "https://prog21.dadgum.com/210.html",
+      "publishedAt": "2025-10-24T02:22:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wonger_",
+      "tags": []
+    },
+    {
+      "id": "4ougll",
+      "title": "Counter-Strike's player economy is in a multi-billion dollar freefall",
+      "description": "Score: 61 | Comments: 67 | Posted by perihelions",
+      "url": "https://www.polygon.com/counter-strike-cs-player-economy-multi-billion-dollar-freefall/",
+      "publishedAt": "2025-10-24T00:24:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "perihelions",
+      "tags": []
+    }
+  ]
+}

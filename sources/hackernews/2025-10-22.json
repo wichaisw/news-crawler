@@ -168,6 +168,17 @@
       "tags": []
     },
     {
+      "id": "o01ixt",
+      "title": "How count-min sketches work – frequencies, but without the actual data",
+      "description": "Score: 42 | Comments: 7 | Posted by stopachka",
+      "url": "https://www.instantdb.com/essays/count_min_sketch",
+      "publishedAt": "2025-10-22T16:27:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "stopachka",
+      "tags": []
+    },
+    {
       "id": "32usgb",
       "title": "Willow quantum chip demonstrates verifiable quantum advantage on hardware",
       "description": "Score: 414 | Comments: 204 | Posted by AbhishekParmar",
@@ -231,6 +242,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "cdesai",
+      "tags": []
+    },
+    {
+      "id": "qrlas",
+      "title": "Living Dangerously with Claude",
+      "description": "Score: 165 | Comments: 80 | Posted by FromTheArchives",
+      "url": "https://simonwillison.net/2025/Oct/22/living-dangerously-with-claude/",
+      "publishedAt": "2025-10-22T12:36:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "FromTheArchives",
       "tags": []
     },
     {
