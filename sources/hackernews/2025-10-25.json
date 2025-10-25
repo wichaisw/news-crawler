@@ -1,0 +1,105 @@
+{
+  "date": "2025-10-25",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "njbhmw",
+      "title": "Neural Networks by Hand: No Code, Just Color and Math",
+      "description": "Score: 5 | Comments: 1 | Posted by HenryAI",
+      "url": "https://www.youtube.com/watch?v=c-g-sIu7b3g",
+      "publishedAt": "2025-10-25T04:47:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "HenryAI",
+      "tags": []
+    },
+    {
+      "id": "xpokkr",
+      "title": "Key IOCs for Pegasus and Predator Spyware Removed with iOS 26 Update",
+      "description": "Score: 18 | Comments: 2 | Posted by transpute",
+      "url": "https://iverify.io/blog/key-iocs-for-pegasus-and-predator-spyware-cleaned-with-ios-26-update",
+      "publishedAt": "2025-10-25T02:31:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "transpute",
+      "tags": []
+    },
+    {
+      "id": "43lh5u",
+      "title": "Underdetermined Weaving with Machines (2021) [video]",
+      "description": "Score: 13 | Comments: 3 | Posted by akkartik",
+      "url": "https://www.youtube.com/watch?v=on_sK8KoObo",
+      "publishedAt": "2025-10-25T02:29:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "akkartik",
+      "tags": []
+    },
+    {
+      "id": "tlsmpq",
+      "title": "Advice for New Principal Tech ICs (I.e., Notes to Myself)",
+      "description": "Score: 34 | Comments: 11 | Posted by 7d7n",
+      "url": "https://eugeneyan.com/writing/principal/",
+      "publishedAt": "2025-10-25T02:24:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "7d7n",
+      "tags": []
+    },
+    {
+      "id": "1p3buq",
+      "title": "The design space of AI coding tools",
+      "description": "Score: 10 | Comments: 1 | Posted by vinhnx",
+      "url": "https://austinhenley.com/blog/aidesignspace.html",
+      "publishedAt": "2025-10-25T01:58:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vinhnx",
+      "tags": []
+    },
+    {
+      "id": "m2ey27",
+      "title": "Deepagent: A powerful desktop AI assistant",
+      "description": "Score: 19 | Comments: 1 | Posted by o999",
+      "url": "https://deepagent.abacus.ai",
+      "publishedAt": "2025-10-25T01:36:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "o999",
+      "tags": []
+    },
+    {
+      "id": "nubu1n",
+      "title": "What Is Intelligence? (2024)",
+      "description": "Score: 50 | Comments: 33 | Posted by sva_",
+      "url": "https://whatisintelligence.antikythera.org/",
+      "publishedAt": "2025-10-25T01:21:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sva_",
+      "tags": []
+    },
+    {
+      "id": "z3sa8j",
+      "title": "Unlocking Free WiFi on British Airwayssaxrag.com",
+      "description": "Score: 143 | Comments: 18 | Posted by vinhnx",
+      "url": "https://www.saxrag.com/tech/reversing/2025/06/01/BAWiFi.html",
+      "publishedAt": "2025-10-25T01:08:22.310Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vinhnx",
+      "tags": []
+    },
+    {
+      "id": "bd7vrz",
+      "title": "Carmack on Operating Systems (1997)",
+      "description": "Score: 71 | Comments: 44 | Posted by bigyabai",
+      "url": "https://rmitz.org/carmack.on.operating.systems.html",
+      "publishedAt": "2025-10-25T00:59:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bigyabai",
+      "tags": []
+    }
+  ]
+}

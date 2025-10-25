@@ -245,6 +245,17 @@
       "tags": []
     },
     {
+      "id": "8ips0e",
+      "title": "Context engineering is sleeping on the humble hyperlink",
+      "description": "Score: 58 | Comments: 23 | Posted by mbleigh",
+      "url": "https://mbleigh.dev/posts/context-engineering-with-links/",
+      "publishedAt": "2025-10-23T14:24:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mbleigh",
+      "tags": []
+    },
+    {
       "id": "vzmpv5",
       "title": "Unconventional Ways to Cast in TypeScript",
       "description": "Score: 70 | Comments: 35 | Posted by Bogdanp",
@@ -355,6 +366,17 @@
       "tags": []
     },
     {
+      "id": "sfmksw",
+      "title": "Clojure Zippers (2021)",
+      "description": "Score: 98 | Comments: 6 | Posted by prydt",
+      "url": "https://grishaev.me/en/clojure-zippers/",
+      "publishedAt": "2025-10-23T03:51:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "prydt",
+      "tags": []
+    },
+    {
       "id": "nzsfmo",
       "title": "The myth of outrunning your diet",
       "description": "Score: 24 | Comments: 22 | Posted by wjb3",
@@ -396,6 +418,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "meetpateltech",
+      "tags": []
+    },
+    {
+      "id": "jaqea2",
+      "title": "A “knot dominated era” may have existed in the early universe: study",
+      "description": "Score: 77 | Comments: 29 | Posted by wglb",
+      "url": "https://phys.org/news/2025-10-key-universe-1800s-idea-science.html",
+      "publishedAt": "2025-10-23T00:26:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wglb",
       "tags": []
     }
   ]

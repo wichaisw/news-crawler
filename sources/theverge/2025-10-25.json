@@ -1,0 +1,30 @@
+{
+  "date": "2025-10-25",
+  "source": "theverge",
+  "articles": [
+    {
+      "id": "wul6pe",
+      "title": "Bored Ape Yacht Club is making a comeback — as a metaverse",
+      "description": "It's dusk, and bugs are chirping all around me. I'm wandering through the middle of a big, virtual swamp toward the sound of thumping bass off in the distance. There isn't much else nearby - some trees, a couple of other players. It's mostly just me and the sound emanating from a large wooden structure [&#8230;]",
+      "url": "https://www.theverge.com/tech/806492/bored-ape-yacht-club-bayc-crypto-metaverse-otherside-yuga-labs",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/videoframe_19169.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2025-10-25T03:30:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Jay Peters",
+      "tags": []
+    },
+    {
+      "id": "j38r57",
+      "title": "Sam Altman’s next startup eyes using sound waves to read your brain",
+      "description": "This is an excerpt of Sources by Alex Heath, a newsletter about AI and the tech industry, syndicated just for The Verge subscribers once a week. Sam Altman has tapped Mikhail Shapiro, an award-winning biomolecular engineer, to join the Merge Labs brain-computer interface startup he's set to announce soon with co-founder Alex Blania. While Shapiro's [&#8230;]",
+      "url": "https://www.theverge.com/column/806666/sam-altman-merge-labs-brain-computer-interface-startup-hire",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/gettyimages-2236544180.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2025-10-25T00:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Alex Heath",
+      "tags": []
+    }
+  ]
+}

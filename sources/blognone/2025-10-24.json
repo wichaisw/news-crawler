@@ -3,6 +3,83 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "148626 at https://www.blognone.com",
+      "title": "EU ระบุ Meta และ TikTok อาจละเมิดกฎหมายดิจิทัล DSA เรื่องความโปร่งใสเปิดเผยของแพลตฟอร์ม",
+      "description": "EU ระบุ Meta และ TikTok อาจละเมิดกฎหมายดิจิทัล DSA เรื่องความโปร่งใสเปิดเผยของแพลตฟอร์ม Body คณะกรรมาธิการยุโรปหรือ Europrean Commission (EC)",
+      "url": "https://www.blognone.com/node/148626",
+      "publishedAt": "2025-10-24T17:57:53.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148625 at https://www.blognone.com",
+      "title": "ChatGPT เพิ่มฟีเจอร์ให้องค์กรค้นหาคำตอบจากข้อมูลภายในบริษัทได้",
+      "description": "ChatGPT เพิ่มฟีเจอร์ให้องค์กรค้นหาคำตอบจากข้อมูลภายในบริษัทได้ Body OpenAI เพิ่มฟีเจอร์ใหม่ “Company knowledge” สำหรับลูกค้า ChatGPT องค์กร ซึ่งทำให้",
+      "url": "https://www.blognone.com/node/148625",
+      "publishedAt": "2025-10-24T17:40:55.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148624 at https://www.blognone.com",
+      "title": "Strava ตัดสินใจถอนฟ้อง Garmin คดีละเมิดสิทธิบัตร หลังจากยื่นฟ้องไปเพียง 21 วัน",
+      "description": "Strava ตัดสินใจถอนฟ้อง Garmin คดีละเมิดสิทธิบัตร หลังจากยื่นฟ้องไปเพียง 21 วัน Body",
+      "url": "https://www.blognone.com/node/148624",
+      "publishedAt": "2025-10-24T13:19:40.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148623 at https://www.blognone.com",
+      "title": "OpenAI ซื้อกิจการบริษัทที่พัฒนา Sky แอปผู้ช่วย AI บน Mac",
+      "description": "OpenAI ซื้อกิจการบริษัทที่พัฒนา Sky แอปผู้ช่วย AI บน Mac Body OpenAI ประกาศซื้อกิจการ Software Applications Incorporated ซึ่งเป็นผู้พัฒนาแอป Sky บน",
+      "url": "https://www.blognone.com/node/148623",
+      "publishedAt": "2025-10-24T11:48:48.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148622 at https://www.blognone.com",
+      "title": "Claude Memory ขยายไปยังผู้ใช้งานกลุ่ม Max และ Pro แล้ว",
+      "description": "Claude Memory ขยายไปยังผู้ใช้งานกลุ่ม Max และ Pro แล้ว Body Anthropic ประกาศว่า Memory ฟีเจอร์จดจำข้อมูลพื้นฐานและย้อนไปค้นหาข้อมูลจากแชทในอดีตของ",
+      "url": "https://www.blognone.com/node/148622",
+      "publishedAt": "2025-10-24T11:03:55.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148621 at https://www.blognone.com",
+      "title": "AMD วางขาย Radeon AI Pro R9700 รันงาน AI ระดับเวิร์คสเตชัน ราคา 1,299 ดอลลาร์",
+      "description": "AMD วางขาย Radeon AI Pro R9700 รันงาน AI ระดับเวิร์คสเตชัน ราคา 1,299 ดอลลาร์ Body AMD ประกาศวันและราคาขายของ Radeon AI Pro R9700 การ์ดจอสำหรับรันงาน",
+      "url": "https://www.blognone.com/node/148621",
+      "publishedAt": "2025-10-24T08:13:49.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148619 at https://www.blognone.com",
+      "title": "กูเกิลออกชุดพัฒนา Google Gen AI SDK สำหรับ C# และ .NET",
+      "description": "กูเกิลออกชุดพัฒนา Google Gen AI SDK สำหรับ C# และ .NET Body กูเกิลออกชุดพัฒนา Google Gen AI SDK ( google-genai ที่เปิดตัวครั้งแรกในเดือนกุมภาพันธ์",
+      "url": "https://www.blognone.com/node/148619",
+      "publishedAt": "2025-10-24T06:17:55.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "148618 at https://www.blognone.com",
       "title": "LibreOffice เตรียมรองรับ Markdown ในตัว เขียนส่วนขยายด้วย Rust ได้",
       "description": "LibreOffice เตรียมรองรับ Markdown ในตัว เขียนส่วนขยายด้วย Rust ได้ Body Document Foundation ผู้ดูแลโครงการ LibreOffice",
