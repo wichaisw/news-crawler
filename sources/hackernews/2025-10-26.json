@@ -1,0 +1,105 @@
+{
+  "date": "2025-10-26",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "cy2oxb",
+      "title": "Auto Dark Mode for Windows",
+      "description": "Score: 3 | Comments: 0 | Posted by hermitsings",
+      "url": "https://github.com/AutoDarkMode/Windows-Auto-Night-Mode",
+      "publishedAt": "2025-10-26T04:03:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hermitsings",
+      "tags": []
+    },
+    {
+      "id": "bsn8bq",
+      "title": "Microsoft disables File Explorer preview for downloaded files by default",
+      "description": "Score: 6 | Comments: 1 | Posted by kirenida",
+      "url": "https://www.windowslatest.com/2025/10/26/microsoft-admits-file-explorer-preview-pane-wont-work-in-windows-11-25h2-for-internet-files-by-default/",
+      "publishedAt": "2025-10-26T04:02:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kirenida",
+      "tags": []
+    },
+    {
+      "id": "6xyny0",
+      "title": "Tsdown – The Elegant Bundler for Libraries",
+      "description": "Score: 8 | Comments: 0 | Posted by jcbhmr",
+      "url": "https://tsdown.dev/",
+      "publishedAt": "2025-10-26T03:19:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jcbhmr",
+      "tags": []
+    },
+    {
+      "id": "f68fsc",
+      "title": "GenAI Image Editing Showdown",
+      "description": "Score: 27 | Comments: 0 | Posted by rzk",
+      "url": "https://genai-showdown.specr.net/",
+      "publishedAt": "2025-10-26T02:57:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rzk",
+      "tags": []
+    },
+    {
+      "id": "v2cd2i",
+      "title": "PCB Edge USB C Connector Library",
+      "description": "Score: 41 | Comments: 18 | Posted by walterbell",
+      "url": "https://github.com/AnasMalas/pcb-edge-usb-c",
+      "publishedAt": "2025-10-26T02:31:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "walterbell",
+      "tags": []
+    },
+    {
+      "id": "k5bga2",
+      "title": "Pico-Banana-400kgithub.com/apple",
+      "description": "Score: 128 | Comments: 15 | Posted by dvrp",
+      "url": "https://github.com/apple/pico-banana-400k",
+      "publishedAt": "2025-10-26T02:08:57.091Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dvrp",
+      "tags": []
+    },
+    {
+      "id": "k5bga2",
+      "title": "Pico-Banana-400k",
+      "description": "Score: 128 | Comments: 15 | Posted by dvrp",
+      "url": "https://github.com/apple/pico-banana-400k",
+      "publishedAt": "2025-10-26T02:01:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dvrp",
+      "tags": []
+    },
+    {
+      "id": "2xeofx",
+      "title": "Pico Banana: Large-Scale Dataset for Image Editing by Apple",
+      "description": "Score: 7 | Comments: 0 | Posted by vednig",
+      "url": "https://arxiv.org/abs/2510.19808",
+      "publishedAt": "2025-10-26T01:54:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vednig",
+      "tags": []
+    },
+    {
+      "id": "iecguj",
+      "title": "A worker fell into a nuclear reactor pool",
+      "description": "Score: 263 | Comments: 161 | Posted by nvahalik",
+      "url": "https://www.nrc.gov/reading-rm/doc-collections/event-status/event/2025/20251022en?brid=vscAjql9kZL1FfGE7TYHVw#en57996:~:text=TRANSPORT%20OF%20CONTAMINATED%20PERSON%20OFFSITE",
+      "publishedAt": "2025-10-26T01:15:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nvahalik",
+      "tags": []
+    }
+  ]
+}

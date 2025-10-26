@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "9jt5cn",
+      "title": "NextSilicon reveals new processor chip in challenge to Intel, AMD",
+      "description": "Score: 37 | Comments: 9 | Posted by simojo",
+      "url": "https://www.reuters.com/business/nextsilicon-reveals-new-processor-chip-challenge-intel-amd-2025-10-22/",
+      "publishedAt": "2025-10-22T23:18:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "simojo",
+      "tags": []
+    },
+    {
       "id": "gl6zfq",
       "title": "VortexNet: Neural network based on fluid dynamics",
       "description": "Score: 21 | Comments: 1 | Posted by vegax87",
@@ -132,6 +143,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "hasheddan",
+      "tags": []
+    },
+    {
+      "id": "mxg3bh",
+      "title": "Jacqueline – A minimal i386 kernel written in Pascal (2019)",
+      "description": "Score: 71 | Comments: 18 | Posted by peter_d_sherman",
+      "url": "https://github.com/danirod/jacqueline",
+      "publishedAt": "2025-10-22T17:37:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "peter_d_sherman",
       "tags": []
     },
     {
@@ -319,6 +341,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ingve",
+      "tags": []
+    },
+    {
+      "id": "phimyg",
+      "title": "Tarmageddon: RCE vulnerability highlights challenges of open source abandonware",
+      "description": "Score: 71 | Comments: 35 | Posted by vsgherzi",
+      "url": "https://edera.dev/stories/tarmageddon",
+      "publishedAt": "2025-10-22T06:26:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vsgherzi",
       "tags": []
     },
     {
