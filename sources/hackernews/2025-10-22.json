@@ -25,6 +25,17 @@
       "tags": []
     },
     {
+      "id": "79xhfm",
+      "title": "An overengineered solution to `sort | uniq -c` with 25x throughput (hist)",
+      "description": "Score: 12 | Comments: 1 | Posted by noamteyssier",
+      "url": "https://github.com/noamteyssier/hist-rs",
+      "publishedAt": "2025-10-22T22:26:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "noamteyssier",
+      "tags": []
+    },
+    {
       "id": "wk0g6j",
       "title": "Iceland reports the presence of mosquitoes as climate warms",
       "description": "Score: 115 | Comments: 38 | Posted by sans_souse",
@@ -146,6 +157,17 @@
       "tags": []
     },
     {
+      "id": "fbcxti",
+      "title": "Sandhill cranes have adopted a Canada gosling",
+      "description": "Score: 76 | Comments: 10 | Posted by NaOH",
+      "url": "https://www.smithsonianmag.com/science-nature/these-sandhill-cranes-have-adopted-a-canadian-gosling-and-birders-have-flocked-to-watch-the-strange-family-180986828/",
+      "publishedAt": "2025-10-22T17:45:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "NaOH",
+      "tags": []
+    },
+    {
       "id": "mxg3bh",
       "title": "Jacqueline – A minimal i386 kernel written in Pascal (2019)",
       "description": "Score: 71 | Comments: 18 | Posted by peter_d_sherman",
@@ -209,6 +231,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "stopachka",
+      "tags": []
+    },
+    {
+      "id": "al0x3m",
+      "title": "Wren: A classy little scripting language",
+      "description": "Score: 147 | Comments: 41 | Posted by Lyngbakr",
+      "url": "https://wren.io/",
+      "publishedAt": "2025-10-22T16:21:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Lyngbakr",
       "tags": []
     },
     {
@@ -429,6 +462,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "paulnpace",
+      "tags": []
+    },
+    {
+      "id": "frw1sm",
+      "title": "System.LongBool",
+      "description": "Score: 38 | Comments: 39 | Posted by surprisetalk",
+      "url": "https://docwiki.embarcadero.com/Libraries/Sydney/en/System.LongBool",
+      "publishedAt": "2025-10-22T02:01:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
       "tags": []
     },
     {

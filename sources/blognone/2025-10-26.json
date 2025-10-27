@@ -3,6 +3,41 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "148638 at https://www.blognone.com",
+      "title": "Copilot เพิ่มฟีเจอร์ Groups ชวนเพื่อนมาคุยกับ AI พร้อมกัน วางแผนด้วยกัน",
+      "description": "Copilot เพิ่มฟีเจอร์ Groups ชวนเพื่อนมาคุยกับ AI พร้อมกัน วางแผนด้วยกัน Body เก็บตกฟีเจอร์ที่น่าสนใจของ Microsoft Copilot ที่เปิดตัวเมื่อสัปดาห์ก่อน",
+      "url": "https://www.blognone.com/node/148638",
+      "publishedAt": "2025-10-26T09:52:52.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148637 at https://www.blognone.com",
+      "title": "Amazon เปิดตัวแว่นอัจฉริยะ ออกแบบมาเพื่อพนักงานส่งของ ใช้แทนมือถือได้เลย",
+      "description": "Amazon เปิดตัวแว่นอัจฉริยะ ออกแบบมาเพื่อพนักงานส่งของ ใช้แทนมือถือได้เลย Body Amazon เป็นบริษัทล่าสุดที่เข้าวงการแว่นตาอัจฉริยะ โดยเปิดตัวแว่น smart",
+      "url": "https://www.blognone.com/node/148637",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2025/2025-10/amazon-glass-2.jpg",
+      "publishedAt": "2025-10-26T09:45:53.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148636 at https://www.blognone.com",
+      "title": "Google Earth AI ใช้โมเดล Gemini ช่วยหาข้อมูลเร็วกว่าเดิม รองรับ Reasoning",
+      "description": "Google Earth AI ใช้โมเดล Gemini ช่วยหาข้อมูลเร็วกว่าเดิม รองรับ Reasoning Body เมื่อเดือนกรกฎาคมที่ผ่านมา กูเกิลเปิดตัว Google Earth AI",
+      "url": "https://www.blognone.com/node/148636",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2025/2025-10/earthai-2-remotesensingevalfinal.width-1250.png",
+      "publishedAt": "2025-10-26T09:25:09.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "148635 at https://www.blognone.com",
       "title": "Canonical Academy เปิดตัว สอบใบรับรองทักษะ Ubuntu SysAdmin",
       "description": "Canonical Academy เปิดตัว สอบใบรับรองทักษะ Ubuntu SysAdmin Body Canonical บริษัทแม่ของ Ubuntu เปิดตัว Canonical Academy",
