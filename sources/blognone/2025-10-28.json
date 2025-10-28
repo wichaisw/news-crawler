@@ -1,0 +1,62 @@
+{
+  "date": "2025-10-28",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "148654 at https://www.blognone.com",
+      "title": "กูเกิลเล่าประสบการณ์ แปลงโค้ดภายในจาก x86 เป็น Arm จำนวนหลายหมื่นแอพ",
+      "description": "กูเกิลเล่าประสบการณ์ แปลงโค้ดภายในจาก x86 เป็น Arm จำนวนหลายหมื่นแอพ Body กูเกิลเปิดเผยเบื้องหลังการแปลงโค้ดของตัวเอง จากเดิมที่รันบน x86 อย่างเดียว",
+      "url": "https://www.blognone.com/node/148654",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2025/2025-10/image1_ccfsu5d.max-1300x1300.png",
+      "publishedAt": "2025-10-28T01:24:46.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148653 at https://www.blognone.com",
+      "title": "Threads เพิ่มฟีเจอร์ใหม่ ข้อความที่โพสต์จะถูกลบไปอัตโนมัติใน 24 ชั่วโมง",
+      "description": "Threads เพิ่มฟีเจอร์ใหม่ ข้อความที่โพสต์จะถูกลบไปอัตโนมัติใน 24 ชั่วโมง Body Threads เพิ่มฟีเจอร์ใหม่ \"Ghost post\" ในคอนเซปต์ โพสต์วันนี้",
+      "url": "https://www.blognone.com/node/148653",
+      "publishedAt": "2025-10-28T01:14:38.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148652 at https://www.blognone.com",
+      "title": "Elon Musk เปิดตัว Grokipedia โครงการสารานุกรมออนไลน์ ที่ปราศจากอคติ หวังแข่งกับ Wikipedia",
+      "description": "Elon Musk เปิดตัว Grokipedia โครงการสารานุกรมออนไลน์ ที่ปราศจากอคติ หวังแข่งกับ Wikipedia Body Elon Musk เปิดตัวโครงการสารานุกรมออนไลน์ Grokipedia",
+      "url": "https://www.blognone.com/node/148652",
+      "publishedAt": "2025-10-28T01:06:25.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148651 at https://www.blognone.com",
+      "title": "Swift ออก SDK สำหรับสร้างแอปบน Android",
+      "description": "Swift ออก SDK สำหรับสร้างแอปบน Android Body โครงการภาษา Swift เปิดตัวชุดพัฒนา Swift SDK for Android อย่างเป็นทางการ หลังจากตั้งทีม Android Workgroup",
+      "url": "https://www.blognone.com/node/148651",
+      "publishedAt": "2025-10-28T00:47:22.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148650 at https://www.blognone.com",
+      "title": "Microsoft อัปเดตแพตช์ ปิดการพรีวิวไฟล์ที่ดาวน์โหลดจากอินเทอร์เน็ตใน File Explorer",
+      "description": "Microsoft อัปเดตแพตช์ ปิดการพรีวิวไฟล์ที่ดาวน์โหลดจากอินเทอร์เน็ตใน File Explorer Body ไมโครซอฟท์อัปเดตแพตช์ Windows 11 และกลุ่ม Windows Server",
+      "url": "https://www.blognone.com/node/148650",
+      "publishedAt": "2025-10-28T00:45:38.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "date": "2025-10-28",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "oc5kwu",
+      "title": "I Built the Same App 10 Times: Evaluating Frameworks for Mobile Performance",
+      "description": "Score: 3 | Comments: 1 | Posted by 0xblinq",
+      "url": "https://www.lorenstew.art/blog/10-kanban-boards/",
+      "publishedAt": "2025-10-28T05:22:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "0xblinq",
+      "tags": []
+    },
+    {
+      "id": "k4n48a",
+      "title": "Tough truths about climate",
+      "description": "Score: 60 | Comments: 38 | Posted by ezequiel-garzon",
+      "url": "https://www.gatesnotes.com/home/home-page-topic/reader/three-tough-truths-about-climate",
+      "publishedAt": "2025-10-28T04:43:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ezequiel-garzon",
+      "tags": []
+    },
+    {
+      "id": "whmgxu",
+      "title": "Amazon to Slash 30k Jobs",
+      "description": "Score: 9 | Comments: 1 | Posted by brunojppb",
+      "url": "https://economictimes.indiatimes.com/news/international/us/amazon-plans-massive-lay-offs-to-begin-largest-high-profile-job-cuts-since-2022-from-tuesday-claims-report/articleshow/124857827.cms?from=mdr",
+      "publishedAt": "2025-10-28T04:28:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "brunojppb",
+      "tags": []
+    },
+    {
+      "id": "h2b5oz",
+      "title": "Complete Digitization of Leonardo da Vinci's Codex Atlanticus",
+      "description": "Score: 22 | Comments: 2 | Posted by emmelaich",
+      "url": "https://www.openculture.com/2025/10/digitization-of-leonardo-da-vincis-codex-atlanticus.html",
+      "publishedAt": "2025-10-28T03:32:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "emmelaich",
+      "tags": []
+    },
+    {
+      "id": "5y69y",
+      "title": "Signal president Meredith Whittaker says they had no choice but to use AWS",
+      "description": "Score: 15 | Comments: 8 | Posted by pyeri",
+      "url": "https://www.theregister.com/2025/10/27/signal_ceo_meredith_whittaker_aws_dependency/",
+      "publishedAt": "2025-10-28T03:20:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pyeri",
+      "tags": []
+    },
+    {
+      "id": "shdgd6",
+      "title": "Drivers who do 10k miles a year 'face new £1,500 charge'",
+      "description": "Score: 6 | Comments: 1 | Posted by hnburnsy",
+      "url": "https://www.birminghammail.co.uk/motoring/motoring-news/drivers-who-10000-miles-year-32727647",
+      "publishedAt": "2025-10-28T02:39:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hnburnsy",
+      "tags": []
+    },
+    {
+      "id": "x8lnhx",
+      "title": "GLP-1 Therapeutics: Their Emerging Role in Alcohol and Substance Use Disorders",
+      "description": "Score: 5 | Comments: 0 | Posted by PaulHoule",
+      "url": "https://academic.oup.com/jes/article/9/11/bvaf141/8277723?login=false",
+      "publishedAt": "2025-10-28T02:00:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "PaulHoule",
+      "tags": []
+    }
+  ]
+}

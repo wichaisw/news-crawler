@@ -1,0 +1,39 @@
+{
+  "date": "2025-10-28",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3062800",
+      "title": "Venture capital is not an asset class, says Sequoia’s Roelof Botha",
+      "description": "Sequoia's managing partner Roelof Botha noted that there are currently 3,000 venture firms in the United States, while there were just 1,000 when he",
+      "url": "https://techcrunch.com/2025/10/27/venture-capital-is-not-an-asset-class-says-sequoias-roelof-botha/",
+      "publishedAt": "2025-10-28T01:24:04.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Aisha Malik",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3062824",
+      "title": "CEO of Alphabet’s X, Astro Teller, on what makes a moonshot",
+      "description": "Teller says X has a 2% hit rate, which means that most of the things the company tries don't work out, and that's okay.",
+      "url": "https://techcrunch.com/2025/10/27/ceo-of-alphabets-x-astro-teller-on-what-makes-a-moonshot/",
+      "publishedAt": "2025-10-28T00:20:32.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Aisha Malik",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3062836",
+      "title": "Zoom CEO Eric Yuan says AI will shorten our workweek",
+      "description": "Zoom CEO Eric Yuan says that, in a few years, we should be working a 3-4 day workweek because of AI.",
+      "url": "https://techcrunch.com/2025/10/27/zoom-ceo-eric-yuan-says-ai-will-shorten-our-workweek/",
+      "publishedAt": "2025-10-28T00:14:39.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sarah Perez",
+      "tags": []
+    }
+  ]
+}
