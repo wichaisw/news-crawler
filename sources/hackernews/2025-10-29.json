@@ -1,0 +1,94 @@
+{
+  "date": "2025-10-29",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "9452cz",
+      "title": "Wacl – A Tcl Distribution for WebAssembly",
+      "description": "Score: 11 | Comments: 0 | Posted by shakna",
+      "url": "https://github.com/ecky-l/wacl",
+      "publishedAt": "2025-10-29T04:25:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "shakna",
+      "tags": []
+    },
+    {
+      "id": "stv5s9",
+      "title": "Keep Android Openkeepandroidopen.org",
+      "description": "Score: 203 | Comments: 28 | Posted by LorenDB",
+      "url": "http://keepandroidopen.org/",
+      "publishedAt": "2025-10-29T04:10:11.041Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "LorenDB",
+      "tags": []
+    },
+    {
+      "id": "stv5s9",
+      "title": "Keep Android Open",
+      "description": "Score: 205 | Comments: 30 | Posted by LorenDB",
+      "url": "http://keepandroidopen.org/",
+      "publishedAt": "2025-10-29T04:03:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "LorenDB",
+      "tags": []
+    },
+    {
+      "id": "z50x6v",
+      "title": "uBlock Origin Lite Apple App Store",
+      "description": "Score: 30 | Comments: 0 | Posted by mumber_typhoon",
+      "url": "https://apps.apple.com/in/app/ublock-origin-lite/id6745342698",
+      "publishedAt": "2025-10-29T03:57:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mumber_typhoon",
+      "tags": []
+    },
+    {
+      "id": "dzqx68",
+      "title": "Tips for stroke-surviving software engineers",
+      "description": "Score: 51 | Comments: 14 | Posted by padolsey",
+      "url": "https://blog.j11y.io/2025-10-29_stroke_tips_for_engineers/",
+      "publishedAt": "2025-10-29T03:51:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "padolsey",
+      "tags": []
+    },
+    {
+      "id": "125ycy",
+      "title": "Farming Under Solar Panels",
+      "description": "Score: 6 | Comments: 1 | Posted by 1659447091",
+      "url": "https://www.bbc.com/news/articles/c2en1yyp4d9o",
+      "publishedAt": "2025-10-29T03:09:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "1659447091",
+      "tags": []
+    },
+    {
+      "id": "p1lkmq",
+      "title": "Project Shadowglass",
+      "description": "Score: 57 | Comments: 21 | Posted by layer8",
+      "url": "https://shadowglassgame.com",
+      "publishedAt": "2025-10-29T01:06:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "layer8",
+      "tags": []
+    },
+    {
+      "id": "47o47p",
+      "title": "Database backups, dump files and restic",
+      "description": "Score: 17 | Comments: 2 | Posted by todsacerdoti",
+      "url": "https://strugglers.net/posts/2025/database-backups-dump-files-and-restic/",
+      "publishedAt": "2025-10-29T00:13:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    }
+  ]
+}

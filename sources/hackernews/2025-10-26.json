@@ -201,6 +201,17 @@
       "tags": []
     },
     {
+      "id": "f89mx0",
+      "title": "Falcon: A Reliable, Low Latency Hardware Transport",
+      "description": "Score: 5 | Comments: 0 | Posted by teleforce",
+      "url": "https://dl.acm.org/doi/10.1145/3718958.3754353",
+      "publishedAt": "2025-10-26T13:17:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "teleforce",
+      "tags": []
+    },
+    {
       "id": "ccuxil",
       "title": "Feed the bots",
       "description": "Score: 178 | Comments: 138 | Posted by chmaynard",
@@ -297,6 +308,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "signa11",
+      "tags": []
+    },
+    {
+      "id": "h7dyag",
+      "title": "Gluing and framing a 9000-piece jigsaw",
+      "description": "Score: 30 | Comments: 1 | Posted by busymom0",
+      "url": "https://river.me/blog/puzzle-glue-9000/",
+      "publishedAt": "2025-10-26T06:03:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "busymom0",
       "tags": []
     },
     {

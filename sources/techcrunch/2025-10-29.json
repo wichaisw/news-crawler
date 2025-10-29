@@ -1,0 +1,61 @@
+{
+  "date": "2025-10-29",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3063263",
+      "title": "CEO of spyware maker Memento Labs confirms one of its government customers was caught using its malware",
+      "description": "Security researchers found a government hacking campaign that relies on Windows spyware developed by surveillance tech maker Memento Labs. When",
+      "url": "https://techcrunch.com/2025/10/28/ceo-of-spyware-maker-memento-labs-confirms-one-of-its-government-customers-was-caught-using-its-malware/",
+      "publishedAt": "2025-10-29T05:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lorenzo Franceschi-Bicchierai",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3063438",
+      "title": "LG Uplus is latest South Korean telco to confirm cybersecurity incident",
+      "description": "Korean telecom giant LG Uplus is the third major phone provider in the past six months to report a cybersecurity incident.",
+      "url": "https://techcrunch.com/2025/10/28/lg-uplus-is-latest-south-korean-telco-to-confirm-cybersecurity-incident/",
+      "publishedAt": "2025-10-29T03:55:08.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Kate Park",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3063174",
+      "title": "Tata Motors confirms it fixed security flaws, which exposed company and customer data",
+      "description": "A security researcher found the Indian automotive giant exposing personal information of its customers, internal company reports, and dealers’ data.",
+      "url": "https://techcrunch.com/2025/10/28/tata-motors-confirms-it-fixed-security-flaws-that-exposed-company-and-customer-data/",
+      "publishedAt": "2025-10-29T01:30:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Jagmeet Singh",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3063390",
+      "title": "Here are the 5 Startup Battlefield finalists at TechCrunch Disrupt 2025",
+      "description": "After two days full of live demos and pitches, it's time to announce the five finalists at this year's Startup Battlefield.",
+      "url": "https://techcrunch.com/2025/10/28/here-are-the-5-startup-battlefield-finalists-at-techcrunch-disrupt-2025/",
+      "publishedAt": "2025-10-29T00:28:10.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha, Isabelle Johannessen",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3063316",
+      "title": "‘Silicon Valley’ star Thomas Middleditch makes a surprise appearance at TechCrunch Disrupt 2025",
+      "description": "Actor Thomas Middleditch had a planned takeover of Australian startup Othelia’s presentation at the pitch showcase stage.",
+      "url": "https://techcrunch.com/2025/10/28/silicon-valley-star-thomas-middleditch-makes-a-surprise-appearance-at-techcrunch-disrupt-2025/",
+      "publishedAt": "2025-10-29T00:00:18.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Morgan Little",
+      "tags": []
+    }
+  ]
+}
