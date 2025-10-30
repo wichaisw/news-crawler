@@ -1,0 +1,50 @@
+{
+  "date": "2025-10-30",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "552k9t",
+      "title": "Carlo Rovelli’s radical perspective on reality",
+      "description": "Score: 11 | Comments: 7 | Posted by vismit2000",
+      "url": "https://www.quantamagazine.org/carlo-rovellis-radical-perspective-on-reality-20251029/",
+      "publishedAt": "2025-10-30T04:29:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vismit2000",
+      "tags": []
+    },
+    {
+      "id": "fgt0ib",
+      "title": "One year with Next.js App Router and why we're moving on",
+      "description": "Score: 30 | Comments: 16 | Posted by nnx",
+      "url": "https://paperclover.net/blog/webdev/one-year-next-app-router",
+      "publishedAt": "2025-10-30T02:48:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nnx",
+      "tags": []
+    },
+    {
+      "id": "o4vol7",
+      "title": "Hello-World iOS App in Assembly",
+      "description": "Score: 35 | Comments: 7 | Posted by pabs3",
+      "url": "https://gist.github.com/nicolas17/966a03ce49f949dd17b0123415ef2e31",
+      "publishedAt": "2025-10-30T02:37:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pabs3",
+      "tags": []
+    },
+    {
+      "id": "yo203f",
+      "title": "IRCd service (2024)",
+      "description": "Score: 48 | Comments: 10 | Posted by pabs3",
+      "url": "https://example.fi/blog/ircd.html",
+      "publishedAt": "2025-10-30T02:31:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pabs3",
+      "tags": []
+    }
+  ]
+}

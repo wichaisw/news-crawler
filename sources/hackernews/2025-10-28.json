@@ -14,6 +14,17 @@
       "tags": []
     },
     {
+      "id": "ftirls",
+      "title": "SwirlDB: Modular-first, CRDT-based embedded database",
+      "description": "Score: 65 | Comments: 5 | Posted by owenm",
+      "url": "https://docs.swirldb.org/",
+      "publishedAt": "2025-10-28T22:07:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "owenm",
+      "tags": []
+    },
+    {
       "id": "yhts5k",
       "title": "John Carmack: \"DGX Spark has only half the advertised performance\"",
       "description": "Score: 27 | Comments: 11 | Posted by behnamoh",
@@ -154,6 +165,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "denysvitali",
+      "tags": []
+    },
+    {
+      "id": "tfihny",
+      "title": "Cancer survival rates are misleading",
+      "description": "Score: 83 | Comments: 43 | Posted by speckx",
+      "url": "https://www.allendowney.com/blog/2025/10/27/cancer-survival-rates-are-misleading/",
+      "publishedAt": "2025-10-28T17:59:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
       "tags": []
     },
     {
@@ -300,6 +322,17 @@
       "tags": []
     },
     {
+      "id": "ipgv5n",
+      "title": "China has added forest the size of Texas since 1990",
+      "description": "Score: 454 | Comments: 347 | Posted by Brajeshwar",
+      "url": "https://e360.yale.edu/digest/china-new-forest-report",
+      "publishedAt": "2025-10-28T13:42:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Brajeshwar",
+      "tags": []
+    },
+    {
       "id": "29l16a",
       "title": "Sick: Indexed deduplicated binary storage for JSON-like data structures",
       "description": "Score: 114 | Comments: 55 | Posted by pshirshov",
@@ -330,6 +363,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "meetpateltech",
+      "tags": []
+    },
+    {
+      "id": "f9bu1v",
+      "title": "Tailscale Services",
+      "description": "Score: 136 | Comments: 30 | Posted by xd1936",
+      "url": "https://tailscale.com/blog/services-beta",
+      "publishedAt": "2025-10-28T12:19:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "xd1936",
       "tags": []
     },
     {
@@ -429,6 +473,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "PaulHoule",
+      "tags": []
+    },
+    {
+      "id": "si7c7f",
+      "title": "Quantifying pass-by-value overhead",
+      "description": "Score: 103 | Comments: 23 | Posted by todsacerdoti",
+      "url": "https://owen.cafe/posts/struct-sizes/",
+      "publishedAt": "2025-10-28T00:52:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
       "tags": []
     }
   ]

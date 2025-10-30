@@ -69,6 +69,17 @@
       "tags": []
     },
     {
+      "id": "vw7l22",
+      "title": "Movycat – A terminal movie player written in Zig",
+      "description": "Score: 48 | Comments: 6 | Posted by codethief",
+      "url": "https://github.com/M64GitHub/movycat",
+      "publishedAt": "2025-10-27T21:04:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "codethief",
+      "tags": []
+    },
+    {
       "id": "jhym1c",
       "title": "Easy RISC-V",
       "description": "Score: 239 | Comments: 40 | Posted by todsacerdoti",
@@ -132,6 +143,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "6swwq2",
+      "title": "Why imperfection could be key to Turing patterns in nature",
+      "description": "Score: 8 | Comments: 0 | Posted by furcyd",
+      "url": "https://arstechnica.com/science/2025/10/why-imperfection-could-be-key-to-turing-patterns-in-nature/",
+      "publishedAt": "2025-10-27T17:20:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "furcyd",
       "tags": []
     },
     {
@@ -245,6 +267,17 @@
       "tags": []
     },
     {
+      "id": "iucwsh",
+      "title": "How blocks are chained in a blockchain",
+      "description": "Score: 59 | Comments: 25 | Posted by tapanjk",
+      "url": "https://www.johndcook.com/blog/2025/10/27/blockchain/",
+      "publishedAt": "2025-10-27T16:27:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tapanjk",
+      "tags": []
+    },
+    {
       "id": "h1i5mu",
       "title": "Show HN: JSON Query",
       "description": "Score: 112 | Comments: 57 | Posted by wofo",
@@ -275,6 +308,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jorgeoguerra",
+      "tags": []
+    },
+    {
+      "id": "uzj2ck",
+      "title": "More than DNS: Learnings from the 14 hour AWS outage",
+      "description": "Score: 97 | Comments: 26 | Posted by birdculture",
+      "url": "https://thundergolfer.com/blog/aws-us-east-1-outage-oct20",
+      "publishedAt": "2025-10-27T15:56:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "birdculture",
       "tags": []
     },
     {
