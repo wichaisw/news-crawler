@@ -113,6 +113,17 @@
       "tags": []
     },
     {
+      "id": "xc6ycy",
+      "title": "Typst's Math Mode Problem",
+      "description": "Score: 107 | Comments: 47 | Posted by marcianx",
+      "url": "https://laurmaedje.github.io/posts/math-mode-problem/",
+      "publishedAt": "2025-10-24T18:12:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "marcianx",
+      "tags": []
+    },
+    {
       "id": "rjhxbs",
       "title": "State of Embedded: Q4 2025 Overview",
       "description": "Score: 124 | Comments: 73 | Posted by HeyMeco",
@@ -231,6 +242,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "barodeur",
+      "tags": []
+    },
+    {
+      "id": "87a4ma",
+      "title": "Show HN: Run a GitHub Actions step in a gVisor sandbox",
+      "description": "Score: 64 | Comments: 0 | Posted by FiloSottile",
+      "url": "https://github.com/geomys/sandboxed-step",
+      "publishedAt": "2025-10-24T12:42:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "FiloSottile",
       "tags": []
     },
     {

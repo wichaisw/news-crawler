@@ -1,0 +1,94 @@
+{
+  "date": "2025-10-31",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "4uqg1n",
+      "title": "ANTML: Anthropic’s Markup Language",
+      "description": "Score: 24 | Comments: 8 | Posted by ko_pivot",
+      "url": "https://karashiiro.leaflet.pub/3m4gf7geefs2l",
+      "publishedAt": "2025-10-31T04:37:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ko_pivot",
+      "tags": []
+    },
+    {
+      "id": "en2hvj",
+      "title": "GrapheneOS Proves Resilient Against Cellebrite Forensic Tools",
+      "description": "Score: 8 | Comments: 0 | Posted by mikece",
+      "url": "https://biggo.com/news/202509120730_GrapheneOS_Resists_Cellebrite_Forensic_Extraction",
+      "publishedAt": "2025-10-31T04:16:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mikece",
+      "tags": []
+    },
+    {
+      "id": "qto3nf",
+      "title": "AMD Could Enter ARM Market with Sound Wave APU Built on TSMC 3nm Process",
+      "description": "Score: 42 | Comments: 6 | Posted by walterbell",
+      "url": "https://www.guru3d.com/story/amd-enters-arm-market-with-sound-wave-apu-built-on-tsmc-3nm-process/",
+      "publishedAt": "2025-10-31T03:07:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "walterbell",
+      "tags": []
+    },
+    {
+      "id": "nl90nh",
+      "title": "ICE and the Smartphone Panopticon",
+      "description": "Score: 132 | Comments: 56 | Posted by fortran77",
+      "url": "https://www.newyorker.com/culture/infinite-scroll/ice-and-the-smartphone-panopticon",
+      "publishedAt": "2025-10-31T01:13:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fortran77",
+      "tags": []
+    },
+    {
+      "id": "nckwwq",
+      "title": "Roadmap for Improving the Type Checker",
+      "description": "Score: 32 | Comments: 4 | Posted by glhaynes",
+      "url": "https://forums.swift.org/t/roadmap-for-improving-the-type-checker/82952",
+      "publishedAt": "2025-10-31T01:00:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "glhaynes",
+      "tags": []
+    },
+    {
+      "id": "mefiqz",
+      "title": "Show HN: Font Finder – Find and Copy Fonts from Any Webpage",
+      "description": "Score: 14 | Comments: 2 | Posted by artemisForge77",
+      "url": "https://font-finder.org",
+      "publishedAt": "2025-10-31T00:57:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "artemisForge77",
+      "tags": []
+    },
+    {
+      "id": "wd40fi",
+      "title": "Show HN: Quibbler – A critic for your coding agent that learns what you want",
+      "description": "Score: 33 | Comments: 7 | Posted by etherio",
+      "url": "https://github.com/fulcrumresearch/quibbler",
+      "publishedAt": "2025-10-31T00:43:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "etherio",
+      "tags": []
+    },
+    {
+      "id": "uamacq",
+      "title": "Kimi Linear: An Expressive, Efficient Attention Architecture",
+      "description": "Score: 105 | Comments: 3 | Posted by blackcat201",
+      "url": "https://github.com/MoonshotAI/Kimi-Linear",
+      "publishedAt": "2025-10-31T00:07:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "blackcat201",
+      "tags": []
+    }
+  ]
+}

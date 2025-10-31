@@ -80,6 +80,17 @@
       "tags": []
     },
     {
+      "id": "c7wcef",
+      "title": "Independently verifying Go's reproducible builds",
+      "description": "Score: 109 | Comments: 11 | Posted by speckx",
+      "url": "https://www.agwa.name/blog/post/verifying_go_reproducible_builds",
+      "publishedAt": "2025-10-29T19:32:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
+      "tags": []
+    },
+    {
       "id": "maex2v",
       "title": "Uv is the best thing to happen to the Python ecosystem in a decadeemily.space",
       "description": "Score: 1406 | Comments: 768 | Posted by todsacerdoti",
@@ -256,6 +267,17 @@
       "tags": []
     },
     {
+      "id": "ddxk8h",
+      "title": "Israel demanded Google and Amazon use secret 'wink' to sidestep legal orders",
+      "description": "Score: 780 | Comments: 309 | Posted by skilled",
+      "url": "https://www.theguardian.com/us-news/2025/oct/29/google-amazon-israel-contract-secret-code",
+      "publishedAt": "2025-10-29T13:20:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "skilled",
+      "tags": []
+    },
+    {
       "id": "y68x4d",
       "title": "Grammarly rebrands to 'Superhuman,' launches a new AI assistant",
       "description": "Score: 128 | Comments: 97 | Posted by coloneltcb",
@@ -264,6 +286,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "coloneltcb",
+      "tags": []
+    },
+    {
+      "id": "6ya7jr",
+      "title": "Zig's New Async I/O",
+      "description": "Score: 279 | Comments: 99 | Posted by todsacerdoti",
+      "url": "https://andrewkelley.me/post/zig-new-async-io-text-version.html",
+      "publishedAt": "2025-10-29T12:35:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
       "tags": []
     },
     {
@@ -286,6 +319,39 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ndhandala",
+      "tags": []
+    },
+    {
+      "id": "uqguc",
+      "title": "WH Auden formed 'intense friendship' with sex worker who burgled him",
+      "description": "Score: 9 | Comments: 1 | Posted by Caiero",
+      "url": "https://www.theguardian.com/books/2025/oct/27/wh-auden-long-lost-letters-to-man-who-burgled-him",
+      "publishedAt": "2025-10-29T06:28:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Caiero",
+      "tags": []
+    },
+    {
+      "id": "nxz00h",
+      "title": "Show HN: Front End Fuzzy and Substring and Prefix Search",
+      "description": "Score: 27 | Comments: 1 | Posted by kmschaal",
+      "url": "https://github.com/m31coding/fuzzy-search",
+      "publishedAt": "2025-10-29T06:12:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kmschaal",
+      "tags": []
+    },
+    {
+      "id": "rjoif",
+      "title": "Jack Kerouac, Malcolm Cowley, and the difficult birth of On the Road",
+      "description": "Score: 41 | Comments: 18 | Posted by samclemens",
+      "url": "https://theamericanscholar.org/scrolling-through/",
+      "publishedAt": "2025-10-29T05:27:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "samclemens",
       "tags": []
     },
     {

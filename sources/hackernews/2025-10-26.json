@@ -91,6 +91,17 @@
       "tags": []
     },
     {
+      "id": "egsrtk",
+      "title": "How to Use Zorn's Lemma (2008)",
+      "description": "Score: 22 | Comments: 1 | Posted by perihelions",
+      "url": "https://gowers.wordpress.com/2008/08/12/how-to-use-zorns-lemma/",
+      "publishedAt": "2025-10-26T19:50:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "perihelions",
+      "tags": []
+    },
+    {
       "id": "go96wx",
       "title": "Smartphones manipulate our emotions and trigger our reflexes",
       "description": "Score: 129 | Comments: 56 | Posted by PaulHoule",
@@ -168,6 +179,17 @@
       "tags": []
     },
     {
+      "id": "pkh993",
+      "title": "987654321 / 123456789",
+      "description": "Score: 532 | Comments: 90 | Posted by ColinWright",
+      "url": "https://www.johndcook.com/blog/2025/10/26/987654321/",
+      "publishedAt": "2025-10-26T15:22:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ColinWright",
+      "tags": []
+    },
+    {
       "id": "psq8uv",
       "title": "Myanmar military shuts down a major cybercrime center, detains over 2k people",
       "description": "Score: 169 | Comments: 55 | Posted by bikenaga",
@@ -242,6 +264,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "Thom2503",
+      "tags": []
+    },
+    {
+      "id": "bul2u0",
+      "title": "Lenses in Julia",
+      "description": "Score: 92 | Comments: 24 | Posted by samuel2",
+      "url": "https://juliaobjects.github.io/Accessors.jl/stable/lenses/",
+      "publishedAt": "2025-10-26T11:53:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "samuel2",
       "tags": []
     },
     {
@@ -429,6 +462,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "nvahalik",
+      "tags": []
+    },
+    {
+      "id": "6ba16o",
+      "title": "Learn Multiplatform Z80 Assembly Programming with Vampires",
+      "description": "Score: 78 | Comments: 7 | Posted by surprisetalk",
+      "url": "https://www.chibiakumas.com/z80/",
+      "publishedAt": "2025-10-26T00:15:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
       "tags": []
     }
   ]

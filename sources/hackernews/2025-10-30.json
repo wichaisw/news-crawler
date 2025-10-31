@@ -3,6 +3,182 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "rhmsuo",
+      "title": "A change of address led to our Wise accounts being shut down",
+      "description": "Score: 254 | Comments: 169 | Posted by jemmyw",
+      "url": "https://shaun.nz/why-were-never-using-wise-again-a-cautionary-tale-from-a-business-burned/",
+      "publishedAt": "2025-10-30T22:41:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jemmyw",
+      "tags": []
+    },
+    {
+      "id": "ta541j",
+      "title": "Phone numbers for use in TV shows, films and creative works",
+      "description": "Score: 140 | Comments: 60 | Posted by nomilk",
+      "url": "https://www.acma.gov.au/phone-numbers-use-tv-shows-films-and-creative-works",
+      "publishedAt": "2025-10-30T21:49:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nomilk",
+      "tags": []
+    },
+    {
+      "id": "6i2q67",
+      "title": "Denmark reportedly withdraws Chat Control proposal following controversy",
+      "description": "Score: 266 | Comments: 80 | Posted by layer8",
+      "url": "https://therecord.media/demark-reportedly-withdraws-chat-control-proposal",
+      "publishedAt": "2025-10-30T21:35:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "layer8",
+      "tags": []
+    },
+    {
+      "id": "n6vq22",
+      "title": "We are building AI slaves. Alignment through control will fail",
+      "description": "Score: 19 | Comments: 23 | Posted by cyberneticc",
+      "url": "https://utopai.substack.com/p/autopoietic-mutualism",
+      "publishedAt": "2025-10-30T21:23:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cyberneticc",
+      "tags": []
+    },
+    {
+      "id": "fcm5s9",
+      "title": "Show HN: ekoAcademic – Convert ArXiv papers to interactive podcasts",
+      "description": "Score: 39 | Comments: 8 | Posted by wadamczyk",
+      "url": "https://www.wadamczyk.io/projects/ekoacademic/index.html",
+      "publishedAt": "2025-10-30T21:03:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wadamczyk",
+      "tags": []
+    },
+    {
+      "id": "gwpkde",
+      "title": "Minecraft HDL, an HDL for Redstone",
+      "description": "Score: 134 | Comments: 17 | Posted by sleepingreset",
+      "url": "https://github.com/itsfrank/MinecraftHDL",
+      "publishedAt": "2025-10-30T18:59:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sleepingreset",
+      "tags": []
+    },
+    {
+      "id": "w87fn8",
+      "title": "I have released a 69.0MB version of Windows 7 x86",
+      "description": "Score: 159 | Comments: 80 | Posted by rvnx",
+      "url": "https://twitter.com/XenoPanther/status/1983477707968291075",
+      "publishedAt": "2025-10-30T18:05:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rvnx",
+      "tags": []
+    },
+    {
+      "id": "lvb77o",
+      "title": "The ear does not do a Fourier transform (2024)",
+      "description": "Score: 398 | Comments: 130 | Posted by izhak",
+      "url": "https://www.dissonances.blog/p/the-ear-does-not-do-a-fourier-transform",
+      "publishedAt": "2025-10-30T17:01:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "izhak",
+      "tags": []
+    },
+    {
+      "id": "p8cfo0",
+      "title": "Launch HN: Propolis (YC X25) – Browser agents that QA your web app autonomously",
+      "description": "Score: 93 | Comments: 27 | Posted by mpapazian",
+      "url": "https://app.propolis.tech/#/launch",
+      "publishedAt": "2025-10-30T16:40:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mpapazian",
+      "tags": []
+    },
+    {
+      "id": "d08mnc",
+      "title": "Affinity Studio now free",
+      "description": "Score: 916 | Comments: 616 | Posted by dagmx",
+      "url": "https://www.affinity.studio/get-affinity",
+      "publishedAt": "2025-10-30T15:54:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dagmx",
+      "tags": []
+    },
+    {
+      "id": "rzn04i",
+      "title": "ZOZO's Contact Solver for physics-based simulations",
+      "description": "Score: 73 | Comments: 34 | Posted by vintagedave",
+      "url": "https://github.com/st-tech/ppf-contact-solver",
+      "publishedAt": "2025-10-30T15:21:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vintagedave",
+      "tags": []
+    },
+    {
+      "id": "6mr2gj",
+      "title": "PlanetScale Offering $5 Databases",
+      "description": "Score: 190 | Comments: 101 | Posted by ryanvogel",
+      "url": "https://planetscale.com/blog/5-dollar-planetscale",
+      "publishedAt": "2025-10-30T15:20:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ryanvogel",
+      "tags": []
+    },
+    {
+      "id": "f0j9x6",
+      "title": "Free software scares normal people",
+      "description": "Score: 574 | Comments: 361 | Posted by cryptophreak",
+      "url": "https://danieldelaney.net/normal/",
+      "publishedAt": "2025-10-30T15:07:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cryptophreak",
+      "tags": []
+    },
+    {
+      "id": "3uacrf",
+      "title": "US declines to join more than 70 countries in signing UN cybercrime treaty",
+      "description": "Score: 336 | Comments: 206 | Posted by pcaharrier",
+      "url": "https://therecord.media/us-declines-signing-cybercrime-treaty?",
+      "publishedAt": "2025-10-30T14:22:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pcaharrier",
+      "tags": []
+    },
+    {
+      "id": "1g1kax",
+      "title": "Show HN: I made a heatmap diff viewer for code reviews",
+      "description": "Score: 197 | Comments: 56 | Posted by lawrencechen",
+      "url": "https://0github.com",
+      "publishedAt": "2025-10-30T14:21:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lawrencechen",
+      "tags": []
+    },
+    {
+      "id": "rvzbkr",
+      "title": "Show HN: In a single HTML file, an app to encourage my children to invest",
+      "description": "Score: 202 | Comments: 366 | Posted by roberdam",
+      "url": "https://roberdam.com/en/dinversiones.html",
+      "publishedAt": "2025-10-30T10:39:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "roberdam",
+      "tags": []
+    },
+    {
       "id": "552k9t",
       "title": "Carlo Rovelli’s radical perspective on reality",
       "description": "Score: 11 | Comments: 7 | Posted by vismit2000",
@@ -44,6 +220,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "pabs3",
+      "tags": []
+    },
+    {
+      "id": "we1e37",
+      "title": "NPM flooded with malicious packages downloaded more than 86k times",
+      "description": "Score: 220 | Comments: 139 | Posted by jnord",
+      "url": "https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/",
+      "publishedAt": "2025-10-30T00:37:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jnord",
       "tags": []
     }
   ]
