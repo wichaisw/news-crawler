@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "26tiu5",
+      "title": "Leaker reveals which Pixels are vulnerable to Cellebrite phone hacking",
+      "description": "Score: 232 | Comments: 156 | Posted by akyuu",
+      "url": "https://arstechnica.com/gadgets/2025/10/leaker-reveals-which-pixels-are-vulnerable-to-cellebrite-phone-hacking/",
+      "publishedAt": "2025-10-30T23:12:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "akyuu",
+      "tags": []
+    },
+    {
       "id": "rhmsuo",
       "title": "A change of address led to our Wise accounts being shut down",
       "description": "Score: 254 | Comments: 169 | Posted by jemmyw",
@@ -36,6 +47,17 @@
       "tags": []
     },
     {
+      "id": "kb8dn9",
+      "title": "If a pilot ejects, what is the autopilot programmed to do? (2018)",
+      "description": "Score: 76 | Comments: 64 | Posted by avestura",
+      "url": "https://aviation.stackexchange.com/questions/52862/if-a-pilot-ejects-what-is-the-autopilot-programmed-to-do",
+      "publishedAt": "2025-10-30T21:27:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "avestura",
+      "tags": []
+    },
+    {
       "id": "n6vq22",
       "title": "We are building AI slaves. Alignment through control will fail",
       "description": "Score: 19 | Comments: 23 | Posted by cyberneticc",
@@ -58,6 +80,17 @@
       "tags": []
     },
     {
+      "id": "16ppsf",
+      "title": "Apple reports fourth quarter results",
+      "description": "Score: 148 | Comments: 210 | Posted by mfiguiere",
+      "url": "https://www.apple.com/newsroom/2025/10/apple-reports-fourth-quarter-results/",
+      "publishedAt": "2025-10-30T20:34:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mfiguiere",
+      "tags": []
+    },
+    {
       "id": "gwpkde",
       "title": "Minecraft HDL, an HDL for Redstone",
       "description": "Score: 134 | Comments: 17 | Posted by sleepingreset",
@@ -66,6 +99,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "sleepingreset",
+      "tags": []
+    },
+    {
+      "id": "4a5clo",
+      "title": "How We Found 7 TiB of Memory Just Sitting Around",
+      "description": "Score: 128 | Comments: 29 | Posted by anurag",
+      "url": "https://render.com/blog/how-we-found-7-tib-of-memory-just-sitting-around",
+      "publishedAt": "2025-10-30T18:25:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "anurag",
       "tags": []
     },
     {
@@ -88,6 +132,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "izhak",
+      "tags": []
+    },
+    {
+      "id": "1owuu5",
+      "title": "Signs of introspection in large language models",
+      "description": "Score: 124 | Comments: 65 | Posted by themgt",
+      "url": "https://www.anthropic.com/research/introspection",
+      "publishedAt": "2025-10-30T16:45:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "themgt",
       "tags": []
     },
     {
@@ -176,6 +231,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "roberdam",
+      "tags": []
+    },
+    {
+      "id": "osmqkv",
+      "title": "Introducing architecture variants",
+      "description": "Score: 191 | Comments: 120 | Posted by jnsgruk",
+      "url": "https://discourse.ubuntu.com/t/introducing-architecture-variants-amd64v3-now-available-in-ubuntu-25-10/71312",
+      "publishedAt": "2025-10-30T10:35:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jnsgruk",
       "tags": []
     },
     {

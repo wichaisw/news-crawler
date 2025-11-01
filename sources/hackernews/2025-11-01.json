@@ -1,0 +1,72 @@
+{
+  "date": "2025-11-01",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "1b6hkl",
+      "title": "Intent to Deprecate and Remove XSLT",
+      "description": "Score: 24 | Comments: 6 | Posted by CharlesW",
+      "url": "https://groups.google.com/a/chromium.org/g/blink-dev/c/CxL4gYZeSJA/m/yNs4EsD5AQAJ",
+      "publishedAt": "2025-11-01T04:31:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "CharlesW",
+      "tags": []
+    },
+    {
+      "id": "76v08t",
+      "title": "Precise and scalable analogue matrix equation solving using resistive RAM chips",
+      "description": "Score: 17 | Comments: 6 | Posted by mrbluecoat",
+      "url": "https://www.livescience.com/technology/computing/china-solves-century-old-problem-with-new-analog-chip-that-is-1-000-times-faster-than-high-end-nvidia-gpus",
+      "publishedAt": "2025-11-01T04:09:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mrbluecoat",
+      "tags": []
+    },
+    {
+      "id": "x9hhsl",
+      "title": "The profitable startup",
+      "description": "Score: 61 | Comments: 19 | Posted by doppp",
+      "url": "https://linear.app/now/the-profitable-startup",
+      "publishedAt": "2025-11-01T03:18:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "doppp",
+      "tags": []
+    },
+    {
+      "id": "wsq5yw",
+      "title": "Fungus: The Befunge CPU (2015)",
+      "description": "Score: 12 | Comments: 1 | Posted by onestay42",
+      "url": "https://www.bedroomlan.org/hardware/fungus/",
+      "publishedAt": "2025-11-01T01:38:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "onestay42",
+      "tags": []
+    },
+    {
+      "id": "yfb4oy",
+      "title": "I Love My Wife, My Wife Is Dead (1946)",
+      "description": "Score: 36 | Comments: 9 | Posted by nsoonhui",
+      "url": "https://www.bingqiangao.com/poetry/i-love-my-wife-my-wife-is-dead",
+      "publishedAt": "2025-11-01T00:19:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nsoonhui",
+      "tags": []
+    },
+    {
+      "id": "gf49ap",
+      "title": "Show HN: Strange Attractorsshashanktomar.com",
+      "description": "Score: 279 | Comments: 35 | Posted by shashanktomar",
+      "url": "https://blog.shashanktomar.com/posts/strange-attractors",
+      "publishedAt": "2025-11-01T00:08:11.972Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "shashanktomar",
+      "tags": []
+    }
+  ]
+}

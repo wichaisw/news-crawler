@@ -1,0 +1,74 @@
+{
+  "date": "2025-11-01",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "148708 at https://www.blognone.com",
+      "title": "Data.gov ศึกษาการย้ายระบบค้นหาเว็บไปรันใน DuckDB บนเบราว์เซอร์ด้วย WASM โดยฝั่งเซิร์ฟเวอร์ไม่ต้องมีฐานข้อมูล ไม่ต้องอัปเดตซอฟต์แวร์",
+      "description": "Data.gov ศึกษาการย้ายระบบค้นหาเว็บไปรันใน DuckDB บนเบราว์เซอร์ด้วย WASM โดยฝั่งเซิร์ฟเวอร์ไม่ต้องมีฐานข้อมูล ไม่ต้องอัปเดตซอฟต์แวร์ Body Library",
+      "url": "https://www.blognone.com/node/148708",
+      "publishedAt": "2025-11-01T03:56:00.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148709 at https://www.blognone.com",
+      "title": "Windsurf เปิดตัวโมเดลเขียนโค้ด SWE-1.5 ทำงานเร็วกว่า Claude Sonnet 4.5 ถึง 13 เท่า",
+      "description": "Windsurf เปิดตัวโมเดลเขียนโค้ด SWE-1.5 ทำงานเร็วกว่า Claude Sonnet 4.5 ถึง 13 เท่า Body Windsurf บริการ AI ช่วยเขียนโค้ด (ปัจจุบันเป็นของ บริษัท",
+      "url": "https://www.blognone.com/node/148709",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2025/2025-11/swe_bench_pro_results.jpg",
+      "publishedAt": "2025-11-01T03:42:22.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148707 at https://www.blognone.com",
+      "title": "ไมโครซอฟท์เริ่มขยาย Xbox Full Screen Experience (FSE) ให้เครื่องเกมพกพาอื่น",
+      "description": "ไมโครซอฟท์เริ่มขยาย Xbox Full Screen Experience (FSE) ให้เครื่องเกมพกพาอื่น Body ฟีเจอร์เด่นของ เครื่องเกมพกพา ROG Xbox Ally ที่ ASUS",
+      "url": "https://www.blognone.com/node/148707",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2025/2025-10/sharedaudio.png",
+      "publishedAt": "2025-11-01T02:18:12.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148706 at https://www.blognone.com",
+      "title": "Sora เพิ่มตัวเลือกจ่ายเงินเพื่อซื้อเครดิตสร้างวิดีโอ หากติดลิมิตต่อวัน",
+      "description": "Sora เพิ่มตัวเลือกจ่ายเงินเพื่อซื้อเครดิตสร้างวิดีโอ หากติดลิมิตต่อวัน Body Sora แอปสร้างวิดีโอจาก AI ของ OpenAI",
+      "url": "https://www.blognone.com/node/148706",
+      "publishedAt": "2025-11-01T00:24:50.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148704 at https://www.blognone.com",
+      "title": "Perplexity เปิดตัวระบบค้นหาข้อมูลสิทธิบัตรด้วย AI รองรับภาษาธรรมชาติ ค้นหาสิทธิบัตรที่เกี่ยวข้องได้มากกว่า",
+      "description": "Perplexity เปิดตัวระบบค้นหาข้อมูลสิทธิบัตรด้วย AI รองรับภาษาธรรมชาติ ค้นหาสิทธิบัตรที่เกี่ยวข้องได้มากกว่า Body Perplexity เปิดตัว Perplexity Patents",
+      "url": "https://www.blognone.com/node/148704",
+      "publishedAt": "2025-11-01T00:09:05.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148705 at https://www.blognone.com",
+      "title": "Bluesky มีผู้ใช้งาน 40 ล้านแล้ว เพิ่มปุ่ม Dislike เพื่อเป็น signal ว่าไม่ชอบโพสต์แบบนี้",
+      "description": "Bluesky มีผู้ใช้งาน 40 ล้านแล้ว เพิ่มปุ่ม Dislike เพื่อเป็น signal ว่าไม่ชอบโพสต์แบบนี้ Body Bluesky ประกาศ ว่าแพลตฟอร์มมีจำนวนผู้ใช้งานมากกว่า 40",
+      "url": "https://www.blognone.com/node/148705",
+      "publishedAt": "2025-11-01T00:08:07.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}
