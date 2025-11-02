@@ -300,6 +300,17 @@
       "tags": []
     },
     {
+      "id": "u8uu3d",
+      "title": "RegEx Crossword",
+      "description": "Score: 34 | Comments: 11 | Posted by a022311",
+      "url": "https://jimbly.github.io/regex-crossword/",
+      "publishedAt": "2025-10-28T14:37:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "a022311",
+      "tags": []
+    },
+    {
       "id": "hn96wt",
       "title": "A brief history of random numbers (2018)",
       "description": "Score: 189 | Comments: 61 | Posted by todsacerdoti",
@@ -363,6 +374,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "Brajeshwar",
+      "tags": []
+    },
+    {
+      "id": "fazy10",
+      "title": "Frank Gasking on preserving «lost» games",
+      "description": "Score: 80 | Comments: 17 | Posted by doener",
+      "url": "https://spillhistorie.no/2025/10/24/frank-gasking-on-preserving-lost-games/",
+      "publishedAt": "2025-10-28T13:32:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "doener",
       "tags": []
     },
     {
@@ -440,6 +462,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "keybits",
+      "tags": []
+    },
+    {
+      "id": "8blbhl",
+      "title": "Austria: Pylons as sculpture for public acceptance of expanding electrification",
+      "description": "Score: 102 | Comments: 46 | Posted by Geekette",
+      "url": "https://www.goodgoodgood.co/articles/austrian-power-giants-power-line-animals",
+      "publishedAt": "2025-10-28T09:56:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Geekette",
+      "tags": []
+    },
+    {
+      "id": "91i258",
+      "title": "Sufficiently Smart Compiler",
+      "description": "Score: 12 | Comments: 1 | Posted by coffeeaddict1",
+      "url": "https://wiki.c2.com/?SufficientlySmartCompiler",
+      "publishedAt": "2025-10-28T09:17:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "coffeeaddict1",
       "tags": []
     },
     {

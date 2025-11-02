@@ -377,6 +377,17 @@
       "tags": []
     },
     {
+      "id": "qa170p",
+      "title": "The hardest program I've ever written (2015)",
+      "description": "Score: 74 | Comments: 40 | Posted by jacobedawson",
+      "url": "https://journal.stuffwithstuff.com/2015/09/08/the-hardest-program-ive-ever-written/",
+      "publishedAt": "2025-10-29T05:14:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jacobedawson",
+      "tags": []
+    },
+    {
       "id": "9452cz",
       "title": "Wacl – A Tcl Distribution for WebAssembly",
       "description": "Score: 11 | Comments: 0 | Posted by shakna",

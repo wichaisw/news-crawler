@@ -135,6 +135,17 @@
       "tags": []
     },
     {
+      "id": "i6qj3n",
+      "title": "The Smol Training Playbook: The Secrets to Building World-Class LLMs",
+      "description": "Score: 167 | Comments: 10 | Posted by kashifr",
+      "url": "https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook",
+      "publishedAt": "2025-10-30T16:52:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kashifr",
+      "tags": []
+    },
+    {
       "id": "1owuu5",
       "title": "Signs of introspection in large language models",
       "description": "Score: 124 | Comments: 65 | Posted by themgt",
@@ -154,6 +165,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mpapazian",
+      "tags": []
+    },
+    {
+      "id": "nmg9ka",
+      "title": "Dating: A mysterious constellation of facts",
+      "description": "Score: 74 | Comments: 65 | Posted by tobr",
+      "url": "https://dynomight.net/dating/",
+      "publishedAt": "2025-10-30T16:20:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tobr",
       "tags": []
     },
     {
@@ -286,6 +308,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "pabs3",
+      "tags": []
+    },
+    {
+      "id": "4vrel0",
+      "title": "NJVL: Nim's New Intermediate Representation",
+      "description": "Score: 61 | Comments: 8 | Posted by generichuman",
+      "url": "https://github.com/nim-lang/nimony/blob/master/doc/njvl-spec.md",
+      "publishedAt": "2025-10-30T01:44:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "generichuman",
       "tags": []
     },
     {

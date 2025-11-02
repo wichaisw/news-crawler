@@ -3,6 +3,40 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "148712 at https://www.blognone.com",
+      "title": "arXiv เปลี่ยนนโยบาย บทความรีวิววงการสายคอมพิวเตอร์ต้องผ่านการรีวิวเท่านั้น หลังถูกถล่มด้วยรายงานเขียนด้วย LLM",
+      "description": "arXiv เปลี่ยนนโยบาย บทความรีวิววงการสายคอมพิวเตอร์ต้องผ่านการรีวิวเท่านั้น หลังถูกถล่มด้วยรายงานเขียนด้วย LLM Body arXiv",
+      "url": "https://www.blognone.com/node/148712",
+      "publishedAt": "2025-11-01T17:05:33.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148711 at https://www.blognone.com",
+      "title": "NVIDIA ร่วมมือกับหน่วยงานรัฐ-เอกชนในเกาหลีใต้ พัฒนาโครงสร้างพื้นฐาน AI ในด้านต่าง ๆ",
+      "description": "NVIDIA ร่วมมือกับหน่วยงานรัฐ-เอกชนในเกาหลีใต้ พัฒนาโครงสร้างพื้นฐาน AI ในด้านต่าง ๆ Body Jensen Huang ซีอีโอ NVIDIA เดินทางไปร่วมงานประชุมนานาชาติ",
+      "url": "https://www.blognone.com/node/148711",
+      "publishedAt": "2025-11-01T09:11:20.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148710 at https://www.blognone.com",
+      "title": "IBM เปิดตัวโมเดลภาษา Granite 4.0 Nano รุ่นเล็ก รันในมือถือได้ ประสิทธิภาพดี",
+      "description": "IBM เปิดตัวโมเดลภาษา Granite 4.0 Nano รุ่นเล็ก รันในมือถือได้ ประสิทธิภาพดี Body IBM เปิดตัวโมเดลภาษา Granite 4.0 Nano เป็นเวอร์ชันไซส์เล็กของ",
+      "url": "https://www.blognone.com/node/148710",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2025/2025-10/granite-4-nano-compare.png",
+      "publishedAt": "2025-11-01T07:56:25.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "148708 at https://www.blognone.com",
       "title": "Data.gov ศึกษาการย้ายระบบค้นหาเว็บไปรันใน DuckDB บนเบราว์เซอร์ด้วย WASM โดยฝั่งเซิร์ฟเวอร์ไม่ต้องมีฐานข้อมูล ไม่ต้องอัปเดตซอฟต์แวร์",
       "description": "Data.gov ศึกษาการย้ายระบบค้นหาเว็บไปรันใน DuckDB บนเบราว์เซอร์ด้วย WASM โดยฝั่งเซิร์ฟเวอร์ไม่ต้องมีฐานข้อมูล ไม่ต้องอัปเดตซอฟต์แวร์ Body Library",

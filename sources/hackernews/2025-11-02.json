@@ -1,0 +1,116 @@
+{
+  "date": "2025-11-02",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "12pij9",
+      "title": "Meta readies $25B bond sale as soaring AI costs trigger stock sell-off",
+      "description": "Score: 16 | Comments: 3 | Posted by 1vuio0pswjnm7",
+      "url": "https://www.ft.com/content/120d2321-8382-4d74-ab48-f9ecb483c2a9",
+      "publishedAt": "2025-11-02T05:33:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "1vuio0pswjnm7",
+      "tags": []
+    },
+    {
+      "id": "ndc6cl",
+      "title": "LM8560, the eternal chip from the 1980 years",
+      "description": "Score: 7 | Comments: 1 | Posted by userbinator",
+      "url": "https://www.tycospages.com/other-themes/lm8560-the-eternal-chip-from-the-1980-years/",
+      "publishedAt": "2025-11-02T04:27:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "userbinator",
+      "tags": []
+    },
+    {
+      "id": "wf9w1q",
+      "title": "You Don't Need Anubisfxgn.dev",
+      "description": "Score: 38 | Comments: 19 | Posted by flexagoon",
+      "url": "https://fxgn.dev/blog/anubis/",
+      "publishedAt": "2025-11-02T04:08:39.647Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "flexagoon",
+      "tags": []
+    },
+    {
+      "id": "wf9w1q",
+      "title": "You Don't Need Anubis",
+      "description": "Score: 38 | Comments: 19 | Posted by flexagoon",
+      "url": "https://fxgn.dev/blog/anubis/",
+      "publishedAt": "2025-11-02T04:03:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "flexagoon",
+      "tags": []
+    },
+    {
+      "id": "lx1kj4",
+      "title": "Crossfire: High-performance lockless spsc/mpsc/mpmc channels for Rust",
+      "description": "Score: 36 | Comments: 1 | Posted by 0x1997",
+      "url": "https://github.com/frostyplanet/crossfire-rs",
+      "publishedAt": "2025-11-02T03:07:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "0x1997",
+      "tags": []
+    },
+    {
+      "id": "8ocr47",
+      "title": "A Few Words About Async",
+      "description": "Score: 22 | Comments: 5 | Posted by vinhnx",
+      "url": "https://yoric.github.io/post/quite-a-few-words-about-async/",
+      "publishedAt": "2025-11-02T01:10:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vinhnx",
+      "tags": []
+    },
+    {
+      "id": "jivzlv",
+      "title": "Linux and Windows: A tale of Kerberos, SSSD, DFS, and black magic",
+      "description": "Score: 11 | Comments: 1 | Posted by indigodaddy",
+      "url": "http://www.draeath.net/blog/it/2018/03/13/DFSwithKRB/",
+      "publishedAt": "2025-11-02T00:54:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "indigodaddy",
+      "tags": []
+    },
+    {
+      "id": "v74sr",
+      "title": "Anonymous credentials: rate-limit bots and agents without compromising privacy",
+      "description": "Score: 50 | Comments: 18 | Posted by eleye",
+      "url": "https://blog.cloudflare.com/private-rate-limiting/",
+      "publishedAt": "2025-11-02T00:45:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "eleye",
+      "tags": []
+    },
+    {
+      "id": "le1ocn",
+      "title": "Why \"everyone dies\" gets AGI all wrong",
+      "description": "Score: 80 | Comments: 149 | Posted by danans",
+      "url": "https://bengoertzel.substack.com/p/why-everyone-dies-gets-agi-all-wrong",
+      "publishedAt": "2025-11-02T00:40:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "danans",
+      "tags": []
+    },
+    {
+      "id": "9mxiqz",
+      "title": "How I use every Claude Code feature",
+      "description": "Score: 155 | Comments: 46 | Posted by sshh12",
+      "url": "https://blog.sshh.io/p/how-i-use-every-claude-code-feature",
+      "publishedAt": "2025-11-02T00:13:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sshh12",
+      "tags": []
+    }
+  ]
+}

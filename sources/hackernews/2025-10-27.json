@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "37s98u",
+      "title": "3M Diskette Reference Manual (1983) [pdf]",
+      "description": "Score: 56 | Comments: 13 | Posted by susam",
+      "url": "https://retrocmp.de/fdd/diskette/3M_Diskette_Reference_Manual_May83.pdf",
+      "publishedAt": "2025-10-27T23:44:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "susam",
+      "tags": []
+    },
+    {
       "id": "b3u7cg",
       "title": "AI can code, but it can't build software",
       "description": "Score: 188 | Comments: 111 | Posted by nreece",
@@ -451,6 +462,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "lucidplot",
+      "tags": []
+    },
+    {
+      "id": "ovoy77",
+      "title": "I built my own CityMapper",
+      "description": "Score: 126 | Comments: 17 | Posted by ashfn",
+      "url": "https://asherfalcon.com/blog/posts/5",
+      "publishedAt": "2025-10-27T11:18:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ashfn",
       "tags": []
     },
     {
