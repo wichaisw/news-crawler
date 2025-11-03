@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "qiydbz",
+      "title": "When O3 is 2x slower than O2",
+      "description": "Score: 97 | Comments: 90 | Posted by keyle",
+      "url": "https://cat-solstice.github.io/test-pqueue/",
+      "publishedAt": "2025-10-28T23:29:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "keyle",
+      "tags": []
+    },
+    {
       "id": "oihv20",
       "title": "Keeping the Internet fast and secure: introducing Merkle Tree Certificates",
       "description": "Score: 106 | Comments: 34 | Posted by tatersolid",
@@ -220,6 +231,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "speckx",
+      "tags": []
+    },
+    {
+      "id": "ficxou",
+      "title": "Why does Swiss cheese have holes?",
+      "description": "Score: 62 | Comments: 123 | Posted by QueensGambit",
+      "url": "https://www.usdairy.com/news-articles/why-does-swiss-cheese-have-holes",
+      "publishedAt": "2025-10-28T16:45:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "QueensGambit",
       "tags": []
     },
     {
@@ -484,6 +506,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "coffeeaddict1",
+      "tags": []
+    },
+    {
+      "id": "48esll",
+      "title": "Rats filmed snatching bats from air",
+      "description": "Score: 139 | Comments: 79 | Posted by XzetaU8",
+      "url": "https://www.science.org/content/article/rats-filmed-snatching-bats-air-first-time",
+      "publishedAt": "2025-10-28T08:29:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "XzetaU8",
       "tags": []
     },
     {

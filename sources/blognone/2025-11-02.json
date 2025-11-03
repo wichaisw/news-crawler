@@ -3,6 +3,51 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "148720 at https://www.blognone.com",
+      "title": "Debian เตรียมผูก Rust เข้าแกนกลาง กระทบซีพียูเก่า",
+      "description": "Debian เตรียมผูก Rust เข้าแกนกลาง กระทบซีพียูเก่า Body Julian Klode ผู้พัฒนา Debian ประกาศว่าจะเพิ่มโค้ด Rust เข้า APT หลังจากเดือนพฤษภาคม 2026",
+      "url": "https://www.blognone.com/node/148720",
+      "publishedAt": "2025-11-02T12:32:31.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148719 at https://www.blognone.com",
+      "title": "ซีอีโอ Amazon อธิบาย ปลดพนักงาน 14,000 คนไม่ใช่เพราะ AI แต่ต้องการสร้างวัฒนธรรมองค์กร",
+      "description": "ซีอีโอ Amazon อธิบาย ปลดพนักงาน 14,000 คนไม่ใช่เพราะ AI แต่ต้องการสร้างวัฒนธรรมองค์กร Body Andy Jassy ซีอีโอ Amazon ตอบคำถามเรื่อง",
+      "url": "https://www.blognone.com/node/148719",
+      "publishedAt": "2025-11-02T10:07:18.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148718 at https://www.blognone.com",
+      "title": "Adobe นำเสนอฟีเจอร์ใหม่สถานะโครงการทดลอง ปีนี้นำ AI มาเสริมความสามารถหลายด้าน",
+      "description": "Adobe นำเสนอฟีเจอร์ใหม่สถานะโครงการทดลอง ปีนี้นำ AI มาเสริมความสามารถหลายด้าน Body ในงานสัมมนาประจำปี Adobe MAX เซสชันที่เป็นไฮไลท์มาตลอดคือ Sneaks",
+      "url": "https://www.blognone.com/node/148718",
+      "publishedAt": "2025-11-02T09:15:59.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "148717 at https://www.blognone.com",
+      "title": "ชื่อแรกสำคัญเสมอ ทีมวิจัย AI ในอิตาลีตัดสินลำดับชื่อนักวิจัยด้วยการแข่ง Mario Kart",
+      "description": "ชื่อแรกสำคัญเสมอ ทีมวิจัย AI ในอิตาลีตัดสินลำดับชื่อนักวิจัยด้วยการแข่ง Mario Kart Body ทีมวิจัยจาก GLADIA Research Lab",
+      "url": "https://www.blognone.com/node/148717",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2025/2025-10/g4rfimiwaaepmmw.jpeg",
+      "publishedAt": "2025-11-02T05:49:18.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "148716 at https://www.blognone.com",
       "title": "Sam Altman vs. Elon Musk ประจำวันนี้ ว่าด้วยเรื่องขอคืนเงินที่จองรถ Tesla",
       "description": "Sam Altman vs. Elon Musk ประจำวันนี้ ว่าด้วยเรื่องขอคืนเงินที่จองรถ Tesla Body มีการตอบโต้กันระหว่าง Sam Altman ซีอีโอ OpenAI กับ Elon Musk ซีอีโอ",

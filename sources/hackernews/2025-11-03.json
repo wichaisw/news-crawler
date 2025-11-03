@@ -1,0 +1,61 @@
+{
+  "date": "2025-11-03",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "e920wx",
+      "title": "Setting up a simple home router with OpenBSD",
+      "description": "Score: 8 | Comments: 0 | Posted by todsacerdoti",
+      "url": "https://www.blog.montgomerie.net/posts/2025-10-11-setting-up-a-very-simple-but-ipv6-capable-home-router-with-openbsd-7.7/",
+      "publishedAt": "2025-11-03T04:48:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "apg96e",
+      "title": "Oxy is Cloudflare's Rust-based next generation proxy framework (2023)",
+      "description": "Score: 42 | Comments: 11 | Posted by Garbage",
+      "url": "https://blog.cloudflare.com/introducing-oxy/",
+      "publishedAt": "2025-11-03T03:13:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Garbage",
+      "tags": []
+    },
+    {
+      "id": "ev2nqg",
+      "title": "Simple trick to increase coverage: Lying to users about signal strengthnickvsnetworking.com",
+      "description": "Score: 175 | Comments: 51 | Posted by tsujamin",
+      "url": "https://nickvsnetworking.com/simple-trick-to-increase-coverage-lying-to-users-about-signal-strength/",
+      "publishedAt": "2025-11-03T02:10:06.270Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tsujamin",
+      "tags": []
+    },
+    {
+      "id": "n43j25",
+      "title": "Syllabi – Open-source agentic AI with tools, RAG, and multi-channel deploy",
+      "description": "Score: 14 | Comments: 4 | Posted by achushankar",
+      "url": "https://www.syllabi-ai.com/",
+      "publishedAt": "2025-11-03T01:59:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "achushankar",
+      "tags": []
+    },
+    {
+      "id": "ev2nqg",
+      "title": "Simple trick to increase coverage: Lying to users about signal strength",
+      "description": "Score: 176 | Comments: 51 | Posted by tsujamin",
+      "url": "https://nickvsnetworking.com/simple-trick-to-increase-coverage-lying-to-users-about-signal-strength/",
+      "publishedAt": "2025-11-03T01:27:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tsujamin",
+      "tags": []
+    }
+  ]
+}
