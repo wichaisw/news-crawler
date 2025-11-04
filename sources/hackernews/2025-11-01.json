@@ -179,6 +179,17 @@
       "tags": []
     },
     {
+      "id": "zbbq0k",
+      "title": "WebAssembly (WASM) arch support for the Linux kernel",
+      "description": "Score: 240 | Comments: 55 | Posted by marcodiego",
+      "url": "https://github.com/joelseverin/linux-wasm",
+      "publishedAt": "2025-11-01T16:39:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "marcodiego",
+      "tags": []
+    },
+    {
       "id": "ifwe8a",
       "title": "GHC now runs in the browser",
       "description": "Score: 281 | Comments: 85 | Posted by kaycebasques",

@@ -234,6 +234,17 @@
       "tags": []
     },
     {
+      "id": "6x3o7e",
+      "title": "A visualization of the RGB space covered by named colors",
+      "description": "Score: 255 | Comments: 55 | Posted by BlankCanvas",
+      "url": "https://codepen.io/meodai/full/zdgXJj/",
+      "publishedAt": "2025-10-29T16:09:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "BlankCanvas",
+      "tags": []
+    },
+    {
       "id": "uh3k7q",
       "title": "Composer: Building a fast frontier model with RL",
       "description": "Score: 185 | Comments: 138 | Posted by leerob",
@@ -297,6 +308,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "coloneltcb",
+      "tags": []
+    },
+    {
+      "id": "2tlnow",
+      "title": "Measuring characteristics of TCP connections at Internet scale",
+      "description": "Score: 66 | Comments: 0 | Posted by fleahunter",
+      "url": "https://blog.cloudflare.com/measuring-network-connections-at-scale/",
+      "publishedAt": "2025-10-29T13:00:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fleahunter",
+      "tags": []
+    },
+    {
+      "id": "fbtqjb",
+      "title": "KaTeX – The fastest math typesetting library for the web",
+      "description": "Score: 167 | Comments: 67 | Posted by suioir",
+      "url": "https://katex.org/",
+      "publishedAt": "2025-10-29T12:40:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "suioir",
       "tags": []
     },
     {

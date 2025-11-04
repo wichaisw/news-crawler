@@ -1,0 +1,28 @@
+{
+  "date": "2025-11-04",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3064759",
+      "title": "Wait, people actually use Facebook Dating?",
+      "description": "Meta said that Facebook Dating has 1.77 million daily active users in the US between ages 18-29.",
+      "url": "https://techcrunch.com/2025/11/03/wait-people-actually-use-facebook-dating/",
+      "publishedAt": "2025-11-04T04:05:24.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Amanda Silberling",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3064748",
+      "title": "a16z pauses its famed TxO Fund for underserved founders, lays off staff",
+      "description": "Andreessen Horowitz is pausing its Talent x Opportunity (TxO) fund and program, according to multiple sources.",
+      "url": "https://techcrunch.com/2025/11/03/a16z-pauses-its-famed-txo-fund-for-underserved-founders-lays-off-staff/",
+      "publishedAt": "2025-11-04T00:07:31.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "tags": []
+    }
+  ]
+}

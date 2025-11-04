@@ -124,6 +124,17 @@
       "tags": []
     },
     {
+      "id": "rw9xv9",
+      "title": "Show HN: Tamagotchi P1 for FPGAs",
+      "description": "Score: 55 | Comments: 6 | Posted by agg23",
+      "url": "https://github.com/agg23/fpga-tamagotchi",
+      "publishedAt": "2025-10-28T19:34:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "agg23",
+      "tags": []
+    },
+    {
       "id": "8h0n01",
       "title": "Samsung makes ads on smart fridges official with upcoming software update",
       "description": "Score: 493 | Comments: 383 | Posted by stalfosknight",
@@ -605,6 +616,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "rwh65z",
+      "title": "Handwriting Programs in J (2017)",
+      "description": "Score: 20 | Comments: 8 | Posted by Bogdanp",
+      "url": "https://www.hillelwayne.com/handwriting-j/",
+      "publishedAt": "2025-10-28T00:30:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Bogdanp",
       "tags": []
     }
   ]
