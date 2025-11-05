@@ -311,6 +311,28 @@
       "tags": []
     },
     {
+      "id": "d0ur85",
+      "title": "Whole Earth Index",
+      "description": "Score: 177 | Comments: 35 | Posted by bookofjoe",
+      "url": "https://wholeearth.info/",
+      "publishedAt": "2025-10-28T15:36:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bookofjoe",
+      "tags": []
+    },
+    {
+      "id": "szn46o",
+      "title": "Frozen String Literals: Past, Present, Future?",
+      "description": "Score: 45 | Comments: 10 | Posted by Bogdanp",
+      "url": "https://byroot.github.io/ruby/performance/2025/10/28/string-literals.html",
+      "publishedAt": "2025-10-28T15:08:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Bogdanp",
+      "tags": []
+    },
+    {
       "id": "ck8bpj",
       "title": "How to build a 747 – A WorldFlight Story",
       "description": "Score: 93 | Comments: 15 | Posted by hggh",
@@ -363,6 +385,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "andrem",
+      "tags": []
+    },
+    {
+      "id": "2yyjbl",
+      "title": "Asus Announces October Availability of ProArt Display 8K PA32KCX",
+      "description": "Score: 54 | Comments: 43 | Posted by Roachma",
+      "url": "https://press.asus.com/news/press-releases/asus-proart-display-8k-pa32kcx-availability/",
+      "publishedAt": "2025-10-28T14:17:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Roachma",
       "tags": []
     },
     {
@@ -539,6 +572,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "0xblinq",
+      "tags": []
+    },
+    {
+      "id": "87kbf1",
+      "title": "Reverse-engineered CUPS driver for Phomemo receipt/label printers",
+      "description": "Score: 106 | Comments: 27 | Posted by Curiositry",
+      "url": "https://github.com/vivier/phomemo-tools",
+      "publishedAt": "2025-10-28T05:01:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Curiositry",
       "tags": []
     },
     {

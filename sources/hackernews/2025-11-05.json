@@ -1,0 +1,138 @@
+{
+  "date": "2025-11-05",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "n4a9l4",
+      "title": "Epic vs. Google settlement: Opening up Android",
+      "description": "Score: 41 | Comments: 12 | Posted by azhenley",
+      "url": "https://twitter.com/TimSweeneyEpic/status/1985920786545123613",
+      "publishedAt": "2025-11-05T04:12:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "azhenley",
+      "tags": []
+    },
+    {
+      "id": "tynm3m",
+      "title": "Oracle default fears surge as credit swaps spike – is AI taking its toll?",
+      "description": "Score: 17 | Comments: 6 | Posted by moose_man",
+      "url": "https://economictimes.indiatimes.com/news/international/us/oracle-default-fears-surge-as-credit-swaps-spike-to-2-year-high-is-ai-taking-its-toll/articleshow/125065038.cms?from=mdr",
+      "publishedAt": "2025-11-05T03:56:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "moose_man",
+      "tags": []
+    },
+    {
+      "id": "rq0xkg",
+      "title": "Hypothesis: Property-Based Testing for Python",
+      "description": "Score: 47 | Comments: 13 | Posted by lwhsiao",
+      "url": "https://hypothesis.readthedocs.io/en/latest/",
+      "publishedAt": "2025-11-05T03:15:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lwhsiao",
+      "tags": []
+    },
+    {
+      "id": "jqlzwu",
+      "title": "Preventing Kubernetes from Pulling the Pause Image from the Internet",
+      "description": "Score: 11 | Comments: 7 | Posted by meatmanek",
+      "url": "https://kyle.cascade.family/posts/preventing-kubernetes-from-pulling-the-pause-image-from-the-internet/",
+      "publishedAt": "2025-11-05T03:04:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "meatmanek",
+      "tags": []
+    },
+    {
+      "id": "ijrztm",
+      "title": "What Happened to Piracy? Copyright Enforcement Fades as AI Giants Rise",
+      "description": "Score: 44 | Comments: 6 | Posted by walterbell",
+      "url": "https://www.leefang.com/p/what-happened-to-piracy-copyright",
+      "publishedAt": "2025-11-05T03:01:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "walterbell",
+      "tags": []
+    },
+    {
+      "id": "jhizxz",
+      "title": "Post-heist report reveals the password of the Louvre's video system was 'Louvre'",
+      "description": "Score: 11 | Comments: 0 | Posted by PLenz",
+      "url": "https://www.pcgamer.com/software/security/post-heist-reports-reveal-the-password-for-the-louvres-video-surveillance-was-louvre-and-suddenly-the-dumpster-tier-opsec-of-videogame-npcs-seems-a-lot-less-absurd/",
+      "publishedAt": "2025-11-05T02:53:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "PLenz",
+      "tags": []
+    },
+    {
+      "id": "4tc34e",
+      "title": "Zohran Mamdani wins the New York mayoral race",
+      "description": "Score: 416 | Comments: 398 | Posted by jsheard",
+      "url": "https://www.nbcnews.com/politics/elections/new-york-city-mayor-election-winner-2025-race-rcna238909",
+      "publishedAt": "2025-11-05T02:50:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jsheard",
+      "tags": []
+    },
+    {
+      "id": "omvwls",
+      "title": "Direct File won't happen in 2026, IRS tells states",
+      "description": "Score: 140 | Comments: 57 | Posted by jhatax",
+      "url": "https://www.nextgov.com/digital-government/2025/11/direct-file-wont-happen-2026-irs-tells-states/409309/",
+      "publishedAt": "2025-11-05T02:30:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jhatax",
+      "tags": []
+    },
+    {
+      "id": "9of0ps",
+      "title": "GM Deprecating In-Car App Store for Models as Recent as 2020",
+      "description": "Score: 48 | Comments: 34 | Posted by goopthink",
+      "url": "https://gmauthority.com/blog/2025/11/these-gm-vehicles-can-no-longer-download-apps-through-their-infotainment-system/",
+      "publishedAt": "2025-11-05T02:24:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "goopthink",
+      "tags": []
+    },
+    {
+      "id": "lrbwb7",
+      "title": "UPS MD-11 crashes departing Louisville",
+      "description": "Score: 13 | Comments: 1 | Posted by cypherpunks01",
+      "url": "https://www.flightradar24.com/blog/flight-tracking-news/major-incident/ups-md-11-crashes-departing-louisville/",
+      "publishedAt": "2025-11-05T02:01:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cypherpunks01",
+      "tags": []
+    },
+    {
+      "id": "kkhqxe",
+      "title": "Munich's surfers left stunned after famed river wave vanishes",
+      "description": "Score: 70 | Comments: 16 | Posted by c420",
+      "url": "https://www.theguardian.com/world/2025/nov/04/munichs-surfers-left-stunned-after-famed-river-wave-vanishes",
+      "publishedAt": "2025-11-05T01:51:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "c420",
+      "tags": []
+    },
+    {
+      "id": "v1m3cx",
+      "title": "Client ID Metadata Documents",
+      "description": "Score: 4 | Comments: 0 | Posted by mooreds",
+      "url": "https://client.dev",
+      "publishedAt": "2025-11-05T01:35:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mooreds",
+      "tags": []
+    }
+  ]
+}

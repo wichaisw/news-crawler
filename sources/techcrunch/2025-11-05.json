@@ -1,0 +1,39 @@
+{
+  "date": "2025-11-05",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3064880",
+      "title": "Goldman Sachs doubles down on MoEngage in new round to fuel global expansion",
+      "description": "MoEngage already has customers across 75 countries, with North America being its biggest business driver.",
+      "url": "https://techcrunch.com/2025/11/04/goldman-sachs-doubles-down-on-moengage-in-100m-round-to-fuel-global-expansion/",
+      "publishedAt": "2025-11-05T05:20:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Jagmeet Singh",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3065031",
+      "title": "NVIDIA, Qualcomm join U.S., Indian VCs to help build India’s next deep tech startups",
+      "description": "Qualcomm Ventures has joined six Indian venture firms, collectively adding more than $850 million to boost India’s deep-tech ecosystem.",
+      "url": "https://techcrunch.com/2025/11/04/nvidia-qualcomm-join-u-s-indian-vcs-to-help-build-indias-next-deep-tech-startups/",
+      "publishedAt": "2025-11-05T03:30:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Jagmeet Singh",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3065162",
+      "title": "Trump flips and re-nominates Jared Isaacman to lead NASA",
+      "description": "The reversal comes after weeks of pressure from people like Elon Musk, who accused Transportation Secretary Sean Duffy of being ill-equipped for the",
+      "url": "https://techcrunch.com/2025/11/04/trump-flips-and-re-nominates-jared-isaacman-to-lead-nasa/",
+      "publishedAt": "2025-11-05T01:23:06.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sean O'Kane",
+      "tags": []
+    }
+  ]
+}
