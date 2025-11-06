@@ -80,6 +80,17 @@
       "tags": []
     },
     {
+      "id": "h5a4qd",
+      "title": "App Store web has exposed all its source code",
+      "description": "Score: 205 | Comments: 70 | Posted by redbell",
+      "url": "https://www.reddit.com/r/webdev/comments/1onnzlj/app_store_web_has_exposed_all_its_source_code/",
+      "publishedAt": "2025-11-03T21:27:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "redbell",
+      "tags": []
+    },
+    {
       "id": "ryw909",
       "title": "AI's Dial-Up Erawreflection.com",
       "description": "Score: 235 | Comments: 187 | Posted by nowflux",
@@ -286,6 +297,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "chris_overseas",
+      "tags": []
+    },
+    {
+      "id": "q2kle",
+      "title": "Absurd Workflows: Durable Execution with Just Postgres",
+      "description": "Score: 116 | Comments: 23 | Posted by ingve",
+      "url": "https://lucumr.pocoo.org/2025/11/3/absurd-workflows/",
+      "publishedAt": "2025-11-03T09:17:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingve",
       "tags": []
     },
     {

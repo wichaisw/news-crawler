@@ -1,0 +1,83 @@
+{
+  "date": "2025-11-06",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "1ti655",
+      "title": "I may have found a way to spot U.S. at-sea strikes before they're announced",
+      "description": "Score: 65 | Comments: 35 | Posted by hentrep",
+      "url": "https://old.reddit.com/r/OSINT/comments/1opjjyv/i_may_have_found_a_way_to_spot_us_atsea_strikes/",
+      "publishedAt": "2025-11-06T04:37:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hentrep",
+      "tags": []
+    },
+    {
+      "id": "nlcje1",
+      "title": "End of Japanese communitysupport.mozilla.org",
+      "description": "Score: 301 | Comments: 168 | Posted by phantomathkg",
+      "url": "https://support.mozilla.org/en-US/forums/contributors/717446",
+      "publishedAt": "2025-11-06T03:10:02.226Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "phantomathkg",
+      "tags": []
+    },
+    {
+      "id": "3mzgnc",
+      "title": "Ratatui – App Showcase",
+      "description": "Score: 111 | Comments: 48 | Posted by AbuAssar",
+      "url": "https://ratatui.rs/showcase/apps/",
+      "publishedAt": "2025-11-06T02:50:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "AbuAssar",
+      "tags": []
+    },
+    {
+      "id": "qnqkvi",
+      "title": "Brain-IT: Image Reconstruction from fMRI via Brain-Interaction Transformer",
+      "description": "Score: 17 | Comments: 0 | Posted by SerCe",
+      "url": "https://AmitZalcher.github.io/Brain-IT/",
+      "publishedAt": "2025-11-06T02:46:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "SerCe",
+      "tags": []
+    },
+    {
+      "id": "nlcje1",
+      "title": "End of Japanese community",
+      "description": "Score: 304 | Comments: 170 | Posted by phantomathkg",
+      "url": "https://support.mozilla.org/en-US/forums/contributors/717446",
+      "publishedAt": "2025-11-06T02:38:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "phantomathkg",
+      "tags": []
+    },
+    {
+      "id": "vckce4",
+      "title": "OpenAI asks U.S. for loan guarantees to fund $1T AI expansion",
+      "description": "Score: 59 | Comments: 23 | Posted by donsupreme",
+      "url": "https://investinglive.com/stock-market-update/icymi-openai-asks-us-for-loan-guarantees-to-fund-1-trillion-ai-expansion-20251105/",
+      "publishedAt": "2025-11-06T01:32:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "donsupreme",
+      "tags": []
+    },
+    {
+      "id": "xhcf1g",
+      "title": "Recursive macros in C, demystified (once the ugly crying stops)",
+      "description": "Score: 54 | Comments: 30 | Posted by eatonphil",
+      "url": "https://h4x0r.org/big-mac-ro-attack/",
+      "publishedAt": "2025-11-06T01:09:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "eatonphil",
+      "tags": []
+    }
+  ]
+}

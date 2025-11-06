@@ -1,0 +1,42 @@
+{
+  "date": "2025-11-06",
+  "source": "theverge",
+  "articles": [
+    {
+      "id": "egpti5",
+      "title": "Canon adds a 32-megapixel sensor and 7K video to the new EOS R6 Mark III",
+      "description": "Canon is announcing the EOS R6 Mark III camera, its latest jack-of-all-trades full-frame mirrorless model for both stills and video. The new camera has a 32.5-megapixel sensor, improved autofocus, up to 7K video recording, and a new dual-card arrangement with a faster CFexpress Type B slot. It’s set to launch November 25th and will sell [&#8230;]",
+      "url": "https://www.theverge.com/news/814245/canon-eos-r6-mark-iii-mirrorless-camera-price-specs",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/7084C018-r6-markiii-24-105stm-02_colorbg.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2025-11-06T06:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Antonio G. Di Benedetto",
+      "tags": []
+    },
+    {
+      "id": "xlg4dl",
+      "title": "Election night at Kalshi HQ",
+      "description": "This is an excerpt of Sources by Alex Heath, a newsletter about AI and the tech industry, syndicated just for The Verge subscribers once a week. At 8PM on election night in New York City, I arrived at an unmarked office building in the Meatpacking District. Inside, a few dozen young Kalshi employees moved between [&#8230;]",
+      "url": "https://www.theverge.com/column/815208/election-night-at-kalshi-hq",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Tarek-Mansour-Sept-2025.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2025-11-06T02:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Alex Heath",
+      "tags": []
+    },
+    {
+      "id": "qgap97",
+      "title": "Rode’s all-in-one video production console is now smaller and cheaper",
+      "description": "Rode has announced a new version of the Rodecaster Video portable production console it launched just over a year ago, but the Rodecaster Video S isn’t a replacement. The Rodecaster Video S offers similar functionality to the original, including switching and mixing multiple video and audio sources and replacing blue or green screens, but with [&#8230;]",
+      "url": "https://www.theverge.com/news/813545/rode-rodecaster-video-s-production-console-audio-switcher",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/rodecaster_videos_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2025-11-06T01:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Andrew Liszewski",
+      "tags": []
+    }
+  ]
+}

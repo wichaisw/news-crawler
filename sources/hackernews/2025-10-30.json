@@ -14,6 +14,17 @@
       "tags": []
     },
     {
+      "id": "6sc3h2",
+      "title": "The MDL (\"Muddle\") Programming Language (1979) [pdf]",
+      "description": "Score: 7 | Comments: 1 | Posted by twoodfin",
+      "url": "http://bitsavers.informatik.uni-stuttgart.de/pdf/mit/lcs/tr/MIT-LCS-TR-0293_MDL_Pgmg_Lang.pdf",
+      "publishedAt": "2025-10-30T22:53:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "twoodfin",
+      "tags": []
+    },
+    {
       "id": "rhmsuo",
       "title": "A change of address led to our Wise accounts being shut down",
       "description": "Score: 254 | Comments: 169 | Posted by jemmyw",
@@ -80,6 +91,17 @@
       "tags": []
     },
     {
+      "id": "g6sx26",
+      "title": "Gloomth",
+      "description": "Score: 8 | Comments: 0 | Posted by prismatic",
+      "url": "https://www.lrb.co.uk/the-paper/v47/n20/jon-day/gloomth",
+      "publishedAt": "2025-10-30T20:51:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "prismatic",
+      "tags": []
+    },
+    {
       "id": "16ppsf",
       "title": "Apple reports fourth quarter results",
       "description": "Score: 148 | Comments: 210 | Posted by mfiguiere",
@@ -110,6 +132,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "anurag",
+      "tags": []
+    },
+    {
+      "id": "3js623",
+      "title": "Learning from failure to tackle hard problems",
+      "description": "Score: 106 | Comments: 23 | Posted by djoldman",
+      "url": "https://blog.ml.cmu.edu/2025/10/27/learning-from-failure-to-tackle-extremely-hard-problems/",
+      "publishedAt": "2025-10-30T18:18:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "djoldman",
       "tags": []
     },
     {
@@ -176,6 +209,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "tobr",
+      "tags": []
+    },
+    {
+      "id": "25cfd2",
+      "title": "SPy: An interpreter and compiler for a fast statically typed variant of Python",
+      "description": "Score: 248 | Comments: 110 | Posted by og_kalu",
+      "url": "https://antocuni.eu/2025/10/29/inside-spy-part-1-motivations-and-goals/",
+      "publishedAt": "2025-10-30T16:08:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "og_kalu",
       "tags": []
     },
     {

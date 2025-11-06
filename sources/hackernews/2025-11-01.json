@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "ve1usr",
+      "title": "Scientists Growing Colour Without Chemicals",
+      "description": "Score: 7 | Comments: 0 | Posted by caiobegotti",
+      "url": "https://www.forbes.com/sites/maevecampbell/2025/06/20/dyeing-for-fashion-meet-the-scientists-growing-colour-without-chemicals/",
+      "publishedAt": "2025-11-01T23:50:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "caiobegotti",
+      "tags": []
+    },
+    {
       "id": "bww6wb",
       "title": "Show HN: Duper – The Format That's Super",
       "description": "Score: 18 | Comments: 7 | Posted by epiceric",
@@ -157,6 +168,17 @@
       "tags": []
     },
     {
+      "id": "40fbzh",
+      "title": "Vacuum bricked after user blocks data collection – user mods it to run anyway",
+      "description": "Score: 222 | Comments: 70 | Posted by toomanyrichies",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/manufacturer-issues-remote-kill-command-to-nuke-smart-vacuum-after-engineer-blocks-it-from-collecting-data-user-revives-it-with-custom-hardware-and-python-scripts-to-run-offline",
+      "publishedAt": "2025-11-01T17:25:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "toomanyrichies",
+      "tags": []
+    },
+    {
       "id": "c2n8qq",
       "title": "Studies increasingly find links between air pollutants and dementia",
       "description": "Score: 165 | Comments: 99 | Posted by quapster",
@@ -198,6 +220,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "kaycebasques",
+      "tags": []
+    },
+    {
+      "id": "x6rnrj",
+      "title": "Timing Wheels",
+      "description": "Score: 42 | Comments: 1 | Posted by pncnmnp",
+      "url": "https://pncnmnp.github.io/blogs/timing-wheels.html",
+      "publishedAt": "2025-11-01T16:00:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pncnmnp",
       "tags": []
     },
     {
