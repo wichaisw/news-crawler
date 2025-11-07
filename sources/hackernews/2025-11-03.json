@@ -375,6 +375,17 @@
       "sourceName": "Hacker News",
       "author": "tsujamin",
       "tags": []
+    },
+    {
+      "id": "i67y5q",
+      "title": "We built a cloud GPU notebook that boots in seconds",
+      "description": "Score: 12 | Comments: 0 | Posted by birdculture",
+      "url": "https://modal.com/blog/notebooks-internals",
+      "publishedAt": "2025-11-03T00:50:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "birdculture",
+      "tags": []
     }
   ]
 }

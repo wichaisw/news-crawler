@@ -1,0 +1,138 @@
+{
+  "date": "2025-11-07",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "qy2w85",
+      "title": "China launches 18 day Arctic shipping route",
+      "description": "Score: 4 | Comments: 0 | Posted by bharbr",
+      "url": "https://www.highnorthnews.com/en/china-launches-18-day-arctic-express-containership-route-europe-stops-uk-germany-poland",
+      "publishedAt": "2025-11-07T04:57:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bharbr",
+      "tags": []
+    },
+    {
+      "id": "ta23js",
+      "title": "Dead Framework Theory",
+      "description": "Score: 15 | Comments: 5 | Posted by jhuleatt",
+      "url": "https://aifoc.us/dead-framework-theory/",
+      "publishedAt": "2025-11-07T03:17:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jhuleatt",
+      "tags": []
+    },
+    {
+      "id": "bpx7u1",
+      "title": "A Fond Farewell from Farmers' Almanacfarmersalmanac.com",
+      "description": "Score: 131 | Comments: 39 | Posted by erhuve",
+      "url": "https://www.farmersalmanac.com/fond-farewell-from-farmers-almanac",
+      "publishedAt": "2025-11-07T03:09:51.079Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "erhuve",
+      "tags": []
+    },
+    {
+      "id": "bpx7u1",
+      "title": "A Fond Farewell from Farmers' Almanac",
+      "description": "Score: 133 | Comments: 39 | Posted by erhuve",
+      "url": "https://www.farmersalmanac.com/fond-farewell-from-farmers-almanac",
+      "publishedAt": "2025-11-07T03:01:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "erhuve",
+      "tags": []
+    },
+    {
+      "id": "sdt98j",
+      "title": "A prvalue is not a temporary",
+      "description": "Score: 14 | Comments: 48 | Posted by ingve",
+      "url": "https://blog.knatten.org/2025/10/31/a-prvalue-is-not-a-temporary/",
+      "publishedAt": "2025-11-07T02:57:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingve",
+      "tags": []
+    },
+    {
+      "id": "ixoopw",
+      "title": "My tutorial and take on C++20 coroutines (2021)",
+      "description": "Score: 6 | Comments: 0 | Posted by signa11",
+      "url": "https://www.scs.stanford.edu/~dm/blog/c++-coroutines.html",
+      "publishedAt": "2025-11-07T02:03:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "signa11",
+      "tags": []
+    },
+    {
+      "id": "tohit6",
+      "title": "HTML Slides with notes",
+      "description": "Score: 20 | Comments: 3 | Posted by Curiositry",
+      "url": "https://nbd.neocities.org/slidepresentation/Slide%20presentation%20about%20slides",
+      "publishedAt": "2025-11-07T01:57:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Curiositry",
+      "tags": []
+    },
+    {
+      "id": "rpgowv",
+      "title": "Filnix Fil-C Nix",
+      "description": "Score: 4 | Comments: 0 | Posted by computersuck",
+      "url": "https://github.com/mbrock/filnix",
+      "publishedAt": "2025-11-07T01:51:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "computersuck",
+      "tags": []
+    },
+    {
+      "id": "e16afr",
+      "title": "$40M 3D printing factory open for business on Guam, will produce parts for Navy",
+      "description": "Score: 6 | Comments: 1 | Posted by sipofwater",
+      "url": "https://www.guampdn.com/news/40m-3d-printing-factory-now-open-for-business-on-guam-will-produce-parts-of-navy/article_0bff0888-b760-4eb4-868a-9bcb46eb507f.html",
+      "publishedAt": "2025-11-07T01:38:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sipofwater",
+      "tags": []
+    },
+    {
+      "id": "iuct6e",
+      "title": "Time Immemorial turns 750: The Medieval law that froze history at 1189",
+      "description": "Score: 6 | Comments: 0 | Posted by zeristor",
+      "url": "https://www.ianvisits.co.uk/articles/time-immemorial-turns-750-the-medieval-law-that-froze-history-at-1189-84893/",
+      "publishedAt": "2025-11-07T01:26:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zeristor",
+      "tags": []
+    },
+    {
+      "id": "ly5vzk",
+      "title": "A Note on Fil-C",
+      "description": "Score: 109 | Comments: 34 | Posted by signa11",
+      "url": "https://graydon2.dreamwidth.org/320265.html",
+      "publishedAt": "2025-11-07T00:59:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "signa11",
+      "tags": []
+    },
+    {
+      "id": "x8n3e8",
+      "title": "Scientists find ways to boost memory in aging brains",
+      "description": "Score: 117 | Comments: 33 | Posted by stevenjgarner",
+      "url": "https://news.vt.edu/articles/2025/10/cals-jarome-improving-memory.html",
+      "publishedAt": "2025-11-07T00:22:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "stevenjgarner",
+      "tags": []
+    }
+  ]
+}

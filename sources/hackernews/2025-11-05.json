@@ -80,6 +80,17 @@
       "tags": []
     },
     {
+      "id": "zfww78",
+      "title": "Show HN: See chords as flags – Visual harmony of top composers on musescore",
+      "description": "Score: 111 | Comments: 27 | Posted by vitaly-pavlenko",
+      "url": "https://rawl.rocks/",
+      "publishedAt": "2025-11-05T18:57:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vitaly-pavlenko",
+      "tags": []
+    },
+    {
       "id": "d2q0o8",
       "title": "The state of SIMD in Rust in 2025",
       "description": "Score: 179 | Comments: 94 | Posted by ashvardanian",
@@ -113,6 +124,17 @@
       "tags": []
     },
     {
+      "id": "byxr8n",
+      "title": "Show HN: I scraped 3B Goodreads reviews to train a better recommendation model",
+      "description": "Score: 331 | Comments: 107 | Posted by costco",
+      "url": "https://book.sv",
+      "publishedAt": "2025-11-05T17:50:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "costco",
+      "tags": []
+    },
+    {
       "id": "rmue10",
       "title": "Why aren't smart people happier?",
       "description": "Score: 264 | Comments: 359 | Posted by zdw",
@@ -132,6 +154,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "dredmorbius",
+      "tags": []
+    },
+    {
+      "id": "grnfkd",
+      "title": "Open Source Implementation of Apple's Private Compute Cloud",
+      "description": "Score: 382 | Comments: 83 | Posted by adam_gyroscope",
+      "url": "https://github.com/openpcc/openpcc",
+      "publishedAt": "2025-11-05T15:52:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "adam_gyroscope",
       "tags": []
     },
     {

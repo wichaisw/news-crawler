@@ -234,6 +234,17 @@
       "tags": []
     },
     {
+      "id": "n1bfw2",
+      "title": "Show HN: Ambient light sensor control of keyboard and screen brightness in Linux",
+      "description": "Score: 15 | Comments: 1 | Posted by donjajo",
+      "url": "https://github.com/donjajo/als-led-backlight",
+      "publishedAt": "2025-11-02T11:03:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "donjajo",
+      "tags": []
+    },
+    {
       "id": "whc6ll",
       "title": "Using FreeBSD to make self-hosting fun again",
       "description": "Score: 257 | Comments: 75 | Posted by todsacerdoti",
@@ -242,6 +253,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "nlsfxm",
+      "title": "GT – Experimental multiplexing tensor framework for distributed GPU computing",
+      "description": "Score: 21 | Comments: 1 | Posted by brrrrrm",
+      "url": "https://github.com/bwasti/gt",
+      "publishedAt": "2025-11-02T07:16:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "brrrrrm",
       "tags": []
     },
     {
