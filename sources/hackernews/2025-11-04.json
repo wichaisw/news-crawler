@@ -289,6 +289,28 @@
       "tags": []
     },
     {
+      "id": "4l1jjr",
+      "title": "Shell Grotto: England's mysterious underground seashell chamber",
+      "description": "Score: 18 | Comments: 6 | Posted by the-mitr",
+      "url": "https://boingboing.net/2025/09/05/shell-grotto-englands-mysterious-underground-seashell-chamber.html",
+      "publishedAt": "2025-11-04T11:27:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "the-mitr",
+      "tags": []
+    },
+    {
+      "id": "ywpdtz",
+      "title": "My Experience of building Bytebeat player in Zig",
+      "description": "Score: 89 | Comments: 12 | Posted by KMJ-007",
+      "url": "https://blog.karanjanthe.me/posts/zig-beat/",
+      "publishedAt": "2025-11-04T11:10:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "KMJ-007",
+      "tags": []
+    },
+    {
       "id": "c36nad",
       "title": "Building blobd: single-machine object store with sub-ms reads and 15 GB/s upload",
       "description": "Score: 19 | Comments: 4 | Posted by charlieirish",
@@ -300,6 +322,17 @@
       "tags": []
     },
     {
+      "id": "bqfi0o",
+      "title": "Transducer: Composition, abstraction, performance (2018)",
+      "description": "Score: 89 | Comments: 2 | Posted by defmarco",
+      "url": "https://funktionale-programmierung.de/en/2018/03/22/transducer.html",
+      "publishedAt": "2025-11-04T10:32:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "defmarco",
+      "tags": []
+    },
+    {
       "id": "vrvg2d",
       "title": "What is a manifold?",
       "description": "Score: 344 | Comments: 120 | Posted by isaacfrond",
@@ -308,6 +341,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "isaacfrond",
+      "tags": []
+    },
+    {
+      "id": "fcbykj",
+      "title": "Venn Diagram for 7 Sets",
+      "description": "Score: 109 | Comments: 24 | Posted by bramadityaw",
+      "url": "https://moebio.com/research/sevensets/",
+      "publishedAt": "2025-11-04T09:27:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bramadityaw",
       "tags": []
     },
     {

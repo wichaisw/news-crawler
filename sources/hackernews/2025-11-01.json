@@ -25,6 +25,17 @@
       "tags": []
     },
     {
+      "id": "84h595",
+      "title": "Text case changes the size of QR codes",
+      "description": "Score: 163 | Comments: 49 | Posted by ibobev",
+      "url": "https://www.johndcook.com/blog/2025/10/31/smaller-qr-codes/",
+      "publishedAt": "2025-11-01T23:34:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
+      "tags": []
+    },
+    {
       "id": "n1rk3o",
       "title": "Pomelli",
       "description": "Score: 136 | Comments: 40 | Posted by birriel",
@@ -55,6 +66,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "amaldavid",
+      "tags": []
+    },
+    {
+      "id": "s9xggs",
+      "title": "Can you save on LLM tokens using images instead of text?",
+      "description": "Score: 9 | Comments: 4 | Posted by lpellis",
+      "url": "https://pagewatch.ai/blog/post/llm-text-as-image-tokens/",
+      "publishedAt": "2025-11-01T22:34:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lpellis",
       "tags": []
     },
     {
@@ -330,6 +352,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "doppp",
+      "tags": []
+    },
+    {
+      "id": "2imbjq",
+      "title": "1973 implementation of Wordle was published by DEC (2022)",
+      "description": "Score: 88 | Comments: 36 | Posted by msephton",
+      "url": "https://troypress.com/1973-implementation-of-wordle-was-published-by-dec/",
+      "publishedAt": "2025-11-01T01:56:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "msephton",
       "tags": []
     },
     {

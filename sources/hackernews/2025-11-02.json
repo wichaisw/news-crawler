@@ -47,6 +47,17 @@
       "tags": []
     },
     {
+      "id": "m34p21",
+      "title": "Skeena Indigenous Typeface",
+      "description": "Score: 63 | Comments: 11 | Posted by Bogdanp",
+      "url": "https://microsoft.github.io/Skeena-Indigenous-Typeface/",
+      "publishedAt": "2025-11-02T21:57:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Bogdanp",
+      "tags": []
+    },
+    {
       "id": "vtzvmm",
       "title": "Paris had a moving sidewalk in 1900, and a Thomas Edison film captured it (2020)",
       "description": "Score: 234 | Comments: 106 | Posted by rbanffy",
@@ -157,6 +168,17 @@
       "tags": []
     },
     {
+      "id": "g2os6b",
+      "title": "WinObjC – The Windows Bridge for iOS",
+      "description": "Score: 37 | Comments: 7 | Posted by zerr",
+      "url": "https://github.com/microsoft/WinObjC",
+      "publishedAt": "2025-11-02T16:47:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zerr",
+      "tags": []
+    },
+    {
       "id": "cjyc9u",
       "title": "New South Korean national law will turn large parking lots into solar farms",
       "description": "Score: 174 | Comments: 139 | Posted by thelastgallon",
@@ -256,6 +278,28 @@
       "tags": []
     },
     {
+      "id": "9y51ak",
+      "title": "Why I love my Boox Palma e-reader",
+      "description": "Score: 49 | Comments: 21 | Posted by pastel5",
+      "url": "https://minimal.bearblog.dev/why-i-love-my-boox-palma-e-reader/",
+      "publishedAt": "2025-11-02T10:58:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pastel5",
+      "tags": []
+    },
+    {
+      "id": "72uo7c",
+      "title": "Comparison Traits – Understanding Equality and Ordering in Rust",
+      "description": "Score: 52 | Comments: 11 | Posted by rpunkfu",
+      "url": "https://itsfoxstudio.substack.com/p/comparison-traits-understanding-equality",
+      "publishedAt": "2025-11-02T10:00:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rpunkfu",
+      "tags": []
+    },
+    {
       "id": "nlsfxm",
       "title": "GT – Experimental multiplexing tensor framework for distributed GPU computing",
       "description": "Score: 21 | Comments: 1 | Posted by brrrrrm",
@@ -264,6 +308,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "brrrrrm",
+      "tags": []
+    },
+    {
+      "id": "dprnhe",
+      "title": "Helion: A high-level DSL for performant and portable ML kernels",
+      "description": "Score: 138 | Comments: 46 | Posted by jarbus",
+      "url": "https://pytorch.org/blog/helion/",
+      "publishedAt": "2025-11-02T06:21:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jarbus",
       "tags": []
     },
     {
