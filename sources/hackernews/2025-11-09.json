@@ -1,0 +1,127 @@
+{
+  "date": "2025-11-09",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "1insmc",
+      "title": "Reverse engineering Codex CLI to get GPT-5-Codex-Mini to draw me a pelican",
+      "description": "Score: 21 | Comments: 5 | Posted by simonw",
+      "url": "https://simonwillison.net/2025/Nov/9/gpt-5-codex-mini/",
+      "publishedAt": "2025-11-09T04:02:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "simonw",
+      "tags": []
+    },
+    {
+      "id": "gp33ze",
+      "title": "Boring Company fined nearly $500K after it dumped drilling fluids into manholes",
+      "description": "Score: 144 | Comments: 34 | Posted by eloisius",
+      "url": "https://www.yahoo.com/news/articles/elon-musk-boring-company-fined-150000426.html",
+      "publishedAt": "2025-11-09T03:32:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "eloisius",
+      "tags": []
+    },
+    {
+      "id": "uea6hx",
+      "title": "Syntax and Semantics of Programming Languages (1995)",
+      "description": "Score: 21 | Comments: 13 | Posted by nill0",
+      "url": "https://homepage.cs.uiowa.edu/~slonnegr/plf/Book/",
+      "publishedAt": "2025-11-09T03:15:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nill0",
+      "tags": []
+    },
+    {
+      "id": "sqza2d",
+      "title": "Tabloid: The Clickbait Headline Programming Languagetabloid.vercel.app",
+      "description": "Score: 105 | Comments: 16 | Posted by sadeshmukh",
+      "url": "https://tabloid.vercel.app/",
+      "publishedAt": "2025-11-09T03:08:20.764Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sadeshmukh",
+      "tags": []
+    },
+    {
+      "id": "p2bs7w",
+      "title": "Show HN: Geofenced chat communities anyone can create",
+      "description": "Score: 12 | Comments: 5 | Posted by clarencehoward",
+      "url": "https://vicinity.social/",
+      "publishedAt": "2025-11-09T02:59:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "clarencehoward",
+      "tags": []
+    },
+    {
+      "id": "sqza2d",
+      "title": "Tabloid: The Clickbait Headline Programming Language",
+      "description": "Score: 105 | Comments: 16 | Posted by sadeshmukh",
+      "url": "https://tabloid.vercel.app/",
+      "publishedAt": "2025-11-09T02:53:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sadeshmukh",
+      "tags": []
+    },
+    {
+      "id": "z3sn1u",
+      "title": "PostgreSQL deserves better than libpq",
+      "description": "Score: 27 | Comments: 1 | Posted by sovande",
+      "url": "https://twitter.com/tildeslash_/status/1987327780217102517",
+      "publishedAt": "2025-11-09T01:35:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sovande",
+      "tags": []
+    },
+    {
+      "id": "lg455a",
+      "title": "IRIX Introduction",
+      "description": "Score: 8 | Comments: 1 | Posted by naves",
+      "url": "http://www.sgistuff.net/software/irixintro/index.html",
+      "publishedAt": "2025-11-09T01:33:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "naves",
+      "tags": []
+    },
+    {
+      "id": "nx4zm4",
+      "title": "How Airbus Took Off",
+      "description": "Score: 17 | Comments: 4 | Posted by JumpCrisscross",
+      "url": "https://worksinprogress.co/issue/how-airbus-took-off/",
+      "publishedAt": "2025-11-09T01:19:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "JumpCrisscross",
+      "tags": []
+    },
+    {
+      "id": "okuq9e",
+      "title": "He Chunhui's Tiny386 Turns an ESP32-S3 into a Fully-Functional 386-Powered PC",
+      "description": "Score: 63 | Comments: 8 | Posted by HardwareLust",
+      "url": "https://www.hackster.io/news/he-chunhui-s-tiny386-turns-the-humble-esp32-s3-into-a-fully-functional-386-powered-desktop-pc-5454cf6e36a1",
+      "publishedAt": "2025-11-09T01:08:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "HardwareLust",
+      "tags": []
+    },
+    {
+      "id": "67hi65",
+      "title": "Judge denies request to exempt Flock footage from Public Records Act",
+      "description": "Score: 93 | Comments: 28 | Posted by p_ing",
+      "url": "https://www.goskagit.com/news/local_news/court-denies-request-that-it-find-flock-safety-camera-data-is-exempt-from-public-records/article_f1edd028-d242-479c-ada8-f2dfca73a1b1.html",
+      "publishedAt": "2025-11-09T00:53:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "p_ing",
+      "tags": []
+    }
+  ]
+}

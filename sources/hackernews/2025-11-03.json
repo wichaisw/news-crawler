@@ -322,6 +322,17 @@
       "tags": []
     },
     {
+      "id": "13q2tq",
+      "title": "Control structures in programming languages: from goto to algebraic effects",
+      "description": "Score: 122 | Comments: 11 | Posted by SchwKatze",
+      "url": "http://xavierleroy.org/control-structures/",
+      "publishedAt": "2025-11-03T11:47:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "SchwKatze",
+      "tags": []
+    },
+    {
       "id": "e2jnrq",
       "title": "Tiny electric motor can produce more than 1,000 horsepower",
       "description": "Score: 569 | Comments: 534 | Posted by chris_overseas",
@@ -341,6 +352,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ingve",
+      "tags": []
+    },
+    {
+      "id": "b0zqys",
+      "title": "How to build your own VPN, or: the history of WARP",
+      "description": "Score: 24 | Comments: 4 | Posted by yla92",
+      "url": "https://blog.cloudflare.com/how-to-build-your-own-vpn-or-the-history-of-warp/",
+      "publishedAt": "2025-11-03T08:46:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "yla92",
+      "tags": []
+    },
+    {
+      "id": "jat0go",
+      "title": "Show HN: Hephaestus – Autonomous Multi-Agent Orchestration Framework",
+      "description": "Score: 15 | Comments: 0 | Posted by idolevi",
+      "url": "https://github.com/Ido-Levi/Hephaestus",
+      "publishedAt": "2025-11-03T08:14:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "idolevi",
       "tags": []
     },
     {
