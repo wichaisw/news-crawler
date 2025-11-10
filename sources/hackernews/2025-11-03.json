@@ -58,6 +58,17 @@
       "tags": []
     },
     {
+      "id": "w66sok",
+      "title": "Today I Learned: Binfmt_misc",
+      "description": "Score: 29 | Comments: 7 | Posted by malmoeb",
+      "url": "https://dfir.ch/posts/today_i_learned_binfmt_misc/",
+      "publishedAt": "2025-11-03T21:49:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "malmoeb",
+      "tags": []
+    },
+    {
       "id": "8hzvxv",
       "title": "R interface to Apple's MLX library",
       "description": "Score: 14 | Comments: 1 | Posted by dash2",
@@ -102,6 +113,17 @@
       "tags": []
     },
     {
+      "id": "q3v2ov",
+      "title": "A brief history of Time Machine (2024)",
+      "description": "Score: 3 | Comments: 0 | Posted by firloop",
+      "url": "https://eclecticlight.co/2024/09/07/a-brief-history-of-time-machine/",
+      "publishedAt": "2025-11-03T21:05:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "firloop",
+      "tags": []
+    },
+    {
       "id": "ryw909",
       "title": "AI's Dial-Up Era",
       "description": "Score: 236 | Comments: 187 | Posted by nowflux",
@@ -113,6 +135,17 @@
       "tags": []
     },
     {
+      "id": "ae7pyk",
+      "title": "CHIP8 – emulator, assembler, game, vhdl hardware implementations",
+      "description": "Score: 63 | Comments: 5 | Posted by qikcik",
+      "url": "http://blog.dominikrudnik.pl/chip8-emulator-assembler-game-vhdl",
+      "publishedAt": "2025-11-03T20:52:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "qikcik",
+      "tags": []
+    },
+    {
       "id": "1orfmt",
       "title": "The Mack Super Pumper was a locomotive engined fire fighter (2018)",
       "description": "Score: 120 | Comments: 93 | Posted by mstngl",
@@ -121,6 +154,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mstngl",
+      "tags": []
+    },
+    {
+      "id": "3bpa5n",
+      "title": "Former Nintendo employees reveal what it took to launch the NES",
+      "description": "Score: 106 | Comments: 17 | Posted by brandrick",
+      "url": "https://hanafuda.report/articles/former-nintendo-employees-reveal-what-it-took-to-launch-the-nes-in-america/",
+      "publishedAt": "2025-11-03T20:19:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "brandrick",
+      "tags": []
+    },
+    {
+      "id": "8ua1j0",
+      "title": "Building a 2.5kWh battery from disposable vapes to power my workshop [video]",
+      "description": "Score: 162 | Comments: 80 | Posted by rsanek",
+      "url": "https://www.youtube.com/watch?v=dy-wFixuRVU",
+      "publishedAt": "2025-11-03T19:51:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rsanek",
       "tags": []
     },
     {
@@ -311,6 +366,17 @@
       "tags": []
     },
     {
+      "id": "9r4zty",
+      "title": "Toolkit to help you get started with Spec-Driven Development",
+      "description": "Score: 70 | Comments: 35 | Posted by mooreds",
+      "url": "https://github.com/github/spec-kit",
+      "publishedAt": "2025-11-03T12:48:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mooreds",
+      "tags": []
+    },
+    {
       "id": "nr2pqw",
       "title": "Understanding traffic",
       "description": "Score: 40 | Comments: 30 | Posted by kunley",
@@ -462,6 +528,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "birdculture",
+      "tags": []
+    },
+    {
+      "id": "1vf174",
+      "title": "The overengineered solution to my pigeon problem (2022)",
+      "description": "Score: 78 | Comments: 58 | Posted by cyb0rg0",
+      "url": "https://maxnagy.com/posts/pigeons/",
+      "publishedAt": "2025-11-03T00:48:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cyb0rg0",
       "tags": []
     }
   ]

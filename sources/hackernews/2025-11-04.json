@@ -234,6 +234,17 @@
       "tags": []
     },
     {
+      "id": "ny8gud",
+      "title": "Understanding Financial Functions in Excel",
+      "description": "Score: 11 | Comments: 0 | Posted by ciju",
+      "url": "https://ciju.in/writings/understanding-financial-functions-excel-sheets",
+      "publishedAt": "2025-11-04T16:00:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ciju",
+      "tags": []
+    },
+    {
       "id": "oxgshe",
       "title": "This Day in 1988, the Morris worm infected 10% of the Internet within 24 hours",
       "description": "Score: 334 | Comments: 159 | Posted by canucker2016",
@@ -267,6 +278,17 @@
       "tags": []
     },
     {
+      "id": "jpkalk",
+      "title": "Solving Every Sudoku Puzzle (2006)",
+      "description": "Score: 46 | Comments: 7 | Posted by djoldman",
+      "url": "https://norvig.com/sudoku.html",
+      "publishedAt": "2025-11-04T14:30:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "djoldman",
+      "tags": []
+    },
+    {
       "id": "hwmvpx",
       "title": "Show HN: A CSS-Only Terrain Generator",
       "description": "Score: 305 | Comments: 79 | Posted by rofko",
@@ -297,6 +319,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "shardullavekar",
+      "tags": []
+    },
+    {
+      "id": "ay23xi",
+      "title": "When your hash becomes a string: Hunting Ruby's million-to-one memory bug",
+      "description": "Score: 109 | Comments: 58 | Posted by phmx",
+      "url": "https://mensfeld.pl/2025/11/ruby-ffi-gc-bug-hash-becomes-string/",
+      "publishedAt": "2025-11-04T12:36:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "phmx",
       "tags": []
     },
     {
@@ -344,6 +377,17 @@
       "tags": []
     },
     {
+      "id": "mts4du",
+      "title": "Defeating KASLR by doing nothing at all",
+      "description": "Score: 99 | Comments: 11 | Posted by aa_is_op",
+      "url": "https://googleprojectzero.blogspot.com/2025/11/defeating-kaslr-by-doing-nothing-at-all.html",
+      "publishedAt": "2025-11-04T10:52:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "aa_is_op",
+      "tags": []
+    },
+    {
       "id": "bqfi0o",
       "title": "Transducer: Composition, abstraction, performance (2018)",
       "description": "Score: 89 | Comments: 2 | Posted by defmarco",
@@ -385,6 +429,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "birdculture",
+      "tags": []
+    },
+    {
+      "id": "s96sjz",
+      "title": "JVM exceptions are weird: a decompiler perspective",
+      "description": "Score: 100 | Comments: 23 | Posted by vrnvu",
+      "url": "https://purplesyringa.moe/blog/jvm-exceptions-are-weird-a-decompiler-perspective/",
+      "publishedAt": "2025-11-04T09:08:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vrnvu",
       "tags": []
     },
     {

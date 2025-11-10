@@ -1,0 +1,61 @@
+{
+  "date": "2025-11-10",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "3xsl4t",
+      "title": "LLM policy?",
+      "description": "Score: 133 | Comments: 71 | Posted by dropbox_miner",
+      "url": "https://github.com/opencontainers/runc/issues/4990",
+      "publishedAt": "2025-11-10T02:10:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dropbox_miner",
+      "tags": []
+    },
+    {
+      "id": "gf3oib",
+      "title": "My Git history was a mess of 'update' and 'fix' – so I made AI clean it up",
+      "description": "Score: 46 | Comments: 72 | Posted by fka",
+      "url": "https://github.com/f/git-rewrite-commits",
+      "publishedAt": "2025-11-10T01:17:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fka",
+      "tags": []
+    },
+    {
+      "id": "u7udwo",
+      "title": "Show HN: DroidDock – A sleek macOS app for browsing Android device files via ADB",
+      "description": "Score: 50 | Comments: 20 | Posted by rajivm1991",
+      "url": "https://rajivm1991.github.io/DroidDock/",
+      "publishedAt": "2025-11-10T00:51:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rajivm1991",
+      "tags": []
+    },
+    {
+      "id": "bmu7kg",
+      "title": "Work after work: Notes from an unemployed new grad watching the job market break",
+      "description": "Score: 286 | Comments: 244 | Posted by linkregister",
+      "url": "https://urlahmed.com/2025/11/05/work-after-work-notes-from-an-unemployed-new-grad-watching-the-job-market-break/",
+      "publishedAt": "2025-11-10T00:43:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "linkregister",
+      "tags": []
+    },
+    {
+      "id": "i3jqh5",
+      "title": "Sued by Nintendo",
+      "description": "Score: 127 | Comments: 37 | Posted by notepad0x90",
+      "url": "https://www.suedbynintendo.com/",
+      "publishedAt": "2025-11-10T00:13:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "notepad0x90",
+      "tags": []
+    }
+  ]
+}
