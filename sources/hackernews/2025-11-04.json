@@ -311,6 +311,17 @@
       "tags": []
     },
     {
+      "id": "86imn5",
+      "title": "The Paranoid Guide to Running Copilot CLI in a Secure Docker Sandbox",
+      "description": "Score: 22 | Comments: 7 | Posted by pploug",
+      "url": "https://gordonbeeming.com/blog/2025-10-03/taming-the-ai-my-paranoid-guide-to-running-copilot-cli-in-a-secure-docker-sandbox",
+      "publishedAt": "2025-11-04T13:14:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pploug",
+      "tags": []
+    },
+    {
       "id": "42q4w3",
       "title": "Chaining FFmpeg with a Browser Agent",
       "description": "Score: 95 | Comments: 54 | Posted by shardullavekar",
@@ -330,6 +341,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "phmx",
+      "tags": []
+    },
+    {
+      "id": "ev2fzc",
+      "title": "Pose Animator – An open source tool to bring SVG characters to life (2020)",
+      "description": "Score: 150 | Comments: 16 | Posted by jerlendds",
+      "url": "https://blog.tensorflow.org/2020/05/pose-animator-open-source-tool-to-bring-svg-characters-to-life.html",
+      "publishedAt": "2025-11-04T12:26:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jerlendds",
+      "tags": []
+    },
+    {
+      "id": "f1p265",
+      "title": "When Soviet-made cars roamed Singapore roads",
+      "description": "Score: 36 | Comments: 7 | Posted by sohkamyung",
+      "url": "https://remembersingapore.org/2025/10/30/soviet-made-cars-singapore-70s-to-90s/",
+      "publishedAt": "2025-11-04T12:16:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sohkamyung",
       "tags": []
     },
     {
@@ -506,6 +539,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "vcl7pe",
+      "title": "Real VT102 Emulation with MAME",
+      "description": "Score: 15 | Comments: 2 | Posted by gurjeet",
+      "url": "https://zork.net/~st/jottings/Real-VT102-emulation-with-MAME.html",
+      "publishedAt": "2025-11-04T03:05:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gurjeet",
       "tags": []
     },
     {

@@ -69,6 +69,17 @@
       "tags": []
     },
     {
+      "id": "vjifgs",
+      "title": "Automating our home video imports",
+      "description": "Score: 13 | Comments: 0 | Posted by icyfox",
+      "url": "https://pierce.dev/notes/automating-our-home-video-imports",
+      "publishedAt": "2025-11-05T19:13:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "icyfox",
+      "tags": []
+    },
+    {
       "id": "yylf5p",
       "title": "Internet Archive's legal fights are over, but its founder mourns what was lost",
       "description": "Score: 167 | Comments: 112 | Posted by thinkcontext",
@@ -462,6 +473,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mooreds",
+      "tags": []
+    },
+    {
+      "id": "2xbyof",
+      "title": "The physics of news, rumors, and opinions",
+      "description": "Score: 45 | Comments: 19 | Posted by Anon84",
+      "url": "https://arxiv.org/abs/2510.15053",
+      "publishedAt": "2025-11-05T00:22:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Anon84",
       "tags": []
     }
   ]
