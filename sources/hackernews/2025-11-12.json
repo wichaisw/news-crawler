@@ -1,0 +1,72 @@
+{
+  "date": "2025-11-12",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "m3xkch",
+      "title": "Hard drives on backorder for two years as AI data centers trigger HDD shortage",
+      "description": "Score: 4 | Comments: 0 | Posted by pabs3",
+      "url": "https://www.tomshardware.com/pc-components/hdds/ai-triggers-hard-drive-shortage-amidst-dram-squeeze-enterprise-hard-drives-on-backorder-by-2-years-as-hyperscalers-switch-to-qlc-ssds",
+      "publishedAt": "2025-11-12T05:36:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pabs3",
+      "tags": []
+    },
+    {
+      "id": "2y5a5s",
+      "title": "Sam Altman got served with a subpoena onstage at a live event",
+      "description": "Score: 9 | Comments: 2 | Posted by ryan_j_naughton",
+      "url": "https://qz.com/openai-ceo-sam-altman-served-with-subpoena-onstage-during-san-francisco-event",
+      "publishedAt": "2025-11-12T05:07:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ryan_j_naughton",
+      "tags": []
+    },
+    {
+      "id": "fbdq91",
+      "title": "Bluetooth 6.2 – more responsive, improves security, USB comms, and testingcnx-software.com",
+      "description": "Score: 23 | Comments: 3 | Posted by zdw",
+      "url": "https://www.cnx-software.com/2025/11/05/bluetooth-6-2-gets-more-responsive-improves-security-usb-communication-and-testing-capabilities/",
+      "publishedAt": "2025-11-12T04:09:55.160Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "5bgfom",
+      "title": "Perkeep – Personal storage system for life",
+      "description": "Score: 97 | Comments: 25 | Posted by nikolay",
+      "url": "https://perkeep.org/",
+      "publishedAt": "2025-11-12T03:34:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nikolay",
+      "tags": []
+    },
+    {
+      "id": "l5x873",
+      "title": "Text rendering and effects using GPU-computed distances",
+      "description": "Score: 10 | Comments: 0 | Posted by PaulHoule",
+      "url": "https://blog.pkh.me/p/47-text-rendering-and-effects-using-gpu-computed-distances.html",
+      "publishedAt": "2025-11-12T00:56:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "PaulHoule",
+      "tags": []
+    },
+    {
+      "id": "m57rwe",
+      "title": "CERN Council reviews feasibility study for a next-generation collider",
+      "description": "Score: 10 | Comments: 3 | Posted by elashri",
+      "url": "https://home.cern/news/press-release/accelerators/cern-council-reviews-feasibility-study-next-generation-collider",
+      "publishedAt": "2025-11-12T00:31:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "elashri",
+      "tags": []
+    }
+  ]
+}

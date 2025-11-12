@@ -1,0 +1,126 @@
+{
+  "date": "2025-11-11",
+  "source": "theverge",
+  "articles": [
+    {
+      "id": "pkxltu",
+      "title": "Disney is losing over $4 million a day in revenue on the YouTube TV blackout",
+      "description": "Disney’s spat with Google’s YouTube TV over a new content distribution contract is costing the entertainment giant $4.3 million a day in lost revenue, Morgan Stanley estimates. That’s $30 million a week as the blackout of channels including ABC and ESPN stretches into its 12th day, Variety reports, though the analysts expect Disney and Google [&#8230;]",
+      "url": "https://www.theverge.com/news/818542/disney-youtube-tv-blackout-cost",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK157_Disney_01-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2025-11-11T19:28:19.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Lauren Feiner",
+      "tags": []
+    },
+    {
+      "id": "we64lw",
+      "title": "Pixel phones are getting notification summaries",
+      "description": "Google is releasing an update for Pixel phones with an interesting feature in the mix: notification summaries. Apple notably had plenty of trouble implementing its version of this AI-powered feature, and Google is taking a cautious first step by deploying it only for chat conversations. It’ll arrive as part of this month’s Pixel update for [&#8230;]",
+      "url": "https://www.theverge.com/tech/817644/pixel-update-notification-summaries-image-remix-messages",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257917_Google_Pixel_10_review_AJohnson_0002.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2025-11-11T19:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Allison Johnson",
+      "tags": []
+    },
+    {
+      "id": "xfg2wn",
+      "title": "Google is introducing its own version of Apple’s private AI cloud compute",
+      "description": "Google is rolling out a new cloud-based platform that lets users unlock advanced AI features on their devices while keeping data private. The feature, virtually identical to Apple’s Private Cloud Compute, comes as companies reconcile users’ demands for privacy with the growing computational needs of the latest AI applications. Many Google products run AI features [&#8230;]",
+      "url": "https://www.theverge.com/news/818364/google-private-ai-compute",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/HT012_google_0003.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2025-11-11T19:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Robert Hart",
+      "tags": []
+    },
+    {
+      "id": "gndb99",
+      "title": "AI chatbots are helping hide eating disorders and making deepfake ‘thinspiration’",
+      "description": "AI chatbots “pose serious risks to individuals vulnerable to eating disorders,” researchers warned on Monday. They report that tools from companies like Google and OpenAI are doling out dieting advice, tips on how to hide disorders, and AI-generated “thinspiration.”  The researchers, from Stanford and the Center for Democracy &#38; Technology, identified numerous ways publicly available [&#8230;]",
+      "url": "https://www.theverge.com/news/818508/chatbot-eating-disorder-mental-health",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/ca7270eb.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2025-11-11T17:33:10.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Robert Hart",
+      "tags": []
+    },
+    {
+      "id": "wncjxc",
+      "title": "Amazon’s like-new Kindle Paperwhite Signature Edition is on sale for just $127",
+      "description": "If you didn’t get around to reading more this year, now’s a great time to start. That’s because Amazon is selling the latest Kindle Paperwhite Signature Edition in like-new condition for $126.99 ($53 off), which matches the e-reader's best price to date. If you haven’t purchased a refurbished product from Amazon before, know that each [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/818102/amazon-kindle-paperwhite-signature-edition-lego-christmas-tree-deal-sale",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Kindle-Paperwhite-Signature-Edition-refurbished-deal.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2025-11-11T17:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Brandon Russell",
+      "tags": []
+    },
+    {
+      "id": "shlvmg",
+      "title": "Google Photos lets iPhone users edit images by describing changes",
+      "description": "Google is rolling out several AI updates to its Google Photos app, including iOS support for conversational edits, more accurate facial editing, and new AI tools. This means the “Help me edit” feature that lets you describe how you want Google’s AI to change your photos will be available to iPhone users, following its release [&#8230;]",
+      "url": "https://www.theverge.com/news/818346/google-photos-ios-help-me-edit-update",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Google-Photos-help-me-edit-iOS.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2025-11-11T17:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Jess Weatherbed",
+      "tags": []
+    },
+    {
+      "id": "5g9kj",
+      "title": "ElevenLabs’ new AI marketplace lets brands use famous voices for ads",
+      "description": "ElevenLabs is launching an online marketplace that allows companies to license AI-replicated voices of famous figures for their content and advertisements. The AI audio startup says its new Iconic Voice Marketplace resolves some of the ethical concerns around using AI-generated celebrity voices by providing brands with the “consent-based, performer-first approach the industry has been calling [&#8230;]",
+      "url": "https://www.theverge.com/news/818470/elevenlabs-iconic-voice-marketplace-ai-audio",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK467_AI_MUSIC_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2025-11-11T17:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Jess Weatherbed",
+      "tags": []
+    },
+    {
+      "id": "1el50m",
+      "title": "The 30 best gift ideas for mom this holiday season",
+      "description": "Your mom deserves the best, and we're going to help you get them something special. The right gift can make family or friend time more valuable, after all, or it can greatly enrich time spent alone. If your mom says that she has all that she needs, don't take her word for it and show [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/802964/best-mom-gift-ideas",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257851_2025_MOM_Holiday_Gift_Guide_AKrales_6469.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2025-11-11T16:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Cameron Faulkner",
+      "tags": []
+    },
+    {
+      "id": "tjijfq",
+      "title": "The LG G5 takes OLED performance to another level",
+      "description": "LG OLEDs are consistently some of the best TVs you can get, and I've lost count how many times I've recommended them to family and friends. Add the LG G5 to that list. It's LG's high-end gallery-style TV, designed to look refined and sleek mounted on the wall - which it achieves thanks to its [&#8230;]",
+      "url": "https://www.theverge.com/tech/817807/lg-g5-oled-tv-review",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258078_LG_G5_OLED_TV_JHiggins_0007.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2025-11-11T16:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "John.Higgins",
+      "tags": []
+    },
+    {
+      "id": "e02trd",
+      "title": "Sandisk’s new 1TB USB-C drive is so small you never need to take it out",
+      "description": "Sandisk has released what it says is the world’s smallest 1TB USB-C flash drive, one tiny enough to plug into a laptop and never take out. The Extreme Fit is just a little bigger than the wireless dongle for my Logitech mouse. It’s L-shaped, slotting into a USB-C port but sticking up ever so slightly [&#8230;]",
+      "url": "https://www.theverge.com/news/818405/sandisk-1tb-extreme-fit-usb-c-ssd",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/sandisk-extreme-fit-1tb-plugged-in.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2025-11-11T14:38:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Dominic Preston",
+      "tags": []
+    }
+  ]
+}

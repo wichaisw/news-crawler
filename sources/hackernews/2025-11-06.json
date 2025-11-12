@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "tfr9x5",
+      "title": "Learning to Model the World with Language",
+      "description": "Score: 31 | Comments: 0 | Posted by jxmorris12",
+      "url": "https://dynalang.github.io/",
+      "publishedAt": "2025-11-06T23:47:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jxmorris12",
+      "tags": []
+    },
+    {
       "id": "n6np4u",
       "title": "The secret campaign to silence critics of a hospital real estate empire",
       "description": "Score: 102 | Comments: 4 | Posted by hhs",
@@ -352,6 +363,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "eatonphil",
+      "tags": []
+    },
+    {
+      "id": "9ngbt5",
+      "title": "My fan worked fine, so I gave it WiFi",
+      "description": "Score: 150 | Comments: 55 | Posted by woolywonder",
+      "url": "https://ellis.codes/blog/my-fan-worked-fine-so-i-gave-it-wi-fi/",
+      "publishedAt": "2025-11-06T01:04:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "woolywonder",
+      "tags": []
+    },
+    {
+      "id": "fbdq91",
+      "title": "Bluetooth 6.2 – more responsive, improves security, USB comms, and testing",
+      "description": "Score: 23 | Comments: 3 | Posted by zdw",
+      "url": "https://www.cnx-software.com/2025/11/05/bluetooth-6-2-gets-more-responsive-improves-security-usb-communication-and-testing-capabilities/",
+      "publishedAt": "2025-11-06T00:09:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
       "tags": []
     }
   ]
