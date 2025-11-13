@@ -1,0 +1,39 @@
+{
+  "date": "2025-11-13",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3067271",
+      "title": "Kering-backed fund Mirova pours $30.5M into India’s Varaha for regenerative farming",
+      "description": "Varaha aims to support around 337,000 farmers across 675,000 hectares in northern India through its regenerative farming project.",
+      "url": "https://techcrunch.com/2025/11/12/kering-backed-fund-mirova-pours-30-5m-into-indias-varaha-for-regenerative-farming-push/",
+      "publishedAt": "2025-11-13T05:30:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Jagmeet Singh",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3067059",
+      "title": "Jack Dorsey funds diVine, a Vine reboot that includes Vine’s video archive",
+      "description": "Jack Dorsey backs diVine, a Vine reboot that includes Vine's video archive of 6-second, looping videos.",
+      "url": "https://techcrunch.com/2025/11/12/jack-dorsey-funds-divine-a-vine-reboot-that-includes-vines-video-archive/",
+      "publishedAt": "2025-11-13T02:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sarah Perez",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3067336",
+      "title": "‘Chad: The Brainrot IDE’ is a new Y Combinator-backed product so wild, people thought it was fake",
+      "description": "Chad: The Brainrot IDE is an actual product that pairs vibe coding with brainrot activities like gambling, Tinder and games.",
+      "url": "https://techcrunch.com/2025/11/12/chad-the-brainrot-ide-is-a-new-y-combinator-backed-product-so-wild-people-thought-it-was-fake/",
+      "publishedAt": "2025-11-13T00:05:30.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Julie Bort",
+      "tags": []
+    }
+  ]
+}

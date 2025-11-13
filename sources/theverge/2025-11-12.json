@@ -1,0 +1,114 @@
+{
+  "date": "2025-11-12",
+  "source": "theverge",
+  "articles": [
+    {
+      "id": "a6qc0x",
+      "title": "The best budget robot vacuums",
+      "description": "Editor’s note: Black Friday doesn’t officially take place until Friday, November 28th; however, if you want to shop ahead of time, we’ve rounded up the best early Black Friday deals you can already get. Today’s robot vacuums are becoming a bit like cars: with all the features, upgrades, and fancy trimmings available these days, it’s easy to forget [&#8230;]",
+      "url": "https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/257645_budget_robovac_guide_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2025-11-12T22:31:26.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Jennifer Pattison Tuohy",
+      "tags": []
+    },
+    {
+      "id": "hfswo7",
+      "title": "The Steam Frame has two speakers on each side of your face for vibration cancellation",
+      "description": "In its new Steam Frame VR headset, Valve put dual audio drivers on each side in the included head strap. That puts the audio near your ears while you’re wearing it, and in my brief time trying the device at Valve’s headquarters recently, I thought the sound was just fine. But the choice to have [&#8230;]",
+      "url": "https://www.theverge.com/news/818599/valve-steam-frame-headset-speakers-head-strap-vibration-cancellation",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258049_Valve_2025_EverythingTimeStudio_0057.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2025-11-12T21:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Jay Peters",
+      "tags": []
+    },
+    {
+      "id": "cgsbs1",
+      "title": "Energy and tech news at UN climate negotiations in Brazil",
+      "description": "The most high-stakes United Nations climate change conference in years is taking place this November in Belém, Brazil. It’s the 10th anniversary of the landmark Paris agreement, which committed nearly every country on Earth to working together to limit global warming. They’re off track, making this an important moment to show the world whether world [&#8230;]",
+      "url": "https://www.theverge.com/news/819192/united-nations-climate-change-conference-brazil-updates",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/gettyimages-2244638584.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2025-11-12T20:57:47.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Justine Calma",
+      "tags": []
+    },
+    {
+      "id": "vjcraf",
+      "title": "Here are the best Kindle deals right now",
+      "description": "Editor’s note: Black Friday doesn’t officially take place until Friday, November 28th; however, if you want to shop ahead of time, we’ve rounded up the best early Black Friday deals you can already get. When it comes to finding a device to read ebooks, you have a few options to choose from. You can always buy a tablet [&#8230;]",
+      "url": "https://www.theverge.com/21539047/best-amazon-kindle-deals",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/Kindle-Colorsoft-16GB.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2025-11-12T20:29:19.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Sheena VasaniBarbara Krasnoff",
+      "tags": []
+    },
+    {
+      "id": "oecpzw",
+      "title": "Valve’s new VR streaming trick won’t just work with its own headset",
+      "description": "Valve’s new streaming-first VR headset&#160;—&#160;the Steam Frame — employs a clever trick to help make game streaming feel as low-latency as possible. It’s called foveated streaming, and it means the headset requests a higher-quality image for the content that’s right in front of your eyes while lowering the resolution of your peripheral vision to reduce [&#8230;]",
+      "url": "https://www.theverge.com/news/817993/valve-vr-steam-frame-foveated-streaming-rendering-link",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258049_Valve_2025_EverythingTimeStudio_0048.jpg?quality=90&#038;strip=all&#038;crop=0.2,0.60000937514649,99,91.299864060376",
+      "publishedAt": "2025-11-12T20:20:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Jay Peters",
+      "tags": []
+    },
+    {
+      "id": "27rp0d",
+      "title": "We tried Valve’s new VR headset, PC, and controller — ask us anything!",
+      "description": "Hi! I'm Jay Peters, a senior reporter here at The Verge. I'm perhaps the site's second-biggest Steam Deck fan, surpassed only by Sean Hollister, our unofficial handheld gaming PC reviewer. So you can imagine how excited we were to visit Valve's headquarters to try the company's three new hardware products: the Steam Frame, a streaming-focused [&#8230;]",
+      "url": "https://www.theverge.com/games/818113/valve-steam-frame-machine-controller-vr-headset-pc-ask-us-anything-ama",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258092_Verge_subscribers_AMA_about_Sean_Jay_trying_the_new_Valve_hardware_CVirginia_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2025-11-12T20:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Jay PetersSean Hollister",
+      "tags": []
+    },
+    {
+      "id": "hgpojr",
+      "title": "How the Steam Frame compares to other VR headsets",
+      "description": "Valve just announced the Steam Frame, a new standalone VR headset that can both stream games from a PC and play games locally thanks to an onboard Arm chip. The headset is quite a bit different from Valve’s previous model, the Index, which had to be tethered to a gaming computer with a physical wire. [&#8230;]",
+      "url": "https://www.theverge.com/news/818041/valve-steam-frame-vr-headsets-comparison",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258049_Valve_2025_EverythingTimeStudio_0030.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2025-11-12T19:40:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Jay Peters",
+      "tags": []
+    },
+    {
+      "id": "r1acv2",
+      "title": "Valve thinks Arm has ‘potential’ for SteamOS handhelds, laptops, and more",
+      "description": "Valve won’t talk about a Steam Deck 2. It probably wants to keep the attention on its just-announced living room console, comfy new controller, and Arm-based headset instead. But now that the company is preparing to sell an Arm headset, one that can even run Android apps, there’s an obvious question. Is Arm a one-off [&#8230;]",
+      "url": "https://www.theverge.com/news/818698/valve-steamos-arm-potential-handhelds-laptops",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258049_Valve_2025_EverythingTimeStudio_0073.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2025-11-12T19:20:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Sean Hollister",
+      "tags": []
+    },
+    {
+      "id": "47yl02",
+      "title": "OpenAI says the brand-new GPT-5.1 is 'warmer' and has more 'personality' options",
+      "description": "OpenAI is releasing GPT-5.1 today, an update to the flagship model it released in August. OpenAI calls it an “upgrade” to GPT-5 that “makes ChatGPT smarter and more enjoyable to talk to.” The new models include GPT-5.1 Instant and GPT-5.1 Thinking. The former is “warmer, more intelligent, and better at following your instructions” than its [&#8230;]",
+      "url": "https://www.theverge.com/news/802653/openai-gpt-5-1-upgrade-personality-presets",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Personality-Presets.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2025-11-12T19:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Hayden FieldTom Warren",
+      "tags": []
+    }
+  ]
+}

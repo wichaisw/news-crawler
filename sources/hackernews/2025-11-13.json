@@ -1,0 +1,149 @@
+{
+  "date": "2025-11-13",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "l2hnaf",
+      "title": "Oracle's credit default swaps surge as Barclays downgrades its debt rating",
+      "description": "Score: 15 | Comments: 2 | Posted by zerosizedweasle",
+      "url": "https://www.moomoo.com/news/post/61321036/oracle-s-credit-default-swaps-surge-as-barclays-downgrades-its",
+      "publishedAt": "2025-11-13T04:41:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zerosizedweasle",
+      "tags": []
+    },
+    {
+      "id": "lt63et",
+      "title": "The New Brutality of OpenAI",
+      "description": "Score: 16 | Comments: 3 | Posted by ent101",
+      "url": "https://www.theatlantic.com/technology/2025/11/openai-lawsuit-subpoenas/684861/",
+      "publishedAt": "2025-11-13T04:31:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ent101",
+      "tags": []
+    },
+    {
+      "id": "sfvgj3",
+      "title": "Android 16 QPR1 is being pushed to the Android Open Source Project",
+      "description": "Score: 45 | Comments: 7 | Posted by uneven9434",
+      "url": "https://grapheneos.social/@GrapheneOS/115533432439509433",
+      "publishedAt": "2025-11-13T03:49:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "uneven9434",
+      "tags": []
+    },
+    {
+      "id": "wwldv4",
+      "title": "Meta replaces WhatsApp for Windows with web wrapper that uses 1 GB RAM when idle",
+      "description": "Score: 71 | Comments: 12 | Posted by DearAll",
+      "url": "https://www.windowslatest.com/2025/11/12/meta-just-killed-native-whatsapp-on-windows-11-now-it-opens-webview-uses-1gb-ram-all-the-time/",
+      "publishedAt": "2025-11-13T03:44:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "DearAll",
+      "tags": []
+    },
+    {
+      "id": "2z5tsr",
+      "title": "Bitcoin's big secret: How cryptocurrency became law enforcement's secret weapon",
+      "description": "Score: 66 | Comments: 29 | Posted by LopRabbit",
+      "url": "https://bitwarden.com/blog/how-cryptocurrency-became-law-enforcements-secret-weapon/",
+      "publishedAt": "2025-11-13T03:39:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "LopRabbit",
+      "tags": []
+    },
+    {
+      "id": "a411kn",
+      "title": "Large integer precision error in Bash command output rendering",
+      "description": "Score: 21 | Comments: 24 | Posted by rrwright",
+      "url": "https://github.com/anthropics/claude-code/issues/11506",
+      "publishedAt": "2025-11-13T03:34:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rrwright",
+      "tags": []
+    },
+    {
+      "id": "kehhs0",
+      "title": "On USB HID, Keyboard LEDs, and device emulation (2024)",
+      "description": "Score: 8 | Comments: 0 | Posted by transpute",
+      "url": "https://epsilon537.github.io/boxlambda/usb-hid/",
+      "publishedAt": "2025-11-13T03:32:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "transpute",
+      "tags": []
+    },
+    {
+      "id": "702zid",
+      "title": "A Commentary on the Sixth Edition Unix Operating System",
+      "description": "Score: 10 | Comments: 2 | Posted by o4c",
+      "url": "https://warsus.github.io/lions-/",
+      "publishedAt": "2025-11-13T03:01:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "o4c",
+      "tags": []
+    },
+    {
+      "id": "co2nq2",
+      "title": "Show HN: I made an open-source Rust program for memory-efficient genomics",
+      "description": "Score: 4 | Comments: 0 | Posted by logannyeMD",
+      "url": "https://github.com/logannye/rosalind",
+      "publishedAt": "2025-11-13T02:56:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "logannyeMD",
+      "tags": []
+    },
+    {
+      "id": "waweok",
+      "title": "My dad could still be alive, but he's not",
+      "description": "Score: 312 | Comments: 208 | Posted by DustinEchoes",
+      "url": "https://www.jenn.site/my-dad-could-still-be-alive-but-hes-not/",
+      "publishedAt": "2025-11-13T02:17:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "DustinEchoes",
+      "tags": []
+    },
+    {
+      "id": "8o8v0d",
+      "title": "Google will allow users to sideload Android apps without verificationgoogleblog.com",
+      "description": "Score: 561 | Comments: 216 | Posted by erohead",
+      "url": "https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html",
+      "publishedAt": "2025-11-13T01:10:05.248Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "erohead",
+      "tags": []
+    },
+    {
+      "id": "uw4imh",
+      "title": "Human Fovea Detector",
+      "description": "Score: 91 | Comments: 20 | Posted by AbuAssar",
+      "url": "https://www.shadertoy.com/view/4dsXzM",
+      "publishedAt": "2025-11-13T00:48:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "AbuAssar",
+      "tags": []
+    },
+    {
+      "id": "8o8v0d",
+      "title": "Google will allow users to sideload Android apps without verification",
+      "description": "Score: 561 | Comments: 216 | Posted by erohead",
+      "url": "https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html",
+      "publishedAt": "2025-11-13T00:33:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "erohead",
+      "tags": []
+    }
+  ]
+}
