@@ -1,0 +1,50 @@
+{
+  "date": "2025-11-14",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "43rg7m",
+      "title": "Why Fei-Fei Li and Yann LeCun are both betting on \"world models\"",
+      "description": "Score: 110 | Comments: 55 | Posted by signa11",
+      "url": "https://entropytown.com/articles/2025-11-13-world-model-lecun-feifei-li/",
+      "publishedAt": "2025-11-14T02:49:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "signa11",
+      "tags": []
+    },
+    {
+      "id": "w7yrb",
+      "title": "Steam Machine Companion Cube",
+      "description": "Score: 10 | Comments: 3 | Posted by SteamyBoi",
+      "url": "https://dbrand.com/shop/limited-edition/companion-cube",
+      "publishedAt": "2025-11-14T01:41:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "SteamyBoi",
+      "tags": []
+    },
+    {
+      "id": "lrrwlc",
+      "title": "How to Get a North Korea / Antarctica VPS",
+      "description": "Score: 46 | Comments: 13 | Posted by uneven9434",
+      "url": "https://blog.lyc8503.net/en/post/asn-5-worldwide-servers/",
+      "publishedAt": "2025-11-14T01:30:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "uneven9434",
+      "tags": []
+    },
+    {
+      "id": "hnpxpl",
+      "title": "Apple Mini Apps Partner Program",
+      "description": "Score: 93 | Comments: 57 | Posted by soheilpro",
+      "url": "https://developer.apple.com/programs/mini-apps-partner/",
+      "publishedAt": "2025-11-14T00:41:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "soheilpro",
+      "tags": []
+    }
+  ]
+}
