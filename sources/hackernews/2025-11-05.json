@@ -355,6 +355,17 @@
       "tags": []
     },
     {
+      "id": "pjrjzm",
+      "title": "GEN-0 / Embodied Foundation Models That Scale with Physical Interaction",
+      "description": "Score: 40 | Comments: 3 | Posted by jackdoe",
+      "url": "https://generalistai.com/blog/nov-04-2025-GEN-0",
+      "publishedAt": "2025-11-05T10:25:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jackdoe",
+      "tags": []
+    },
+    {
       "id": "z8i1nt",
       "title": "Tetrahedral Analog of the Pythagorean Theorem",
       "description": "Score: 11 | Comments: 1 | Posted by ibobev",
@@ -363,6 +374,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ibobev",
+      "tags": []
+    },
+    {
+      "id": "hgx7zs",
+      "title": "Incus-OS: Immutable Linux OS to run Incus as a hypervisor",
+      "description": "Score: 149 | Comments: 58 | Posted by _kb",
+      "url": "https://linuxcontainers.org/incus-os/",
+      "publishedAt": "2025-11-05T09:39:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "_kb",
       "tags": []
     },
     {

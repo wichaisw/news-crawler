@@ -234,6 +234,17 @@
       "tags": []
     },
     {
+      "id": "mfvhdi",
+      "title": "Ucs-Detect",
+      "description": "Score: 3 | Comments: 0 | Posted by djoldman",
+      "url": "https://ucs-detect.readthedocs.io/intro.html",
+      "publishedAt": "2025-11-04T16:58:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "djoldman",
+      "tags": []
+    },
+    {
       "id": "j778fp",
       "title": "An eBPF Loophole: Using XDP for Egress Traffic",
       "description": "Score: 217 | Comments: 70 | Posted by loopholelabs",
@@ -410,6 +421,17 @@
       "tags": []
     },
     {
+      "id": "oizth4",
+      "title": "Async Mutexes",
+      "description": "Score: 20 | Comments: 5 | Posted by ingve",
+      "url": "https://matklad.github.io/2025/11/04/on-async-mutexes.html",
+      "publishedAt": "2025-11-04T12:02:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingve",
+      "tags": []
+    },
+    {
       "id": "71321m",
       "title": "Computational Complexity of Air Travel Planning (2003) [pdf]",
       "description": "Score: 68 | Comments: 8 | Posted by arnon",
@@ -528,6 +550,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "pmbanugo",
+      "tags": []
+    },
+    {
+      "id": "xqkbft",
+      "title": "Unofficial Microsoft Teams client for Linux",
+      "description": "Score: 61 | Comments: 59 | Posted by basemi",
+      "url": "https://github.com/IsmaelMartinez/teams-for-linux",
+      "publishedAt": "2025-11-04T07:41:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "basemi",
       "tags": []
     },
     {
