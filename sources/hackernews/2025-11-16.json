@@ -1,0 +1,61 @@
+{
+  "date": "2025-11-16",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "v9c7f3",
+      "title": "Whatever Happened to String Theory?",
+      "description": "Score: 15 | Comments: 2 | Posted by signa11",
+      "url": "https://gizmodo.com/whatever-happened-to-string-theory-2000686064",
+      "publishedAt": "2025-11-16T03:06:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "signa11",
+      "tags": []
+    },
+    {
+      "id": "jere94",
+      "title": "IDEmacs: A Visual Studio Code clone for Emacs",
+      "description": "Score: 136 | Comments: 22 | Posted by nogajun",
+      "url": "https://codeberg.org/IDEmacs/IDEmacs",
+      "publishedAt": "2025-11-16T00:56:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nogajun",
+      "tags": []
+    },
+    {
+      "id": "g0lzf9",
+      "title": "AirPods libreated from Apple's ecosystemgithub.com/kavishdevar",
+      "description": "Score: 425 | Comments: 97 | Posted by moonleay",
+      "url": "https://github.com/kavishdevar/librepods",
+      "publishedAt": "2025-11-16T00:08:50.758Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "moonleay",
+      "tags": []
+    },
+    {
+      "id": "afpgtj",
+      "title": "Solving Project Euler: Problem 45",
+      "description": "Score: 6 | Comments: 2 | Posted by wenderen",
+      "url": "https://loriculus.org/blog/euler-45/",
+      "publishedAt": "2025-11-16T00:04:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wenderen",
+      "tags": []
+    },
+    {
+      "id": "g0lzf9",
+      "title": "AirPods libreated from Apple's ecosystem",
+      "description": "Score: 426 | Comments: 98 | Posted by moonleay",
+      "url": "https://github.com/kavishdevar/librepods",
+      "publishedAt": "2025-11-16T00:01:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "moonleay",
+      "tags": []
+    }
+  ]
+}

@@ -36,6 +36,17 @@
       "tags": []
     },
     {
+      "id": "gaywrm",
+      "title": "When did people favor composition over inheritance?",
+      "description": "Score: 123 | Comments: 81 | Posted by ingve",
+      "url": "https://www.sicpers.info/2025/11/when-did-people-favor-composition-over-inheritance/",
+      "publishedAt": "2025-11-06T22:09:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingve",
+      "tags": []
+    },
+    {
       "id": "smyac1",
       "title": "The Learning Loop and LLMs",
       "description": "Score: 109 | Comments: 68 | Posted by johnwheeler",
@@ -110,6 +121,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "esnard",
+      "tags": []
+    },
+    {
+      "id": "vgi3mf",
+      "title": "Strap Rail",
+      "description": "Score: 47 | Comments: 4 | Posted by juliangamble",
+      "url": "https://www.construction-physics.com/p/strap-rail",
+      "publishedAt": "2025-11-06T20:14:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "juliangamble",
       "tags": []
     },
     {
@@ -311,6 +333,17 @@
       "tags": []
     },
     {
+      "id": "tyxr1g",
+      "title": "Feature Extraction with KNN",
+      "description": "Score: 20 | Comments: 4 | Posted by RicoElectrico",
+      "url": "https://davpinto.github.io/fastknn/articles/knn-extraction.html",
+      "publishedAt": "2025-11-06T12:08:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "RicoElectrico",
+      "tags": []
+    },
+    {
       "id": "glsx7x",
       "title": "Eating stinging nettles",
       "description": "Score: 191 | Comments: 175 | Posted by rzk",
@@ -352,6 +385,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "signa11",
+      "tags": []
+    },
+    {
+      "id": "jw2s9j",
+      "title": "Boa: A standard-conforming embeddable JavaScript engine written in Rust",
+      "description": "Score: 193 | Comments: 63 | Posted by maxloh",
+      "url": "https://github.com/boa-dev/boa",
+      "publishedAt": "2025-11-06T06:15:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "maxloh",
       "tags": []
     },
     {

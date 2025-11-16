@@ -3,6 +3,39 @@
   "source": "techcrunch",
   "articles": [
     {
+      "id": "https://techcrunch.com/?p=3068193",
+      "title": "JPMorgan doesn’t want to pay Frank founder Charlie Javice’s legal bills",
+      "description": "A lawyer representing JPMorgan said Javice’s legal team billed for expenses including luxury hotel upgrades, 24 hours of work in a single day, and",
+      "url": "https://techcrunch.com/2025/11/15/jpmorgan-doesnt-want-to-pay-frank-founder-charlie-javices-legal-bills/",
+      "publishedAt": "2025-11-15T22:01:49.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3068190",
+      "title": "Jury says Apple owes Masimo $634M for patent infringement",
+      "description": "A federal jury in California ruled Friday that Apple must pay medical device maker Masimo $634 million for infringing a patent on blood oxygen",
+      "url": "https://techcrunch.com/2025/11/15/jury-says-apple-owes-masimo-634m-for-patent-infringement/",
+      "publishedAt": "2025-11-15T21:07:41.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3068186",
+      "title": "Disney and YouTube TV reach deal to end blackout",
+      "description": "You can watch \"Jeopardy!\" on YouTube TV again.",
+      "url": "https://techcrunch.com/2025/11/15/disney-and-youtube-tv-reach-deal-to-end-blackout/",
+      "publishedAt": "2025-11-15T17:38:28.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
       "id": "https://techcrunch.com/?p=3067325",
       "title": "Leaked documents shed light into how much OpenAI pays Microsoft",
       "description": "Leaked documents reveal how much OpenAI paid Microsoft under a revenue-share agreement. They also indicate inference costs.",

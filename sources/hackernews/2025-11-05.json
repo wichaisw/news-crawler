@@ -36,6 +36,17 @@
       "tags": []
     },
     {
+      "id": "jyhu84",
+      "title": "Computing Across America (1983-1985)",
+      "description": "Score: 15 | Comments: 3 | Posted by austinallegro",
+      "url": "https://microship.com/winnebiko/",
+      "publishedAt": "2025-11-05T21:14:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "austinallegro",
+      "tags": []
+    },
+    {
       "id": "gzyrud",
       "title": "A Lost IBM PC/at Model? Analyzing a Newfound Old Bios",
       "description": "Score: 74 | Comments: 13 | Posted by TMWNN",
@@ -212,6 +223,17 @@
       "tags": []
     },
     {
+      "id": "rbx875",
+      "title": "Why export templates would be useful in C++ (2010)",
+      "description": "Score: 11 | Comments: 0 | Posted by PaulHoule",
+      "url": "http://warp.povusers.org/programming/export_templates.html",
+      "publishedAt": "2025-11-05T15:58:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "PaulHoule",
+      "tags": []
+    },
+    {
       "id": "grnfkd",
       "title": "Open Source Implementation of Apple's Private Compute Cloud",
       "description": "Score: 382 | Comments: 83 | Posted by adam_gyroscope",
@@ -363,6 +385,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jackdoe",
+      "tags": []
+    },
+    {
+      "id": "s96sjz",
+      "title": "JVM exceptions are weird: a decompiler perspective",
+      "description": "Score: 66 | Comments: 3 | Posted by birdculture",
+      "url": "https://purplesyringa.moe/blog/jvm-exceptions-are-weird-a-decompiler-perspective/",
+      "publishedAt": "2025-11-05T10:11:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "birdculture",
       "tags": []
     },
     {
