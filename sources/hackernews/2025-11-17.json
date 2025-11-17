@@ -1,0 +1,61 @@
+{
+  "date": "2025-11-17",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "qv01vo",
+      "title": "Building a Simple Search Engine That Works",
+      "description": "Score: 6 | Comments: 0 | Posted by freediver",
+      "url": "https://karboosx.net/post/4eZxhBon/building-a-simple-search-engine-that-actually-works",
+      "publishedAt": "2025-11-17T03:52:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "freediver",
+      "tags": []
+    },
+    {
+      "id": "ynq837",
+      "title": "Mixing Is the Heartbeat of Deep Lakes. At Crater Lake, It's Slowing Down",
+      "description": "Score: 6 | Comments: 1 | Posted by pseudolus",
+      "url": "https://www.quantamagazine.org/mixing-is-the-heartbeat-of-deep-lakes-at-crater-lake-its-slowing-down-20251114/",
+      "publishedAt": "2025-11-17T03:09:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pseudolus",
+      "tags": []
+    },
+    {
+      "id": "hia6ll",
+      "title": "People are using iPad OS features on their iPhones",
+      "description": "Score: 5 | Comments: 0 | Posted by K0IN",
+      "url": "https://idevicecentral.com/ios-customization/how-to-enable-ipad-features-like-multitasking-stage-manager-on-iphone-via-mobilegestalt/",
+      "publishedAt": "2025-11-17T02:39:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "K0IN",
+      "tags": []
+    },
+    {
+      "id": "263rk2",
+      "title": "A 1961 Relay Computer Running in the Browser",
+      "description": "Score: 31 | Comments: 11 | Posted by vaibhavsagar",
+      "url": "https://minivac.greg.technology/",
+      "publishedAt": "2025-11-17T02:36:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vaibhavsagar",
+      "tags": []
+    },
+    {
+      "id": "bvjv9x",
+      "title": "Building a High Performance Home",
+      "description": "Score: 6 | Comments: 0 | Posted by pilingual",
+      "url": "https://dan.bulwinkle.net/blog/building-a-high-performance-home/",
+      "publishedAt": "2025-11-17T00:41:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pilingual",
+      "tags": []
+    }
+  ]
+}

@@ -377,6 +377,17 @@
       "tags": []
     },
     {
+      "id": "otd2au",
+      "title": "Listen to Database Changes Through the Postgres WAL",
+      "description": "Score: 38 | Comments: 2 | Posted by pjullrich",
+      "url": "https://peterullrich.com/listen-to-database-changes-through-the-postgres-wal",
+      "publishedAt": "2025-11-11T10:08:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pjullrich",
+      "tags": []
+    },
+    {
       "id": "daqw98",
       "title": "Show HN: Gerbil – an open source desktop app for running LLMs locally",
       "description": "Score: 25 | Comments: 6 | Posted by lone-cloud",
@@ -396,6 +407,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "smartmic",
+      "tags": []
+    },
+    {
+      "id": "eea3lu",
+      "title": "Waiting for SQL:202y: Group by All",
+      "description": "Score: 50 | Comments: 25 | Posted by ingve",
+      "url": "http://peter.eisentraut.org/blog/2025/11/11/waiting-for-sql-202y-group-by-all",
+      "publishedAt": "2025-11-11T09:08:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingve",
       "tags": []
     },
     {
