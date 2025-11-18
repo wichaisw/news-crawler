@@ -1,0 +1,94 @@
+{
+  "date": "2025-11-18",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "z9wyv3",
+      "title": "The surprising benefits of giving up",
+      "description": "Score: 18 | Comments: 3 | Posted by jnord",
+      "url": "https://nautil.us/the-surprising-benefits-of-giving-up-1248362/",
+      "publishedAt": "2025-11-18T04:44:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jnord",
+      "tags": []
+    },
+    {
+      "id": "woggk0",
+      "title": "The obvious economics of preserving the Amazon",
+      "description": "Score: 17 | Comments: 12 | Posted by gwintrob",
+      "url": "https://www.economist.com/the-americas/2025/10/23/the-obvious-economics-of-preserving-the-amazon",
+      "publishedAt": "2025-11-18T04:22:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gwintrob",
+      "tags": []
+    },
+    {
+      "id": "bd8ws5",
+      "title": "CoreWeave, the AI industry's ticking time bomb",
+      "description": "Score: 18 | Comments: 4 | Posted by zerosizedweasle",
+      "url": "https://www.niemanlab.org/reading/meet-coreweave-the-ai-industrys-ticking-time-bomb/",
+      "publishedAt": "2025-11-18T03:41:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zerosizedweasle",
+      "tags": []
+    },
+    {
+      "id": "hl8gyb",
+      "title": "LeJEPA",
+      "description": "Score: 17 | Comments: 5 | Posted by nothrowaways",
+      "url": "https://arxiv.org/abs/2511.08544",
+      "publishedAt": "2025-11-18T02:58:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nothrowaways",
+      "tags": []
+    },
+    {
+      "id": "br9qh4",
+      "title": "Core Devices keeps stealing our work",
+      "description": "Score: 339 | Comments: 59 | Posted by jdauriemma",
+      "url": "https://rebble.io/2025/11/17/core-devices-keeps-stealing-our-work.html",
+      "publishedAt": "2025-11-18T02:53:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jdauriemma",
+      "tags": []
+    },
+    {
+      "id": "g425sq",
+      "title": "Unofficial \"Tier 4\" Rust Target for older Windows versions",
+      "description": "Score: 34 | Comments: 5 | Posted by kristianp",
+      "url": "https://github.com/rust9x/rust",
+      "publishedAt": "2025-11-18T02:46:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kristianp",
+      "tags": []
+    },
+    {
+      "id": "rxp8ww",
+      "title": "Rebecca Heineman has died",
+      "description": "Score: 204 | Comments: 25 | Posted by shdon",
+      "url": "https://www.pcgamer.com/gaming-industry/legendary-game-designer-programmer-space-invaders-champion-and-lgbtq-trailblazer-rebecca-heineman-has-died/",
+      "publishedAt": "2025-11-18T01:25:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "shdon",
+      "tags": []
+    },
+    {
+      "id": "8uiz25",
+      "title": "I caught Google Gemini using my data and then covering it up",
+      "description": "Score: 204 | Comments: 56 | Posted by JakaJancar",
+      "url": "https://unbuffered.stream/gemini-personal-context/",
+      "publishedAt": "2025-11-18T01:11:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "JakaJancar",
+      "tags": []
+    }
+  ]
+}
