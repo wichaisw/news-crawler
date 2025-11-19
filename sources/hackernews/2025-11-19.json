@@ -1,0 +1,72 @@
+{
+  "date": "2025-11-19",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "a3oucn",
+      "title": "DOE gives Microsoft partner $1B loan to restart Three Mile Island reactor",
+      "description": "Score: 65 | Comments: 41 | Posted by pseudolus",
+      "url": "https://techcrunch.com/2025/11/18/trump-doe-gives-microsoft-partner-1b-loan-to-restart-three-mile-island-reactor/",
+      "publishedAt": "2025-11-19T02:02:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pseudolus",
+      "tags": []
+    },
+    {
+      "id": "2xjsbi",
+      "title": "I just want working RCS messaging",
+      "description": "Score: 52 | Comments: 15 | Posted by joecool1029",
+      "url": "https://wt.gd/i-just-want-my-rcs-messaging-to-work",
+      "publishedAt": "2025-11-19T01:41:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "joecool1029",
+      "tags": []
+    },
+    {
+      "id": "4ygoqj",
+      "title": "GOP overhaul of broadband permit laws: Cities hate it, cable companies love it",
+      "description": "Score: 28 | Comments: 3 | Posted by duxup",
+      "url": "https://arstechnica.com/tech-policy/2025/11/gop-overhaul-of-broadband-permit-laws-cities-hate-it-cable-companies-love-it/",
+      "publishedAt": "2025-11-19T01:22:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "duxup",
+      "tags": []
+    },
+    {
+      "id": "be62vl",
+      "title": "Strace-macOS: A clone of the strace command for macOS",
+      "description": "Score: 8 | Comments: 0 | Posted by signa11",
+      "url": "https://github.com/Mic92/strace-macos",
+      "publishedAt": "2025-11-19T01:18:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "signa11",
+      "tags": []
+    },
+    {
+      "id": "cri60j",
+      "title": "Cloudflare outage on November 18, 2025 post mortemcloudflare.com",
+      "description": "Score: 692 | Comments: 411 | Posted by eastdakota",
+      "url": "https://blog.cloudflare.com/18-november-2025-outage/",
+      "publishedAt": "2025-11-19T00:09:31.050Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "eastdakota",
+      "tags": []
+    },
+    {
+      "id": "j5w39z",
+      "title": "I made a down detector for down detector",
+      "description": "Score: 15 | Comments: 0 | Posted by gusowen",
+      "url": "https://downdetectorsdowndetector.com",
+      "publishedAt": "2025-11-19T00:05:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gusowen",
+      "tags": []
+    }
+  ]
+}

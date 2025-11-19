@@ -69,6 +69,17 @@
       "tags": []
     },
     {
+      "id": "xliwrg",
+      "title": "Ditch your mutex, you deserve better",
+      "description": "Score: 129 | Comments: 185 | Posted by commandersaki",
+      "url": "https://chrispenner.ca/posts/mutexes",
+      "publishedAt": "2025-11-11T22:11:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "commandersaki",
+      "tags": []
+    },
+    {
       "id": "hdkvnh",
       "title": "X5.1 solar flare, G4 geomagnetic storm watchspaceweatherlive.com",
       "description": "Score: 268 | Comments: 73 | Posted by sva_",
@@ -88,6 +99,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jamesbelchamber",
+      "tags": []
+    },
+    {
+      "id": "3lkven",
+      "title": "Ultima VII Revisited",
+      "description": "Score: 29 | Comments: 2 | Posted by erickhill",
+      "url": "https://github.com/ViridianGames/U7Revisited",
+      "publishedAt": "2025-11-11T21:18:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "erickhill",
       "tags": []
     },
     {

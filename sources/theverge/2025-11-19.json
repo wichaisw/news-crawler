@@ -1,0 +1,66 @@
+{
+  "date": "2025-11-19",
+  "source": "theverge",
+  "articles": [
+    {
+      "id": "9x4jrf",
+      "title": "Meross’ radar presence sensor ditches the cord and adds Matter-over-Thread support",
+      "description": "Meross has announced a new version of its MS600 presence sensor that’s now battery-powered, so installation isn’t limited to places where you can camouflage a power cord.&#160; A single CR123A battery powers the new MS605 presence sensor for up to three years. Battery life may be reduced in high-traffic areas if the sensor is activated [&#8230;]",
+      "url": "https://www.theverge.com/news/823265/meross-matter-thread-smart-presence-sensor-ms605-radar-mmwave",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/meross1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2025-11-19T06:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Andrew Liszewski",
+      "tags": []
+    },
+    {
+      "id": "9guamp",
+      "title": "Cloudflare explains Tuesday’s outage that temporarily took down ChatGPT",
+      "description": "A blog post published Tuesday night by Cloudflare co-founder and CEO Matthew Prince has details on what caused its “worst outage since 2019,” pinning the issue to a problem in the Bot Management system that is supposed to control which automated crawlers are allowed to scan particular websites using its CDN. Cloudflare said last year [&#8230;]",
+      "url": "https://www.theverge.com/news/823711/cloudflare-outage-postmortem",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STKB326_CLOUDFLARE_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2025-11-19T02:25:59.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Richard Lawler",
+      "tags": []
+    },
+    {
+      "id": "1fkc6v",
+      "title": "The best Android phones",
+      "description": "Editor’s note:&#160;Black Friday doesn’t officially take place until Friday, November 28th; however, if you want to shop ahead of time, we’ve rounded up the&#160;best early Black Friday deals&#160;you can already get. The Android ecosystem is all about choice. While iPhone owners have a smaller pool of new devices to pick from when it’s time to [&#8230;]",
+      "url": "https://www.theverge.com/23674658/best-android-phone",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/247288_Phone_Buying_Guides_6_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2025-11-19T00:08:49.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Allison Johnson",
+      "tags": []
+    },
+    {
+      "id": "887hok",
+      "title": "EA will skip next year's F1 game and release update DLC instead",
+      "description": "EA has announced some big changes for the future of its F1 racing series. Next year, instead of a new game, the company will opt to release a paid expansion for F1 25 as part of “a strategic reset for the F1 Franchise,” EA says. The next full F1 game, a “reimagined” experience, will arrive [&#8230;]",
+      "url": "https://www.theverge.com/news/823675/ea-f1-25-2026-2027-dlc-expansion-update-game",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/ss_26ef3c27e69d2aea6467f7092cac4cef5b9120ee.1920x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2025-11-19T00:04:33.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Jay Peters",
+      "tags": []
+    },
+    {
+      "id": "i66wyz",
+      "title": "The Jeep Recon lives",
+      "description": "It’s been over three years since we first caught glimpse of Jeep’s Wrangler-esque Recon EV, named after the automaker’s suspension-lifting package of off-roading options for its popular lineup of SUVs. Jeep originally pegged the Recon’s sales debut for 2023, but that obviously didn’t happen. And since then, there have been further delays, and even rumors [&#8230;]",
+      "url": "https://www.theverge.com/news/822340/jeep-recon-ev-specs-range-price",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/JP026_006RE.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2025-11-19T00:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Andrew J. Hawkins",
+      "tags": []
+    }
+  ]
+}
