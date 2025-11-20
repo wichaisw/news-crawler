@@ -289,6 +289,28 @@
       "tags": []
     },
     {
+      "id": "wibw5u",
+      "title": "Reproducible C++ builds by logging Git hashes",
+      "description": "Score: 36 | Comments: 38 | Posted by j4cobgarby",
+      "url": "https://jgarby.uk/posts/git_repr/",
+      "publishedAt": "2025-11-14T09:45:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "j4cobgarby",
+      "tags": []
+    },
+    {
+      "id": "emj8e",
+      "title": "CLI tool to check the Git status of multiple projects",
+      "description": "Score: 5 | Comments: 4 | Posted by chrisdugne",
+      "url": "https://github.com/uralys/check-projects",
+      "publishedAt": "2025-11-14T08:49:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "chrisdugne",
+      "tags": []
+    },
+    {
       "id": "gzkav6",
       "title": "Lawmakers want to ban VPNs and have no idea what they're doing",
       "description": "Score: 113 | Comments: 70 | Posted by gslin",

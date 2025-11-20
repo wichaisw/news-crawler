@@ -69,6 +69,17 @@
       "tags": []
     },
     {
+      "id": "2sdso4",
+      "title": "A surprise with how '#!' handles its program argument in practice",
+      "description": "Score: 33 | Comments: 29 | Posted by SeenNotHeard",
+      "url": "https://utcc.utoronto.ca/~cks/space/blog/unix/ShebangRelativePathSurprise",
+      "publishedAt": "2025-11-18T19:32:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "SeenNotHeard",
+      "tags": []
+    },
+    {
       "id": "hpwbd6",
       "title": "Trying out Gemini 3 Pro with audio transcription and a new pelican benchmark",
       "description": "Score: 147 | Comments: 48 | Posted by nabla9",

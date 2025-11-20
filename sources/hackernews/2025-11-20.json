@@ -1,0 +1,72 @@
+{
+  "date": "2025-11-20",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "17rz72",
+      "title": "Show HN: An A2A-compatible, open-source framework for multi-agent networks",
+      "description": "Score: 3 | Comments: 0 | Posted by snasan",
+      "url": "https://github.com/openagents-org/openagents",
+      "publishedAt": "2025-11-20T05:52:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "snasan",
+      "tags": []
+    },
+    {
+      "id": "aummat",
+      "title": "Understanding neural networks through sparse circuits",
+      "description": "Score: 4 | Comments: 0 | Posted by gmays",
+      "url": "https://openai.com/index/understanding-neural-networks-through-sparse-circuits/",
+      "publishedAt": "2025-11-20T03:45:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gmays",
+      "tags": []
+    },
+    {
+      "id": "628yrz",
+      "title": "Cosmic Paradox Reveals the Awful Consequence of an Observer-Free Universe",
+      "description": "Score: 7 | Comments: 0 | Posted by pseudolus",
+      "url": "https://www.quantamagazine.org/cosmic-paradox-reveals-the-awful-consequence-of-an-observer-free-universe-20251119/",
+      "publishedAt": "2025-11-20T01:46:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pseudolus",
+      "tags": []
+    },
+    {
+      "id": "g2twq4",
+      "title": "Measuring the impact of AI scams on the elderly",
+      "description": "Score: 78 | Comments: 27 | Posted by DalasNoin",
+      "url": "https://simonlermen.substack.com/p/can-ai-models-be-jailbroken-to-phish",
+      "publishedAt": "2025-11-20T00:32:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "DalasNoin",
+      "tags": []
+    },
+    {
+      "id": "uc9pe0",
+      "title": "Verifying your Matrix devices is becoming mandatory",
+      "description": "Score: 110 | Comments: 84 | Posted by LorenDB",
+      "url": "https://element.io/blog/verifying-your-devices-is-becoming-mandatory-2/",
+      "publishedAt": "2025-11-20T00:22:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "LorenDB",
+      "tags": []
+    },
+    {
+      "id": "7udyf7",
+      "title": "Linux Career Opportunities in 2025: Skills in High Demand",
+      "description": "Score: 49 | Comments: 45 | Posted by dxs",
+      "url": "https://www.linuxcareers.com/resources/blog/2025/11/linux-career-opportunities-in-2025-skills-in-high-demand/",
+      "publishedAt": "2025-11-20T00:02:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dxs",
+      "tags": []
+    }
+  ]
+}

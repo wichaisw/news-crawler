@@ -344,6 +344,17 @@
       "tags": []
     },
     {
+      "id": "pgvivy",
+      "title": "Vortex: An extensible, state of the art columnar file format",
+      "description": "Score: 65 | Comments: 14 | Posted by tanelpoder",
+      "url": "https://github.com/vortex-data/vortex",
+      "publishedAt": "2025-11-15T02:55:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tanelpoder",
+      "tags": []
+    },
+    {
       "id": "ip97z3",
       "title": "Show HN: UnisonDB – B+Tree DB with sub-second replication to 100+ nodes",
       "description": "Score: 6 | Comments: 1 | Posted by ankuranand",

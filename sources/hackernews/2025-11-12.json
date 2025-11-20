@@ -102,6 +102,17 @@
       "tags": []
     },
     {
+      "id": "6sihp3",
+      "title": "Why CUDA translation wont unlock AMD",
+      "description": "Score: 77 | Comments: 62 | Posted by JonChesterfield",
+      "url": "https://eliovp.com/why-cuda-translation-wont-unlock-amds-real-potential/",
+      "publishedAt": "2025-11-12T18:47:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "JonChesterfield",
+      "tags": []
+    },
+    {
       "id": "i5jeu9",
       "title": "Blasting Yeast with UV Light",
       "description": "Score: 71 | Comments: 20 | Posted by Gormisdomai",
@@ -135,6 +146,17 @@
       "tags": []
     },
     {
+      "id": "on70id",
+      "title": "Control LLM Spend and Access with any-LLM-gateway",
+      "description": "Score: 57 | Comments: 26 | Posted by aittalam",
+      "url": "https://blog.mozilla.ai/control-llm-spend-and-access-with-any-llm-gateway/",
+      "publishedAt": "2025-11-12T18:06:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "aittalam",
+      "tags": []
+    },
+    {
       "id": "lh66r1",
       "title": "Steam Machine",
       "description": "Score: 1632 | Comments: 819 | Posted by davikr",
@@ -154,6 +176,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "Philpax",
+      "tags": []
+    },
+    {
+      "id": "xuxe23",
+      "title": "The Lucas-Lehmer Prime Number Test",
+      "description": "Score: 60 | Comments: 33 | Posted by beardyw",
+      "url": "https://www.scientificamerican.com/article/how-to-identify-a-prime-number-without-a-computer/",
+      "publishedAt": "2025-11-12T17:50:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "beardyw",
       "tags": []
     },
     {
@@ -308,6 +341,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "bertman",
+      "tags": []
+    },
+    {
+      "id": "3sbdgl",
+      "title": "Blame as a Service",
+      "description": "Score: 101 | Comments: 14 | Posted by humaninvariant",
+      "url": "https://www.humaninvariant.com/blog/blame",
+      "publishedAt": "2025-11-12T06:45:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "humaninvariant",
+      "tags": []
+    },
+    {
+      "id": "9760yr",
+      "title": "Branching with or Without PII: The Future of Environments",
+      "description": "Score: 15 | Comments: 3 | Posted by emschwartz",
+      "url": "https://neon.com/blog/branching-environments-anonymized-pii",
+      "publishedAt": "2025-11-12T05:52:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "emschwartz",
       "tags": []
     },
     {
