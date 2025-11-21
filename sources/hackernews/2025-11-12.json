@@ -69,6 +69,17 @@
       "tags": []
     },
     {
+      "id": "jq09qq",
+      "title": "FEX-emu – Run x86 applications on ARM64 Linux devices",
+      "description": "Score: 134 | Comments: 42 | Posted by open-paren",
+      "url": "https://fex-emu.com/",
+      "publishedAt": "2025-11-12T20:15:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "open-paren",
+      "tags": []
+    },
+    {
       "id": "6ecu2s",
       "title": "Making the Clang AST Leaner and Faster",
       "description": "Score: 34 | Comments: 9 | Posted by vitaut",
@@ -388,6 +399,17 @@
       "tags": []
     },
     {
+      "id": "uk2szg",
+      "title": "Readonly Characters Are a Big Deal",
+      "description": "Score: 40 | Comments: 5 | Posted by vinhnx",
+      "url": "https://matklad.github.io/2025/11/10/readonly-characters.html",
+      "publishedAt": "2025-11-12T05:04:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vinhnx",
+      "tags": []
+    },
+    {
       "id": "fbdq91",
       "title": "Bluetooth 6.2 – more responsive, improves security, USB comms, and testingcnx-software.com",
       "description": "Score: 23 | Comments: 3 | Posted by zdw",
@@ -418,6 +440,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "PaulHoule",
+      "tags": []
+    },
+    {
+      "id": "jtpcp8",
+      "title": "Performance hacks for faster Python code",
+      "description": "Score: 86 | Comments: 52 | Posted by ashvardanian",
+      "url": "https://blog.jetbrains.com/pycharm/2025/11/10-smart-performance-hacks-for-faster-python-code/",
+      "publishedAt": "2025-11-12T00:55:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ashvardanian",
       "tags": []
     },
     {

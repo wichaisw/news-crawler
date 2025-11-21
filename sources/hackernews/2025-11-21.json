@@ -1,0 +1,28 @@
+{
+  "date": "2025-11-21",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "uqv70z",
+      "title": "Measuring Latency (2015)",
+      "description": "Score: 18 | Comments: 7 | Posted by dempedempe",
+      "url": "https://bravenewgeek.com/everything-you-know-about-latency-is-wrong/",
+      "publishedAt": "2025-11-21T01:50:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dempedempe",
+      "tags": []
+    },
+    {
+      "id": "rmduw3",
+      "title": "Why top firms fire good workers",
+      "description": "Score: 90 | Comments: 72 | Posted by hhs",
+      "url": "https://www.rochester.edu/newscenter/employee-turnover-why-top-firms-churn-good-workers-681832/",
+      "publishedAt": "2025-11-21T00:36:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hhs",
+      "tags": []
+    }
+  ]
+}
