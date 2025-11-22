@@ -256,6 +256,17 @@
       "tags": []
     },
     {
+      "id": "ru7dfv",
+      "title": "RRules (yes handling RSCALE) using only PL/pgSQL",
+      "description": "Score: 19 | Comments: 1 | Posted by sirrodgepodge",
+      "url": "https://github.com/sirrodgepodge/rrule_plpgsql",
+      "publishedAt": "2025-11-13T14:33:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sirrodgepodge",
+      "tags": []
+    },
+    {
       "id": "ryypdk",
       "title": "How To Build A Smartwatch: Software",
       "description": "Score: 89 | Comments: 44 | Posted by teekert",

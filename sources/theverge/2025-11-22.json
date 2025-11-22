@@ -1,0 +1,30 @@
+{
+  "date": "2025-11-22",
+  "source": "theverge",
+  "articles": [
+    {
+      "id": "pwjf9a",
+      "title": "‘Jmail’ is like any other inbox, except this one has Jeffrey Epstein’s emails",
+      "description": "The more than 20,000 pages of Jeffrey Epstein emails released earlier this month by the House Oversight Committee have been enough to prompt more investigations into the convicted child sex offender and the people around him, like former Harvard president and OpenAI board member Larry Summers. Now, Luke Igel and Riley Walz have reformatted the [&#8230;]",
+      "url": "https://www.theverge.com/news/826901/jeffrey-epstein-files-emails-gmail-jmail",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/jmail-epstein-emails.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2025-11-22T00:58:31.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Richard Lawler",
+      "tags": []
+    },
+    {
+      "id": "p7c0rs",
+      "title": "Google denies 'misleading' reports of Gmail using your emails to train AI",
+      "description": "Google is pushing back on viral social media posts and articles like this one by Malwarebytes, claiming Google has changed its policy to use your Gmail messages and attachments to train AI models, and the only way to opt out is by disabling “smart features” like spell checking. But Google spokesperson Jenny Thomson tells The [&#8230;]",
+      "url": "https://www.theverge.com/news/826902/gmail-ai-training-data-opt-out",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK459_09.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2025-11-22T00:04:21.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Jay Peters",
+      "tags": []
+    }
+  ]
+}

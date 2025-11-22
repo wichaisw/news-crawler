@@ -14,6 +14,17 @@
       "tags": []
     },
     {
+      "id": "lamfnr",
+      "title": "When functions dissolve (2020)",
+      "description": "Score: 12 | Comments: 0 | Posted by vitalnodo",
+      "url": "https://rubber-duck-typing.com/posts/2020-12-12-when-functions-dissolve.html",
+      "publishedAt": "2025-11-15T23:42:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vitalnodo",
+      "tags": []
+    },
+    {
       "id": "wla0dq",
       "title": "The inconceivable types of Rust: How to make self-borrows safe (2024)",
       "description": "Score: 51 | Comments: 6 | Posted by birdculture",
@@ -212,6 +223,17 @@
       "tags": []
     },
     {
+      "id": "65rowg",
+      "title": "Scientists now know that bees can process time, a first in insects",
+      "description": "Score: 194 | Comments: 115 | Posted by Brajeshwar",
+      "url": "https://www.cnn.com/2025/11/12/science/bees-visual-stimulus-study-scli-intl",
+      "publishedAt": "2025-11-15T13:32:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Brajeshwar",
+      "tags": []
+    },
+    {
       "id": "eohhcn",
       "title": "My stages of learning to be a socially normal person",
       "description": "Score: 371 | Comments: 239 | Posted by eatitraw",
@@ -322,6 +344,17 @@
       "tags": []
     },
     {
+      "id": "okq2nz",
+      "title": "Automating rootless Docker host updates with Ansible",
+      "description": "Score: 6 | Comments: 0 | Posted by Helmut10001",
+      "url": "https://du.nkel.dev/blog/2025-11-15_docker-rootless-ansible/",
+      "publishedAt": "2025-11-15T06:27:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Helmut10001",
+      "tags": []
+    },
+    {
       "id": "kngu7h",
       "title": "Designing a Language (2017)",
       "description": "Score: 165 | Comments: 102 | Posted by veqq",
@@ -396,6 +429,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ankuranand",
+      "tags": []
+    },
+    {
+      "id": "451inp",
+      "title": "Samsung's 60% DRAM price hike signals a new phase of global memory tightening",
+      "description": "Score: 219 | Comments: 164 | Posted by redohmy",
+      "url": "https://www.buysellram.com/blog/samsungs-memory-price-surge-sends-shockwaves-through-the-global-dram-market/",
+      "publishedAt": "2025-11-15T02:45:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "redohmy",
       "tags": []
     },
     {

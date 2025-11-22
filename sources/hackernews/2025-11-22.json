@@ -1,0 +1,105 @@
+{
+  "date": "2025-11-22",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "bk0p5g",
+      "title": "Superman copy found in mum's attic is most valuable comic ever at $9.12Mbbc.com",
+      "description": "Score: 45 | Comments: 12 | Posted by 1659447091",
+      "url": "https://www.bbc.com/news/articles/c8e9rp0knj6o",
+      "publishedAt": "2025-11-22T05:23:26.557Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "1659447091",
+      "tags": []
+    },
+    {
+      "id": "bk0p5g",
+      "title": "Superman copy found in mum's attic is most valuable comic ever at $9.12M",
+      "description": "Score: 45 | Comments: 13 | Posted by 1659447091",
+      "url": "https://www.bbc.com/news/articles/c8e9rp0knj6o",
+      "publishedAt": "2025-11-22T05:21:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "1659447091",
+      "tags": []
+    },
+    {
+      "id": "3bu5wv",
+      "title": "Microsoft's head of AI doesn't understand why people don't like AI",
+      "description": "Score: 19 | Comments: 3 | Posted by evo_9",
+      "url": "https://www.pcgamer.com/software/ai/microsofts-head-of-ai-doesnt-understand-why-people-dont-like-ai-and-i-dont-understand-why-he-doesnt-understand-because-its-pretty-obvious/",
+      "publishedAt": "2025-11-22T04:33:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "evo_9",
+      "tags": []
+    },
+    {
+      "id": "rzmy6c",
+      "title": "Openring-rs: a webring for static site generators written in Rust",
+      "description": "Score: 5 | Comments: 1 | Posted by lwhsiao",
+      "url": "https://github.com/lukehsiao/openring-rs",
+      "publishedAt": "2025-11-22T04:12:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lwhsiao",
+      "tags": []
+    },
+    {
+      "id": "i70xbn",
+      "title": "Moss Survives 9 Months in Space Vacuum",
+      "description": "Score: 41 | Comments: 8 | Posted by ashishgupta2209",
+      "url": "https://scienceclock.com/moss-survives-9-months-in-space-vacuum/",
+      "publishedAt": "2025-11-22T03:57:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ashishgupta2209",
+      "tags": []
+    },
+    {
+      "id": "jflqqr",
+      "title": "Apple shows how much faster the M5 runs local LLMs compared to the M4",
+      "description": "Score: 12 | Comments: 2 | Posted by geoffbp",
+      "url": "https://9to5mac.com/2025/11/20/apple-shows-how-much-faster-the-m5-runs-local-llms-compared-to-the-m4/",
+      "publishedAt": "2025-11-22T03:48:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "geoffbp",
+      "tags": []
+    },
+    {
+      "id": "vabpuu",
+      "title": "Breakthrough in Antimatter Production",
+      "description": "Score: 18 | Comments: 1 | Posted by thunderbong",
+      "url": "https://home.cern/news/news/experiments/breakthrough-antimatter-production",
+      "publishedAt": "2025-11-22T03:41:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thunderbong",
+      "tags": []
+    },
+    {
+      "id": "ucp0ui",
+      "title": "Infinibay LXD Container",
+      "description": "Score: 11 | Comments: 0 | Posted by angaroshi",
+      "url": "https://github.com/Infinibay/lxd",
+      "publishedAt": "2025-11-22T01:54:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "angaroshi",
+      "tags": []
+    },
+    {
+      "id": "abmzaa",
+      "title": "Sharper MRI scans may be on horizon thanks to new physics-based model",
+      "description": "Score: 42 | Comments: 10 | Posted by hhs",
+      "url": "https://news.rice.edu/news/2025/sharper-mri-scans-may-be-horizon-thanks-new-physics-based-model",
+      "publishedAt": "2025-11-22T00:30:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hhs",
+      "tags": []
+    }
+  ]
+}
