@@ -3,6 +3,72 @@
   "source": "techcrunch",
   "articles": [
     {
+      "id": "https://techcrunch.com/?p=3070150",
+      "title": "Trump administration might not fight state AI regulations after all",
+      "description": "A Trump administration order targeting state-level AI regulation is reportedly on hold.",
+      "url": "https://techcrunch.com/2025/11/22/trump-administration-might-not-fight-state-ai-regulations-after-all/",
+      "publishedAt": "2025-11-22T22:20:27.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3070147",
+      "title": "Waymo gets regulatory approval to expand across Bay Area and Southern California",
+      "description": "Waymo continues to expand its reach, with the robotaxi company posting Friday that it’s now “officially authorized to drive fully autonomously across",
+      "url": "https://techcrunch.com/2025/11/22/waymo-gets-regulatory-approval-to-expand-across-bay-area-and-southern-california/",
+      "publishedAt": "2025-11-22T21:45:49.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3070143",
+      "title": "Meta wants to get into the electricity trading business",
+      "description": "In order to accelerate the construction of new power plants needed to provide energy for its data centers, Meta is looking to get into the business",
+      "url": "https://techcrunch.com/2025/11/22/meta-wants-to-get-into-the-electricity-trading-business/",
+      "publishedAt": "2025-11-22T17:26:36.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3070130",
+      "title": "Byju’s founder to appeal U.S. court order to pay over $1B in bankruptcy case",
+      "description": "A U.S. bankruptcy court has ordered Byju's founder Byju Raveendran to pay over $1.07 billion in a case over missing company funds.",
+      "url": "https://techcrunch.com/2025/11/22/byjus-founder-to-appeal-u-s-court-order-to-pay-over-1b-in-bankruptcy-case/",
+      "publishedAt": "2025-11-22T16:17:32.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Jagmeet Singh",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3068093",
+      "title": "Why now is the best time to invest in climate tech",
+      "description": "Global expectations around climate change has shifted dramatically in the last decade, suggesting that similarly significant changes are on the",
+      "url": "https://techcrunch.com/2025/11/22/why-now-is-the-best-time-to-invest-in-climate-tech/",
+      "publishedAt": "2025-11-22T16:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Tim De Chant",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3070103",
+      "title": "Pew’s latest social media report shows X’s staying power in the U.S., despite competition",
+      "description": "X is still used by 21% of U.S. adults, Pew found, only down from 23% in 2021, despite increased competition from Meta, startups, and decentralized",
+      "url": "https://techcrunch.com/2025/11/22/pews-latest-social-media-report-shows-xs-staying-power-in-the-u-s-despite-competition/",
+      "publishedAt": "2025-11-22T16:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sarah Perez",
+      "tags": []
+    },
+    {
       "id": "https://techcrunch.com/?p=3070124",
       "title": "How this founder’s unlikely path to Silicon Valley could become an edge in industrial tech",
       "description": "Young's age and background – things that might seem like disadvantages when it comes to more established industries – have become his secret weapons.",

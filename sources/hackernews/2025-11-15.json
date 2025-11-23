@@ -58,6 +58,17 @@
       "tags": []
     },
     {
+      "id": "o7sbs1",
+      "title": "$1900 Bug Bounty to Fix the Lenovo Legion Pro 7 16IAX10H's Speakers on Linux",
+      "description": "Score: 230 | Comments: 102 | Posted by rany_",
+      "url": "https://github.com/nadimkobeissi/16iax10h-linux-sound-saga",
+      "publishedAt": "2025-11-15T22:08:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rany_",
+      "tags": []
+    },
+    {
       "id": "xmdks4",
       "title": "Multics and AS400：DPS8M on IBM PASE for I (OS/400) (2024)",
       "description": "Score: 9 | Comments: 3 | Posted by naves",
@@ -154,6 +165,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "downboots",
+      "tags": []
+    },
+    {
+      "id": "hl8jvc",
+      "title": "TiDAR: Think in Diffusion, Talk in Autoregression",
+      "description": "Score: 117 | Comments: 19 | Posted by internetguy",
+      "url": "https://arxiv.org/abs/2511.08923",
+      "publishedAt": "2025-11-15T17:32:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "internetguy",
       "tags": []
     },
     {
@@ -264,6 +286,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mfburnett",
+      "tags": []
+    },
+    {
+      "id": "ljp7u0",
+      "title": "The twin probes just launched toward Mars have an Easter egg on board",
+      "description": "Score: 66 | Comments: 38 | Posted by pseudolus",
+      "url": "https://arstechnica.com/space/2025/11/the-twin-probes-just-launched-toward-mars-have-an-easter-egg-on-board/",
+      "publishedAt": "2025-11-15T11:49:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pseudolus",
+      "tags": []
+    },
+    {
+      "id": "d1fos6",
+      "title": "Show HN: A tool to safely migrate GitHub Actions workflows to Ubuntu-slim runner",
+      "description": "Score: 27 | Comments: 0 | Posted by r4mimu",
+      "url": "https://github.com/fchimpan/gh-slimify",
+      "publishedAt": "2025-11-15T10:53:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "r4mimu",
       "tags": []
     },
     {

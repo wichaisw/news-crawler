@@ -1,0 +1,116 @@
+{
+  "date": "2025-11-23",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "oohmi8",
+      "title": "Unusual circuits in the Intel 386's standard cell logicrighto.com",
+      "description": "Score: 47 | Comments: 9 | Posted by Stratoscope",
+      "url": "https://www.righto.com/2025/11/unusual-386-standard-cell-circuits.html",
+      "publishedAt": "2025-11-23T04:09:12.456Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Stratoscope",
+      "tags": []
+    },
+    {
+      "id": "fx5pq0",
+      "title": "Cryptographers Held an Election. They Can't Decrypt the Results",
+      "description": "Score: 35 | Comments: 9 | Posted by FabHK",
+      "url": "https://www.nytimes.com/2025/11/21/world/cryptography-group-lost-election-results.html",
+      "publishedAt": "2025-11-23T03:47:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "FabHK",
+      "tags": []
+    },
+    {
+      "id": "oohmi8",
+      "title": "Unusual circuits in the Intel 386's standard cell logic",
+      "description": "Score: 47 | Comments: 9 | Posted by Stratoscope",
+      "url": "https://www.righto.com/2025/11/unusual-386-standard-cell-circuits.html",
+      "publishedAt": "2025-11-23T03:33:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Stratoscope",
+      "tags": []
+    },
+    {
+      "id": "pcbemq",
+      "title": "GCC SC approves inclusion of Algol 68 Front End",
+      "description": "Score: 83 | Comments: 24 | Posted by edelsohn",
+      "url": "https://gcc.gnu.org/pipermail/gcc/2025-November/247020.html",
+      "publishedAt": "2025-11-23T02:18:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "edelsohn",
+      "tags": []
+    },
+    {
+      "id": "z5jn4r",
+      "title": "An Economy of AI Agents",
+      "description": "Score: 38 | Comments: 19 | Posted by nerder92",
+      "url": "https://arxiv.org/abs/2509.01063",
+      "publishedAt": "2025-11-23T02:08:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nerder92",
+      "tags": []
+    },
+    {
+      "id": "cjn6uy",
+      "title": "Meta buried 'causal' evidence of social media harm, US court filings allege",
+      "description": "Score: 202 | Comments: 66 | Posted by pseudolus",
+      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-buried-causal-evidence-social-media-harm-us-court-filings-allege-2025-11-23/",
+      "publishedAt": "2025-11-23T01:09:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pseudolus",
+      "tags": []
+    },
+    {
+      "id": "h2pawy",
+      "title": "Germany to classify date rape drugs as weapons to ensure justice for survivors",
+      "description": "Score: 86 | Comments: 26 | Posted by binning",
+      "url": "https://www.theguardian.com/society/2025/nov/21/germany-to-classify-date-drugs-as-weapons-in-attempt-to-ensure-justice-for-survivors",
+      "publishedAt": "2025-11-23T01:00:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "binning",
+      "tags": []
+    },
+    {
+      "id": "nctyu6",
+      "title": "A year without caffeine (2013)",
+      "description": "Score: 49 | Comments: 33 | Posted by andsoitis",
+      "url": "https://bryanalexander.org/personal/a-year-without-caffeine/",
+      "publishedAt": "2025-11-23T00:50:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andsoitis",
+      "tags": []
+    },
+    {
+      "id": "4zktqz",
+      "title": "A monopoly ISP refuses to fix upstream infrastructure",
+      "description": "Score: 146 | Comments: 52 | Posted by vedmed",
+      "url": "https://sacbear.com/xfinity-wont-fix-internet/",
+      "publishedAt": "2025-11-23T00:46:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vedmed",
+      "tags": []
+    },
+    {
+      "id": "olx88j",
+      "title": "NTSB report: Decryption of images from the Titan submersible camera [pdf] (2024)",
+      "description": "Score: 87 | Comments: 33 | Posted by bmurray7jhu",
+      "url": "https://data.ntsb.gov/Docket/Document/docBLOB?ID=18741602&FileExtension=pdf&FileName=Underwater%20Camera%20-%20Specialist%27s%20Factual%20Report-Rel.pdf",
+      "publishedAt": "2025-11-23T00:35:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bmurray7jhu",
+      "tags": []
+    }
+  ]
+}
