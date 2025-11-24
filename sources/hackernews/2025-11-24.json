@@ -1,0 +1,160 @@
+{
+  "date": "2025-11-24",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "j7y7l4",
+      "title": "Insurers retreat from AI cover as risk of multibillion-dollar claims mounts",
+      "description": "Score: 27 | Comments: 2 | Posted by gwintrob",
+      "url": "https://www.ft.com/content/abfe9741-f438-4ed6-a673-075ec177dc62",
+      "publishedAt": "2025-11-24T04:22:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gwintrob",
+      "tags": []
+    },
+    {
+      "id": "bjajt5",
+      "title": "The Cloudflare outage was a good thinggist.github.com",
+      "description": "Score: 69 | Comments: 38 | Posted by radeeyate",
+      "url": "https://gist.github.com/jbreckmckye/32587f2907e473dd06d68b0362fb0048",
+      "publishedAt": "2025-11-24T03:10:32.293Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "radeeyate",
+      "tags": []
+    },
+    {
+      "id": "galzkk",
+      "title": "RuBeecomputer.rip",
+      "description": "Score: 85 | Comments: 5 | Posted by Sniffnoy",
+      "url": "https://computer.rip/2025-11-22-RuBee.html",
+      "publishedAt": "2025-11-24T03:10:32.292Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Sniffnoy",
+      "tags": []
+    },
+    {
+      "id": "galzkk",
+      "title": "RuBee",
+      "description": "Score: 85 | Comments: 5 | Posted by Sniffnoy",
+      "url": "https://computer.rip/2025-11-22-RuBee.html",
+      "publishedAt": "2025-11-24T03:08:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Sniffnoy",
+      "tags": []
+    },
+    {
+      "id": "8fdk2b",
+      "title": "Japan's gamble to turn island of Hokkaido into global chip hub",
+      "description": "Score: 18 | Comments: 6 | Posted by 1659447091",
+      "url": "https://www.bbc.com/news/articles/c8676qpxgnqo",
+      "publishedAt": "2025-11-24T03:07:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "1659447091",
+      "tags": []
+    },
+    {
+      "id": "bjajt5",
+      "title": "The Cloudflare outage was a good thing",
+      "description": "Score: 69 | Comments: 38 | Posted by radeeyate",
+      "url": "https://gist.github.com/jbreckmckye/32587f2907e473dd06d68b0362fb0048",
+      "publishedAt": "2025-11-24T03:04:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "radeeyate",
+      "tags": []
+    },
+    {
+      "id": "wnkoi6",
+      "title": "A free tool that stuns LLMs with thousands of invisible Unicode characters",
+      "description": "Score: 28 | Comments: 13 | Posted by wdpatti",
+      "url": "https://gibberifier.com",
+      "publishedAt": "2025-11-24T03:00:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wdpatti",
+      "tags": []
+    },
+    {
+      "id": "wdlgtj",
+      "title": "McMaster Carr – The Smartest Website You Haven't Heard Of",
+      "description": "Score: 7 | Comments: 1 | Posted by jcartw",
+      "url": "https://www.bedelstein.com/post/mcmaster-carr",
+      "publishedAt": "2025-11-24T02:57:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jcartw",
+      "tags": []
+    },
+    {
+      "id": "kv0v19",
+      "title": "We stopped roadmap work for a week and fixed 189 bugs",
+      "description": "Score: 110 | Comments: 78 | Posted by signa11",
+      "url": "https://lalitm.com/fixits-are-good-for-the-soul/",
+      "publishedAt": "2025-11-24T02:36:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "signa11",
+      "tags": []
+    },
+    {
+      "id": "a1xq54",
+      "title": "Passing the Torch – My Last Root DNSSEC KSK Ceremony as Crypto Officer 4",
+      "description": "Score: 35 | Comments: 6 | Posted by greyface-",
+      "url": "https://technotes.seastrom.com/2025/11/23/passing-the-torch.html",
+      "publishedAt": "2025-11-24T02:16:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "greyface-",
+      "tags": []
+    },
+    {
+      "id": "gydd5v",
+      "title": "A Unified Theory of Ego, Empathy, and Humility at Work",
+      "description": "Score: 27 | Comments: 0 | Posted by mrmatthogg",
+      "url": "https://matthogg.fyi/a-unified-theory-of-ego-empathy-and-humility-at-work/",
+      "publishedAt": "2025-11-24T02:01:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mrmatthogg",
+      "tags": []
+    },
+    {
+      "id": "ie7ul7",
+      "title": "A ncurses-based command line torrent client for high performance",
+      "description": "Score: 9 | Comments: 2 | Posted by gslin",
+      "url": "https://github.com/rakshasa/rtorrent",
+      "publishedAt": "2025-11-24T01:30:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gslin",
+      "tags": []
+    },
+    {
+      "id": "8tjvcu",
+      "title": "Work from Home in Skyrim VR [video]",
+      "description": "Score: 13 | Comments: 1 | Posted by andai",
+      "url": "https://www.youtube.com/watch?v=v9gIK4j1Ip0",
+      "publishedAt": "2025-11-24T01:23:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andai",
+      "tags": []
+    },
+    {
+      "id": "obxcro",
+      "title": "'Invisible' microplastics spread in skies as global pollutant",
+      "description": "Score: 42 | Comments: 15 | Posted by devonnull",
+      "url": "https://www.asahi.com/ajw/articles/16137995",
+      "publishedAt": "2025-11-24T00:18:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "devonnull",
+      "tags": []
+    }
+  ]
+}

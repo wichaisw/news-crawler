@@ -1,0 +1,73 @@
+{
+  "date": "2025-11-24",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "149007 at https://www.blognone.com",
+      "title": "Amazon ECS เปิดตัว Express Mode สร้างคลัสเตอร์ด้วยคำสั่งเดียว",
+      "description": "Amazon ECS เปิดตัว Express Mode สร้างคลัสเตอร์ด้วยคำสั่งเดียว Body Amazon Elastic Container Service (Amazon ECS)",
+      "url": "https://www.blognone.com/node/149007",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2025/2025-11/ecs-express-05.webp",
+      "publishedAt": "2025-11-24T02:44:40.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149006 at https://www.blognone.com",
+      "title": "Ubisoft เปิดตัวเกมต้นแบบ Teammates มีเพื่อนร่วมทีม NPC สร้างด้วย AI สั่งด้วยเสียงได้",
+      "description": "Ubisoft เปิดตัวเกมต้นแบบ Teammates มีเพื่อนร่วมทีม NPC สร้างด้วย AI สั่งด้วยเสียงได้ Body เมื่อปี 2024 Ubisoft เปิดตัวโครงการต้นแบบชื่อ Neo NPC ใช้",
+      "url": "https://www.blognone.com/node/149006",
+      "publishedAt": "2025-11-24T02:19:09.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149005 at https://www.blognone.com",
+      "title": "กูเกิลเปิดตัวเคเบิลใต้น้ำ TalayLink เชื่อมภาคใต้ของไทย กับภาคตะวันตกของออสเตรเลีย",
+      "description": "กูเกิลเปิดตัวเคเบิลใต้น้ำ TalayLink เชื่อมภาคใต้ของไทย กับภาคตะวันตกของออสเตรเลีย Body กูเกิลประกาศโครงการเคเบิลใต้ทะเล TalayLink",
+      "url": "https://www.blognone.com/node/149005",
+      "publishedAt": "2025-11-24T02:04:14.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149004 at https://www.blognone.com",
+      "title": "Mark Gurman บอก Tim Cook ไม่น่าลงจากซีอีโอ Apple ในต้นปีหน้า ตามข่าวลือก่อนหน้านี้",
+      "description": "Mark Gurman บอก Tim Cook ไม่น่าลงจากซีอีโอ Apple ในต้นปีหน้า ตามข่าวลือก่อนหน้านี้ Body นอกจากเรื่อง iOS 27 แล้ว จดหมายข่าว Power On ของ Mark Gurman",
+      "url": "https://www.blognone.com/node/149004",
+      "publishedAt": "2025-11-24T01:01:31.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149002 at https://www.blognone.com",
+      "title": "X ออกฟีเจอร์ About This Account แสดงข้อมูลเพิ่มความโปร่งใสของบัญชี เช่น ประเทศที่ใช้งานเป็นหลัก, วันที่สมัครใช้งาน",
+      "description": "X ออกฟีเจอร์ About This Account แสดงข้อมูลเพิ่มความโปร่งใสของบัญชี เช่น ประเทศที่ใช้งานเป็นหลัก, วันที่สมัครใช้งาน Body X",
+      "url": "https://www.blognone.com/node/149002",
+      "publishedAt": "2025-11-24T00:32:20.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149003 at https://www.blognone.com",
+      "title": "[ลือ] iOS 27 ปีหน้า จะไม่ออกฟีเจอร์ใหม่ เน้นปรับปรุงคุณภาพและประสิทธิภาพการใช้งานเป็นหลัก",
+      "description": "[ลือ] iOS 27 ปีหน้า จะไม่ออกฟีเจอร์ใหม่ เน้นปรับปรุงคุณภาพและประสิทธิภาพการใช้งานเป็นหลัก Body จดหมายข่าวเกี่ยวกับแอปเปิลประจำสัปดาห์ Power On โดย",
+      "url": "https://www.blognone.com/node/149003",
+      "publishedAt": "2025-11-24T00:31:13.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}
