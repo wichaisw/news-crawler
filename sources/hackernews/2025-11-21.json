@@ -3,6 +3,28 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "c10j9c",
+      "title": "Using Antigravity for Statistical Physics in JavaScript",
+      "description": "Score: 11 | Comments: 8 | Posted by ckrapu",
+      "url": "https://christopherkrapu.com/blog/2025/antigravity-stat-mech/",
+      "publishedAt": "2025-11-21T23:53:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ckrapu",
+      "tags": []
+    },
+    {
+      "id": "jqupns",
+      "title": "How sea turtles learn locations using Earth’s magnetic field: research",
+      "description": "Score: 24 | Comments: 4 | Posted by hhs",
+      "url": "https://uncnews.unc.edu/2025/02/13/sea-turtles-secret-gps-researchers-uncover-how-sea-turtles-learn-locations-using-earths-magnetic-field/",
+      "publishedAt": "2025-11-21T23:43:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hhs",
+      "tags": []
+    },
+    {
       "id": "dw4lxx",
       "title": "How I learned Vulkan and wrote a small game engine with it (2024)",
       "description": "Score: 55 | Comments: 26 | Posted by jakogut",
@@ -168,6 +190,17 @@
       "tags": []
     },
     {
+      "id": "outyh",
+      "title": "Building the largest known Kubernetes cluster",
+      "description": "Score: 121 | Comments: 69 | Posted by TangerineDream",
+      "url": "https://cloud.google.com/blog/products/containers-kubernetes/how-we-built-a-130000-node-gke-cluster/",
+      "publishedAt": "2025-11-21T17:56:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "TangerineDream",
+      "tags": []
+    },
+    {
       "id": "mhmo5a",
       "title": "McDonald's is losing its low-income customers",
       "description": "Score: 63 | Comments: 161 | Posted by PaulHoule",
@@ -212,6 +245,17 @@
       "tags": []
     },
     {
+      "id": "j1g340",
+      "title": "Show HN: OCR Arena – A playground for OCR models",
+      "description": "Score: 115 | Comments: 40 | Posted by kbyatnal",
+      "url": "https://www.ocrarena.ai/battle",
+      "publishedAt": "2025-11-21T16:44:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kbyatnal",
+      "tags": []
+    },
+    {
       "id": "m1qsrh",
       "title": "You can make PS2 games in JavaScript",
       "description": "Score: 251 | Comments: 59 | Posted by tosh",
@@ -242,6 +286,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "nowflux",
+      "tags": []
+    },
+    {
+      "id": "iv8u9r",
+      "title": "How did the Windows 95 user interface code get to the Windows NT code base?",
+      "description": "Score: 37 | Comments: 11 | Posted by ayi",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20251028-00/?p=111733",
+      "publishedAt": "2025-11-21T16:23:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ayi",
       "tags": []
     },
     {
@@ -308,6 +363,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ibobev",
+      "tags": []
+    },
+    {
+      "id": "mj2qkt",
+      "title": "Show HN: Datamorph – A clean JSON ⇄ CSV converter with auto-detect",
+      "description": "Score: 3 | Comments: 0 | Posted by sumit_entr42",
+      "url": "https://datamorphio.vercel.app",
+      "publishedAt": "2025-11-21T06:57:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sumit_entr42",
       "tags": []
     },
     {

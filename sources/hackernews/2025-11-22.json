@@ -179,6 +179,50 @@
       "tags": []
     },
     {
+      "id": "al3bjr",
+      "title": "Advice for crime analyst to break into data science",
+      "description": "Score: 3 | Comments: 0 | Posted by speckx",
+      "url": "https://andrewpwheeler.com/2025/11/21/advice-for-crime-analyst-to-break-into-data-science/",
+      "publishedAt": "2025-11-22T16:53:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
+      "tags": []
+    },
+    {
+      "id": "rt2t0l",
+      "title": "Migrating to Bazel symbolic macros",
+      "description": "Score: 6 | Comments: 0 | Posted by todsacerdoti",
+      "url": "https://www.tweag.io/blog/2025-11-20-migrating-bazel-symbolic-macros/",
+      "publishedAt": "2025-11-22T15:26:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "y630h9",
+      "title": "A million ways to die from a data race in Go",
+      "description": "Score: 21 | Comments: 3 | Posted by ingve",
+      "url": "https://gaultier.github.io/blog/a_million_ways_to_data_race_in_go.html",
+      "publishedAt": "2025-11-22T14:33:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingve",
+      "tags": []
+    },
+    {
+      "id": "7njvxy",
+      "title": "You can see a working Quantum Computer in IBM's London office",
+      "description": "Score: 50 | Comments: 18 | Posted by thinkingemote",
+      "url": "https://www.ianvisits.co.uk/articles/you-can-see-a-working-quantum-computer-in-ibms-london-office-85464/",
+      "publishedAt": "2025-11-22T13:36:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thinkingemote",
+      "tags": []
+    },
+    {
       "id": "6ypfix",
       "title": "Agent design is still hard",
       "description": "Score: 369 | Comments: 212 | Posted by the_mitsuhiko",
@@ -187,6 +231,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "the_mitsuhiko",
+      "tags": []
+    },
+    {
+      "id": "529mvn",
+      "title": "The history of Indian science fiction",
+      "description": "Score: 139 | Comments: 13 | Posted by adityaathalye",
+      "url": "https://altermag.com/articles/the-secret-history-of-indian-science-fiction",
+      "publishedAt": "2025-11-22T09:41:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "adityaathalye",
+      "tags": []
+    },
+    {
+      "id": "yd38j4",
+      "title": "Serflings is a remake of The Settlers 1",
+      "description": "Score: 155 | Comments: 45 | Posted by doener",
+      "url": "https://www.simpleguide.net/serflings.xhtml",
+      "publishedAt": "2025-11-22T08:26:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "doener",
       "tags": []
     },
     {
