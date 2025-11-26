@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "tyecqy",
+      "title": "1,700-year-old Roman sarcophagus is unearthed in Budapest",
+      "description": "Score: 40 | Comments: 19 | Posted by gmays",
+      "url": "https://apnews.com/article/hungary-roman-sarcophagus-discovery-budapest-77a41fe190bbcc167b43d05141536f54",
+      "publishedAt": "2025-11-24T22:17:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gmays",
+      "tags": []
+    },
+    {
       "id": "idtybr",
       "title": "AI has a deep understanding of how this code works",
       "description": "Score: 53 | Comments: 12 | Posted by theresistor",
@@ -11,6 +22,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "theresistor",
+      "tags": []
+    },
+    {
+      "id": "q18n6s",
+      "title": "PRC elites voice AI-skepticism",
+      "description": "Score: 144 | Comments: 83 | Posted by JumpCrisscross",
+      "url": "https://jamestown.org/prc-elites-voice-ai-skepticism/",
+      "publishedAt": "2025-11-24T19:50:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "JumpCrisscross",
       "tags": []
     },
     {

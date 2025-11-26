@@ -1,0 +1,105 @@
+{
+  "date": "2025-11-26",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "2rwahg",
+      "title": "OpenAI needs to raise $207B by 2030 so it can continue to lose money",
+      "description": "Score: 14 | Comments: 5 | Posted by cebert",
+      "url": "https://www.ft.com/content/23e54a28-6f63-4533-ab96-3756d9c88bad",
+      "publishedAt": "2025-11-26T04:06:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cebert",
+      "tags": []
+    },
+    {
+      "id": "euc0gn",
+      "title": "The myth of reflected power (2017)",
+      "description": "Score: 20 | Comments: 4 | Posted by pera",
+      "url": "https://www.iz2uuf.net/wp/index.php/2017/07/29/the-myth-of-reflected-power/",
+      "publishedAt": "2025-11-26T03:05:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pera",
+      "tags": []
+    },
+    {
+      "id": "b4szli",
+      "title": "Space Truckin' – The Nostromo (2012)",
+      "description": "Score: 50 | Comments: 12 | Posted by exvi",
+      "url": "https://alienseries.wordpress.com/2012/10/23/space-truckin-the-nostromo/",
+      "publishedAt": "2025-11-26T02:31:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "exvi",
+      "tags": []
+    },
+    {
+      "id": "b38vtg",
+      "title": "Show HN: A WordPress plugin that rewrites image URLs for near-zero-cost delivery",
+      "description": "Score: 43 | Comments: 25 | Posted by cr1st1an",
+      "url": "https://wordpress.org/plugins/bandwidth-saver/",
+      "publishedAt": "2025-11-26T02:05:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cr1st1an",
+      "tags": []
+    },
+    {
+      "id": "1t97bb",
+      "title": "BebboSSH: SSH2 implementation for Amiga systems (68000, GPLv3)",
+      "description": "Score: 18 | Comments: 2 | Posted by snvzz",
+      "url": "https://franke.ms/git/bebbo/bebbossh",
+      "publishedAt": "2025-11-26T01:51:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "snvzz",
+      "tags": []
+    },
+    {
+      "id": "g15p99",
+      "title": "Design Follows Data Structures",
+      "description": "Score: 9 | Comments: 0 | Posted by plutonium3345",
+      "url": "https://www.tedinski.com/2019/01/29/data-structures-are-fundamental.html",
+      "publishedAt": "2025-11-26T01:47:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "plutonium3345",
+      "tags": []
+    },
+    {
+      "id": "9lyfj0",
+      "title": "Space: 1999 – Special Effects Techniques",
+      "description": "Score: 25 | Comments: 4 | Posted by exvi",
+      "url": "https://catacombs.space1999.net/main/pguide/upsfx.html",
+      "publishedAt": "2025-11-26T01:19:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "exvi",
+      "tags": []
+    },
+    {
+      "id": "qssyp9",
+      "title": "Meta Execs Privately Compared Instagram to Addictive Drug, Court Filing Shows",
+      "description": "Score: 30 | Comments: 6 | Posted by fortran77",
+      "url": "https://www.nationalreview.com/news/meta-researchers-privately-compared-instagram-to-addictive-drug-bombshell-court-filing-shows/",
+      "publishedAt": "2025-11-26T00:39:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fortran77",
+      "tags": []
+    },
+    {
+      "id": "g0lq94",
+      "title": "CS234: Reinforcement Learning Winter 2025",
+      "description": "Score: 58 | Comments: 7 | Posted by jonbaer",
+      "url": "https://web.stanford.edu/class/cs234/",
+      "publishedAt": "2025-11-26T00:33:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jonbaer",
+      "tags": []
+    }
+  ]
+}

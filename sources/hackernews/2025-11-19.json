@@ -234,6 +234,17 @@
       "tags": []
     },
     {
+      "id": "xtf37j",
+      "title": "Broccoli Man, Remastered",
+      "description": "Score: 157 | Comments: 86 | Posted by mbleigh",
+      "url": "https://mbleigh.dev/posts/broccoli-man-remastered/",
+      "publishedAt": "2025-11-19T18:16:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mbleigh",
+      "tags": []
+    },
+    {
       "id": "rqvy6d",
       "title": "Building more with GPT-5.1-Codex-Max",
       "description": "Score: 380 | Comments: 216 | Posted by hansonw",
@@ -297,6 +308,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "matt_d",
+      "tags": []
+    },
+    {
+      "id": "ub8o4r",
+      "title": "Hollywood's vision of ancient Rome is all wrong, according to Mary Beard",
+      "description": "Score: 81 | Comments: 75 | Posted by bookofjoe",
+      "url": "https://www.openculture.com/2025/11/why-your-vision-of-ancient-rome-is-all-wrong-according-to-historian-mary-beard.html",
+      "publishedAt": "2025-11-19T15:59:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bookofjoe",
       "tags": []
     },
     {
@@ -385,6 +407,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "surprisetalk",
+      "tags": []
+    },
+    {
+      "id": "2j6foi",
+      "title": "LPLB: An early research stage MoE load balancer based on linear programming",
+      "description": "Score: 35 | Comments: 0 | Posted by simonpure",
+      "url": "https://github.com/deepseek-ai/LPLB",
+      "publishedAt": "2025-11-19T13:14:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "simonpure",
       "tags": []
     },
     {

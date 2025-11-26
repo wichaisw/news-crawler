@@ -1,0 +1,303 @@
+{
+  "date": "2025-11-25",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "j4ne69",
+      "title": "The Generative Burrito Test",
+      "description": "Score: 100 | Comments: 51 | Posted by pathdependent",
+      "url": "https://www.generativist.com/notes/2025/Nov/25/generative-burrito-test.html",
+      "publishedAt": "2025-11-25T23:28:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pathdependent",
+      "tags": []
+    },
+    {
+      "id": "8c3tw4",
+      "title": "Show HN: KiDoom – Running DOOM on PCB Tracesmikeayles.com",
+      "description": "Score: 151 | Comments: 18 | Posted by mikeayles",
+      "url": "https://www.mikeayles.com/#kidoom",
+      "publishedAt": "2025-11-25T23:09:58.952Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mikeayles",
+      "tags": []
+    },
+    {
+      "id": "2thuhv",
+      "title": "Notes on the Troubleshooting and Repair of Computer and Video Monitors",
+      "description": "Score: 30 | Comments: 8 | Posted by WorldPeas",
+      "url": "https://www.repairfaq.org/sam/monfaq.htm",
+      "publishedAt": "2025-11-25T22:40:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "WorldPeas",
+      "tags": []
+    },
+    {
+      "id": "kz43h3",
+      "title": "Reinventing how .NET builds and ships (again)",
+      "description": "Score: 142 | Comments: 53 | Posted by IcyWindows",
+      "url": "https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/",
+      "publishedAt": "2025-11-25T22:37:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "IcyWindows",
+      "tags": []
+    },
+    {
+      "id": "8c3tw4",
+      "title": "Show HN: KiDoom – Running DOOM on PCB Traces",
+      "description": "Score: 151 | Comments: 18 | Posted by mikeayles",
+      "url": "https://www.mikeayles.com/#kidoom",
+      "publishedAt": "2025-11-25T22:13:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mikeayles",
+      "tags": []
+    },
+    {
+      "id": "kp4txv",
+      "title": "What they don't tell you about maintaining an open source project",
+      "description": "Score: 127 | Comments: 96 | Posted by andrejsshell",
+      "url": "https://andrej.sh/blog/maintaining-open-source-project/",
+      "publishedAt": "2025-11-25T22:08:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andrejsshell",
+      "tags": []
+    },
+    {
+      "id": "1qetji",
+      "title": "Ironwood, our latest TPU",
+      "description": "Score: 58 | Comments: 13 | Posted by zdw",
+      "url": "https://blog.google/products/google-cloud/ironwood-google-tpu-things-to-know/",
+      "publishedAt": "2025-11-25T22:04:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "bigwj5",
+      "title": "Someone at YouTube Needs Glasses: The Prophecy Has Been Fulfilled",
+      "description": "Score: 465 | Comments: 344 | Posted by jaydenmilne",
+      "url": "https://jayd.ml/2025/11/10/someone-at-youtube-needs-glasses-prophecy-fulfilled.html",
+      "publishedAt": "2025-11-25T22:04:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jaydenmilne",
+      "tags": []
+    },
+    {
+      "id": "ao2rmt",
+      "title": "Google steers Americans looking for health care into \"junk insurance\"",
+      "description": "Score: 113 | Comments: 40 | Posted by hn_acker",
+      "url": "https://pluralistic.net/2025/11/25/open-season/",
+      "publishedAt": "2025-11-25T21:45:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hn_acker",
+      "tags": []
+    },
+    {
+      "id": "a4gh5p",
+      "title": "A new bridge links the math of infinity to computer science",
+      "description": "Score: 156 | Comments: 52 | Posted by digital55",
+      "url": "https://www.quantamagazine.org/a-new-bridge-links-the-strange-math-of-infinity-to-computer-science-20251121/",
+      "publishedAt": "2025-11-25T19:53:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "digital55",
+      "tags": []
+    },
+    {
+      "id": "cza3j3",
+      "title": "The Bughouse Effect",
+      "description": "Score: 22 | Comments: 5 | Posted by surprisetalk",
+      "url": "https://tsvibt.blogspot.com/2025/11/the-bughouse-effect.html",
+      "publishedAt": "2025-11-25T19:43:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
+      "id": "1lkgw0",
+      "title": "Unison 1.0",
+      "description": "Score: 231 | Comments: 76 | Posted by pchiusano",
+      "url": "https://www.unison-lang.org/unison-1-0/",
+      "publishedAt": "2025-11-25T19:33:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pchiusano",
+      "tags": []
+    },
+    {
+      "id": "vcgl3v",
+      "title": "Bad UX World Cup 2025",
+      "description": "Score: 135 | Comments: 40 | Posted by CharlesW",
+      "url": "https://badux.lol/",
+      "publishedAt": "2025-11-25T18:36:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "CharlesW",
+      "tags": []
+    },
+    {
+      "id": "49um1y",
+      "title": "Google Antigravity exfiltrates data via indirect prompt injection attack",
+      "description": "Score: 614 | Comments: 169 | Posted by jjmaxwell4",
+      "url": "https://www.promptarmor.com/resources/google-antigravity-exfiltrates-data",
+      "publishedAt": "2025-11-25T18:31:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jjmaxwell4",
+      "tags": []
+    },
+    {
+      "id": "a6hdi3",
+      "title": "Show HN: We built an open source, zero webhooks payment processor",
+      "description": "Score: 269 | Comments: 157 | Posted by agreeahmed",
+      "url": "https://github.com/flowglad/flowglad",
+      "publishedAt": "2025-11-25T17:33:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "agreeahmed",
+      "tags": []
+    },
+    {
+      "id": "iywgcz",
+      "title": "Ilya Sutskever: We're moving from the age of scaling to the age of research",
+      "description": "Score: 253 | Comments: 202 | Posted by piotrgrabowski",
+      "url": "https://www.dwarkesh.com/p/ilya-sutskever-2",
+      "publishedAt": "2025-11-25T17:21:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "piotrgrabowski",
+      "tags": []
+    },
+    {
+      "id": "r6ivlz",
+      "title": "Unifying our mobile and desktop domains",
+      "description": "Score: 124 | Comments: 36 | Posted by todsacerdoti",
+      "url": "https://techblog.wikimedia.org/2025/11/21/unifying-mobile-and-desktop-domains/",
+      "publishedAt": "2025-11-25T17:07:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "bo7rd1",
+      "title": "Python is not a great language for data science",
+      "description": "Score: 179 | Comments: 181 | Posted by speckx",
+      "url": "https://blog.genesmindsmachines.com/p/python-is-not-a-great-language-for",
+      "publishedAt": "2025-11-25T16:38:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
+      "tags": []
+    },
+    {
+      "id": "eq9978",
+      "title": "Ozempic does not slow Alzheimer's, study finds",
+      "description": "Score: 134 | Comments: 79 | Posted by danso",
+      "url": "https://www.semafor.com/article/11/25/2025/ozempic-does-not-slow-alzheimers-study-finds",
+      "publishedAt": "2025-11-25T16:34:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "danso",
+      "tags": []
+    },
+    {
+      "id": "wx46oy",
+      "title": "Orion 1.0",
+      "description": "Score: 386 | Comments: 228 | Posted by STRiDEX",
+      "url": "https://blog.kagi.com/orion",
+      "publishedAt": "2025-11-25T16:21:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "STRiDEX",
+      "tags": []
+    },
+    {
+      "id": "wj9rb2",
+      "title": "New layouts with CSS Subgrid",
+      "description": "Score: 130 | Comments: 28 | Posted by joshwcomeau",
+      "url": "https://www.joshwcomeau.com/css/subgrid/",
+      "publishedAt": "2025-11-25T15:57:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "joshwcomeau",
+      "tags": []
+    },
+    {
+      "id": "414anr",
+      "title": "FLUX.2: Frontier Visual Intelligence",
+      "description": "Score: 272 | Comments: 80 | Posted by meetpateltech",
+      "url": "https://bfl.ai/blog/flux-2",
+      "publishedAt": "2025-11-25T15:47:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "meetpateltech",
+      "tags": []
+    },
+    {
+      "id": "d1nu7r",
+      "title": "Constant-time support coming to LLVM: Protecting cryptographic code",
+      "description": "Score: 60 | Comments: 23 | Posted by ahlCVA",
+      "url": "https://blog.trailofbits.com/2025/11/25/constant-time-support-coming-to-llvm-protecting-cryptographic-code-at-the-compiler-level/",
+      "publishedAt": "2025-11-25T13:02:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ahlCVA",
+      "tags": []
+    },
+    {
+      "id": "pp47ag",
+      "title": "Trillions spent and big software projects are still failing",
+      "description": "Score: 377 | Comments: 330 | Posted by pseudolus",
+      "url": "https://spectrum.ieee.org/it-management-software-failures",
+      "publishedAt": "2025-11-25T12:14:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pseudolus",
+      "tags": []
+    },
+    {
+      "id": "ojpcj3",
+      "title": "Making Crash Bandicoot (2011)",
+      "description": "Score: 212 | Comments: 36 | Posted by davikr",
+      "url": "https://all-things-andy-gavin.com/video-games/making-crash/",
+      "publishedAt": "2025-11-25T12:05:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "davikr",
+      "tags": []
+    },
+    {
+      "id": "xejhbk",
+      "title": "Human brains are preconfigured with instructions for understanding the world",
+      "description": "Score: 426 | Comments: 286 | Posted by XzetaU8",
+      "url": "https://news.ucsc.edu/2025/11/sharf-preconfigured-brain/",
+      "publishedAt": "2025-11-25T06:31:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "XzetaU8",
+      "tags": []
+    },
+    {
+      "id": "jy95e1",
+      "title": "Jakarta is now the biggest city in the world",
+      "description": "Score: 290 | Comments: 207 | Posted by skx001",
+      "url": "https://www.axios.com/2025/11/24/jakarta-tokyo-worlds-biggest-city-population",
+      "publishedAt": "2025-11-25T06:09:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "skx001",
+      "tags": []
+    }
+  ]
+}
