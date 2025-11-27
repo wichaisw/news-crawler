@@ -69,6 +69,17 @@
       "tags": []
     },
     {
+      "id": "xxb5c5",
+      "title": "Show HN: Safe-NPM – only install packages that are +90 days old",
+      "description": "Score: 68 | Comments: 37 | Posted by kevinslin",
+      "url": "https://github.com/kevinslin/safe-npm",
+      "publishedAt": "2025-11-23T22:14:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kevinslin",
+      "tags": []
+    },
+    {
       "id": "dte0g3",
       "title": "Iowa City made its buses free. Traffic cleared, and so did the air",
       "description": "Score: 305 | Comments: 347 | Posted by bookofjoe",
@@ -99,6 +110,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "byko3y",
+      "tags": []
+    },
+    {
+      "id": "4e9bcl",
+      "title": "Making my 1970's-style renderer multi-threaded",
+      "description": "Score: 12 | Comments: 3 | Posted by Apocryphon",
+      "url": "https://filiph.net/text/making-my-1970s-renderer-multi-threaded.html",
+      "publishedAt": "2025-11-23T21:09:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Apocryphon",
       "tags": []
     },
     {
@@ -176,6 +198,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "arianvanp",
+      "tags": []
+    },
+    {
+      "id": "29qnay",
+      "title": "JOPA: Java compiler in C++, Jikes modernized to Java 6 with Claude",
+      "description": "Score: 60 | Comments: 46 | Posted by pshirshov",
+      "url": "https://github.com/7mind/jopa",
+      "publishedAt": "2025-11-23T17:17:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pshirshov",
       "tags": []
     },
     {
@@ -289,6 +322,17 @@
       "tags": []
     },
     {
+      "id": "49ozl",
+      "title": "A lightweight code editor with Vim mode, Git integration, and more",
+      "description": "Score: 8 | Comments: 11 | Posted by geordee",
+      "url": "https://athas.dev",
+      "publishedAt": "2025-11-23T06:49:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "geordee",
+      "tags": []
+    },
+    {
       "id": "oohmi8",
       "title": "Unusual circuits in the Intel 386's standard cell logicrighto.com",
       "description": "Score: 47 | Comments: 9 | Posted by Stratoscope",
@@ -341,6 +385,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mercury24aug",
+      "tags": []
+    },
+    {
+      "id": "1f0fg3",
+      "title": "A Fast 64-Bit Date Algorithm (30–40% faster by counting dates backwards)",
+      "description": "Score: 298 | Comments: 62 | Posted by benjoffe",
+      "url": "https://www.benjoffe.com/fast-date-64",
+      "publishedAt": "2025-11-23T02:27:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "benjoffe",
       "tags": []
     },
     {

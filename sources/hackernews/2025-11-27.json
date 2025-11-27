@@ -1,0 +1,127 @@
+{
+  "date": "2025-11-27",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "gpnjli",
+      "title": "Coq: The World's Best Macro Assembler? [pdf] [2013]",
+      "description": "Score: 27 | Comments: 14 | Posted by addaon",
+      "url": "https://nickbenton.name/coqasm.pdf",
+      "publishedAt": "2025-11-27T04:34:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "addaon",
+      "tags": []
+    },
+    {
+      "id": "qgezi0",
+      "title": "DIY NAS: 2026 Editionbriancmoses.com",
+      "description": "Score: 86 | Comments: 32 | Posted by sashk",
+      "url": "https://blog.briancmoses.com/2025/11/diy-nas-2026-edition.html",
+      "publishedAt": "2025-11-27T03:10:00.786Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sashk",
+      "tags": []
+    },
+    {
+      "id": "qgezi0",
+      "title": "DIY NAS: 2026 Edition",
+      "description": "Score: 86 | Comments: 32 | Posted by sashk",
+      "url": "https://blog.briancmoses.com/2025/11/diy-nas-2026-edition.html",
+      "publishedAt": "2025-11-27T02:54:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sashk",
+      "tags": []
+    },
+    {
+      "id": "uh57h7",
+      "title": "Penpot: The Open-Source Figma",
+      "description": "Score: 110 | Comments: 13 | Posted by selvan",
+      "url": "https://github.com/penpot/penpot",
+      "publishedAt": "2025-11-27T02:14:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "selvan",
+      "tags": []
+    },
+    {
+      "id": "348so2",
+      "title": "Migrating the main Zig repository from GitHub to Codebergziglang.org",
+      "description": "Score: 361 | Comments: 240 | Posted by todsacerdoti",
+      "url": "https://ziglang.org/news/migrating-from-github-to-codeberg/",
+      "publishedAt": "2025-11-27T02:10:00.786Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "fo9z1h",
+      "title": "Functional Data Structures and Algorithms: a Proof Assistant Approach",
+      "description": "Score: 21 | Comments: 1 | Posted by SchwKatze",
+      "url": "https://fdsa-book.net/",
+      "publishedAt": "2025-11-27T02:04:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "SchwKatze",
+      "tags": []
+    },
+    {
+      "id": "348so2",
+      "title": "Migrating the main Zig repository from GitHub to Codeberg",
+      "description": "Score: 362 | Comments: 240 | Posted by todsacerdoti",
+      "url": "https://ziglang.org/news/migrating-from-github-to-codeberg/",
+      "publishedAt": "2025-11-27T01:49:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "oynegz",
+      "title": "Bonsai_term: A library for building dynamic terminal apps by Jane Street",
+      "description": "Score: 17 | Comments: 4 | Posted by azhenley",
+      "url": "https://github.com/janestreet/bonsai_term",
+      "publishedAt": "2025-11-27T01:20:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "azhenley",
+      "tags": []
+    },
+    {
+      "id": "h563jr",
+      "title": "Collabora Online Desktop Released with Improved UI from LibreOffice",
+      "description": "Score: 8 | Comments: 0 | Posted by nogajun",
+      "url": "https://www.collaboraonline.com/blog/collabora-online-now-available-on-desktop/",
+      "publishedAt": "2025-11-27T00:59:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nogajun",
+      "tags": []
+    },
+    {
+      "id": "4ndx4d",
+      "title": "DSP 101 Part 1: An Introductory Course in DSP System Design",
+      "description": "Score: 27 | Comments: 0 | Posted by teleforce",
+      "url": "https://www.analog.com/en/resources/analog-dialogue/articles/dsp-101-part-1.html",
+      "publishedAt": "2025-11-27T00:42:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "teleforce",
+      "tags": []
+    },
+    {
+      "id": "xv1551",
+      "title": "AdBlock and Signal are for terrorists, according to French govt (2023) [video]",
+      "description": "Score: 80 | Comments: 22 | Posted by pabs3",
+      "url": "https://www.youtube.com/watch?v=1q1hjmwLqe4",
+      "publishedAt": "2025-11-27T00:20:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pabs3",
+      "tags": []
+    }
+  ]
+}
