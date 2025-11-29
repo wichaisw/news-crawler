@@ -25,6 +25,17 @@
       "tags": []
     },
     {
+      "id": "3fixqn",
+      "title": "Atuin’s New Runbook Execution Engine",
+      "description": "Score: 121 | Comments: 26 | Posted by emschwartz",
+      "url": "https://blog.atuin.sh/introducing-the-new-runbook-execution-engine/",
+      "publishedAt": "2025-11-24T21:06:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "emschwartz",
+      "tags": []
+    },
+    {
       "id": "idtybr",
       "title": "AI has a deep understanding of how this code works",
       "description": "Score: 53 | Comments: 12 | Posted by theresistor",
@@ -245,6 +256,17 @@
       "tags": []
     },
     {
+      "id": "ev0a5z",
+      "title": "Show HN: Mu – The Micro Network",
+      "description": "Score: 14 | Comments: 0 | Posted by asim",
+      "url": "https://github.com/asim/mu",
+      "publishedAt": "2025-11-24T14:06:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "asim",
+      "tags": []
+    },
+    {
       "id": "cc4did",
       "title": "Show HN: Yolodex – real-time customer enrichment API",
       "description": "Score: 29 | Comments: 11 | Posted by hazzadous",
@@ -278,6 +300,17 @@
       "tags": []
     },
     {
+      "id": "8gcrk6",
+      "title": "Open (Apache 2.0) TTS model for streaming conversational audio in realtime",
+      "description": "Score: 70 | Comments: 5 | Posted by SweetSoftPillow",
+      "url": "https://github.com/nari-labs/dia2",
+      "publishedAt": "2025-11-24T12:28:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "SweetSoftPillow",
+      "tags": []
+    },
+    {
       "id": "qh68qg",
       "title": "Chrome Jpegxl Issue Reopened",
       "description": "Score: 226 | Comments: 85 | Posted by markdog12",
@@ -297,6 +330,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mrdosija",
+      "tags": []
+    },
+    {
+      "id": "axkug3",
+      "title": "AltSendme: Another Alternative to MAgic Wormhole?",
+      "description": "Score: 13 | Comments: 4 | Posted by nhatcher",
+      "url": "https://github.com/tonyantony300/alt-sendme",
+      "publishedAt": "2025-11-24T10:16:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nhatcher",
       "tags": []
     },
     {

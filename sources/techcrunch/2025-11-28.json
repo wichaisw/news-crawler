@@ -3,6 +3,61 @@
   "source": "techcrunch",
   "articles": [
     {
+      "id": "https://techcrunch.com/?post_type=tc_video&p=3071160",
+      "title": "Supabase hit $5B by turning down million-dollar contracts. Here’s why.",
+      "description": "Vibe coding has taken the tech industry by storm, and&#160;it's&#160;not just the&#160;Lovables&#160;and&#160;Replits&#160;of the world",
+      "url": "https://techcrunch.com/video/supabase-hit-5b-by-turning-down-million-dollar-contracts-heres-why/",
+      "publishedAt": "2025-11-28T23:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Theresa Loconsolo",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3071155",
+      "title": "SoftBank stays in as Meesho $606M IPO becomes India’s first major e-commerce listing",
+      "description": "Meesho heads for India's first big e-commerce IPO next week.",
+      "url": "https://techcrunch.com/2025/11/28/softbank-stays-in-as-meesho-606m-ipo-becomes-indias-first-major-e-commerce-listing/",
+      "publishedAt": "2025-11-28T16:09:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Jagmeet Singh",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3070550",
+      "title": "How OpenAI and Google see AI changing go-to-market strategies",
+      "description": "AI is changing how investors and startups bring their products to market. Three experts offered their insights at TechCrunch Disrupt.",
+      "url": "https://techcrunch.com/2025/11/28/how-openai-and-google-see-ai-changing-go-to-market-strategies/",
+      "publishedAt": "2025-11-28T16:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Tim De Chant",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3071113",
+      "title": "The race to regulate AI has sparked a federal vs state showdown",
+      "description": "The fight over AI regulation isn't about the technology -- it's about whether Washington or the states get to set the rules, and what happens to",
+      "url": "https://techcrunch.com/2025/11/28/the-race-to-regulate-ai-has-sparked-a-federal-vs-state-showdown/",
+      "publishedAt": "2025-11-28T15:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Rebecca Bellan",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=2887797",
+      "title": "Best iPad apps to boost productivity and make your life easier",
+      "description": "There are many iPad apps to help you organize recipes; sync tasks across devices; be more productive; and manage your notes.",
+      "url": "https://techcrunch.com/2025/11/28/best-ipad-apps-to-boost-productivity-and-make-your-life-easier/",
+      "publishedAt": "2025-11-28T14:41:51.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Aisha Malik",
+      "tags": []
+    },
+    {
       "id": "https://techcrunch.com/?p=3071145",
       "title": "Anduril’s autonomous weapons stumble in tests and combat, WSJ reports",
       "description": "Defense tech startup Anduril Industries has faced numerous setbacks during testing of its autonomous weapons systems, according to new reporting by",

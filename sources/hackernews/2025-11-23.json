@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "rqkntj",
+      "title": "Generalizing Printf in C",
+      "description": "Score: 32 | Comments: 8 | Posted by oliverkwebb",
+      "url": "https://webb.is-a.dev/articles/generalizedprintf/",
+      "publishedAt": "2025-11-23T23:54:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "oliverkwebb",
+      "tags": []
+    },
+    {
       "id": "gy79nr",
       "title": "ISPs more likely to throttle netizens who connect through CG-NAT: Cloudflare",
       "description": "Score: 56 | Comments: 20 | Posted by throw0101a",

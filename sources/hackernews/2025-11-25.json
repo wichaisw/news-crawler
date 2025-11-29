@@ -256,6 +256,17 @@
       "tags": []
     },
     {
+      "id": "vsrz6u",
+      "title": "WinApps: Run Windows apps as if they were a part of the native Linux OS",
+      "description": "Score: 23 | Comments: 2 | Posted by klaussilveira",
+      "url": "https://github.com/winapps-org/winapps",
+      "publishedAt": "2025-11-25T12:34:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "klaussilveira",
+      "tags": []
+    },
+    {
       "id": "pp47ag",
       "title": "Trillions spent and big software projects are still failing",
       "description": "Score: 377 | Comments: 330 | Posted by pseudolus",
@@ -297,6 +308,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "skx001",
+      "tags": []
+    },
+    {
+      "id": "h41lhn",
+      "title": "How to get Pandoc to respect custom table styles in Word templates",
+      "description": "Score: 9 | Comments: 1 | Posted by johnathandos",
+      "url": "https://johnathandos.com/posts/2025-11-24-custom-tables-with-pandoc/",
+      "publishedAt": "2025-11-25T03:33:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "johnathandos",
       "tags": []
     }
   ]

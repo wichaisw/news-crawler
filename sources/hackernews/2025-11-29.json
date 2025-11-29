@@ -1,0 +1,61 @@
+{
+  "date": "2025-11-29",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "318ua9",
+      "title": "The 'S&P 493' reveals a different U.S. economy",
+      "description": "Score: 6 | Comments: 0 | Posted by MilnerRoute",
+      "url": "https://www.msn.com/en-us/money/markets/the-s-p-493-reveals-a-very-different-us-economy/ar-AA1R1VUJ",
+      "publishedAt": "2025-11-29T05:22:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "MilnerRoute",
+      "tags": []
+    },
+    {
+      "id": "q1irfp",
+      "title": "System 7 natively boots on the Mac mini G4",
+      "description": "Score: 96 | Comments: 14 | Posted by ibobev",
+      "url": "https://macos9lives.com/smforum/index.php?topic=7711.0",
+      "publishedAt": "2025-11-29T03:26:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
+      "tags": []
+    },
+    {
+      "id": "r8yvhv",
+      "title": "Neato vacuum robots to stop working",
+      "description": "Score: 14 | Comments: 5 | Posted by simonlondon",
+      "url": "https://support.neatorobotics.com/support/solutions/articles/204000073686-announcement-6th-oct-2025",
+      "publishedAt": "2025-11-29T03:21:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "simonlondon",
+      "tags": []
+    },
+    {
+      "id": "o4cj2k",
+      "title": "Every mathematician has only a few tricks (2020)",
+      "description": "Score: 42 | Comments: 7 | Posted by nill0",
+      "url": "https://mathoverflow.net/questions/363119/every-mathematician-has-only-a-few-tricks",
+      "publishedAt": "2025-11-29T01:37:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nill0",
+      "tags": []
+    },
+    {
+      "id": "kgsup4",
+      "title": "A triangle whose interior angles sum to zero",
+      "description": "Score: 81 | Comments: 34 | Posted by tzury",
+      "url": "https://www.johndcook.com/blog/2025/11/28/tricusp-triangle/",
+      "publishedAt": "2025-11-29T00:26:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tzury",
+      "tags": []
+    }
+  ]
+}
