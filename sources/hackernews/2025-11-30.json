@@ -1,0 +1,94 @@
+{
+  "date": "2025-11-30",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "cuudul",
+      "title": "Kopi Luwak",
+      "description": "Score: 4 | Comments: 0 | Posted by thunderbong",
+      "url": "https://en.wikipedia.org/wiki/Kopi_luwak",
+      "publishedAt": "2025-11-30T05:03:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thunderbong",
+      "tags": []
+    },
+    {
+      "id": "87s9p2",
+      "title": "Show HN: Boinggreg.technology",
+      "description": "Score: 102 | Comments: 16 | Posted by gregsadetsky",
+      "url": "https://boing.greg.technology/",
+      "publishedAt": "2025-11-30T04:09:31.238Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gregsadetsky",
+      "tags": []
+    },
+    {
+      "id": "w4x79q",
+      "title": "Zigbook Is Plagiarizing the Zigtools Playground",
+      "description": "Score: 51 | Comments: 6 | Posted by todsacerdoti",
+      "url": "https://zigtools.org/blog/zigbook-plagiarizing-playground/",
+      "publishedAt": "2025-11-30T03:54:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "87s9p2",
+      "title": "Show HN: Boing",
+      "description": "Score: 104 | Comments: 16 | Posted by gregsadetsky",
+      "url": "https://boing.greg.technology/",
+      "publishedAt": "2025-11-30T03:46:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gregsadetsky",
+      "tags": []
+    },
+    {
+      "id": "w8lshe",
+      "title": "Stopping bad guys from using my open source project (feedback wanted)",
+      "description": "Score: 58 | Comments: 93 | Posted by emschwartz",
+      "url": "https://evanhahn.com/stopping-bad-guys-from-using-my-open-source-project/",
+      "publishedAt": "2025-11-30T01:25:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "emschwartz",
+      "tags": []
+    },
+    {
+      "id": "70pw5",
+      "title": "Meshtastic",
+      "description": "Score: 83 | Comments: 18 | Posted by debo_",
+      "url": "https://meshtastic.org/",
+      "publishedAt": "2025-11-30T01:15:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "debo_",
+      "tags": []
+    },
+    {
+      "id": "qcou9k",
+      "title": "A new Little Prince museum has opened its doors in Switzerland",
+      "description": "Score: 36 | Comments: 10 | Posted by gnabgib",
+      "url": "https://www.lepetitprince.com/en/events-around-the-world/a-new-little-prince-museum-has-opened-its-doors-in-switzerland/",
+      "publishedAt": "2025-11-30T01:03:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gnabgib",
+      "tags": []
+    },
+    {
+      "id": "4oh5k8",
+      "title": "The engineer–manager pendulum is breaking",
+      "description": "Score: 12 | Comments: 2 | Posted by mooreds",
+      "url": "https://www.modernleader.is/p/pendulum-revisited",
+      "publishedAt": "2025-11-30T00:24:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mooreds",
+      "tags": []
+    }
+  ]
+}

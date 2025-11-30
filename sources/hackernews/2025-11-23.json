@@ -388,6 +388,17 @@
       "tags": []
     },
     {
+      "id": "j24br8",
+      "title": "Hardening the C++ Standard Library at scale",
+      "description": "Score: 135 | Comments: 60 | Posted by ndesaulniers",
+      "url": "https://queue.acm.org/detail.cfm?id=3773097",
+      "publishedAt": "2025-11-23T04:22:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ndesaulniers",
+      "tags": []
+    },
+    {
       "id": "oohmi8",
       "title": "Unusual circuits in the Intel 386's standard cell logicrighto.com",
       "description": "Score: 47 | Comments: 9 | Posted by Stratoscope",
