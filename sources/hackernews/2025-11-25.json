@@ -58,6 +58,17 @@
       "tags": []
     },
     {
+      "id": "hqus7o",
+      "title": "Paul Hegarty's updated CS193p SwiftUI course released by Stanford",
+      "description": "Score: 170 | Comments: 35 | Posted by yehiaabdelm",
+      "url": "https://cs193p.stanford.edu/",
+      "publishedAt": "2025-11-25T22:11:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "yehiaabdelm",
+      "tags": []
+    },
+    {
       "id": "kp4txv",
       "title": "What they don't tell you about maintaining an open source project",
       "description": "Score: 127 | Comments: 96 | Posted by andrejsshell",
@@ -110,6 +121,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "hn_acker",
+      "tags": []
+    },
+    {
+      "id": "iq059f",
+      "title": "NVMe driver for Windows 2000, targeting both x86 and Alpha AXP platforms",
+      "description": "Score: 15 | Comments: 0 | Posted by zdw",
+      "url": "https://github.com/techomancer/nvme2k",
+      "publishedAt": "2025-11-25T21:35:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
       "tags": []
     },
     {
@@ -366,6 +388,17 @@
       "tags": []
     },
     {
+      "id": "5h2jlg",
+      "title": "Stereo Images of Giant Galaxies",
+      "description": "Score: 29 | Comments: 11 | Posted by benbreen",
+      "url": "https://www.bbc.com/future/article/20251121-sir-brian-mays-stereo-vision-of-galaxies",
+      "publishedAt": "2025-11-25T03:42:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "benbreen",
+      "tags": []
+    },
+    {
       "id": "h41lhn",
       "title": "How to get Pandoc to respect custom table styles in Word templates",
       "description": "Score: 9 | Comments: 1 | Posted by johnathandos",
@@ -374,6 +407,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "johnathandos",
+      "tags": []
+    },
+    {
+      "id": "yu15uk",
+      "title": "Seeing a Molecule's Quantum Shadow",
+      "description": "Score: 13 | Comments: 1 | Posted by lc0_stein",
+      "url": "https://physics.aps.org/articles/v18/s149",
+      "publishedAt": "2025-11-25T01:04:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lc0_stein",
       "tags": []
     }
   ]

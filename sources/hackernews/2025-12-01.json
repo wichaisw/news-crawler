@@ -1,0 +1,138 @@
+{
+  "date": "2025-12-01",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "ebixsq",
+      "title": "It's Been a Hard Year",
+      "description": "Score: 10 | Comments: 0 | Posted by surprisetalk",
+      "url": "https://bell.bz/its-been-a-very-hard-year/",
+      "publishedAt": "2025-12-01T05:36:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
+      "id": "himkxo",
+      "title": "Google Antigravity Deletes D Drive",
+      "description": "Score: 21 | Comments: 10 | Posted by jay_kyburz",
+      "url": "https://mastodon.gamedev.place/@bastardsheep@aus.social/115641546248437052",
+      "publishedAt": "2025-12-01T05:29:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jay_kyburz",
+      "tags": []
+    },
+    {
+      "id": "w2j8gf",
+      "title": "SmartTube Compromised",
+      "description": "Score: 3 | Comments: 0 | Posted by akersten",
+      "url": "https://www.aftvnews.com/smarttubes-official-apk-was-compromised-with-malware-what-you-should-do-if-you-use-it/",
+      "publishedAt": "2025-12-01T05:01:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "akersten",
+      "tags": []
+    },
+    {
+      "id": "yrj0si",
+      "title": "'A full-blown crisis': Americans brace for a surge in healthcare costs",
+      "description": "Score: 77 | Comments: 101 | Posted by mmarian",
+      "url": "https://www.ft.com/content/beec76df-8e6d-4238-bae2-e51683b62aa4",
+      "publishedAt": "2025-12-01T04:52:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mmarian",
+      "tags": []
+    },
+    {
+      "id": "hc8jv1",
+      "title": "Google Antigravity just deleted the contents of whole drive",
+      "description": "Score: 14 | Comments: 4 | Posted by tamnd",
+      "url": "https://old.reddit.com/r/google_antigravity/comments/1p82or6/google_antigravity_just_deleted_the_contents_of/",
+      "publishedAt": "2025-12-01T04:39:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tamnd",
+      "tags": []
+    },
+    {
+      "id": "3qkca4",
+      "title": "Search tool that only returns content created before ChatGPT's public releasetegabrain.com",
+      "description": "Score: 87 | Comments: 35 | Posted by dmitrygr",
+      "url": "https://tegabrain.com/Slop-Evader",
+      "publishedAt": "2025-12-01T04:11:04.187Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dmitrygr",
+      "tags": []
+    },
+    {
+      "id": "3qkca4",
+      "title": "Search tool that only returns content created before ChatGPT's public release",
+      "description": "Score: 87 | Comments: 35 | Posted by dmitrygr",
+      "url": "https://tegabrain.com/Slop-Evader",
+      "publishedAt": "2025-12-01T04:06:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dmitrygr",
+      "tags": []
+    },
+    {
+      "id": "yipqwh",
+      "title": "X210Ai is a new motherboard to upgrade ThinkPad X201/200",
+      "description": "Score: 33 | Comments: 5 | Posted by walterbell",
+      "url": "https://www.tpart.net/about-x210ai/",
+      "publishedAt": "2025-12-01T03:12:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "walterbell",
+      "tags": []
+    },
+    {
+      "id": "a0xiuj",
+      "title": "Advent of Sysadmin 2025",
+      "description": "Score: 126 | Comments: 35 | Posted by lazyant",
+      "url": "https://sadservers.com/advent",
+      "publishedAt": "2025-12-01T01:17:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lazyant",
+      "tags": []
+    },
+    {
+      "id": "shkp4u",
+      "title": "Is America's jobs market nearing a cliff?",
+      "description": "Score: 130 | Comments: 223 | Posted by harambae",
+      "url": "https://www.economist.com/finance-and-economics/2025/11/30/is-americas-jobs-market-nearing-a-cliff",
+      "publishedAt": "2025-12-01T00:58:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "harambae",
+      "tags": []
+    },
+    {
+      "id": "6kk2ha",
+      "title": "Malware embedded into audio driver is silently recording from system mic",
+      "description": "Score: 47 | Comments: 15 | Posted by CGMthrowaway",
+      "url": "https://twitter.com/Officialwhyte22/status/1995024999934001602",
+      "publishedAt": "2025-12-01T00:53:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "CGMthrowaway",
+      "tags": []
+    },
+    {
+      "id": "heqc33",
+      "title": "Ly – A lightweight TUI (ncurses-like) display manager for Linux and BSD",
+      "description": "Score: 21 | Comments: 0 | Posted by modinfo",
+      "url": "https://codeberg.org/fairyglade/ly",
+      "publishedAt": "2025-12-01T00:28:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "modinfo",
+      "tags": []
+    }
+  ]
+}

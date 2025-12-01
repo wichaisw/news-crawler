@@ -47,6 +47,17 @@
       "tags": []
     },
     {
+      "id": "m81tvy",
+      "title": "Show HN: A \"Cram tests\" script for windows shells",
+      "description": "Score: 3 | Comments: 0 | Posted by NyuB",
+      "url": "https://github.com/NyuB/craw",
+      "publishedAt": "2025-11-26T21:04:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "NyuB",
+      "tags": []
+    },
+    {
       "id": "g5gusn",
       "title": "Inspired by Spider-Man, scientists recreate web-slinging technology",
       "description": "Score: 54 | Comments: 14 | Posted by ohjeez",
@@ -154,6 +165,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "b-man",
+      "tags": []
+    },
+    {
+      "id": "kvw30z",
+      "title": "Show HN: Fixing Google Nano Banana Pixel Art with Rust",
+      "description": "Score: 148 | Comments: 23 | Posted by HugoDz",
+      "url": "https://github.com/Hugo-Dz/spritefusion-pixel-snapper",
+      "publishedAt": "2025-11-26T15:46:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "HugoDz",
       "tags": []
     },
     {
