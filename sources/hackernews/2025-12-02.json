@@ -1,0 +1,116 @@
+{
+  "date": "2025-12-02",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "s3gggn",
+      "title": "Frequently Asked Unicycling Questions",
+      "description": "Score: 4 | Comments: 0 | Posted by edent",
+      "url": "https://vale.rocks/posts/unicycle-faq",
+      "publishedAt": "2025-12-02T05:27:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "edent",
+      "tags": []
+    },
+    {
+      "id": "s42g3w",
+      "title": "What will enter the public domain in 2026?publicdomainreview.org",
+      "description": "Score: 122 | Comments: 30 | Posted by herbertl",
+      "url": "https://publicdomainreview.org/features/entering-the-public-domain/2026/",
+      "publishedAt": "2025-12-02T04:10:20.292Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "herbertl",
+      "tags": []
+    },
+    {
+      "id": "3gsc6s",
+      "title": "Beej's Guide to Learning Computer Sciencebeej.us",
+      "description": "Score: 106 | Comments: 20 | Posted by intelkishan",
+      "url": "https://beej.us/guide/bglcs/html/split/",
+      "publishedAt": "2025-12-02T04:10:20.292Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "intelkishan",
+      "tags": []
+    },
+    {
+      "id": "3gsc6s",
+      "title": "Beej's Guide to Learning Computer Science",
+      "description": "Score: 106 | Comments: 20 | Posted by intelkishan",
+      "url": "https://beej.us/guide/bglcs/html/split/",
+      "publishedAt": "2025-12-02T03:47:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "intelkishan",
+      "tags": []
+    },
+    {
+      "id": "jcvx91",
+      "title": "Decreasing Certificate Lifetimes to 45 Days",
+      "description": "Score: 7 | Comments: 0 | Posted by abraham",
+      "url": "https://letsencrypt.org/2025/12/02/from-90-to-45.html",
+      "publishedAt": "2025-12-02T03:24:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "abraham",
+      "tags": []
+    },
+    {
+      "id": "s42g3w",
+      "title": "What will enter the public domain in 2026?",
+      "description": "Score: 123 | Comments: 30 | Posted by herbertl",
+      "url": "https://publicdomainreview.org/features/entering-the-public-domain/2026/",
+      "publishedAt": "2025-12-02T03:23:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "herbertl",
+      "tags": []
+    },
+    {
+      "id": "aln76g",
+      "title": "Reverse math shows why hard problems are hard",
+      "description": "Score: 49 | Comments: 5 | Posted by gsf_emergency_6",
+      "url": "https://www.quantamagazine.org/reverse-mathematics-illuminates-why-hard-problems-are-hard-20251201/",
+      "publishedAt": "2025-12-02T02:35:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gsf_emergency_6",
+      "tags": []
+    },
+    {
+      "id": "snpcuq",
+      "title": "After Windows Update, Password icon invisible, click where it used to be",
+      "description": "Score: 6 | Comments: 0 | Posted by zdw",
+      "url": "https://support.microsoft.com/en-us/topic/august-29-2025-kb5064081-os-build-26100-5074-preview-3f9eb9e1-72ca-4b42-af97-39aace788d93",
+      "publishedAt": "2025-12-02T02:12:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "t4pbsm",
+      "title": "Around The World, Part 27: Planting trees",
+      "description": "Score: 15 | Comments: 1 | Posted by ibobev",
+      "url": "https://frozenfractal.com/blog/2025/11/28/around-the-world-27-planting-trees/",
+      "publishedAt": "2025-12-02T00:36:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
+      "tags": []
+    },
+    {
+      "id": "c9z1wc",
+      "title": "Arcee Trinity Mini: US-Trained Moe Model",
+      "description": "Score: 45 | Comments: 9 | Posted by hurrycane",
+      "url": "https://www.arcee.ai/blog/the-trinity-manifesto?src=hn",
+      "publishedAt": "2025-12-02T00:31:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hurrycane",
+      "tags": []
+    }
+  ]
+}

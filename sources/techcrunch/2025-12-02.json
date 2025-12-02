@@ -1,0 +1,39 @@
+{
+  "date": "2025-12-02",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3071698",
+      "title": "What does it mean when Uncle Sam is one of your biggest shareholders? Chip startup xLight is about to find out",
+      "description": "You can imagine how this is all going over in Silicon Valley, where the libertarian ethos runs deep.",
+      "url": "https://techcrunch.com/2025/12/01/what-does-it-mean-when-uncle-sam-is-one-of-your-biggest-shareholders-chip-startup-xlight-is-about-to-find-out/",
+      "publishedAt": "2025-12-02T04:03:25.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Connie Loizos",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3071677",
+      "title": "Apple just named a new AI chief with Google and Microsoft expertise, as John Giannandrea steps down",
+      "description": "His replacement is Amar Subramanya, a highly regarded Microsoft executive who spent 16 years at Google, most recently leading engineering for the",
+      "url": "https://techcrunch.com/2025/12/01/apple-just-named-a-new-ai-chief-with-google-and-microsoft-expertise-as-john-giannandrea-steps-down/",
+      "publishedAt": "2025-12-02T01:34:46.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Connie Loizos",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3071608",
+      "title": "One of Google’s biggest AI advantages is what it already knows about you",
+      "description": "The promise is AI that's uniquely helpful because it knows you. But the risk is AI that feels more like surveillance than service.",
+      "url": "https://techcrunch.com/2025/12/01/one-of-googles-biggest-ai-advantages-is-what-it-already-knows-about-you/",
+      "publishedAt": "2025-12-02T00:17:52.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sarah Perez",
+      "tags": []
+    }
+  ]
+}
