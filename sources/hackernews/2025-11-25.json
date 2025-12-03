@@ -146,6 +146,17 @@
       "tags": []
     },
     {
+      "id": "qfrr0x",
+      "title": "Counter Galois Onion: Improved encryption for Tor circuit traffic",
+      "description": "Score: 49 | Comments: 5 | Posted by wrayjustin",
+      "url": "https://blog.torproject.org/introducing-cgo/",
+      "publishedAt": "2025-11-25T20:51:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wrayjustin",
+      "tags": []
+    },
+    {
       "id": "3d4jwo",
       "title": "1964 Recompiling Engine Documentation (2001) [pdf]",
       "description": "Score: 12 | Comments: 1 | Posted by davikr",
@@ -275,6 +286,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "STRiDEX",
+      "tags": []
+    },
+    {
+      "id": "ssrb0e",
+      "title": "YesNotice",
+      "description": "Score: 164 | Comments: 57 | Posted by surprisetalk",
+      "url": "https://infinitedigits.co/docs/software/yesnotice/",
+      "publishedAt": "2025-11-25T16:08:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
       "tags": []
     },
     {

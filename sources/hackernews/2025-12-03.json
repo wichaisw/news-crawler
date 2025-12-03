@@ -1,0 +1,72 @@
+{
+  "date": "2025-12-03",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "gn27z7",
+      "title": "Sending DMARC reports is somewhat hazardous",
+      "description": "Score: 3 | Comments: 0 | Posted by zdw",
+      "url": "https://utcc.utoronto.ca/~cks/space/blog/spam/DMARCSendingReportsProblems",
+      "publishedAt": "2025-12-03T05:05:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "a6oi8f",
+      "title": "Interview with RollerCoaster Tycoon's Creator, Chris Sawyer (2024)",
+      "description": "Score: 8 | Comments: 0 | Posted by areoform",
+      "url": "https://medium.com/atari-club/interview-with-rollercoaster-tycoons-creator-chris-sawyer-684a0efb0f13",
+      "publishedAt": "2025-12-03T04:32:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "areoform",
+      "tags": []
+    },
+    {
+      "id": "2gkfa8",
+      "title": "Understanding ECDSA",
+      "description": "Score: 26 | Comments: 2 | Posted by avidthinker",
+      "url": "https://avidthinker.github.io/2025/11/28/understanding-ecdsa/",
+      "publishedAt": "2025-12-03T04:13:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "avidthinker",
+      "tags": []
+    },
+    {
+      "id": "s0m99y",
+      "title": "Japanese game devs face font dilemma as license increases from $380 to $20kgamesindustry.biz",
+      "description": "Score: 85 | Comments: 33 | Posted by zdw",
+      "url": "https://www.gamesindustry.biz/japanese-devs-face-font-licensing-dilemma-as-leading-provider-increases-annual-plan-price-from-380-to-20000",
+      "publishedAt": "2025-12-03T04:09:58.686Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "s0m99y",
+      "title": "Japanese game devs face font dilemma as license increases from $380 to $20k",
+      "description": "Score: 85 | Comments: 33 | Posted by zdw",
+      "url": "https://www.gamesindustry.biz/japanese-devs-face-font-licensing-dilemma-as-leading-provider-increases-annual-plan-price-from-380-to-20000",
+      "publishedAt": "2025-12-03T04:03:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "l42cz6",
+      "title": "Kohler Can Access Pictures from \"End-to-End Encrypted\" Toilet Camera",
+      "description": "Score: 120 | Comments: 120 | Posted by TimDotC",
+      "url": "https://varlogsimon.leaflet.pub/3m6zrw6k2bs2p?interactionDrawer=quotes",
+      "publishedAt": "2025-12-03T02:06:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "TimDotC",
+      "tags": []
+    }
+  ]
+}

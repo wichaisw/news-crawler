@@ -113,6 +113,17 @@
       "tags": []
     },
     {
+      "id": "q9w50d",
+      "title": "Load ZX Spectrum – first Museum dedicated to our first personal computer",
+      "description": "Score: 27 | Comments: 5 | Posted by elvis70",
+      "url": "https://loadzx.com/en/",
+      "publishedAt": "2025-11-26T19:02:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "elvis70",
+      "tags": []
+    },
+    {
       "id": "xb84wv",
       "title": "A temporary victory – but we still need to stop Chat Control",
       "description": "Score: 33 | Comments: 2 | Posted by AlgebraFox",
@@ -201,6 +212,17 @@
       "tags": []
     },
     {
+      "id": "9gwug6",
+      "title": "Solving the Partridge Packing Problem Using MiniZinc",
+      "description": "Score: 27 | Comments: 2 | Posted by mzl",
+      "url": "https://zayenz.se/blog/post/partridge-packing/",
+      "publishedAt": "2025-11-26T14:53:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mzl",
+      "tags": []
+    },
+    {
       "id": "oh8qkp",
       "title": "Voyager 1 is about to reach one light-day from Earth",
       "description": "Score: 845 | Comments: 298 | Posted by ashishgupta2209",
@@ -267,6 +289,17 @@
       "tags": []
     },
     {
+      "id": "rhhi2g",
+      "title": "Practical Intro to Operational Transformation",
+      "description": "Score: 28 | Comments: 3 | Posted by casouri",
+      "url": "https://archive.casouri.cc/note/2025/practical-intro-ot/",
+      "publishedAt": "2025-11-26T10:57:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "casouri",
+      "tags": []
+    },
+    {
       "id": "94mzpa",
       "title": "A cell so minimal that it challenges definitions of life",
       "description": "Score: 266 | Comments: 118 | Posted by ibobev",
@@ -311,6 +344,28 @@
       "tags": []
     },
     {
+      "id": "pnfc7v",
+      "title": "Code Wiki: Accelerating your code understanding",
+      "description": "Score: 64 | Comments: 20 | Posted by geoffbp",
+      "url": "https://developers.googleblog.com/en/introducing-code-wiki-accelerating-your-code-understanding/",
+      "publishedAt": "2025-11-26T05:00:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "geoffbp",
+      "tags": []
+    },
+    {
+      "id": "njdqn9",
+      "title": "All Sources of DirectX 12 Documentation",
+      "description": "Score: 6 | Comments: 1 | Posted by ibobev",
+      "url": "https://asawicki.info/news_1794_all_sources_of_directx_12_documentation",
+      "publishedAt": "2025-11-26T04:47:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
+      "tags": []
+    },
+    {
       "id": "2rwahg",
       "title": "OpenAI needs to raise $207B by 2030 so it can continue to lose money",
       "description": "Score: 14 | Comments: 5 | Posted by cebert",
@@ -319,6 +374,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "cebert",
+      "tags": []
+    },
+    {
+      "id": "2xe29o",
+      "title": "StutterZero: Speech Conversion for Stuttering Transcription and Correction",
+      "description": "Score: 20 | Comments: 3 | Posted by internetguy",
+      "url": "https://arxiv.org/abs/2510.18938",
+      "publishedAt": "2025-11-26T03:54:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "internetguy",
       "tags": []
     },
     {
@@ -407,6 +473,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jonbaer",
+      "tags": []
+    },
+    {
+      "id": "apycgf",
+      "title": "Learning music with Strudel",
+      "description": "Score: 435 | Comments: 108 | Posted by terryds",
+      "url": "https://terryds.notion.site/Learning-Music-with-Strudel-2ac98431b24180deb890cc7de667ea92",
+      "publishedAt": "2025-11-26T00:09:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "terryds",
       "tags": []
     }
   ]
