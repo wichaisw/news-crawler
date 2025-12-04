@@ -1,0 +1,72 @@
+{
+  "date": "2025-12-04",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "8kt0vt",
+      "title": "Satellite megaconstellations will threaten space-based astronomy",
+      "description": "Score: 8 | Comments: 2 | Posted by jdnier",
+      "url": "https://www.nature.com/articles/s41586-025-09759-5",
+      "publishedAt": "2025-12-04T05:20:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jdnier",
+      "tags": []
+    },
+    {
+      "id": "uwcqdi",
+      "title": "Russia Bans Roblox",
+      "description": "Score: 43 | Comments: 26 | Posted by disqard",
+      "url": "https://www.bbc.com/news/articles/cn41q11gy58o",
+      "publishedAt": "2025-12-04T04:34:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "disqard",
+      "tags": []
+    },
+    {
+      "id": "4idxz0",
+      "title": "New homes in London were delayed by 'energy-hungry' data centres",
+      "description": "Score: 58 | Comments: 16 | Posted by 1659447091",
+      "url": "https://www.bbc.com/news/articles/c0mpr1mvwj3o",
+      "publishedAt": "2025-12-04T03:51:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "1659447091",
+      "tags": []
+    },
+    {
+      "id": "lux6wg",
+      "title": "Euler Conjecture and CDC 6600",
+      "description": "Score: 19 | Comments: 3 | Posted by zaikunzhang",
+      "url": "https://fortran-lang.discourse.group/t/euler-conjecture-and-cdc-6600/10501",
+      "publishedAt": "2025-12-04T03:50:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zaikunzhang",
+      "tags": []
+    },
+    {
+      "id": "efxod9",
+      "title": "Why WinQuake exists and how it works",
+      "description": "Score: 14 | Comments: 0 | Posted by wicket",
+      "url": "https://fabiensanglard.net/winquake/index.html",
+      "publishedAt": "2025-12-04T01:58:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wicket",
+      "tags": []
+    },
+    {
+      "id": "nta8xk",
+      "title": "Average DRAM price in USD over last 18 months",
+      "description": "Score: 168 | Comments: 92 | Posted by zekrioca",
+      "url": "https://pcpartpicker.com/trends/price/memory/",
+      "publishedAt": "2025-12-04T00:08:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zekrioca",
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "date": "2025-12-04",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3072586",
+      "title": "New unicorn Brevo raises $583M to challenge CRM giants",
+      "description": "Brevo, a customer relationship management company headquartered in Paris, is now a unicorn.",
+      "url": "https://techcrunch.com/2025/12/03/new-unicorn-brevo-raises-583m-to-challenge-crm-giants/",
+      "publishedAt": "2025-12-04T04:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anna Heim",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?post_type=tc_video&p=3072369",
+      "title": "Day One Ventures’ Masha Bucher on why every founder needs to be an influencer",
+      "description": "Tech is racing ahead while society struggles to keep up.&#160;Masha Bucher, founder and GP of&#160;Day One Ventures, built her firm around closing",
+      "url": "https://techcrunch.com/video/day-one-ventures-masha-bucher-on-why-every-founder-needs-to-be-an-influencer/",
+      "publishedAt": "2025-12-04T01:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Theresa Loconsolo",
+      "tags": []
+    }
+  ]
+}

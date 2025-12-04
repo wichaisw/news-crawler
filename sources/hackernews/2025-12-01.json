@@ -441,6 +441,17 @@
       "sourceName": "Hacker News",
       "author": "modinfo",
       "tags": []
+    },
+    {
+      "id": "nkp4al",
+      "title": "The Differences Between an IndyCar and a F1 Car",
+      "description": "Score: 30 | Comments: 2 | Posted by 1659447091",
+      "url": "https://www.openwheelworld.net/en/indycar101/76/IndyCar_vs_Formula_1_cars",
+      "publishedAt": "2025-12-01T00:03:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "1659447091",
+      "tags": []
     }
   ]
 }

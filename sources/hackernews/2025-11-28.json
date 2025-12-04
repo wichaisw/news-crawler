@@ -388,6 +388,17 @@
       "tags": []
     },
     {
+      "id": "isnhk5",
+      "title": "Cross-Compiling Common Lisp to WASM",
+      "description": "Score: 67 | Comments: 2 | Posted by jackdaniel",
+      "url": "https://turtleware.eu/posts/Common-Lisp-and-WebAssembly.html",
+      "publishedAt": "2025-11-28T09:23:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jackdaniel",
+      "tags": []
+    },
+    {
       "id": "toqu65",
       "title": "SQLite as an Application File Format",
       "description": "Score: 132 | Comments: 78 | Posted by gjvc",
