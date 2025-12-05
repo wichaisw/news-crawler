@@ -344,6 +344,17 @@
       "tags": []
     },
     {
+      "id": "bllix5",
+      "title": "Show HN: MTXT – Music Text Format",
+      "description": "Score: 104 | Comments: 35 | Posted by daninet",
+      "url": "https://github.com/Daninet/mtxt",
+      "publishedAt": "2025-11-30T10:21:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "daninet",
+      "tags": []
+    },
+    {
       "id": "yx3znp",
       "title": "Qwen3-VL can scan two-hour videos and pinpoint nearly every detail",
       "description": "Score: 153 | Comments: 48 | Posted by thm",
@@ -465,6 +476,17 @@
       "tags": []
     },
     {
+      "id": "5k9q95",
+      "title": "What's the Deal with Euler's Identity?",
+      "description": "Score: 7 | Comments: 4 | Posted by surprisetalk",
+      "url": "https://lcamtuf.substack.com/p/whats-the-deal-with-eulers-identity",
+      "publishedAt": "2025-11-30T00:59:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
       "id": "4oh5k8",
       "title": "The engineer–manager pendulum is breaking",
       "description": "Score: 12 | Comments: 2 | Posted by mooreds",
@@ -473,6 +495,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mooreds",
+      "tags": []
+    },
+    {
+      "id": "o6wbqo",
+      "title": "CSS now has an if() conditional function",
+      "description": "Score: 81 | Comments: 30 | Posted by aanthonymax",
+      "url": "https://caniuse.com/?search=if",
+      "publishedAt": "2025-11-30T00:21:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "aanthonymax",
       "tags": []
     }
   ]

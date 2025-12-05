@@ -1,0 +1,127 @@
+{
+  "date": "2025-12-05",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "6guvcz",
+      "title": "State Department to deny visas to fact checkers and others, citing 'censorship'",
+      "description": "Score: 31 | Comments: 7 | Posted by seattle_spring",
+      "url": "https://www.npr.org/2025/12/04/nx-s1-5633444/trump-content-moderation-visas-censorship",
+      "publishedAt": "2025-12-05T04:59:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "seattle_spring",
+      "tags": []
+    },
+    {
+      "id": "j64kn4",
+      "title": "Netflix in exclusive talks to buy HBO",
+      "description": "Score: 31 | Comments: 20 | Posted by mikeweiss",
+      "url": "https://www.cnn.com/2025/12/04/media/netflix-paramount-wbd-bidding-war-warner-bros-discovery",
+      "publishedAt": "2025-12-05T04:36:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mikeweiss",
+      "tags": []
+    },
+    {
+      "id": "iyozvx",
+      "title": "Rats Snatching Bats Out of the Air and Eating Them–Researchers Got It on Video",
+      "description": "Score: 4 | Comments: 0 | Posted by bookofjoe",
+      "url": "https://www.smithsonianmag.com/smart-news/rats-are-snatching-bats-out-of-the-air-and-eating-them-and-researchers-got-it-on-video-180987610/",
+      "publishedAt": "2025-12-05T04:26:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bookofjoe",
+      "tags": []
+    },
+    {
+      "id": "2davrh",
+      "title": "Fast trigram based code search",
+      "description": "Score: 10 | Comments: 0 | Posted by cv_h",
+      "url": "https://github.com/sourcegraph/zoekt",
+      "publishedAt": "2025-12-05T04:00:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cv_h",
+      "tags": []
+    },
+    {
+      "id": "kvn315",
+      "title": "Blogging in 2025: Screaming into the Void",
+      "description": "Score: 27 | Comments: 14 | Posted by askmike",
+      "url": "https://askmike.org/articles/blogging-in-2025-screaming-into-the-void/",
+      "publishedAt": "2025-12-05T02:55:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "askmike",
+      "tags": []
+    },
+    {
+      "id": "9eyoen",
+      "title": "NeurIPS 2025 Best Paper Awards",
+      "description": "Score: 68 | Comments: 9 | Posted by ivansavz",
+      "url": "https://blog.neurips.cc/2025/11/26/announcing-the-neurips-2025-best-paper-awards/",
+      "publishedAt": "2025-12-05T01:15:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ivansavz",
+      "tags": []
+    },
+    {
+      "id": "mfq43t",
+      "title": "AV1: A Modern, Open Codecnetflixtechblog.com",
+      "description": "Score: 287 | Comments: 127 | Posted by CharlesW",
+      "url": "https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80",
+      "publishedAt": "2025-12-05T01:10:01.152Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "CharlesW",
+      "tags": []
+    },
+    {
+      "id": "7fwnxy",
+      "title": "BMW PHEV: Safety fuse replacement is extremely expensive",
+      "description": "Score: 147 | Comments: 103 | Posted by mikelabatt",
+      "url": "https://evclinic.eu/2025/12/04/2021-phev-bmw-ibmucp-21f37e-post-crash-recovery-when-eu-engineering-becomes-a-synonym-for-unrepairable-generating-waste/",
+      "publishedAt": "2025-12-05T01:05:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mikelabatt",
+      "tags": []
+    },
+    {
+      "id": "ddq4i3",
+      "title": "The Ofcom Files, Part 4: Ofcom Rides Again",
+      "description": "Score: 59 | Comments: 15 | Posted by parliament32",
+      "url": "https://prestonbyrne.com/2025/12/04/the-ofcom-files-part-4-ofcom-rides-again/",
+      "publishedAt": "2025-12-05T00:41:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "parliament32",
+      "tags": []
+    },
+    {
+      "id": "mfq43t",
+      "title": "AV1: A Modern, Open Codec",
+      "description": "Score: 288 | Comments: 127 | Posted by CharlesW",
+      "url": "https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80",
+      "publishedAt": "2025-12-05T00:09:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "CharlesW",
+      "tags": []
+    },
+    {
+      "id": "qpg4p9",
+      "title": "Trick users and bypass warnings – Modern SVG Clickjacking attacks",
+      "description": "Score: 116 | Comments: 17 | Posted by spartanatreyu",
+      "url": "https://lyra.horse/blog/2025/12/svg-clickjacking/",
+      "publishedAt": "2025-12-05T00:03:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "spartanatreyu",
+      "tags": []
+    }
+  ]
+}
