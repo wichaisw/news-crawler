@@ -212,6 +212,17 @@
       "tags": []
     },
     {
+      "id": "vkrs6g",
+      "title": "Guide to making a CHIP-8 emulator (2020)",
+      "description": "Score: 7 | Comments: 0 | Posted by AlexeyBrin",
+      "url": "https://tobiasvl.github.io/blog/write-a-chip-8-emulator/",
+      "publishedAt": "2025-11-29T15:49:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "AlexeyBrin",
+      "tags": []
+    },
+    {
       "id": "fbm26r",
       "title": "Testing shows automotive glassbreakers can't break modern automotive glass",
       "description": "Score: 104 | Comments: 112 | Posted by surprisetalk",
@@ -297,6 +308,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jameslk",
+      "tags": []
+    },
+    {
+      "id": "29igkw",
+      "title": "How fast can browsers process base64 data?",
+      "description": "Score: 33 | Comments: 20 | Posted by mfiguiere",
+      "url": "https://lemire.me/blog/2025/11/29/how-fast-can-browsers-process-base64-data/",
+      "publishedAt": "2025-11-29T07:30:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mfiguiere",
       "tags": []
     },
     {

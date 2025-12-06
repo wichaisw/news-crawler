@@ -25,6 +25,17 @@
       "tags": []
     },
     {
+      "id": "nznsn",
+      "title": "Ivan Sutherland Sketchpad Demo 1963 [video]",
+      "description": "Score: 39 | Comments: 0 | Posted by fs_software",
+      "url": "https://www.youtube.com/watch?v=6orsmFndx_o",
+      "publishedAt": "2025-12-02T23:13:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fs_software",
+      "tags": []
+    },
+    {
       "id": "9vlpv5",
       "title": "Exploring Large HTML Documents on the Web",
       "description": "Score: 38 | Comments: 2 | Posted by zdw",
@@ -33,6 +44,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "hn9f28",
+      "title": "Why are your models so big? (2023)",
+      "description": "Score: 25 | Comments: 16 | Posted by jxmorris12",
+      "url": "https://pawa.lt/braindump/tiny-models/",
+      "publishedAt": "2025-12-02T22:25:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jxmorris12",
       "tags": []
     },
     {
@@ -66,6 +88,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "evolve2k",
+      "tags": []
+    },
+    {
+      "id": "pmqh8c",
+      "title": "Frinkiac – 3M \"The Simpsons\" Screencaps",
+      "description": "Score: 64 | Comments: 21 | Posted by GlumWoodpecker",
+      "url": "https://frinkiac.com/",
+      "publishedAt": "2025-12-02T20:28:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "GlumWoodpecker",
       "tags": []
     },
     {
@@ -245,6 +278,17 @@
       "tags": []
     },
     {
+      "id": "fccgpq",
+      "title": "Spectral rendering, part 3: Spectral vs. RGB",
+      "description": "Score: 7 | Comments: 1 | Posted by ibobev",
+      "url": "https://momentsingraphics.de/SpectralRendering3Results.html",
+      "publishedAt": "2025-12-02T14:02:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
+      "tags": []
+    },
+    {
       "id": "6rjvgj",
       "title": "Python Data Science Handbook",
       "description": "Score: 250 | Comments: 44 | Posted by cl3misch",
@@ -286,6 +330,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "hasanhaja",
+      "tags": []
+    },
+    {
+      "id": "kgb74g",
+      "title": "Compassionate Curmudgeon: Why we must root ourselves in the real world",
+      "description": "Score: 36 | Comments: 6 | Posted by lermontov",
+      "url": "https://theamericanscholar.org/compassionate-curmudgeon/",
+      "publishedAt": "2025-12-02T08:33:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lermontov",
       "tags": []
     },
     {
@@ -385,6 +440,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "lkkov0",
+      "title": "Nimony (Nim 3.0) Design Principles",
+      "description": "Score: 139 | Comments: 84 | Posted by andsoitis",
+      "url": "https://nim-lang.org/araq/nimony.html",
+      "publishedAt": "2025-12-02T00:39:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andsoitis",
       "tags": []
     },
     {

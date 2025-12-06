@@ -69,6 +69,17 @@
       "tags": []
     },
     {
+      "id": "urayvt",
+      "title": "Tides are weirder than you think",
+      "description": "Score: 95 | Comments: 27 | Posted by surprisetalk",
+      "url": "https://signoregalilei.com/2025/11/12/tides-are-weirder-than-you-think/",
+      "publishedAt": "2025-12-01T20:14:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
       "id": "eh8gom",
       "title": "Why I stopped using JSON for my APIs",
       "description": "Score: 92 | Comments: 114 | Posted by barremian",
@@ -311,6 +322,17 @@
       "tags": []
     },
     {
+      "id": "rx0abu",
+      "title": "Idempotency keys for exactly-once processing",
+      "description": "Score: 110 | Comments: 42 | Posted by defly",
+      "url": "https://www.morling.dev/blog/on-idempotency-keys/",
+      "publishedAt": "2025-12-01T12:07:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "defly",
+      "tags": []
+    },
+    {
       "id": "hq9dtg",
       "title": "1GB Raspberry Pi 5, and memory-driven price rises",
       "description": "Score: 139 | Comments: 107 | Posted by shrx",
@@ -396,6 +418,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mmarian",
+      "tags": []
+    },
+    {
+      "id": "d1ozr",
+      "title": "Stacked Diffs with git rebase —onto",
+      "description": "Score: 124 | Comments: 136 | Posted by flexdinesh",
+      "url": "https://dineshpandiyan.com/blog/stacked-diffs-with-rebase-onto/",
+      "publishedAt": "2025-12-01T04:47:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "flexdinesh",
       "tags": []
     },
     {
