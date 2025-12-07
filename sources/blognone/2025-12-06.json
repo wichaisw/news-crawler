@@ -1,0 +1,83 @@
+{
+  "date": "2025-12-06",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "149149 at https://www.blognone.com",
+      "title": "Tim Cain ผู้สร้างเกม Fallout กลับมาทำงานฟูลไทม์กับ Obsidian อีกครั้ง เพื่อทำเกมใหม่",
+      "description": "Tim Cain ผู้สร้างเกม Fallout กลับมาทำงานฟูลไทม์กับ Obsidian อีกครั้ง เพื่อทำเกมใหม่ Body Tim Cain อีกตำนานของวงการเกมในฐานะผู้สร้างเกมซีรีส์ Fallout",
+      "url": "https://www.blognone.com/node/149149",
+      "publishedAt": "2025-12-06T23:23:08.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149148 at https://www.blognone.com",
+      "title": "[ลือ] Johny Srouji หัวหน้าฝ่ายเทคโนโลยีฮาร์ดแวร์ Apple หารือกับ Tim Cook อาจลาออกจากบริษัท",
+      "description": "[ลือ] Johny Srouji หัวหน้าฝ่ายเทคโนโลยีฮาร์ดแวร์ Apple หารือกับ Tim Cook อาจลาออกจากบริษัท Body รายงานนี้มาจาก Mark Gurman แห่ง Bloomberg คนเดิม",
+      "url": "https://www.blognone.com/node/149148",
+      "publishedAt": "2025-12-06T22:39:37.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149145 at https://www.blognone.com",
+      "title": "กูเกิลเปิดสถิติ Year in Search 2025: Gemini เป็นอันดับหนึ่ง",
+      "description": "กูเกิลเปิดสถิติ Year in Search 2025: Gemini เป็นอันดับหนึ่ง Body กูเกิลรายงานคำค้นยอดนิยมในไทยประจำปี 2025 โดยคำค้นอันดับหนึ่ง คือ Gemini,",
+      "url": "https://www.blognone.com/node/149145",
+      "publishedAt": "2025-12-06T11:39:04.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149144 at https://www.blognone.com",
+      "title": "[ลือ] SpaceX เสนอขายหุ้นให้นักลงทุน มูลค่ากิจการล่าสุด 8 แสนล้านดอลลาร์ และเตรียมไอพีโอในปีหน้า",
+      "description": "[ลือ] SpaceX เสนอขายหุ้นให้นักลงทุน มูลค่ากิจการล่าสุด 8 แสนล้านดอลลาร์ และเตรียมไอพีโอในปีหน้า Body The Wall Street Journal",
+      "url": "https://www.blognone.com/node/149144",
+      "publishedAt": "2025-12-06T07:01:36.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149143 at https://www.blognone.com",
+      "title": "Meta ซื้อกิจการ Limitless สตาร์ทอัปพัฒนาฮาร์ดแวร์ AI ขนาดพกพา",
+      "description": "Meta ซื้อกิจการ Limitless สตาร์ทอัปพัฒนาฮาร์ดแวร์ AI ขนาดพกพา Body Meta ประกาศซื้อกิจการสตาร์ทอัปปัญญาประดิษฐ์ Limitless",
+      "url": "https://www.blognone.com/node/149143",
+      "publishedAt": "2025-12-06T06:39:46.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149142 at https://www.blognone.com",
+      "title": "EU สั่งปรับ X 4.4 พันล้านบาท ประเด็นเครื่องหมายติ๊กถูกสีฟ้าไม่ได้ยืนยันตัวตนผู้ใช้งานละเอียดอย่างที่ควรเป็น",
+      "description": "EU สั่งปรับ X 4.4 พันล้านบาท ประเด็นเครื่องหมายติ๊กถูกสีฟ้าไม่ได้ยืนยันตัวตนผู้ใช้งานละเอียดอย่างที่ควรเป็น Body คณะกรรมาธิการแห่งสหภาพยุโรป",
+      "url": "https://www.blognone.com/node/149142",
+      "publishedAt": "2025-12-06T06:12:53.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149141 at https://www.blognone.com",
+      "title": "ช่องโหว่ใน React Server Components ร้ายแรงระดับวิกฤติ ควรอัพเดตทันที",
+      "description": "ช่องโหว่ใน React Server Components ร้ายแรงระดับวิกฤติ ควรอัพเดตทันที Body โครงการ React รายงานถึงช่องโหว่ CVE-2025-55182 ใน React Server Components",
+      "url": "https://www.blognone.com/node/149141",
+      "publishedAt": "2025-12-06T04:58:06.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}

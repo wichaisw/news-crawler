@@ -91,6 +91,17 @@
       "tags": []
     },
     {
+      "id": "7yanyb",
+      "title": "Why does the Salish Sea glow in the dark?",
+      "description": "Score: 3 | Comments: 0 | Posted by prismatic",
+      "url": "https://www.atlasobscura.com/articles/untold-earth-105-salish-sea-bioluminescence",
+      "publishedAt": "2025-12-04T19:29:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "prismatic",
+      "tags": []
+    },
+    {
       "id": "40k6p6",
       "title": "Who Hooked Up a Laptop to a 1930s Dance Hall Machine?",
       "description": "Score: 49 | Comments: 12 | Posted by ChrisbyMe",
@@ -267,6 +278,17 @@
       "tags": []
     },
     {
+      "id": "gc2g1m",
+      "title": "Recreating the lost SDK for a 42-year-old operating system: VisiCorp Visi On",
+      "description": "Score: 51 | Comments: 3 | Posted by nkali",
+      "url": "https://git.sr.ht/~nkali/vision-sdk/tree/main/item/note/index.md",
+      "publishedAt": "2025-12-04T10:25:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nkali",
+      "tags": []
+    },
+    {
       "id": "mavj76",
       "title": "Tunnl.gg",
       "description": "Score: 193 | Comments: 92 | Posted by klipitkas",
@@ -322,6 +344,17 @@
       "tags": []
     },
     {
+      "id": "dgpd9b",
+      "title": "Mirror-bridge – Making Python bindings frictionless",
+      "description": "Score: 27 | Comments: 9 | Posted by fthiesen",
+      "url": "https://chico.dev/Mirror-Bridge/",
+      "publishedAt": "2025-12-04T05:47:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fthiesen",
+      "tags": []
+    },
+    {
       "id": "8kt0vt",
       "title": "Satellite megaconstellations will threaten space-based astronomy",
       "description": "Score: 8 | Comments: 2 | Posted by jdnier",
@@ -363,6 +396,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "zaikunzhang",
+      "tags": []
+    },
+    {
+      "id": "jfh4nf",
+      "title": "Abstract Interpretation in the Toy Optimizer",
+      "description": "Score: 38 | Comments: 6 | Posted by ChadNauseam",
+      "url": "https://bernsteinbear.com/blog/toy-abstract-interpretation/",
+      "publishedAt": "2025-12-04T02:09:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ChadNauseam",
       "tags": []
     },
     {

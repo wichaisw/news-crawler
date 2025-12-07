@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "9pcc6l",
+      "title": "Finding Gene Cernan's Missing Moon Camera",
+      "description": "Score: 77 | Comments: 12 | Posted by theodorespeaks",
+      "url": "https://www.spacecamera.co/articles/2020/3/3/gene-cernans-missing-lunar-surface-camera",
+      "publishedAt": "2025-12-02T23:59:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "theodorespeaks",
+      "tags": []
+    },
+    {
       "id": "zgvq8n",
       "title": "The Rise and Fall of the H-1B Visa – American Affairs Journal",
       "description": "Score: 14 | Comments: 0 | Posted by bilsbie",
@@ -55,6 +66,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jxmorris12",
+      "tags": []
+    },
+    {
+      "id": "qt3bdf",
+      "title": "Dhrystone",
+      "description": "Score: 14 | Comments: 1 | Posted by krelian",
+      "url": "https://en.wikipedia.org/wiki/Dhrystone",
+      "publishedAt": "2025-12-02T22:10:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "krelian",
       "tags": []
     },
     {
@@ -223,6 +245,28 @@
       "tags": []
     },
     {
+      "id": "der9ai",
+      "title": "Kids who ran away to 1960s San Francisco",
+      "description": "Score: 139 | Comments: 34 | Posted by zackoverflow",
+      "url": "https://www.fieldnotes.nautilus.quest/p/the-kids-who-ran-away-to-1960s-san",
+      "publishedAt": "2025-12-02T17:22:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zackoverflow",
+      "tags": []
+    },
+    {
+      "id": "ksav9k",
+      "title": "Removed rust to gain speed",
+      "description": "Score: 52 | Comments: 17 | Posted by 2233",
+      "url": "https://www.prisma.io/blog/announcing-prisma-orm-7-0-0",
+      "publishedAt": "2025-12-02T16:29:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "2233",
+      "tags": []
+    },
+    {
       "id": "molcr8",
       "title": "Mistral 3 family of models released",
       "description": "Score: 718 | Comments: 196 | Posted by pember",
@@ -286,6 +330,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ibobev",
+      "tags": []
+    },
+    {
+      "id": "hivwrd",
+      "title": "Sort the Court – A Free King Simulator Where You Rule with Yes or No",
+      "description": "Score: 5 | Comments: 4 | Posted by causalzap",
+      "url": "https://www.sort-the-court.com",
+      "publishedAt": "2025-12-02T13:04:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "causalzap",
       "tags": []
     },
     {
@@ -440,6 +495,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "iaykal",
+      "title": "Mathematics Without Numbers (1959)",
+      "description": "Score: 42 | Comments: 14 | Posted by measurablefunc",
+      "url": "https://www.jstor.org/stable/20026529?seq=1",
+      "publishedAt": "2025-12-02T01:08:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "measurablefunc",
       "tags": []
     },
     {

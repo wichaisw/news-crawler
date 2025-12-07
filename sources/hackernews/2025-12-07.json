@@ -1,0 +1,94 @@
+{
+  "date": "2025-12-07",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "mmvtk",
+      "title": "Scientists link sugar substitute sorbitol to liver disease in zebrafish",
+      "description": "Score: 13 | Comments: 6 | Posted by mraniki",
+      "url": "https://scitechdaily.com/scientists-link-popular-sugar-substitute-to-liver-disease/",
+      "publishedAt": "2025-12-07T04:10:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mraniki",
+      "tags": []
+    },
+    {
+      "id": "2l83s0",
+      "title": "Discovering the indieweb with calm tech",
+      "description": "Score: 20 | Comments: 2 | Posted by todsacerdoti",
+      "url": "https://alexsci.com/blog/calm-tech-discover/",
+      "publishedAt": "2025-12-07T03:26:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "lv5tj1",
+      "title": "Z2 – Lithographically fabricated IC in a garage fab",
+      "description": "Score: 85 | Comments: 8 | Posted by embedding-shape",
+      "url": "https://sam.zeloof.xyz/second-ic/",
+      "publishedAt": "2025-12-07T03:03:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "embedding-shape",
+      "tags": []
+    },
+    {
+      "id": "1rqj9q",
+      "title": "Using LLMs at Oxideoxide.computer",
+      "description": "Score: 233 | Comments: 98 | Posted by steveklabnik",
+      "url": "https://rfd.shared.oxide.computer/rfd/0576",
+      "publishedAt": "2025-12-07T02:09:04.696Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "steveklabnik",
+      "tags": []
+    },
+    {
+      "id": "6wrgx8",
+      "title": "Oblast: A better Blasto game for the Commodore 64",
+      "description": "Score: 14 | Comments: 2 | Posted by todsacerdoti",
+      "url": "http://oldvcr.blogspot.com/2025/12/oblast-better-blasto-game-for-commodore.html",
+      "publishedAt": "2025-12-07T01:47:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "6mco1p",
+      "title": "Eurydice: a Rust to C compiler (yes)",
+      "description": "Score: 54 | Comments: 4 | Posted by todsacerdoti",
+      "url": "https://jonathan.protzenko.fr/2025/10/28/eurydice.html",
+      "publishedAt": "2025-12-07T01:41:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "1rqj9q",
+      "title": "Using LLMs at Oxide",
+      "description": "Score: 234 | Comments: 98 | Posted by steveklabnik",
+      "url": "https://rfd.shared.oxide.computer/rfd/0576",
+      "publishedAt": "2025-12-07T01:17:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "steveklabnik",
+      "tags": []
+    },
+    {
+      "id": "sv5p52",
+      "title": "Trains cancelled over fake bridge collapse image",
+      "description": "Score: 138 | Comments: 82 | Posted by josephcsible",
+      "url": "https://www.bbc.com/news/articles/cwygqqll9k2o",
+      "publishedAt": "2025-12-07T00:37:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "josephcsible",
+      "tags": []
+    }
+  ]
+}
