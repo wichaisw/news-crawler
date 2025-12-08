@@ -1,0 +1,105 @@
+{
+  "date": "2025-12-08",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "u7er03",
+      "title": "Mystery Science Theater 3000: The Definitive Oral History of a TV Masterpiece",
+      "description": "Score: 6 | Comments: 1 | Posted by indigodaddy",
+      "url": "https://www.wired.com/2014/04/mst3k-oral-history/",
+      "publishedAt": "2025-12-08T05:13:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "indigodaddy",
+      "tags": []
+    },
+    {
+      "id": "eqnx66",
+      "title": "Palantir Could Be the Most Overvalued Company That Ever Existed",
+      "description": "Score: 17 | Comments: 1 | Posted by Anon84",
+      "url": "https://247wallst.com/investing/2025/11/25/palantir-could-be-the-most-overvalued-company-that-ever-existed/",
+      "publishedAt": "2025-12-08T04:45:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Anon84",
+      "tags": []
+    },
+    {
+      "id": "c7909e",
+      "title": "Years after anime imagined it, Japan has realized exosuits",
+      "description": "Score: 11 | Comments: 4 | Posted by keepamovin",
+      "url": "https://twitter.com/CyberRobooo/status/1997656741363036595",
+      "publishedAt": "2025-12-08T04:02:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "keepamovin",
+      "tags": []
+    },
+    {
+      "id": "j1orsf",
+      "title": "Noninvasive imaging could replace finger pricks for measuring blood glucose",
+      "description": "Score: 20 | Comments: 3 | Posted by ivewonyoung",
+      "url": "https://news.mit.edu/2025/noninvasive-imaging-could-replace-finger-pricks-diabetes-1203",
+      "publishedAt": "2025-12-08T02:48:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ivewonyoung",
+      "tags": []
+    },
+    {
+      "id": "m3s9z",
+      "title": "Socialist ends by market means: A history",
+      "description": "Score: 55 | Comments: 29 | Posted by sirponm",
+      "url": "https://lucasvance.github.io/2100/history/",
+      "publishedAt": "2025-12-08T02:29:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sirponm",
+      "tags": []
+    },
+    {
+      "id": "qbt1zs",
+      "title": "Damn Small Linux",
+      "description": "Score: 33 | Comments: 5 | Posted by grubbs",
+      "url": "https://www.damnsmalllinux.org/",
+      "publishedAt": "2025-12-08T01:47:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "grubbs",
+      "tags": []
+    },
+    {
+      "id": "y2cab6",
+      "title": "Spinlocks vs. Mutexes: When to Spin and When to Sleep",
+      "description": "Score: 57 | Comments: 11 | Posted by birdculture",
+      "url": "https://howtech.substack.com/p/spinlocks-vs-mutexes-when-to-spin",
+      "publishedAt": "2025-12-08T00:38:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "birdculture",
+      "tags": []
+    },
+    {
+      "id": "cow28e",
+      "title": "Toyota unintended acceleration and the big bowl of \"spaghetti\" code (2013)",
+      "description": "Score: 27 | Comments: 23 | Posted by SoKamil",
+      "url": "https://www.safetyresearch.net/toyota-unintended-acceleration-and-the-big-bowl-of-spaghetti-code/",
+      "publishedAt": "2025-12-08T00:31:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "SoKamil",
+      "tags": []
+    },
+    {
+      "id": "ze92u0",
+      "title": "Show HN: Cdecl-dump - represent C declarations visually",
+      "description": "Score: 14 | Comments: 6 | Posted by bluetomcat",
+      "url": "https://github.com/bbu/cdecl-dump",
+      "publishedAt": "2025-12-08T00:26:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bluetomcat",
+      "tags": []
+    }
+  ]
+}

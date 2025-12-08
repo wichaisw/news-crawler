@@ -47,6 +47,17 @@
       "tags": []
     },
     {
+      "id": "kcaini",
+      "title": "Impacts of working from home on mental health tracked in study of Australians",
+      "description": "Score: 38 | Comments: 36 | Posted by anotherevan",
+      "url": "https://www.abc.net.au/news/2025-12-05/australian-working-from-home-mental-health-impacts-tracked/106096688",
+      "publishedAt": "2025-12-04T22:11:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "anotherevan",
+      "tags": []
+    },
+    {
       "id": "27ojux",
       "title": "Thoughts on Go vs. Rust vs. Zig",
       "description": "Score: 286 | Comments: 322 | Posted by yurivish",
@@ -253,6 +264,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "lbj",
+      "tags": []
+    },
+    {
+      "id": "ycmie6",
+      "title": "Uninitialized garbage on ia64 can be deadly (2004)",
+      "description": "Score: 50 | Comments: 21 | Posted by HeliumHydride",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20040119-00/?p=41003",
+      "publishedAt": "2025-12-04T13:11:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "HeliumHydride",
       "tags": []
     },
     {

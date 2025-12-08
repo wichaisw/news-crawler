@@ -168,6 +168,17 @@
       "tags": []
     },
     {
+      "id": "t2gq6l",
+      "title": "Turtletoy",
+      "description": "Score: 78 | Comments: 10 | Posted by ustad",
+      "url": "https://turtletoy.net/",
+      "publishedAt": "2025-12-03T18:57:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ustad",
+      "tags": []
+    },
+    {
       "id": "fr4g9x",
       "title": "Ghostty is now non-profit",
       "description": "Score: 946 | Comments: 193 | Posted by vrnvu",
@@ -275,6 +286,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "pacificat0r",
+      "tags": []
+    },
+    {
+      "id": "figl5x",
+      "title": "Building a Toast Component",
+      "description": "Score: 102 | Comments: 35 | Posted by FragrantRiver",
+      "url": "https://emilkowal.ski/ui/building-a-toast-component",
+      "publishedAt": "2025-12-03T14:51:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "FragrantRiver",
       "tags": []
     },
     {

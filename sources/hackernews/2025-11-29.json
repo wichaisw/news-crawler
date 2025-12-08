@@ -278,6 +278,17 @@
       "tags": []
     },
     {
+      "id": "2xmxmn",
+      "title": "(2018) How I created a database of all interesting Rush Hour configurations",
+      "description": "Score: 6 | Comments: 1 | Posted by xeonmc",
+      "url": "https://www.michaelfogleman.com/rush/",
+      "publishedAt": "2025-11-29T12:45:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "xeonmc",
+      "tags": []
+    },
+    {
       "id": "tond3c",
       "title": "The CRDT Dictionary: A Field Guide to Conflict-Free Replicated Data Types",
       "description": "Score: 179 | Comments: 24 | Posted by birdculture",
@@ -286,6 +297,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "birdculture",
+      "tags": []
+    },
+    {
+      "id": "njkiw",
+      "title": "Build a DIY magnetometer with a couple of seasoning bottles",
+      "description": "Score: 78 | Comments: 17 | Posted by nullbyte808",
+      "url": "https://spectrum.ieee.org/listen-to-protons-diy-magnetometer",
+      "publishedAt": "2025-11-29T12:04:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nullbyte808",
       "tags": []
     },
     {
