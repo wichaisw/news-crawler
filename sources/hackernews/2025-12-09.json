@@ -1,0 +1,94 @@
+{
+  "date": "2025-12-09",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "anb8yf",
+      "title": "Modern Walkmans",
+      "description": "Score: 65 | Comments: 29 | Posted by classichasclass",
+      "url": "https://walkman.land/modern",
+      "publishedAt": "2025-12-09T04:57:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "classichasclass",
+      "tags": []
+    },
+    {
+      "id": "qvrck",
+      "title": "Spectrum ISP SSL/TLS Interception Bug",
+      "description": "Score: 6 | Comments: 0 | Posted by sleepingreset",
+      "url": "https://andrewgazelka.notion.site/SSL-Issue-2c46ce90d17f80a9bc30ff3402f7f865",
+      "publishedAt": "2025-12-09T02:23:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sleepingreset",
+      "tags": []
+    },
+    {
+      "id": "w9kr6h",
+      "title": "The universal weight subspace hypothesisarxiv.org",
+      "description": "Score: 203 | Comments: 75 | Posted by lukeplato",
+      "url": "https://arxiv.org/abs/2512.05117",
+      "publishedAt": "2025-12-09T01:10:04.557Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lukeplato",
+      "tags": []
+    },
+    {
+      "id": "9xvyq2",
+      "title": "The Lost Machine Automats and Self-Service Cafeterias of NYC (2023)",
+      "description": "Score: 54 | Comments: 18 | Posted by walterbell",
+      "url": "https://www.untappedcities.com/automats-cafeterias-nyc/",
+      "publishedAt": "2025-12-09T00:51:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "walterbell",
+      "tags": []
+    },
+    {
+      "id": "uflag9",
+      "title": "Scientific and Technical Amateur Radio",
+      "description": "Score: 40 | Comments: 4 | Posted by gballan",
+      "url": "https://destevez.net/",
+      "publishedAt": "2025-12-09T00:50:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gballan",
+      "tags": []
+    },
+    {
+      "id": "mw6gp3",
+      "title": "Horses: AI progress is steady. Human equivalence is sudden",
+      "description": "Score: 275 | Comments: 179 | Posted by pbui",
+      "url": "https://andyljones.com/posts/horses.html",
+      "publishedAt": "2025-12-09T00:26:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pbui",
+      "tags": []
+    },
+    {
+      "id": "w9kr6h",
+      "title": "The universal weight subspace hypothesis",
+      "description": "Score: 203 | Comments: 75 | Posted by lukeplato",
+      "url": "https://arxiv.org/abs/2512.05117",
+      "publishedAt": "2025-12-09T00:16:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lukeplato",
+      "tags": []
+    },
+    {
+      "id": "577fco",
+      "title": "Manual: Spaces",
+      "description": "Score: 3 | Comments: 1 | Posted by doener",
+      "url": "https://type.today/en/journal/spaces",
+      "publishedAt": "2025-12-09T00:07:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "doener",
+      "tags": []
+    }
+  ]
+}

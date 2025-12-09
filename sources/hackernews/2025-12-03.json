@@ -256,6 +256,17 @@
       "tags": []
     },
     {
+      "id": "spvqu6",
+      "title": "OSHW: Small tablet based on RK3568 and AMOLED screen",
+      "description": "Score: 49 | Comments: 15 | Posted by thenthenthen",
+      "url": "https://oshwhub.com/oglggc/rui-xin-wei-rk3568-si-ceng-jia-li-chuang-mian-fei-gong-yi",
+      "publishedAt": "2025-12-03T16:19:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thenthenthen",
+      "tags": []
+    },
+    {
       "id": "ktp7ur",
       "title": "RCE Vulnerability in React and Next.js",
       "description": "Score: 460 | Comments: 155 | Posted by rayhaanj",
@@ -454,6 +465,17 @@
       "tags": []
     },
     {
+      "id": "7wo2nj",
+      "title": "Luarrow – True pipeline operators and elegant Haskell-style function compositio",
+      "description": "Score: 4 | Comments: 0 | Posted by todsacerdoti",
+      "url": "https://github.com/aiya000/luarrow.lua",
+      "publishedAt": "2025-12-03T04:04:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    },
+    {
       "id": "s0m99y",
       "title": "Japanese game devs face font dilemma as license increases from $380 to $20k",
       "description": "Score: 85 | Comments: 33 | Posted by zdw",
@@ -473,6 +495,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "TimDotC",
+      "tags": []
+    },
+    {
+      "id": "jca8mr",
+      "title": "Everything that is wrong in museums starts with wall labels",
+      "description": "Score: 15 | Comments: 9 | Posted by panic",
+      "url": "https://www.aaronland.info/weblog/2025/11/20/cafeteria/",
+      "publishedAt": "2025-12-03T00:03:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "panic",
       "tags": []
     }
   ]
