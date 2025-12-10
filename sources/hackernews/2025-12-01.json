@@ -25,6 +25,17 @@
       "tags": []
     },
     {
+      "id": "6kj76z",
+      "title": "Constructing the Word's First JPEG XL MD5 Hash Quine",
+      "description": "Score: 117 | Comments: 22 | Posted by luispa",
+      "url": "https://stackchk.fail/blog/jxl_hashquine_writeup",
+      "publishedAt": "2025-12-01T22:44:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "luispa",
+      "tags": []
+    },
+    {
       "id": "ivt5dk",
       "title": "John Giannandrea to retire from Apple",
       "description": "Score: 72 | Comments: 284 | Posted by robbiet480",
@@ -66,6 +77,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mfiguiere",
+      "tags": []
+    },
+    {
+      "id": "ym8tp",
+      "title": "ULID: Universally Unique Lexicographically Sortable Identifier",
+      "description": "Score: 57 | Comments: 49 | Posted by der_gopher",
+      "url": "https://packagemain.tech/p/ulid-identifier-golang-postgres",
+      "publishedAt": "2025-12-01T20:45:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "der_gopher",
       "tags": []
     },
     {

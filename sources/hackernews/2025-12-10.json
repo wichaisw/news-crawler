@@ -1,0 +1,127 @@
+{
+  "date": "2025-12-10",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "2cw8n7",
+      "title": "Michigan man dies of rabies after receiving kidney from infected donor",
+      "description": "Score: 4 | Comments: 0 | Posted by mudil",
+      "url": "https://www.foxnews.com/health/michigan-man-dies-rabies-after-receiving-kidney-from-infected-donor-who-saved-kitten-from-skunk-cdc",
+      "publishedAt": "2025-12-10T05:43:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mudil",
+      "tags": []
+    },
+    {
+      "id": "p5dgfp",
+      "title": "Dependable C",
+      "description": "Score: 10 | Comments: 2 | Posted by RossBencina",
+      "url": "https://dependablec.org/",
+      "publishedAt": "2025-12-10T04:29:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "RossBencina",
+      "tags": []
+    },
+    {
+      "id": "bprjrw",
+      "title": "'Source available' is not open source (and that's okay)dri.es",
+      "description": "Score: 33 | Comments: 26 | Posted by geerlingguy",
+      "url": "https://dri.es/source-available-is-not-open-source-and-that-is-okay",
+      "publishedAt": "2025-12-10T04:10:21.741Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "geerlingguy",
+      "tags": []
+    },
+    {
+      "id": "ii1so3",
+      "title": "The end of the kernel Rust experimentlwn.net",
+      "description": "Score: 187 | Comments: 80 | Posted by rascul",
+      "url": "https://lwn.net/Articles/1049831/",
+      "publishedAt": "2025-12-10T04:10:21.740Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rascul",
+      "tags": []
+    },
+    {
+      "id": "bprjrw",
+      "title": "'Source available' is not open source (and that's okay)",
+      "description": "Score: 34 | Comments: 27 | Posted by geerlingguy",
+      "url": "https://dri.es/source-available-is-not-open-source-and-that-is-okay",
+      "publishedAt": "2025-12-10T03:33:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "geerlingguy",
+      "tags": []
+    },
+    {
+      "id": "ii1so3",
+      "title": "The end of the kernel Rust experiment",
+      "description": "Score: 188 | Comments: 80 | Posted by rascul",
+      "url": "https://lwn.net/Articles/1049831/",
+      "publishedAt": "2025-12-10T03:15:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rascul",
+      "tags": []
+    },
+    {
+      "id": "b1fpr1",
+      "title": "Atomic time source failure at NIST Gaithersburg campus",
+      "description": "Score: 27 | Comments: 8 | Posted by dpcx",
+      "url": "https://groups.google.com/a/list.nist.gov/g/internet-time-service/c/Zd7VaR-vqV4?pli=1",
+      "publishedAt": "2025-12-10T02:41:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dpcx",
+      "tags": []
+    },
+    {
+      "id": "jj1xqt",
+      "title": "Show all your application error using Cloudflare Error Page",
+      "description": "Score: 11 | Comments: 4 | Posted by sawirricardo",
+      "url": "https://github.com/donlon/cloudflare-error-page",
+      "publishedAt": "2025-12-10T02:18:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sawirricardo",
+      "tags": []
+    },
+    {
+      "id": "8vygfy",
+      "title": "Post-transformer inference: 224× compression of Llama-70B with improved accuracy",
+      "description": "Score: 50 | Comments: 11 | Posted by anima-core",
+      "url": "https://zenodo.org/records/17873275",
+      "publishedAt": "2025-12-10T01:25:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "anima-core",
+      "tags": []
+    },
+    {
+      "id": "m1lw3y",
+      "title": "America is going through a big economic experiment",
+      "description": "Score: 8 | Comments: 3 | Posted by andsoitis",
+      "url": "https://www.economist.com/the-world-ahead/2025/11/12/america-is-going-through-a-big-economic-experiment",
+      "publishedAt": "2025-12-10T01:16:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andsoitis",
+      "tags": []
+    },
+    {
+      "id": "i9b7r2",
+      "title": "Emoji Book Synopses",
+      "description": "Score: 7 | Comments: 0 | Posted by jjgreen",
+      "url": "https://taylor.town/synopsi",
+      "publishedAt": "2025-12-10T00:41:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jjgreen",
+      "tags": []
+    }
+  ]
+}

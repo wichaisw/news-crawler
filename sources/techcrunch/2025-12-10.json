@@ -1,0 +1,39 @@
+{
+  "date": "2025-12-10",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3074171",
+      "title": "CoreWeave CEO defends AI circular deals as ‘working together’",
+      "description": "The CEO of the AI data center provider, which has Nvidia as an investor and a supplier, described the environment as a \"violent change\" in demand.",
+      "url": "https://techcrunch.com/2025/12/09/coreweave-ceo-defends-ai-circular-deals-as-working-together/",
+      "publishedAt": "2025-12-10T00:49:25.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lucas.ropek",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3074512",
+      "title": "Unconventional AI confirms its massive  $475M seed round",
+      "description": "Led by Naveen Rao, the former head of AI at Databricks, the new hardware startup is valued at $4.5 billion.",
+      "url": "https://techcrunch.com/2025/12/09/unconventional-ai-confirms-its-massive-475m-seed-round/",
+      "publishedAt": "2025-12-10T00:24:16.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Marina Temkin",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3074500",
+      "title": "Hinge CEO steps down to launch Overtone, an AI dating app",
+      "description": "Overtone is described as \"an early-stage dating service focused on using AI and voice tools to help people connect in a more thoughtful and personal",
+      "url": "https://techcrunch.com/2025/12/09/hinge-ceo-steps-down-to-launch-overtone-an-ai-dating-app/",
+      "publishedAt": "2025-12-10T00:01:13.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Amanda Silberling",
+      "tags": []
+    }
+  ]
+}
