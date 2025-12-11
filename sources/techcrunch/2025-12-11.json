@@ -1,0 +1,39 @@
+{
+  "date": "2025-12-11",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3075095",
+      "title": "Baby delivered in Waymo continues proud tradition of not making it to the hospital",
+      "description": "Some traditions, it seems, are immune to disruption.",
+      "url": "https://techcrunch.com/2025/12/10/baby-delivered-in-waymo-continues-proud-tradition-of-not-making-it-to-the-hospital/",
+      "publishedAt": "2025-12-11T04:46:56.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Connie Loizos",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3075053",
+      "title": "Google’s answer to the AI arms race — promote the guy behind its data center tech",
+      "description": "Amin Vahdat has been promoted to chief technologist for AI infrastructure, a newly created position reporting directly to CEO Sundar Pichai.",
+      "url": "https://techcrunch.com/2025/12/10/googles-answer-to-the-ai-arms-race-promote-the-guy-behind-its-data-center-tech/",
+      "publishedAt": "2025-12-11T01:10:04.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Connie Loizos",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3074921",
+      "title": "State attorneys general warn Microsoft, OpenAI, Google, and other AI giants to fix ‘delusional’ outputs",
+      "description": "The letter demanded companies institute new safeguards to keep users safe from harmful psychological impacts.",
+      "url": "https://techcrunch.com/2025/12/10/state-attorneys-general-warn-microsoft-openai-google-and-other-ai-giants-to-fix-delusional-outputs/",
+      "publishedAt": "2025-12-11T00:13:43.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lucas Ropek",
+      "tags": []
+    }
+  ]
+}

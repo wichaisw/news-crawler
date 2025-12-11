@@ -14,6 +14,17 @@
       "tags": []
     },
     {
+      "id": "l4smia",
+      "title": "Why the Sanitizer API is just `setHTML()`",
+      "description": "Score: 120 | Comments: 50 | Posted by birdculture",
+      "url": "https://frederikbraun.de/why-sethtml.html",
+      "publishedAt": "2025-12-08T22:37:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "birdculture",
+      "tags": []
+    },
+    {
       "id": "j8hymi",
       "title": "Show HN: I built a system for active note-taking in regular meetings like 1-1s",
       "description": "Score: 32 | Comments: 12 | Posted by davnicwil",
@@ -113,6 +124,17 @@
       "tags": []
     },
     {
+      "id": "wih0a8",
+      "title": "Deprecations via warnings don't work for Python libraries",
+      "description": "Score: 53 | Comments: 78 | Posted by scolby33",
+      "url": "https://sethmlarson.dev/deprecations-via-warnings-dont-work-for-python-libraries",
+      "publishedAt": "2025-12-08T18:13:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "scolby33",
+      "tags": []
+    },
+    {
       "id": "6i7626",
       "title": "AI should only run as fast as we can catch up",
       "description": "Score: 133 | Comments: 126 | Posted by yuedongze",
@@ -201,6 +223,17 @@
       "tags": []
     },
     {
+      "id": "vypqsa",
+      "title": "Sharding to Contain the Blast Radius of Data Breaches",
+      "description": "Score: 16 | Comments: 6 | Posted by jboutwell",
+      "url": "https://www.mimirsec.com/2025/12/05/sharding-to-contain-the-blast-radius-of-data-breaches/",
+      "publishedAt": "2025-12-08T16:31:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jboutwell",
+      "tags": []
+    },
+    {
       "id": "itmrlw",
       "title": "No more O'Reilly subscriptions for me",
       "description": "Score: 140 | Comments: 126 | Posted by speckx",
@@ -242,6 +275,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "lattis",
+      "tags": []
+    },
+    {
+      "id": "5ksi93",
+      "title": "Python Workers redux: fast cold starts, packages, and a uv-first workflow",
+      "description": "Score: 15 | Comments: 2 | Posted by dom96",
+      "url": "https://blog.cloudflare.com/python-workers-advancements/",
+      "publishedAt": "2025-12-08T14:42:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dom96",
       "tags": []
     },
     {

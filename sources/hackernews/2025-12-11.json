@@ -1,0 +1,50 @@
+{
+  "date": "2025-12-11",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "pt0fwd",
+      "title": "Incomplete list of mistakes in the design of CSS",
+      "description": "Score: 36 | Comments: 12 | Posted by OuterVale",
+      "url": "https://wiki.csswg.org/ideas/mistakes",
+      "publishedAt": "2025-12-11T04:20:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "OuterVale",
+      "tags": []
+    },
+    {
+      "id": "58uh5a",
+      "title": "Vibe coding is mad depressing",
+      "description": "Score: 137 | Comments: 70 | Posted by dirtylowprofile",
+      "url": "https://law.gmnz.xyz/vibe-coding-is-mad-depressing/",
+      "publishedAt": "2025-12-11T03:50:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dirtylowprofile",
+      "tags": []
+    },
+    {
+      "id": "iamuxt",
+      "title": "Patterns.dev",
+      "description": "Score: 114 | Comments: 32 | Posted by handfuloflight",
+      "url": "https://www.patterns.dev/",
+      "publishedAt": "2025-12-11T01:18:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "handfuloflight",
+      "tags": []
+    },
+    {
+      "id": "1issmu",
+      "title": "Do 8051/8031 assembly like its 1984",
+      "description": "Score: 7 | Comments: 7 | Posted by boznz",
+      "url": "https://rodyne.com/?p=3225",
+      "publishedAt": "2025-12-11T00:41:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "boznz",
+      "tags": []
+    }
+  ]
+}
