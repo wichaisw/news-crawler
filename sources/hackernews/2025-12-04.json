@@ -36,6 +36,17 @@
       "tags": []
     },
     {
+      "id": "tzgj62",
+      "title": "Tile IR Specification",
+      "description": "Score: 18 | Comments: 2 | Posted by my123",
+      "url": "https://docs.nvidia.com/cuda/tile-ir/",
+      "publishedAt": "2025-12-04T22:41:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "my123",
+      "tags": []
+    },
+    {
       "id": "hrl2up",
       "title": "Intel 8086 Microcode Explorer",
       "description": "Score: 21 | Comments: 2 | Posted by todsacerdoti",
@@ -286,6 +297,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "westurner",
+      "tags": []
+    },
+    {
+      "id": "6584yf",
+      "title": "Booting Linux in QEMU and Writing PID 1 in Go to Illustrate Kernel as Program",
+      "description": "Score: 259 | Comments: 84 | Posted by birdculture",
+      "url": "https://serversfor.dev/linux-inside-out/the-linux-kernel-is-just-a-program/",
+      "publishedAt": "2025-12-04T14:25:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "birdculture",
       "tags": []
     },
     {

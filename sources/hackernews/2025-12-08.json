@@ -58,6 +58,17 @@
       "tags": []
     },
     {
+      "id": "xn81gj",
+      "title": "The highest quality codebase",
+      "description": "Score: 478 | Comments: 320 | Posted by Gricha",
+      "url": "https://gricha.dev/blog/the-highest-quality-codebase",
+      "publishedAt": "2025-12-08T21:33:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Gricha",
+      "tags": []
+    },
+    {
       "id": "kzh6bv",
       "title": "Delivery robots take over Chicago sidewalks",
       "description": "Score: 87 | Comments: 156 | Posted by mikhael",
@@ -344,6 +355,28 @@
       "tags": []
     },
     {
+      "id": "8yhik6",
+      "title": "How the Brain Parses Language",
+      "description": "Score: 123 | Comments: 69 | Posted by mylifeandtimes",
+      "url": "https://www.quantamagazine.org/the-polyglot-neuroscientist-resolving-how-the-brain-parses-language-20251205/",
+      "publishedAt": "2025-12-08T12:46:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mylifeandtimes",
+      "tags": []
+    },
+    {
+      "id": "a382ak",
+      "title": "Golang optimizations for high‑volume services",
+      "description": "Score: 53 | Comments: 10 | Posted by der_gopher",
+      "url": "https://packagemain.tech/p/golang-optimizations-for-highvolume",
+      "publishedAt": "2025-12-08T11:49:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "der_gopher",
+      "tags": []
+    },
+    {
       "id": "yol26z",
       "title": "Bad Dye Job",
       "description": "Score: 214 | Comments: 112 | Posted by mpweiher",
@@ -352,6 +385,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mpweiher",
+      "tags": []
+    },
+    {
+      "id": "mug9mm",
+      "title": "You gotta push if you wanna pull",
+      "description": "Score: 17 | Comments: 6 | Posted by ingve",
+      "url": "https://www.morling.dev/blog/you-gotta-push-if-you-wanna-pull/",
+      "publishedAt": "2025-12-08T08:29:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingve",
       "tags": []
     },
     {

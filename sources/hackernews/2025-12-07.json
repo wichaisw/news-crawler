@@ -135,6 +135,17 @@
       "tags": []
     },
     {
+      "id": "int9xo",
+      "title": "He set out to walk around the world. After 27 years, his quest is nearly over",
+      "description": "Score: 13 | Comments: 1 | Posted by wallflower",
+      "url": "https://www.washingtonpost.com/lifestyle/2025/12/05/karl-bushby-walk-around-world/",
+      "publishedAt": "2025-12-07T16:26:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wallflower",
+      "tags": []
+    },
+    {
       "id": "dnsxcn",
       "title": "Scala 3 slowed us down?",
       "description": "Score: 205 | Comments: 126 | Posted by kmaliszewski",
@@ -242,6 +253,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ingve",
+      "tags": []
+    },
+    {
+      "id": "wtpda3",
+      "title": "Pdsink: USB Power Delivery Sink library for embedded devices",
+      "description": "Score: 29 | Comments: 9 | Posted by zdw",
+      "url": "https://github.com/pdsink/pdsink",
+      "publishedAt": "2025-12-07T04:14:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
       "tags": []
     },
     {

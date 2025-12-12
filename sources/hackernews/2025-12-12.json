@@ -1,0 +1,116 @@
+{
+  "date": "2025-12-12",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "s8pxvb",
+      "title": "Humans were making fire 400k years ago, earlier than thought",
+      "description": "Score: 3 | Comments: 0 | Posted by gmays",
+      "url": "https://apnews.com/article/britain-archaeology-fire-neanderthals-evolution-suffolk-3698b87f707ac4ca1719b5f0214f7064",
+      "publishedAt": "2025-12-12T05:36:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gmays",
+      "tags": []
+    },
+    {
+      "id": "puhn7e",
+      "title": "Cadmium Zinc Telluride: The wonder material powering a medical 'revolution'",
+      "description": "Score: 27 | Comments: 6 | Posted by 1659447091",
+      "url": "https://www.bbc.com/news/articles/c24l223d9n7o",
+      "publishedAt": "2025-12-12T01:41:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "1659447091",
+      "tags": []
+    },
+    {
+      "id": "z6n7uu",
+      "title": "Google De-Indexed My Bear Blog and I Don't Know Why",
+      "description": "Score: 28 | Comments: 5 | Posted by nafnlj",
+      "url": "https://journal.james-zhan.com/google-de-indexed-my-entire-bear-blog-and-i-dont-know-why/",
+      "publishedAt": "2025-12-12T01:20:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nafnlj",
+      "tags": []
+    },
+    {
+      "id": "p54gtl",
+      "title": "Notes on Gamma",
+      "description": "Score: 11 | Comments: 2 | Posted by todsacerdoti",
+      "url": "https://poniesandlight.co.uk/reflect/gamma/",
+      "publishedAt": "2025-12-12T01:05:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "9uzjme",
+      "title": "CRISPR fungus: Protein-packed, sustainable, and tastes like meat",
+      "description": "Score: 49 | Comments: 15 | Posted by rguiscard",
+      "url": "https://www.isaaa.org/kc/cropbiotechupdate/article/default.asp?ID=21607",
+      "publishedAt": "2025-12-12T00:59:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rguiscard",
+      "tags": []
+    },
+    {
+      "id": "qosq3f",
+      "title": "The HTML-First Approach: Why Htmx and Lightweight Frameworks Are Revolutionizin",
+      "description": "Score: 15 | Comments: 1 | Posted by todsacerdoti",
+      "url": "https://www.danieleteti.it/post/html-first-frameworks-htmx-revolution-en/#building-with-html-instead-of-fighting-with-javascript-layers-",
+      "publishedAt": "2025-12-12T00:37:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "dr74kb",
+      "title": "Stoolap: High-performance embedded SQL database in pure Rust",
+      "description": "Score: 39 | Comments: 8 | Posted by murat3ok",
+      "url": "https://github.com/stoolap/stoolap",
+      "publishedAt": "2025-12-12T00:28:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "murat3ok",
+      "tags": []
+    },
+    {
+      "id": "yxjcat",
+      "title": "Nokia N900 Necromancyyaky.dev",
+      "description": "Score: 174 | Comments: 50 | Posted by yaky",
+      "url": "https://yaky.dev/2025-12-11-nokia-n900-necromancy/",
+      "publishedAt": "2025-12-12T00:10:18.564Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "yaky",
+      "tags": []
+    },
+    {
+      "id": "99c16k",
+      "title": "Laying out the 404 Media zine",
+      "description": "Score: 46 | Comments: 5 | Posted by robenkleene",
+      "url": "https://tedium.co/2025/12/10/404-media-zine-linux-affinity/?",
+      "publishedAt": "2025-12-12T00:05:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "robenkleene",
+      "tags": []
+    },
+    {
+      "id": "yxjcat",
+      "title": "Nokia N900 Necromancy",
+      "description": "Score: 174 | Comments: 50 | Posted by yaky",
+      "url": "https://yaky.dev/2025-12-11-nokia-n900-necromancy/",
+      "publishedAt": "2025-12-12T00:04:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "yaky",
+      "tags": []
+    }
+  ]
+}
