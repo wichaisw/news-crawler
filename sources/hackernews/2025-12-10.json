@@ -157,6 +157,17 @@
       "tags": []
     },
     {
+      "id": "fmvn7t",
+      "title": "Pg_ClickHouse: A Postgres extension for querying ClickHouse",
+      "description": "Score: 82 | Comments: 31 | Posted by spathak",
+      "url": "https://clickhouse.com/blog/introducing-pg_clickhouse",
+      "publishedAt": "2025-12-10T17:14:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "spathak",
+      "tags": []
+    },
+    {
       "id": "ew9wbs",
       "title": "DeepSeek uses banned Nvidia chips for AI model, report says",
       "description": "Score: 297 | Comments: 281 | Posted by goodway",

@@ -1,0 +1,138 @@
+{
+  "date": "2025-12-13",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "aqwa64",
+      "title": "Doxers Posing as Cops Are Tricking Big Tech Firms into Sharing People's Data",
+      "description": "Score: 19 | Comments: 7 | Posted by iamnothere",
+      "url": "https://www.wired.com/story/doxers-posing-as-cops-are-tricking-big-tech-firms-into-sharing-peoples-private-data/",
+      "publishedAt": "2025-12-13T05:06:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "iamnothere",
+      "tags": []
+    },
+    {
+      "id": "vlcd1h",
+      "title": "Apple has locked my Apple ID, and I have no recourse. A plea for help",
+      "description": "Score: 82 | Comments: 26 | Posted by parisidau",
+      "url": "https://hey.paris/posts/appleid/",
+      "publishedAt": "2025-12-13T04:55:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "parisidau",
+      "tags": []
+    },
+    {
+      "id": "emq6eu",
+      "title": "Poor Johnny still won't encrypt",
+      "description": "Score: 23 | Comments: 23 | Posted by zdw",
+      "url": "https://bfswa.substack.com/p/poor-johnny-still-wont-encrypt",
+      "publishedAt": "2025-12-13T04:21:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "y9bilq",
+      "title": "UK Lords propose ban on VPNs for children",
+      "description": "Score: 13 | Comments: 2 | Posted by josephcsible",
+      "url": "https://www.techradar.com/vpn/vpn-privacy-security/uk-lords-propose-ban-on-vpns-for-children",
+      "publishedAt": "2025-12-13T03:22:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "josephcsible",
+      "tags": []
+    },
+    {
+      "id": "qt7416",
+      "title": "Google Removes Sci-Hub Domains from U.S. Search Results Due to Dated Court Order",
+      "description": "Score: 49 | Comments: 17 | Posted by t-3",
+      "url": "https://torrentfreak.com/google-removes-sci-hub-domains-from-u-s-search-results-due-to-dated-court-order/",
+      "publishedAt": "2025-12-13T03:21:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "t-3",
+      "tags": []
+    },
+    {
+      "id": "eb4cdm",
+      "title": "The Coming Need for Formal Specification",
+      "description": "Score: 9 | Comments: 7 | Posted by todsacerdoti",
+      "url": "https://benjamincongdon.me/blog/2025/12/12/The-Coming-Need-for-Formal-Specification/",
+      "publishedAt": "2025-12-13T03:17:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "jl025k",
+      "title": "Oliver sacks put himself into his case studies. What was the cost?",
+      "description": "Score: 45 | Comments: 10 | Posted by talonx",
+      "url": "https://www.newyorker.com/magazine/2025/12/15/oliver-sacks-put-himself-into-his-case-studies-what-was-the-cost",
+      "publishedAt": "2025-12-13T03:12:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "talonx",
+      "tags": []
+    },
+    {
+      "id": "hlxu2e",
+      "title": "A Lisp Interpreter Implemented in Conway's Game of Life (2022)",
+      "description": "Score: 4 | Comments: 0 | Posted by pabs3",
+      "url": "https://woodrush.github.io/blog/posts/2022-01-12-lisp-in-life.html",
+      "publishedAt": "2025-12-13T03:06:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pabs3",
+      "tags": []
+    },
+    {
+      "id": "m190sm",
+      "title": "1300 Still Images from the Animated Films of Hayao Miyazaki's Studio Ghibli (2023)",
+      "description": "Score: 36 | Comments: 5 | Posted by vinhnx",
+      "url": "https://www.ghibli.jp/info/013772/",
+      "publishedAt": "2025-12-13T02:56:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vinhnx",
+      "tags": []
+    },
+    {
+      "id": "wk9w5q",
+      "title": "How the Bell Labs Holmdel Complex Inspired 'Severance'",
+      "description": "Score: 5 | Comments: 1 | Posted by SerCe",
+      "url": "https://www.atlasobscura.com/articles/podcast-bell-labs-holmdel-complex",
+      "publishedAt": "2025-12-13T02:03:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "SerCe",
+      "tags": []
+    },
+    {
+      "id": "h68lrk",
+      "title": "The Checkerboard",
+      "description": "Score: 33 | Comments: 5 | Posted by thread_id",
+      "url": "https://99percentinvisible.org/episode/650-the-checkerboard/",
+      "publishedAt": "2025-12-13T00:50:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thread_id",
+      "tags": []
+    },
+    {
+      "id": "lhymdf",
+      "title": "OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLIsimonwillison.net",
+      "description": "Score: 255 | Comments: 156 | Posted by simonw",
+      "url": "https://simonwillison.net/2025/Dec/12/openai-skills/",
+      "publishedAt": "2025-12-13T00:09:34.846Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "simonw",
+      "tags": []
+    }
+  ]
+}

@@ -3,6 +3,28 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "vp2sbi",
+      "title": "Ensuring a National Policy Framework for Artificial Intelligence",
+      "description": "Score: 100 | Comments: 154 | Posted by andsoitis",
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/12/eliminating-state-law-obstruction-of-national-artificial-intelligence-policy/",
+      "publishedAt": "2025-12-11T23:56:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andsoitis",
+      "tags": []
+    },
+    {
+      "id": "rhf0zv",
+      "title": "Show HN: A real-time 4D fractal explorer in the browser using WebGPU",
+      "description": "Score: 3 | Comments: 1 | Posted by bryan0",
+      "url": "https://bryanjj.github.io/nebula/",
+      "publishedAt": "2025-12-11T21:44:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bryan0",
+      "tags": []
+    },
+    {
       "id": "3ubed0",
       "title": "Powder and stone, or, why medieval rulers loved castles",
       "description": "Score: 38 | Comments: 13 | Posted by areoform",
@@ -124,6 +146,17 @@
       "tags": []
     },
     {
+      "id": "s3ddxe",
+      "title": "Show HN: I made a spreadsheet where formulas also update backwards",
+      "description": "Score: 95 | Comments: 44 | Posted by fouronnes3",
+      "url": "https://victorpoughon.github.io/bidicalc/",
+      "publishedAt": "2025-12-11T18:00:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fouronnes3",
+      "tags": []
+    },
+    {
       "id": "vctnst",
       "title": "Litestream VFS",
       "description": "Score: 267 | Comments: 77 | Posted by emschwartz",
@@ -176,6 +209,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "rapnie",
+      "tags": []
+    },
+    {
+      "id": "r712nn",
+      "title": "From text to token: How tokenization pipelines work",
+      "description": "Score: 115 | Comments: 19 | Posted by philippemnoel",
+      "url": "https://www.paradedb.com/blog/when-tokenization-becomes-token",
+      "publishedAt": "2025-12-11T14:45:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "philippemnoel",
       "tags": []
     },
     {

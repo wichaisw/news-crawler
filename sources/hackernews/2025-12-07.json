@@ -91,6 +91,17 @@
       "tags": []
     },
     {
+      "id": "9eys4k",
+      "title": "So What Should We Call This – A Grue Jay?",
+      "description": "Score: 38 | Comments: 14 | Posted by surprisetalk",
+      "url": "https://cns.utexas.edu/news/research/so-what-should-we-call-grue-jay",
+      "publishedAt": "2025-12-07T18:11:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
       "id": "elnex7",
       "title": "The C++ standard for the F-35 Fighter Jet [video]",
       "description": "Score: 227 | Comments: 228 | Posted by AareyBaba",
@@ -253,6 +264,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ingve",
+      "tags": []
+    },
+    {
+      "id": "60jgbh",
+      "title": "Go is portable, until it isn't",
+      "description": "Score: 47 | Comments: 45 | Posted by khazit",
+      "url": "https://simpleobservability.com/blog/go-portable-until-isnt",
+      "publishedAt": "2025-12-07T11:17:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "khazit",
+      "tags": []
+    },
+    {
+      "id": "bcfbtn",
+      "title": "C64 Maze Chomp.BAS",
+      "description": "Score: 23 | Comments: 3 | Posted by ibobev",
+      "url": "https://basic-code.bearblog.dev/c64-maze-chompbas/",
+      "publishedAt": "2025-12-07T11:01:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
       "tags": []
     },
     {

@@ -135,6 +135,17 @@
       "tags": []
     },
     {
+      "id": "ongdot",
+      "title": "Ferrari's Formula 1 Handovers: Handovers from Surgery to Intensive Care 2008;pdf",
+      "description": "Score: 28 | Comments: 9 | Posted by bookofjoe",
+      "url": "https://gwern.net/doc/technology/2008-sower.pdf",
+      "publishedAt": "2025-12-06T19:21:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bookofjoe",
+      "tags": []
+    },
+    {
       "id": "z8rlkz",
       "title": "Germany votes to bring in voluntary military service programme for 18-year-olds",
       "description": "Score: 37 | Comments: 82 | Posted by petermcneeley",
@@ -187,6 +198,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "eamag",
+      "tags": []
+    },
+    {
+      "id": "6zrwcn",
+      "title": "4 billion if statements (2023)",
+      "description": "Score: 601 | Comments: 168 | Posted by damethos",
+      "url": "https://andreasjhkarlsson.github.io//jekyll/update/2023/12/27/4-billion-if-statements.html",
+      "publishedAt": "2025-12-06T15:34:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "damethos",
+      "tags": []
+    },
+    {
+      "id": "z76xg3",
+      "title": "Fast Median Filter over arbitrary datatypes",
+      "description": "Score: 26 | Comments: 2 | Posted by martianlantern",
+      "url": "https://martianlantern.github.io/2025/09/median-filter-over-arbitrary-datatypes/",
+      "publishedAt": "2025-12-06T15:08:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "martianlantern",
       "tags": []
     },
     {
