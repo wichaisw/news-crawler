@@ -1,0 +1,116 @@
+{
+  "date": "2025-12-14",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "n41vin",
+      "title": "Heavy metal is healing teens on the Blackfeet Nation",
+      "description": "Score: 23 | Comments: 2 | Posted by cdrnsf",
+      "url": "https://www.hcn.org/issues/57-11/heavy-metal-is-healing-teens-on-the-blackfeet-nation/",
+      "publishedAt": "2025-12-14T03:46:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cdrnsf",
+      "tags": []
+    },
+    {
+      "id": "g0085n",
+      "title": "Rocket Lab – 'Raise and Shine' Launch for JAXA [video]",
+      "description": "Score: 12 | Comments: 0 | Posted by schappim",
+      "url": "https://www.youtube.com/watch?v=cMP328yoUu4",
+      "publishedAt": "2025-12-14T03:13:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "schappim",
+      "tags": []
+    },
+    {
+      "id": "jt6mu4",
+      "title": "Lean Theorem Prover Mathlib",
+      "description": "Score: 20 | Comments: 0 | Posted by downboots",
+      "url": "https://github.com/leanprover-community/mathlib4",
+      "publishedAt": "2025-12-14T01:49:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "downboots",
+      "tags": []
+    },
+    {
+      "id": "7vp9v8",
+      "title": "If a Meta AI model can read a brain-wide signal, why wouldn't the brain?",
+      "description": "Score: 30 | Comments: 15 | Posted by rdgthree",
+      "url": "https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain",
+      "publishedAt": "2025-12-14T01:43:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rdgthree",
+      "tags": []
+    },
+    {
+      "id": "fknu12",
+      "title": "Therapeutic Use of Cannabis and Cannabinoids: A Review",
+      "description": "Score: 25 | Comments: 7 | Posted by bookofjoe",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2842072?guestAccessKey=a368e622-e374-4a0c-8d3b-22a976500305",
+      "publishedAt": "2025-12-14T01:32:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bookofjoe",
+      "tags": []
+    },
+    {
+      "id": "x1f2hz",
+      "title": "Free Software Awards Winners Announced: Andy Wingo, Alx Sa, Govdirectory",
+      "description": "Score: 30 | Comments: 3 | Posted by pseudolus",
+      "url": "https://www.fsf.org/news/2024-free-software-awards-winners",
+      "publishedAt": "2025-12-14T01:19:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pseudolus",
+      "tags": []
+    },
+    {
+      "id": "lsr4h",
+      "title": "Awesome-Jj: Jujutsu Things",
+      "description": "Score: 33 | Comments: 4 | Posted by n3t",
+      "url": "https://github.com/Necior/awesome-jj",
+      "publishedAt": "2025-12-14T01:10:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "n3t",
+      "tags": []
+    },
+    {
+      "id": "pd59vg",
+      "title": "A unscientific guide to the security of various PQC algorithms",
+      "description": "Score: 4 | Comments: 0 | Posted by todsacerdoti",
+      "url": "https://keymaterial.net/2025/12/13/a-very-unscientific-guide-to-the-security-of-various-pqc-algorithms/",
+      "publishedAt": "2025-12-14T00:51:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "3qel51",
+      "title": "An Implementation of J",
+      "description": "Score: 41 | Comments: 17 | Posted by ofalkaed",
+      "url": "https://www.jsoftware.com/ioj/ioj.htm",
+      "publishedAt": "2025-12-14T00:34:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ofalkaed",
+      "tags": []
+    },
+    {
+      "id": "sbjh51",
+      "title": "Using E-Ink tablet as monitor for Linuxalavi.me",
+      "description": "Score: 67 | Comments: 23 | Posted by yolkedgeek",
+      "url": "https://alavi.me/blog/e-ink-tablet-as-monitor-linux/",
+      "publishedAt": "2025-12-14T00:09:35.942Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "yolkedgeek",
+      "tags": []
+    }
+  ]
+}

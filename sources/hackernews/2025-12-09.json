@@ -47,6 +47,17 @@
       "tags": []
     },
     {
+      "id": "kwghfc",
+      "title": "Go Proposal: Secret Mode",
+      "description": "Score: 179 | Comments: 78 | Posted by enz",
+      "url": "https://antonz.org/accepted/runtime-secret/",
+      "publishedAt": "2025-12-09T21:10:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "enz",
+      "tags": []
+    },
+    {
       "id": "1kxrt0",
       "title": "Django: what’s new in 6.0",
       "description": "Score: 215 | Comments: 52 | Posted by rbanffy",
@@ -69,6 +80,17 @@
       "tags": []
     },
     {
+      "id": "6dynf",
+      "title": "Beautiful Abelian Sandpiles",
+      "description": "Score: 138 | Comments: 24 | Posted by eavan0",
+      "url": "https://eavan.blog/posts/beautiful-sandpiles.html",
+      "publishedAt": "2025-12-09T20:16:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "eavan0",
+      "tags": []
+    },
+    {
       "id": "q5az2t",
       "title": "Agentic AI Foundation",
       "description": "Score: 91 | Comments: 21 | Posted by thinkingkong",
@@ -88,6 +110,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "tartoran",
+      "tags": []
+    },
+    {
+      "id": "sa38j6",
+      "title": "1 html search engine",
+      "description": "Score: 8 | Comments: 4 | Posted by k8o5",
+      "url": "https://k8o5.github.io/search",
+      "publishedAt": "2025-12-09T18:55:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "k8o5",
       "tags": []
     },
     {
@@ -286,6 +319,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "pember",
+      "tags": []
+    },
+    {
+      "id": "sbjh51",
+      "title": "Using E-Ink tablet as monitor for Linux",
+      "description": "Score: 67 | Comments: 23 | Posted by yolkedgeek",
+      "url": "https://alavi.me/blog/e-ink-tablet-as-monitor-linux/",
+      "publishedAt": "2025-12-09T14:10:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "yolkedgeek",
       "tags": []
     },
     {

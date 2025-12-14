@@ -289,6 +289,17 @@
       "tags": []
     },
     {
+      "id": "pgg257",
+      "title": "Dhtml Lemmings (2004)",
+      "description": "Score: 15 | Comments: 8 | Posted by tetris11",
+      "url": "https://www.elizium.nu/scripts/lemmings/index.php",
+      "publishedAt": "2025-12-08T14:50:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tetris11",
+      "tags": []
+    },
+    {
       "id": "5ksi93",
       "title": "Python Workers redux: fast cold starts, packages, and a uv-first workflow",
       "description": "Score: 15 | Comments: 2 | Posted by dom96",
@@ -330,6 +341,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "taubek",
+      "tags": []
+    },
+    {
+      "id": "ofqlrj",
+      "title": "How exchanges turn order books into distributed logs",
+      "description": "Score: 127 | Comments: 65 | Posted by rundef",
+      "url": "https://quant.engineering/exchange-order-book-distributed-logs.html",
+      "publishedAt": "2025-12-08T13:48:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rundef",
       "tags": []
     },
     {
@@ -421,6 +443,17 @@
       "tags": []
     },
     {
+      "id": "e9yiyw",
+      "title": "Using Python for Scripting",
+      "description": "Score: 113 | Comments: 85 | Posted by birdculture",
+      "url": "https://hypirion.com/musings/use-python-for-scripting",
+      "publishedAt": "2025-12-08T08:52:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "birdculture",
+      "tags": []
+    },
+    {
       "id": "mug9mm",
       "title": "You gotta push if you wanna pull",
       "description": "Score: 17 | Comments: 6 | Posted by ingve",
@@ -440,6 +473,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "robin_reala",
+      "tags": []
+    },
+    {
+      "id": "ic20v2",
+      "title": "From Azure Functions to FreeBSD",
+      "description": "Score: 86 | Comments: 14 | Posted by todsacerdoti",
+      "url": "https://jmmv.dev/2025/12/from-azure-functions-to-freebsd.html",
+      "publishedAt": "2025-12-08T08:02:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
       "tags": []
     },
     {
