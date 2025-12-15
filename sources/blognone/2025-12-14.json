@@ -3,6 +3,51 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "149219 at https://www.blognone.com",
+      "title": "iFixit ออกแอปมือถือ เป็นคู่มือการซ่อมแซมอุปกรณ์ต่าง ๆ พร้อมระบบค้นหาผ่านแชทบอต",
+      "description": "iFixit ออกแอปมือถือ เป็นคู่มือการซ่อมแซมอุปกรณ์ต่าง ๆ พร้อมระบบค้นหาผ่านแชทบอต Body iFixit เปิดตัวแอปบนสมาร์ทโฟนอย่างเป็นทางการทั้งใน iOS และ Android",
+      "url": "https://www.blognone.com/node/149219",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2025/2025-12/ifixit.jpg",
+      "publishedAt": "2025-12-14T15:46:10.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149224 at https://www.blognone.com",
+      "title": "ดิสโทร Pop!_OS ออก Cosmic Desktop รุ่นเสถียรรุ่นแรก เขียนด้วย Rust",
+      "description": "ดิสโทร Pop!_OS ออก Cosmic Desktop รุ่นเสถียรรุ่นแรก เขียนด้วย Rust Body System76 เป็นบริษัทผู้ผลิตฮาร์ดแวร์พีซีที่ใช้ระบบปฏิบัติการลินุกซ์",
+      "url": "https://www.blognone.com/node/149224",
+      "publishedAt": "2025-12-14T13:15:57.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149223 at https://www.blognone.com",
+      "title": "สิ้นยุคสมัย Oracle ถอด Java Applet ออกจาก JDK 26",
+      "description": "สิ้นยุคสมัย Oracle ถอด Java Applet ออกจาก JDK 26 Body Oracle ประกาศถอดแพ็กเกจ java.applet ออกจาก JDK 26 ที่จะออกในเดือนมีนาคม 2026",
+      "url": "https://www.blognone.com/node/149223",
+      "publishedAt": "2025-12-14T12:59:05.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149222 at https://www.blognone.com",
+      "title": "ภาษา R กลับมาติด Top 10 TIOBE Index เดือนธันวาคม 2025",
+      "description": "ภาษา R กลับมาติด Top 10 TIOBE Index เดือนธันวาคม 2025 Body ภาษา R กลับมาติดอันดับ Top 10 ภาษาโปรแกรมยอดนิยมของ TIOBE Index อีกครั้ง (อยู่อันดับ 10",
+      "url": "https://www.blognone.com/node/149222",
+      "publishedAt": "2025-12-14T12:39:19.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "149211 at https://www.blognone.com",
       "title": "เปิดตัว Mega Man: Dual Override ภาคหลักภาคใหม่ กำหนดออกปี 2027",
       "description": "เปิดตัว Mega Man: Dual Override ภาคหลักภาคใหม่ กำหนดออกปี 2027 Body Capcom เปิดตัวเกม Rockman / Mega Man ภาคหลักภาคใหม่คือ Mega Man: Dual Override",

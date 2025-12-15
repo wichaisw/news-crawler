@@ -36,6 +36,17 @@
       "tags": []
     },
     {
+      "id": "rn6rj5",
+      "title": "How well do you know C++ auto type deduction?",
+      "description": "Score: 17 | Comments: 4 | Posted by volatileint",
+      "url": "https://www.volatileint.dev/posts/auto-type-deduction-gauntlet/",
+      "publishedAt": "2025-12-09T22:44:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "volatileint",
+      "tags": []
+    },
+    {
       "id": "mqtf56",
       "title": "Qt, Linux and everything: Debugging Qt WebAssembly",
       "description": "Score: 55 | Comments: 12 | Posted by speckx",
@@ -429,6 +440,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "gballan",
+      "tags": []
+    },
+    {
+      "id": "6qe3db",
+      "title": "Metacode: The new standard for machine-readable comments for Python",
+      "description": "Score: 13 | Comments: 6 | Posted by pomponchik",
+      "url": "https://github.com/pomponchik/metacode",
+      "publishedAt": "2025-12-09T00:47:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pomponchik",
       "tags": []
     },
     {

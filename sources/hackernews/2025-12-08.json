@@ -410,6 +410,17 @@
       "tags": []
     },
     {
+      "id": "e0qkbe",
+      "title": "Checkpointing the Message Processing",
+      "description": "Score: 11 | Comments: 0 | Posted by ingve",
+      "url": "https://event-driven.io/en/checkpointing_message_processing/",
+      "publishedAt": "2025-12-08T12:45:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingve",
+      "tags": []
+    },
+    {
       "id": "t83ixv",
       "title": "Slax: Live Pocket Linux",
       "description": "Score: 13 | Comments: 1 | Posted by Ulf950",
@@ -451,6 +462,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "birdculture",
+      "tags": []
+    },
+    {
+      "id": "z56i2f",
+      "title": "In the Beginning was the Command Line (1999)",
+      "description": "Score: 121 | Comments: 58 | Posted by wseqyrku",
+      "url": "https://web.stanford.edu/class/cs81n/command.txt",
+      "publishedAt": "2025-12-08T08:44:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wseqyrku",
       "tags": []
     },
     {
@@ -594,6 +616,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "bluetomcat",
+      "tags": []
+    },
+    {
+      "id": "nheten",
+      "title": "An attempt to articulate Forth's practical strengths and eternal usefulness",
+      "description": "Score: 39 | Comments: 21 | Posted by todsacerdoti",
+      "url": "https://im-just-lee.ing/forth-why-cb234c03.txt",
+      "publishedAt": "2025-12-08T00:25:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
       "tags": []
     }
   ]
