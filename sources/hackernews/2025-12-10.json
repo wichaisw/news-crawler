@@ -3,6 +3,28 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "29w8ns",
+      "title": "Nature's many attempts to evolve a Nostr",
+      "description": "Score: 155 | Comments: 83 | Posted by fiatjaf",
+      "url": "https://newsletter.squishy.computer/p/natures-many-attempts-to-evolve-a",
+      "publishedAt": "2025-12-10T23:54:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fiatjaf",
+      "tags": []
+    },
+    {
+      "id": "2x20qy",
+      "title": "Debugging TLS failures in distroless containers",
+      "description": "Score: 6 | Comments: 0 | Posted by asaiacai",
+      "url": "https://lucabaggi.com/posts/ssl-docker/",
+      "publishedAt": "2025-12-10T23:16:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "asaiacai",
+      "tags": []
+    },
+    {
       "id": "u8lbw5",
       "title": "When would you ever want bubblesort? (2023)",
       "description": "Score: 82 | Comments: 55 | Posted by atan2",
@@ -146,6 +168,17 @@
       "tags": []
     },
     {
+      "id": "xmvfcn",
+      "title": "The Optics and Image Processing Behind Fundus Cameras",
+      "description": "Score: 13 | Comments: 1 | Posted by hyperific",
+      "url": "https://www.youtube.com/watch?v=EvTolqbCHXo",
+      "publishedAt": "2025-12-10T18:29:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hyperific",
+      "tags": []
+    },
+    {
       "id": "u2au6r",
       "title": "Intermittent hypoxia increases blood flow and benefits executive function",
       "description": "Score: 39 | Comments: 46 | Posted by PaulHoule",
@@ -267,6 +300,17 @@
       "tags": []
     },
     {
+      "id": "uyyxez",
+      "title": "Light intensity steers molecular assemblies into 1D, 2D or 3D structures",
+      "description": "Score: 13 | Comments: 0 | Posted by PaulHoule",
+      "url": "https://phys.org/news/2025-11-intensity-molecular-1d-2d-3d.html",
+      "publishedAt": "2025-12-10T15:54:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "PaulHoule",
+      "tags": []
+    },
+    {
       "id": "nq69o8",
       "title": "Qualcomm acquires RISC-V focused Ventana Micro Systems",
       "description": "Score: 60 | Comments: 62 | Posted by fork-bomber",
@@ -363,6 +407,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jbrooksuk",
+      "tags": []
+    },
+    {
+      "id": "esbva2",
+      "title": "How does Windows synthesize CF_Unicode­TEXT from CF_TEXT and vice versa?",
+      "description": "Score: 5 | Comments: 0 | Posted by ibobev",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20251209-00/?p=111854",
+      "publishedAt": "2025-12-10T09:42:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
       "tags": []
     },
     {

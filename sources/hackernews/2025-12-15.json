@@ -3,6 +3,259 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "xg1xda",
+      "title": "Native vs. emulation: World of Warcraft game performance on Snapdragon X Elite",
+      "description": "Score: 43 | Comments: 14 | Posted by geekman7473",
+      "url": "https://rkblog.dev/posts/pc-hardware/pc-on-arm/x86_versus_arm_native_game/",
+      "publishedAt": "2025-12-15T23:47:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "geekman7473",
+      "tags": []
+    },
+    {
+      "id": "9yf91b",
+      "title": "JetBlue flight averts mid-air collision with US Air Force jet",
+      "description": "Score: 168 | Comments: 79 | Posted by divbzero",
+      "url": "https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/",
+      "publishedAt": "2025-12-15T22:48:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "divbzero",
+      "tags": []
+    },
+    {
+      "id": "k5j2fg",
+      "title": "Economics of Orbital vs. Terrestrial Data Centers",
+      "description": "Score: 75 | Comments: 124 | Posted by flinner",
+      "url": "https://andrewmccalip.com/space-datacenters",
+      "publishedAt": "2025-12-15T21:56:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "flinner",
+      "tags": []
+    },
+    {
+      "id": "3phqv5",
+      "title": "Ford kills the All-Electric F-150",
+      "description": "Score: 294 | Comments: 470 | Posted by sacred-rat",
+      "url": "https://www.wired.com/story/ford-kills-electric-f-150-lightning-for-hybrid/",
+      "publishedAt": "2025-12-15T21:46:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sacred-rat",
+      "tags": []
+    },
+    {
+      "id": "r1dvhx",
+      "title": "Fix HDMI-CEC weirdness with a Raspberry Pi and a $7 cable",
+      "description": "Score: 230 | Comments: 110 | Posted by jlian",
+      "url": "https://johnlian.net/posts/hdmi-cec/",
+      "publishedAt": "2025-12-15T21:37:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jlian",
+      "tags": []
+    },
+    {
+      "id": "p44wez",
+      "title": "Secret Documents Show Pepsi and Walmart Colluded to Raise Food Prices",
+      "description": "Score: 329 | Comments: 93 | Posted by connor11528",
+      "url": "https://www.thebignewsletter.com/p/secret-documents-show-pepsi-and-walmart",
+      "publishedAt": "2025-12-15T21:24:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "connor11528",
+      "tags": []
+    },
+    {
+      "id": "8tw30s",
+      "title": "Canada's Carney called out for 'utilizing' British spelling",
+      "description": "Score: 7 | Comments: 7 | Posted by haunter",
+      "url": "https://www.bbc.com/news/articles/cj69d89l8l5o",
+      "publishedAt": "2025-12-15T21:15:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "haunter",
+      "tags": []
+    },
+    {
+      "id": "i5725i",
+      "title": "A kernel bug froze my machine: Debugging an async-profiler deadlock",
+      "description": "Score: 76 | Comments: 14 | Posted by bluestreak",
+      "url": "https://questdb.com/blog/async-profiler-kernel-bug/",
+      "publishedAt": "2025-12-15T20:52:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bluestreak",
+      "tags": []
+    },
+    {
+      "id": "wa1zwa",
+      "title": "A quarter of US-trained scientists eventually leave",
+      "description": "Score: 131 | Comments: 156 | Posted by bikenaga",
+      "url": "https://arxiv.org/abs/2512.11146",
+      "publishedAt": "2025-12-15T20:25:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bikenaga",
+      "tags": []
+    },
+    {
+      "id": "5do1ik",
+      "title": "The appropriate amount of effort is zero",
+      "description": "Score: 85 | Comments: 53 | Posted by gmays",
+      "url": "https://expandingawareness.org/blog/the-appropriate-amount-of-effort-is-zero/",
+      "publishedAt": "2025-12-15T20:09:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gmays",
+      "tags": []
+    },
+    {
+      "id": "q4itw0",
+      "title": "Upcoming Changes to Let's Encrypt Certificates",
+      "description": "Score: 284 | Comments: 216 | Posted by schmuckonwheels",
+      "url": "https://community.letsencrypt.org/t/upcoming-changes-to-let-s-encrypt-certificates/243873",
+      "publishedAt": "2025-12-15T19:30:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "schmuckonwheels",
+      "tags": []
+    },
+    {
+      "id": "1ndv0v",
+      "title": "Umbrel – Personal Cloud",
+      "description": "Score: 157 | Comments: 92 | Posted by oldfuture",
+      "url": "https://umbrel.com",
+      "publishedAt": "2025-12-15T19:27:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "oldfuture",
+      "tags": []
+    },
+    {
+      "id": "rrhtas",
+      "title": "“Super secure” messaging app leaks everyone's phone number",
+      "description": "Score: 559 | Comments: 265 | Posted by e_daigle",
+      "url": "https://ericdaigle.ca/posts/super-secure-maga-messaging-app-leaks-everyones-phone-number/",
+      "publishedAt": "2025-12-15T19:23:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "e_daigle",
+      "tags": []
+    },
+    {
+      "id": "40dbbe",
+      "title": "Problems with D-Bus on the Linux desktop",
+      "description": "Score: 292 | Comments: 226 | Posted by LorenDB",
+      "url": "https://blog.vaxry.net/articles/2025-dbusSucks",
+      "publishedAt": "2025-12-15T19:07:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "LorenDB",
+      "tags": []
+    },
+    {
+      "id": "6xhq32",
+      "title": "Chafa: Terminal Graphics for the 21st Century",
+      "description": "Score: 131 | Comments: 23 | Posted by birdculture",
+      "url": "https://hpjansson.org/chafa/",
+      "publishedAt": "2025-12-15T18:16:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "birdculture",
+      "tags": []
+    },
+    {
+      "id": "m00qf7",
+      "title": "Cosmic-ray bath in a past supernova gives birth to Earth-like planets",
+      "description": "Score: 89 | Comments: 32 | Posted by toomuchtodo",
+      "url": "https://www.science.org/doi/10.1126/sciadv.adx7892",
+      "publishedAt": "2025-12-15T17:01:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "toomuchtodo",
+      "tags": []
+    },
+    {
+      "id": "xsutiu",
+      "title": "Former CIA spy: agency's tools can takeover your phone, TV, and even your car",
+      "description": "Score: 72 | Comments: 42 | Posted by voxleone",
+      "url": "https://currentindia.com/channels/timesofindia/toi-world/yes-they-can-former-cia-spy-warns-agencys-tools-can-takeover-your-phone-tv-and-even-your-car/",
+      "publishedAt": "2025-12-15T16:46:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "voxleone",
+      "tags": []
+    },
+    {
+      "id": "peao53",
+      "title": "We are discontinuing the dark web report",
+      "description": "Score: 121 | Comments: 38 | Posted by satertek",
+      "url": "https://support.google.com/websearch/answer/16767242?hl=en",
+      "publishedAt": "2025-12-15T14:56:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "satertek",
+      "tags": []
+    },
+    {
+      "id": "rhh9id",
+      "title": "Thousands of U.S. farmers have Parkinson's. They blame a deadly pesticide",
+      "description": "Score: 395 | Comments: 305 | Posted by bikenaga",
+      "url": "https://www.mlive.com/news/2025/12/thousands-of-us-farmers-have-parkinsons-they-blame-a-deadly-pesticide.html",
+      "publishedAt": "2025-12-15T14:37:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bikenaga",
+      "tags": []
+    },
+    {
+      "id": "yem1bt",
+      "title": "Carrier Landing in Top Gun for the NES",
+      "description": "Score: 359 | Comments: 154 | Posted by todsacerdoti",
+      "url": "https://relaxing.run/blag/posts/top-gun-landing/",
+      "publishedAt": "2025-12-15T14:16:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "j74q9n",
+      "title": "It seems that OpenAI is scraping [certificate transparency] logs",
+      "description": "Score: 200 | Comments: 99 | Posted by pavel_lishin",
+      "url": "https://benjojo.co.uk/u/benjojo/h/Gxy2qrCkn1Y327Y6D3",
+      "publishedAt": "2025-12-15T13:48:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pavel_lishin",
+      "tags": []
+    },
+    {
+      "id": "gevhof",
+      "title": "I'm Kenyan. I don't write like ChatGPT, ChatGPT writes like me",
+      "description": "Score: 631 | Comments: 404 | Posted by florian_s",
+      "url": "https://marcusolang.substack.com/p/im-kenyan-i-dont-write-like-chatgpt",
+      "publishedAt": "2025-12-15T12:12:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "florian_s",
+      "tags": []
+    },
+    {
+      "id": "9ukk4x",
+      "title": "Avoid UUID Version 4 Primary Keys in Postgres",
+      "description": "Score: 344 | Comments: 391 | Posted by pil0u",
+      "url": "https://andyatkinson.com/avoid-uuid-version-4-primary-keys",
+      "publishedAt": "2025-12-15T10:08:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pil0u",
+      "tags": []
+    },
+    {
       "id": "lsebnq",
       "title": "Rob Reiner,Legendary Director and Actor,and Wife Found Dead in Apparent Homicide",
       "description": "Score: 17 | Comments: 3 | Posted by croes",
@@ -69,6 +322,17 @@
       "tags": []
     },
     {
+      "id": "3o3fya",
+      "title": "Rob Reiner has died",
+      "description": "Score: 303 | Comments: 212 | Posted by RickJWagner",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/rob-reiner-dead-harry-met-sally-princess-bride-all-in-family-1236450387/",
+      "publishedAt": "2025-12-15T03:54:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "RickJWagner",
+      "tags": []
+    },
+    {
       "id": "pp6ka7",
       "title": "John Varley has died",
       "description": "Score: 32 | Comments: 5 | Posted by decimalenough",
@@ -121,6 +385,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "gjvc",
+      "tags": []
+    },
+    {
+      "id": "umedqh",
+      "title": "Roomba maker goes bankrupt, Chinese owner emerges",
+      "description": "Score: 633 | Comments: 777 | Posted by nreece",
+      "url": "https://news.bloomberglaw.com/bankruptcy-law/robot-vacuum-roomba-maker-files-for-bankruptcy-after-35-years",
+      "publishedAt": "2025-12-15T00:36:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nreece",
       "tags": []
     },
     {

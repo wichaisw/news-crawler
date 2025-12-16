@@ -1,0 +1,127 @@
+{
+  "date": "2025-12-16",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "1bn9b7",
+      "title": "Erdős Problem #1026",
+      "description": "Score: 16 | Comments: 0 | Posted by tzury",
+      "url": "https://terrytao.wordpress.com/2025/12/08/the-story-of-erdos-problem-126/",
+      "publishedAt": "2025-12-16T04:49:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tzury",
+      "tags": []
+    },
+    {
+      "id": "k6086q",
+      "title": "Sharpapple.github.io",
+      "description": "Score: 123 | Comments: 26 | Posted by dvrp",
+      "url": "https://apple.github.io/ml-sharp/",
+      "publishedAt": "2025-12-16T04:10:33.780Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dvrp",
+      "tags": []
+    },
+    {
+      "id": "k6086q",
+      "title": "Sharp",
+      "description": "Score: 125 | Comments: 26 | Posted by dvrp",
+      "url": "https://apple.github.io/ml-sharp/",
+      "publishedAt": "2025-12-16T04:06:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dvrp",
+      "tags": []
+    },
+    {
+      "id": "nkc3ra",
+      "title": "Opus 1.6 Released",
+      "description": "Score: 20 | Comments: 0 | Posted by ledoge",
+      "url": "https://opus-codec.org/demo/opus-1.6/",
+      "publishedAt": "2025-12-16T03:11:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ledoge",
+      "tags": []
+    },
+    {
+      "id": "8iamg5",
+      "title": "8M users' AI conversations sold for profit by \"privacy\" extensions",
+      "description": "Score: 274 | Comments: 89 | Posted by takira",
+      "url": "https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection",
+      "publishedAt": "2025-12-16T03:03:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "takira",
+      "tags": []
+    },
+    {
+      "id": "d21lb1",
+      "title": "SoundCloud confirms breach after member data stolen, VPN access disrupted",
+      "description": "Score: 76 | Comments: 9 | Posted by technonerd",
+      "url": "https://www.bleepingcomputer.com/news/security/soundcloud-confirms-breach-after-member-data-stolen-vpn-access-disrupted/",
+      "publishedAt": "2025-12-16T01:44:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "technonerd",
+      "tags": []
+    },
+    {
+      "id": "1n5sgu",
+      "title": "Quill OS: An open-source OS for Kobo's eReadersquill-os.org",
+      "description": "Score: 184 | Comments: 63 | Posted by Curiositry",
+      "url": "https://quill-os.org/",
+      "publishedAt": "2025-12-16T01:10:33.781Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Curiositry",
+      "tags": []
+    },
+    {
+      "id": "2a5307",
+      "title": "Ideas aren't getting harder to find",
+      "description": "Score: 104 | Comments: 55 | Posted by mitchbob",
+      "url": "https://asteriskmag.com/issues/12-books/ideas-arent-getting-harder-to-find",
+      "publishedAt": "2025-12-16T00:34:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mitchbob",
+      "tags": []
+    },
+    {
+      "id": "xai0a0",
+      "title": "Creating custom yellow handshake emojis with zero-width joiners",
+      "description": "Score: 9 | Comments: 0 | Posted by dado3212",
+      "url": "https://blog.alexbeals.com/posts/custom-yellow-handshake-emojis-with-zero-width-joiners",
+      "publishedAt": "2025-12-16T00:25:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dado3212",
+      "tags": []
+    },
+    {
+      "id": "1n5sgu",
+      "title": "Quill OS: An open-source OS for Kobo's eReaders",
+      "description": "Score: 184 | Comments: 63 | Posted by Curiositry",
+      "url": "https://quill-os.org/",
+      "publishedAt": "2025-12-16T00:22:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Curiositry",
+      "tags": []
+    },
+    {
+      "id": "9qrwmx",
+      "title": "The Bob Dylan concert for just one person",
+      "description": "Score: 60 | Comments: 11 | Posted by NaOH",
+      "url": "https://www.flaggingdown.com/p/the-bob-dylan-concert-for-just-one",
+      "publishedAt": "2025-12-16T00:18:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "NaOH",
+      "tags": []
+    }
+  ]
+}

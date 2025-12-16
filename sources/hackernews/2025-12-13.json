@@ -157,6 +157,28 @@
       "tags": []
     },
     {
+      "id": "6xkcb9",
+      "title": "Essential Semiconductor Physics [pdf]",
+      "description": "Score: 154 | Comments: 7 | Posted by akshatjiwan",
+      "url": "https://nanohub.org/resources/43623/download/Essential_Semiconductor_Physics.pdf",
+      "publishedAt": "2025-12-13T18:19:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "akshatjiwan",
+      "tags": []
+    },
+    {
+      "id": "d8bgyo",
+      "title": "Building an efficient hash table in Java",
+      "description": "Score: 83 | Comments: 16 | Posted by birdculture",
+      "url": "https://bluuewhale.github.io/posts/building-a-fast-and-memory-efficient-hash-table-in-java-by-borrowing-the-best-ideas/",
+      "publishedAt": "2025-12-13T17:41:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "birdculture",
+      "tags": []
+    },
+    {
       "id": "cqo7q1",
       "title": "I tried Gleam for Advent of Code",
       "description": "Score: 255 | Comments: 142 | Posted by tymscar",

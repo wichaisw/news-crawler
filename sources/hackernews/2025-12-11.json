@@ -342,6 +342,17 @@
       "sourceName": "Hacker News",
       "author": "boznz",
       "tags": []
+    },
+    {
+      "id": "957qi3",
+      "title": "Understanding carriage",
+      "description": "Score: 31 | Comments: 7 | Posted by herbertl",
+      "url": "https://seths.blog/2025/12/understanding-carriage/",
+      "publishedAt": "2025-12-11T00:11:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "herbertl",
+      "tags": []
     }
   ]
 }

@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "p5va4g",
+      "title": "AI agents are starting to eat SaaS",
+      "description": "Score: 363 | Comments: 361 | Posted by jnord",
+      "url": "https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/",
+      "publishedAt": "2025-12-14T23:48:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jnord",
+      "tags": []
+    },
+    {
       "id": "fiys2n",
       "title": "DARPA GO: Generative Optogenetics",
       "description": "Score: 33 | Comments: 11 | Posted by birriel",
@@ -121,6 +132,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "johnjames4214",
+      "tags": []
+    },
+    {
+      "id": "3aue1r",
+      "title": "Show HN: A pager",
+      "description": "Score: 91 | Comments: 39 | Posted by keepamovin",
+      "url": "https://www.udp7777.com/",
+      "publishedAt": "2025-12-14T17:10:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "keepamovin",
       "tags": []
     },
     {
