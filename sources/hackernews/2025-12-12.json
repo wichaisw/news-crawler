@@ -36,6 +36,17 @@
       "tags": []
     },
     {
+      "id": "nw61yv",
+      "title": "Can I use HTTPS RRs?",
+      "description": "Score: 27 | Comments: 8 | Posted by zdw",
+      "url": "https://www.netmeister.org/blog/https-caniuse.html",
+      "publishedAt": "2025-12-12T22:34:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
       "id": "8j6u99",
       "title": "Show HN: Tiny VM sandbox in C with apps in Rust, C and Zig",
       "description": "Score: 104 | Comments: 5 | Posted by trj",
@@ -77,6 +88,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "guiand",
+      "tags": []
+    },
+    {
+      "id": "fpdc89",
+      "title": "Testing a cheaper laminar flow hood",
+      "description": "Score: 31 | Comments: 6 | Posted by surprisetalk",
+      "url": "https://chillphysicsenjoyer.substack.com/p/testing-a-cheaper-laminar-flow-hood",
+      "publishedAt": "2025-12-12T20:40:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
       "tags": []
     },
     {
@@ -165,6 +187,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ArmageddonIt",
+      "tags": []
+    },
+    {
+      "id": "nzh99x",
+      "title": "Various locale mismatch scenarios in Windows clipboard text format synthesis",
+      "description": "Score: 6 | Comments: 1 | Posted by ibobev",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20251211-37/?p=111858",
+      "publishedAt": "2025-12-12T15:34:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
       "tags": []
     },
     {

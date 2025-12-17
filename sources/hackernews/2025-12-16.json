@@ -3,6 +3,303 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "9di9rm",
+      "title": "More than 100 rally against data centers at Michigan Capitol",
+      "description": "Score: 59 | Comments: 65 | Posted by rmason",
+      "url": "https://www.lansingstatejournal.com/story/news/local/2025/12/16/lansing-state-capitol-data-centers-rally-michigan/87792001007/",
+      "publishedAt": "2025-12-16T23:27:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rmason",
+      "tags": []
+    },
+    {
+      "id": "jrysgc",
+      "title": "Dafny: Verification-Aware Programming Language",
+      "description": "Score: 53 | Comments: 23 | Posted by handfuloflight",
+      "url": "https://dafny.org/",
+      "publishedAt": "2025-12-16T22:50:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "handfuloflight",
+      "tags": []
+    },
+    {
+      "id": "8smxr6",
+      "title": "I ported JustHTML from Python to JavaScript with Codex CLI and GPT-5.2 in hours",
+      "description": "Score: 115 | Comments: 66 | Posted by pbowyer",
+      "url": "https://simonwillison.net/2025/Dec/15/porting-justhtml/",
+      "publishedAt": "2025-12-16T22:48:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pbowyer",
+      "tags": []
+    },
+    {
+      "id": "jpmg92",
+      "title": "AI will make formal verification go mainstreamkleppmann.com",
+      "description": "Score: 473 | Comments: 228 | Posted by evankhoury",
+      "url": "https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html",
+      "publishedAt": "2025-12-16T22:10:16.177Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "evankhoury",
+      "tags": []
+    },
+    {
+      "id": "uhu66y",
+      "title": "No AI* Here – A Response to Mozilla's Next Chapter",
+      "description": "Score: 210 | Comments: 125 | Posted by MrAlex94",
+      "url": "https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/",
+      "publishedAt": "2025-12-16T22:07:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "MrAlex94",
+      "tags": []
+    },
+    {
+      "id": "7zq1em",
+      "title": "Reverse-engineering the RK3588 NPU: Hacking limits to run vision transformers",
+      "description": "Score: 38 | Comments: 6 | Posted by rcarmo",
+      "url": "https://amohan.dev/blog/2025/shard-optimizing-vision-transformers-edge-npu/",
+      "publishedAt": "2025-12-16T21:18:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rcarmo",
+      "tags": []
+    },
+    {
+      "id": "j6qika",
+      "title": "Chat-tails: Throwback terminal chat, built on Tailscale",
+      "description": "Score: 74 | Comments: 12 | Posted by nulbyte",
+      "url": "https://tailscale.com/blog/chat-tails-terminal-chat",
+      "publishedAt": "2025-12-16T21:16:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nulbyte",
+      "tags": []
+    },
+    {
+      "id": "jpmg92",
+      "title": "AI will make formal verification go mainstream",
+      "description": "Score: 474 | Comments: 228 | Posted by evankhoury",
+      "url": "https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html",
+      "publishedAt": "2025-12-16T21:14:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "evankhoury",
+      "tags": []
+    },
+    {
+      "id": "3850ro",
+      "title": "Announcing the Beta release of ty",
+      "description": "Score: 444 | Comments: 86 | Posted by gavide",
+      "url": "https://astral.sh/blog/ty",
+      "publishedAt": "2025-12-16T20:52:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gavide",
+      "tags": []
+    },
+    {
+      "id": "3w7byz",
+      "title": "Letta Code",
+      "description": "Score: 63 | Comments: 32 | Posted by ascorbic",
+      "url": "https://www.letta.com/blog/letta-code",
+      "publishedAt": "2025-12-16T20:51:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ascorbic",
+      "tags": []
+    },
+    {
+      "id": "75f9nf",
+      "title": "No Graphics API",
+      "description": "Score: 517 | Comments: 95 | Posted by ryandrake",
+      "url": "https://www.sebastianaaltonen.com/blog/no-graphics-api",
+      "publishedAt": "2025-12-16T19:20:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ryandrake",
+      "tags": []
+    },
+    {
+      "id": "uxezwo",
+      "title": "Vibe coding creates fatigue?",
+      "description": "Score: 149 | Comments: 143 | Posted by rom16384",
+      "url": "https://www.tabulamag.com/p/too-fast-to-think-the-hidden-fatigue",
+      "publishedAt": "2025-12-16T18:32:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rom16384",
+      "tags": []
+    },
+    {
+      "id": "noohhq",
+      "title": "GPT Image 1.5",
+      "description": "Score: 380 | Comments: 184 | Posted by charlierguo",
+      "url": "https://openai.com/index/new-chatgpt-images-is-here/",
+      "publishedAt": "2025-12-16T18:07:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "charlierguo",
+      "tags": []
+    },
+    {
+      "id": "6i2h8v",
+      "title": "FVWM-95 (2001)",
+      "description": "Score: 115 | Comments: 83 | Posted by mghackerlady",
+      "url": "https://fvwm95.sourceforge.net/",
+      "publishedAt": "2025-12-16T17:13:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mghackerlady",
+      "tags": []
+    },
+    {
+      "id": "8ju9n5",
+      "title": "Pricing Changes for GitHub Actions",
+      "description": "Score: 574 | Comments: 639 | Posted by kevin-david",
+      "url": "https://resources.github.com/actions/2026-pricing-changes-for-github-actions/",
+      "publishedAt": "2025-12-16T17:12:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kevin-david",
+      "tags": []
+    },
+    {
+      "id": "y0b58u",
+      "title": "alpr.watch",
+      "description": "Score: 702 | Comments: 344 | Posted by theamk",
+      "url": "https://alpr.watch/",
+      "publishedAt": "2025-12-16T16:54:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "theamk",
+      "tags": []
+    },
+    {
+      "id": "4p7q1f",
+      "title": "Writing a blatant Telegram clone using Qt, QML and Rust. And C++",
+      "description": "Score: 100 | Comments: 58 | Posted by tempodox",
+      "url": "https://kemble.net/blog/provoke/",
+      "publishedAt": "2025-12-16T15:41:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tempodox",
+      "tags": []
+    },
+    {
+      "id": "mhipda",
+      "title": "Mozilla appoints new CEO Anthony Enzor-Demeo",
+      "description": "Score: 467 | Comments: 721 | Posted by recvonline",
+      "url": "https://blog.mozilla.org/en/mozilla/leadership/mozillas-next-chapter-anthony-enzor-demeo-new-ceo/",
+      "publishedAt": "2025-12-16T13:53:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "recvonline",
+      "tags": []
+    },
+    {
+      "id": "w82fr6",
+      "title": "Show HN: TheAuditor v2.0 – A “Flight Computer” for AI Coding Agents",
+      "description": "Score: 20 | Comments: 7 | Posted by ThailandJohn",
+      "url": "https://github.com/TheAuditorTool/Auditor",
+      "publishedAt": "2025-12-16T13:50:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ThailandJohn",
+      "tags": []
+    },
+    {
+      "id": "g9uivb",
+      "title": "40 percent of fMRI signals do not correspond to actual brain activity",
+      "description": "Score: 421 | Comments: 179 | Posted by geox",
+      "url": "https://www.tum.de/en/news-and-events/all-news/press-releases/details/40-percent-of-mri-signals-do-not-correspond-to-actual-brain-activity",
+      "publishedAt": "2025-12-16T13:46:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "geox",
+      "tags": []
+    },
+    {
+      "id": "x79yu",
+      "title": "A brief history of Times New Roman",
+      "description": "Score: 106 | Comments: 60 | Posted by tosh",
+      "url": "https://typographyforlawyers.com/a-brief-history-of-times-new-roman.html",
+      "publishedAt": "2025-12-16T13:46:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tosh",
+      "tags": []
+    },
+    {
+      "id": "px8ktl",
+      "title": "Rust GCC backend: Why and how",
+      "description": "Score: 175 | Comments: 100 | Posted by ahlCVA",
+      "url": "https://blog.guillaume-gomez.fr/articles/2025-12-15+Rust+GCC+backend%3A+Why+and+how",
+      "publishedAt": "2025-12-16T13:33:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ahlCVA",
+      "tags": []
+    },
+    {
+      "id": "rryl2a",
+      "title": "Sega Channel: VGHF Recovers over 100 Sega Channel ROMs (and More)",
+      "description": "Score: 240 | Comments: 39 | Posted by wicket",
+      "url": "https://gamehistory.org/segachannel/",
+      "publishedAt": "2025-12-16T13:07:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wicket",
+      "tags": []
+    },
+    {
+      "id": "440zyz",
+      "title": "A2UI: A Protocol for Agent-Driven Interfaces",
+      "description": "Score: 148 | Comments: 65 | Posted by makeramen",
+      "url": "https://a2ui.org/",
+      "publishedAt": "2025-12-16T09:16:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "makeramen",
+      "tags": []
+    },
+    {
+      "id": "4mu6o5",
+      "title": "Japan to revise romanization rules for first time in 70 years",
+      "description": "Score: 156 | Comments: 133 | Posted by rgovostes",
+      "url": "https://www.japantimes.co.jp/news/2025/08/21/japan/panel-hepburn-style-romanization/",
+      "publishedAt": "2025-12-16T08:54:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rgovostes",
+      "tags": []
+    },
+    {
+      "id": "q9bs6f",
+      "title": "The biggest heat pumps",
+      "description": "Score: 109 | Comments: 141 | Posted by rayhaanj",
+      "url": "https://www.bbc.com/news/articles/c17p44w87rno",
+      "publishedAt": "2025-12-16T08:13:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rayhaanj",
+      "tags": []
+    },
+    {
+      "id": "evhbyp",
+      "title": "Bonsai: A Voxel Engine, from scratch",
+      "description": "Score: 222 | Comments: 41 | Posted by jesse__",
+      "url": "https://github.com/scallyw4g/bonsai",
+      "publishedAt": "2025-12-16T06:06:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jesse__",
+      "tags": []
+    },
+    {
       "id": "1bn9b7",
       "title": "Erdős Problem #1026",
       "description": "Score: 16 | Comments: 0 | Posted by tzury",
@@ -80,6 +377,17 @@
       "tags": []
     },
     {
+      "id": "a6t0dd",
+      "title": "Thin desires are eating life",
+      "description": "Score: 397 | Comments: 162 | Posted by mitchbob",
+      "url": "https://www.joanwestenberg.com/thin-desires-are-eating-your-life/",
+      "publishedAt": "2025-12-16T00:50:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mitchbob",
+      "tags": []
+    },
+    {
       "id": "2a5307",
       "title": "Ideas aren't getting harder to find",
       "description": "Score: 104 | Comments: 55 | Posted by mitchbob",
@@ -121,6 +429,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "NaOH",
+      "tags": []
+    },
+    {
+      "id": "a0tnh3",
+      "title": "The World Happiness Report is beset with methodological problems",
+      "description": "Score: 104 | Comments: 124 | Posted by thatoneengineer",
+      "url": "https://yaschamounk.substack.com/p/the-world-happiness-report-is-a-sham",
+      "publishedAt": "2025-12-16T00:06:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thatoneengineer",
       "tags": []
     }
   ]

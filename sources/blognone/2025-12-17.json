@@ -1,0 +1,62 @@
+{
+  "date": "2025-12-17",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "149250 at https://www.blognone.com",
+      "title": "Google Labs เปิดตัว CC ผู้ช่วย AI ที่สรุปเรื่องสำคัญแต่ละวันผ่านอีเมล",
+      "description": "Google Labs เปิดตัว CC ผู้ช่วย AI ที่สรุปเรื่องสำคัญแต่ละวันผ่านอีเมล Body Google Labs ออกโครงการทดลองใหม่ เป็นผู้ช่วยพลัง Gemini AI",
+      "url": "https://www.blognone.com/node/149250",
+      "publishedAt": "2025-12-17T02:21:36.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149249 at https://www.blognone.com",
+      "title": "GitHub ประกาศคิดค่ารัน Actions แม้ใช้เครื่องตัวเอง",
+      "description": "GitHub ประกาศคิดค่ารัน Actions แม้ใช้เครื่องตัวเอง Body GitHub ประกาศปรับราคาค่าบริการ GitHub Actions บริการรันโค้ดตามเหตุการณ์ต่างๆ บน GitHub เช่น",
+      "url": "https://www.blognone.com/node/149249",
+      "publishedAt": "2025-12-17T02:06:44.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149248 at https://www.blognone.com",
+      "title": "Databricks รับเงินลงทุนซีรีส์ L กว่า 4 พันล้านดอลลาร์ มูลค่ากิจการเพิ่มเป็น 1.34 แสนล้านดอลลาร์",
+      "description": "Databricks รับเงินลงทุนซีรีส์ L กว่า 4 พันล้านดอลลาร์ มูลค่ากิจการเพิ่มเป็น 1.34 แสนล้านดอลลาร์ Body Databricks ประกาศรับเงินลงทุนซีรีส์ L",
+      "url": "https://www.blognone.com/node/149248",
+      "publishedAt": "2025-12-17T01:55:09.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149247 at https://www.blognone.com",
+      "title": "นักพัฒนาพอร์ตไลบรารี JustHTML จากภาษาไพธอนมาเป็นจาวาสคริปต์ด้วย GPT-5.2 ภายใน 4 ชั่วโมงครึ่ง",
+      "description": "นักพัฒนาพอร์ตไลบรารี JustHTML จากภาษาไพธอนมาเป็นจาวาสคริปต์ด้วย GPT-5.2 ภายใน 4 ชั่วโมงครึ่ง Body Simon Willison ผู้สร้าง Django",
+      "url": "https://www.blognone.com/node/149247",
+      "publishedAt": "2025-12-17T01:35:08.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149246 at https://www.blognone.com",
+      "title": "OpenAI อัปเกรด ChatGPT Images รุ่นใหม่ แก้ไขภาพและสร้างรูปภาพได้แม่นยำขึ้น ทำงานเร็วขึ้นสูงสุด 4 เท่า",
+      "description": "OpenAI อัปเกรด ChatGPT Images รุ่นใหม่ แก้ไขภาพและสร้างรูปภาพได้แม่นยำขึ้น ทำงานเร็วขึ้นสูงสุด 4 เท่า Body OpenAI อัปเดตเครื่องมือสร้างรูปภาพ ChatGPT",
+      "url": "https://www.blognone.com/node/149246",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2025/2025-12/chatgpt_image_dec_15-2025-03_19_52_pm-1_.jpg",
+      "publishedAt": "2025-12-17T00:19:36.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}

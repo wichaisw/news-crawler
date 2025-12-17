@@ -190,6 +190,28 @@
       "tags": []
     },
     {
+      "id": "vm8kd0",
+      "title": "Full Unicode Search at 50× ICU Speed with AVX‑512",
+      "description": "Score: 198 | Comments: 71 | Posted by ashvardanian",
+      "url": "https://ashvardanian.com/posts/search-utf8/",
+      "publishedAt": "2025-12-15T16:42:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ashvardanian",
+      "tags": []
+    },
+    {
+      "id": "echhyc",
+      "title": "Show HN: Sqlit – A lazygit-style TUI for SQL databases",
+      "description": "Score: 131 | Comments: 19 | Posted by MaxTeabag",
+      "url": "https://github.com/Maxteabag/sqlit",
+      "publishedAt": "2025-12-15T15:47:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "MaxTeabag",
+      "tags": []
+    },
+    {
       "id": "peao53",
       "title": "We are discontinuing the dark web report",
       "description": "Score: 121 | Comments: 38 | Posted by satertek",
@@ -198,6 +220,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "satertek",
+      "tags": []
+    },
+    {
+      "id": "qvxhh6",
+      "title": "Nvidia Nemotron 3 Family of Models",
+      "description": "Score: 172 | Comments: 32 | Posted by ewt-nv",
+      "url": "https://research.nvidia.com/labs/nemotron/Nemotron-3/",
+      "publishedAt": "2025-12-15T14:39:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ewt-nv",
       "tags": []
     },
     {

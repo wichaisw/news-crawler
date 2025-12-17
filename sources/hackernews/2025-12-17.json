@@ -1,0 +1,83 @@
+{
+  "date": "2025-12-17",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "c1qmwr",
+      "title": "FTX insider Caroline Ellison has been moved out of prison",
+      "description": "Score: 14 | Comments: 1 | Posted by harambae",
+      "url": "https://www.businessinsider.com/caroline-ellison-prison-release-ftx-sam-bankman-fried-2025-12",
+      "publishedAt": "2025-12-17T04:48:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "harambae",
+      "tags": []
+    },
+    {
+      "id": "ao0jil",
+      "title": "A Guide to Magnetizing N48 Magnets in Ansys Maxwell",
+      "description": "Score: 8 | Comments: 0 | Posted by peter_d_sherman",
+      "url": "https://blog.ozeninc.com/resources/from-datasheet-to-demagnetization-a-guide-to-magnetizing-n48-magnets-in-ansys-maxwell",
+      "publishedAt": "2025-12-17T03:55:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "peter_d_sherman",
+      "tags": []
+    },
+    {
+      "id": "2xrt8k",
+      "title": "California judge rules that Tesla engaged in deceptive marketing for Autopilot",
+      "description": "Score: 39 | Comments: 6 | Posted by elsewhen",
+      "url": "https://www.cnbc.com/2025/12/16/california-judge-says-tesla-engaged-in-deceptive-autopilot-marketing-.html",
+      "publishedAt": "2025-12-17T02:13:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "elsewhen",
+      "tags": []
+    },
+    {
+      "id": "xnlgbc",
+      "title": "Introduction to Software Development Tooling (2024)",
+      "description": "Score: 51 | Comments: 4 | Posted by vismit2000",
+      "url": "https://bernsteinbear.com/isdt/",
+      "publishedAt": "2025-12-17T01:26:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vismit2000",
+      "tags": []
+    },
+    {
+      "id": "a7bldn",
+      "title": "Flow – A Programmer's Text Editor",
+      "description": "Score: 16 | Comments: 3 | Posted by css_apologist",
+      "url": "https://flow-control.dev/",
+      "publishedAt": "2025-12-17T01:01:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "css_apologist",
+      "tags": []
+    },
+    {
+      "id": "p2gjzb",
+      "title": "Show HN: Learn Japanese contextually while browsing",
+      "description": "Score: 42 | Comments: 24 | Posted by englishcat",
+      "url": "https://lingoku.ai/learn-japanese",
+      "publishedAt": "2025-12-17T00:50:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "englishcat",
+      "tags": []
+    },
+    {
+      "id": "s5ubky",
+      "title": "Windows 11 will ask consent before sharing personal files with AI after outrage",
+      "description": "Score: 45 | Comments: 24 | Posted by jinxmeta",
+      "url": "https://www.windowslatest.com/2025/12/17/microsoft-confirms-windows-11-will-ask-for-consent-before-sharing-your-personal-files-with-ai-after-outrage/",
+      "publishedAt": "2025-12-17T00:27:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jinxmeta",
+      "tags": []
+    }
+  ]
+}
