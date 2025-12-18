@@ -1,0 +1,83 @@
+{
+  "date": "2025-12-18",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "uo8h3y",
+      "title": "More than half of researchers now use AI for peer review, often against guidance",
+      "description": "Score: 16 | Comments: 2 | Posted by neilv",
+      "url": "https://www.nature.com/articles/d41586-025-04066-5",
+      "publishedAt": "2025-12-18T05:20:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "neilv",
+      "tags": []
+    },
+    {
+      "id": "wb9jrw",
+      "title": "Mozilla's New CEO Confirms Firefox Will Become an \"AI Browser\"",
+      "description": "Score: 15 | Comments: 16 | Posted by LopRabbit",
+      "url": "https://www.omgubuntu.co.uk/2025/12/mozilla-new-ceo-firefox-ai-browser-strategy",
+      "publishedAt": "2025-12-18T05:01:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "LopRabbit",
+      "tags": []
+    },
+    {
+      "id": "4ac8ym",
+      "title": "Judge hints Vizio TV buyers may have rights to source code licensed under GPL",
+      "description": "Score: 15 | Comments: 1 | Posted by pabs3",
+      "url": "https://www.theregister.com/2025/12/05/vizio_gpl_source_code_ruling/",
+      "publishedAt": "2025-12-18T04:27:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pabs3",
+      "tags": []
+    },
+    {
+      "id": "f58pyd",
+      "title": "Germany: Amazon is not allowed to force customers to watch ads on Prime Video",
+      "description": "Score: 119 | Comments: 46 | Posted by febed",
+      "url": "https://www.zeit.de/wirtschaft/2025-12/amazon-urteil-video-kunden-werbung",
+      "publishedAt": "2025-12-18T03:42:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "febed",
+      "tags": []
+    },
+    {
+      "id": "fkvtzl",
+      "title": "TidesDB: 4.7x faster seeks than RocksDB via aggressive caching",
+      "description": "Score: 3 | Comments: 0 | Posted by alexpadula",
+      "url": "https://tidesdb.com/articles/benchmark-design-range-seek-tidesdb610-rocksdb1075/",
+      "publishedAt": "2025-12-18T03:13:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "alexpadula",
+      "tags": []
+    },
+    {
+      "id": "otdxst",
+      "title": "TikTok unlawfully tracks shopping habits and use of dating apps?",
+      "description": "Score: 148 | Comments: 72 | Posted by doener",
+      "url": "https://noyb.eu/en/tiktok-unlawfully-tracks-your-shopping-habits-and-your-use-dating-apps",
+      "publishedAt": "2025-12-18T00:25:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "doener",
+      "tags": []
+    },
+    {
+      "id": "p725we",
+      "title": "Gut bacteria from amphibians and reptiles achieve tumor elimination in micejaist.ac.jp",
+      "description": "Score: 263 | Comments: 60 | Posted by Xunxi",
+      "url": "https://www.jaist.ac.jp/english/whatsnew/press/2025/12/17-1.html",
+      "publishedAt": "2025-12-18T00:10:26.530Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Xunxi",
+      "tags": []
+    }
+  ]
+}

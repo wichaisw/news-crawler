@@ -102,6 +102,17 @@
       "tags": []
     },
     {
+      "id": "voifz6",
+      "title": "My payment agent is named George, not stripe-agent",
+      "description": "Score: 47 | Comments: 32 | Posted by fortyseven",
+      "url": "https://blog.kestrelsnest.social/posts/2025-12-14-why-my-payment-agent-is-named-george-not-stripe-agent/",
+      "publishedAt": "2025-12-14T18:55:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fortyseven",
+      "tags": []
+    },
+    {
       "id": "m0or31",
       "title": "Adafruit: Arduino’s Rules Are ‘Incompatible With Open Source’",
       "description": "Score: 71 | Comments: 20 | Posted by MilnerRoute",
@@ -190,6 +201,17 @@
       "tags": []
     },
     {
+      "id": "5p70cp",
+      "title": "Zmij: Faster floating point double-to-string conversion",
+      "description": "Score: 111 | Comments: 15 | Posted by fanf2",
+      "url": "https://vitaut.net/posts/2025/faster-dtoa/",
+      "publishedAt": "2025-12-14T15:42:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fanf2",
+      "tags": []
+    },
+    {
       "id": "8yauh9",
       "title": "Illuminating the processor core with LLVM-mca",
       "description": "Score: 61 | Comments: 5 | Posted by ckennelly",
@@ -231,6 +253,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "drra",
+      "tags": []
+    },
+    {
+      "id": "d3bgx7",
+      "title": "The World of OCR (C. 1960) [video]",
+      "description": "Score: 21 | Comments: 3 | Posted by indolering",
+      "url": "https://www.youtube.com/watch?v=SekWFCZVLUk",
+      "publishedAt": "2025-12-14T12:29:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "indolering",
       "tags": []
     },
     {

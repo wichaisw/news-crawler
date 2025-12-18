@@ -146,6 +146,28 @@
       "tags": []
     },
     {
+      "id": "wvefyo",
+      "title": "I created a publishing system for step-by-step coding guides in Typst",
+      "description": "Score: 36 | Comments: 8 | Posted by deniskolodin",
+      "url": "https://press.knowledge.dev/p/new-150-pages-rust-guide-create-a",
+      "publishedAt": "2025-12-13T19:25:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "deniskolodin",
+      "tags": []
+    },
+    {
+      "id": "n1al2v",
+      "title": "Fast SEQUENCE iteration in Common Lisp",
+      "description": "Score: 43 | Comments: 8 | Posted by BoingBoomTschak",
+      "url": "https://world-playground-deceit.net/blog/2025/12/fast-sequence-iteration-in-common-lisp.html",
+      "publishedAt": "2025-12-13T18:56:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "BoingBoomTschak",
+      "tags": []
+    },
+    {
       "id": "3tezux",
       "title": "Are we stuck with the same Desktop UX forever? [video]",
       "description": "Score: 135 | Comments: 144 | Posted by joelkesler",
@@ -209,6 +231,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "FragrantRiver",
+      "tags": []
+    },
+    {
+      "id": "utjp0l",
+      "title": "The Number That Turned Sideways",
+      "description": "Score: 34 | Comments: 13 | Posted by tzury",
+      "url": "https://zuriby.github.io/math.github.io/the-number-that-turned-sideways.html",
+      "publishedAt": "2025-12-13T11:34:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tzury",
       "tags": []
     },
     {

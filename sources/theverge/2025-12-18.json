@@ -1,0 +1,42 @@
+{
+  "date": "2025-12-18",
+  "source": "theverge",
+  "articles": [
+    {
+      "id": "g12gog",
+      "title": "The ChatGPT app store is here",
+      "description": "On Wednesday evening, OpenAI launched an App Directory to browse all the tools currently available and opened its SDK for developers to build new interactive experiences that operate within the bot's UI. OpenAI CEO Sam Altman said last month that \"We are planning to build the obvious features that you would expect for a robust [&#8230;]",
+      "url": "https://www.theverge.com/news/847067/openai-app-store-directory-sdk-chatgpt",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Clipboard_12-17-2025_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2025-12-18T04:27:39.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Richard Lawler",
+      "tags": []
+    },
+    {
+      "id": "lx3z4k",
+      "title": "Sony's legal battle against Tencent's Horizon ‘clone’ is already over",
+      "description": "In July, Sony sued Tencent to prevent the release of Light of Motiram, a game Sony alleged was a \"slavish clone\" of its popular Horizon series. But the legal battle is already over; the two companies have reached a \"confidential settlement\" and the case has been dismissed with prejudice, according to a court document filed [&#8230;]",
+      "url": "https://www.theverge.com/news/847080/sony-tencent-lawsuit-horizon-clone-light-of-motiram-settlement",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/ss_853b741d2ebd0e13f1a735c8c934064532978e1c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2025-12-18T03:57:42.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Jay Peters",
+      "tags": []
+    },
+    {
+      "id": "9zjfzr",
+      "title": "LG and Dolby partner to release the first FlexConnect soundbar",
+      "description": "Dolby Atmos FlexConnect technology debuted this year with the TCL Z100 speakers, and now we're getting our first FlexConnect soundbar thanks to LG. The new H7 soundbar - which runs on the same Alpha 11 Gen 3 chip as LG's OLEDs and new Micro RGB LED - is a part of the LG Sound Suite, [&#8230;]",
+      "url": "https://www.theverge.com/news/846608/lg-dolby-flexconnect-speakers-ces-2026",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/sound-suite-2026-pr-03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2025-12-18T01:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "John.Higgins",
+      "tags": []
+    }
+  ]
+}

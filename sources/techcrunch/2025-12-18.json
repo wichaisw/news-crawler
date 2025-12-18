@@ -1,0 +1,28 @@
+{
+  "date": "2025-12-18",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3077245",
+      "title": "Instacart’s AI-driven pricing tool attracted attention — now the FTC has questions",
+      "description": "In an economy where everyone's feeling squeezed, AI-driven price testing of kitchen essentials was bound to attract attention.",
+      "url": "https://techcrunch.com/2025/12/17/instacarts-ai-driven-pricing-tool-attracted-attention-now-the-ftc-has-questions/",
+      "publishedAt": "2025-12-18T02:23:43.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Connie Loizos",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3077070",
+      "title": "Adobe hit with proposed class-action, accused of misusing authors’ work in AI training",
+      "description": "The lawsuit is just the latest in a string of copyright-related legal complaints aimed at the AI industry.",
+      "url": "https://techcrunch.com/2025/12/17/adobe-hit-with-proposed-class-action-accused-of-misusing-authors-work-in-ai-training/",
+      "publishedAt": "2025-12-18T00:44:55.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lucas Ropek",
+      "tags": []
+    }
+  ]
+}
