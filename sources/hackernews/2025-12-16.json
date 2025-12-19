@@ -47,6 +47,17 @@
       "tags": []
     },
     {
+      "id": "3cat2u",
+      "title": "TRELLIS.2: state-of-the-art large 3D generative model (4B)",
+      "description": "Score: 71 | Comments: 13 | Posted by dvrp",
+      "url": "https://github.com/microsoft/TRELLIS.2",
+      "publishedAt": "2025-12-16T22:09:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dvrp",
+      "tags": []
+    },
+    {
       "id": "uhu66y",
       "title": "No AI* Here – A Response to Mozilla's Next Chapter",
       "description": "Score: 210 | Comments: 125 | Posted by MrAlex94",
@@ -91,6 +102,17 @@
       "tags": []
     },
     {
+      "id": "skg5y0",
+      "title": "Texas is suing all of the big TV makers for spying on what you watch",
+      "description": "Score: 680 | Comments: 323 | Posted by tortilla",
+      "url": "https://www.theverge.com/news/845400/texas-tv-makers-lawsuit-samsung-sony-lg-hisense-tcl-spying",
+      "publishedAt": "2025-12-16T21:04:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tortilla",
+      "tags": []
+    },
+    {
       "id": "3850ro",
       "title": "Announcing the Beta release of ty",
       "description": "Score: 444 | Comments: 86 | Posted by gavide",
@@ -110,6 +132,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ascorbic",
+      "tags": []
+    },
+    {
+      "id": "kraiva",
+      "title": "Show HN: Stop AI scrapers from hammering your self-hosted blog (using porn)",
+      "description": "Score: 191 | Comments: 131 | Posted by misterchocolat",
+      "url": "https://github.com/vivienhenz24/fuzzy-canary",
+      "publishedAt": "2025-12-16T20:42:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "misterchocolat",
       "tags": []
     },
     {
@@ -135,6 +168,17 @@
       "tags": []
     },
     {
+      "id": "c7dn40",
+      "title": "I've been writing ring buffers wrong all these years (2016)",
+      "description": "Score: 94 | Comments: 34 | Posted by flaghacker",
+      "url": "https://www.snellman.net/blog/archive/2016-12-13-ring-buffers/",
+      "publishedAt": "2025-12-16T19:11:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "flaghacker",
+      "tags": []
+    },
+    {
       "id": "uxezwo",
       "title": "Vibe coding creates fatigue?",
       "description": "Score: 149 | Comments: 143 | Posted by rom16384",
@@ -143,6 +187,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "rom16384",
+      "tags": []
+    },
+    {
+      "id": "vg5sh4",
+      "title": "Meta Segment Anything Model Audio",
+      "description": "Score: 188 | Comments: 27 | Posted by megaman821",
+      "url": "https://ai.meta.com/samaudio/",
+      "publishedAt": "2025-12-16T18:26:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "megaman821",
       "tags": []
     },
     {
@@ -187,6 +242,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "theamk",
+      "tags": []
+    },
+    {
+      "id": "tev126",
+      "title": "Prompt caching: 10x cheaper LLM tokens, but how?",
+      "description": "Score: 22 | Comments: 3 | Posted by samwho",
+      "url": "https://ngrok.com/blog/prompt-caching/",
+      "publishedAt": "2025-12-16T16:32:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "samwho",
+      "tags": []
+    },
+    {
+      "id": "8o9qy0",
+      "title": "Show HN: Picknplace.js, an alternative to drag-and-drop",
+      "description": "Score: 219 | Comments: 92 | Posted by bbx",
+      "url": "https://jgthms.com/picknplace.js/",
+      "publishedAt": "2025-12-16T16:12:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bbx",
       "tags": []
     },
     {
@@ -264,6 +341,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "wicket",
+      "tags": []
+    },
+    {
+      "id": "dlms2u",
+      "title": "C++ lowcode toolkit for ERP and Accounting Software",
+      "description": "Score: 6 | Comments: 1 | Posted by basesdk",
+      "url": "https://fin.in.net",
+      "publishedAt": "2025-12-16T11:03:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "basesdk",
       "tags": []
     },
     {
@@ -440,6 +528,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "NaOH",
+      "tags": []
+    },
+    {
+      "id": "5ay2j1",
+      "title": "The <time> element should do something",
+      "description": "Score: 72 | Comments: 26 | Posted by birdculture",
+      "url": "https://nolanlawson.com/2025/12/14/the-time-element-should-actually-do-something/",
+      "publishedAt": "2025-12-16T00:09:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "birdculture",
       "tags": []
     },
     {

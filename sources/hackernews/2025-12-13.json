@@ -245,6 +245,17 @@
       "tags": []
     },
     {
+      "id": "qqmqki",
+      "title": "The state of the kernel Rust experiment",
+      "description": "Score: 31 | Comments: 4 | Posted by dochtman",
+      "url": "https://lwn.net/SubscriberLink/1050174/63aa7da43214c3ce/",
+      "publishedAt": "2025-12-13T07:14:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dochtman",
+      "tags": []
+    },
+    {
       "id": "aqwa64",
       "title": "Doxers Posing as Cops Are Tricking Big Tech Firms into Sharing People's Data",
       "description": "Score: 19 | Comments: 7 | Posted by iamnothere",
@@ -341,6 +352,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "vinhnx",
+      "tags": []
+    },
+    {
+      "id": "jwdx0w",
+      "title": "Lite^3, a JSON-Compatible Zero-Copy Serialization Format",
+      "description": "Score: 34 | Comments: 7 | Posted by cryptonector",
+      "url": "https://github.com/fastserial/lite3",
+      "publishedAt": "2025-12-13T02:31:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cryptonector",
       "tags": []
     },
     {
