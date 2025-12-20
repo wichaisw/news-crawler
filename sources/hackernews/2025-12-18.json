@@ -113,6 +113,17 @@
       "tags": []
     },
     {
+      "id": "mjoiwq",
+      "title": "Show HN: TinyPDF – 3kb pdf library (70x smaller than jsPDF)",
+      "description": "Score: 146 | Comments: 20 | Posted by lulzx",
+      "url": "https://github.com/Lulzx/tinypdf",
+      "publishedAt": "2025-12-18T18:59:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lulzx",
+      "tags": []
+    },
+    {
       "id": "jykgye",
       "title": "How China built its ‘Manhattan Project’ to rival the West in AI chips",
       "description": "Score: 292 | Comments: 303 | Posted by artninja1988",
@@ -220,6 +231,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jpbryan",
+      "tags": []
+    },
+    {
+      "id": "3bx5ln",
+      "title": "Mistral OCR 3",
+      "description": "Score: 460 | Comments: 84 | Posted by pember",
+      "url": "https://mistral.ai/news/mistral-ocr-3",
+      "publishedAt": "2025-12-18T15:01:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pember",
       "tags": []
     },
     {

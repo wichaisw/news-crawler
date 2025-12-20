@@ -1,0 +1,30 @@
+{
+  "date": "2025-12-20",
+  "source": "theverge",
+  "articles": [
+    {
+      "id": "of9ggs",
+      "title": "Want to link from Google’s app store to your app? That’ll be $2–4 per install",
+      "description": "Today was the deadline for Google to reveal how it's complying with Judge James Donato's order to crack open Android for third-party app stores, stop illegally tying its Google Play Billing system to its app store, and let developers link to ways to download their apps outside the Play Store in the US. But Google [&#8230;]",
+      "url": "https://www.theverge.com/news/848540/google-app-fees-external-link-downloads-alternative-payments",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK452_Google_Antitrust__Monopoly_Kristen_Radtke.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2025-12-20T01:17:27.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Sean Hollister",
+      "tags": []
+    },
+    {
+      "id": "yopwq4",
+      "title": "Google is part of Movies Anywhere again",
+      "description": "Google is once again part of Movies Anywhere, meaning that movies you've purchased from Google Play and YouTube will now show up as part of your Movies Anywhere collection. Films from Google Play and YouTube became unavailable on Movies Anywhere on October 31st, but now they should sync to your account again. \"Support for Google [&#8230;]",
+      "url": "https://www.theverge.com/news/848548/google-youtube-movies-anywhere-back-return",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK460_googlePlay_02.jpg.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2025-12-20T00:50:20.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Jay Peters",
+      "tags": []
+    }
+  ]
+}

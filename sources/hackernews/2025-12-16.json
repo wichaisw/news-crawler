@@ -201,6 +201,17 @@
       "tags": []
     },
     {
+      "id": "c0ic7l",
+      "title": "The pitfalls of partitioning Postgres yourself",
+      "description": "Score: 62 | Comments: 5 | Posted by abelanger",
+      "url": "https://hatchet.run/blog/postgres-partitioning",
+      "publishedAt": "2025-12-16T18:21:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "abelanger",
+      "tags": []
+    },
+    {
       "id": "noohhq",
       "title": "GPT Image 1.5",
       "description": "Score: 380 | Comments: 184 | Posted by charlierguo",
@@ -267,6 +278,28 @@
       "tags": []
     },
     {
+      "id": "6o97uh",
+      "title": "Parallelizing ClickHouse aggregation merge for fixed hash map",
+      "description": "Score: 9 | Comments: 0 | Posted by markhneedham",
+      "url": "https://blog.incfly.org/parallelize-clickhouse-aggregation-merge-for-fixed-hash-map/",
+      "publishedAt": "2025-12-16T16:08:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "markhneedham",
+      "tags": []
+    },
+    {
+      "id": "q4rl0d",
+      "title": "Gh-actions-lockfile: generate and verify lockfiles for GitHub Actions",
+      "description": "Score: 17 | Comments: 4 | Posted by gjtorikian",
+      "url": "https://gh-actions-lockfile.net",
+      "publishedAt": "2025-12-16T15:44:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gjtorikian",
+      "tags": []
+    },
+    {
       "id": "4p7q1f",
       "title": "Writing a blatant Telegram clone using Qt, QML and Rust. And C++",
       "description": "Score: 100 | Comments: 58 | Posted by tempodox",
@@ -275,6 +308,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "tempodox",
+      "tags": []
+    },
+    {
+      "id": "txxayv",
+      "title": "Show HN: Misata – synthetic data engine using LLM and Vectorized NumPy",
+      "description": "Score: 18 | Comments: 0 | Posted by rasinmuhammed",
+      "url": "https://github.com/rasinmuhammed/misata",
+      "publishedAt": "2025-12-16T14:38:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rasinmuhammed",
       "tags": []
     },
     {
@@ -341,6 +385,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "wicket",
+      "tags": []
+    },
+    {
+      "id": "wa1c63",
+      "title": "Detailed balance in large language model-driven agents",
+      "description": "Score: 19 | Comments: 2 | Posted by Anon84",
+      "url": "https://arxiv.org/abs/2512.10047",
+      "publishedAt": "2025-12-16T12:17:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Anon84",
       "tags": []
     },
     {

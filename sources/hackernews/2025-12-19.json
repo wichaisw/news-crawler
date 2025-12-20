@@ -3,6 +3,248 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "u7jni0",
+      "title": "PBS News Hour West to go dark after ASU discontinues contract",
+      "description": "Score: 134 | Comments: 55 | Posted by heavyset_go",
+      "url": "https://www.statepress.com/article/2025/12/politics-pbs-newshour-west-closure",
+      "publishedAt": "2025-12-19T23:59:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "heavyset_go",
+      "tags": []
+    },
+    {
+      "id": "xtx74h",
+      "title": "We ran Anthropic’s interviews through structured LLM analysis",
+      "description": "Score: 71 | Comments: 66 | Posted by jp8585",
+      "url": "https://www.playbookatlas.com/research/ai-adoption-explorer",
+      "publishedAt": "2025-12-19T22:48:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jp8585",
+      "tags": []
+    },
+    {
+      "id": "aiqq2",
+      "title": "CSS Grid Lanes",
+      "description": "Score: 413 | Comments: 117 | Posted by frizlab",
+      "url": "https://webkit.org/blog/17660/introducing-css-grid-lanes/",
+      "publishedAt": "2025-12-19T22:13:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "frizlab",
+      "tags": []
+    },
+    {
+      "id": "40f3pq",
+      "title": "Buteyko Method",
+      "description": "Score: 51 | Comments: 32 | Posted by rzk",
+      "url": "https://en.wikipedia.org/wiki/Buteyko_method",
+      "publishedAt": "2025-12-19T21:52:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rzk",
+      "tags": []
+    },
+    {
+      "id": "tvpjd6",
+      "title": "A better zip bomb (2019)",
+      "description": "Score: 114 | Comments: 40 | Posted by kekqqq",
+      "url": "https://www.bamsoftware.com/hacks/zipbomb/",
+      "publishedAt": "2025-12-19T21:34:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kekqqq",
+      "tags": []
+    },
+    {
+      "id": "qwyzwc",
+      "title": "LLM Year in Review",
+      "description": "Score: 126 | Comments: 36 | Posted by swyx",
+      "url": "https://karpathy.bearblog.dev/year-in-review-2025/",
+      "publishedAt": "2025-12-19T20:49:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "swyx",
+      "tags": []
+    },
+    {
+      "id": "7fux8q",
+      "title": "The scariest boot loader code",
+      "description": "Score: 45 | Comments: 4 | Posted by todsacerdoti",
+      "url": "http://miod.online.fr/software/openbsd/stories/boot_hppa.html",
+      "publishedAt": "2025-12-19T20:29:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "4tjfg3",
+      "title": "You can now play Grand Theft Auto Vice City in the browser",
+      "description": "Score: 284 | Comments: 82 | Posted by Alifatisk",
+      "url": "https://dos.zone/grand-theft-auto-vice-city/",
+      "publishedAt": "2025-12-19T19:12:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Alifatisk",
+      "tags": []
+    },
+    {
+      "id": "oob445",
+      "title": "Wall Street ruined the Roomba and then blamed Lina Khan",
+      "description": "Score: 211 | Comments: 167 | Posted by connor11528",
+      "url": "https://www.thebignewsletter.com/p/how-wall-street-ruined-the-roomba",
+      "publishedAt": "2025-12-19T18:59:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "connor11528",
+      "tags": []
+    },
+    {
+      "id": "q74qyo",
+      "title": "TP-Link Tapo C200: Hardcoded Keys, Buffer Overflows and Privacy",
+      "description": "Score: 251 | Comments: 68 | Posted by sibellavia",
+      "url": "https://www.evilsocket.net/2025/12/18/TP-Link-Tapo-C200-Hardcoded-Keys-Buffer-Overflows-and-Privacy-in-the-Era-of-AI-Assisted-Reverse-Engineering/",
+      "publishedAt": "2025-12-19T18:19:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sibellavia",
+      "tags": []
+    },
+    {
+      "id": "7vl98f",
+      "title": "Reverse Engineering US Airline's PNR System and Accessing All Reservations",
+      "description": "Score: 103 | Comments: 50 | Posted by bearsyankees",
+      "url": "https://alexschapiro.com/security/vulnerability/2025/11/20/avelo-airline-reservation-api-vulnerability",
+      "publishedAt": "2025-12-19T18:15:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bearsyankees",
+      "tags": []
+    },
+    {
+      "id": "dcvau8",
+      "title": "Performance Hints (2023)",
+      "description": "Score: 77 | Comments: 29 | Posted by danlark1",
+      "url": "https://abseil.io/fast/hints.html",
+      "publishedAt": "2025-12-19T17:14:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "danlark1",
+      "tags": []
+    },
+    {
+      "id": "u15yzv",
+      "title": "Show HN: I Made Loom for Mobile",
+      "description": "Score: 63 | Comments: 39 | Posted by admtal",
+      "url": "https://demoscope.app",
+      "publishedAt": "2025-12-19T17:08:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "admtal",
+      "tags": []
+    },
+    {
+      "id": "n8u357",
+      "title": "What Makes You Senior",
+      "description": "Score: 32 | Comments: 24 | Posted by mooreds",
+      "url": "https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/",
+      "publishedAt": "2025-12-19T16:34:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mooreds",
+      "tags": []
+    },
+    {
+      "id": "sz7zi6",
+      "title": "Graphite is joining Cursor",
+      "description": "Score: 204 | Comments: 219 | Posted by fosterfriends",
+      "url": "https://cursor.com/blog/graphite",
+      "publishedAt": "2025-12-19T15:57:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fosterfriends",
+      "tags": []
+    },
+    {
+      "id": "cvrcuk",
+      "title": "Believe the Checkbook",
+      "description": "Score: 135 | Comments: 60 | Posted by rg81",
+      "url": "https://robertgreiner.com/believe-the-checkbook/",
+      "publishedAt": "2025-12-19T15:51:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rg81",
+      "tags": []
+    },
+    {
+      "id": "295x9b",
+      "title": "Garage – An S3 object store so reliable you can run it outside datacenters",
+      "description": "Score: 521 | Comments: 110 | Posted by ibobev",
+      "url": "https://garagehq.deuxfleurs.fr/",
+      "publishedAt": "2025-12-19T15:40:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
+      "tags": []
+    },
+    {
+      "id": "hkl6iz",
+      "title": "The FreeBSD Foundation's Laptop Support and Usability Project",
+      "description": "Score: 151 | Comments: 56 | Posted by mikece",
+      "url": "https://github.com/FreeBSDFoundation/proj-laptop",
+      "publishedAt": "2025-12-19T14:56:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mikece",
+      "tags": []
+    },
+    {
+      "id": "q6nq72",
+      "title": "Building a Transparent Keyserver",
+      "description": "Score: 62 | Comments: 25 | Posted by noident",
+      "url": "https://words.filippo.io/keyserver-tlog/",
+      "publishedAt": "2025-12-19T14:54:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "noident",
+      "tags": []
+    },
+    {
+      "id": "mvglgg",
+      "title": "8-bit Boléro",
+      "description": "Score: 208 | Comments: 36 | Posted by Aissen",
+      "url": "https://linusakesson.net/music/bolero/index.php",
+      "publishedAt": "2025-12-19T11:38:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Aissen",
+      "tags": []
+    },
+    {
+      "id": "mml8wm",
+      "title": "GotaTun – Mullvad's WireGuard Implementation in Rust",
+      "description": "Score: 560 | Comments: 121 | Posted by km",
+      "url": "https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn",
+      "publishedAt": "2025-12-19T11:16:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "km",
+      "tags": []
+    },
+    {
+      "id": "ttylkw",
+      "title": "Amazon will allow ePub and PDF downloads for DRM-free eBooks",
+      "description": "Score: 573 | Comments: 286 | Posted by captn3m0",
+      "url": "https://www.kdpcommunity.com/s/article/New-eBook-Download-Options-for-Readers-Coming-in-2026?language=en_US",
+      "publishedAt": "2025-12-19T10:03:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "captn3m0",
+      "tags": []
+    },
+    {
       "id": "ydst2w",
       "title": "2026 Apple introducing more ads to increase opportunity in search results",
       "description": "Score: 8 | Comments: 2 | Posted by punnerud",
@@ -25,6 +267,17 @@
       "tags": []
     },
     {
+      "id": "dgua99",
+      "title": "Rust's Block Pattern",
+      "description": "Score: 153 | Comments: 70 | Posted by zdw",
+      "url": "https://notgull.net/block-pattern/",
+      "publishedAt": "2025-12-19T04:56:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
       "id": "av3i2k",
       "title": "Reconstructed Commander Keen 1-3 Source Code",
       "description": "Score: 11 | Comments: 0 | Posted by deevus",
@@ -33,6 +286,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "deevus",
+      "tags": []
+    },
+    {
+      "id": "6jvihn",
+      "title": "Qwen-Image-Layered: transparency and layer aware open diffusion model",
+      "description": "Score: 85 | Comments: 13 | Posted by dvrp",
+      "url": "https://huggingface.co/papers/2512.15603",
+      "publishedAt": "2025-12-19T03:24:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dvrp",
+      "tags": []
+    },
+    {
+      "id": "hyi3mp",
+      "title": "Brown/MIT shooting suspect found dead, officials say",
+      "description": "Score: 130 | Comments: 154 | Posted by anigbrowl",
+      "url": "https://www.washingtonpost.com/nation/2025/12/18/brown-university-shooting-person-of-interest/",
+      "publishedAt": "2025-12-19T03:19:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "anigbrowl",
       "tags": []
     },
     {

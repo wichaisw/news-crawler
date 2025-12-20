@@ -1,0 +1,61 @@
+{
+  "date": "2025-12-20",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "t0wj37",
+      "title": "Here you can find the contents of the Unix v4 tape ready for bootstrapping",
+      "description": "Score: 3 | Comments: 0 | Posted by zdw",
+      "url": "http://squoze.net/UNIX/v4/README",
+      "publishedAt": "2025-12-20T05:17:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "jy4pgy",
+      "title": "Android introduces $2-4 install fee and 10–20% cut for US external content links",
+      "description": "Score: 41 | Comments: 13 | Posted by radley",
+      "url": "https://support.google.com/googleplay/android-developer/answer/16470497?hl=en",
+      "publishedAt": "2025-12-20T05:00:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "radley",
+      "tags": []
+    },
+    {
+      "id": "8b9h5z",
+      "title": "Sequoia partner spreads debunked Brown shooting theory, testing new leadership",
+      "description": "Score: 11 | Comments: 4 | Posted by SilverElfin",
+      "url": "https://techcrunch.com/2025/12/19/sequoia-partner-spreads-debunked-brown-shooting-theory-testing-new-leadership/",
+      "publishedAt": "2025-12-20T03:57:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "SilverElfin",
+      "tags": []
+    },
+    {
+      "id": "esqn",
+      "title": "Wood wide web – the underground network of microbes that connects trees",
+      "description": "Score: 10 | Comments: 0 | Posted by andsoitis",
+      "url": "https://www.science.org/content/article/wood-wide-web-underground-network-microbes-connects-trees-mapped-first-time",
+      "publishedAt": "2025-12-20T00:19:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andsoitis",
+      "tags": []
+    },
+    {
+      "id": "rrvklw",
+      "title": "Build Your Own React",
+      "description": "Score: 47 | Comments: 4 | Posted by howToTestFE",
+      "url": "https://pomb.us/build-your-own-react/",
+      "publishedAt": "2025-12-20T00:16:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "howToTestFE",
+      "tags": []
+    }
+  ]
+}
