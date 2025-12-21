@@ -223,6 +223,17 @@
       "tags": []
     },
     {
+      "id": "osoark",
+      "title": "X-59 3D Printing",
+      "description": "Score: 52 | Comments: 10 | Posted by Jsebast24",
+      "url": "https://www.nasa.gov/stem-content/x-59-3d-printing/",
+      "publishedAt": "2025-12-16T17:32:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Jsebast24",
+      "tags": []
+    },
+    {
       "id": "6i2h8v",
       "title": "FVWM-95 (2001)",
       "description": "Score: 115 | Comments: 83 | Posted by mghackerlady",
@@ -311,6 +322,17 @@
       "tags": []
     },
     {
+      "id": "p2fsft",
+      "title": "Biscuit is a specialized PostgreSQL index for fast pattern matching LIKE queries",
+      "description": "Score: 91 | Comments: 12 | Posted by eatonphil",
+      "url": "https://github.com/CrystallineCore/Biscuit",
+      "publishedAt": "2025-12-16T15:39:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "eatonphil",
+      "tags": []
+    },
+    {
       "id": "txxayv",
       "title": "Show HN: Misata – synthetic data engine using LLM and Vectorized NumPy",
       "description": "Score: 18 | Comments: 0 | Posted by rasinmuhammed",
@@ -388,6 +410,28 @@
       "tags": []
     },
     {
+      "id": "glwakc",
+      "title": "Gemini 3 Pro vs. 2.5 Pro in Pokemon Crystal",
+      "description": "Score: 263 | Comments: 81 | Posted by alphabetting",
+      "url": "https://blog.jcz.dev/gemini-3-pro-vs-25-pro-in-pokemon-crystal",
+      "publishedAt": "2025-12-16T12:48:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "alphabetting",
+      "tags": []
+    },
+    {
+      "id": "8gnzit",
+      "title": "All about Parameters and Widgets in Databricks Workflows (2024)",
+      "description": "Score: 8 | Comments: 0 | Posted by protmaks",
+      "url": "https://medium.com/dev-genius/all-about-parameters-in-databricks-workflows-28ae13ebb212",
+      "publishedAt": "2025-12-16T12:22:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "protmaks",
+      "tags": []
+    },
+    {
       "id": "wa1c63",
       "title": "Detailed balance in large language model-driven agents",
       "description": "Score: 19 | Comments: 2 | Posted by Anon84",
@@ -407,6 +451,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "basesdk",
+      "tags": []
+    },
+    {
+      "id": "pot4dh",
+      "title": "Chomsky and the Two Cultures of Statistical Learning",
+      "description": "Score: 36 | Comments: 17 | Posted by atomicnature",
+      "url": "https://norvig.com/chomsky.html",
+      "publishedAt": "2025-12-16T09:33:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "atomicnature",
       "tags": []
     },
     {
@@ -484,6 +539,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "dvrp",
+      "tags": []
+    },
+    {
+      "id": "10gp08",
+      "title": "New Quantum Antenna Reveals a Hidden Terahertz World",
+      "description": "Score: 141 | Comments: 10 | Posted by aacker",
+      "url": "https://www.sciencedaily.com/releases/2025/12/251213032617.htm",
+      "publishedAt": "2025-12-16T03:43:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "aacker",
       "tags": []
     },
     {

@@ -3,6 +3,50 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "149277 at https://www.blognone.com",
+      "title": "อย่าให้มีครั้งที่สาม Cloudflare ปรับนโยบายการคอนฟิก ต้องค่อยๆ กระจายไปทั่วโลก",
+      "description": "อย่าให้มีครั้งที่สาม Cloudflare ปรับนโยบายการคอนฟิก ต้องค่อยๆ กระจายไปทั่วโลก Body หลังจากเดือนที่ผ่านมา Cloudflare เกิดเหตุล่มไปถึงสองครั้ง ( 1 , 2",
+      "url": "https://www.blognone.com/node/149277",
+      "publishedAt": "2025-12-20T17:34:02.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149276 at https://www.blognone.com",
+      "title": "Google เลื่อนกำหนดแทนที่ Google Assistant ด้วย Gemini บนสมาร์ทโฟน เป็นภายในปี 2026",
+      "description": "Google เลื่อนกำหนดแทนที่ Google Assistant ด้วย Gemini บนสมาร์ทโฟน เป็นภายในปี 2026 Body เมื่อต้นปีกูเกิล ประกาศ ว่าจะแทนที่ Google Assistant",
+      "url": "https://www.blognone.com/node/149276",
+      "publishedAt": "2025-12-20T17:07:37.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149275 at https://www.blognone.com",
+      "title": "ChatGPT เพิ่มตัวเลือกปรับแต่ง \"บุคลิก\" แชทบอต ให้มีรูปแบบการตอบที่ตรงความต้องการมากขึ้น",
+      "description": "ChatGPT เพิ่มตัวเลือกปรับแต่ง \"บุคลิก\" แชทบอต ให้มีรูปแบบการตอบที่ตรงความต้องการมากขึ้น Body OpenAI เพิ่มเติมการตั้งค่าลักษณะการตอบของแชทบอต ChatGPT",
+      "url": "https://www.blognone.com/node/149275",
+      "publishedAt": "2025-12-20T16:56:19.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149274 at https://www.blognone.com",
+      "title": "Google ฟ้อง SerpApi บริษัทพัฒนาบอตดูดเนื้อหา ผ่านผลลัพธ์ใน Google Search",
+      "description": "Google ฟ้อง SerpApi บริษัทพัฒนาบอตดูดเนื้อหา ผ่านผลลัพธ์ใน Google Search Body กูเกิลออกแถลงการณ์ฟ้องบริษัท SerpApi ซึ่งพัฒนาเครื่องมือดึงข้อมูล",
+      "url": "https://www.blognone.com/node/149274",
+      "publishedAt": "2025-12-20T14:02:55.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "149273 at https://www.blognone.com",
       "title": "NVIDIA เปิดตัว RTX PRO 5000 แรม 72GB",
       "description": "NVIDIA เปิดตัว RTX PRO 5000 แรม 72GB Body NVIDIA เปิดตัวการ์ดจอตระกูล PRO เพิ่มเติมเป็นรุ่น RTX PRO 5000 แรม 72GB เพิ่มเติมจากเดิม RTX PRO 5000",

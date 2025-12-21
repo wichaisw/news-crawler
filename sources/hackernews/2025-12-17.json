@@ -190,6 +190,17 @@
       "tags": []
     },
     {
+      "id": "i10gvb",
+      "title": "Perfecting Steve Baer's Triple Dome",
+      "description": "Score: 17 | Comments: 2 | Posted by robinhouston",
+      "url": "https://vorth.github.io/vzome-sharing/2024/02/18/baer-dome-from-H4-1001-09-13-04.html",
+      "publishedAt": "2025-12-17T17:50:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "robinhouston",
+      "tags": []
+    },
+    {
       "id": "s7eup8",
       "title": "A Safer Container Ecosystem with Docker: Free Docker Hardened Images",
       "description": "Score: 301 | Comments: 61 | Posted by anttiharju",
@@ -256,6 +267,17 @@
       "tags": []
     },
     {
+      "id": "3qcum0",
+      "title": "Show HN: ZXC – Asymmetric, +40% decode vs. LZ4 on ARM (C, BSD-3, Fuzzed)",
+      "description": "Score: 8 | Comments: 2 | Posted by pollop_",
+      "url": "https://github.com/hellobertrand/zxc",
+      "publishedAt": "2025-12-17T13:18:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pollop_",
+      "tags": []
+    },
+    {
       "id": "hzmp09",
       "title": "Coursera to combine with Udemycoursera.com",
       "description": "Score: 470 | Comments: 284 | Posted by throwaway019254",
@@ -275,6 +297,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "throwaway019254",
+      "tags": []
+    },
+    {
+      "id": "7sor7n",
+      "title": "Log level 'error' should mean that something needs to be fixed",
+      "description": "Score: 352 | Comments: 221 | Posted by todsacerdoti",
+      "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/ErrorsShouldRequireFixing",
+      "publishedAt": "2025-12-17T12:08:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
       "tags": []
     },
     {

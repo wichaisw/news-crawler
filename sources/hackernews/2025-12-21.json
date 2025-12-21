@@ -1,0 +1,61 @@
+{
+  "date": "2025-12-21",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "lgcp6m",
+      "title": "Waymo halts service during S.F. blackout after causing traffic jams",
+      "description": "Score: 23 | Comments: 12 | Posted by rwoll",
+      "url": "https://missionlocal.org/2025/12/sf-waymo-halts-service-blackout/",
+      "publishedAt": "2025-12-21T05:12:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rwoll",
+      "tags": []
+    },
+    {
+      "id": "lu2ig",
+      "title": "Measuring AI Ability to Complete Long Tasks: Opus 4.5 has 50% horizon of 4h49M",
+      "description": "Score: 73 | Comments: 44 | Posted by spicypete",
+      "url": "https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/",
+      "publishedAt": "2025-12-21T04:06:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "spicypete",
+      "tags": []
+    },
+    {
+      "id": "aj2q63",
+      "title": "PG&E outages in S.F. leave 130k without electricity",
+      "description": "Score: 37 | Comments: 18 | Posted by hamandcheese",
+      "url": "https://www.sfchronicle.com/sf/article/pg-e-outage-40-000-customers-without-power-21254326.php",
+      "publishedAt": "2025-12-21T03:35:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hamandcheese",
+      "tags": []
+    },
+    {
+      "id": "rh1u0n",
+      "title": "Flock and Cyble Inc. Weaponize \"Cybercrime\" Takedowns to Silence Criticshaveibeenflocked.com",
+      "description": "Score: 278 | Comments: 53 | Posted by _a9",
+      "url": "https://haveibeenflocked.com/news/cyble-downtime",
+      "publishedAt": "2025-12-21T02:09:37.583Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "_a9",
+      "tags": []
+    },
+    {
+      "id": "rh1u0n",
+      "title": "Flock and Cyble Inc. Weaponize \"Cybercrime\" Takedowns to Silence Critics",
+      "description": "Score: 278 | Comments: 53 | Posted by _a9",
+      "url": "https://haveibeenflocked.com/news/cyble-downtime",
+      "publishedAt": "2025-12-21T01:12:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "_a9",
+      "tags": []
+    }
+  ]
+}
