@@ -69,6 +69,17 @@
       "tags": []
     },
     {
+      "id": "s2uccn",
+      "title": "I program on the subway",
+      "description": "Score: 199 | Comments: 134 | Posted by evankhoury",
+      "url": "https://www.scd31.com/posts/programming-on-the-subway",
+      "publishedAt": "2025-12-16T21:23:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "evankhoury",
+      "tags": []
+    },
+    {
       "id": "7zq1em",
       "title": "Reverse-engineering the RK3588 NPU: Hacking limits to run vision transformers",
       "description": "Score: 38 | Comments: 6 | Posted by rcarmo",
@@ -443,6 +454,17 @@
       "tags": []
     },
     {
+      "id": "sppbg3",
+      "title": "I'm just having fun",
+      "description": "Score: 272 | Comments: 86 | Posted by lemper",
+      "url": "https://jyn.dev/i-m-just-having-fun/",
+      "publishedAt": "2025-12-16T11:19:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lemper",
+      "tags": []
+    },
+    {
       "id": "dlms2u",
       "title": "C++ lowcode toolkit for ERP and Accounting Software",
       "description": "Score: 6 | Comments: 1 | Posted by basesdk",
@@ -451,6 +473,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "basesdk",
+      "tags": []
+    },
+    {
+      "id": "v8o0xs",
+      "title": "What I learned about deploying AV1 from two deployers",
+      "description": "Score: 41 | Comments: 23 | Posted by breve",
+      "url": "https://streaminglearningcenter.com/articles/what-i-learned-about-deploying-av1-from-two-deployers.html",
+      "publishedAt": "2025-12-16T10:51:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "breve",
+      "tags": []
+    },
+    {
+      "id": "pzkg0t",
+      "title": "Functional Flocking Quadtree in ClojureScript",
+      "description": "Score: 7 | Comments: 0 | Posted by lbj",
+      "url": "https://www.lbjgruppen.com/en/posts/flocking-quadtrees",
+      "publishedAt": "2025-12-16T10:26:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lbj",
       "tags": []
     },
     {
@@ -495,6 +539,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "rayhaanj",
+      "tags": []
+    },
+    {
+      "id": "8jisf0",
+      "title": "Show HN: Autograd.c – A tiny ML framework built from scratch",
+      "description": "Score: 76 | Comments: 8 | Posted by sueszli",
+      "url": "https://github.com/sueszli/autograd.c",
+      "publishedAt": "2025-12-16T06:26:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sueszli",
       "tags": []
     },
     {

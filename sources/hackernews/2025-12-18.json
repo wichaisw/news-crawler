@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "zdv96t",
+      "title": "Perron: A Static Site Generator for Ruby on Rails",
+      "description": "Score: 12 | Comments: 1 | Posted by Kerrick",
+      "url": "https://perron-site.statichost.page/",
+      "publishedAt": "2025-12-18T23:37:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Kerrick",
+      "tags": []
+    },
+    {
       "id": "mtwovk",
       "title": "1.5 TB of VRAM on Mac Studio – RDMA over Thunderbolt 5jeffgeerling.com",
       "description": "Score: 300 | Comments: 103 | Posted by rbanffy",
@@ -165,6 +176,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "meetpateltech",
+      "tags": []
+    },
+    {
+      "id": "ll32t8",
+      "title": "Deliberate Internet Shutdowns",
+      "description": "Score: 111 | Comments: 35 | Posted by WaitWaitWha",
+      "url": "https://www.schneier.com/blog/archives/2025/12/deliberate-internet-shutdowns.html",
+      "publishedAt": "2025-12-18T17:49:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "WaitWaitWha",
       "tags": []
     },
     {

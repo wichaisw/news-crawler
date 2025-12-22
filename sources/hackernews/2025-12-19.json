@@ -14,6 +14,17 @@
       "tags": []
     },
     {
+      "id": "vgw3by",
+      "title": "Evolution by natural induction",
+      "description": "Score: 18 | Comments: 1 | Posted by Anon84",
+      "url": "https://royalsocietypublishing.org/rsfs/article/15/6/20250025/366156/Evolution-by-natural-induction",
+      "publishedAt": "2025-12-19T23:57:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Anon84",
+      "tags": []
+    },
+    {
       "id": "xtx74h",
       "title": "We ran Anthropic’s interviews through structured LLM analysis",
       "description": "Score: 71 | Comments: 66 | Posted by jp8585",
@@ -44,6 +55,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "rzk",
+      "tags": []
+    },
+    {
+      "id": "ccou6w",
+      "title": "Kernighan's Lever",
+      "description": "Score: 27 | Comments: 8 | Posted by xk3",
+      "url": "https://linusakesson.net/programming/kernighans-lever/index.php",
+      "publishedAt": "2025-12-19T21:42:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "xk3",
       "tags": []
     },
     {
@@ -157,6 +179,17 @@
       "tags": []
     },
     {
+      "id": "fropt3",
+      "title": "Exploring Speculative JIT Compilation for Emacs Lisp with Java",
+      "description": "Score: 8 | Comments: 1 | Posted by gudzpoz",
+      "url": "https://kyo.iroiro.party/en/posts/juicemacs-exploring-jit-for-elisp/",
+      "publishedAt": "2025-12-19T16:08:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gudzpoz",
+      "tags": []
+    },
+    {
       "id": "sz7zi6",
       "title": "Graphite is joining Cursor",
       "description": "Score: 204 | Comments: 219 | Posted by fosterfriends",
@@ -212,6 +245,17 @@
       "tags": []
     },
     {
+      "id": "mcgzaw",
+      "title": "Webb observes exoplanet that may have an exotic helium and carbon atmosphere",
+      "description": "Score: 24 | Comments: 3 | Posted by taubek",
+      "url": "https://science.nasa.gov/missions/webb/nasas-webb-observes-exoplanet-whose-composition-defies-explanation/",
+      "publishedAt": "2025-12-19T13:16:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "taubek",
+      "tags": []
+    },
+    {
       "id": "mvglgg",
       "title": "8-bit Boléro",
       "description": "Score: 208 | Comments: 36 | Posted by Aissen",
@@ -242,6 +286,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "captn3m0",
+      "tags": []
+    },
+    {
+      "id": "dbs1eo",
+      "title": "Evaluating chain-of-thought monitorability",
+      "description": "Score: 45 | Comments: 16 | Posted by mfiguiere",
+      "url": "https://openai.com/index/evaluating-chain-of-thought-monitorability/",
+      "publishedAt": "2025-12-19T05:49:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mfiguiere",
       "tags": []
     },
     {

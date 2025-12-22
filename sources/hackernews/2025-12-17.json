@@ -311,6 +311,17 @@
       "tags": []
     },
     {
+      "id": "qdt3rj",
+      "title": "Decompiling the New C# 14 field Keyword",
+      "description": "Score: 71 | Comments: 26 | Posted by ivankahl",
+      "url": "https://blog.ivankahl.com/decompiling-the-new-csharp-14-field-keyword/",
+      "publishedAt": "2025-12-17T11:54:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ivankahl",
+      "tags": []
+    },
+    {
       "id": "qimlnc",
       "title": "Vm.overcommit_memory=2 is the right setting for servers",
       "description": "Score: 65 | Comments: 106 | Posted by signa11",
@@ -352,6 +363,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "birdculture",
+      "tags": []
+    },
+    {
+      "id": "2dqgco",
+      "title": "Why “negative vectors” can't delete data in FAISS – but weighted kernels can",
+      "description": "Score: 21 | Comments: 4 | Posted by loaderchips",
+      "url": "https://github.com/nikitph/bloomin/tree/master/negative-vector-experiment",
+      "publishedAt": "2025-12-17T06:26:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "loaderchips",
       "tags": []
     },
     {
