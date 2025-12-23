@@ -1,0 +1,30 @@
+{
+  "date": "2025-12-23",
+  "source": "theverge",
+  "articles": [
+    {
+      "id": "xfd42g",
+      "title": "The FCC’s foreign drone ban is here",
+      "description": "The Federal Communications Commission has banned new drones made in foreign countries from being imported into the US unless the Department of Defense or the Department of Homeland Security recommends them. Monday's action added drones to the FCC's Covered List, qualifying foreign-made drones and drone parts, like those from DJI, as communications equipment representing \"unacceptable [&#8230;]",
+      "url": "https://www.theverge.com/news/849460/fcc-foreign-drone-ban-dji-congress-deadline",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/dji_neo2_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2025-12-23T01:13:51.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Jay Peters",
+      "tags": []
+    },
+    {
+      "id": "f41e3o",
+      "title": "The 60 Minutes report on CECOT that Bari Weiss censored is now internet contraband",
+      "description": "Yesterday, Bari Weiss, the new editor-in-chief of CBS News, censored a segment of its newsmagazine 60 Minutes about men who had been deported to an El Salvador prison. Today, it's popping up online. 60 Minutes had already begun promoting the now-censored segment online. Because it was pulled so late, it seems that CBS missed at [&#8230;]",
+      "url": "https://www.theverge.com/policy/849432/60-minutes-cecot-censored-canada-leak",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/gettyimages-2250986773.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2025-12-23T00:06:04.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Elizabeth Lopatto",
+      "tags": []
+    }
+  ]
+}

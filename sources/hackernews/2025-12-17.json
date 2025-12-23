@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "9itayh",
+      "title": "Show HN: C-compiler to compile TCC for live-bootstrap",
+      "description": "Score: 39 | Comments: 7 | Posted by fjfaase",
+      "url": "https://github.com/FransFaase/MES-replacement",
+      "publishedAt": "2025-12-17T23:34:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fjfaase",
+      "tags": []
+    },
+    {
       "id": "aym4lr",
       "title": "Explaining the Widening Divides in US Midlife Mortality: Is There a Smoking Gun?",
       "description": "Score: 48 | Comments: 54 | Posted by bikenaga",
@@ -157,6 +168,17 @@
       "tags": []
     },
     {
+      "id": "ttge1e",
+      "title": "How the RESISTORS put computing into 1960s counter-culture",
+      "description": "Score: 54 | Comments: 7 | Posted by rbanffy",
+      "url": "https://spectrum.ieee.org/teenage-hackers",
+      "publishedAt": "2025-12-17T19:19:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rbanffy",
+      "tags": []
+    },
+    {
       "id": "l1cvx7",
       "title": "How did IRC ping timeouts end up in a lawsuit?",
       "description": "Score: 144 | Comments: 18 | Posted by dvaun",
@@ -187,6 +209,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "whatisabcdefgh",
+      "tags": []
+    },
+    {
+      "id": "kcf4ux",
+      "title": "Decompiling the Synergy: Human–LLM Teaming in Reverse Engineering [pdf]",
+      "description": "Score: 47 | Comments: 1 | Posted by matt_d",
+      "url": "https://www.zionbasque.com/files/papers/dec-synergy-study.pdf",
+      "publishedAt": "2025-12-17T18:10:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "matt_d",
       "tags": []
     },
     {

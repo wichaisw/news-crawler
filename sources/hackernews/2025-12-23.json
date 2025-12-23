@@ -1,0 +1,83 @@
+{
+  "date": "2025-12-23",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "86oufu",
+      "title": "FCC Updates Covered List to Include Foreign UAS and UAS Critical Components [pdf]",
+      "description": "Score: 38 | Comments: 15 | Posted by Espressosaurus",
+      "url": "https://docs.fcc.gov/public/attachments/DOC-416839A1.pdf",
+      "publishedAt": "2025-12-23T03:57:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Espressosaurus",
+      "tags": []
+    },
+    {
+      "id": "58acwc",
+      "title": "Diesel pollution particles impair lysosomal functions of iPSC-derived microglia",
+      "description": "Score: 22 | Comments: 6 | Posted by PaulHoule",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0160412025002181",
+      "publishedAt": "2025-12-23T02:56:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "PaulHoule",
+      "tags": []
+    },
+    {
+      "id": "aez6xw",
+      "title": "Snitch – A friendlier ss/netstatgithub.com/karol-broda",
+      "description": "Score: 92 | Comments: 13 | Posted by karol-broda",
+      "url": "https://github.com/karol-broda/snitch",
+      "publishedAt": "2025-12-23T02:10:27.888Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "karol-broda",
+      "tags": []
+    },
+    {
+      "id": "2iy96y",
+      "title": "The Duodecimal Bulletin, Vol. 55, No. 1, Year 1209 [pdf]",
+      "description": "Score: 11 | Comments: 0 | Posted by susam",
+      "url": "https://dozenal.org/drupal/sites_bck/default/files/DuodecimalBulletinIssue551.pdf",
+      "publishedAt": "2025-12-23T01:49:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "susam",
+      "tags": []
+    },
+    {
+      "id": "rv8vyj",
+      "title": "Jim Beam halts production at main distillery for a year",
+      "description": "Score: 31 | Comments: 2 | Posted by geox",
+      "url": "https://www.bbc.com/news/articles/cy5gv5z24n2o",
+      "publishedAt": "2025-12-23T01:04:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "geox",
+      "tags": []
+    },
+    {
+      "id": "aez6xw",
+      "title": "Snitch – A friendlier ss/netstat",
+      "description": "Score: 92 | Comments: 13 | Posted by karol-broda",
+      "url": "https://github.com/karol-broda/snitch",
+      "publishedAt": "2025-12-23T01:03:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "karol-broda",
+      "tags": []
+    },
+    {
+      "id": "hcu3ht",
+      "title": "Microsoft to replace all C/C++ code with Rust",
+      "description": "Score: 21 | Comments: 25 | Posted by ape4",
+      "url": "https://www.thurrott.com/dev/330980/microsoft-to-replace-all-c-c-code-with-rust-by-2030",
+      "publishedAt": "2025-12-23T00:27:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ape4",
+      "tags": []
+    }
+  ]
+}

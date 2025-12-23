@@ -190,6 +190,28 @@
       "tags": []
     },
     {
+      "id": "vqkdtk",
+      "title": "There's no such thing as a fake feather [video]",
+      "description": "Score: 70 | Comments: 39 | Posted by surprisetalk",
+      "url": "https://www.youtube.com/watch?v=N5yV1Q9O6r4",
+      "publishedAt": "2025-12-18T17:14:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
+      "id": "bt2h3v",
+      "title": "Remove Black Color with Shaders",
+      "description": "Score: 9 | Comments: 2 | Posted by surprisetalk",
+      "url": "https://yuanchuan.dev/remove-black-color-with-shaders",
+      "publishedAt": "2025-12-18T17:14:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
       "id": "a868t5",
       "title": "Military standard on software control levels",
       "description": "Score: 56 | Comments: 29 | Posted by ibobev",
@@ -333,6 +355,28 @@
       "tags": []
     },
     {
+      "id": "dypo0f",
+      "title": "The Rise of SQL:the second programming language everyone needs to know",
+      "description": "Score: 128 | Comments: 109 | Posted by b-man",
+      "url": "https://spectrum.ieee.org/the-rise-of-sql",
+      "publishedAt": "2025-12-18T14:00:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "b-man",
+      "tags": []
+    },
+    {
+      "id": "hluud0",
+      "title": "Plugins case study: mdBook preprocessors",
+      "description": "Score: 11 | Comments: 1 | Posted by chmaynard",
+      "url": "https://eli.thegreenplace.net/2025/plugins-case-study-mdbook-preprocessors/",
+      "publishedAt": "2025-12-18T12:47:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "chmaynard",
+      "tags": []
+    },
+    {
       "id": "avwazc",
       "title": "Classical statues were not painted horribly",
       "description": "Score: 584 | Comments: 277 | Posted by bensouthwood",
@@ -341,6 +385,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "bensouthwood",
+      "tags": []
+    },
+    {
+      "id": "sn3mr6",
+      "title": "Show HN: Python SDK – forecasting with foundation time-series and tabular models",
+      "description": "Score: 6 | Comments: 1 | Posted by ChernovAndrei",
+      "url": "https://github.com/S-FM/faim-python-client",
+      "publishedAt": "2025-12-18T11:33:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ChernovAndrei",
       "tags": []
     },
     {
