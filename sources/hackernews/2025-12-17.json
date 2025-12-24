@@ -80,6 +80,17 @@
       "tags": []
     },
     {
+      "id": "a2xcro",
+      "title": "Charts in Slides",
+      "description": "Score: 22 | Comments: 0 | Posted by surprisetalk",
+      "url": "https://ia.net/topics/charts-in-slides",
+      "publishedAt": "2025-12-17T21:46:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
       "id": "pns2bw",
       "title": "Cloudflare Radar 2025 Year in Review",
       "description": "Score: 68 | Comments: 29 | Posted by ksec",
@@ -143,6 +154,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "coloneltcb",
+      "tags": []
+    },
+    {
+      "id": "uemjd1",
+      "title": "Learn Lisp/Fennel Programming Against Neovim",
+      "description": "Score: 38 | Comments: 4 | Posted by veqq",
+      "url": "https://github.com/humorless/fennel-fp-neovim",
+      "publishedAt": "2025-12-17T20:09:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "veqq",
       "tags": []
     },
     {

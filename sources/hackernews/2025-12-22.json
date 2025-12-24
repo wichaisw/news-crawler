@@ -234,6 +234,28 @@
       "tags": []
     },
     {
+      "id": "u9k0rk",
+      "title": "Toad is a unified experience for AI in the terminal",
+      "description": "Score: 181 | Comments: 51 | Posted by nikolatt",
+      "url": "https://willmcgugan.github.io/toad-released/",
+      "publishedAt": "2025-12-22T15:12:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nikolatt",
+      "tags": []
+    },
+    {
+      "id": "p45o93",
+      "title": "Lua 5.5",
+      "description": "Score: 250 | Comments: 77 | Posted by km",
+      "url": "https://lua.org/versions.html#5.5",
+      "publishedAt": "2025-12-22T15:06:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "km",
+      "tags": []
+    },
+    {
       "id": "sciqb1",
       "title": "The biggest CRT ever made: Sony's PVM-4300",
       "description": "Score: 243 | Comments: 149 | Posted by giuliomagnifico",
@@ -286,6 +308,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "all-along",
+      "tags": []
+    },
+    {
+      "id": "c3vrcj",
+      "title": "Dancing around the rhythm space with Euclid",
+      "description": "Score: 46 | Comments: 1 | Posted by dracyr",
+      "url": "https://pv.wtf/posts/euclidean-rhythms",
+      "publishedAt": "2025-12-22T08:08:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dracyr",
       "tags": []
     },
     {

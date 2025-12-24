@@ -1,0 +1,39 @@
+{
+  "date": "2025-12-24",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "149301 at https://www.blognone.com",
+      "title": "Ricoh เปิดตัว Ricoh GR IV HDF กล้องคอมแพครุ่นพิเศษ เพิ่มฟิลเตอร์จัดการแสงให้ได้ภาพฟุ้งนุ่มนวลขึ้น",
+      "description": "Ricoh เปิดตัว Ricoh GR IV HDF กล้องคอมแพครุ่นพิเศษ เพิ่มฟิลเตอร์จัดการแสงให้ได้ภาพฟุ้งนุ่มนวลขึ้น Body เมื่อสัปดาห์ที่ผ่านมา Ricoh",
+      "url": "https://www.blognone.com/node/149301",
+      "publishedAt": "2025-12-24T05:41:15.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149300 at https://www.blognone.com",
+      "title": "ยุคนี้แรมแพง ผู้สร้าง FFmpeg, QEMU เปิดโครงการ MicroQuickJS รันจาวาสคริปต์ด้วยแรม 10KB",
+      "description": "ยุคนี้แรมแพง ผู้สร้าง FFmpeg, QEMU เปิดโครงการ MicroQuickJS รันจาวาสคริปต์ด้วยแรม 10KB Body Fabrice Bellard",
+      "url": "https://www.blognone.com/node/149300",
+      "publishedAt": "2025-12-24T04:06:54.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149299 at https://www.blognone.com",
+      "title": "NIST กู้ศูนย์ข้อมูลเทียบเวลาได้แล้ว เวลาเคลื่อนไป 5 µs",
+      "description": "NIST กู้ศูนย์ข้อมูลเทียบเวลาได้แล้ว เวลาเคลื่อนไป 5 µs Body NIST รายงานการกู้คืนเซิร์ฟเวอร์เทียบเวลาหลังจาก ไฟดับต่อเนื่องทำให้ค่าเวลาคลาดเคลื่อน",
+      "url": "https://www.blognone.com/node/149299",
+      "publishedAt": "2025-12-24T03:07:39.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}

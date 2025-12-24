@@ -267,6 +267,17 @@
       "tags": []
     },
     {
+      "id": "6n383z",
+      "title": "Adobe Photoshop 1.0 Source Code (1990)",
+      "description": "Score: 420 | Comments: 141 | Posted by tosh",
+      "url": "https://computerhistory.org/blog/adobe-photoshop-source-code/",
+      "publishedAt": "2025-12-18T15:37:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tosh",
+      "tags": []
+    },
+    {
       "id": "cu7mlm",
       "title": "The immortality of Microsoft Word",
       "description": "Score: 49 | Comments: 67 | Posted by jpbryan",
@@ -366,6 +377,17 @@
       "tags": []
     },
     {
+      "id": "ibll8e",
+      "title": "Executorch: On-device AI across mobile, embedded and edge for PyTorch",
+      "description": "Score: 110 | Comments: 16 | Posted by klaussilveira",
+      "url": "https://github.com/pytorch/executorch",
+      "publishedAt": "2025-12-18T13:51:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "klaussilveira",
+      "tags": []
+    },
+    {
       "id": "hluud0",
       "title": "Plugins case study: mdBook preprocessors",
       "description": "Score: 11 | Comments: 1 | Posted by chmaynard",
@@ -432,6 +454,17 @@
       "tags": []
     },
     {
+      "id": "h0l1an",
+      "title": "Fifty problems with standard web APIs in 2025",
+      "description": "Score: 97 | Comments: 27 | Posted by dhruv3006",
+      "url": "https://zerotrickpony.com/articles/browser-bugs/",
+      "publishedAt": "2025-12-18T04:55:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dhruv3006",
+      "tags": []
+    },
+    {
       "id": "4ac8ym",
       "title": "Judge hints Vizio TV buyers may have rights to source code licensed under GPL",
       "description": "Score: 15 | Comments: 1 | Posted by pabs3",
@@ -484,6 +517,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "Xunxi",
+      "tags": []
+    },
+    {
+      "id": "3j2xto",
+      "title": "Go-boot: bare metal Go UEFI boot manager",
+      "description": "Score: 79 | Comments: 23 | Posted by nateb2022",
+      "url": "https://github.com/usbarmory/go-boot",
+      "publishedAt": "2025-12-18T00:08:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nateb2022",
       "tags": []
     }
   ]

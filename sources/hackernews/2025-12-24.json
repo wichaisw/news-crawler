@@ -1,0 +1,116 @@
+{
+  "date": "2025-12-24",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "w0w4oy",
+      "title": "Don't Become the Machine",
+      "description": "Score: 17 | Comments: 4 | Posted by armeet",
+      "url": "https://armeet.bearblog.dev/becoming-the-machine/",
+      "publishedAt": "2025-12-24T03:34:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "armeet",
+      "tags": []
+    },
+    {
+      "id": "hndloa",
+      "title": "Name That Part: 3D Part Segmentation and Naming",
+      "description": "Score: 6 | Comments: 1 | Posted by unisub_guy",
+      "url": "https://name-that-part.github.io/",
+      "publishedAt": "2025-12-24T02:24:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "unisub_guy",
+      "tags": []
+    },
+    {
+      "id": "nvkx4e",
+      "title": "Correspondence Between Don Knuth and Peter van Emde Boas on Priority Deques 1977 [pdf]",
+      "description": "Score: 23 | Comments: 1 | Posted by vismit2000",
+      "url": "https://staff.fnwi.uva.nl/p.vanemdeboas/knuthnote.pdf",
+      "publishedAt": "2025-12-24T02:21:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vismit2000",
+      "tags": []
+    },
+    {
+      "id": "40x9yg",
+      "title": "Show HN: Turn raw HTML into production-ready images for free",
+      "description": "Score: 38 | Comments: 11 | Posted by alvinunreal",
+      "url": "https://html2png.dev",
+      "publishedAt": "2025-12-24T02:18:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "alvinunreal",
+      "tags": []
+    },
+    {
+      "id": "cio6f5",
+      "title": "Autonomously navigating the real world: lessons from the PG&E outage",
+      "description": "Score: 38 | Comments: 8 | Posted by scoofy",
+      "url": "https://waymo.com/blog/2025/12/autonomously-navigating-the-real-world",
+      "publishedAt": "2025-12-24T02:16:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "scoofy",
+      "tags": []
+    },
+    {
+      "id": "if8src",
+      "title": "Could lockfiles just be SBOMs?",
+      "description": "Score: 24 | Comments: 10 | Posted by zdw",
+      "url": "https://nesbitt.io/2025/12/23/could-lockfiles-just-be-sboms.html",
+      "publishedAt": "2025-12-24T02:10:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "66r2p6",
+      "title": "'Dracula's Chivito': Hubble reveals largest birthplace of planets ever observed",
+      "description": "Score: 30 | Comments: 5 | Posted by wglb",
+      "url": "https://phys.org/news/2025-12-chaotic-dracula-chivito-hubble-reveals.html",
+      "publishedAt": "2025-12-24T02:01:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wglb",
+      "tags": []
+    },
+    {
+      "id": "jndph3",
+      "title": "Open source USB to GPIB converter (for Test and Measurement instruments)",
+      "description": "Score: 25 | Comments: 3 | Posted by v15w",
+      "url": "https://github.com/xyphro/UsbGpib",
+      "publishedAt": "2025-12-24T01:21:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "v15w",
+      "tags": []
+    },
+    {
+      "id": "i333e0",
+      "title": "Nabokov's guide to foreigners learning Russian",
+      "description": "Score: 47 | Comments: 56 | Posted by flaxxen",
+      "url": "https://twitter.com/haravayin_hogh/status/2003299405907247502",
+      "publishedAt": "2025-12-24T01:20:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "flaxxen",
+      "tags": []
+    },
+    {
+      "id": "9wkbm1",
+      "title": "Unifi Travel Router",
+      "description": "Score: 173 | Comments: 128 | Posted by flurdy",
+      "url": "https://blog.ui.com/article/travel-in-style-unifi-style-unifi-travel-router",
+      "publishedAt": "2025-12-24T00:30:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "flurdy",
+      "tags": []
+    }
+  ]
+}
