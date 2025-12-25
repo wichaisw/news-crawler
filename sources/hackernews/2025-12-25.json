@@ -1,0 +1,94 @@
+{
+  "date": "2025-12-25",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "bf5oh3",
+      "title": "Free Software Foundation receives historic private donations",
+      "description": "Score: 7 | Comments: 0 | Posted by pentagrama",
+      "url": "https://www.fsf.org/news/free-software-foundation-receives-historic-private-donations",
+      "publishedAt": "2025-12-25T04:47:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pentagrama",
+      "tags": []
+    },
+    {
+      "id": "3nlrkc",
+      "title": "AI Withholds Life-or-Death Information Unless You Know the Magic Words",
+      "description": "Score: 12 | Comments: 1 | Posted by llamataboot",
+      "url": "https://substack.com/home/post/p-182524207",
+      "publishedAt": "2025-12-25T04:19:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "llamataboot",
+      "tags": []
+    },
+    {
+      "id": "302qtg",
+      "title": "Ruby 4.0.0 Released",
+      "description": "Score: 69 | Comments: 3 | Posted by FBISurveillance",
+      "url": "https://www.ruby-lang.org/en/news/2025/12/25/ruby-4-0-0-released/",
+      "publishedAt": "2025-12-25T04:13:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "FBISurveillance",
+      "tags": []
+    },
+    {
+      "id": "uscb0k",
+      "title": "Python Applied Mathematics Labs",
+      "description": "Score: 55 | Comments: 2 | Posted by vvin",
+      "url": "https://labs.acme.byu.edu/Pages/intro.html",
+      "publishedAt": "2025-12-25T03:33:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vvin",
+      "tags": []
+    },
+    {
+      "id": "8utspt",
+      "title": "Microsoft denies rewriting Windows 11 in Rust using AI",
+      "description": "Score: 55 | Comments: 56 | Posted by zdw",
+      "url": "https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/",
+      "publishedAt": "2025-12-25T03:26:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "6hgtxs",
+      "title": "Who Watches the Waymos? I do [video]youtube.com",
+      "description": "Score: 102 | Comments: 33 | Posted by notgloating",
+      "url": "https://www.youtube.com/watch?v=oYU2hAbx_Fc",
+      "publishedAt": "2025-12-25T01:10:10.993Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "notgloating",
+      "tags": []
+    },
+    {
+      "id": "ql1jym",
+      "title": "The Next-Gen Mainboard Designed with AmigaOS4 and MorphOS in Mind",
+      "description": "Score: 13 | Comments: 2 | Posted by todsacerdoti",
+      "url": "https://mirari.vitasys.nl/our-story/",
+      "publishedAt": "2025-12-25T00:38:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "6hgtxs",
+      "title": "Who Watches the Waymos? I do [video]",
+      "description": "Score: 102 | Comments: 33 | Posted by notgloating",
+      "url": "https://www.youtube.com/watch?v=oYU2hAbx_Fc",
+      "publishedAt": "2025-12-25T00:10:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "notgloating",
+      "tags": []
+    }
+  ]
+}

@@ -80,6 +80,28 @@
       "tags": []
     },
     {
+      "id": "7zxzot",
+      "title": "The port I couldn't ship",
+      "description": "Score: 102 | Comments: 61 | Posted by cjlm",
+      "url": "https://ammil.industries/the-port-i-couldnt-ship/",
+      "publishedAt": "2025-12-18T20:17:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cjlm",
+      "tags": []
+    },
+    {
+      "id": "bj21gq",
+      "title": "A faster path to container images in Bazel",
+      "description": "Score: 75 | Comments: 37 | Posted by malt3",
+      "url": "https://www.tweag.io/blog/2025-12-18-rules_img/",
+      "publishedAt": "2025-12-18T19:50:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "malt3",
+      "tags": []
+    },
+    {
       "id": "rlrrks",
       "title": "T5Gemma 2: The next generation of encoder-decoder models",
       "description": "Score: 121 | Comments: 22 | Posted by milomg",
@@ -231,6 +253,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "adocomplete",
+      "tags": []
+    },
+    {
+      "id": "eq0e5z",
+      "title": "JEDEC developing reduced pin count HBM4 standard to enable higher capacity",
+      "description": "Score: 12 | Comments: 0 | Posted by rbanffy",
+      "url": "https://blocksandfiles.com/2025/12/17/jedec-sphbm4/",
+      "publishedAt": "2025-12-18T16:11:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rbanffy",
       "tags": []
     },
     {

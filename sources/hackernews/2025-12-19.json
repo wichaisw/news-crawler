@@ -223,6 +223,17 @@
       "tags": []
     },
     {
+      "id": "z1ofmv",
+      "title": "Show HN: Exploring Mathematics with Python",
+      "description": "Score: 73 | Comments: 5 | Posted by Andrew2565",
+      "url": "https://coe.psu.ac.th/ad/explore/",
+      "publishedAt": "2025-12-19T15:55:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Andrew2565",
+      "tags": []
+    },
+    {
       "id": "cvrcuk",
       "title": "Believe the Checkbook",
       "description": "Score: 135 | Comments: 60 | Posted by rg81",
@@ -231,6 +242,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "rg81",
+      "tags": []
+    },
+    {
+      "id": "o055dd",
+      "title": "map::operator[] should be nodiscard",
+      "description": "Score: 66 | Comments: 60 | Posted by jandeboevrie",
+      "url": "https://quuxplusone.github.io/blog/2025/12/18/nodiscard-operator-bracket/",
+      "publishedAt": "2025-12-19T15:45:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jandeboevrie",
       "tags": []
     },
     {
@@ -289,6 +311,17 @@
       "tags": []
     },
     {
+      "id": "39lsk4",
+      "title": "Making a game on a custom bytecode VM in 7 days and 3kB",
+      "description": "Score: 81 | Comments: 13 | Posted by laurentlb",
+      "url": "https://laurent.le-brun.eu/blog/making-a-game-on-a-custom-bytecode-vm-in-7-days-and-3kb",
+      "publishedAt": "2025-12-19T13:00:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "laurentlb",
+      "tags": []
+    },
+    {
       "id": "mvglgg",
       "title": "8-bit Boléro",
       "description": "Score: 208 | Comments: 36 | Posted by Aissen",
@@ -330,6 +363,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "captn3m0",
+      "tags": []
+    },
+    {
+      "id": "4a9a2g",
+      "title": "Research team digitizes more than 100 years of Canadian infectious disease data",
+      "description": "Score: 90 | Comments: 5 | Posted by XzetaU8",
+      "url": "https://news.mcmaster.ca/mcmaster-research-team-digitizes-more-than-100-years-of-canadian-infectious-disease-data/",
+      "publishedAt": "2025-12-19T06:24:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "XzetaU8",
       "tags": []
     },
     {

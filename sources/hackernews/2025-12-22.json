@@ -322,6 +322,28 @@
       "tags": []
     },
     {
+      "id": "f2qbdb",
+      "title": "CSRF protection without tokens or hidden form fields",
+      "description": "Score: 146 | Comments: 38 | Posted by adevilinyc",
+      "url": "https://blog.miguelgrinberg.com/post/csrf-protection-without-tokens-or-hidden-form-fields",
+      "publishedAt": "2025-12-22T05:38:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "adevilinyc",
+      "tags": []
+    },
+    {
+      "id": "5ywcm",
+      "title": "A Child in the State of Nature",
+      "description": "Score: 6 | Comments: 0 | Posted by Caiero",
+      "url": "https://lareviewofbooks.org/article/a-child-in-the-state-of-nature/",
+      "publishedAt": "2025-12-22T05:28:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Caiero",
+      "tags": []
+    },
+    {
       "id": "dbq2qx",
       "title": "Why immigration research is probably biased",
       "description": "Score: 7 | Comments: 0 | Posted by paulpauper",
@@ -352,6 +374,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "MilnerRoute",
+      "tags": []
+    },
+    {
+      "id": "ew57ur",
+      "title": "Your inbox is a bandit problem",
+      "description": "Score: 82 | Comments: 66 | Posted by zdw",
+      "url": "https://parentheticallyspeaking.org/articles/bandit-inbox/",
+      "publishedAt": "2025-12-22T04:04:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
       "tags": []
     },
     {
