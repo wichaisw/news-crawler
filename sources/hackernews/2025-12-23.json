@@ -1,0 +1,17 @@
+{
+  "date": "2025-12-23",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "12yn4m",
+      "title": "Fabrice Bellard Releases MicroQuickJS",
+      "description": "Score: 1447 | Comments: 542 | Posted by Aissen",
+      "url": "https://github.com/bellard/mquickjs/blob/main/README.md",
+      "publishedAt": "2025-12-23T17:33:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Aissen",
+      "tags": []
+    }
+  ]
+}

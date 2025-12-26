@@ -1,0 +1,138 @@
+{
+  "date": "2025-12-26",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "xefcfu",
+      "title": "Rob Pike Goes Nuclear over GenAI",
+      "description": "Score: 79 | Comments: 26 | Posted by signa11",
+      "url": "https://imgur.com/nUJCI3o",
+      "publishedAt": "2025-12-26T05:27:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "signa11",
+      "tags": []
+    },
+    {
+      "id": "68k0zl",
+      "title": "TurboDiffusion: 100–200× Acceleration for Video Diffusion Models",
+      "description": "Score: 13 | Comments: 3 | Posted by meander_water",
+      "url": "https://github.com/thu-ml/TurboDiffusion",
+      "publishedAt": "2025-12-26T03:19:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "meander_water",
+      "tags": []
+    },
+    {
+      "id": "ntu0fa",
+      "title": "Ultimate-Linux: Userspace for Linux in Pure JavaScriptgithub.com/popovicu",
+      "description": "Score: 27 | Comments: 7 | Posted by radeeyate",
+      "url": "https://github.com/popovicu/ultimate-linux",
+      "publishedAt": "2025-12-26T03:10:16.966Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "radeeyate",
+      "tags": []
+    },
+    {
+      "id": "ntu0fa",
+      "title": "Ultimate-Linux: Userspace for Linux in Pure JavaScript",
+      "description": "Score: 28 | Comments: 7 | Posted by radeeyate",
+      "url": "https://github.com/popovicu/ultimate-linux",
+      "publishedAt": "2025-12-26T02:32:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "radeeyate",
+      "tags": []
+    },
+    {
+      "id": "h017pf",
+      "title": "Show HN: Gaming Couch – a local multiplayer party game platform for 8 playersgamingcouch.com",
+      "description": "Score: 85 | Comments: 13 | Posted by ChaosOp",
+      "url": "https://gamingcouch.com",
+      "publishedAt": "2025-12-26T02:10:16.966Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ChaosOp",
+      "tags": []
+    },
+    {
+      "id": "e5ugiy",
+      "title": "MiniMax M2.1: Built for Real-World Complex Tasks, Multi-Language Programmingminimaxi.com",
+      "description": "Score: 84 | Comments: 31 | Posted by 110",
+      "url": "https://www.minimaxi.com/news/minimax-m21",
+      "publishedAt": "2025-12-26T01:10:16.965Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "110",
+      "tags": []
+    },
+    {
+      "id": "e5ugiy",
+      "title": "MiniMax M2.1: Built for Real-World Complex Tasks, Multi-Language Programming",
+      "description": "Score: 84 | Comments: 31 | Posted by 110",
+      "url": "https://www.minimaxi.com/news/minimax-m21",
+      "publishedAt": "2025-12-26T01:02:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "110",
+      "tags": []
+    },
+    {
+      "id": "lgyqhl",
+      "title": "Governments in the West Are Turning Their Sights on VPNs",
+      "description": "Score: 39 | Comments: 11 | Posted by indigodaddy",
+      "url": "https://www.nakedcapitalism.com/2025/12/in-their-total-war-on-online-privacy-the-liberal-democracies-of-the-collective-west-are-now-turning-their-sights-on-vpns.html",
+      "publishedAt": "2025-12-26T00:58:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "indigodaddy",
+      "tags": []
+    },
+    {
+      "id": "iaawi3",
+      "title": "Line Scan Camera Image Processing",
+      "description": "Score: 4 | Comments: 1 | Posted by tlyleung",
+      "url": "https://daniel.lawrence.lu/blog/2025-09-21-line-scan-camera-image-processing/",
+      "publishedAt": "2025-12-26T00:37:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tlyleung",
+      "tags": []
+    },
+    {
+      "id": "ame7rn",
+      "title": "When a driver challenges the kernel's assumptions",
+      "description": "Score: 43 | Comments: 8 | Posted by todsacerdoti",
+      "url": "http://miod.online.fr/software/openbsd/stories/udl.html",
+      "publishedAt": "2025-12-26T00:32:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "nlpaus",
+      "title": "Seven Diabetes Patients Die Due to Undisclosed Bug in Abbott's Glucose Monitors",
+      "description": "Score: 170 | Comments: 65 | Posted by pabs3",
+      "url": "https://sfconservancy.org/blog/2025/dec/23/seven-abbott-freestyle-libre-cgm-patients-dead/",
+      "publishedAt": "2025-12-26T00:29:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pabs3",
+      "tags": []
+    },
+    {
+      "id": "lrm0ew",
+      "title": "Maybe the default settings are too highraptitude.com",
+      "description": "Score: 402 | Comments: 119 | Posted by htk",
+      "url": "https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/",
+      "publishedAt": "2025-12-26T00:10:16.965Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "htk",
+      "tags": []
+    }
+  ]
+}

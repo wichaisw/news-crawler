@@ -1,0 +1,39 @@
+{
+  "date": "2025-12-21",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "99qgf5",
+      "title": "Handheld PC Community Forums",
+      "description": "Score: 65 | Comments: 26 | Posted by walterbell",
+      "url": "https://www.hpcfactor.com/forums/category-view.asp",
+      "publishedAt": "2025-12-21T21:59:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "walterbell",
+      "tags": []
+    },
+    {
+      "id": "8jelfj",
+      "title": "Using Vectorize to build an unreasonably good search engine in 160 lines of code",
+      "description": "Score: 131 | Comments: 38 | Posted by ColinWright",
+      "url": "https://blog.partykit.io/posts/using-vectorize-to-build-search/",
+      "publishedAt": "2025-12-21T16:36:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ColinWright",
+      "tags": []
+    },
+    {
+      "id": "h017pf",
+      "title": "Show HN: Gaming Couch – a local multiplayer party game platform for 8 players",
+      "description": "Score: 85 | Comments: 13 | Posted by ChaosOp",
+      "url": "https://gamingcouch.com",
+      "publishedAt": "2025-12-21T13:08:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ChaosOp",
+      "tags": []
+    }
+  ]
+}

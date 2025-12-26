@@ -1,0 +1,50 @@
+{
+  "date": "2025-12-18",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "eg2f73",
+      "title": "Geometric Algorithms for Translucency Sorting in Minecraft [pdf]",
+      "description": "Score: 41 | Comments: 10 | Posted by HeliumHydride",
+      "url": "https://douira.dev/assets/document/douira-master-thesis.pdf",
+      "publishedAt": "2025-12-18T23:25:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "HeliumHydride",
+      "tags": []
+    },
+    {
+      "id": "hlth2m",
+      "title": "The First Photographs of Snowflakes Discover the Groundbreaking Microphotography (2017)",
+      "description": "Score: 91 | Comments: 18 | Posted by _____k",
+      "url": "https://www.openculture.com/2017/12/the-first-photographs-of-snowflakes.html",
+      "publishedAt": "2025-12-18T21:58:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "_____k",
+      "tags": []
+    },
+    {
+      "id": "1h0x7l",
+      "title": "Show HN: Spice Cayenne – SQL acceleration built on Vortex",
+      "description": "Score: 42 | Comments: 4 | Posted by lukekim",
+      "url": "https://spice.ai/blog/introducing-spice-cayenne-data-accelerator",
+      "publishedAt": "2025-12-18T19:00:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lukekim",
+      "tags": []
+    },
+    {
+      "id": "3qxcmc",
+      "title": "Toys with the highest play-time and lowest clean-up-time",
+      "description": "Score: 338 | Comments: 183 | Posted by surprisetalk",
+      "url": "https://joannabregan.substack.com/p/toys-with-the-highest-play-time-and",
+      "publishedAt": "2025-12-18T17:14:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "date": "2025-12-19",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "7lb7sy",
+      "title": "CUDA Tile Open Sourced",
+      "description": "Score: 163 | Comments: 67 | Posted by JonChesterfield",
+      "url": "https://github.com/NVIDIA/cuda-tile",
+      "publishedAt": "2025-12-19T20:49:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "JonChesterfield",
+      "tags": []
+    },
+    {
+      "id": "h4qs8m",
+      "title": "Tiled Art",
+      "description": "Score: 79 | Comments: 3 | Posted by meander_water",
+      "url": "https://tiled.art/en/home/?id=SilverAndGold",
+      "publishedAt": "2025-12-19T12:00:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "meander_water",
+      "tags": []
+    },
+    {
+      "id": "4a9a2g",
+      "title": "Research team digitizes more than 100 years of Canadian infectious disease data",
+      "description": "Score: 157 | Comments: 6 | Posted by XzetaU8",
+      "url": "https://news.mcmaster.ca/mcmaster-research-team-digitizes-more-than-100-years-of-canadian-infectious-disease-data/",
+      "publishedAt": "2025-12-19T06:24:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "XzetaU8",
+      "tags": []
+    },
+    {
+      "id": "1sijro",
+      "title": "Reinventing the dial-up modem (2019)",
+      "description": "Score: 15 | Comments: 6 | Posted by todsacerdoti",
+      "url": "https://saket.me/dtmf-tones/",
+      "publishedAt": "2025-12-19T04:53:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    }
+  ]
+}

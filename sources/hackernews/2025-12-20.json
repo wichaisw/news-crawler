@@ -1,0 +1,39 @@
+{
+  "date": "2025-12-20",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "vwrc5n",
+      "title": "Comptime – C# meta-programming with compile-time code generation and evaluation",
+      "description": "Score: 137 | Comments: 62 | Posted by bj-rn",
+      "url": "https://github.com/sebastienros/comptime",
+      "publishedAt": "2025-12-20T20:49:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bj-rn",
+      "tags": []
+    },
+    {
+      "id": "2xlwfx",
+      "title": "The entire New Yorker archive is now digitized",
+      "description": "Score: 378 | Comments: 54 | Posted by thm",
+      "url": "https://www.newyorker.com/news/press-room/the-entire-new-yorker-archive-is-now-fully-digitized",
+      "publishedAt": "2025-12-20T14:49:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thm",
+      "tags": []
+    },
+    {
+      "id": "vfkykp",
+      "title": "Lessons from a year of Postgres CDC in production",
+      "description": "Score: 6 | Comments: 0 | Posted by saisrirampur",
+      "url": "https://clickhouse.com/blog/postgres-cdc-year-in-review-2025",
+      "publishedAt": "2025-12-20T01:00:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "saisrirampur",
+      "tags": []
+    }
+  ]
+}

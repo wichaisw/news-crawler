@@ -1,0 +1,30 @@
+{
+  "date": "2025-12-25",
+  "source": "theverge",
+  "articles": [
+    {
+      "id": "5f9qyb",
+      "title": "I re-created Google's cute Gemini ad with my own kid's stuffie, and I wish I hadn't",
+      "description": "When your kid starts showing a preference for one of their stuffed animals, you're supposed to buy a backup in case it goes missing. I've heard this advice again and again, but never got around to buying a second plush deer once \"Buddy\" became my son's obvious favorite. Neither, apparently, did the parents in Google's [&#8230;]",
+      "url": "https://www.theverge.com/tech/849998/gemini-ai-stuffed-animal-commercial",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Screenshot-2025-12-23-at-1.37.13%E2%80%AFPM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2025-12-25T14:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Allison Johnson",
+      "tags": []
+    },
+    {
+      "id": "6ehue8",
+      "title": "Hollywood cozied up to AI in 2025 and had nothing good to show for it",
+      "description": "AI isn't new to Hollywood - but this was the year when it really made its presence felt. For years now, the entertainment industry has used different kinds of generative AI products for a variety of post-production processes ranging from de-aging actors to removing green screen backgrounds. In many instances, the technology has been a [&#8230;]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/848119/hollywood-film-tv-ai-2025",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258090_EOY_2025_CVirginia_AI_ART.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2025-12-25T13:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Charles Pulliam-Moore",
+      "tags": []
+    }
+  ]
+}

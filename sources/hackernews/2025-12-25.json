@@ -3,6 +3,160 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "lrm0ew",
+      "title": "Maybe the default settings are too high",
+      "description": "Score: 403 | Comments: 119 | Posted by htk",
+      "url": "https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/",
+      "publishedAt": "2025-12-25T23:13:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "htk",
+      "tags": []
+    },
+    {
+      "id": "fcvpz6",
+      "title": "We \"solved\" C10K years ago yet we keep reinventing it (2003)",
+      "description": "Score: 8 | Comments: 1 | Posted by birdculture",
+      "url": "https://www.kegel.com/c10k.html",
+      "publishedAt": "2025-12-25T22:35:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "birdculture",
+      "tags": []
+    },
+    {
+      "id": "uhqew1",
+      "title": "Google is 'gradually rolling out' option to change your gmail.com address",
+      "description": "Score: 175 | Comments: 140 | Posted by geox",
+      "url": "https://9to5google.com/2025/12/24/google-change-gmail-addresses/",
+      "publishedAt": "2025-12-25T21:36:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "geox",
+      "tags": []
+    },
+    {
+      "id": "xz1a72",
+      "title": "A framework for technical writing in the age of LLMs",
+      "description": "Score: 10 | Comments: 2 | Posted by sebg",
+      "url": "https://thedataquarry.com/blog/a-framework-for-reading-and-writing/",
+      "publishedAt": "2025-12-25T21:04:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sebg",
+      "tags": []
+    },
+    {
+      "id": "5whvts",
+      "title": "URL Pattern API",
+      "description": "Score: 68 | Comments: 14 | Posted by thunderbong",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/API/URL_Pattern_API",
+      "publishedAt": "2025-12-25T20:27:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thunderbong",
+      "tags": []
+    },
+    {
+      "id": "hhkg8b",
+      "title": "Fahrplan – 39C3",
+      "description": "Score: 180 | Comments: 21 | Posted by rurban",
+      "url": "https://fahrplan.events.ccc.de/congress/2025/fahrplan/",
+      "publishedAt": "2025-12-25T18:40:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rurban",
+      "tags": []
+    },
+    {
+      "id": "v7tuxl",
+      "title": "Critical vulnerability in LangChain – CVE-2025-68664",
+      "description": "Score: 90 | Comments: 61 | Posted by shahartal",
+      "url": "https://cyata.ai/blog/langgrinch-langchain-core-cve-2025-68664/",
+      "publishedAt": "2025-12-25T18:06:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "shahartal",
+      "tags": []
+    },
+    {
+      "id": "y6doof",
+      "title": "I sell onions on the Internet (2019)",
+      "description": "Score: 410 | Comments: 122 | Posted by sogen",
+      "url": "https://www.deepsouthventures.com/i-sell-onions-on-the-internet/",
+      "publishedAt": "2025-12-25T16:24:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sogen",
+      "tags": []
+    },
+    {
+      "id": "1sxyac",
+      "title": "Alzheimer’s disease can be reversed in animal models? Study",
+      "description": "Score: 447 | Comments: 110 | Posted by thunderbong",
+      "url": "https://case.edu/news/new-study-shows-alzheimers-disease-can-be-reversed-achieve-full-neurological-recovery-not-just-prevented-or-slowed-animal-models",
+      "publishedAt": "2025-12-25T15:22:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thunderbong",
+      "tags": []
+    },
+    {
+      "id": "ir568r",
+      "title": "Asahi Linux with Sway on the MacBook Air M2 (2024)",
+      "description": "Score: 214 | Comments: 201 | Posted by andsoitis",
+      "url": "https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/",
+      "publishedAt": "2025-12-25T14:20:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andsoitis",
+      "tags": []
+    },
+    {
+      "id": "kd7qvg",
+      "title": "Python 3.15’s interpreter for Windows x86-64 should hopefully be 15% faster",
+      "description": "Score: 347 | Comments: 112 | Posted by lumpa",
+      "url": "https://fidget-spinner.github.io/posts/no-longer-sorry.html",
+      "publishedAt": "2025-12-25T13:02:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lumpa",
+      "tags": []
+    },
+    {
+      "id": "tn1t9c",
+      "title": "Mattermost restricted access to old messages after 10000 limit is reached",
+      "description": "Score: 348 | Comments: 209 | Posted by xvilka",
+      "url": "https://github.com/mattermost/mattermost/issues/34271",
+      "publishedAt": "2025-12-25T11:03:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "xvilka",
+      "tags": []
+    },
+    {
+      "id": "fm98zl",
+      "title": "We invited a man into our home at Christmas and he stayed with us for 45 years",
+      "description": "Score: 991 | Comments: 238 | Posted by rajeshrajappan",
+      "url": "https://www.bbc.co.uk/news/articles/cdxwllqz1l0o",
+      "publishedAt": "2025-12-25T10:35:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rajeshrajappan",
+      "tags": []
+    },
+    {
+      "id": "ct2cdw",
+      "title": "Quantum Error Correction Goes FOOM",
+      "description": "Score: 62 | Comments: 18 | Posted by EvgeniyZh",
+      "url": "https://algassert.com/post/2503",
+      "publishedAt": "2025-12-25T09:18:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "EvgeniyZh",
+      "tags": []
+    },
+    {
       "id": "bf5oh3",
       "title": "Free Software Foundation receives historic private donations",
       "description": "Score: 7 | Comments: 0 | Posted by pentagrama",
@@ -44,6 +198,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "vvin",
+      "tags": []
+    },
+    {
+      "id": "uc6ju9",
+      "title": "No Longer Evil – new life for dead/outdated Nest Generation 1 and 2 thermostats",
+      "description": "Score: 57 | Comments: 8 | Posted by pabs3",
+      "url": "https://nolongerevil.com/",
+      "publishedAt": "2025-12-25T03:32:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pabs3",
       "tags": []
     },
     {
