@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "k4blkc",
+      "title": "Researchers develop a camera that can focus on different distances at once",
+      "description": "Score: 28 | Comments: 8 | Posted by gnabgib",
+      "url": "https://engineering.cmu.edu/news-events/news/2025/12/19-perfect-shot.html",
+      "publishedAt": "2025-12-23T21:42:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gnabgib",
+      "tags": []
+    },
+    {
       "id": "12yn4m",
       "title": "Fabrice Bellard Releases MicroQuickJS",
       "description": "Score: 1447 | Comments: 542 | Posted by Aissen",
@@ -11,6 +22,39 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "Aissen",
+      "tags": []
+    },
+    {
+      "id": "3ln0es",
+      "title": "AI Police Reports: Year in Review",
+      "description": "Score: 30 | Comments: 2 | Posted by hn_acker",
+      "url": "https://www.eff.org/deeplinks/2025/12/ai-police-reports-year-review",
+      "publishedAt": "2025-12-23T17:30:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hn_acker",
+      "tags": []
+    },
+    {
+      "id": "dt40fi",
+      "title": "The Best Things and Stuff of 2025",
+      "description": "Score: 189 | Comments: 24 | Posted by adityaathalye",
+      "url": "https://blog.fogus.me/2025/12/23/the-best-things-and-stuff-of-2025.html",
+      "publishedAt": "2025-12-23T14:51:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "adityaathalye",
+      "tags": []
+    },
+    {
+      "id": "uhfs77",
+      "title": "Moravec's Paradox and the Robot Olympics",
+      "description": "Score: 43 | Comments: 3 | Posted by beklein",
+      "url": "https://www.physicalintelligence.company/blog/olympics",
+      "publishedAt": "2025-12-23T13:39:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "beklein",
       "tags": []
     }
   ]

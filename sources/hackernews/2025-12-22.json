@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "dom7cn",
+      "title": "Overlooked No More: Inge Lehmann, Who Discovered the Earth's Inner Core",
+      "description": "Score: 82 | Comments: 15 | Posted by Hooke",
+      "url": "https://www.nytimes.com/2025/12/20/obituaries/inge-lehmann-overlooked.html",
+      "publishedAt": "2025-12-22T22:44:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Hooke",
+      "tags": []
+    },
+    {
       "id": "nb6h2e",
       "title": "Paperbacks and TikTok",
       "description": "Score: 100 | Comments: 60 | Posted by zdw",
@@ -25,6 +36,17 @@
       "tags": []
     },
     {
+      "id": "baqld2",
+      "title": "The Algebra of Loans in Rust",
+      "description": "Score: 204 | Comments: 99 | Posted by g0xA52A2A",
+      "url": "https://nadrieril.github.io/blog/2025/12/21/the-algebra-of-loans-in-rust.html",
+      "publishedAt": "2025-12-22T19:25:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "g0xA52A2A",
+      "tags": []
+    },
+    {
       "id": "frcp9l",
       "title": "Archiving Git branches as tags",
       "description": "Score: 100 | Comments: 29 | Posted by octavore",
@@ -36,6 +58,17 @@
       "tags": []
     },
     {
+      "id": "p7kzy2",
+      "title": "One million (small web) screenshots",
+      "description": "Score: 54 | Comments: 3 | Posted by squidhunter",
+      "url": "https://nry.me/posts/2025-10-09/small-web-screenshots/",
+      "publishedAt": "2025-12-22T14:44:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "squidhunter",
+      "tags": []
+    },
+    {
       "id": "8mw5sx",
       "title": "Tachyon: High frequency statistical sampling profiler",
       "description": "Score: 17 | Comments: 1 | Posted by vismit2000",
@@ -44,6 +77,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "vismit2000",
+      "tags": []
+    },
+    {
+      "id": "d8is8j",
+      "title": "What happened to all the gold Spain got from the New World? (1985)",
+      "description": "Score: 93 | Comments: 119 | Posted by titaniumtown",
+      "url": "https://www.straightdope.com/21341789/what-happened-to-all-the-gold-spain-got-from-the-new-world",
+      "publishedAt": "2025-12-22T07:18:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "titaniumtown",
+      "tags": []
+    },
+    {
+      "id": "qekm9f",
+      "title": "Joan Didion and Kurt Vonnegut had something to say. We have it on tape",
+      "description": "Score: 101 | Comments: 21 | Posted by tintinnabula",
+      "url": "https://www.nytimes.com/2025/12/19/books/james-baldwin-joan-didion-92ny-recordings.html",
+      "publishedAt": "2025-12-22T06:17:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tintinnabula",
       "tags": []
     }
   ]

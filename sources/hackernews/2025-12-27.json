@@ -1,0 +1,50 @@
+{
+  "date": "2025-12-27",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "slznfp",
+      "title": "CEO of Health Care Software Company Sentenced for $1B Fraud Conspiracy",
+      "description": "Score: 40 | Comments: 20 | Posted by healsdata",
+      "url": "https://www.justice.gov/opa/pr/ceo-health-care-software-company-sentenced-1b-fraud-conspiracy",
+      "publishedAt": "2025-12-27T03:14:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "healsdata",
+      "tags": []
+    },
+    {
+      "id": "v592ns",
+      "title": "Former ULA President and CEO Tory Bruno Joins Blue Origin",
+      "description": "Score: 26 | Comments: 6 | Posted by geeB",
+      "url": "https://spaceflightnow.com/2025/12/26/former-ula-president-and-ceo-tory-bruno-joins-blue-origin/",
+      "publishedAt": "2025-12-27T02:56:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "geeB",
+      "tags": []
+    },
+    {
+      "id": "v8yhkt",
+      "title": "QNX Self-Hosted Developer Desktop",
+      "description": "Score: 93 | Comments: 37 | Posted by transpute",
+      "url": "https://devblog.qnx.com/qnx-self-hosted-developer-desktop-initial-release/",
+      "publishedAt": "2025-12-27T01:16:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "transpute",
+      "tags": []
+    },
+    {
+      "id": "qbwesu",
+      "title": "Publishing your work increases your luck",
+      "description": "Score: 62 | Comments: 10 | Posted by magoghm",
+      "url": "https://github.com/readme/guides/publishing-your-work",
+      "publishedAt": "2025-12-27T00:43:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "magoghm",
+      "tags": []
+    }
+  ]
+}

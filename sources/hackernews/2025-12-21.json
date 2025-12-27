@@ -34,6 +34,28 @@
       "sourceName": "Hacker News",
       "author": "ChaosOp",
       "tags": []
+    },
+    {
+      "id": "8lav31",
+      "title": "An 11-qubit atom processor in silicon with all fidelities from 99.10% to 99.99%",
+      "description": "Score: 80 | Comments: 48 | Posted by giuliomagnifico",
+      "url": "https://www.nature.com/articles/s41586-025-09827-w",
+      "publishedAt": "2025-12-21T12:07:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "giuliomagnifico",
+      "tags": []
+    },
+    {
+      "id": "rcaji5",
+      "title": "A Knapsack Public Key Cryptosystem Based on Arithmetic in Finite Fields (1988) [pdf]",
+      "description": "Score: 6 | Comments: 0 | Posted by keepamovin",
+      "url": "https://people.csail.mit.edu/rivest/pubs/CR88.pdf",
+      "publishedAt": "2025-12-21T11:17:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "keepamovin",
+      "tags": []
     }
   ]
 }
