@@ -69,6 +69,17 @@
       "tags": []
     },
     {
+      "id": "egxgkc",
+      "title": "Project Vend: Phase Two",
+      "description": "Score: 98 | Comments: 31 | Posted by kubami",
+      "url": "https://www.anthropic.com/research/project-vend-2",
+      "publishedAt": "2025-12-22T13:44:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kubami",
+      "tags": []
+    },
+    {
       "id": "8mw5sx",
       "title": "Tachyon: High frequency statistical sampling profiler",
       "description": "Score: 17 | Comments: 1 | Posted by vismit2000",
@@ -99,6 +110,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "tintinnabula",
+      "tags": []
+    },
+    {
+      "id": "rttpcb",
+      "title": "Mruby: Ruby for Embedded Systems",
+      "description": "Score: 131 | Comments: 33 | Posted by nateb2022",
+      "url": "https://github.com/mruby/mruby",
+      "publishedAt": "2025-12-22T05:00:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nateb2022",
+      "tags": []
+    },
+    {
+      "id": "wuktlj",
+      "title": "Text rendering hates you (2019)",
+      "description": "Score: 118 | Comments: 42 | Posted by andsoitis",
+      "url": "https://faultlore.com/blah/text-hates-you/",
+      "publishedAt": "2025-12-22T00:14:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andsoitis",
       "tags": []
     }
   ]

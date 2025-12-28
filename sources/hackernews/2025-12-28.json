@@ -1,0 +1,105 @@
+{
+  "date": "2025-12-28",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "ck2y7p",
+      "title": "Calendarneatnik.net",
+      "description": "Score: 91 | Comments: 16 | Posted by twapi",
+      "url": "https://neatnik.net/calendar/?year=2026",
+      "publishedAt": "2025-12-28T05:09:53.467Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "twapi",
+      "tags": []
+    },
+    {
+      "id": "ck2y7p",
+      "title": "Calendar",
+      "description": "Score: 91 | Comments: 16 | Posted by twapi",
+      "url": "https://neatnik.net/calendar/?year=2026",
+      "publishedAt": "2025-12-28T05:02:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "twapi",
+      "tags": []
+    },
+    {
+      "id": "rkk11q",
+      "title": "C –> Java != Java –> LLM",
+      "description": "Score: 5 | Comments: 5 | Posted by WoodenChair",
+      "url": "http://www.observationalhazard.com/2025/12/c-java-java-llm.html",
+      "publishedAt": "2025-12-28T04:40:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "WoodenChair",
+      "tags": []
+    },
+    {
+      "id": "6wk6yk",
+      "title": "An AI pioneer says the technology is 'limited' and won't replace humans soon",
+      "description": "Score: 5 | Comments: 3 | Posted by nis0s",
+      "url": "https://www.nbcnews.com/tech/innovation/andrew-ng-says-ai-limited-wont-replace-humans-anytime-soon-rcna246074",
+      "publishedAt": "2025-12-28T03:41:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nis0s",
+      "tags": []
+    },
+    {
+      "id": "rg9ah2",
+      "title": "Dialtone – AOL 3.0 Server",
+      "description": "Score: 14 | Comments: 5 | Posted by rickcarlino",
+      "url": "https://dialtone.live/",
+      "publishedAt": "2025-12-28T03:40:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rickcarlino",
+      "tags": []
+    },
+    {
+      "id": "u8nvwt",
+      "title": "Nvidia deal a big win for Groq employees and investors",
+      "description": "Score: 13 | Comments: 1 | Posted by wmf",
+      "url": "https://www.axios.com/2025/12/28/nvidia-groq-shareholders",
+      "publishedAt": "2025-12-28T03:27:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wmf",
+      "tags": []
+    },
+    {
+      "id": "q6mb9o",
+      "title": "Fathers’ choices may be packaged and passed down in sperm RNA",
+      "description": "Score: 124 | Comments: 50 | Posted by vismit2000",
+      "url": "https://www.quantamagazine.org/how-dads-fitness-may-be-packaged-and-passed-down-in-sperm-rna-20251222/",
+      "publishedAt": "2025-12-28T01:33:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vismit2000",
+      "tags": []
+    },
+    {
+      "id": "ntizgb",
+      "title": "Replacing JavaScript with Just HTML",
+      "description": "Score: 236 | Comments: 65 | Posted by soheilpro",
+      "url": "https://www.htmhell.dev/adventcalendar/2025/27/",
+      "publishedAt": "2025-12-28T01:07:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "soheilpro",
+      "tags": []
+    },
+    {
+      "id": "k2mmji",
+      "title": "Functional programming and reliability: ADTs, safety, critical infrastructure",
+      "description": "Score: 78 | Comments: 65 | Posted by rastrian",
+      "url": "https://blog.rastrian.dev/post/why-reliability-demands-functional-programming-adts-safety-and-critical-infrastructure",
+      "publishedAt": "2025-12-28T00:05:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rastrian",
+      "tags": []
+    }
+  ]
+}

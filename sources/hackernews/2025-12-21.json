@@ -14,6 +14,39 @@
       "tags": []
     },
     {
+      "id": "o4uly",
+      "title": "Immer – A library of persistent and immutable data structures written in C++",
+      "description": "Score: 50 | Comments: 7 | Posted by smartmic",
+      "url": "https://github.com/arximboldi/immer",
+      "publishedAt": "2025-12-21T20:59:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "smartmic",
+      "tags": []
+    },
+    {
+      "id": "uv5bzg",
+      "title": "Langjam-Gamejam Devlog: Making a language, compiler, VM and 5 games in 52 hours",
+      "description": "Score: 110 | Comments: 10 | Posted by suioir",
+      "url": "https://github.com/Syn-Nine/gar-lang/blob/main/DEVLOG.md",
+      "publishedAt": "2025-12-21T20:44:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "suioir",
+      "tags": []
+    },
+    {
+      "id": "to6nbp",
+      "title": "Go Gray, Not Cray: Why You Should Grayscale Your Phone",
+      "description": "Score: 51 | Comments: 41 | Posted by samieljabali",
+      "url": "https://sami.eljabali.org/go-gray-not-cray-why-you-should-grayscale-your-phone/",
+      "publishedAt": "2025-12-21T20:03:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "samieljabali",
+      "tags": []
+    },
+    {
       "id": "8jelfj",
       "title": "Using Vectorize to build an unreasonably good search engine in 160 lines of code",
       "description": "Score: 131 | Comments: 38 | Posted by ColinWright",
@@ -22,6 +55,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ColinWright",
+      "tags": []
+    },
+    {
+      "id": "tteg6c",
+      "title": "Intertapes – collection of found cassette tapes from different locations",
+      "description": "Score: 96 | Comments: 9 | Posted by wallflower",
+      "url": "https://intertapes.net/",
+      "publishedAt": "2025-12-21T15:29:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wallflower",
+      "tags": []
+    },
+    {
+      "id": "331r51",
+      "title": "Interton Video Computer 4000",
+      "description": "Score: 5 | Comments: 1 | Posted by doener",
+      "url": "https://en.wikipedia.org/wiki/Interton_Video_Computer_4000",
+      "publishedAt": "2025-12-21T14:40:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "doener",
       "tags": []
     },
     {

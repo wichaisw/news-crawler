@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "wcb0zd",
+      "title": "They made me an offer I couldn't refuse (1997)",
+      "description": "Score: 49 | Comments: 28 | Posted by classichasclass",
+      "url": "https://jens.mooseyard.com/1997/04/13/they-made-me-an-offer-i-couldnt-refuse/",
+      "publishedAt": "2025-12-23T22:38:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "classichasclass",
+      "tags": []
+    },
+    {
       "id": "k4blkc",
       "title": "Researchers develop a camera that can focus on different distances at once",
       "description": "Score: 28 | Comments: 8 | Posted by gnabgib",
@@ -11,6 +22,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "gnabgib",
+      "tags": []
+    },
+    {
+      "id": "hzr2op",
+      "title": "Clock synchronization is a nightmare",
+      "description": "Score: 165 | Comments: 107 | Posted by grep_it",
+      "url": "https://arpitbhayani.me/blogs/clock-sync-nightmare/",
+      "publishedAt": "2025-12-23T18:59:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "grep_it",
       "tags": []
     },
     {
@@ -55,6 +77,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "beklein",
+      "tags": []
+    },
+    {
+      "id": "7ykzbk",
+      "title": "Show HN: Mysti – Claude, Codex, and Gemini debate your code, then synthesize",
+      "description": "Score: 183 | Comments: 146 | Posted by bahaAbunojaim",
+      "url": "https://github.com/DeepMyst/Mysti",
+      "publishedAt": "2025-12-23T13:18:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bahaAbunojaim",
+      "tags": []
+    },
+    {
+      "id": "s9jn7t",
+      "title": "Rex is a safe kernel extension framework that allows Rust in the place of eBPF",
+      "description": "Score: 4 | Comments: 0 | Posted by zdw",
+      "url": "https://github.com/rex-rs/rex",
+      "publishedAt": "2025-12-23T02:58:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
       "tags": []
     }
   ]
