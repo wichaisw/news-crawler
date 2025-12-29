@@ -1,0 +1,116 @@
+{
+  "date": "2025-12-29",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "mvu50w",
+      "title": "Staying ahead of censors in 2025",
+      "description": "Score: 13 | Comments: 0 | Posted by ggeorgovassilis",
+      "url": "https://forum.torproject.org/t/staying-ahead-of-censors-in-2025-what-weve-learned-from-fighting-censorship-in-iran-and-russia/20898",
+      "publishedAt": "2025-12-29T05:47:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ggeorgovassilis",
+      "tags": []
+    },
+    {
+      "id": "ah9ji5",
+      "title": "World's Smallest Programmable, Autonomous Robots",
+      "description": "Score: 3 | Comments: 0 | Posted by the-mitr",
+      "url": "https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html",
+      "publishedAt": "2025-12-29T05:26:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "the-mitr",
+      "tags": []
+    },
+    {
+      "id": "dl8tdr",
+      "title": "John Simpson: 'I've reported on 40 wars but I've never seen a year like 2025'",
+      "description": "Score: 25 | Comments: 3 | Posted by febed",
+      "url": "https://www.bbc.com/news/articles/cj4qp17e1lqo",
+      "publishedAt": "2025-12-29T05:21:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "febed",
+      "tags": []
+    },
+    {
+      "id": "cb6d1z",
+      "title": "Customs: Council agrees to levy customs duty on small parcels as of 1 July 2026",
+      "description": "Score: 7 | Comments: 0 | Posted by sva_",
+      "url": "https://www.consilium.europa.eu/en/press/press-releases/2025/12/12/customs-council-agrees-to-levy-customs-duty-on-small-parcels-as-of-1-july-2026/",
+      "publishedAt": "2025-12-29T04:35:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sva_",
+      "tags": []
+    },
+    {
+      "id": "emxnsk",
+      "title": "Why I think Valve’s retiring the Steam Deck LCD",
+      "description": "Score: 27 | Comments: 28 | Posted by Ariarule",
+      "url": "https://gardinerbryant.com/why-valves-retiring-the-steam-deck-lcd/",
+      "publishedAt": "2025-12-29T03:44:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Ariarule",
+      "tags": []
+    },
+    {
+      "id": "hquqfx",
+      "title": "Fast GPU Interconnect over Radio",
+      "description": "Score: 9 | Comments: 0 | Posted by montroser",
+      "url": "https://spectrum.ieee.org/rf-over-fiber",
+      "publishedAt": "2025-12-29T03:39:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "montroser",
+      "tags": []
+    },
+    {
+      "id": "38ihv3",
+      "title": "You can make up HTML tags",
+      "description": "Score: 133 | Comments: 57 | Posted by todsacerdoti",
+      "url": "https://maurycyz.com/misc/make-up-tags/",
+      "publishedAt": "2025-12-29T02:47:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "tnttwv",
+      "title": "Self-hosting is being enshittified",
+      "description": "Score: 67 | Comments: 49 | Posted by StrLght",
+      "url": "https://troubled.engineer/posts/selfhosting-in-2025/",
+      "publishedAt": "2025-12-29T02:00:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "StrLght",
+      "tags": []
+    },
+    {
+      "id": "wmx9qf",
+      "title": "NextDNS is my new favourite DNS service (2020)",
+      "description": "Score: 12 | Comments: 2 | Posted by mefengl",
+      "url": "https://stanislas.blog/2020/04/nextdns/",
+      "publishedAt": "2025-12-29T01:42:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mefengl",
+      "tags": []
+    },
+    {
+      "id": "us75ba",
+      "title": "Show HN: My app just won best iOS Japanese learning tool of 2025 award (blog)",
+      "description": "Score: 81 | Comments: 14 | Posted by wahnfrieden",
+      "url": "https://skerritt.blog/best-japanese-learning-tools-2025-award-show/",
+      "publishedAt": "2025-12-29T00:01:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wahnfrieden",
+      "tags": []
+    }
+  ]
+}

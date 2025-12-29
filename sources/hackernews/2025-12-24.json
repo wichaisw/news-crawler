@@ -47,6 +47,17 @@
       "tags": []
     },
     {
+      "id": "py71tt",
+      "title": "Writing non-English languages with a QWERTY keyboard",
+      "description": "Score: 26 | Comments: 12 | Posted by tokai",
+      "url": "https://altgr-weur.eu/altgr-intl.html",
+      "publishedAt": "2025-12-24T23:21:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tokai",
+      "tags": []
+    },
+    {
       "id": "277t46",
       "title": "Rust the Process",
       "description": "Score: 41 | Comments: 5 | Posted by quadrophenia",
@@ -88,6 +99,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "snvzz",
+      "tags": []
+    },
+    {
+      "id": "89v4lh",
+      "title": "2D Signed Distance Functions",
+      "description": "Score: 103 | Comments: 14 | Posted by nickswalker",
+      "url": "https://iquilezles.org/articles/distfunctions2d/",
+      "publishedAt": "2025-12-24T22:41:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nickswalker",
       "tags": []
     },
     {
@@ -176,6 +198,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "hugs",
+      "tags": []
+    },
+    {
+      "id": "nizf8t",
+      "title": "John Malone and the Invention of Liquid-Based Engines",
+      "description": "Score: 19 | Comments: 2 | Posted by akshatjiwan",
+      "url": "https://permalink.lanl.gov/object/tr?what=info:lanl-repo/lareport/LA-UR-93-1350-25",
+      "publishedAt": "2025-12-24T16:45:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "akshatjiwan",
       "tags": []
     },
     {

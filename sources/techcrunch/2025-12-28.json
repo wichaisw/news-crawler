@@ -3,6 +3,105 @@
   "source": "techcrunch",
   "articles": [
     {
+      "id": "https://techcrunch.com/?p=3079136",
+      "title": "Police charge driver who allegedly killed a pedestrian while livestreaming on TikTok",
+      "description": "Local police said they have charged an Illinois driver who struck and killed a pedestrian while she was livestreaming on TikTok.",
+      "url": "https://techcrunch.com/2025/12/28/police-charge-driver-who-allegedly-killed-a-pedestrian-while-livestreaming-on-tiktok/",
+      "publishedAt": "2025-12-28T21:52:52.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3079133",
+      "title": "You may soon be able to change your Gmail address",
+      "description": "Good news for anyone tired of or embarrassed by their current Gmail address.",
+      "url": "https://techcrunch.com/2025/12/28/you-may-soon-be-able-to-change-your-gmail-address/",
+      "publishedAt": "2025-12-28T21:29:59.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3047850",
+      "title": "A guide to choosing the right Apple Watch",
+      "description": "The gap between Apple's standard and budget smart watches has never felt smaller.",
+      "url": "https://techcrunch.com/2025/12/28/is-the-apple-watch-se-3-a-good-deal/",
+      "publishedAt": "2025-12-28T20:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Aisha Malik",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3078471",
+      "title": "Why WeTransfer’s co-founder is building another file transfer service",
+      "description": "WeTransfer co-founder Nalden has a new file transfer service that users can use without logging in.",
+      "url": "https://techcrunch.com/2025/12/28/why-wetransfer-co-founder-is-building-another-file-transfer-service/",
+      "publishedAt": "2025-12-28T18:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Ivan Mehta",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3078627",
+      "title": "MayimFlow wants to stop data center leaks before they happen",
+      "description": "Leaks cause damage, down time, and cost money. MayimFlow's founder John Khazraee wants to change that.",
+      "url": "https://techcrunch.com/2025/12/28/mayimflow-wants-to-stop-data-center-leaks-before-they-happen/",
+      "publishedAt": "2025-12-28T16:30:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sean O'Kane",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3076759",
+      "title": "The 33 top health and wellness startups from Disrupt Startup Battlefield",
+      "description": "Here is the full list of the health and wellness Startup Battlefield 200 selectees, along with a note on what made us select them for the competition.",
+      "url": "https://techcrunch.com/2025/12/28/the-33-top-health-and-wellness-startups-from-disrupt-startup-battlefield/",
+      "publishedAt": "2025-12-28T16:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Marina Temkin",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3078477",
+      "title": "The Google Pixel Watch 4 made me like smartwatches again",
+      "description": "Google's Pixel Watch 4 is an excellent smartwatch with fast charging and great design.",
+      "url": "https://techcrunch.com/2025/12/28/the-google-pixel-watch-4-made-me-like-smartwatches-again/",
+      "publishedAt": "2025-12-28T16:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Ivan Mehta",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3079125",
+      "title": "OpenAI is looking for a new Head of Preparedness",
+      "description": "OpenAI is looking to hire a new executive responsible for studying emerging AI-related risks in areas ranging from computer security to mental health.",
+      "url": "https://techcrunch.com/2025/12/28/openai-is-looking-for-a-new-head-of-preparedness/",
+      "publishedAt": "2025-12-28T15:08:19.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3077494",
+      "title": "The 14 fintech, real estate, proptech startups from Disrupt Startup Battlefield",
+      "description": "Here is the full list of the fintech, real estate, and proptech Startup Battlefield 200 selectees, along with a note on what made us select them for",
+      "url": "https://techcrunch.com/2025/12/28/the-14-fintech-real-estate-proptech-startups-from-disrupt-startup-battlefield/",
+      "publishedAt": "2025-12-28T15:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Marina Temkin",
+      "tags": []
+    },
+    {
       "id": "https://techcrunch.com/?p=2921769",
       "title": "Best Apple Watch apps for boosting your productivity",
       "description": "Although the Apple Watch comes with simple built-in productivity apps like Reminders and Calendar, it’s worth exploring some third-party apps that",

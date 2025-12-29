@@ -289,6 +289,17 @@
       "tags": []
     },
     {
+      "id": "bomx2l",
+      "title": "Intermission: Battle Pulses",
+      "description": "Score: 14 | Comments: 1 | Posted by Khaine",
+      "url": "https://acoup.blog/2025/12/18/intermission-battle-pulses/",
+      "publishedAt": "2025-12-26T07:18:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Khaine",
+      "tags": []
+    },
+    {
       "id": "xefcfu",
       "title": "Rob Pike Goes Nuclear over GenAI",
       "description": "Score: 79 | Comments: 26 | Posted by signa11",
@@ -297,6 +308,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "signa11",
+      "tags": []
+    },
+    {
+      "id": "j0v66x",
+      "title": "Time in C++: Inter-Clock Conversions, Epochs, and Durations",
+      "description": "Score: 33 | Comments: 7 | Posted by ibobev",
+      "url": "https://www.sandordargo.com/blog/2025/12/24/clocks-part-5-conversions",
+      "publishedAt": "2025-12-26T04:57:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
       "tags": []
     },
     {

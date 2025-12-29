@@ -47,6 +47,17 @@
       "tags": []
     },
     {
+      "id": "1zx19",
+      "title": "Doublespeak: In-Context Representation Hijacking",
+      "description": "Score: 65 | Comments: 7 | Posted by surprisetalk",
+      "url": "https://mentaleap.ai/doublespeak/",
+      "publishedAt": "2025-12-22T19:16:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
       "id": "frcp9l",
       "title": "Archiving Git branches as tags",
       "description": "Score: 100 | Comments: 29 | Posted by octavore",
@@ -88,6 +99,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "vismit2000",
+      "tags": []
+    },
+    {
+      "id": "ltq012",
+      "title": "A bitwise reproducible deep learning framework",
+      "description": "Score: 14 | Comments: 0 | Posted by noosphr",
+      "url": "https://github.com/microsoft/RepDL",
+      "publishedAt": "2025-12-22T09:38:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "noosphr",
       "tags": []
     },
     {
