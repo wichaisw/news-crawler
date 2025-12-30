@@ -47,6 +47,28 @@
       "tags": []
     },
     {
+      "id": "rq2l0r",
+      "title": "Intelligence – A Mystery Investigation Game",
+      "description": "Score: 29 | Comments: 3 | Posted by throw_a_grenade",
+      "url": "https://intelligencegame.tech/",
+      "publishedAt": "2025-12-25T21:03:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "throw_a_grenade",
+      "tags": []
+    },
+    {
+      "id": "z1i36s",
+      "title": "Show HN: Aroma: Every TCP Proxy Is Detectable with RTT Fingerprinting",
+      "description": "Score: 74 | Comments: 47 | Posted by Sakura-sx",
+      "url": "https://github.com/Sakura-sx/Aroma",
+      "publishedAt": "2025-12-25T20:34:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Sakura-sx",
+      "tags": []
+    },
+    {
       "id": "5whvts",
       "title": "URL Pattern API",
       "description": "Score: 68 | Comments: 14 | Posted by thunderbong",
@@ -132,6 +154,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "lumpa",
+      "tags": []
+    },
+    {
+      "id": "2w7eb2",
+      "title": "Incremental Backups of Gmail Takeouts",
+      "description": "Score: 62 | Comments: 25 | Posted by pbhn",
+      "url": "https://baecher.dev/stdout/incremental-backups-of-gmail-takeouts/",
+      "publishedAt": "2025-12-25T12:59:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pbhn",
       "tags": []
     },
     {
@@ -275,6 +308,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "notgloating",
+      "tags": []
+    },
+    {
+      "id": "wsmq7s",
+      "title": "Vitest Browser Mode Guide",
+      "description": "Score: 40 | Comments: 5 | Posted by howToTestFE",
+      "url": "https://howtotestfrontend.com/resources/vitest-browser-mode-guide-and-setup-info",
+      "publishedAt": "2025-12-25T00:02:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "howToTestFE",
       "tags": []
     }
   ]

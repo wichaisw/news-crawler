@@ -3,6 +3,292 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "d7n6u4",
+      "title": "Stranger Things creator says turn off \"garbage\" settings",
+      "description": "Score: 97 | Comments: 126 | Posted by 1970-01-01",
+      "url": "https://screenrant.com/stranger-things-creator-turn-off-settings-premiere/",
+      "publishedAt": "2025-12-29T23:50:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "1970-01-01",
+      "tags": []
+    },
+    {
+      "id": "g0v3zb",
+      "title": "I migrated to an almost all-EU stack and saved 500€ per year",
+      "description": "Score: 101 | Comments: 57 | Posted by alexcos",
+      "url": "https://www.zeitgeistofbytes.com/p/bye-bye-big-tech-how-i-migrated-to",
+      "publishedAt": "2025-12-29T23:50:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "alexcos",
+      "tags": []
+    },
+    {
+      "id": "s7elzt",
+      "title": "Parsing Advances",
+      "description": "Score: 66 | Comments: 5 | Posted by birdculture",
+      "url": "https://matklad.github.io/2025/12/28/parsing-advances.html",
+      "publishedAt": "2025-12-29T23:29:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "birdculture",
+      "tags": []
+    },
+    {
+      "id": "2iplf2",
+      "title": "Geology of the Gulf of the Farallones National Marine Sanctuary",
+      "description": "Score: 43 | Comments: 11 | Posted by greesil",
+      "url": "https://pubs.usgs.gov/fs/farallones/",
+      "publishedAt": "2025-12-29T23:12:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "greesil",
+      "tags": []
+    },
+    {
+      "id": "mxf600",
+      "title": "Show HN: Stop Claude Code from forgetting everything",
+      "description": "Score: 118 | Comments: 152 | Posted by austinbaggio",
+      "url": "https://github.com/mutable-state-inc/ensue-skill",
+      "publishedAt": "2025-12-29T22:30:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "austinbaggio",
+      "tags": []
+    },
+    {
+      "id": "m9gzf0",
+      "title": "ManusAI Joins Meta",
+      "description": "Score: 171 | Comments: 99 | Posted by gniting",
+      "url": "https://manus.im/blog/manus-joins-meta-for-next-era-of-innovation",
+      "publishedAt": "2025-12-29T22:24:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gniting",
+      "tags": []
+    },
+    {
+      "id": "mg52qe",
+      "title": "Google is dead. Where do we go now?circusscientist.com",
+      "description": "Score: 642 | Comments: 582 | Posted by tomjuggler",
+      "url": "https://www.circusscientist.com/2025/12/29/google-is-dead-where-do-we-go-now/",
+      "publishedAt": "2025-12-29T21:10:22.005Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tomjuggler",
+      "tags": []
+    },
+    {
+      "id": "mg52qe",
+      "title": "Google is dead. Where do we go now?",
+      "description": "Score: 645 | Comments: 583 | Posted by tomjuggler",
+      "url": "https://www.circusscientist.com/2025/12/29/google-is-dead-where-do-we-go-now/",
+      "publishedAt": "2025-12-29T20:29:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tomjuggler",
+      "tags": []
+    },
+    {
+      "id": "71jr2u",
+      "title": "Obelisk 0.32: Cancellation, WebAPI, Postgres",
+      "description": "Score: 26 | Comments: 6 | Posted by tomasol",
+      "url": "https://obeli.sk/blog/announcing-obelisk-0-32/",
+      "publishedAt": "2025-12-29T19:58:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tomasol",
+      "tags": []
+    },
+    {
+      "id": "avtgr0",
+      "title": "Which Humans? (2023)",
+      "description": "Score: 39 | Comments: 19 | Posted by surprisetalk",
+      "url": "https://osf.io/preprints/psyarxiv/5b26t_v1",
+      "publishedAt": "2025-12-29T19:57:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
+      "id": "ekwzpf",
+      "title": "When someone says they hate your product",
+      "description": "Score: 126 | Comments: 92 | Posted by jger15",
+      "url": "https://www.getflack.com/p/responding-to-negative-feedback",
+      "publishedAt": "2025-12-29T19:30:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jger15",
+      "tags": []
+    },
+    {
+      "id": "ruprwm",
+      "title": "All Delisted Steam Games",
+      "description": "Score: 230 | Comments: 102 | Posted by Bondi_Blue",
+      "url": "https://delistedgames.com/all-delisted-steam-games/",
+      "publishedAt": "2025-12-29T19:16:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Bondi_Blue",
+      "tags": []
+    },
+    {
+      "id": "kfganb",
+      "title": "The future of software development is software developers",
+      "description": "Score: 112 | Comments: 99 | Posted by cdrnsf",
+      "url": "https://codemanship.wordpress.com/2025/11/25/the-future-of-software-development-is-software-developers/",
+      "publishedAt": "2025-12-29T19:14:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cdrnsf",
+      "tags": []
+    },
+    {
+      "id": "qy0s4w",
+      "title": "AI is forcing us to write good code",
+      "description": "Score: 132 | Comments: 101 | Posted by sgk284",
+      "url": "https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code",
+      "publishedAt": "2025-12-29T19:11:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sgk284",
+      "tags": []
+    },
+    {
+      "id": "w62z3r",
+      "title": "List of domains censored by German ISPs",
+      "description": "Score: 338 | Comments: 138 | Posted by elcapitan",
+      "url": "https://cuiiliste.de/domains",
+      "publishedAt": "2025-12-29T18:21:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "elcapitan",
+      "tags": []
+    },
+    {
+      "id": "or3s8d",
+      "title": "A production bug that made me care about undefined behavior",
+      "description": "Score: 127 | Comments: 74 | Posted by birdculture",
+      "url": "https://gaultier.github.io/blog/the_production_bug_that_made_me_care_about_undefined_behavior.html",
+      "publishedAt": "2025-12-29T18:17:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "birdculture",
+      "tags": []
+    },
+    {
+      "id": "m0df3f",
+      "title": "Tesla's 4680 battery supply chain collapses as partner writes down deal by 99%",
+      "description": "Score: 337 | Comments: 362 | Posted by coloneltcb",
+      "url": "https://electrek.co/2025/12/29/tesla-4680-battery-supply-chain-collapses-partner-writes-down-dea/",
+      "publishedAt": "2025-12-29T17:57:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "coloneltcb",
+      "tags": []
+    },
+    {
+      "id": "b8ei03",
+      "title": "Nvidia takes $5B stake in Intel under September agreement",
+      "description": "Score: 207 | Comments: 96 | Posted by taubek",
+      "url": "https://www.reuters.com/legal/transactional/nvidia-takes-5-billion-stake-intel-under-september-agreement-2025-12-29/",
+      "publishedAt": "2025-12-29T17:32:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "taubek",
+      "tags": []
+    },
+    {
+      "id": "cb2yjj",
+      "title": "GOG is getting acquired by its original co-founder",
+      "description": "Score: 575 | Comments: 333 | Posted by haunter",
+      "url": "https://www.gog.com/blog/gog-is-getting-acquired-by-its-original-co-founder-what-it-means-for-you/",
+      "publishedAt": "2025-12-29T16:43:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "haunter",
+      "tags": []
+    },
+    {
+      "id": "5cn2d4",
+      "title": "Static Allocation with Zig",
+      "description": "Score: 180 | Comments: 89 | Posted by todsacerdoti",
+      "url": "https://nickmonad.blog/2025/static-allocation-with-zig-kv/",
+      "publishedAt": "2025-12-29T16:07:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "6f9u4v",
+      "title": "Libgodc: Write Go Programs for Sega Dreamcast",
+      "description": "Score: 208 | Comments: 48 | Posted by drpaneas",
+      "url": "https://github.com/drpaneas/libgodc",
+      "publishedAt": "2025-12-29T13:43:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "drpaneas",
+      "tags": []
+    },
+    {
+      "id": "jnb7ya",
+      "title": "Kidnapped by Deutsche Bahn",
+      "description": "Score: 983 | Comments: 868 | Posted by JeremyTheo",
+      "url": "https://www.theocharis.dev/blog/kidnapped-by-deutsche-bahn/",
+      "publishedAt": "2025-12-29T12:24:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "JeremyTheo",
+      "tags": []
+    },
+    {
+      "id": "6ynu1o",
+      "title": "Linux DAW: Help Linux musicians to quickly and easily find the tools they need",
+      "description": "Score: 216 | Comments: 102 | Posted by prmoustache",
+      "url": "https://linuxdaw.org/",
+      "publishedAt": "2025-12-29T12:23:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "prmoustache",
+      "tags": []
+    },
+    {
+      "id": "miqny0",
+      "title": "Show HN: See what readers who loved your favorite book/author also loved to read",
+      "description": "Score: 117 | Comments: 29 | Posted by bwb",
+      "url": "https://shepherd.com/bboy/2025",
+      "publishedAt": "2025-12-29T11:58:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bwb",
+      "tags": []
+    },
+    {
+      "id": "xp4brs",
+      "title": "Feynman's Hughes Lectures: 950 pages of notes",
+      "description": "Score: 178 | Comments: 41 | Posted by gnubison",
+      "url": "https://thehugheslectures.info/the-lectures/",
+      "publishedAt": "2025-12-29T10:43:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gnubison",
+      "tags": []
+    },
+    {
+      "id": "ecl2be",
+      "title": "Asking Gemini 3 to generate Brainfuck code results in an infinite loop",
+      "description": "Score: 109 | Comments: 87 | Posted by TeodorDyakov",
+      "url": "https://teodordyakov.github.io/brainfuck-agi/",
+      "publishedAt": "2025-12-29T09:40:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "TeodorDyakov",
+      "tags": []
+    },
+    {
       "id": "mvu50w",
       "title": "Staying ahead of censors in 2025",
       "description": "Score: 13 | Comments: 0 | Posted by ggeorgovassilis",
@@ -11,6 +297,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ggeorgovassilis",
+      "tags": []
+    },
+    {
+      "id": "uce3eq",
+      "title": "Huge Binaries",
+      "description": "Score: 196 | Comments: 106 | Posted by todsacerdoti",
+      "url": "https://fzakaria.com/2025/12/28/huge-binaries",
+      "publishedAt": "2025-12-29T05:35:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
       "tags": []
     },
     {
@@ -66,6 +363,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "montroser",
+      "tags": []
+    },
+    {
+      "id": "ogtk9z",
+      "title": "CIA Star Gate Project: An Overview (1993) [pdf]",
+      "description": "Score: 102 | Comments: 109 | Posted by dvrp",
+      "url": "https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R002800180001-2.pdf",
+      "publishedAt": "2025-12-29T03:16:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dvrp",
       "tags": []
     },
     {

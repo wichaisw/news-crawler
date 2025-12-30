@@ -1,0 +1,72 @@
+{
+  "date": "2025-12-30",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "mayb5w",
+      "title": "Return of wired headphones is restoring friction to our convenience-addled lives",
+      "description": "Score: 3 | Comments: 0 | Posted by walterbell",
+      "url": "https://www.theguardian.com/music/2025/dec/23/striking-a-cord-the-return-of-wired-headphones-is-restoring-friction-to-our-convenience-addled-lives",
+      "publishedAt": "2025-12-30T05:59:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "walterbell",
+      "tags": []
+    },
+    {
+      "id": "e0gmtk",
+      "title": "Reflections on a Year of Prolog and LLMs",
+      "description": "Score: 4 | Comments: 0 | Posted by schmuhblaster",
+      "url": "https://deepclause.substack.com/p/coming-soon",
+      "publishedAt": "2025-12-30T05:33:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "schmuhblaster",
+      "tags": []
+    },
+    {
+      "id": "ruwyie",
+      "title": "Hacking Washing Machines [video]",
+      "description": "Score: 64 | Comments: 16 | Posted by clausecker",
+      "url": "https://media.ccc.de/v/39c3-hacking-washing-machines",
+      "publishedAt": "2025-12-30T01:40:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "clausecker",
+      "tags": []
+    },
+    {
+      "id": "ezu7nt",
+      "title": "Benchmarking Self-Hosted S3-Compatible Storage",
+      "description": "Score: 7 | Comments: 1 | Posted by wener",
+      "url": "https://www.repoflow.io/blog/benchmarking-self-hosted-s3-compatible-storage-a-practical-performance-comparison",
+      "publishedAt": "2025-12-30T01:25:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wener",
+      "tags": []
+    },
+    {
+      "id": "d3v01p",
+      "title": "Outside, Dungeon, Town: Integrating the Three Places in Videogames (2024)",
+      "description": "Score: 49 | Comments: 22 | Posted by vector_spaces",
+      "url": "https://keithburgun.net/outside-dungeon-town-integrating-the-three-places-in-videogames/",
+      "publishedAt": "2025-12-30T00:54:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vector_spaces",
+      "tags": []
+    },
+    {
+      "id": "whv1x0",
+      "title": "MongoDB Server Security Update, December 2025",
+      "description": "Score: 61 | Comments: 18 | Posted by plorkyeran",
+      "url": "https://www.mongodb.com/company/blog/news/mongodb-server-security-update-december-2025",
+      "publishedAt": "2025-12-30T00:23:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "plorkyeran",
+      "tags": []
+    }
+  ]
+}

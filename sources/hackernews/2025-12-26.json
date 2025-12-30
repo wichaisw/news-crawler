@@ -47,6 +47,17 @@
       "tags": []
     },
     {
+      "id": "psbbqd",
+      "title": "Karpathy on Programming: “I've never felt this much behind”",
+      "description": "Score: 387 | Comments: 427 | Posted by rishabhaiover",
+      "url": "https://twitter.com/karpathy/status/2004607146781278521",
+      "publishedAt": "2025-12-26T20:12:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rishabhaiover",
+      "tags": []
+    },
+    {
       "id": "xbvqtc",
       "title": "How uv got so fastnesbitt.io",
       "description": "Score: 728 | Comments: 237 | Posted by zdw",
@@ -223,6 +234,17 @@
       "tags": []
     },
     {
+      "id": "5zdh3z",
+      "title": "Streaming compression beats framed compression",
+      "description": "Score: 11 | Comments: 7 | Posted by bouk",
+      "url": "https://bou.ke/blog/compressed/",
+      "publishedAt": "2025-12-26T14:39:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bouk",
+      "tags": []
+    },
+    {
       "id": "jpzsl9",
       "title": "Rob Pike goes nuclear over GenAI",
       "description": "Score: 1346 | Comments: 1604 | Posted by christoph-heiss",
@@ -278,6 +300,17 @@
       "tags": []
     },
     {
+      "id": "fn8dhc",
+      "title": "Show HN: Euclidle – Guess the Coordinates in N‑Dimensional Space",
+      "description": "Score: 4 | Comments: 1 | Posted by bills-appworks",
+      "url": "https://euclidle.com/",
+      "publishedAt": "2025-12-26T08:09:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bills-appworks",
+      "tags": []
+    },
+    {
       "id": "unvnck",
       "title": "Building an AI agent inside a 7-year-old Rails monolith",
       "description": "Score: 101 | Comments: 46 | Posted by cionescu1",
@@ -330,6 +363,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "meander_water",
+      "tags": []
+    },
+    {
+      "id": "nqh20w",
+      "title": "Show HN: A Claude Code plugin that catch destructive Git and filesystem commands",
+      "description": "Score: 27 | Comments: 30 | Posted by kenryu",
+      "url": "https://github.com/kenryu42/claude-code-safety-net",
+      "publishedAt": "2025-12-26T03:14:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kenryu",
       "tags": []
     },
     {

@@ -300,6 +300,17 @@
       "tags": []
     },
     {
+      "id": "3m5f1h",
+      "title": "Stanford Lecture: Dr. Don Knuth – Adventures with Knight's Tours [video]",
+      "description": "Score: 53 | Comments: 4 | Posted by vismit2000",
+      "url": "https://www.youtube.com/watch?v=MKiRte-tnMY",
+      "publishedAt": "2025-12-24T06:59:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vismit2000",
+      "tags": []
+    },
+    {
       "id": "vzbwjw",
       "title": "-tucky (2023)",
       "description": "Score: 39 | Comments: 33 | Posted by benatkin",
@@ -388,6 +399,17 @@
       "tags": []
     },
     {
+      "id": "ewa5d1",
+      "title": "Show HN: A 45x45 Connections Puzzle To Commemorate 2025=45*45",
+      "description": "Score: 48 | Comments: 7 | Posted by thomaswc",
+      "url": "https://thomaswc.com/2025.html",
+      "publishedAt": "2025-12-24T01:30:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thomaswc",
+      "tags": []
+    },
+    {
       "id": "jndph3",
       "title": "Open source USB to GPIB converter (for Test and Measurement instruments)",
       "description": "Score: 25 | Comments: 3 | Posted by v15w",
@@ -418,6 +440,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "flurdy",
+      "tags": []
+    },
+    {
+      "id": "f9hosz",
+      "title": "High-performance C++ hash table using grouped SIMD metadata scanning",
+      "description": "Score: 50 | Comments: 15 | Posted by rurban",
+      "url": "https://github.com/Cranot/grouped-simd-hashtable",
+      "publishedAt": "2025-12-24T00:27:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rurban",
       "tags": []
     }
   ]
