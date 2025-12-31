@@ -190,6 +190,17 @@
       "tags": []
     },
     {
+      "id": "at17b0",
+      "title": "Concurrent Hash Table Designs",
+      "description": "Score: 69 | Comments: 10 | Posted by signa11",
+      "url": "https://bluuewhale.github.io/posts/concurrent-hashmap-designs/",
+      "publishedAt": "2025-12-27T14:36:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "signa11",
+      "tags": []
+    },
+    {
       "id": "gdcalo",
       "title": "Why is calling my asm function from Rust slower than calling it from C?",
       "description": "Score: 40 | Comments: 0 | Posted by gavide",

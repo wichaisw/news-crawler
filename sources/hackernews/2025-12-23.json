@@ -91,6 +91,17 @@
       "tags": []
     },
     {
+      "id": "739nnl",
+      "title": "Reverse Engineering a Mysterious UDP Stream in My Hotel (2016)",
+      "description": "Score: 201 | Comments: 26 | Posted by bayesnet",
+      "url": "https://www.gkbrk.com/hotel-music",
+      "publishedAt": "2025-12-23T15:21:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bayesnet",
+      "tags": []
+    },
+    {
       "id": "dt40fi",
       "title": "The Best Things and Stuff of 2025",
       "description": "Score: 189 | Comments: 24 | Posted by adityaathalye",
@@ -124,6 +135,17 @@
       "tags": []
     },
     {
+      "id": "t0wj37",
+      "title": "UNIX Fourth Edition",
+      "description": "Score: 114 | Comments: 10 | Posted by dcminter",
+      "url": "http://squoze.net/UNIX/v4/README",
+      "publishedAt": "2025-12-23T10:28:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dcminter",
+      "tags": []
+    },
+    {
       "id": "s9jn7t",
       "title": "Rex is a safe kernel extension framework that allows Rust in the place of eBPF",
       "description": "Score: 4 | Comments: 0 | Posted by zdw",
@@ -132,6 +154,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "jse073",
+      "title": "Braid Math Article",
+      "description": "Score: 12 | Comments: 0 | Posted by marysminefnuf",
+      "url": "https://mathvoices.ams.org/mathmedia/tonys-take-april-2022/",
+      "publishedAt": "2025-12-23T02:33:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "marysminefnuf",
       "tags": []
     }
   ]

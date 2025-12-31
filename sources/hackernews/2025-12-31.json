@@ -1,0 +1,105 @@
+{
+  "date": "2025-12-31",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "su05ol",
+      "title": "Google Opal",
+      "description": "Score: 51 | Comments: 28 | Posted by gmays",
+      "url": "https://opal.google/landing/",
+      "publishedAt": "2025-12-31T03:49:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gmays",
+      "tags": []
+    },
+    {
+      "id": "1m0bcd",
+      "title": "New York's incoming mayor bans Raspberry Pi at his inauguration party",
+      "description": "Score: 13 | Comments: 1 | Posted by linker3000",
+      "url": "https://www.theregister.com/2025/12/31/zohran_mamdani_raspberry_pi_ban/",
+      "publishedAt": "2025-12-31T03:19:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "linker3000",
+      "tags": []
+    },
+    {
+      "id": "f9i65t",
+      "title": "LLVM AI tool policy: human in the loop",
+      "description": "Score: 158 | Comments: 73 | Posted by pertymcpert",
+      "url": "https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159",
+      "publishedAt": "2025-12-31T03:06:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pertymcpert",
+      "tags": []
+    },
+    {
+      "id": "aewa1l",
+      "title": "L1TF Reloaded",
+      "description": "Score: 17 | Comments: 0 | Posted by Fnoord",
+      "url": "https://github.com/ThijsRay/l1tf_reloaded",
+      "publishedAt": "2025-12-31T02:33:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Fnoord",
+      "tags": []
+    },
+    {
+      "id": "2fl18y",
+      "title": "Animated AIanimatedai.github.io",
+      "description": "Score: 78 | Comments: 9 | Posted by frozenseven",
+      "url": "https://animatedai.github.io/",
+      "publishedAt": "2025-12-31T02:10:39.217Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "frozenseven",
+      "tags": []
+    },
+    {
+      "id": "9jrfzg",
+      "title": "Readings in Database Systems (5th Edition)",
+      "description": "Score: 48 | Comments: 2 | Posted by teleforce",
+      "url": "http://www.redbook.io/",
+      "publishedAt": "2025-12-31T02:01:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "teleforce",
+      "tags": []
+    },
+    {
+      "id": "5qmqal",
+      "title": "S&P500 Priced in Gold",
+      "description": "Score: 34 | Comments: 30 | Posted by jcartw",
+      "url": "https://pricedingold.com/sp-500/",
+      "publishedAt": "2025-12-31T00:49:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jcartw",
+      "tags": []
+    },
+    {
+      "id": "ul6zjv",
+      "title": "A History of My Homelab",
+      "description": "Score: 8 | Comments: 0 | Posted by vhaudiquet",
+      "url": "https://vhaudiquet.fr/blog/history-homelab/",
+      "publishedAt": "2025-12-31T00:13:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vhaudiquet",
+      "tags": []
+    },
+    {
+      "id": "kgsg6f",
+      "title": "Be aware when opening \"take home challenges\" from untrusted recruiters",
+      "description": "Score: 9 | Comments: 1 | Posted by birdculture",
+      "url": "https://bitbucket.org/brain0xlab/challenge/src/master/",
+      "publishedAt": "2025-12-31T00:04:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "birdculture",
+      "tags": []
+    }
+  ]
+}
