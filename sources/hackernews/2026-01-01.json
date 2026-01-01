@@ -1,0 +1,72 @@
+{
+  "date": "2026-01-01",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "zefhoy",
+      "title": "In 2026, Will Americans Turn Against Oligarchs?",
+      "description": "Score: 6 | Comments: 2 | Posted by connor11528",
+      "url": "https://www.thebignewsletter.com/p/the-case-for-optimism-in-the-next",
+      "publishedAt": "2026-01-01T04:28:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "connor11528",
+      "tags": []
+    },
+    {
+      "id": "lhx1hu",
+      "title": "Flow5 Released to Open Source",
+      "description": "Score: 27 | Comments: 1 | Posted by picture",
+      "url": "https://flow5.tech/docs/releasenotes.html",
+      "publishedAt": "2026-01-01T03:47:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "picture",
+      "tags": []
+    },
+    {
+      "id": "masewd",
+      "title": "Pixar's True Story",
+      "description": "Score: 19 | Comments: 2 | Posted by kristianp",
+      "url": "https://computerhistory.org/blog/pixars-true-story/",
+      "publishedAt": "2026-01-01T02:35:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kristianp",
+      "tags": []
+    },
+    {
+      "id": "dplv34",
+      "title": "Show HN: BusterMQ, Thread-per-core NATS server in Zig with io_uring",
+      "description": "Score: 60 | Comments: 10 | Posted by jbaptiste",
+      "url": "https://bustermq.sh/",
+      "publishedAt": "2026-01-01T00:18:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jbaptiste",
+      "tags": []
+    },
+    {
+      "id": "p94nnj",
+      "title": "2025: The Year in LLMssimonwillison.net",
+      "description": "Score: 321 | Comments: 175 | Posted by simonw",
+      "url": "https://simonwillison.net/2025/Dec/31/the-year-in-llms/",
+      "publishedAt": "2026-01-01T00:10:21.959Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "simonw",
+      "tags": []
+    },
+    {
+      "id": "8v1p4d",
+      "title": "The Delete Act",
+      "description": "Score: 137 | Comments: 63 | Posted by weaksauce",
+      "url": "https://privacy.ca.gov/drop/about-drop-and-the-delete-act/",
+      "publishedAt": "2026-01-01T00:02:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "weaksauce",
+      "tags": []
+    }
+  ]
+}

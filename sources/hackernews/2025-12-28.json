@@ -256,6 +256,39 @@
       "tags": []
     },
     {
+      "id": "3n9zvd",
+      "title": "Build Software. Build Users",
+      "description": "Score: 7 | Comments: 0 | Posted by dinerville",
+      "url": "https://dima.day/blog/build-software-build-users/",
+      "publishedAt": "2025-12-28T09:50:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dinerville",
+      "tags": []
+    },
+    {
+      "id": "cugium",
+      "title": "Observed Agent Sandbox Bypasses",
+      "description": "Score: 41 | Comments: 29 | Posted by m-hodges",
+      "url": "https://voratiq.com/blog/yolo-in-the-sandbox/",
+      "publishedAt": "2025-12-28T08:16:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "m-hodges",
+      "tags": []
+    },
+    {
+      "id": "v0xrax",
+      "title": "Doom in Django: testing the limits of LiveView at 600.000 divs/segundo",
+      "description": "Score: 174 | Comments: 52 | Posted by andros",
+      "url": "https://en.andros.dev/blog/7b1b607b/doom-in-django-testing-the-limits-of-liveview-at-600000-divssegundo/",
+      "publishedAt": "2025-12-28T08:10:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andros",
+      "tags": []
+    },
+    {
       "id": "a1wxzi",
       "title": "Growing up in “404 Not Found”: China's nuclear city in the Gobi Desert",
       "description": "Score: 734 | Comments: 323 | Posted by Vincent_Yan404",

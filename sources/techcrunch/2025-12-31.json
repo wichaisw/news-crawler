@@ -3,6 +3,72 @@
   "source": "techcrunch",
   "articles": [
     {
+      "id": "https://techcrunch.com/?p=3078821",
+      "title": "Investors predict AI is coming for labor in 2026",
+      "description": "The exact impact AI will have on the enterprise labor market is unclear but investors predict trends will start to emerge in 2026.",
+      "url": "https://techcrunch.com/2025/12/31/investors-predict-ai-is-coming-for-labor-in-2026/",
+      "publishedAt": "2025-12-31T16:40:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Rebecca Szkutak",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3073326",
+      "title": "These are the best gadgets for your pet right now",
+      "description": "From AI smart cameras that describe your pet's actions to a smart door that knows when they want to go outside, these are the best pet gadgets of",
+      "url": "https://techcrunch.com/2025/12/31/these-are-the-best-gadgets-for-your-pet-right-now/",
+      "publishedAt": "2025-12-31T16:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lauren Forristal",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3077850",
+      "title": "Tade Oyerinde and Teddy Solomon talk about building engaged audiences at TechCrunch Disrupt",
+      "description": "Founders Tade Oyerinde and Teddy Solomon spoke at Disrupt this year about keeping communities engaged.",
+      "url": "https://techcrunch.com/2025/12/31/tade-oyerinde-and-teddy-solomon-talk-about-building-engaged-audiences-at-techcrunch-disrupt/",
+      "publishedAt": "2025-12-31T16:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=2878248",
+      "title": "Every fusion startup that has raised over $100M",
+      "description": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.",
+      "url": "https://techcrunch.com/2025/12/31/every-fusion-startup-that-has-raised-over-100m/",
+      "publishedAt": "2025-12-31T15:05:21.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Tim De Chant",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3076638",
+      "title": "The 10 top government, legal startups from Disrupt Startup Battlefield",
+      "description": "Here is the full list of the government and legal Startup Battlefield 200 selectees, along with a note on what made us select them for the",
+      "url": "https://techcrunch.com/2025/12/31/the-10-top-government-legal-startups-from-disrupt-startup-battlefield/",
+      "publishedAt": "2025-12-31T15:01:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3078541",
+      "title": "The dumbest things that happened in tech this year",
+      "description": "From Sam Altman's olive oil \"scandal\" to Soham Parekh's viral moment, a lot of silly stuff has gone down in tech this year.",
+      "url": "https://techcrunch.com/2025/12/31/the-dumbest-things-that-happened-in-tech-this-year/",
+      "publishedAt": "2025-12-31T14:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Amanda Silberling",
+      "tags": []
+    },
+    {
       "id": "https://techcrunch.com/?p=3079351",
       "title": "The phone is dead. Long live . . . what exactly?",
       "description": "\"We're not going to be using iPhones in 10 years,\" Callaghan says flatly. \"I kind of don't think we'll be using them in five years.\"",
