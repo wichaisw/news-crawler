@@ -3,6 +3,61 @@
   "source": "techcrunch",
   "articles": [
     {
+      "id": "https://techcrunch.com/?p=2437799",
+      "title": "A beginner’s guide to Mastodon, the open source Twitter alternative",
+      "description": "Unless if you're really in the know about nascent platforms, you probably didn't know what Mastodon was until Elon Musk bought Twitter and renamed it",
+      "url": "https://techcrunch.com/2026/01/01/what-is-mastodon/",
+      "publishedAt": "2026-01-01T21:02:13.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Amanda Silberling",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3079393",
+      "title": "European banks plan to cut 200,000 jobs as AI takes hold",
+      "description": "The bloodletting will hit hardest in back-office operations, risk management, and compliance.",
+      "url": "https://techcrunch.com/2026/01/01/european-banks-plan-to-cut-200000-jobs-as-ai-takes-hold/",
+      "publishedAt": "2026-01-01T20:28:20.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Connie Loizos",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3079384",
+      "title": "OpenAI bets big on audio as Silicon Valley declares war on screens",
+      "description": "The form factors may differ, but the thesis is the same: audio is the interface of the future. Every space -- your home, your car, even your face --",
+      "url": "https://techcrunch.com/2026/01/01/openai-bets-big-on-audio-as-silicon-valley-declares-war-on-screens/",
+      "publishedAt": "2026-01-01T18:29:29.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Connie Loizos",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3077016",
+      "title": "The top 6 media/entertainment startups from Disrupt Startup Battlefield",
+      "description": "Here is the full list of the media/entertainment Startup Battlefield 200 selectees, along with a note on what made us select them for the competition.",
+      "url": "https://techcrunch.com/2026/01/01/the-top-6-media-entertainment-startups-from-disrupt-startup-battlefield/",
+      "publishedAt": "2026-01-01T15:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Julie Bort",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?post_type=tc_video&p=3078897",
+      "title": "Fizz social app’s CEO on why anon works",
+      "description": "Fizz&#160;is&#160;betting that Gen Z is tired of performing their lives on Instagram and TikTok.&#160;&#160; What started as a pandemic-era group",
+      "url": "https://techcrunch.com/video/fizz-social-apps-ceo-on-why-anon-works/",
+      "publishedAt": "2026-01-01T13:25:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Theresa Loconsolo",
+      "tags": []
+    },
+    {
       "id": "https://techcrunch.com/?p=3079376",
       "title": "‘College dropout’ has become the most coveted startup founder credential",
       "description": "AI founders are increasingly using their \"dropout\" status as a credential during YC pitches.",

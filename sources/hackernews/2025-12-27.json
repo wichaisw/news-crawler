@@ -58,6 +58,17 @@
       "tags": []
     },
     {
+      "id": "mdgn8u",
+      "title": "Gaming on a Receipt Printer [video]",
+      "description": "Score: 15 | Comments: 1 | Posted by zdw",
+      "url": "https://www.youtube.com/watch?v=oEqvYXYI56s",
+      "publishedAt": "2025-12-27T22:20:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
       "id": "pztvux",
       "title": "Public Domain Day 2026",
       "description": "Score: 17 | Comments: 1 | Posted by rolph",
@@ -212,6 +223,17 @@
       "tags": []
     },
     {
+      "id": "u5inot",
+      "title": "How to construct complex data declaratively and progressively?",
+      "description": "Score: 26 | Comments: 0 | Posted by tank-34",
+      "url": "https://github.com/allmonday/pydantic-resolve",
+      "publishedAt": "2025-12-27T14:25:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tank-34",
+      "tags": []
+    },
+    {
       "id": "gdcalo",
       "title": "Why is calling my asm function from Rust slower than calling it from C?",
       "description": "Score: 40 | Comments: 0 | Posted by gavide",
@@ -220,6 +242,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "gavide",
+      "tags": []
+    },
+    {
+      "id": "2cr41n",
+      "title": "Show HN: Feather – a fresh Tcl reimplementation (WASM, Go)",
+      "description": "Score: 21 | Comments: 3 | Posted by dhamidi",
+      "url": "https://www.feather-lang.dev",
+      "publishedAt": "2025-12-27T14:06:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dhamidi",
       "tags": []
     },
     {
@@ -300,6 +333,17 @@
       "tags": []
     },
     {
+      "id": "ba0chi",
+      "title": "Simple 3D Packing",
+      "description": "Score: 55 | Comments: 10 | Posted by matroid",
+      "url": "https://github.com/Vrroom/psacking",
+      "publishedAt": "2025-12-27T08:21:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "matroid",
+      "tags": []
+    },
+    {
       "id": "uk1cgp",
       "title": "Quadratrix of Hippias",
       "description": "Score: 7 | Comments: 0 | Posted by MaysonL",
@@ -341,6 +385,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "geeB",
+      "tags": []
+    },
+    {
+      "id": "cbsv2f",
+      "title": "James Moylan, engineer behind arrow signaling which side to refuel a car, dies",
+      "description": "Score: 65 | Comments: 32 | Posted by NaOH",
+      "url": "https://fordauthority.com/2025/12/ford-engineer-that-designed-gas-tank-indicator-passes-away/",
+      "publishedAt": "2025-12-27T01:23:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "NaOH",
       "tags": []
     },
     {

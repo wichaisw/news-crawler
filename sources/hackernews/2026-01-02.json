@@ -1,0 +1,94 @@
+{
+  "date": "2026-01-02",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "voa52d",
+      "title": "A confession from a mainstream food delivery app engineer",
+      "description": "Score: 77 | Comments: 15 | Posted by taurath",
+      "url": "https://www.reddit.com/r/confession/s/gbrh2zxeou",
+      "publishedAt": "2026-01-02T05:00:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "taurath",
+      "tags": []
+    },
+    {
+      "id": "qkiu8a",
+      "title": "I'm a developer for a major food delivery app",
+      "description": "Score: 105 | Comments: 41 | Posted by apayan",
+      "url": "https://old.reddit.com/r/confession/comments/1q1mzej/im_a_developer_for_a_major_food_delivery_app_the/",
+      "publishedAt": "2026-01-02T04:57:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "apayan",
+      "tags": []
+    },
+    {
+      "id": "3x7fph",
+      "title": "ReactOS Starts 2026 with a Major Step Toward Windows NT6 Compatibility",
+      "description": "Score: 19 | Comments: 1 | Posted by hackthemack",
+      "url": "https://www.phoronix.com/news/ReactOS-Starts-2026",
+      "publishedAt": "2026-01-02T02:39:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hackthemack",
+      "tags": []
+    },
+    {
+      "id": "wfxpji",
+      "title": "Marmot – A distributed SQLite server with MySQL wire compatible interface",
+      "description": "Score: 54 | Comments: 7 | Posted by zX41ZdbW",
+      "url": "https://github.com/maxpert/marmot",
+      "publishedAt": "2026-01-02T02:21:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zX41ZdbW",
+      "tags": []
+    },
+    {
+      "id": "leeic2",
+      "title": "Happy Public Domain Day 2026publicdomainreview.org",
+      "description": "Score: 172 | Comments: 32 | Posted by apetresc",
+      "url": "https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/",
+      "publishedAt": "2026-01-02T02:10:43.778Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "apetresc",
+      "tags": []
+    },
+    {
+      "id": "leeic2",
+      "title": "Happy Public Domain Day 2026",
+      "description": "Score: 172 | Comments: 32 | Posted by apetresc",
+      "url": "https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/",
+      "publishedAt": "2026-01-02T01:42:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "apetresc",
+      "tags": []
+    },
+    {
+      "id": "hp6ofe",
+      "title": "Extensibility: The \"100% Lisp\" Fallacy",
+      "description": "Score: 35 | Comments: 5 | Posted by todsacerdoti",
+      "url": "https://kyo.iroiro.party/en/posts/100-percent-lisp/",
+      "publishedAt": "2026-01-02T01:36:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "7h7pt",
+      "title": "Why users cannot create Issues directly",
+      "description": "Score: 162 | Comments: 63 | Posted by xpe",
+      "url": "https://github.com/ghostty-org/ghostty/issues/3558",
+      "publishedAt": "2026-01-02T01:24:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "xpe",
+      "tags": []
+    }
+  ]
+}
