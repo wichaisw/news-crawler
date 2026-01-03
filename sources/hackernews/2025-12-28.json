@@ -113,6 +113,17 @@
       "tags": []
     },
     {
+      "id": "ik0l5o",
+      "title": "Chain Flinger",
+      "description": "Score: 38 | Comments: 7 | Posted by roomey",
+      "url": "https://nealstephenson.substack.com/p/kdk-kinetik-der-kontinua-part-1-introduction",
+      "publishedAt": "2025-12-28T21:56:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "roomey",
+      "tags": []
+    },
+    {
       "id": "583vks",
       "title": "Why I Disappeared – My week with minimal internet in a remote island chain",
       "description": "Score: 70 | Comments: 60 | Posted by eh_why_not",
@@ -165,6 +176,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "AphantaZach",
+      "tags": []
+    },
+    {
+      "id": "5x340n",
+      "title": "Miri: Practical Undefined Behavior Detection for Rust [pdf]",
+      "description": "Score: 70 | Comments: 9 | Posted by ingve",
+      "url": "https://research.ralfj.de/papers/2026-popl-miri.pdf",
+      "publishedAt": "2025-12-28T20:24:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingve",
       "tags": []
     },
     {
@@ -278,6 +300,17 @@
       "tags": []
     },
     {
+      "id": "2z42x",
+      "title": "ThingsBoard: Open-Source IoT Platform",
+      "description": "Score: 65 | Comments: 6 | Posted by pretext",
+      "url": "https://github.com/thingsboard/thingsboard",
+      "publishedAt": "2025-12-28T11:19:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pretext",
+      "tags": []
+    },
+    {
       "id": "4ivr64",
       "title": "Learn computer graphics from scratch and for free",
       "description": "Score: 226 | Comments: 26 | Posted by theusus",
@@ -297,6 +330,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "dinerville",
+      "tags": []
+    },
+    {
+      "id": "yjbl4d",
+      "title": "The PGP Problem (2019)",
+      "description": "Score: 28 | Comments: 31 | Posted by croemer",
+      "url": "https://www.latacora.com/blog/2019/07/16/the-pgp-problem/#the-answers",
+      "publishedAt": "2025-12-28T08:39:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "croemer",
+      "tags": []
+    },
+    {
+      "id": "p9jt3g",
+      "title": "List, inspect and explore OCI container images, their layers and contents",
+      "description": "Score: 39 | Comments: 5 | Posted by bschaatsbergen",
+      "url": "https://github.com/bschaatsbergen/lix",
+      "publishedAt": "2025-12-28T08:21:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bschaatsbergen",
       "tags": []
     },
     {
@@ -338,6 +393,17 @@
       "description": "Score: 113 | Comments: 130 | Posted by ibobev",
       "url": "https://devblogs.microsoft.com/oldnewthing/20251222-00/?p=111890",
       "publishedAt": "2025-12-28T06:42:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
+      "tags": []
+    },
+    {
+      "id": "2ot75c",
+      "title": "Uxn32: Uxn Emulator for Windows and Wine",
+      "description": "Score: 48 | Comments: 4 | Posted by ibobev",
+      "url": "https://github.com/randrew/uxn32",
+      "publishedAt": "2025-12-28T06:39:57.000Z",
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ibobev",

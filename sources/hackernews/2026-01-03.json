@@ -1,0 +1,127 @@
+{
+  "date": "2026-01-03",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "ouj4do",
+      "title": "Japan joining growing global trend of declining democracy",
+      "description": "Score: 4 | Comments: 0 | Posted by wahnfrieden",
+      "url": "https://www.asahi.com/ajw/articles/16262732",
+      "publishedAt": "2026-01-03T06:01:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wahnfrieden",
+      "tags": []
+    },
+    {
+      "id": "rdvapf",
+      "title": "IQuest-Coder: A new open-source code model beats Claude Sonnet 4.5 and GPT 5.1 [pdf]",
+      "description": "Score: 17 | Comments: 6 | Posted by shenli3514",
+      "url": "https://github.com/IQuestLab/IQuest-Coder-V1/blob/main/papers/IQuest_Coder_Technical_Report.pdf",
+      "publishedAt": "2026-01-03T04:01:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "shenli3514",
+      "tags": []
+    },
+    {
+      "id": "fpcopi",
+      "title": "Adventure 751 (1980)",
+      "description": "Score: 23 | Comments: 2 | Posted by quuxplusone",
+      "url": "https://bluerenga.blog/2026/01/01/adventure-751-1980/",
+      "publishedAt": "2026-01-03T02:38:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "quuxplusone",
+      "tags": []
+    },
+    {
+      "id": "gs08at",
+      "title": "The Kimwolf Botnet Is Stalking Your Local Network",
+      "description": "Score: 9 | Comments: 0 | Posted by SamValYlieRcHE2",
+      "url": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
+      "publishedAt": "2026-01-03T02:04:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "SamValYlieRcHE2",
+      "tags": []
+    },
+    {
+      "id": "5hsms1",
+      "title": "Einstein Probe detects an X-ray flare from nearby star",
+      "description": "Score: 23 | Comments: 3 | Posted by wglb",
+      "url": "https://phys.org/news/2025-12-einstein-probe-ray-flare-nearby.html",
+      "publishedAt": "2026-01-03T01:29:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wglb",
+      "tags": []
+    },
+    {
+      "id": "dce0tl",
+      "title": "A Basic Just-In-Time Compiler (2015)",
+      "description": "Score: 45 | Comments: 8 | Posted by ibobev",
+      "url": "https://nullprogram.com/blog/2015/03/19/",
+      "publishedAt": "2026-01-03T01:18:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
+      "tags": []
+    },
+    {
+      "id": "oc3b0e",
+      "title": "Proving Liveness with TLA",
+      "description": "Score: 28 | Comments: 1 | Posted by ibobev",
+      "url": "https://roscidus.com/blog/blog/2026/01/01/tla-liveness/",
+      "publishedAt": "2026-01-03T01:15:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
+      "tags": []
+    },
+    {
+      "id": "307cgf",
+      "title": "Uxn/Varvara ecosystem is a personal computing stack",
+      "description": "Score: 8 | Comments: 1 | Posted by doener",
+      "url": "https://100r.co/site/uxn.html",
+      "publishedAt": "2026-01-03T01:04:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "doener",
+      "tags": []
+    },
+    {
+      "id": "l43jg3",
+      "title": "2026 will be my year of the Linux desktop",
+      "description": "Score: 387 | Comments: 273 | Posted by todsacerdoti",
+      "url": "https://xeiaso.net/notes/2026/year-linux-desktop/",
+      "publishedAt": "2026-01-03T00:15:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "scccam",
+      "title": "Show HN: Website that plays the lottery every second",
+      "description": "Score: 118 | Comments: 51 | Posted by Loeffelmann",
+      "url": "https://lotteryeverysecond.lffl.me/",
+      "publishedAt": "2026-01-03T00:12:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Loeffelmann",
+      "tags": []
+    },
+    {
+      "id": "6sj4ll",
+      "title": "Microsoft kills official way to activate Windows 11/10 without internet",
+      "description": "Score: 230 | Comments: 168 | Posted by josephcsible",
+      "url": "https://www.neowin.net/news/report-microsoft-quietly-kills-official-way-to-activate-windows-1110-without-internet/",
+      "publishedAt": "2026-01-03T00:01:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "josephcsible",
+      "tags": []
+    }
+  ]
+}

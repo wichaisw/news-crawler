@@ -3,6 +3,105 @@
   "source": "techcrunch",
   "articles": [
     {
+      "id": "https://techcrunch.com/?p=3079459",
+      "title": "India orders Musk’s X to fix Grok over ‘obscene’ AI content",
+      "description": "India's IT ministry has given X 72 hours to submit an action-taken report.",
+      "url": "https://techcrunch.com/2026/01/02/india-orders-musks-x-to-fix-grok-over-obscene-ai-content/",
+      "publishedAt": "2026-01-02T18:29:26.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Jagmeet Singh",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3072282",
+      "title": "10 useful gadgets for your first apartment",
+      "description": "From home security systems and smart smoke detectors to a sunrise alarm gently that wakes you up, here are the must-have gadgets for living in your",
+      "url": "https://techcrunch.com/2026/01/02/10-useful-gadgets-for-your-first-apartment/",
+      "publishedAt": "2026-01-02T18:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lauren Forristal",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3079456",
+      "title": "Tesla annual sales decline 9% as it’s overtaken by BYD as global EV leader",
+      "description": "Tesla annual sales have fallen for the second year in a row, a drop fueled by the removal of the federal tax credit in the U.S. and competition from",
+      "url": "https://techcrunch.com/2026/01/02/tesla-annual-sales-decline-9-as-its-overtaken-by-byd-as-global-ev-leader/",
+      "publishedAt": "2026-01-02T16:17:47.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Kirsten Korosec",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=2942343",
+      "title": "Nvidia’s AI empire: A look at its top startup investments",
+      "description": "Over the last two years, Nvidia has used its ballooning fortunes to invest in over 100 AI startups. Here are the giant semiconductor's largest",
+      "url": "https://techcrunch.com/2026/01/02/nvidias-ai-empire-a-look-at-its-top-startup-investments/",
+      "publishedAt": "2026-01-02T16:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Marina Temkin",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3077140",
+      "title": "The 16 top logistics, manufacturing, materials startups from Disrupt Startup Battlefield",
+      "description": "Here is the full list of the logistics, manufacturing, and materials Startup Battlefield 200 selectees, along with a note on what made us select them",
+      "url": "https://techcrunch.com/2026/01/02/the-16-top-logistics-manufacturing-materials-startups-from-disrupt-startup-battlefield/",
+      "publishedAt": "2026-01-02T15:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Julie Bort",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3079410",
+      "title": "Pebble reboots its thinnest smartwatch with the Pebble Round 2",
+      "description": "Pebble launches a $199 smartwatch with rounded screen that can last up to 2 weeks on one charge.",
+      "url": "https://techcrunch.com/2026/01/02/pebble-reboots-its-thinnest-smartwatch-with-the-pebble-round-2/",
+      "publishedAt": "2026-01-02T15:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sarah Perez",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3079444",
+      "title": "In 2026, AI will move from hype to pragmatism",
+      "description": "In 2026, here's what you can expect from the AI industry: new architectures, smaller models, world models, reliable agents, physical AI, and products",
+      "url": "https://techcrunch.com/2026/01/02/in-2026-ai-will-move-from-hype-to-pragmatism/",
+      "publishedAt": "2026-01-02T14:43:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Rebecca Bellan",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3079405",
+      "title": "Clicks debuts its own take on the BlackBerry smartphone, plus a $79 snap-on mobile keyboard",
+      "description": "The company behind the add-on mobile keyboards with physical buttons is now doing its own phone.",
+      "url": "https://techcrunch.com/2026/01/02/clicks-debuts-its-own-take-on-the-blackberry-smartphone-plus-a-79-snap-on-mobile-keyboard/",
+      "publishedAt": "2026-01-02T13:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sarah Perez",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3079406",
+      "title": "Even as global crop prices fall, India’s Arya.ag is attracting investors — and staying profitable",
+      "description": "Arya.ag, an Indian agritech company offering storage facilities near farms and offering lending services to hundreds of thousands of farmers, has",
+      "url": "https://techcrunch.com/2026/01/01/even-as-global-crop-prices-fall-indias-arya-ag-is-attracting-investors-and-staying-profitable/",
+      "publishedAt": "2026-01-02T07:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Jagmeet Singh",
+      "tags": []
+    },
+    {
       "id": "https://techcrunch.com/?p=3047850",
       "title": "A guide to choosing the right Apple Watch",
       "description": "The gap between Apple's standard and budget smart watches has never felt smaller.",
