@@ -1,0 +1,39 @@
+{
+  "date": "2026-01-03",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3079521",
+      "title": "Tech billionaires cashed out $16 billion in 2025 as stocks soared",
+      "description": "Jeff Bezos led the way. The Amazon founder sold 25 million shares for $5.7 billion in June and July, right around the time he was getting hitched to",
+      "url": "https://techcrunch.com/2026/01/03/tech-billionaires-cashed-out-16-billion-in-2025-as-stocks-soared/",
+      "publishedAt": "2026-01-03T23:45:07.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Connie Loizos",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3079517",
+      "title": "California residents can use new tool to demand brokers delete their personal data",
+      "description": "A new tool should make it easier for California residents to limit data brokers’ ability to store and sell their personal information.",
+      "url": "https://techcrunch.com/2026/01/03/california-residents-can-use-new-tool-to-demand-brokers-delete-their-personal-data/",
+      "publishedAt": "2026-01-03T22:25:34.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3079515",
+      "title": "Bitfinex hacker Ilya Lichtenstein credits Trump for early release from prison",
+      "description": "Ilya Lichtenstein, who pled guilty to money laundering charges tied to his role in the massive hack of crypto exchange Bitfinex, has apparently been",
+      "url": "https://techcrunch.com/2026/01/03/bitfinex-hacker-ilya-lichtenstein-credits-trump-for-early-release-from-prison/",
+      "publishedAt": "2026-01-03T19:48:23.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    }
+  ]
+}

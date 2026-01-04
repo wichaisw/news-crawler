@@ -1,0 +1,149 @@
+{
+  "date": "2026-01-04",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "z9ndci",
+      "title": "Neural Networks: Zero to Herokarpathy.ai",
+      "description": "Score: 28 | Comments: 1 | Posted by suioir",
+      "url": "https://karpathy.ai/zero-to-hero.html",
+      "publishedAt": "2026-01-04T05:10:03.139Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "suioir",
+      "tags": []
+    },
+    {
+      "id": "oamg23",
+      "title": "Learning to Play Tic-Tac-Toe with Jax",
+      "description": "Score: 4 | Comments: 0 | Posted by antognini",
+      "url": "https://joe-antognini.github.io/ml/jax-tic-tac-toe",
+      "publishedAt": "2026-01-04T05:09:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "antognini",
+      "tags": []
+    },
+    {
+      "id": "z9ndci",
+      "title": "Neural Networks: Zero to Hero",
+      "description": "Score: 29 | Comments: 1 | Posted by suioir",
+      "url": "https://karpathy.ai/zero-to-hero.html",
+      "publishedAt": "2026-01-04T05:02:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "suioir",
+      "tags": []
+    },
+    {
+      "id": "b3i2ba",
+      "title": "Show HN: Krowdovi – Video-based indoor navigation on a DePIN creator economy",
+      "description": "Score: 3 | Comments: 2 | Posted by 24hrmvp",
+      "url": "https://github.com/daftpixie/krowdovi",
+      "publishedAt": "2026-01-04T04:23:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "24hrmvp",
+      "tags": []
+    },
+    {
+      "id": "isyloc",
+      "title": "Software Craftsmanship Is Dead",
+      "description": "Score: 21 | Comments: 13 | Posted by ronbenton",
+      "url": "https://www.pcloadletter.dev/blog/craftsmanship-is-dead/",
+      "publishedAt": "2026-01-04T02:52:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ronbenton",
+      "tags": []
+    },
+    {
+      "id": "4bql7c",
+      "title": "How Thomas Mann Wrote the Magic Mountain",
+      "description": "Score: 30 | Comments: 0 | Posted by Caiero",
+      "url": "https://www.theguardian.com/books/2025/dec/31/the-master-of-contradictions-by-morten-hi-jensen-review-how-thomas-mann-wrote-the-magic-mountain",
+      "publishedAt": "2026-01-04T02:13:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Caiero",
+      "tags": []
+    },
+    {
+      "id": "unpuu8",
+      "title": "Developing a BLAS Library for the AMD AI Engine [pdf]",
+      "description": "Score: 27 | Comments: 7 | Posted by teleforce",
+      "url": "https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf",
+      "publishedAt": "2026-01-04T01:26:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "teleforce",
+      "tags": []
+    },
+    {
+      "id": "dc2r82",
+      "title": "MyTorch – Minimalist autograd in 450 lines of Python",
+      "description": "Score: 56 | Comments: 7 | Posted by iguana2000",
+      "url": "https://github.com/obround/mytorch",
+      "publishedAt": "2026-01-04T01:21:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "iguana2000",
+      "tags": []
+    },
+    {
+      "id": "i0of3f",
+      "title": "The Great Gatsby is the most misunderstood novel (2021)",
+      "description": "Score: 42 | Comments: 50 | Posted by 1659447091",
+      "url": "https://www.bbc.com/culture/article/20210209-the-worlds-most-misunderstood-novel",
+      "publishedAt": "2026-01-04T01:15:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "1659447091",
+      "tags": []
+    },
+    {
+      "id": "8afm40",
+      "title": "SQLNet A social network that looks like Twitter but you write SQL to do anything",
+      "description": "Score: 37 | Comments: 7 | Posted by colinbartlett",
+      "url": "https://sqlnet.cc",
+      "publishedAt": "2026-01-04T01:02:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "colinbartlett",
+      "tags": []
+    },
+    {
+      "id": "1pdga5",
+      "title": "Corroded: Illegal Rust",
+      "description": "Score: 48 | Comments: 9 | Posted by csmantle",
+      "url": "https://github.com/buyukakyuz/corroded",
+      "publishedAt": "2026-01-04T00:45:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "csmantle",
+      "tags": []
+    },
+    {
+      "id": "up0yj0",
+      "title": "KDE onboarding is good now",
+      "description": "Score: 66 | Comments: 23 | Posted by todsacerdoti",
+      "url": "https://rabbitictranslator.com/kde-onboarding/",
+      "publishedAt": "2026-01-04T00:31:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "rg9kir",
+      "title": "Worst Case Optimal Joins: Graph-Join Correspondence",
+      "description": "Score: 16 | Comments: 1 | Posted by eatonphil",
+      "url": "https://finnvolkel.com/wcoj-graph-join-correspondence",
+      "publishedAt": "2026-01-04T00:15:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "eatonphil",
+      "tags": []
+    }
+  ]
+}

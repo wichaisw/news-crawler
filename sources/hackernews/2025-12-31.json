@@ -234,6 +234,17 @@
       "tags": []
     },
     {
+      "id": "zdmf71",
+      "title": "A Beginner's Two-Component Crystal-Style Wi-Fi Detector",
+      "description": "Score: 135 | Comments: 39 | Posted by jensgk",
+      "url": "https://siliconjunction.wordpress.com/2025/12/12/a-beginners-two-component-crystal-style-wi-fi-detector/",
+      "publishedAt": "2025-12-31T13:00:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jensgk",
+      "tags": []
+    },
+    {
       "id": "mftnk3",
       "title": "Nvidia GB10's Memory Subsystem, from the CPU Side",
       "description": "Score: 77 | Comments: 10 | Posted by ingve",
@@ -289,6 +300,28 @@
       "tags": []
     },
     {
+      "id": "nptmoh",
+      "title": "Torch.ts – building PyTorch in TypeScript from scratch to learn",
+      "description": "Score: 34 | Comments: 7 | Posted by 13point5",
+      "url": "https://github.com/13point5/torch.ts",
+      "publishedAt": "2025-12-31T08:49:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "13point5",
+      "tags": []
+    },
+    {
+      "id": "vyjb0b",
+      "title": "UK company sends factory with 1,000C furnace into space",
+      "description": "Score: 138 | Comments: 77 | Posted by vekerdyb",
+      "url": "https://www.bbc.co.uk/news/articles/c62vx0pgyrgo",
+      "publishedAt": "2025-12-31T08:04:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vekerdyb",
+      "tags": []
+    },
+    {
       "id": "qm0m9v",
       "title": "Show HN: Use Claude Code to Query 600 GB Indexes over Hacker News, ArXiv, etc.",
       "description": "Score: 326 | Comments: 116 | Posted by Xyra",
@@ -308,6 +341,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ingve",
+      "tags": []
+    },
+    {
+      "id": "pwil2a",
+      "title": "Sirius DB",
+      "description": "Score: 128 | Comments: 17 | Posted by manoji",
+      "url": "https://www.sirius-db.com/",
+      "publishedAt": "2025-12-31T05:54:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "manoji",
       "tags": []
     },
     {
@@ -385,6 +429,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jcartw",
+      "tags": []
+    },
+    {
+      "id": "e2gbyj",
+      "title": "Exploring Dithering on Spectra 6-color E-Ink Displays",
+      "description": "Score: 89 | Comments: 6 | Posted by edent",
+      "url": "https://myembeddedstuff.com/e-ink-spectra-6-color",
+      "publishedAt": "2025-12-31T00:43:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "edent",
+      "tags": []
+    },
+    {
+      "id": "o1phdx",
+      "title": "Odoo: Open-Source ERP",
+      "description": "Score: 18 | Comments: 5 | Posted by stein1946",
+      "url": "https://github.com/odoo/odoo",
+      "publishedAt": "2025-12-31T00:35:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "stein1946",
       "tags": []
     },
     {
