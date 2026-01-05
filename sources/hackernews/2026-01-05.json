@@ -1,0 +1,83 @@
+{
+  "date": "2026-01-05",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "n1qlfz",
+      "title": "ICE Is Using Facial-Recognition Technology to Quickly Arrest People",
+      "description": "Score: 18 | Comments: 4 | Posted by KnuthIsGod",
+      "url": "https://www.wsj.com/politics/policy/ice-facial-recognition-app-mobile-fortify-dfdd00bf",
+      "publishedAt": "2026-01-05T05:16:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "KnuthIsGod",
+      "tags": []
+    },
+    {
+      "id": "ibwdaa",
+      "title": "Kraft Heinz Lost Its Lock on Mac and Cheese–and American Shoppers",
+      "description": "Score: 6 | Comments: 3 | Posted by noleary",
+      "url": "https://www.wsj.com/business/retail/kraft-heinz-mac-cheese-split-ceo-dccc9217",
+      "publishedAt": "2026-01-05T04:47:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "noleary",
+      "tags": []
+    },
+    {
+      "id": "yy33f9",
+      "title": "California residents can now request all data brokers delete personal info",
+      "description": "Score: 157 | Comments: 40 | Posted by memalign",
+      "url": "https://consumer.drop.privacy.ca.gov/",
+      "publishedAt": "2026-01-05T04:00:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "memalign",
+      "tags": []
+    },
+    {
+      "id": "3871rx",
+      "title": "During Helene, I just wanted a plain text websitesparkbox.com",
+      "description": "Score: 103 | Comments: 61 | Posted by CqtGLRGcukpy",
+      "url": "https://sparkbox.com/foundry/helene_and_mobile_web_performance",
+      "publishedAt": "2026-01-05T03:13:13.062Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "CqtGLRGcukpy",
+      "tags": []
+    },
+    {
+      "id": "3871rx",
+      "title": "During Helene, I just wanted a plain text website",
+      "description": "Score: 103 | Comments: 62 | Posted by CqtGLRGcukpy",
+      "url": "https://sparkbox.com/foundry/helene_and_mobile_web_performance",
+      "publishedAt": "2026-01-05T02:36:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "CqtGLRGcukpy",
+      "tags": []
+    },
+    {
+      "id": "3qgdix",
+      "title": "Agent Orchestration Is Not the Future",
+      "description": "Score: 3 | Comments: 1 | Posted by mordymoop",
+      "url": "https://moridinamael.github.io/agent-orchestration/",
+      "publishedAt": "2026-01-05T02:33:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mordymoop",
+      "tags": []
+    },
+    {
+      "id": "tq7qpj",
+      "title": "NeXTSTEP on Pa-RISC",
+      "description": "Score: 9 | Comments: 0 | Posted by andsoitis",
+      "url": "https://www.openpa.net/nextstep_pa-risc.html",
+      "publishedAt": "2026-01-05T00:48:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andsoitis",
+      "tags": []
+    }
+  ]
+}

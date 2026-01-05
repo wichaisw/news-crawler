@@ -69,6 +69,17 @@
       "tags": []
     },
     {
+      "id": "ai5in3",
+      "title": "Six Harmless Bugs Lead to Remote Code Execution",
+      "description": "Score: 42 | Comments: 3 | Posted by ozirus",
+      "url": "https://mehmetince.net/the-story-of-a-perfect-exploit-chain-six-bugs-that-looked-harmless-until-they-became-pre-auth-rce-in-a-security-appliance/",
+      "publishedAt": "2026-01-01T20:02:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ozirus",
+      "tags": []
+    },
+    {
       "id": "y2hl0d",
       "title": "Dell's version of the DGX Spark fixes pain points",
       "description": "Score: 117 | Comments: 62 | Posted by thomasjb",
@@ -234,6 +245,17 @@
       "tags": []
     },
     {
+      "id": "7mtd9",
+      "title": "Logos Language Guide: Compile English to Rust",
+      "description": "Score: 9 | Comments: 2 | Posted by tristenharr",
+      "url": "https://logicaffeine.com/guide",
+      "publishedAt": "2026-01-01T13:48:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tristenharr",
+      "tags": []
+    },
+    {
       "id": "609nbn",
       "title": "iOS allows alternative browser engines in Japan",
       "description": "Score: 378 | Comments: 328 | Posted by eklavya",
@@ -330,6 +352,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "kristianp",
+      "tags": []
+    },
+    {
+      "id": "bamtda",
+      "title": "The great shift of English prose",
+      "description": "Score: 48 | Comments: 35 | Posted by dsubburam",
+      "url": "https://www.worksinprogress.news/p/english-prose-has-become-much-easier",
+      "publishedAt": "2026-01-01T02:19:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dsubburam",
       "tags": []
     },
     {

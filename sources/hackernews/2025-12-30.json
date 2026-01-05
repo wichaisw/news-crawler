@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "i4m8ab",
+      "title": "Attention Is Bayesian Inference",
+      "description": "Score: 135 | Comments: 29 | Posted by samwillis",
+      "url": "https://medium.com/@vishalmisra/attention-is-bayesian-inference-578c25db4501",
+      "publishedAt": "2025-12-30T22:51:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "samwillis",
+      "tags": []
+    },
+    {
       "id": "vwm4hu",
       "title": "Coase's Penguin, Or, Linux and the Nature of the Firm [pdf]",
       "description": "Score: 11 | Comments: 1 | Posted by loughnane",
@@ -154,6 +165,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "kasabali",
+      "tags": []
+    },
+    {
+      "id": "y4glpa",
+      "title": "Bison return to Illinois' Kane County after 200 years",
+      "description": "Score: 142 | Comments: 44 | Posted by bikenaga",
+      "url": "https://phys.org/news/2025-12-bison-illinois-kane-county-years.html",
+      "publishedAt": "2025-12-30T18:22:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bikenaga",
       "tags": []
     },
     {
