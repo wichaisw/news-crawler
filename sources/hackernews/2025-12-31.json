@@ -234,6 +234,17 @@
       "tags": []
     },
     {
+      "id": "bceib8",
+      "title": "LLMRouter: An Open-Source Library for LLM Routing",
+      "description": "Score: 47 | Comments: 7 | Posted by simonpure",
+      "url": "https://github.com/ulab-uiuc/LLMRouter",
+      "publishedAt": "2025-12-31T13:22:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "simonpure",
+      "tags": []
+    },
+    {
       "id": "wrs84m",
       "title": "Claude wrote a functional NES emulator using my engine's API",
       "description": "Score: 75 | Comments: 85 | Posted by delduca",
@@ -289,6 +300,17 @@
       "tags": []
     },
     {
+      "id": "bxy474",
+      "title": "Show HN: Shadowlight, a voice-driven murder mystery and heist inside Minecraft",
+      "description": "Score: 19 | Comments: 2 | Posted by marcsimon42",
+      "url": "https://www.playshadowlight.com/",
+      "publishedAt": "2025-12-31T11:43:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "marcsimon42",
+      "tags": []
+    },
+    {
       "id": "fr7kzb",
       "title": "Akin's Laws of Spacecraft Design (2011) [pdf]",
       "description": "Score: 278 | Comments: 86 | Posted by tosh",
@@ -319,6 +341,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "13point5",
+      "tags": []
+    },
+    {
+      "id": "803ggz",
+      "title": "Understanding SQL parsers",
+      "description": "Score: 15 | Comments: 3 | Posted by inishchith",
+      "url": "https://nishchith.com/sql-parsers/",
+      "publishedAt": "2025-12-31T08:15:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "inishchith",
       "tags": []
     },
     {

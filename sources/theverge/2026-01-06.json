@@ -1,0 +1,126 @@
+{
+  "date": "2026-01-06",
+  "source": "theverge",
+  "articles": [
+    {
+      "id": "9ykxq0",
+      "title": "Nvidia’s GeForce Now is getting native Linux and Fire TV apps",
+      "description": "Nvidia's RTX 5080 rollout for its GeForce Now cloud gaming service is now complete, so it's ready to announce some additional features for subscribers. In the coming months, Nvidia is planning to launch native GeForce Now apps for Linux and Amazon's Fire TV devices, alongside flight control support for its cloud gaming service. The native [&#8230;]",
+      "url": "https://www.theverge.com/tech/854688/nvidias-geforce-now-is-getting-native-linux-and-fire-tv-apps",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/geforcenowlinux.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-01-06T05:22:13.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Tom Warren",
+      "tags": []
+    },
+    {
+      "id": "ignslj",
+      "title": "Nvidia’s new G-Sync monitors automatically adjust brightness just like a laptop",
+      "description": "Nvidia is bringing a new set of G-Sync Pulsar monitors to the market this week that will automatically adjust brightness and color based on the ambient lighting in a room. Much like a modern laptop, these new monitors have a built-in light sensor that measures the brightness and color temperature of an environment to enable [&#8230;]",
+      "url": "https://www.theverge.com/tech/854662/nvidia-g-sync-pulsar-monitors-abmient-adaptive-technology-auto-brightness",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gsyncambient.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-01-06T05:12:18.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Tom Warren",
+      "tags": []
+    },
+    {
+      "id": "dxc7ee",
+      "title": "Nvidia announces DLSS 4.5 with 6x Frame Generation and improved image quality",
+      "description": "Nvidia is announcing its next major update to its Deep Learning Super Sampling (DLSS) feature at CES today. DLSS 4.5 includes Nvidia's second-generation Super Resolution transformer model and a new 6x Multi Frame Generation mode for RTX 50-series GPUs that uses AI to generate up to five additional frames for every single rendered one. DLSS [&#8230;]",
+      "url": "https://www.theverge.com/tech/854610/nvidia-dlss-4-5-announcement-multi-frame-generation-6x-specs",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STK083_NVIDIA_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-01-06T05:04:55.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Tom Warren",
+      "tags": []
+    },
+    {
+      "id": "khnyc1",
+      "title": "Emerson’s SmartVoice devices follow verbal instructions without Wi-Fi or a hub",
+      "description": "A new line of small appliances and devices from IAI Smart, billed as Emerson Smart products, are now available that will let you operate fans, heaters, smart plugs, and air fryers with your voice - with no apps, Wi-Fi, or smart home connection at all. Using the company's SmartVoice technology, the devices react to wake-up [&#8230;]",
+      "url": "https://www.theverge.com/tech/850919/smart-appliance-emerson-smartvoice-ces",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/Screenshot-2025-12-29-at-4.31.07%E2%80%AFPM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-01-06T05:01:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Barbara Krasnoff",
+      "tags": []
+    },
+    {
+      "id": "rbjlmr",
+      "title": "Alienware is working on new slim and cheaper gaming laptops",
+      "description": "Dell-owned Alienware is looking to reach a wider swath of gamers, announcing at CES 2026 that it's working on two new laptops: one with a lower, entry-level price and one with an ultra-slim chassis. There aren't many details right now, as Alienware is only sharing some basic renders, and the behind-glass nonworking prototypes I saw [&#8230;]",
+      "url": "https://www.theverge.com/news/851926/alienware-is-working-on-new-slim-and-cheaper-gaming-laptops",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Alienware-Ultra-Slim-Entry-Level-Laptops-Coming-Soon.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-01-06T03:30:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Antonio G. Di Benedetto",
+      "tags": []
+    },
+    {
+      "id": "4rb85a",
+      "title": "HP crammed an entire desktop computer into this keyboard",
+      "description": "HP is announcing a new mini desktop computer at CES 2026, and the whole thing is housed in a compact keyboard. The Eliteboard G1a looks like a normal office keyboard with either a captive or detachable USB-C cable, but inside it is an AMD Ryzen AI 300-series chip, stereo speakers, RAM, storage, a fan, and [&#8230;]",
+      "url": "https://www.theverge.com/news/851965/hp-crammed-an-entire-desktop-computer-into-this-keyboard",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/HP-EliteBoard-G1a-Next-Gen-AI-PC_Lifestyle5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-01-06T03:30:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Antonio G. Di Benedetto",
+      "tags": []
+    },
+    {
+      "id": "8ddyaw",
+      "title": "AMD’s new Ryzen 7 9850X3D makes the best gaming CPU even faster",
+      "description": "AMD is introducing an improved version of its popular Ryzen 7 9800X3D processor today at CES. The new Ryzen 7 9850X3D offers up the same 8-core / 16-thread CPU as the 9800X3D, running at even faster boost clocks. \"We've fine-tuned our best gaming processor in the world and have increased the boost clocks to 5.6GHz,\" [&#8230;]",
+      "url": "https://www.theverge.com/tech/855188/amd-ryzen-7-9850x3d-processor-boost-clock-announcement",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_180529_1777_amd_0001.0.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-01-06T03:30:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Tom Warren",
+      "tags": []
+    },
+    {
+      "id": "2y8d92",
+      "title": "AMD Ryzen AI 400 official: Will these laptop chips maintain AMD’s lead?",
+      "description": "We were rightly skeptical of AMD's Ryzen AI 300 \"Strix Point\" laptop chips in 2024. Now they're in some of the very best laptops you can buy, arguably hitting the sweet spot of price, performance, and battery life. Today at CES, AMD is announcing its successor, the Ryzen AI 400 line - but there's nothing [&#8230;]",
+      "url": "https://www.theverge.com/tech/855343/amd-ryzen-ai-400-release-date",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/Ryzen-AI-400-Series_04.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-01-06T03:30:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Sean Hollister",
+      "tags": []
+    },
+    {
+      "id": "qkw7ys",
+      "title": "AMD heard you like powerful gaming portables — so here are new Strix Halo chips",
+      "description": "AMD's Strix Halo, aka \"Ryzen AI Max,\" is a hugely expensive chip that includes some of the most powerful integrated graphics ever made. Though AMD initially marketed it more to AI workloads with its tremendous complement of up to 128GB of RAM, it's also inspired some unprecedented gaming designs - by far the most powerful [&#8230;]",
+      "url": "https://www.theverge.com/tech/855463/amd-strix-halo-ai-max-plus-388-392-handheld-gaming",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/sean-hollister-verge-331A1379.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-01-06T03:30:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Sean Hollister",
+      "tags": []
+    },
+    {
+      "id": "9js43z",
+      "title": "The Vivoo FlowPad turns menstrual pads into an at-home hormone test",
+      "description": "Wellness tech companies are increasingly interested in bodily fluids like blood, urine, sweat, and saliva. At CES 2026, it's time to add menstrual blood to that list, too. Health tech startup Vivoo just announced the FlowPad, a roughly $4 to $5 menstrual pad that doubles as an at-home hormone test for follicle-stimulating hormone (FSH). Users [&#8230;]",
+      "url": "https://www.theverge.com/tech/849643/ces-2026-vivoo-flowpad-menstrual-pad-hormones-wearable-health",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/FlowPad-Lifestyle-with-App.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-01-06T03:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Victoria Song",
+      "tags": []
+    }
+  ]
+}

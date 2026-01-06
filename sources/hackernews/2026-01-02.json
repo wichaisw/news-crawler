@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "2q3ciq",
+      "title": "The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks (2018)",
+      "description": "Score: 79 | Comments: 18 | Posted by felineflock",
+      "url": "https://arxiv.org/abs/1803.03635",
+      "publishedAt": "2026-01-02T22:53:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "felineflock",
+      "tags": []
+    },
+    {
       "id": "hwllem",
       "title": "Show HN: Go-Highway – Portable SIMD for Go",
       "description": "Score: 13 | Comments: 0 | Posted by kingcauchy",
@@ -187,6 +198,39 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ChrisArchitect",
+      "tags": []
+    },
+    {
+      "id": "59dzwb",
+      "title": "Try to take my position: The best promotion advice I ever got",
+      "description": "Score: 351 | Comments: 164 | Posted by yuppiepuppie",
+      "url": "https://andrew.grahamyooll.com/blog/Try-to-Take-My-Position/",
+      "publishedAt": "2026-01-02T15:56:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "yuppiepuppie",
+      "tags": []
+    },
+    {
+      "id": "ryvxvy",
+      "title": "Yearly analytics on my spaced repetition results",
+      "description": "Score: 42 | Comments: 70 | Posted by Theaetetus",
+      "url": "https://www.natemeyvis.com/i-did-301432-flashcard-reviews-in-2025/",
+      "publishedAt": "2026-01-02T15:10:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Theaetetus",
+      "tags": []
+    },
+    {
+      "id": "rqft7o",
+      "title": "Pebble Round 2",
+      "description": "Score: 376 | Comments: 204 | Posted by jackwilsdon",
+      "url": "https://repebble.com/blog/pebble-round-2-the-most-stylish-pebble-ever",
+      "publishedAt": "2026-01-02T14:56:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jackwilsdon",
       "tags": []
     },
     {
