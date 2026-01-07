@@ -1,0 +1,127 @@
+{
+  "date": "2026-01-07",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "55y4i0",
+      "title": "The creator of Claude Code's Claude setuptwitter.com/bcherny",
+      "description": "Score: 145 | Comments: 51 | Posted by KothuRoti",
+      "url": "https://twitter.com/bcherny/status/2007179832300581177",
+      "publishedAt": "2026-01-07T04:10:48.900Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "KothuRoti",
+      "tags": []
+    },
+    {
+      "id": "3g88ku",
+      "title": "On the slow death of scaling",
+      "description": "Score: 39 | Comments: 5 | Posted by sethbannon",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5877662",
+      "publishedAt": "2026-01-07T03:48:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sethbannon",
+      "tags": []
+    },
+    {
+      "id": "p1fq7u",
+      "title": "Microsoft probably killed my Snapdragon Dev Kitjasoneckert.github.io",
+      "description": "Score: 115 | Comments: 66 | Posted by jasoneckert",
+      "url": "https://jasoneckert.github.io/myblog/how-microsoft-killed-my-snapdragon-devkit/",
+      "publishedAt": "2026-01-07T03:10:48.901Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jasoneckert",
+      "tags": []
+    },
+    {
+      "id": "p1fq7u",
+      "title": "Microsoft probably killed my Snapdragon Dev Kit",
+      "description": "Score: 115 | Comments: 66 | Posted by jasoneckert",
+      "url": "https://jasoneckert.github.io/myblog/how-microsoft-killed-my-snapdragon-devkit/",
+      "publishedAt": "2026-01-07T02:37:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jasoneckert",
+      "tags": []
+    },
+    {
+      "id": "tg3rn0",
+      "title": "Most websites don't need cookie consent banners",
+      "description": "Score: 73 | Comments: 55 | Posted by pickup191",
+      "url": "https://block81.com/blog/why-most-websites-dont-actually-need-cookie-consent-banners",
+      "publishedAt": "2026-01-07T01:05:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pickup191",
+      "tags": []
+    },
+    {
+      "id": "6gtljy",
+      "title": "PassSeeds – hijacking Passkeys to unlock new cryptographic use cases",
+      "description": "Score: 38 | Comments: 31 | Posted by csuwldcat",
+      "url": "https://backalleycoder.com/posts/passseeds-an-experiment-in-hijacking-passkeys-to-unlock-cryptographic-use-cases/",
+      "publishedAt": "2026-01-07T00:50:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "csuwldcat",
+      "tags": []
+    },
+    {
+      "id": "klh8wi",
+      "title": "We recreated Steve Jobs's 1975 Atari horoscope program",
+      "description": "Score: 41 | Comments: 8 | Posted by ptorrone",
+      "url": "https://blog.adafruit.com/2026/01/06/we-recreated-steve-jobss-1975-atari-horoscope-program-and-you-can-run-it/",
+      "publishedAt": "2026-01-07T00:44:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ptorrone",
+      "tags": []
+    },
+    {
+      "id": "ak86hl",
+      "title": "Electronic nose for indoor mold detection and identification",
+      "description": "Score: 69 | Comments: 38 | Posted by PaulHoule",
+      "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adsr.202500124",
+      "publishedAt": "2026-01-07T00:31:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "PaulHoule",
+      "tags": []
+    },
+    {
+      "id": "8rvvil",
+      "title": "Show HN: SMTP Tunnel – A SOCKS5 proxy disguised as email traffic to bypass DPI",
+      "description": "Score: 20 | Comments: 11 | Posted by lobito25",
+      "url": "https://github.com/x011/smtp-tunnel-proxy",
+      "publishedAt": "2026-01-07T00:30:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lobito25",
+      "tags": []
+    },
+    {
+      "id": "7jeiap",
+      "title": "Why the trans flag emoji is the 5-codepoint sequence it is",
+      "description": "Score: 118 | Comments: 43 | Posted by todsacerdoti",
+      "url": "https://hecate.pink/blog/2026/trans-flag-emoji/",
+      "publishedAt": "2026-01-07T00:22:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "lm345q",
+      "title": "JavaScript Analyzer – Burp Suite Extension",
+      "description": "Score: 12 | Comments: 0 | Posted by handfuloflight",
+      "url": "https://github.com/jenish-sojitra/JSAnalyzer",
+      "publishedAt": "2026-01-07T00:12:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "handfuloflight",
+      "tags": []
+    }
+  ]
+}

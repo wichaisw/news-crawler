@@ -1,0 +1,28 @@
+{
+  "date": "2026-01-07",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3080615",
+      "title": "McKinsey and General Catalyst execs say the era of ‘learn once, work forever’ is over",
+      "description": "Calacanis, General Catalyst's Taneja, and McKinsey's Sternfels discussed how AI is reshaping technology and the labor force.",
+      "url": "https://techcrunch.com/2026/01/06/mckinsey-and-general-catalyst-execs-say-the-era-of-learn-once-work-forever-is-over/",
+      "publishedAt": "2026-01-07T03:09:04.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Marina Temkin",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3080617",
+      "title": "Meta’s Manus news is getting different receptions in Washington and Beijing",
+      "description": "Chinese officials are reportedly reviewing whether the Meta deal violates technology export controls, potentially giving Beijing leverage it wasn't",
+      "url": "https://techcrunch.com/2026/01/06/metas-manus-news-is-getting-different-receptions-in-washington-and-beijing/",
+      "publishedAt": "2026-01-07T02:52:57.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Connie Loizos",
+      "tags": []
+    }
+  ]
+}

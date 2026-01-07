@@ -3,6 +3,39 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "g4otp1",
+      "title": "XPER on the Commodore 64",
+      "description": "Score: 34 | Comments: 3 | Posted by ChristopherDrum",
+      "url": "https://stonetools.ghost.io/xper-c64/",
+      "publishedAt": "2026-01-02T23:53:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ChristopherDrum",
+      "tags": []
+    },
+    {
+      "id": "fvmo5",
+      "title": "The Agentic Self: Parallels Between AI and Self-Improvement",
+      "description": "Score: 18 | Comments: 6 | Posted by zdw",
+      "url": "http://muratbuffalo.blogspot.com/2026/01/the-agentic-self-parallels-between-ai.html",
+      "publishedAt": "2026-01-02T23:47:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "ntj0c6",
+      "title": "How HTML changes in ePub",
+      "description": "Score: 66 | Comments: 23 | Posted by raybb",
+      "url": "https://www.htmhell.dev/adventcalendar/2025/11/",
+      "publishedAt": "2026-01-02T23:11:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "raybb",
+      "tags": []
+    },
+    {
       "id": "2q3ciq",
       "title": "The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks (2018)",
       "description": "Score: 79 | Comments: 18 | Posted by felineflock",
@@ -33,6 +66,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "simonw",
+      "tags": []
+    },
+    {
+      "id": "55y4i0",
+      "title": "The creator of Claude Code's Claude setup",
+      "description": "Score: 144 | Comments: 51 | Posted by KothuRoti",
+      "url": "https://twitter.com/bcherny/status/2007179832300581177",
+      "publishedAt": "2026-01-02T22:07:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "KothuRoti",
       "tags": []
     },
     {
@@ -179,6 +223,17 @@
       "tags": []
     },
     {
+      "id": "y1p3kd",
+      "title": "I wanted a camera that doesn't exist, so I built it",
+      "description": "Score: 315 | Comments: 102 | Posted by cyrc",
+      "url": "https://medium.com/@cristi.baluta/i-wanted-a-camera-that-doesnt-exist-so-i-built-it-5f9864533eb7",
+      "publishedAt": "2026-01-02T17:04:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cyrc",
+      "tags": []
+    },
+    {
       "id": "5spurr",
       "title": "The rsync algorithm (1996) [pdf]",
       "description": "Score: 105 | Comments: 12 | Posted by vortex_ape",
@@ -253,6 +308,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "beasthacker",
+      "tags": []
+    },
+    {
+      "id": "gvmu1g",
+      "title": "Repair a ship’s hull still in the river in -50˚C (2022)",
+      "description": "Score: 215 | Comments: 54 | Posted by aziaziazi",
+      "url": "https://eugene.kaspersky.com/2022/04/26/how-to-repair-the-underside-of-a-ships-hull-still-in-the-river-in-50%CB%9Ac-yakutsk/",
+      "publishedAt": "2026-01-02T13:21:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "aziaziazi",
       "tags": []
     },
     {

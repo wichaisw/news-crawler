@@ -1,0 +1,126 @@
+{
+  "date": "2026-01-07",
+  "source": "theverge",
+  "articles": [
+    {
+      "id": "gr6lyk",
+      "title": "Intel is planning a custom Panther Lake CPU for handheld PCs",
+      "description": "Intel announced yesterday that it's developing an entire \"handheld gaming platform\" powered by its new Panther Lake chips, and joining an increasingly competitive field. Qualcomm is hinting about potential Windows gaming handhelds showing up at the Game Developers Conference in March, and AMD's new Strix Halo chips could lead to more powerful handhelds. According to [&#8230;]",
+      "url": "https://www.theverge.com/tech/857252/intel-handheld-gaming-pc-panther-lake-custom-cpu",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/videoframe_1311970.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-01-07T03:16:58.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Jay Peters",
+      "tags": []
+    },
+    {
+      "id": "ckwzwp",
+      "title": "Lenovo is building an AI assistant that ‘can act on your behalf’",
+      "description": "While most attention in the AI race is focused on model builders and cloud platforms, Lenovo sits closer to millions of users than most companies. As the world's top PC maker by volume, Lenovo ships tens of millions of devices every year. What it decides to ship, bundle, and integrate can directly shape how AI [&#8230;]",
+      "url": "https://www.theverge.com/column/857053/lenovo-ai-assistant-qira",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/374.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-01-07T02:30:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Alex Heath",
+      "tags": []
+    },
+    {
+      "id": "k1e9wn",
+      "title": "Samsung and Intel's OLED tech makes HDR easier on laptop battery life",
+      "description": "Samsung Display and Intel have teamed up on laptop technology called SmartPower HDR that they claim can minimize power usage while you're watching HDR content on an OLED screen. Intel showed off this technology last year, but Samsung Display is sharing details about how it works and the power savings you might expect. However, the [&#8230;]",
+      "url": "https://www.theverge.com/news/857229/samsung-display-intel-oled-smartpower-hdr",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/ibld4nq4jb_20260106184208.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-01-07T01:06:12.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Jay Peters",
+      "tags": []
+    },
+    {
+      "id": "egp1ar",
+      "title": "Motorola’s latest smartwatch promises 13-day battery life and Polar-powered health tracking",
+      "description": "At CES, Motorola announced its latest smartwatch, the Moto Watch. According to Motorola, the Android watch offers up to 13 days of battery life, alongside Polar-powered health tracking, open-source software, and dual-frequency GPS - a combination that helps set it apart from Apple's and Google's flagship wearables. Battery life is easily its most notable feature. [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/851643/moto-watch-android-smarwatch-ces-2026",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/moto-watch-Lifestyle-Image-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-01-07T01:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Sheena Vasani",
+      "tags": []
+    },
+    {
+      "id": "z70ulg",
+      "title": "Lenovo’s Auto Twist laptop is going from concept to real product",
+      "description": "At CES 2026, Lenovo is announcing a new ThinkBook Plus Gen 7 Auto Twist laptop. Once a concept, the 14-inch thin-and-light sports a motorized pivoting hinge, allowing it to twist and angle its screen toward you. It can be manually controlled, but the real trick is tracking your head and automatically adjusting to your position [&#8230;]",
+      "url": "https://www.theverge.com/news/852251/lenovos-auto-twist-laptop-is-going-from-concept-to-real-product",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/258166_Lenovo_ThinkBook_Plus_Gen7_Auto_Twist_laptop_CES_2026_ADiBenedetto_0003.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-01-07T01:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Antonio G. Di Benedetto",
+      "tags": []
+    },
+    {
+      "id": "iozaz7",
+      "title": "The new Lenovo Yoga Pro 9i laptop has a super-bright tandem OLED and magnetic stylus",
+      "description": "Lenovo's new pair of Yoga laptops for CES 2026 are its most powerful and most lightweight models. The flagship Yoga Pro 9i is a creator-focused laptop with a 16-inch 4K tandem OLED reaching 1,600 peak nits of brightness, Intel Panther Lake processor options, and up to an RTX 5070 for a discrete GPU. It also [&#8230;]",
+      "url": "https://www.theverge.com/news/852276/the-new-lenovo-yoga-pro-9i-laptop-has-a-super-bright-tandem-oled-and-magnetic-stylus",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/258166_Lenovo_Yoga_Pro_9i_16_laptop_CES_2026_ADiBenedetto_0007.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-01-07T01:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Antonio G. Di Benedetto",
+      "tags": []
+    },
+    {
+      "id": "hu67ck",
+      "title": "Lenovo's new concept rollable could be the ideal gaming laptop",
+      "description": "Lenovo is at it again with wild laptop concepts for CES 2026, and the biggest one is the Legion Pro Rollable gaming laptop. It has a flexible OLED display that expands horizontally - as opposed to Lenovo's ThinkBook Plus Gen 6, which rolls up and down. The Legion Pro Rollable's screen goes from a conventional [&#8230;]",
+      "url": "https://www.theverge.com/tech/852352/lenovo-legion-pro-rollable-gaming-laptop-concept-ces-2026",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/268236_Lenovo_Legion_Pro_Rollable_gaming_laptop_concept_CES2026_ADiBenedetto_0005.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-01-07T01:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Antonio G. Di Benedetto",
+      "tags": []
+    },
+    {
+      "id": "duxsi7",
+      "title": "This ThinkPad laptop concept has a rollable display that wraps around its lid",
+      "description": "At CES 2026, Lenovo is announcing yet another new concept laptop with a transforming screen: the ThinkPad Rollable XD Concept. It's a ThinkPad, complete with its iconic red TrackPoint nub, but it features a flexible OLED display that wraps around to the outer part of its lid. Slide your finger along the folded spin of [&#8230;]",
+      "url": "https://www.theverge.com/news/852482/lenovo-thinkpad-rollable-xd-concept-laptop-ces-2026",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/258166_Lenovo_ThinkPad_Rollable_XD_Concept_laptop_CES_2026_ADiBenedetto_0012.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-01-07T01:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Antonio G. Di Benedetto",
+      "tags": []
+    },
+    {
+      "id": "55qxpu",
+      "title": "Lenovo’s new All-in-One PC can sync its lighting to your notifications",
+      "description": "If you prefer to have your notifications on silent but don't want to miss anything, Lenovo's new All-in-One (AIO) PC might have a solution. The Yoga AIO i Aura Edition unveiled today at CES features a major design overhaul with a transparent light bar at the bottom of the display. The customizable ambient lighting can [&#8230;]",
+      "url": "https://www.theverge.com/news/852860/lenovo-yoga-aio-i-aura-edition-ces-2026",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/258166_Lenovo_Yoga_AIO_i_desktop_CES_2026_ADiBenedetto_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-01-07T01:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Stevie Bonifield",
+      "tags": []
+    },
+    {
+      "id": "qs8d5t",
+      "title": "Lenovo’s joining the bandwagon with concept AI glasses",
+      "description": "Lenovo is the latest tech company to get bit by the smart glasses bug. The company just showed off a pair of concept AI glasses at CES 2026. While these weren't a working prototype, we have some idea of where Lenovo's head is at. The lightweight frames weigh about 45g and have a 2MP camera [&#8230;]",
+      "url": "https://www.theverge.com/tech/853434/ces-2026-lenovo-concept-ai-glasses-wearables",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/258166_Lenovo_AI_Glasses_Concept_CES_2026_ADiBenedetto_0002.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-01-07T01:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Victoria Song",
+      "tags": []
+    }
+  ]
+}

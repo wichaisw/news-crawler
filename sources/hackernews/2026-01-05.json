@@ -179,6 +179,17 @@
       "tags": []
     },
     {
+      "id": "dlqjcw",
+      "title": "Show HN: Make audio loops online",
+      "description": "Score: 20 | Comments: 5 | Posted by bilalba",
+      "url": "https://makeloops.online/",
+      "publishedAt": "2026-01-05T17:54:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bilalba",
+      "tags": []
+    },
+    {
       "id": "xtz4ds",
       "title": "Brave overhauled its Rust adblock engine with FlatBuffers, cutting memory 75%",
       "description": "Score: 256 | Comments: 119 | Posted by skaul",
@@ -341,6 +352,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "KnuthIsGod",
+      "tags": []
+    },
+    {
+      "id": "pu1pdn",
+      "title": "The Manifold Mind of Saul Bellow",
+      "description": "Score: 12 | Comments: 1 | Posted by samclemens",
+      "url": "https://www.metropolitanreview.org/p/the-manifold-mind-of-saul-bellow",
+      "publishedAt": "2026-01-05T04:52:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "samclemens",
       "tags": []
     },
     {
