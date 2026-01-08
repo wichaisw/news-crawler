@@ -1,0 +1,127 @@
+{
+  "date": "2026-01-08",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "3vsr4x",
+      "title": "Project Patchouli: Open-source electromagnetic drawing tablet hardwarepatchouli.readthedocs.io",
+      "description": "Score: 24 | Comments: 0 | Posted by ffin",
+      "url": "https://patchouli.readthedocs.io/en/latest/",
+      "publishedAt": "2026-01-08T05:20:42.424Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ffin",
+      "tags": []
+    },
+    {
+      "id": "3vsr4x",
+      "title": "Project Patchouli: Open-source electromagnetic drawing tablet hardware",
+      "description": "Score: 24 | Comments: 0 | Posted by ffin",
+      "url": "https://patchouli.readthedocs.io/en/latest/",
+      "publishedAt": "2026-01-08T05:20:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ffin",
+      "tags": []
+    },
+    {
+      "id": "2h71l3",
+      "title": "Show HN: Lean4 proof that SSOT requires definition-time hooks and introspection",
+      "description": "Score: 4 | Comments: 0 | Posted by trissim",
+      "url": "https://zenodo.org/records/18177320",
+      "publishedAt": "2026-01-08T05:15:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "trissim",
+      "tags": []
+    },
+    {
+      "id": "akn072",
+      "title": "Go.sum is not a lockfile",
+      "description": "Score: 19 | Comments: 5 | Posted by pabs3",
+      "url": "https://words.filippo.io/gosum/",
+      "publishedAt": "2026-01-08T04:10:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pabs3",
+      "tags": []
+    },
+    {
+      "id": "b0psk9",
+      "title": "Intricuit: A touchscreen add-on for Mac laptops",
+      "description": "Score: 10 | Comments: 2 | Posted by nvahalik",
+      "url": "https://intricuit.com",
+      "publishedAt": "2026-01-08T03:36:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nvahalik",
+      "tags": []
+    },
+    {
+      "id": "g40zmt",
+      "title": "Open Infrastructure Map",
+      "description": "Score: 50 | Comments: 3 | Posted by efskap",
+      "url": "https://openinframap.org",
+      "publishedAt": "2026-01-08T03:31:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "efskap",
+      "tags": []
+    },
+    {
+      "id": "h8thqa",
+      "title": "Chase to become new issuer of Apple Card",
+      "description": "Score: 72 | Comments: 38 | Posted by vismit2000",
+      "url": "https://www.jpmorganchase.com/ir/news/2026/chase-to-become-new-issuer-of-apple-card",
+      "publishedAt": "2026-01-08T03:29:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vismit2000",
+      "tags": []
+    },
+    {
+      "id": "bpeh3a",
+      "title": "Kernel bugs hide for 2 years on average. Some hide for 20",
+      "description": "Score: 106 | Comments: 41 | Posted by kmavm",
+      "url": "https://pebblebed.com/blog/kernel-bugs",
+      "publishedAt": "2026-01-08T02:18:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kmavm",
+      "tags": []
+    },
+    {
+      "id": "6nkkne",
+      "title": "Musashi: Motorola 680x0 emulator written in C",
+      "description": "Score: 46 | Comments: 2 | Posted by doener",
+      "url": "https://github.com/kstenerud/Musashi",
+      "publishedAt": "2026-01-08T00:51:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "doener",
+      "tags": []
+    },
+    {
+      "id": "hwr2xm",
+      "title": "The virtual AmigaOS runtime (a.k.a. Wine for Amiga:)",
+      "description": "Score: 38 | Comments: 5 | Posted by doener",
+      "url": "https://github.com/cnvogelg/amitools/blob/main/docs/vamos.md",
+      "publishedAt": "2026-01-08T00:48:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "doener",
+      "tags": []
+    },
+    {
+      "id": "wrze16",
+      "title": "Fighting back against biometric surveillance at Wegmans",
+      "description": "Score: 183 | Comments: 128 | Posted by ptorrone",
+      "url": "https://blog.adafruit.com/2026/01/07/dont-let-the-grocery-store-scan-your-face-a-guide-to-fighting-back-against-biometric-surveillance-at-wegmans/",
+      "publishedAt": "2026-01-08T00:48:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ptorrone",
+      "tags": []
+    }
+  ]
+}

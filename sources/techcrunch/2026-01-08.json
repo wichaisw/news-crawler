@@ -1,0 +1,39 @@
+{
+  "date": "2026-01-08",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3081064",
+      "title": "Waymo is rebranding its Zeekr robotaxi",
+      "description": "It sounds like \"Oh hi.\"",
+      "url": "https://techcrunch.com/2026/01/07/waymo-is-rebranding-its-zeekr-robotaxi/",
+      "publishedAt": "2026-01-08T02:43:12.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Kirsten Korosec",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3081070",
+      "title": "Google and Character.AI negotiate first major settlements in teen chatbot death cases",
+      "description": "The settlements are among the first tied to lawsuits accusing AI companies of harming users.",
+      "url": "https://techcrunch.com/2026/01/07/google-and-character-ai-negotiate-first-major-settlements-in-teen-chatbot-death-cases/",
+      "publishedAt": "2026-01-08T01:32:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Connie Loizos",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3080938",
+      "title": "Ford has an AI assistant and new hands-free BlueCruise tech on the way",
+      "description": "Ford says the new generation of BlueCruise will be 30% cheaper to build than the current technology.",
+      "url": "https://techcrunch.com/2026/01/07/ford-has-an-ai-assistant-and-new-hands-free-bluecruise-tech-on-the-way/",
+      "publishedAt": "2026-01-08T00:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sean O'Kane",
+      "tags": []
+    }
+  ]
+}

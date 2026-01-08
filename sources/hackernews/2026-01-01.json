@@ -146,6 +146,17 @@
       "tags": []
     },
     {
+      "id": "741hdp",
+      "title": "Michel Siffre’s self-experiments in a cave with no light (2018)",
+      "description": "Score: 46 | Comments: 5 | Posted by Anon84",
+      "url": "https://www.newscientist.com/article/mg23931900-400-this-man-spent-months-alone-underground-and-it-warped-his-mind/",
+      "publishedAt": "2026-01-01T18:07:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Anon84",
+      "tags": []
+    },
+    {
       "id": "tu2vua",
       "title": "Memory Subsystem Optimizations",
       "description": "Score: 43 | Comments: 12 | Posted by mfiguiere",
@@ -242,6 +253,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "butanyways",
+      "tags": []
+    },
+    {
+      "id": "vmtrmn",
+      "title": "We found cryptography bugs in the elliptic library using Wycheproof",
+      "description": "Score: 82 | Comments: 8 | Posted by crescit_eundo",
+      "url": "https://blog.trailofbits.com/2025/11/18/we-found-cryptography-bugs-in-the-elliptic-library-using-wycheproof/",
+      "publishedAt": "2026-01-01T14:52:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "crescit_eundo",
       "tags": []
     },
     {
