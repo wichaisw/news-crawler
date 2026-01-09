@@ -201,6 +201,17 @@
       "tags": []
     },
     {
+      "id": "fdho1f",
+      "title": "Recent Optimizations in Python's Reference Counting",
+      "description": "Score: 16 | Comments: 4 | Posted by f311a",
+      "url": "https://rushter.com/blog/python-refcount/",
+      "publishedAt": "2026-01-04T16:45:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "f311a",
+      "tags": []
+    },
+    {
       "id": "dd8pu1",
       "title": "Lessons from 14 years at Googleaddyosmani.com",
       "description": "Score: 1036 | Comments: 456 | Posted by cdrnsf",
@@ -209,6 +220,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "cdrnsf",
+      "tags": []
+    },
+    {
+      "id": "jlx883",
+      "title": "Hacking a Casio F-91W digital watch (2023)",
+      "description": "Score: 32 | Comments: 7 | Posted by jollyjerry",
+      "url": "https://medium.com/infosec-watchtower/how-i-hacked-casio-f-91w-digital-watch-892bd519bd15",
+      "publishedAt": "2026-01-04T16:05:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jollyjerry",
       "tags": []
     },
     {

@@ -1,0 +1,72 @@
+{
+  "date": "2026-01-09",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "o740yc",
+      "title": "The No Fakes Act Has a \"Fingerprinting\" Trap That Kills Open Source",
+      "description": "Score: 60 | Comments: 8 | Posted by guerrilla",
+      "url": "https://old.reddit.com/r/LocalLLaMA/comments/1q7qcux/the_no_fakes_act_has_a_fingerprinting_trap_that/",
+      "publishedAt": "2026-01-09T05:01:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "guerrilla",
+      "tags": []
+    },
+    {
+      "id": "efbt1f",
+      "title": "Anthropic blocks third-party use of Claude Code subscriptions",
+      "description": "Score: 208 | Comments: 138 | Posted by sergiotapia",
+      "url": "https://github.com/anomalyco/opencode/issues/7410",
+      "publishedAt": "2026-01-09T03:44:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sergiotapia",
+      "tags": []
+    },
+    {
+      "id": "782938",
+      "title": "Is Craigslist the Last Real Place on the Internet?",
+      "description": "Score: 16 | Comments: 4 | Posted by susam",
+      "url": "https://www.wired.com/story/is-craigslist-the-last-real-place-on-the-internet/",
+      "publishedAt": "2026-01-09T03:11:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "susam",
+      "tags": []
+    },
+    {
+      "id": "toa250",
+      "title": "Why I left iNaturalistkueda.net",
+      "description": "Score: 135 | Comments: 54 | Posted by erutuon",
+      "url": "https://kueda.net/blog/2026/01/06/why-i-left-inat/",
+      "publishedAt": "2026-01-09T02:10:47.296Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "erutuon",
+      "tags": []
+    },
+    {
+      "id": "d7dxis",
+      "title": "Logistics Is Dying; Or – Dude, Where's My Mail?",
+      "description": "Score: 29 | Comments: 14 | Posted by ChilledTonic",
+      "url": "https://lagomor.ph/2026/01/logistics-is-dying-or-dude-wheres-my-mail/",
+      "publishedAt": "2026-01-09T01:39:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ChilledTonic",
+      "tags": []
+    },
+    {
+      "id": "toa250",
+      "title": "Why I left iNaturalist",
+      "description": "Score: 136 | Comments: 54 | Posted by erutuon",
+      "url": "https://kueda.net/blog/2026/01/06/why-i-left-inat/",
+      "publishedAt": "2026-01-09T01:17:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "erutuon",
+      "tags": []
+    }
+  ]
+}

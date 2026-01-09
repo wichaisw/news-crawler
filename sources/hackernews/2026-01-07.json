@@ -190,6 +190,17 @@
       "tags": []
     },
     {
+      "id": "h8jtez",
+      "title": "Dell admits consumers don't care about AI PCs",
+      "description": "Score: 479 | Comments: 344 | Posted by mossTechnician",
+      "url": "https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/",
+      "publishedAt": "2026-01-07T15:46:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mossTechnician",
+      "tags": []
+    },
+    {
       "id": "i4vtcj",
       "title": "The Target forensics lab (2024)",
       "description": "Score: 71 | Comments: 111 | Posted by jeromechoo",
@@ -286,6 +297,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "yashsngh",
+      "tags": []
+    },
+    {
+      "id": "kf3dfr",
+      "title": "PgX – Debug Postgres performance in the context of your application code",
+      "description": "Score: 27 | Comments: 9 | Posted by rshetty",
+      "url": "https://docs.base14.io/blog/introducing-pgx/",
+      "publishedAt": "2026-01-07T05:10:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rshetty",
       "tags": []
     },
     {
