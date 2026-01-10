@@ -3,6 +3,292 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "q79cl2",
+      "title": "“Erdos problem #728 was solved more or less autonomously by AI”mathstodon.xyz",
+      "description": "Score: 352 | Comments: 211 | Posted by cod1r",
+      "url": "https://mathstodon.xyz/@tao/115855840223258103",
+      "publishedAt": "2026-01-09T23:09:25.918Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cod1r",
+      "tags": []
+    },
+    {
+      "id": "q79cl2",
+      "title": "“Erdos problem #728 was solved more or less autonomously by AI”",
+      "description": "Score: 352 | Comments: 211 | Posted by cod1r",
+      "url": "https://mathstodon.xyz/@tao/115855840223258103",
+      "publishedAt": "2026-01-09T22:39:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cod1r",
+      "tags": []
+    },
+    {
+      "id": "qlogg",
+      "title": "Start your meetings at 5 minutes past",
+      "description": "Score: 57 | Comments: 70 | Posted by otoolep",
+      "url": "https://philipotoole.com/start-your-meetings-at-5-minutes-past/",
+      "publishedAt": "2026-01-09T22:19:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "otoolep",
+      "tags": []
+    },
+    {
+      "id": "9xfpot",
+      "title": "Deno has made its PyPI distribution official",
+      "description": "Score: 39 | Comments: 24 | Posted by zahlman",
+      "url": "https://github.com/denoland/deno/issues/31254",
+      "publishedAt": "2026-01-09T21:41:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zahlman",
+      "tags": []
+    },
+    {
+      "id": "e1l4r1",
+      "title": "Sigmund Freud's Begonia",
+      "description": "Score: 17 | Comments: 3 | Posted by dang",
+      "url": "https://observer.co.uk/news/first-person/article/emma-freud-sigmund-freuds-begonia",
+      "publishedAt": "2026-01-09T21:27:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dang",
+      "tags": []
+    },
+    {
+      "id": "3tpzx3",
+      "title": "QtNat – Open you port with Qt UPnP",
+      "description": "Score: 41 | Comments: 34 | Posted by jandeboevrie",
+      "url": "http://renaudguezennec.eu/index.php/2026/01/09/qtnat-open-you-port-with-qt/",
+      "publishedAt": "2026-01-09T20:17:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jandeboevrie",
+      "tags": []
+    },
+    {
+      "id": "c2yi4r",
+      "title": "RTX 5090 and Raspberry Pi: Can it game?",
+      "description": "Score: 198 | Comments: 76 | Posted by scottjg",
+      "url": "https://scottjg.com/posts/2026-01-08-crappy-computer-showdown/",
+      "publishedAt": "2026-01-09T19:33:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "scottjg",
+      "tags": []
+    },
+    {
+      "id": "ipkczr",
+      "title": "Show HN: Rocket Launch and Orbit Simulator",
+      "description": "Score: 116 | Comments: 34 | Posted by donutthejedi",
+      "url": "https://www.donutthejedi.com/",
+      "publishedAt": "2026-01-09T19:15:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "donutthejedi",
+      "tags": []
+    },
+    {
+      "id": "dfxlca",
+      "title": "Show HN: EuConform – Offline-first EU AI Act compliance tool (open source)",
+      "description": "Score: 57 | Comments: 34 | Posted by hiepler",
+      "url": "https://github.com/Hiepler/EuConform",
+      "publishedAt": "2026-01-09T19:11:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hiepler",
+      "tags": []
+    },
+    {
+      "id": "d18rc3",
+      "title": "JavaScript Demos in 140 Characters",
+      "description": "Score: 223 | Comments: 49 | Posted by themanmaran",
+      "url": "https://beta.dwitter.net",
+      "publishedAt": "2026-01-09T18:48:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "themanmaran",
+      "tags": []
+    },
+    {
+      "id": "3904xa",
+      "title": "Turn a single image into a navigable 3D Gaussian Splat with depth",
+      "description": "Score: 65 | Comments: 38 | Posted by ytpete",
+      "url": "https://lab.revelium.studio/ml-sharp",
+      "publishedAt": "2026-01-09T18:38:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ytpete",
+      "tags": []
+    },
+    {
+      "id": "pscd95",
+      "title": "Exercise can be nearly as effective as therapy for depression",
+      "description": "Score: 329 | Comments: 261 | Posted by mustaphah",
+      "url": "https://www.sciencedaily.com/releases/2026/01/260107225516.htm",
+      "publishedAt": "2026-01-09T18:29:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mustaphah",
+      "tags": []
+    },
+    {
+      "id": "pg6d3j",
+      "title": "My article on why AI is great (or terrible) or how to use it",
+      "description": "Score: 97 | Comments: 141 | Posted by akshayka",
+      "url": "https://matthewrocklin.com/ai-zealotry/",
+      "publishedAt": "2026-01-09T18:17:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "akshayka",
+      "tags": []
+    },
+    {
+      "id": "ol37tq",
+      "title": "Show HN: Scroll Wikipedia like TikTok",
+      "description": "Score: 203 | Comments: 53 | Posted by sdan",
+      "url": "https://quack.sdan.io",
+      "publishedAt": "2026-01-09T18:15:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sdan",
+      "tags": []
+    },
+    {
+      "id": "uiv7po",
+      "title": "How Markdown took over the world",
+      "description": "Score: 208 | Comments: 162 | Posted by zdw",
+      "url": "https://www.anildash.com/2026/01/09/how-markdown-took-over-the-world/",
+      "publishedAt": "2026-01-09T17:52:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "um16o9",
+      "title": "Show HN: I made a memory game to teach you to play piano by ear",
+      "description": "Score: 445 | Comments: 162 | Posted by vunderba",
+      "url": "https://lend-me-your-ears.specr.net",
+      "publishedAt": "2026-01-09T17:17:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vunderba",
+      "tags": []
+    },
+    {
+      "id": "5c925q",
+      "title": "Flock Hardcoded the Password for America's Surveillance Infrastructure 53 Timesnexanet.ai",
+      "description": "Score: 382 | Comments: 125 | Posted by fuck_flock",
+      "url": "https://nexanet.ai/blog/53-times-flocksafety-hardcoded-the-password-for-americas-surveillance-infrastructure",
+      "publishedAt": "2026-01-09T17:09:25.922Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fuck_flock",
+      "tags": []
+    },
+    {
+      "id": "xoz10",
+      "title": "The Vietnam government has banned rooted phones from using any banking app",
+      "description": "Score: 470 | Comments: 555 | Posted by Magnusmaster",
+      "url": "https://xdaforums.com/t/discussion-the-root-and-mod-hiding-fingerprint-spoofing-keybox-stealing-cat-and-mouse-game.4425939/page-118",
+      "publishedAt": "2026-01-09T17:00:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Magnusmaster",
+      "tags": []
+    },
+    {
+      "id": "5c925q",
+      "title": "Flock Hardcoded the Password for America's Surveillance Infrastructure 53 Times",
+      "description": "Score: 382 | Comments: 125 | Posted by fuck_flock",
+      "url": "https://nexanet.ai/blog/53-times-flocksafety-hardcoded-the-password-for-americas-surveillance-infrastructure",
+      "publishedAt": "2026-01-09T16:49:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fuck_flock",
+      "tags": []
+    },
+    {
+      "id": "i2g1gu",
+      "title": "Cloudflare CEO on the Italy fines",
+      "description": "Score: 462 | Comments: 659 | Posted by sidcool",
+      "url": "https://twitter.com/eastdakota/status/2009654937303896492",
+      "publishedAt": "2026-01-09T16:46:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sidcool",
+      "tags": []
+    },
+    {
+      "id": "lze8ta",
+      "title": "SendGrid isn’t emailing about ICE or BLM – it’s a phishing attack",
+      "description": "Score: 180 | Comments: 123 | Posted by mecredis",
+      "url": "https://fredbenenson.com/blog/2026/01/09/sendgrid-isnt-emailing-you-about-ice-or-blm-its-a-phishing-attack/",
+      "publishedAt": "2026-01-09T16:36:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mecredis",
+      "tags": []
+    },
+    {
+      "id": "kwhx7",
+      "title": "Amiga Pointer Archive",
+      "description": "Score: 48 | Comments: 16 | Posted by erickhill",
+      "url": "https://heckmeck.de/pointers/",
+      "publishedAt": "2026-01-09T15:29:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "erickhill",
+      "tags": []
+    },
+    {
+      "id": "amljiz",
+      "title": "How to store a chess position in 26 bytes (2022)",
+      "description": "Score: 89 | Comments: 78 | Posted by kurinikku",
+      "url": "https://ezzeriesa.notion.site/How-to-store-a-chess-position-in-26-bytes-using-bit-level-magic-df1fdb5364eb42fdac11eb23b25e9605",
+      "publishedAt": "2026-01-09T15:07:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kurinikku",
+      "tags": []
+    },
+    {
+      "id": "kvheul",
+      "title": "London–Calcutta bus service",
+      "description": "Score: 330 | Comments: 165 | Posted by thunderbong",
+      "url": "https://en.wikipedia.org/wiki/London%E2%80%93Calcutta_bus_service",
+      "publishedAt": "2026-01-09T14:50:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thunderbong",
+      "tags": []
+    },
+    {
+      "id": "ixtsth",
+      "title": "Kagi releases alpha version of Orion for Linux",
+      "description": "Score: 368 | Comments: 255 | Posted by HelloUsername",
+      "url": "https://help.kagi.com/orion/misc/linux-status.html",
+      "publishedAt": "2026-01-09T12:54:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "HelloUsername",
+      "tags": []
+    },
+    {
+      "id": "87pmuk",
+      "title": "Agonist-Antagonist Myoneural Interface",
+      "description": "Score: 33 | Comments: 2 | Posted by kaycebasques",
+      "url": "https://www.media.mit.edu/projects/agonist-antagonist-myoneural-interface-ami/overview/",
+      "publishedAt": "2026-01-09T05:44:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kaycebasques",
+      "tags": []
+    },
+    {
       "id": "o740yc",
       "title": "The No Fakes Act Has a \"Fingerprinting\" Trap That Kills Open Source",
       "description": "Score: 60 | Comments: 8 | Posted by guerrilla",
@@ -36,6 +322,17 @@
       "tags": []
     },
     {
+      "id": "umcfui",
+      "title": "Show HN: Various shape regularization algorithms",
+      "description": "Score: 56 | Comments: 4 | Posted by nickponline",
+      "url": "https://github.com/nickponline/shreg",
+      "publishedAt": "2026-01-09T02:13:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nickponline",
+      "tags": []
+    },
+    {
       "id": "toa250",
       "title": "Why I left iNaturalistkueda.net",
       "description": "Score: 135 | Comments: 54 | Posted by erutuon",
@@ -44,6 +341,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "erutuon",
+      "tags": []
+    },
+    {
+      "id": "engxpj",
+      "title": "Show HN: A website that auctions itself daily",
+      "description": "Score: 30 | Comments: 11 | Posted by nsomani",
+      "url": "https://www.thedailyauction.com/",
+      "publishedAt": "2026-01-09T01:59:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nsomani",
       "tags": []
     },
     {

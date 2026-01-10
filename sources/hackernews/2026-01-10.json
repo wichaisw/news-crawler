@@ -1,0 +1,72 @@
+{
+  "date": "2026-01-10",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "as04yg",
+      "title": "You probably don't need Oh My Zshrushter.com",
+      "description": "Score: 76 | Comments: 50 | Posted by fla",
+      "url": "https://rushter.com/blog/zsh-shell/",
+      "publishedAt": "2026-01-10T05:09:25.919Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fla",
+      "tags": []
+    },
+    {
+      "id": "as04yg",
+      "title": "You probably don't need Oh My Zsh",
+      "description": "Score: 78 | Comments: 53 | Posted by fla",
+      "url": "https://rushter.com/blog/zsh-shell/",
+      "publishedAt": "2026-01-10T04:35:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fla",
+      "tags": []
+    },
+    {
+      "id": "cfal0y",
+      "title": "Microsoft revealed as company behind controversial data center proposal in MI",
+      "description": "Score: 15 | Comments: 0 | Posted by 1vuio0pswjnm7",
+      "url": "https://www.cnbc.com/2026/01/07/microsoft-behind-controversial-data-center-in-michigan-township.html",
+      "publishedAt": "2026-01-10T03:55:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "1vuio0pswjnm7",
+      "tags": []
+    },
+    {
+      "id": "uwo8cq",
+      "title": "OLED, Not for Me",
+      "description": "Score: 49 | Comments: 43 | Posted by c0nsumer",
+      "url": "https://nuxx.net/blog/2026/01/09/oled-not-for-me/",
+      "publishedAt": "2026-01-10T03:52:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "c0nsumer",
+      "tags": []
+    },
+    {
+      "id": "fcxlrw",
+      "title": "Maine's black market for baby eels",
+      "description": "Score: 17 | Comments: 5 | Posted by noleary",
+      "url": "https://www.pressherald.com/2025/09/09/maines-black-market-for-baby-eels-is-spawning-a-crime-thriller-subgenre/",
+      "publishedAt": "2026-01-10T02:56:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "noleary",
+      "tags": []
+    },
+    {
+      "id": "mpmfag",
+      "title": "See it with your lying ears",
+      "description": "Score: 43 | Comments: 5 | Posted by fratellobigio",
+      "url": "https://lcamtuf.substack.com/p/see-it-with-your-lying-ears",
+      "publishedAt": "2026-01-10T00:23:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fratellobigio",
+      "tags": []
+    }
+  ]
+}

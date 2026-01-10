@@ -223,6 +223,17 @@
       "tags": []
     },
     {
+      "id": "k1ricw",
+      "title": "Show HN: Repogen – a static site generator for package repositories",
+      "description": "Score: 24 | Comments: 3 | Posted by tlar",
+      "url": "https://github.com/ralt/repogen",
+      "publishedAt": "2026-01-06T16:36:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tlar",
+      "tags": []
+    },
+    {
       "id": "h7jlpa",
       "title": "The 5 Knights of the MCP Apocalypse",
       "description": "Score: 3 | Comments: 0 | Posted by saikatsg",
@@ -264,6 +275,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "marcoaapfortes",
+      "tags": []
+    },
+    {
+      "id": "bg41t5",
+      "title": "Show HN: Similarity = cosine(your_GitHub_stars, Karpathy) Client-side",
+      "description": "Score: 130 | Comments: 36 | Posted by puzer",
+      "url": "https://puzer.github.io/github_recommender/",
+      "publishedAt": "2026-01-06T13:23:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "puzer",
+      "tags": []
+    },
+    {
+      "id": "x93mj7",
+      "title": "Greenland sharks maintain vision for centuries through DNA repair mechanism",
+      "description": "Score: 48 | Comments: 10 | Posted by pseudolus",
+      "url": "https://phys.org/news/2026-01-eye-greenland-sharks-vision-centuries.html",
+      "publishedAt": "2026-01-06T12:44:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pseudolus",
       "tags": []
     },
     {
