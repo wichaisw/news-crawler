@@ -3,6 +3,39 @@
   "source": "techcrunch",
   "articles": [
     {
+      "id": "https://techcrunch.com/?p=3081714",
+      "title": "SpaceX gets FCC approval to launch 7,500 more Starlink satellites",
+      "description": "The Federal Communications Commission has given SpaceX approval to launch another 7,500 of its second generation Starlink satellites.",
+      "url": "https://techcrunch.com/2026/01/10/spacex-gets-fcc-approval-to-launch-7500-more-starlink-satellites/",
+      "publishedAt": "2026-01-10T22:11:21.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3081712",
+      "title": "OpenAI is reportedly asking contractors to upload real work from past jobs",
+      "description": "An intellectual property lawyer says OpenAI is \"putting itself at great risk\" with this approach.",
+      "url": "https://techcrunch.com/2026/01/10/openai-is-reportedly-asking-contractors-to-upload-real-work-from-past-jobs/",
+      "publishedAt": "2026-01-10T21:18:29.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3081701",
+      "title": "Indonesia blocks Grok over non-consensual, sexualized deepfakes",
+      "description": "Indonesian officials said Saturday that they are temporarily blocking access to xAI’s chatbot Grok.",
+      "url": "https://techcrunch.com/2026/01/10/indonesia-blocks-grok-over-non-consensual-sexualized-deepfakes/",
+      "publishedAt": "2026-01-10T19:37:54.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
       "id": "https://techcrunch.com/?p=3081298",
       "title": "I met a lot of weird robots at CES — here are the most memorable",
       "description": "If the robots don't always give a totally accurate representation of where commercial deployment is at the moment, they do give visitors a peek at",

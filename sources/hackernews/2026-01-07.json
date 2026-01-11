@@ -289,6 +289,39 @@
       "tags": []
     },
     {
+      "id": "9ru0zn",
+      "title": "CPU Counters on Apple Silicon: article + tool",
+      "description": "Score: 33 | Comments: 0 | Posted by verte_zerg",
+      "url": "https://blog.bugsiki.dev/posts/apple-pmu/",
+      "publishedAt": "2026-01-07T11:39:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "verte_zerg",
+      "tags": []
+    },
+    {
+      "id": "gei2ro",
+      "title": "Httpz – Zero-Allocation HTTP/1.1 Parser for OxCaml",
+      "description": "Score: 79 | Comments: 19 | Posted by noelwelsh",
+      "url": "https://github.com/avsm/httpz",
+      "publishedAt": "2026-01-07T10:02:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "noelwelsh",
+      "tags": []
+    },
+    {
+      "id": "xm757c",
+      "title": "An Experimental Approach to Printf in HLSL",
+      "description": "Score: 8 | Comments: 0 | Posted by ibobev",
+      "url": "https://www.abolishcrlf.org//2025/12/31/Printf.html",
+      "publishedAt": "2026-01-07T09:53:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
+      "tags": []
+    },
+    {
       "id": "nj071t",
       "title": "Changes to Android Open Source Project",
       "description": "Score: 29 | Comments: 10 | Posted by TechTechTech",
@@ -297,6 +330,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "TechTechTech",
+      "tags": []
+    },
+    {
+      "id": "lcoh9l",
+      "title": "Bindless Oriented Graphics Programming",
+      "description": "Score: 44 | Comments: 6 | Posted by ibobev",
+      "url": "https://alextardif.com/BindlessProgramming.html",
+      "publishedAt": "2026-01-07T08:44:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
       "tags": []
     },
     {
@@ -355,6 +399,17 @@
       "tags": []
     },
     {
+      "id": "5ywcm",
+      "title": "A child in the state of nature",
+      "description": "Score: 17 | Comments: 0 | Posted by Caiero",
+      "url": "https://lareviewofbooks.org/article/a-child-in-the-state-of-nature/",
+      "publishedAt": "2026-01-07T03:55:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Caiero",
+      "tags": []
+    },
+    {
       "id": "3g88ku",
       "title": "On the slow death of scaling",
       "description": "Score: 39 | Comments: 5 | Posted by sethbannon",
@@ -385,6 +440,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jasoneckert",
+      "tags": []
+    },
+    {
+      "id": "jsyyeh",
+      "title": "Brands upset Buy For Me is featuring their products on Amazon without permission",
+      "description": "Score: 74 | Comments: 35 | Posted by spenvo",
+      "url": "https://www.modernretail.co/technology/brands-are-upset-that-buy-for-me-is-featuring-their-products-on-amazon-without-permission/",
+      "publishedAt": "2026-01-07T02:32:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "spenvo",
       "tags": []
     },
     {

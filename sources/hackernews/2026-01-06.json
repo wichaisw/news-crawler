@@ -69,6 +69,17 @@
       "tags": []
     },
     {
+      "id": "teycus",
+      "title": "Visual regression tests for personal blogs",
+      "description": "Score: 4 | Comments: 2 | Posted by beingflo",
+      "url": "https://marending.dev/notes/visual-testing/",
+      "publishedAt": "2026-01-06T20:43:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "beingflo",
+      "tags": []
+    },
+    {
       "id": "p73g01",
       "title": "Calling All Hackers: How money works (2024)",
       "description": "Score: 205 | Comments: 132 | Posted by krrishd",
@@ -245,6 +256,17 @@
       "tags": []
     },
     {
+      "id": "bpbcv",
+      "title": "Show HN: mcpc – Universal command-line client for Model Context Protocol (MCP)",
+      "description": "Score: 29 | Comments: 3 | Posted by jancurn",
+      "url": "https://github.com/apify/mcp-cli",
+      "publishedAt": "2026-01-06T15:05:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jancurn",
+      "tags": []
+    },
+    {
       "id": "jznvrb",
       "title": "High-performance header-only container library for C++23 on x86-64",
       "description": "Score: 70 | Comments: 22 | Posted by mattgodbolt",
@@ -253,6 +275,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mattgodbolt",
+      "tags": []
+    },
+    {
+      "id": "3wsafu",
+      "title": "Creating Embroidered Charts with R and ImageMagick",
+      "description": "Score: 78 | Comments: 5 | Posted by speckx",
+      "url": "https://aman.bh/blog/2025/creating-embroidered-charts-with-r-and-imagemagick",
+      "publishedAt": "2026-01-06T14:33:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
       "tags": []
     },
     {

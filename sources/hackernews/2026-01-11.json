@@ -1,0 +1,182 @@
+{
+  "date": "2026-01-11",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "5qddau",
+      "title": "The Concise TypeScript Book",
+      "description": "Score: 4 | Comments: 1 | Posted by javatuts",
+      "url": "https://github.com/gibbok/typescript-book",
+      "publishedAt": "2026-01-11T05:42:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "javatuts",
+      "tags": []
+    },
+    {
+      "id": "cpqw9o",
+      "title": "'The answer cannot be nothing': The battle over Canada's mystery brain diseasebbc.com",
+      "description": "Score: 48 | Comments: 10 | Posted by lewww",
+      "url": "https://www.bbc.com/news/articles/c623r47d67lo",
+      "publishedAt": "2026-01-11T05:09:47.672Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lewww",
+      "tags": []
+    },
+    {
+      "id": "xfmhf4",
+      "title": "My Home Fibre Network Disintegratedalienchow.dev",
+      "description": "Score: 62 | Comments: 37 | Posted by alienchow",
+      "url": "https://alienchow.dev/post/fibre_disintegration/",
+      "publishedAt": "2026-01-11T05:09:47.671Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "alienchow",
+      "tags": []
+    },
+    {
+      "id": "cpqw9o",
+      "title": "'The answer cannot be nothing': The battle over Canada's mystery brain disease",
+      "description": "Score: 50 | Comments: 10 | Posted by lewww",
+      "url": "https://www.bbc.com/news/articles/c623r47d67lo",
+      "publishedAt": "2026-01-11T04:45:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lewww",
+      "tags": []
+    },
+    {
+      "id": "ksie6l",
+      "title": "Ripple: The Elegant TypeScript UI Framework",
+      "description": "Score: 3 | Comments: 2 | Posted by javatuts",
+      "url": "https://jsdev.space/meet-ripple/",
+      "publishedAt": "2026-01-11T04:32:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "javatuts",
+      "tags": []
+    },
+    {
+      "id": "xfmhf4",
+      "title": "My Home Fibre Network Disintegrated",
+      "description": "Score: 61 | Comments: 37 | Posted by alienchow",
+      "url": "https://alienchow.dev/post/fibre_disintegration/",
+      "publishedAt": "2026-01-11T04:19:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "alienchow",
+      "tags": []
+    },
+    {
+      "id": "b9hivm",
+      "title": "Show HN: PrintReadyBook",
+      "description": "Score: 6 | Comments: 0 | Posted by cboulio",
+      "url": "https://printreadybook.com/",
+      "publishedAt": "2026-01-11T03:56:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cboulio",
+      "tags": []
+    },
+    {
+      "id": "ty789o",
+      "title": "Show HN: Umaro – An interactive music theory suite for guitarists",
+      "description": "Score: 4 | Comments: 1 | Posted by SnowingXIV",
+      "url": "https://www.umaro.app/",
+      "publishedAt": "2026-01-11T03:25:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "SnowingXIV",
+      "tags": []
+    },
+    {
+      "id": "9v9gqa",
+      "title": "Workers at Redmond SpaceX lab exposed to toxic chemicals",
+      "description": "Score: 62 | Comments: 5 | Posted by SilverElfin",
+      "url": "https://www.fox13seattle.com/video/fmc-w1ga4pk97gxq0hj5",
+      "publishedAt": "2026-01-11T03:15:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "SilverElfin",
+      "tags": []
+    },
+    {
+      "id": "s3mhbm",
+      "title": "Show HN: VAM Seek – 2D video navigation grid, 15KB, zero server load",
+      "description": "Score: 14 | Comments: 0 | Posted by haasiy",
+      "url": "https://github.com/unhaya/vam-seek",
+      "publishedAt": "2026-01-11T02:57:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "haasiy",
+      "tags": []
+    },
+    {
+      "id": "9cr8rc",
+      "title": "Show HN: Ferrite – Markdown editor in Rust with native Mermaid diagram renderinggithub.com/olaproeis",
+      "description": "Score: 96 | Comments: 33 | Posted by OlaProis",
+      "url": "https://github.com/OlaProeis/Ferrite",
+      "publishedAt": "2026-01-11T02:09:47.672Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "OlaProis",
+      "tags": []
+    },
+    {
+      "id": "rg5ziw",
+      "title": "A Year of Work on the Arch Linux Package Management (ALPM) Project",
+      "description": "Score: 32 | Comments: 0 | Posted by susam",
+      "url": "https://devblog.archlinux.page/2026/a-year-of-work-on-the-alpm-project/",
+      "publishedAt": "2026-01-11T02:08:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "susam",
+      "tags": []
+    },
+    {
+      "id": "idaxix",
+      "title": "Sisyphus Now Lives in Oh My Claude",
+      "description": "Score: 16 | Comments: 11 | Posted by deckardt",
+      "url": "https://github.com/Yeachan-Heo/oh-my-claude-sisyphus",
+      "publishedAt": "2026-01-11T02:00:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "deckardt",
+      "tags": []
+    },
+    {
+      "id": "9cr8rc",
+      "title": "Show HN: Ferrite – Markdown editor in Rust with native Mermaid diagram rendering",
+      "description": "Score: 96 | Comments: 33 | Posted by OlaProis",
+      "url": "https://github.com/OlaProeis/Ferrite",
+      "publishedAt": "2026-01-11T01:50:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "OlaProis",
+      "tags": []
+    },
+    {
+      "id": "f9q7nt",
+      "title": "Kodbox: Open-source cloud desktop with multi-storage fusion and web IDE",
+      "description": "Score: 11 | Comments: 0 | Posted by indigodaddy",
+      "url": "https://github.com/kalcaddle/kodbox",
+      "publishedAt": "2026-01-11T01:12:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "indigodaddy",
+      "tags": []
+    },
+    {
+      "id": "3u5p42",
+      "title": "Bob Weir has died",
+      "description": "Score: 111 | Comments: 18 | Posted by asix66",
+      "url": "https://www.rollingstone.com/music/music-news/bob-weir-grateful-dead-dead-obituary-1234810106/",
+      "publishedAt": "2026-01-11T01:04:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "asix66",
+      "tags": []
+    }
+  ]
+}

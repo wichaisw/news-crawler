@@ -58,6 +58,17 @@
       "tags": []
     },
     {
+      "id": "3zad88",
+      "title": "Side-by-side comparison of how AI models answer moral dilemmas",
+      "description": "Score: 83 | Comments: 56 | Posted by jesenator",
+      "url": "https://civai.org/p/ai-values",
+      "publishedAt": "2026-01-08T21:53:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jesenator",
+      "tags": []
+    },
+    {
       "id": "yp59c7",
       "title": "Richard D. James aka Aphex Twin speaks to Tatsuya Takahashi (2017)",
       "description": "Score: 134 | Comments: 39 | Posted by lelandfe",
@@ -300,6 +311,17 @@
       "tags": []
     },
     {
+      "id": "fyd8l4",
+      "title": "ChatGPT Health is a marketplace, guess who is the product?",
+      "description": "Score: 259 | Comments: 249 | Posted by yoaviram",
+      "url": "https://consciousdigital.org/chatgpt-health-is-a-marketplace-guess-who-is-the-product/",
+      "publishedAt": "2026-01-08T14:40:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "yoaviram",
+      "tags": []
+    },
+    {
       "id": "z6rewu",
       "title": "Show HN: DeepDream for Video with Temporal Consistency",
       "description": "Score: 61 | Comments: 23 | Posted by fruitbarrel",
@@ -322,6 +344,17 @@
       "tags": []
     },
     {
+      "id": "wvzuhh",
+      "title": "ASCII-Driven Development",
+      "description": "Score: 110 | Comments: 71 | Posted by _hfqa",
+      "url": "https://medium.com/@calufa/ascii-driven-development-850f66661351",
+      "publishedAt": "2026-01-08T08:18:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "_hfqa",
+      "tags": []
+    },
+    {
       "id": "one40c",
       "title": "A closer look at a BGP anomaly in Venezuela",
       "description": "Score: 383 | Comments: 207 | Posted by ChrisArchitect",
@@ -330,6 +363,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ChrisArchitect",
+      "tags": []
+    },
+    {
+      "id": "a8bwrm",
+      "title": "How your high school affects your chances of UC Admission",
+      "description": "Score: 76 | Comments: 154 | Posted by mutator",
+      "url": "https://sfeducation.substack.com/p/how-your-high-school-affects-your",
+      "publishedAt": "2026-01-08T06:04:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mutator",
       "tags": []
     },
     {
@@ -462,6 +506,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ptorrone",
+      "tags": []
+    },
+    {
+      "id": "wwm28p",
+      "title": "Distributed Denial of Secrets",
+      "description": "Score: 61 | Comments: 15 | Posted by sabaimran",
+      "url": "https://ddosecrets.com/",
+      "publishedAt": "2026-01-08T00:05:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sabaimran",
       "tags": []
     }
   ]
