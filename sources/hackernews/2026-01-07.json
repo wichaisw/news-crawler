@@ -58,6 +58,17 @@
       "tags": []
     },
     {
+      "id": "ys2khz",
+      "title": "Rare Iron Age war trumpet and boar standard found",
+      "description": "Score: 26 | Comments: 4 | Posted by breve",
+      "url": "https://www.bbc.com/news/articles/cr7jvj8d39eo",
+      "publishedAt": "2026-01-07T20:47:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "breve",
+      "tags": []
+    },
+    {
       "id": "r6uorn",
       "title": "Tailscale state file encryption no longer enabled by default",
       "description": "Score: 263 | Comments: 104 | Posted by traceroute66",
@@ -66,6 +77,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "traceroute66",
+      "tags": []
+    },
+    {
+      "id": "fi9q2m",
+      "title": "A set of Idiomatic prod-grade katas for experienced devs transitioning to Go",
+      "description": "Score: 117 | Comments: 16 | Posted by medunes",
+      "url": "https://github.com/MedUnes/go-kata",
+      "publishedAt": "2026-01-07T19:53:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "medunes",
       "tags": []
     },
     {
@@ -132,6 +154,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "atestu",
+      "tags": []
+    },
+    {
+      "id": "p31ulj",
+      "title": "The Taming of Collection Scans",
+      "description": "Score: 5 | Comments: 0 | Posted by cyndunlop",
+      "url": "https://www.scylladb.com/2026/01/06/the-taming-of-collection-scans/",
+      "publishedAt": "2026-01-07T16:46:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cyndunlop",
       "tags": []
     },
     {
@@ -278,6 +311,17 @@
       "tags": []
     },
     {
+      "id": "qc496q",
+      "title": "Ping: The Secrets of Successful Virtual Communication",
+      "description": "Score: 10 | Comments: 2 | Posted by teleforce",
+      "url": "https://www.penguin.co.uk/books/468218/ping-by-brodsky-andrew/9780241746363",
+      "publishedAt": "2026-01-07T12:33:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "teleforce",
+      "tags": []
+    },
+    {
       "id": "ufw76c",
       "title": "“Stop Designing Languages. Write Libraries Instead” (2016)",
       "description": "Score: 237 | Comments: 216 | Posted by teleforce",
@@ -286,6 +330,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "teleforce",
+      "tags": []
+    },
+    {
+      "id": "h5gjgp",
+      "title": "Elo – A data expression language which compiles to JavaScript, Ruby, and SQL",
+      "description": "Score: 69 | Comments: 10 | Posted by ravenical",
+      "url": "https://elo-lang.org/",
+      "publishedAt": "2026-01-07T11:59:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ravenical",
+      "tags": []
+    },
+    {
+      "id": "3pamd8",
+      "title": "Vojtux – Unofficial Linux Distribution Aimed at Visually Impaired Users",
+      "description": "Score: 118 | Comments: 27 | Posted by TheWiggles",
+      "url": "https://github.com/vojtapolasek/vojtux",
+      "publishedAt": "2026-01-07T11:43:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "TheWiggles",
       "tags": []
     },
     {
@@ -322,6 +388,17 @@
       "tags": []
     },
     {
+      "id": "qnrn07",
+      "title": "I Cannot SSH into My Server Anymore (and That's Fine)",
+      "description": "Score: 95 | Comments: 72 | Posted by TheWiggles",
+      "url": "https://soap.coffee/~lthms/posts/i-cannot-ssh-into-my-server-anymore.html",
+      "publishedAt": "2026-01-07T09:37:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "TheWiggles",
+      "tags": []
+    },
+    {
       "id": "nj071t",
       "title": "Changes to Android Open Source Project",
       "description": "Score: 29 | Comments: 10 | Posted by TechTechTech",
@@ -352,6 +429,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "yashsngh",
+      "tags": []
+    },
+    {
+      "id": "qifgeh",
+      "title": "A Glimpse into DexProtector",
+      "description": "Score: 8 | Comments: 1 | Posted by shelfchair",
+      "url": "https://www.romainthomas.fr/post/26-01-dexprotector/",
+      "publishedAt": "2026-01-07T08:08:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "shelfchair",
       "tags": []
     },
     {

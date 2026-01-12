@@ -1,0 +1,83 @@
+{
+  "date": "2026-01-11",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3081778",
+      "title": "Google co-founders may be leaving California",
+      "description": "Sergey Brin and Larry Page appear to be pulling back from the state where they co-founded Google.",
+      "url": "https://techcrunch.com/2026/01/11/google-co-founders-may-be-pulling-out-of-california/",
+      "publishedAt": "2026-01-11T22:56:58.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3081772",
+      "title": "Instagram says there’s been ‘no breach’ despite password reset requests",
+      "description": "Instagram says that although some users received suspicious-looking password reset requests, it has not been breached.",
+      "url": "https://techcrunch.com/2026/01/11/instagram-says-theres-been-no-breach-despite-password-reset-requests/",
+      "publishedAt": "2026-01-11T22:26:03.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3081746",
+      "title": "Google removes AI Overviews for certain medical queries",
+      "description": "This follows an investigation by the Guardian that found Google AI Overviews offering misleading information in response to some health-related",
+      "url": "https://techcrunch.com/2026/01/11/google-removes-ai-overviews-for-certain-medical-queries/",
+      "publishedAt": "2026-01-11T17:56:41.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3081577",
+      "title": "Nuclear startups are back in vogue with small reactors, and big challenges",
+      "description": "Small modular reactor startups are betting that mass manufacturing will help them bring costs down. But are they underestimating the challenge?",
+      "url": "https://techcrunch.com/2026/01/11/nuclear-startups-are-back-in-vogue-with-small-reactors-and-big-challenges/",
+      "publishedAt": "2026-01-11T16:15:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Tim De Chant",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3081701",
+      "title": "Indonesia and Malaysia block Grok over non-consensual, sexualized deepfakes",
+      "description": "Indonesian officials said Saturday that they are temporarily blocking access to xAI’s chatbot Grok.",
+      "url": "https://techcrunch.com/2026/01/11/indonesia-blocks-grok-over-non-consensual-sexualized-deepfakes/",
+      "publishedAt": "2026-01-11T15:07:49.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3081718",
+      "title": "Wing to expand drone delivery to another 150 Walmart stores",
+      "description": "The partnership will grow Wing's drone delivery service to more than 270 Walmart stores by 2027.",
+      "url": "https://techcrunch.com/2026/01/11/wing-to-expand-drone-delivery-to-another-150-walmart-stores/",
+      "publishedAt": "2026-01-11T15:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Kirsten Korosec",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3081720",
+      "title": "Google announces a new protocol to facilitate commerce using AI agents",
+      "description": "Google said that merchants can now offer discounts to users directly in AI mode results",
+      "url": "https://techcrunch.com/2026/01/11/google-announces-a-new-protocol-to-facilitate-commerce-using-ai-agents/",
+      "publishedAt": "2026-01-11T15:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Ivan Mehta",
+      "tags": []
+    }
+  ]
+}

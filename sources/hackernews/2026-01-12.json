@@ -1,0 +1,105 @@
+{
+  "date": "2026-01-12",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "t4kiyu",
+      "title": "XFCE Is Greatrubenerd.com",
+      "description": "Score: 61 | Comments: 32 | Posted by mikece",
+      "url": "https://rubenerd.com/xfce-is-great/",
+      "publishedAt": "2026-01-12T05:12:21.436Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mikece",
+      "tags": []
+    },
+    {
+      "id": "t4kiyu",
+      "title": "XFCE Is Great",
+      "description": "Score: 64 | Comments: 33 | Posted by mikece",
+      "url": "https://rubenerd.com/xfce-is-great/",
+      "publishedAt": "2026-01-12T04:39:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mikece",
+      "tags": []
+    },
+    {
+      "id": "chf5hn",
+      "title": "Show HN: An LLM-optimized programming language",
+      "description": "Score: 19 | Comments: 6 | Posted by ImJasonH",
+      "url": "https://github.com/ImJasonH/ImJasonH/blob/main/articles/llm-programming-language.md",
+      "publishedAt": "2026-01-12T03:11:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ImJasonH",
+      "tags": []
+    },
+    {
+      "id": "xg2cd1",
+      "title": "Himalayas bare and rocky after reduced winter snowfall, scientists warn",
+      "description": "Score: 36 | Comments: 7 | Posted by koolhead17",
+      "url": "https://www.bbc.com/news/articles/clyndv7zd20o",
+      "publishedAt": "2026-01-12T02:58:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "koolhead17",
+      "tags": []
+    },
+    {
+      "id": "8tqdgx",
+      "title": "Code is cheap now, but software isn't",
+      "description": "Score: 93 | Comments: 41 | Posted by fs_software",
+      "url": "https://www.chrisgregori.dev/opinion/code-is-cheap-now-software-isnt",
+      "publishedAt": "2026-01-12T02:51:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fs_software",
+      "tags": []
+    },
+    {
+      "id": "fcrdxh",
+      "title": "Uncrossy",
+      "description": "Score: 28 | Comments: 11 | Posted by dgacmu",
+      "url": "https://uncrossy.com/",
+      "publishedAt": "2026-01-12T01:39:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dgacmu",
+      "tags": []
+    },
+    {
+      "id": "glhiqj",
+      "title": "Which programming languages are most token-efficient?",
+      "description": "Score: 66 | Comments: 34 | Posted by tehnub",
+      "url": "https://martinalderson.com/posts/which-programming-languages-are-most-token-efficient/",
+      "publishedAt": "2026-01-12T01:36:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tehnub",
+      "tags": []
+    },
+    {
+      "id": "k14yuo",
+      "title": "Statement from Jerome Powell",
+      "description": "Score: 514 | Comments: 443 | Posted by 0xedb",
+      "url": "https://www.federalreserve.gov/newsevents/speech/powell20260111a.htm",
+      "publishedAt": "2026-01-12T01:02:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "0xedb",
+      "tags": []
+    },
+    {
+      "id": "hcyaqx",
+      "title": "Gadget Exposed a Spy Camera [video]",
+      "description": "Score: 25 | Comments: 17 | Posted by rib3ye",
+      "url": "https://www.youtube.com/watch?v=1reman2waLs",
+      "publishedAt": "2026-01-12T00:15:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rib3ye",
+      "tags": []
+    }
+  ]
+}

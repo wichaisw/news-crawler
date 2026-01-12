@@ -1,0 +1,28 @@
+{
+  "date": "2026-01-12",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3081767",
+      "title": "inDrive turns to ads and groceries to diversify revenue",
+      "description": "Advertising on inDrive is being rolled out across its top 20 markets following mid-2025 tests.",
+      "url": "https://techcrunch.com/2026/01/11/indrive-turns-to-ads-and-groceries-to-diversify-revenue/",
+      "publishedAt": "2026-01-12T05:30:13.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Jagmeet Singh",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3081773",
+      "title": "Motional puts AI at center of robotaxi reboot as it targets 2026 for driverless service",
+      "description": "Motional says it will launch a driverless robotaxi service in Las Vegas before the end of 2026.",
+      "url": "https://techcrunch.com/2026/01/11/motional-puts-ai-at-center-of-robotaxi-reboot-as-it-targets-2026-for-driverless-service/",
+      "publishedAt": "2026-01-12T00:10:54.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Kirsten Korosec",
+      "tags": []
+    }
+  ]
+}

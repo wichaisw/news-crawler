@@ -58,6 +58,28 @@
       "tags": []
     },
     {
+      "id": "nlk6cy",
+      "title": "Garbage collection is contrarian",
+      "description": "Score: 25 | Comments: 1 | Posted by aapoalas",
+      "url": "https://trynova.dev/blog/garbage-collection-is-contrarian",
+      "publishedAt": "2026-01-09T21:15:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "aapoalas",
+      "tags": []
+    },
+    {
+      "id": "skbkfk",
+      "title": "You are not required to close your <p>, <li>, <img>, or <br> tags in HTML",
+      "description": "Score: 147 | Comments: 203 | Posted by jen729w",
+      "url": "https://blog.novalistic.com/archives/2017/08/optional-end-tags-in-html/",
+      "publishedAt": "2026-01-09T20:43:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jen729w",
+      "tags": []
+    },
+    {
       "id": "3tpzx3",
       "title": "QtNat – Open you port with Qt UPnP",
       "description": "Score: 41 | Comments: 34 | Posted by jandeboevrie",
@@ -297,6 +319,39 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "HelloUsername",
+      "tags": []
+    },
+    {
+      "id": "u082wj",
+      "title": "39c3: In-house electronics manufacturing from scratch: How hard can it be? [video]",
+      "description": "Score: 16 | Comments: 0 | Posted by fried-gluttony",
+      "url": "https://media.ccc.de/v/39c3-in-house-electronics-manufacturing-from-scratch-how-hard-can-it-be",
+      "publishedAt": "2026-01-09T12:23:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fried-gluttony",
+      "tags": []
+    },
+    {
+      "id": "5ecroj",
+      "title": "Moving Scratch generation to Python on browser",
+      "description": "Score: 30 | Comments: 6 | Posted by kushaldas",
+      "url": "https://kushaldas.in/posts/introducing-ektupy.html",
+      "publishedAt": "2026-01-09T08:29:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kushaldas",
+      "tags": []
+    },
+    {
+      "id": "20ua3g",
+      "title": "Elephants Don't Play Chess (1990) [pdf]",
+      "description": "Score: 7 | Comments: 2 | Posted by gregsadetsky",
+      "url": "https://people.csail.mit.edu/brooks/papers/elephants.pdf",
+      "publishedAt": "2026-01-09T06:15:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gregsadetsky",
       "tags": []
     },
     {

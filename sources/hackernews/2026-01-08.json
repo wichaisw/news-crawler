@@ -245,6 +245,17 @@
       "tags": []
     },
     {
+      "id": "6fl370",
+      "title": "Perfectly Replicating Coca Cola [video]",
+      "description": "Score: 173 | Comments: 110 | Posted by HansVanEijsden",
+      "url": "https://www.youtube.com/watch?v=TDkH3EbWTYc",
+      "publishedAt": "2026-01-08T17:09:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "HansVanEijsden",
+      "tags": []
+    },
+    {
       "id": "g51c58",
       "title": "Show HN: Miditui – a terminal app/UI for MIDI composing, mixing, and playback",
       "description": "Score: 22 | Comments: 2 | Posted by minimaxir",
@@ -341,6 +352,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ravenical",
+      "tags": []
+    },
+    {
+      "id": "6rokng",
+      "title": "I'm making a game engine based on dynamic signed distance fields (SDFs) [video]",
+      "description": "Score: 243 | Comments: 32 | Posted by imagiro",
+      "url": "https://www.youtube.com/watch?v=il-TXbn5iMA",
+      "publishedAt": "2026-01-08T10:34:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "imagiro",
       "tags": []
     },
     {
