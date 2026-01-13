@@ -1,0 +1,39 @@
+{
+  "date": "2026-01-13",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "149429 at https://www.blognone.com",
+      "title": "Google ออกแถลงการณ์ดีล Apple ใช้ Gemini - ได้ใช้งานภายในปีนี้ - ไม่มีการส่งข้อมูลไปที่ Google",
+      "description": "Google ออกแถลงการณ์ดีล Apple ใช้ Gemini - ได้ใช้งานภายในปีนี้ - ไม่มีการส่งข้อมูลไปที่ Google Body กูเกิลออกแถลงการณ์เรื่อง ความร่วมมือ",
+      "url": "https://www.blognone.com/node/149429",
+      "publishedAt": "2026-01-13T05:35:41.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149428 at https://www.blognone.com",
+      "title": "Anthropic เปิดตัว Cowork เปิดให้ Claude ทำงานแทนเต็มรูปแบบ ยังจำกัดเฉพาะ Mac และต้องสมัคร Claude Max",
+      "description": "Anthropic เปิดตัว Cowork เปิดให้ Claude ทำงานแทนเต็มรูปแบบ ยังจำกัดเฉพาะ Mac และต้องสมัคร Claude Max Body Anthropic เปิดตัวบริการ Cowork",
+      "url": "https://www.blognone.com/node/149428",
+      "publishedAt": "2026-01-13T05:14:49.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149427 at https://www.blognone.com",
+      "title": "Anthropic บล็อคไคลเอนต์ภายนอกไม่ให้ใช้งานแทน Claude Code",
+      "description": "Anthropic บล็อคไคลเอนต์ภายนอกไม่ให้ใช้งานแทน Claude Code Body Anthropic เริ่มบล็อคไคลเอนต์อื่นๆ ที่จำลองตัวเองเป็น Claude Code",
+      "url": "https://www.blognone.com/node/149427",
+      "publishedAt": "2026-01-13T03:19:37.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}

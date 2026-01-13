@@ -1,0 +1,50 @@
+{
+  "date": "2026-01-13",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3081801",
+      "title": "Meta-backed Hupo finds growth after pivot to AI sales coaching from mental wellness",
+      "description": "Hupo, backed by Meta, pivoted from mental wellness to AI sales coaching for banks and insurers, and secured a $10M Series A led by DST Global",
+      "url": "https://techcrunch.com/2026/01/12/meta-backed-hupo-finds-growth-after-pivot-to-ai-sales-coaching-from-mental-wellness/",
+      "publishedAt": "2026-01-13T04:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Kate Park",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=2968704",
+      "title": "More than 100 new tech unicorns were minted in 2025 — here they are",
+      "description": "Using data from Crunchbase and PitchBook, TechCrunch tracked down the VC-backed startups that became unicorns so far this year.",
+      "url": "https://techcrunch.com/2026/01/12/at-least-36-new-tech-unicorns-were-minted-in-2025-so-far/",
+      "publishedAt": "2026-01-13T01:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3082118",
+      "title": "OpenAI buys tiny health records startup Torch for, reportedly, $100M",
+      "description": "AI health records startup Torch will be using its tech for OpenAI's new ChatGPT Health, according to co-founder Ilya Abyzov.",
+      "url": "https://techcrunch.com/2026/01/12/openai-buys-tiny-health-records-startup-torch-for-reportedly-100m/",
+      "publishedAt": "2026-01-13T00:04:19.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Julie Bort",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3082045",
+      "title": "Hands-on with Bee, Amazon’s latest AI wearable",
+      "description": "We tried Amazon's new AI wearable Bee. It's not for pro users yet, but more features are expected this year.",
+      "url": "https://techcrunch.com/2026/01/12/hands-on-with-bee-amazons-latest-ai-wearable/",
+      "publishedAt": "2026-01-13T00:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sarah Perez",
+      "tags": []
+    }
+  ]
+}

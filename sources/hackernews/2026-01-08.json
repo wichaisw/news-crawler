@@ -267,6 +267,17 @@
       "tags": []
     },
     {
+      "id": "gt4xhn",
+      "title": "What old tennis players teach us (2017)",
+      "description": "Score: 45 | Comments: 24 | Posted by surprisetalk",
+      "url": "https://www.raphkoster.com/2017/09/22/31098/",
+      "publishedAt": "2026-01-08T16:50:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
       "id": "want35",
       "title": "Dynamic Large Concept Models: Latent Reasoning in an Adaptive Semantic Space",
       "description": "Score: 51 | Comments: 4 | Posted by gmays",
@@ -322,6 +333,17 @@
       "tags": []
     },
     {
+      "id": "atvidc",
+      "title": "Why BM25 queries with more terms can be faster (and other scaling surprises)",
+      "description": "Score: 15 | Comments: 0 | Posted by _peregrine_",
+      "url": "https://turbopuffer.com/blog/bm25-latency-musings",
+      "publishedAt": "2026-01-08T15:03:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "_peregrine_",
+      "tags": []
+    },
+    {
       "id": "fyd8l4",
       "title": "ChatGPT Health is a marketplace, guess who is the product?",
       "description": "Score: 259 | Comments: 249 | Posted by yoaviram",
@@ -344,6 +366,17 @@
       "tags": []
     },
     {
+      "id": "2osfty",
+      "title": "Using DistributedDataParallel to train a base model from scratch in the cloud",
+      "description": "Score: 9 | Comments: 0 | Posted by ibobev",
+      "url": "https://www.gilesthomas.com/2026/01/llm-from-scratch-29-ddp-training-a-base-model-in-the-cloud",
+      "publishedAt": "2026-01-08T13:15:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
+      "tags": []
+    },
+    {
       "id": "5jmmpq",
       "title": "The Jeff Dean Facts",
       "description": "Score: 442 | Comments: 161 | Posted by ravenical",
@@ -352,6 +385,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ravenical",
+      "tags": []
+    },
+    {
+      "id": "unpfwg",
+      "title": "Some ecologists fear their field is losing touch with nature",
+      "description": "Score: 85 | Comments: 37 | Posted by Growtika",
+      "url": "https://www.nature.com/articles/d41586-025-04150-w",
+      "publishedAt": "2026-01-08T12:07:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Growtika",
       "tags": []
     },
     {

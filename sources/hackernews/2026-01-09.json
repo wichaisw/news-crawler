@@ -146,6 +146,17 @@
       "tags": []
     },
     {
+      "id": "iiyapp",
+      "title": "The Cray-1 Computer System (1977) [pdf]",
+      "description": "Score: 68 | Comments: 35 | Posted by LordGrey",
+      "url": "https://s3data.computerhistory.org/brochures/cray.cray1.1977.102638650.pdf",
+      "publishedAt": "2026-01-09T19:05:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "LordGrey",
+      "tags": []
+    },
+    {
       "id": "d18rc3",
       "title": "JavaScript Demos in 140 Characters",
       "description": "Score: 223 | Comments: 49 | Posted by themanmaran",
@@ -385,6 +396,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "sergiotapia",
+      "tags": []
+    },
+    {
+      "id": "abfw89",
+      "title": "Implementing a web server in a single printf() call (2014)",
+      "description": "Score: 16 | Comments: 2 | Posted by nateb2022",
+      "url": "https://tinyhack.com/2014/03/12/implementing-a-web-server-in-a-single-printf-call/",
+      "publishedAt": "2026-01-09T03:24:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nateb2022",
       "tags": []
     },
     {

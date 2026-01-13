@@ -1,0 +1,72 @@
+{
+  "date": "2026-01-13",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "h2skv5",
+      "title": "Text-Based Web Browsers",
+      "description": "Score: 3 | Comments: 1 | Posted by pabs3",
+      "url": "https://cssence.com/2026/text-based-web-browsers/",
+      "publishedAt": "2026-01-13T05:16:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pabs3",
+      "tags": []
+    },
+    {
+      "id": "rhzf13",
+      "title": "Iran Is Hunting Down Starlink Users to Stop Protest Videos from Going Global",
+      "description": "Score: 10 | Comments: 3 | Posted by Agreed3750",
+      "url": "https://www.wsj.com/world/middle-east/iran-is-hunting-down-starlink-users-to-stop-protest-videos-from-going-global-d8b49602",
+      "publishedAt": "2026-01-13T05:04:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Agreed3750",
+      "tags": []
+    },
+    {
+      "id": "op7wcl",
+      "title": "House GOP unveils new legislation on stock trading ban",
+      "description": "Score: 10 | Comments: 1 | Posted by 1659447091",
+      "url": "https://thehill.com/homenews/house/5684843-house-gop-stock-trading-ban/",
+      "publishedAt": "2026-01-13T04:53:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "1659447091",
+      "tags": []
+    },
+    {
+      "id": "9t4xbn",
+      "title": "PawSense: Catproof Your Computer",
+      "description": "Score: 23 | Comments: 12 | Posted by zdw",
+      "url": "http://bitboost.com/pawsense/",
+      "publishedAt": "2026-01-13T03:27:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "spxlok",
+      "title": "Former NYC Mayor Eric Adams rugs his own memecoin just 30 minutes after launch",
+      "description": "Score: 31 | Comments: 4 | Posted by pulisse",
+      "url": "https://old.reddit.com/r/CryptoCurrency/comments/1qbdgdt/former_nyc_mayor_eric_adams_rugs_his_own_memecoin/",
+      "publishedAt": "2026-01-13T03:26:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pulisse",
+      "tags": []
+    },
+    {
+      "id": "4h7r2r",
+      "title": "Provenance Is the New Version Control",
+      "description": "Score: 12 | Comments: 12 | Posted by gpi",
+      "url": "https://aicoding.leaflet.pub/3mcbiyal7jc2y",
+      "publishedAt": "2026-01-13T03:26:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gpi",
+      "tags": []
+    }
+  ]
+}
