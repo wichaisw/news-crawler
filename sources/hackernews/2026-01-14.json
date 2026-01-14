@@ -1,0 +1,138 @@
+{
+  "date": "2026-01-14",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "e5xwgt",
+      "title": "AI will compromise your cybersecurity posture",
+      "description": "Score: 20 | Comments: 8 | Posted by gmays",
+      "url": "https://rys.io/en/181.html",
+      "publishedAt": "2026-01-14T03:35:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gmays",
+      "tags": []
+    },
+    {
+      "id": "b51c4p",
+      "title": "ASCII Cloudscaidan.dev",
+      "description": "Score: 94 | Comments: 15 | Posted by majkinetor",
+      "url": "https://caidan.dev/portfolio/ascii_clouds/",
+      "publishedAt": "2026-01-14T03:10:58.735Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "majkinetor",
+      "tags": []
+    },
+    {
+      "id": "632hx3",
+      "title": "1000 Blank White Cardswikipedia.org",
+      "description": "Score: 60 | Comments: 8 | Posted by eieio",
+      "url": "https://en.wikipedia.org/wiki/1000_Blank_White_Cards",
+      "publishedAt": "2026-01-14T03:10:58.735Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "eieio",
+      "tags": []
+    },
+    {
+      "id": "13cuxd",
+      "title": "There's a ridiculous amount of tech in a disposable vapejgc.org",
+      "description": "Score: 158 | Comments: 133 | Posted by abnercoimbre",
+      "url": "https://blog.jgc.org/2026/01/theres-ridiculous-amount-of-tech-in.html",
+      "publishedAt": "2026-01-14T03:10:58.734Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "abnercoimbre",
+      "tags": []
+    },
+    {
+      "id": "632hx3",
+      "title": "1000 Blank White Cards",
+      "description": "Score: 60 | Comments: 8 | Posted by eieio",
+      "url": "https://en.wikipedia.org/wiki/1000_Blank_White_Cards",
+      "publishedAt": "2026-01-14T03:08:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "eieio",
+      "tags": []
+    },
+    {
+      "id": "fek51n",
+      "title": "The Gleam Programming Language",
+      "description": "Score: 44 | Comments: 10 | Posted by Alupis",
+      "url": "https://gleam.run/",
+      "publishedAt": "2026-01-14T02:49:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Alupis",
+      "tags": []
+    },
+    {
+      "id": "ysn0m4",
+      "title": "Stop using natural language interfaces",
+      "description": "Score: 32 | Comments: 3 | Posted by steveklabnik",
+      "url": "https://tidepool.leaflet.pub/3mcbegnuf2k2i",
+      "publishedAt": "2026-01-14T02:29:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "steveklabnik",
+      "tags": []
+    },
+    {
+      "id": "b7po7d",
+      "title": "Show HN: Cachekit – High performance caching policies library in Rust",
+      "description": "Score: 23 | Comments: 0 | Posted by failsafe",
+      "url": "https://github.com/OxidizeLabs/cachekit",
+      "publishedAt": "2026-01-14T02:28:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "failsafe",
+      "tags": []
+    },
+    {
+      "id": "b51c4p",
+      "title": "ASCII Clouds",
+      "description": "Score: 93 | Comments: 15 | Posted by majkinetor",
+      "url": "https://caidan.dev/portfolio/ascii_clouds/",
+      "publishedAt": "2026-01-14T02:20:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "majkinetor",
+      "tags": []
+    },
+    {
+      "id": "1sz43n",
+      "title": "Show HN: OSS AI agent that indexes and searches the Epstein files",
+      "description": "Score: 48 | Comments: 13 | Posted by jellyotsiro",
+      "url": "https://epstein.trynia.ai/",
+      "publishedAt": "2026-01-14T01:56:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jellyotsiro",
+      "tags": []
+    },
+    {
+      "id": "9o8qpc",
+      "title": "Exa-d: How to store the web in S3",
+      "description": "Score: 17 | Comments: 0 | Posted by willbryk",
+      "url": "https://exa.ai/blog/exa-d",
+      "publishedAt": "2026-01-14T01:13:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "willbryk",
+      "tags": []
+    },
+    {
+      "id": "ukxyh9",
+      "title": "Vanderbilt University plans new campus in San Francisco",
+      "description": "Score: 11 | Comments: 3 | Posted by noleary",
+      "url": "https://www.wsj.com/us-news/education/vanderbilt-san-francisco-cca-california-college-arts-expansion-lurie-8b6528b0",
+      "publishedAt": "2026-01-14T01:06:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "noleary",
+      "tags": []
+    }
+  ]
+}
