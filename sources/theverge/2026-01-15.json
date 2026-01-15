@@ -1,0 +1,30 @@
+{
+  "date": "2026-01-15",
+  "source": "theverge",
+  "articles": [
+    {
+      "id": "pf2w3c",
+      "title": "The best e-reader to buy right now",
+      "description": "Any ebook reader will let you cram a Beauty and the Beast-sized library’s worth of books in your pocket, but so will your phone. An ebook reader offers a more book-like reading experience, with fewer distractions and less eye strain, and many include extra features, like adjustable frontlighting. Some really are pocketable. Others are waterproof [&#8230;]",
+      "url": "https://www.theverge.com/23769068/best-ebook-readers",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832350/257503_e_book_reader_CVirginia_.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-01-15T00:54:43.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Sheena Vasani",
+      "tags": []
+    },
+    {
+      "id": "m018kl",
+      "title": "X claims it has stopped Grok from undressing people, but of course it hasn’t",
+      "description": "Following the proliferation of the nonconsensual sexual deepfakes on X, the platform has detailed changes to the Grok account's ability to edit images of real people. They match the changes reported on Tuesday by The Telegraph, as Grok's responses to prompts like \"put her in a bikini\" became censored. But in tests of the feature [&#8230;]",
+      "url": "https://www.theverge.com/news/862372/x-grok-ai-policy-update-deepfake-bikini-poses",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK262_GROK_B_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-01-15T00:46:54.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Jay Peters",
+      "tags": []
+    }
+  ]
+}

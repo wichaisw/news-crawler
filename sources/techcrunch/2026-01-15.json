@@ -1,0 +1,39 @@
+{
+  "date": "2026-01-15",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3082941",
+      "title": "Mira Murati’s startup, Thinking Machines Lab, is losing two of its co-founders to OpenAI",
+      "description": "The abrupt change in personnel was in the works for several weeks, according to an OpenAI executive.",
+      "url": "https://techcrunch.com/2026/01/14/mira-muratis-startup-thinking-machines-lab-is-losing-two-of-its-co-founders-to-openai/",
+      "publishedAt": "2026-01-15T02:16:37.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lucas Ropek",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3082822",
+      "title": "The FTC’s data-sharing order against GM is finally settled",
+      "description": "The order, first proposed a year ago, bans GM from collecting and then selling geolocation data to third parties, like data brokers and insurance",
+      "url": "https://techcrunch.com/2026/01/14/the-ftcs-data-sharing-order-against-gm-is-finally-settled/",
+      "publishedAt": "2026-01-15T00:27:54.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Kirsten Korosec",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3082634",
+      "title": "India’s Emversity doubles valuation as it scales workers AI can’t replace",
+      "description": "Emversity has raised $30 million in a new round as it scales job-ready training in India.",
+      "url": "https://techcrunch.com/2026/01/14/indias-emversity-doubles-valuation-as-it-scales-workers-ai-cant-replace/",
+      "publishedAt": "2026-01-15T00:04:46.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Jagmeet Singh",
+      "tags": []
+    }
+  ]
+}

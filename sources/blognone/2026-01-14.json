@@ -3,6 +3,95 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "149445 at https://www.blognone.com",
+      "title": "เร็วกว่าทอง TrendForce รายงานราคา DRAM ปีนี้ขึ้นไปเกือบ 10% แล้ว",
+      "description": "เร็วกว่าทอง TrendForce รายงานราคา DRAM ปีนี้ขึ้นไปเกือบ 10% แล้ว Body TrendForce เว็บข่าวราคาเซมิคอนดักเตอร์รายงานราคาเฉลี่ยของชิป DRAM ในปีนี้",
+      "url": "https://www.blognone.com/node/149445",
+      "publishedAt": "2026-01-14T17:34:29.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149444 at https://www.blognone.com",
+      "title": "นักวิจัยพบช่องโหว่ React Server Components ยังแก้ไม่หมดจด เปิดช่องคนร้ายยิงเว็บดับ, อ่านโค้ดได้",
+      "description": "นักวิจัยพบช่องโหว่ React Server Components ยังแก้ไม่หมดจด เปิดช่องคนร้ายยิงเว็บดับ, อ่านโค้ดได้ Body Vercel รายงานช่องโหว่ใน React Server Components",
+      "url": "https://www.blognone.com/node/149444",
+      "publishedAt": "2026-01-14T16:58:20.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149443 at https://www.blognone.com",
+      "title": "Chromium รับโค้ด JPEG XL เข้าโครงการอีกครั้ง รอบนี้ใช้ไลบรารีภาษา Rust",
+      "description": "Chromium รับโค้ด JPEG XL เข้าโครงการอีกครั้ง รอบนี้ใช้ไลบรารีภาษา Rust Body Chromium โครงการต้นน้ำของเบราว์เซอร์ Chrome รับโค้ดรองรับภาพแบบ JPEG XL",
+      "url": "https://www.blognone.com/node/149443",
+      "publishedAt": "2026-01-14T16:37:40.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149442 at https://www.blognone.com",
+      "title": "[ไม่ยืนยัน] จีนสั่งบริษัทเทคโนโลยี ห้ามนำเข้าชิป H200 จาก NVIDIA แม้สหรัฐอนุญาตให้ส่งออกแล้ว",
+      "description": "[ไม่ยืนยัน] จีนสั่งบริษัทเทคโนโลยี ห้ามนำเข้าชิป H200 จาก NVIDIA แม้สหรัฐอนุญาตให้ส่งออกแล้ว Body ถึงแม้สหรัฐจะ อนุญาต ให้ NVIDIA ส่งออกชิป H200",
+      "url": "https://www.blognone.com/node/149442",
+      "publishedAt": "2026-01-14T14:37:35.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149441 at https://www.blognone.com",
+      "title": "LEGO เปิดตัว ตัวต่อชุด Pokémon อย่างเป็นทางการ",
+      "description": "LEGO เปิดตัว ตัวต่อชุด Pokémon อย่างเป็นทางการ Body LEGO เปิดตัวตัวต่อชุด Pokémon อย่างเป็นทางการ หลังจาก ประกาศแผนการ ตั้งแต่ปีที่แล้ว",
+      "url": "https://www.blognone.com/node/149441",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2026/2026-01/72152_lifestyle_cons_1.jpg",
+      "publishedAt": "2026-01-14T14:25:51.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149440 at https://www.blognone.com",
+      "title": "Microsoft ประกาศแนวทางสร้าง Data Center AI ในอเมริกา ให้ความสำคัญกับชุมชนโดยรอบ ไม่สร้างผลกระทบเชิงลบ",
+      "description": "Microsoft ประกาศแนวทางสร้าง Data Center AI ในอเมริกา ให้ความสำคัญกับชุมชนโดยรอบ ไม่สร้างผลกระทบเชิงลบ Body ไมโครซอฟท์ประกาศแนวทางการสร้างศูนย์ข้อมูล",
+      "url": "https://www.blognone.com/node/149440",
+      "publishedAt": "2026-01-14T10:10:57.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149439 at https://www.blognone.com",
+      "title": "Veo 3.1 อัปเดตความสามารถ เก็บรายละเอียดดีขึ้น, รองรับวิดีโอแนวตั้ง, อัปสเกลถึง 4K",
+      "description": "Veo 3.1 อัปเดตความสามารถ เก็บรายละเอียดดีขึ้น, รองรับวิดีโอแนวตั้ง, อัปสเกลถึง 4K Body กูเกิลอัปเดตความสามารถของโมเดล AI สร้างวิดีโอ Veo 3.1",
+      "url": "https://www.blognone.com/node/149439",
+      "publishedAt": "2026-01-14T08:31:01.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149438 at https://www.blognone.com",
+      "title": "Tesla เปลี่ยนมาขายซอฟต์แวร์ FSD แบบ Subscription รายเดือนเท่านั้น มีผล 14 กุมภาพันธ์ เป็นต้นไป",
+      "description": "Tesla เปลี่ยนมาขายซอฟต์แวร์ FSD แบบ Subscription รายเดือนเท่านั้น มีผล 14 กุมภาพันธ์ เป็นต้นไป Body Elon Musk ซีอีโอ Tesla ประกาศ",
+      "url": "https://www.blognone.com/node/149438",
+      "publishedAt": "2026-01-14T07:29:28.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "149437 at https://www.blognone.com",
       "title": "สหรัฐอนุมัติให้ NVIDIA ขายชิป H200 ให้ลูกค้าในจีนได้แล้ว เงื่อนไขจัดส่งได้ไม่เกิน 50% ของที่ขายในอเมริกา",
       "description": "สหรัฐอนุมัติให้ NVIDIA ขายชิป H200 ให้ลูกค้าในจีนได้แล้ว เงื่อนไขจัดส่งได้ไม่เกิน 50% ของที่ขายในอเมริกา Body สหรัฐออกใบอนุญาตให้ NVIDIA",

@@ -1,0 +1,116 @@
+{
+  "date": "2026-01-15",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "6cwuj7",
+      "title": "New Safari developer tools provide insight into CSS Grid Laneswebkit.org",
+      "description": "Score: 16 | Comments: 1 | Posted by feross",
+      "url": "https://webkit.org/blog/17746/new-safari-developer-tools-provide-insight-into-css-grid-lanes/",
+      "publishedAt": "2026-01-15T04:11:02.459Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "feross",
+      "tags": []
+    },
+    {
+      "id": "4ehhhy",
+      "title": "Show HN: Sparrow-1 – Audio-native model for human-level turn-taking without ASRtavus.io",
+      "description": "Score: 31 | Comments: 3 | Posted by code_brian",
+      "url": "https://www.tavus.io/post/sparrow-1-human-level-conversational-timing-in-real-time-voice",
+      "publishedAt": "2026-01-15T04:11:02.458Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "code_brian",
+      "tags": []
+    },
+    {
+      "id": "1xj4lh",
+      "title": "The URL shortener that makes your links look as suspicious as possiblecreepylink.com",
+      "description": "Score: 146 | Comments: 31 | Posted by dreadsword",
+      "url": "https://creepylink.com/",
+      "publishedAt": "2026-01-15T04:11:02.454Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dreadsword",
+      "tags": []
+    },
+    {
+      "id": "1xj4lh",
+      "title": "The URL shortener that makes your links look as suspicious as possible",
+      "description": "Score: 146 | Comments: 31 | Posted by dreadsword",
+      "url": "https://creepylink.com/",
+      "publishedAt": "2026-01-15T03:28:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dreadsword",
+      "tags": []
+    },
+    {
+      "id": "hkcurw",
+      "title": "Ask HN: What did you find out or explore today?",
+      "description": "Score: 42 | Comments: 28 | Posted by blahaj",
+      "url": "https://news.ycombinator.com/item?id=46619464",
+      "publishedAt": "2026-01-15T03:11:02.459Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "blahaj",
+      "tags": []
+    },
+    {
+      "id": "hkaygp",
+      "title": "Ask HN: How are you doing RAG locally?",
+      "description": "Score: 63 | Comments: 20 | Posted by tmaly",
+      "url": "https://news.ycombinator.com/item?id=46616529",
+      "publishedAt": "2026-01-15T02:11:02.459Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tmaly",
+      "tags": []
+    },
+    {
+      "id": "imscwg",
+      "title": "Bubblewrap: A nimble way to prevent agents from accessing your .env files",
+      "description": "Score: 56 | Comments: 46 | Posted by 0o_MrPatrick_o0",
+      "url": "https://patrickmccanna.net/a-better-way-to-limit-claude-code-and-other-coding-agents-access-to-secrets/",
+      "publishedAt": "2026-01-15T01:45:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "0o_MrPatrick_o0",
+      "tags": []
+    },
+    {
+      "id": "bdh1or",
+      "title": "Furiosa: 3.5x efficiency over H100sfuriosa.ai",
+      "description": "Score: 125 | Comments: 64 | Posted by written-beyond",
+      "url": "https://furiosa.ai/blog/introducing-rngd-server-efficient-ai-inference-at-data-center-scale",
+      "publishedAt": "2026-01-15T01:11:02.458Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "written-beyond",
+      "tags": []
+    },
+    {
+      "id": "bdh1or",
+      "title": "Furiosa: 3.5x efficiency over H100s",
+      "description": "Score: 126 | Comments: 64 | Posted by written-beyond",
+      "url": "https://furiosa.ai/blog/introducing-rngd-server-efficient-ai-inference-at-data-center-scale",
+      "publishedAt": "2026-01-15T00:53:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "written-beyond",
+      "tags": []
+    },
+    {
+      "id": "6cwuj7",
+      "title": "New Safari developer tools provide insight into CSS Grid Lanes",
+      "description": "Score: 16 | Comments: 1 | Posted by feross",
+      "url": "https://webkit.org/blog/17746/new-safari-developer-tools-provide-insight-into-css-grid-lanes/",
+      "publishedAt": "2026-01-15T00:34:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "feross",
+      "tags": []
+    }
+  ]
+}
