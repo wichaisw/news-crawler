@@ -1,0 +1,127 @@
+{
+  "date": "2026-01-16",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "kufmd7",
+      "title": "The Myth of the ThinkPadinnovintageblog.wordpress.com",
+      "description": "Score: 34 | Comments: 36 | Posted by volemo",
+      "url": "https://innovintageblog.wordpress.com/2026/01/08/the-myth-of-the-thinkpad/",
+      "publishedAt": "2026-01-16T05:10:27.016Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "volemo",
+      "tags": []
+    },
+    {
+      "id": "iwef01",
+      "title": "San Francisco to offer free childcare to people making up to $230000",
+      "description": "Score: 11 | Comments: 1 | Posted by darth_avocado",
+      "url": "https://www.theguardian.com/us-news/2026/jan/15/san-francisco-childcare-families",
+      "publishedAt": "2026-01-16T04:51:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "darth_avocado",
+      "tags": []
+    },
+    {
+      "id": "p0dzvi",
+      "title": "America's Throwaway Spies: How the CIA Failed Iranian Informants in Tehran",
+      "description": "Score: 8 | Comments: 0 | Posted by koolhead17",
+      "url": "https://www.reuters.com/investigates/special-report/usa-spies-iran/",
+      "publishedAt": "2026-01-16T04:38:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "koolhead17",
+      "tags": []
+    },
+    {
+      "id": "3k3yd7",
+      "title": "Boeing knew of flaw in part linked to UPS plane crash, NTSB report says",
+      "description": "Score: 68 | Comments: 29 | Posted by 1659447091",
+      "url": "https://www.bbc.com/news/articles/cly56w0p9e1o",
+      "publishedAt": "2026-01-16T04:11:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "1659447091",
+      "tags": []
+    },
+    {
+      "id": "2fi8oo",
+      "title": "OpenBSD-current now runs as guest under Apple Hypervisorundeadly.org",
+      "description": "Score: 131 | Comments: 7 | Posted by gpi",
+      "url": "https://www.undeadly.org/cgi?action=article;sid=20260115203619",
+      "publishedAt": "2026-01-16T04:10:27.016Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gpi",
+      "tags": []
+    },
+    {
+      "id": "mo4p9z",
+      "title": "Noninvasive brain treatment for depression proves helpful",
+      "description": "Score: 13 | Comments: 0 | Posted by 1659447091",
+      "url": "https://www.cnn.com/2026/01/15/health/saint-tms-depression-therapy-wellness",
+      "publishedAt": "2026-01-16T03:56:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "1659447091",
+      "tags": []
+    },
+    {
+      "id": "2fi8oo",
+      "title": "OpenBSD-current now runs as guest under Apple Hypervisor",
+      "description": "Score: 131 | Comments: 7 | Posted by gpi",
+      "url": "https://www.undeadly.org/cgi?action=article;sid=20260115203619",
+      "publishedAt": "2026-01-16T03:10:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gpi",
+      "tags": []
+    },
+    {
+      "id": "lmd30w",
+      "title": "SETI Home Flags 100 Signals After Sorting 12B Others",
+      "description": "Score: 66 | Comments: 27 | Posted by TMEHpodcast",
+      "url": "https://news.berkeley.edu/2026/01/12/for-21-years-enthusiasts-used-their-home-computers-to-search-for-et-uc-berkeley-scientists-are-homing-in-on-100-signals-they-found/",
+      "publishedAt": "2026-01-16T02:45:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "TMEHpodcast",
+      "tags": []
+    },
+    {
+      "id": "a1kzww",
+      "title": "Show HN: Reversing YouTube’s “Most Replayed” Graph",
+      "description": "Score: 27 | Comments: 9 | Posted by prvt",
+      "url": "https://priyavr.at/blog/reversing-most-replayed/",
+      "publishedAt": "2026-01-16T02:06:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "prvt",
+      "tags": []
+    },
+    {
+      "id": "4a1h5a",
+      "title": "Show HN: Gambit, an open-source agent harness for building reliable AI agents",
+      "description": "Score: 62 | Comments: 12 | Posted by randall",
+      "url": "https://github.com/bolt-foundry/gambit",
+      "publishedAt": "2026-01-16T00:13:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "randall",
+      "tags": []
+    },
+    {
+      "id": "cww1is",
+      "title": "My Gripes with Prolog",
+      "description": "Score: 60 | Comments: 39 | Posted by azhenley",
+      "url": "https://buttondown.com/hillelwayne/archive/my-gripes-with-prolog/",
+      "publishedAt": "2026-01-16T00:11:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "azhenley",
+      "tags": []
+    }
+  ]
+}

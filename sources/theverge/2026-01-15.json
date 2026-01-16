@@ -3,6 +3,78 @@
   "source": "theverge",
   "articles": [
     {
+      "id": "m8yas1",
+      "title": "Grok undressed the mother of one of Elon Musk’s kids — and now she’s suing",
+      "description": "Ashley St. Clair, the mother of one of X owner Elon Musk's children, is suing his company for enabling its AI to virtually strip her down into a bikini without her consent. St. Clair is one of the many people over the past couple weeks who have found themselves undressed without permission by X's AI [&#8230;]",
+      "url": "https://www.theverge.com/news/863097/ashley-st-clair-elon-musk-grok-undressing-lawsuit",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK262_GROK_XAI__A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-01-15T23:33:29.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Lauren Feiner",
+      "tags": []
+    },
+    {
+      "id": "baq5hz",
+      "title": "Dave Filoni takes charge of Star Wars as new president of Lucasfilm",
+      "description": "There's a new name in charge of stewarding Star Wars at Lucasfilm. The studio just announced that Dave Filoni - best-known for his work on The Mandalorian and The Clone Wars - will be taking over as president. Former president Kathleen Kennedy, whose departure had been rumored for some time, will be stepping down and [&#8230;]",
+      "url": "https://www.theverge.com/entertainment/863065/dave-filoni-lucasfilm-president-star-wars",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2210956585.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-01-15T23:04:52.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Andrew Webster",
+      "tags": []
+    },
+    {
+      "id": "rjxdan",
+      "title": "Natural Cycles launches wristband to replace thermometers for its FDA-cleared birth control app",
+      "description": "Natural Cycles, the company behind a controversial FDA-cleared birth control app, is replacing its thermometer with a wristband that measures skin temperature, heart rate, and movement during sleep. The newly-launched wristband costs $129.99 and syncs with the Natural Cycles app, which uses an algorithm to determine a person's \"daily fertility status.\" Users can already track [&#8230;]",
+      "url": "https://www.theverge.com/news/863046/natural-cycles-wristband-digital-birth-control",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/NC%C2%B0-Band-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-01-15T22:46:27.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Emma Roth",
+      "tags": []
+    },
+    {
+      "id": "qc309a",
+      "title": "You can save over $1,500 on LG’s 65-inch C5 OLED TV",
+      "description": "LG might have just revealed its new C6 OLED TVs at CES 2026, but we still don’t know when they’ll actually hit stores. If you don’t want to wait — or spend a couple thousand dollars on a brand new model — the current-gen LG C5 OLED is a fantastic option now the 65-inch model [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/862989/lg-c5-oled-tv-ebay-deal-sale",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/LG-C5-OLED-TV-Lifestyle-Image-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-01-15T22:23:59.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Sheena Vasani",
+      "tags": []
+    },
+    {
+      "id": "4vbdho",
+      "title": "The best alternatives to Spotify for listening to music",
+      "description": "Spotify is probably one of the most well-known music services available (if not the most popular) around - and it seems that the company it taking advantage of that. As of this month, Spotify announced that it was raising its prices, the third time since 2023. If that concerns you (especially if you're a current [&#8230;]",
+      "url": "https://www.theverge.com/22910685/music-listening-service-spotify-apple-youtube-amazon",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23954050/STK427_Getty_Headphones.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-01-15T22:19:01.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Barbara Krasnoff",
+      "tags": []
+    },
+    {
+      "id": "egu9ob",
+      "title": "Asus says it's dropping the RTX 5070 Ti as the memory shortage squeezes supply",
+      "description": "On Thursday, Hardware Unboxed reported that Asus is winding down production of its RTX 5070 Ti, saying, Asus \"explicitly told us this model is currently facing a supply shortage and, as such, they have placed the model into end-of-life status.\" They added that the same applies to Asus's 16GB RTX 5060 Ti, and mentioned how [&#8230;]",
+      "url": "https://www.theverge.com/news/863000/asus-nvidia-rtx-5070-ti-5060-ti-supply-rumors",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/257586_Nvidia_RTX_5070_TWarren_0006.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-01-15T22:06:21.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Stevie Bonifield",
+      "tags": []
+    },
+    {
       "id": "pf2w3c",
       "title": "The best e-reader to buy right now",
       "description": "Any ebook reader will let you cram a Beauty and the Beast-sized library’s worth of books in your pocket, but so will your phone. An ebook reader offers a more book-like reading experience, with fewer distractions and less eye strain, and many include extra features, like adjustable frontlighting. Some really are pocketable. Others are waterproof [&#8230;]",

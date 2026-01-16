@@ -212,6 +212,17 @@
       "tags": []
     },
     {
+      "id": "9p7320",
+      "title": "Claude is good at assembling blocks, but still falls apart at creating them",
+      "description": "Score: 210 | Comments: 155 | Posted by bblcla",
+      "url": "https://www.approachwithalacrity.com/claude-ne/",
+      "publishedAt": "2026-01-14T16:26:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bblcla",
+      "tags": []
+    },
+    {
       "id": "9nwrzf",
       "title": "GitHub should charge everyone $1 more per month to fund open source",
       "description": "Score: 256 | Comments: 247 | Posted by evakhoury",
@@ -308,6 +319,61 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "prismatic",
+      "tags": []
+    },
+    {
+      "id": "8aqfst",
+      "title": "Inside The Internet Archive's Infrastructure",
+      "description": "Score: 304 | Comments: 72 | Posted by dvrp",
+      "url": "https://hackernoon.com/the-long-now-of-the-web-inside-the-internet-archives-fight-against-forgetting",
+      "publishedAt": "2026-01-14T07:26:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dvrp",
+      "tags": []
+    },
+    {
+      "id": "w93myi",
+      "title": "Claude Cowork runs Linux VM via Apple virtualization framework",
+      "description": "Score: 102 | Comments: 37 | Posted by jumploops",
+      "url": "https://gist.github.com/simonw/35732f187edbe4fbd0bf976d013f22c8",
+      "publishedAt": "2026-01-14T07:21:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jumploops",
+      "tags": []
+    },
+    {
+      "id": "3curxx",
+      "title": "First impressions of Claude Cowork",
+      "description": "Score: 171 | Comments: 98 | Posted by stosssik",
+      "url": "https://simonw.substack.com/p/first-impressions-of-claude-cowork",
+      "publishedAt": "2026-01-14T06:14:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "stosssik",
+      "tags": []
+    },
+    {
+      "id": "m7d6in",
+      "title": "The <Geolocation> HTML Element",
+      "description": "Score: 105 | Comments: 59 | Posted by enz",
+      "url": "https://developer.chrome.com/blog/geolocation-html-element",
+      "publishedAt": "2026-01-14T05:35:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "enz",
+      "tags": []
+    },
+    {
+      "id": "sfhk1o",
+      "title": "Show HN: OpenWork – An open-source alternative to Claude Cowork",
+      "description": "Score: 164 | Comments: 32 | Posted by ben_talent",
+      "url": "https://github.com/different-ai/openwork",
+      "publishedAt": "2026-01-14T04:55:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ben_talent",
       "tags": []
     },
     {
