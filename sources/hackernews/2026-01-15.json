@@ -14,6 +14,17 @@
       "tags": []
     },
     {
+      "id": "dmykx2",
+      "title": "The Alignment Game (2023)",
+      "description": "Score: 34 | Comments: 6 | Posted by dmvaldman",
+      "url": "https://dmvaldman.github.io/alignment-game/",
+      "publishedAt": "2026-01-15T23:56:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dmvaldman",
+      "tags": []
+    },
+    {
       "id": "lwh9om",
       "title": "Tldraw pauses external contributions due to AI slop",
       "description": "Score: 71 | Comments: 23 | Posted by pranav_rajs",
@@ -102,6 +113,17 @@
       "tags": []
     },
     {
+      "id": "vdxa9r",
+      "title": "Show HN: 1Code – Open-source Cursor-like UI for Claude Code",
+      "description": "Score: 58 | Comments: 36 | Posted by Bunas",
+      "url": "https://github.com/21st-dev/1code",
+      "publishedAt": "2026-01-15T19:20:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Bunas",
+      "tags": []
+    },
+    {
       "id": "9bci05",
       "title": "Data is the only moat",
       "description": "Score: 116 | Comments: 26 | Posted by cgwu",
@@ -168,6 +190,17 @@
       "tags": []
     },
     {
+      "id": "rmwnh6",
+      "title": "LLM Structured Outputs Handbook",
+      "description": "Score: 183 | Comments: 32 | Posted by vitaelabitur",
+      "url": "https://nanonets.com/cookbooks/structured-llm-outputs",
+      "publishedAt": "2026-01-15T16:46:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vitaelabitur",
+      "tags": []
+    },
+    {
       "id": "nibxl2",
       "title": "Design and Implementation of Sprites",
       "description": "Score: 141 | Comments: 100 | Posted by sethev",
@@ -223,6 +256,17 @@
       "tags": []
     },
     {
+      "id": "1ljtwg",
+      "title": "Independent Guest Virtual Machine (IGVM) File Format",
+      "description": "Score: 25 | Comments: 9 | Posted by ingve",
+      "url": "https://github.com/microsoft/igvm",
+      "publishedAt": "2026-01-15T13:19:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingve",
+      "tags": []
+    },
+    {
       "id": "1h2f7j",
       "title": "25 Years of Wikipedia",
       "description": "Score: 475 | Comments: 387 | Posted by easton",
@@ -231,6 +275,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "easton",
+      "tags": []
+    },
+    {
+      "id": "7oir0p",
+      "title": "High-Level Is the Goal",
+      "description": "Score: 68 | Comments: 20 | Posted by tobr",
+      "url": "https://bvisness.me/high-level/",
+      "publishedAt": "2026-01-15T11:01:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tobr",
       "tags": []
     },
     {

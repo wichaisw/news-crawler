@@ -47,6 +47,17 @@
       "tags": []
     },
     {
+      "id": "ehqaqm",
+      "title": "Training my smartwatch to track intelligence",
+      "description": "Score: 136 | Comments: 64 | Posted by dmvaldman",
+      "url": "https://dmvaldman.github.io/rooklift/",
+      "publishedAt": "2026-01-14T22:19:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dmvaldman",
+      "tags": []
+    },
+    {
       "id": "76po52",
       "title": "Scaling long-running autonomous coding",
       "description": "Score: 165 | Comments: 79 | Posted by samwillis",
@@ -212,6 +223,17 @@
       "tags": []
     },
     {
+      "id": "obb2o3",
+      "title": "HTTP RateLimit Headers",
+      "description": "Score: 47 | Comments: 13 | Posted by zdw",
+      "url": "https://dotat.at/@/2026-01-13-http-ratelimit.html",
+      "publishedAt": "2026-01-14T16:29:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
       "id": "9p7320",
       "title": "Claude is good at assembling blocks, but still falls apart at creating them",
       "description": "Score: 210 | Comments: 155 | Posted by bblcla",
@@ -363,6 +385,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "enz",
+      "tags": []
+    },
+    {
+      "id": "ghjd7m",
+      "title": "Beebo, a wave simulator written in C",
+      "description": "Score: 17 | Comments: 0 | Posted by anon25783",
+      "url": "https://git.sr.ht/~willowf/beebo/",
+      "publishedAt": "2026-01-14T05:26:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "anon25783",
       "tags": []
     },
     {

@@ -1,0 +1,72 @@
+{
+  "date": "2026-01-17",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "leb8z3",
+      "title": "A Calif. teen trusted ChatGPT's drug advice. He died from an overdose",
+      "description": "Score: 22 | Comments: 22 | Posted by freediver",
+      "url": "https://www.sfgate.com/tech/article/calif-teen-chatgpt-drug-advice-fatal-overdose-21266718.php",
+      "publishedAt": "2026-01-17T03:50:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "freediver",
+      "tags": []
+    },
+    {
+      "id": "bnkesl",
+      "title": "Artisanal Code",
+      "description": "Score: 4 | Comments: 0 | Posted by sunnyam",
+      "url": "https://sunnyamrat.com/posts/2026-01-17-artisanal-code/",
+      "publishedAt": "2026-01-17T03:27:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sunnyam",
+      "tags": []
+    },
+    {
+      "id": "kla5i4",
+      "title": "Crypto grifters are recruiting open-source AI developers",
+      "description": "Score: 56 | Comments: 16 | Posted by lalitmaganti",
+      "url": "https://www.seangoedecke.com/gas-and-ralph/",
+      "publishedAt": "2026-01-17T03:07:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lalitmaganti",
+      "tags": []
+    },
+    {
+      "id": "qi27lf",
+      "title": "Drone Hacking Part 1: Dumping Firmware and Bruteforcing ECC",
+      "description": "Score: 18 | Comments: 0 | Posted by tripdout",
+      "url": "https://neodyme.io/en/blog/drone_hacking_part_1/",
+      "publishedAt": "2026-01-17T02:35:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tripdout",
+      "tags": []
+    },
+    {
+      "id": "btdn04",
+      "title": "Plunging US Birth Rate Leaves Too Many Colleges with Too Few Kids",
+      "description": "Score: 36 | Comments: 25 | Posted by toomuchtodo",
+      "url": "https://www.bloomberg.com/graphics/2026-college-enrollment-cliff/",
+      "publishedAt": "2026-01-17T02:30:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "toomuchtodo",
+      "tags": []
+    },
+    {
+      "id": "gcfbt",
+      "title": "Keifu – A TUI for navigating commit graphs with color and clarity",
+      "description": "Score: 25 | Comments: 5 | Posted by indigodaddy",
+      "url": "https://github.com/trasta298/keifu",
+      "publishedAt": "2026-01-17T00:32:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "indigodaddy",
+      "tags": []
+    }
+  ]
+}
