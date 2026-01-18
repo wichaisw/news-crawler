@@ -190,6 +190,17 @@
       "tags": []
     },
     {
+      "id": "j4i8ct",
+      "title": "M8SBC-486 (Homebrew 486 computer)",
+      "description": "Score: 105 | Comments: 8 | Posted by rasz",
+      "url": "https://maniek86.xyz/projects/m8sbc_486.php",
+      "publishedAt": "2026-01-11T18:58:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rasz",
+      "tags": []
+    },
+    {
       "id": "p0c7kb",
       "title": "Poison Fountain",
       "description": "Score: 183 | Comments: 115 | Posted by atomic128",
@@ -201,6 +212,17 @@
       "tags": []
     },
     {
+      "id": "jtddly",
+      "title": "The Olivetti Company",
+      "description": "Score: 153 | Comments: 32 | Posted by rbanffy",
+      "url": "https://www.abortretry.fail/p/the-olivetti-company",
+      "publishedAt": "2026-01-11T15:33:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rbanffy",
+      "tags": []
+    },
+    {
       "id": "1k5xhk",
       "title": "Everything you need to know about act() in React tests",
       "description": "Score: 12 | Comments: 0 | Posted by howToTestFE",
@@ -209,6 +231,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "howToTestFE",
+      "tags": []
+    },
+    {
+      "id": "ny5iza",
+      "title": "Below the Surface: Archeological Finds from the Amsterdam Noord/Zuid Metro Line",
+      "description": "Score: 75 | Comments: 10 | Posted by stefanvdw1",
+      "url": "https://belowthesurface.amsterdam/en/vondsten",
+      "publishedAt": "2026-01-11T14:36:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "stefanvdw1",
       "tags": []
     },
     {
@@ -231,6 +264,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "JKCalhoun",
+      "tags": []
+    },
+    {
+      "id": "1by1jk",
+      "title": "Why Object of Arrays beat interleaved arrays: a JavaScript performance issue",
+      "description": "Score: 21 | Comments: 7 | Posted by howToTestFE",
+      "url": "https://www.royalbhati.com/posts/js-array-vs-typedarray",
+      "publishedAt": "2026-01-11T12:05:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "howToTestFE",
       "tags": []
     },
     {

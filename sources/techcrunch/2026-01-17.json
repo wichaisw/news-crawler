@@ -1,0 +1,50 @@
+{
+  "date": "2026-01-17",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3083653",
+      "title": "Who gets to inherit the stars? A space ethicist on what we’re not talking about",
+      "description": "While it's easy to romanticize space as an escape to a pristine frontier where people will float weightlessly among the stars, it’s worth remembering",
+      "url": "https://techcrunch.com/2026/01/17/who-gets-to-inherit-the-stars-a-space-ethicist-on-what-were-not-talking-about/",
+      "publishedAt": "2026-01-17T22:45:09.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Connie Loizos",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3083476",
+      "title": "Trump administration’s legal setbacks are good news for offshore wind — and the grid",
+      "description": "Three offshore wind projects under construction on the U.S. East Coast are back to building after judges rebuked the Department of the Interior's",
+      "url": "https://techcrunch.com/2026/01/17/trump-administrations-legal-setbacks-are-good-news-for-offshore-wind-and-the-grid/",
+      "publishedAt": "2026-01-17T17:30:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Tim De Chant",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3082677",
+      "title": "Oshen built the first ocean robot to collect data in a Category 5 hurricane",
+      "description": "Oshen has signed contracts with multiple government agencies for its C-Star robots to collect ocean data autonomously.",
+      "url": "https://techcrunch.com/2026/01/17/oshen-built-the-first-ocean-robot-to-collect-data-in-a-category-5-hurricane/",
+      "publishedAt": "2026-01-17T16:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Rebecca Szkutak",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3083629",
+      "title": "Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune",
+      "description": "Musk's legal team argues he should be compensated as an early startup investor who sees returns \"many orders of magnitude greater\" than his initial",
+      "url": "https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/",
+      "publishedAt": "2026-01-17T08:26:08.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Connie Loizos",
+      "tags": []
+    }
+  ]
+}
