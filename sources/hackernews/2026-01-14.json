@@ -25,6 +25,17 @@
       "tags": []
     },
     {
+      "id": "frppxp",
+      "title": "Gas Town Decoded",
+      "description": "Score: 98 | Comments: 86 | Posted by alilleybrinker",
+      "url": "https://www.alilleybrinker.com/mini/gas-town-decoded/",
+      "publishedAt": "2026-01-14T22:39:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "alilleybrinker",
+      "tags": []
+    },
+    {
       "id": "6jjvp0",
       "title": "ChromaDB Explorer",
       "description": "Score: 48 | Comments: 3 | Posted by arsentjev",
@@ -66,6 +77,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "samwillis",
+      "tags": []
+    },
+    {
+      "id": "s89t20",
+      "title": "Poking holes into bytecode with peephole optimisations",
+      "description": "Score: 19 | Comments: 0 | Posted by xnacly",
+      "url": "https://xnacly.me/posts/2026/purple-garden-first-optimisations/",
+      "publishedAt": "2026-01-14T22:08:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "xnacly",
       "tags": []
     },
     {
@@ -322,6 +344,17 @@
       "tags": []
     },
     {
+      "id": "qzyqvp",
+      "title": "Show HN: Run LLMs in Docker for any language without prebuilding containers",
+      "description": "Score: 17 | Comments: 5 | Posted by mheap",
+      "url": "https://github.com/mheap/agent-en-place",
+      "publishedAt": "2026-01-14T12:59:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mheap",
+      "tags": []
+    },
+    {
       "id": "71a5fj",
       "title": "I hate GitHub Actions with passion",
       "description": "Score: 439 | Comments: 302 | Posted by xlii",
@@ -330,6 +363,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "xlii",
+      "tags": []
+    },
+    {
+      "id": "od3tl9",
+      "title": "More sustainable epoxy thanks to phosphorus",
+      "description": "Score: 83 | Comments: 36 | Posted by JeanKage",
+      "url": "https://www.empa.ch/web/s604/flamm-hemmendes-epoxidharz-nachhaltiger-machen",
+      "publishedAt": "2026-01-14T10:43:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "JeanKage",
       "tags": []
     },
     {
@@ -421,6 +465,17 @@
       "tags": []
     },
     {
+      "id": "w8ck5x",
+      "title": "Experiments with Kafka's head-of-line blocking (2023)",
+      "description": "Score: 3 | Comments: 0 | Posted by teleforce",
+      "url": "https://www.artur-rodrigues.com/tech/2023/03/21/kafka-head-of-line-blocking.html",
+      "publishedAt": "2026-01-14T04:00:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "teleforce",
+      "tags": []
+    },
+    {
       "id": "e5xwgt",
       "title": "AI will compromise your cybersecurity posture",
       "description": "Score: 20 | Comments: 8 | Posted by gmays",
@@ -473,6 +528,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "eieio",
+      "tags": []
+    },
+    {
+      "id": "a851l4",
+      "title": "Wine 11.0",
+      "description": "Score: 315 | Comments: 61 | Posted by zdw",
+      "url": "https://gitlab.winehq.org/wine/wine/-/releases/wine-11.0",
+      "publishedAt": "2026-01-14T03:08:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
       "tags": []
     },
     {
@@ -550,6 +616,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "noleary",
+      "tags": []
+    },
+    {
+      "id": "d2hblu",
+      "title": "AVX-512: First Impressions on Performance and Programmability",
+      "description": "Score: 33 | Comments: 9 | Posted by shihab",
+      "url": "https://shihab-shahriar.github.io//blog/2026/AVX-512-First-Impressions-on-Performance-and-Programmability/",
+      "publishedAt": "2026-01-14T00:43:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "shihab",
       "tags": []
     }
   ]

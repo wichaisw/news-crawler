@@ -3,6 +3,61 @@
   "source": "techcrunch",
   "articles": [
     {
+      "id": "https://techcrunch.com/?p=3083680",
+      "title": "Sequoia to invest in Anthropic, breaking VC taboo on backing rivals: FT",
+      "description": "Sequoia Capital is reportedly joining a blockbuster funding round for Anthropic, the AI startup behind Claude, according to the Financial Times. It's",
+      "url": "https://techcrunch.com/2026/01/18/sequoia-to-invest-in-anthropic-breaking-vc-taboo-on-backing-rivals-ft/",
+      "publishedAt": "2026-01-18T22:15:17.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Connie Loizos",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3083423",
+      "title": "TechCrunch Mobility: ‘Physical AI’ enters the hype machine",
+      "description": "Welcome back to TechCrunch Mobility, your hub for all things “future of transportation.”",
+      "url": "https://techcrunch.com/2026/01/18/techcrunch-mobility-physical-ai-enters-the-hype-machine/",
+      "publishedAt": "2026-01-18T17:05:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Kirsten Korosec",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3083450",
+      "title": "Threads edges out X in daily mobile users, new data shows",
+      "description": "Threads’ daily mobile usage has quietly surpassed X as Meta leans on cross-promotion, creator tools and fast feature rollouts — even as X faces fresh",
+      "url": "https://techcrunch.com/2026/01/18/threads-edges-out-x-in-daily-mobile-users-new-data-shows/",
+      "publishedAt": "2026-01-18T17:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sarah Perez",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3083601",
+      "title": "How YC-backed Bucket Robotics survived its first CES",
+      "description": "Now, the startup is turning its attention to building the business, fundraising and striking commercial deals.",
+      "url": "https://techcrunch.com/2026/01/18/how-yc-backed-bucket-robotics-survived-its-first-ces/",
+      "publishedAt": "2026-01-18T16:10:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sean O'Kane",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3083660",
+      "title": "Moxie Marlinspike has a privacy-conscious alternative to ChatGPT",
+      "description": "Confer is designed to look and feel like ChatGPT or Claude, but your conversations can't be used for training or advertising.",
+      "url": "https://techcrunch.com/2026/01/18/moxie-marlinspike-has-a-privacy-conscious-alternative-to-chatgpt/",
+      "publishedAt": "2026-01-18T15:30:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Russell Brandom",
+      "tags": []
+    },
+    {
       "id": "https://techcrunch.com/?p=3083671",
       "title": "Why Silicon Valley is really talking about fleeing California (it’s not the 5%)",
       "description": "If you've been following the billionaire exodus from California with some confusion, here's what's actually driving the nervousness: it's not the 5%",

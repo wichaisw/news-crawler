@@ -1,0 +1,72 @@
+{
+  "date": "2026-01-19",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "52mfb6",
+      "title": "Show HN: AWS-doctor – A terminal-based AWS health check and cost optimizer in Go",
+      "description": "Score: 3 | Comments: 1 | Posted by elC0mpa",
+      "url": "https://github.com/elC0mpa/aws-doctor",
+      "publishedAt": "2026-01-19T04:35:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "elC0mpa",
+      "tags": []
+    },
+    {
+      "id": "2d9klp",
+      "title": "CD Projekt issue DMCA takedown notice against popular Cyberpunk VR mod",
+      "description": "Score: 40 | Comments: 16 | Posted by wjdp",
+      "url": "https://www.patreon.com/posts/another-one-dust-148437771",
+      "publishedAt": "2026-01-19T02:42:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wjdp",
+      "tags": []
+    },
+    {
+      "id": "7w17yh",
+      "title": "All your OpenCodes belong to us",
+      "description": "Score: 26 | Comments: 6 | Posted by jpmcb",
+      "url": "https://johncodes.com/archive/2026/01-18-all-your-opencodes/",
+      "publishedAt": "2026-01-19T02:28:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jpmcb",
+      "tags": []
+    },
+    {
+      "id": "8mbw7i",
+      "title": "The Code-Only Agent",
+      "description": "Score: 35 | Comments: 12 | Posted by emersonmacro",
+      "url": "https://rijnard.com/blog/the-code-only-agent",
+      "publishedAt": "2026-01-19T02:27:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "emersonmacro",
+      "tags": []
+    },
+    {
+      "id": "cojy53",
+      "title": "Provide agents with automated feedbackbanay.me",
+      "description": "Score: 82 | Comments: 26 | Posted by ghuntley",
+      "url": "https://banay.me/dont-waste-your-backpressure/",
+      "publishedAt": "2026-01-19T01:13:09.270Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ghuntley",
+      "tags": []
+    },
+    {
+      "id": "pp1qh0",
+      "title": "Show HN: I quit coding years ago. AI brought me back",
+      "description": "Score: 50 | Comments: 37 | Posted by ivcatcher",
+      "url": "https://calquio.com/finance/compound-interest",
+      "publishedAt": "2026-01-19T00:50:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ivcatcher",
+      "tags": []
+    }
+  ]
+}
