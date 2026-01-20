@@ -1,0 +1,127 @@
+{
+  "date": "2026-01-20",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "ye2008",
+      "title": "X For You Feed Algorithm",
+      "description": "Score: 60 | Comments: 32 | Posted by grainier",
+      "url": "https://github.com/xai-org/x-algorithm",
+      "publishedAt": "2026-01-20T05:16:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "grainier",
+      "tags": []
+    },
+    {
+      "id": "2fy2em",
+      "title": "Chatbot Psychosis",
+      "description": "Score: 20 | Comments: 1 | Posted by tbmtbmtbmtbmtbm",
+      "url": "https://en.wikipedia.org/wiki/Chatbot_psychosis",
+      "publishedAt": "2026-01-20T05:08:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tbmtbmtbmtbmtbm",
+      "tags": []
+    },
+    {
+      "id": "i6k0lh",
+      "title": "x86 prefixes and escape opcodes flowchart",
+      "description": "Score: 10 | Comments: 1 | Posted by gaul",
+      "url": "https://soc.me/interfaces/x86-prefixes-and-escape-opcodes-flowchart.html",
+      "publishedAt": "2026-01-20T03:47:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gaul",
+      "tags": []
+    },
+    {
+      "id": "p7wpp1",
+      "title": "F-16 Falcon Strike",
+      "description": "Score: 69 | Comments: 5 | Posted by starkparker",
+      "url": "https://webchrono.pl/F16FalconStrike/index.html",
+      "publishedAt": "2026-01-20T03:26:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "starkparker",
+      "tags": []
+    },
+    {
+      "id": "bncpb9",
+      "title": "Show HN: Artificial Ivy in the Browser",
+      "description": "Score: 28 | Comments: 1 | Posted by dnmc",
+      "url": "https://da.nmcardle.com/grow",
+      "publishedAt": "2026-01-20T03:14:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dnmc",
+      "tags": []
+    },
+    {
+      "id": "2euon4",
+      "title": "Go 1.26 Interactive Tour",
+      "description": "Score: 61 | Comments: 8 | Posted by phren0logy",
+      "url": "https://antonz.org/go-1-26/",
+      "publishedAt": "2026-01-20T01:58:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "phren0logy",
+      "tags": []
+    },
+    {
+      "id": "1pmbow",
+      "title": "Legal Structures for Latin American Startups (2021)",
+      "description": "Score: 20 | Comments: 3 | Posted by walterbell",
+      "url": "https://latamlist.com/legal-structures-for-latin-american-startups/",
+      "publishedAt": "2026-01-20T01:21:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "walterbell",
+      "tags": []
+    },
+    {
+      "id": "ueij0k",
+      "title": "Nova Launcher added Facebook and Google Ads tracking",
+      "description": "Score: 165 | Comments: 69 | Posted by celsoazevedo",
+      "url": "https://lemdro.id/post/lemdro.id/35049920",
+      "publishedAt": "2026-01-20T01:03:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "celsoazevedo",
+      "tags": []
+    },
+    {
+      "id": "ahuecg",
+      "title": "Porsche sold more electrified cars in Europe in 2025 than pure gas-powered cars",
+      "description": "Score: 227 | Comments: 249 | Posted by m463",
+      "url": "https://newsroom.porsche.com/en/2026/company/porsche-deliveries-2025-41516.html",
+      "publishedAt": "2026-01-20T01:01:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "m463",
+      "tags": []
+    },
+    {
+      "id": "ehg6kg",
+      "title": "Harvard legal scholars debate the state of the U.S. constitution (2025)",
+      "description": "Score: 54 | Comments: 109 | Posted by KnuthIsGod",
+      "url": "https://www.harvardmagazine.com/social-sciences/is-the-constitution-broken",
+      "publishedAt": "2026-01-20T00:55:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "KnuthIsGod",
+      "tags": []
+    },
+    {
+      "id": "ev7r0f",
+      "title": "Scaling long-running autonomous coding",
+      "description": "Score: 64 | Comments: 23 | Posted by srameshc",
+      "url": "https://simonwillison.net/2026/Jan/19/scaling-long-running-autonomous-coding/",
+      "publishedAt": "2026-01-20T00:23:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "srameshc",
+      "tags": []
+    }
+  ]
+}

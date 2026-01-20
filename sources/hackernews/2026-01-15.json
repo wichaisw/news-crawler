@@ -36,6 +36,17 @@
       "tags": []
     },
     {
+      "id": "agir0z",
+      "title": "From Nevada to Kansas by Glider",
+      "description": "Score: 132 | Comments: 38 | Posted by sammelaugust",
+      "url": "https://www.weglide.org/flight/978820",
+      "publishedAt": "2026-01-15T23:36:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sammelaugust",
+      "tags": []
+    },
+    {
       "id": "7sn0c4",
       "title": "Why senior engineers let bad projects fail",
       "description": "Score: 182 | Comments: 125 | Posted by SupremumLimit",
@@ -157,6 +168,17 @@
       "tags": []
     },
     {
+      "id": "csy9ou",
+      "title": "Show HN: Munimet.ro – ML-based status page for the local subways in SF",
+      "description": "Score: 10 | Comments: 0 | Posted by MrEricSir",
+      "url": "https://munimet.ro/",
+      "publishedAt": "2026-01-15T18:51:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "MrEricSir",
+      "tags": []
+    },
+    {
       "id": "jmbjaa",
       "title": "JuiceFS is a distributed POSIX file system built on top of Redis and S3",
       "description": "Score: 135 | Comments: 71 | Posted by tosh",
@@ -209,6 +231,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "uvuv",
+      "tags": []
+    },
+    {
+      "id": "ltrrx9",
+      "title": "Selling SaaS in Japan",
+      "description": "Score: 50 | Comments: 26 | Posted by ewf",
+      "url": "https://embedworkflow.com/blog/what-saas-founders-should-know-about-entering-the-japanese-market/",
+      "publishedAt": "2026-01-15T16:55:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ewf",
       "tags": []
     },
     {
@@ -278,6 +311,28 @@
       "tags": []
     },
     {
+      "id": "qvvtlx",
+      "title": "Iterative image reconstruction using random cubic bézier strokes",
+      "description": "Score: 79 | Comments: 17 | Posted by luthenwald",
+      "url": "https://tangled.org/luthenwald.tngl.sh/splined",
+      "publishedAt": "2026-01-15T13:27:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "luthenwald",
+      "tags": []
+    },
+    {
+      "id": "siauj6",
+      "title": "Conditions in the Intel 8087 floating-point chip's microcode",
+      "description": "Score: 105 | Comments: 34 | Posted by diogotozzi",
+      "url": "https://www.righto.com/2025/12/8087-microcode-conditions.html",
+      "publishedAt": "2026-01-15T13:23:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "diogotozzi",
+      "tags": []
+    },
+    {
       "id": "1ljtwg",
       "title": "Independent Guest Virtual Machine (IGVM) File Format",
       "description": "Score: 25 | Comments: 9 | Posted by ingve",
@@ -330,6 +385,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "suioir",
+      "tags": []
+    },
+    {
+      "id": "9750xe",
+      "title": "Kahan on the 8087 and designing Intel's floating point (2016) [video]",
+      "description": "Score: 11 | Comments: 0 | Posted by bananaboy",
+      "url": "https://www.youtube.com/watch?v=L-QVgbdt_qg",
+      "publishedAt": "2026-01-15T10:43:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bananaboy",
       "tags": []
     },
     {

@@ -1,0 +1,28 @@
+{
+  "date": "2026-01-20",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "149489 at https://www.blognone.com",
+      "title": "Let's Encrypt เริ่มออกใบรับรองอายุสั้น 6 วันและใบรับรองไอพี",
+      "description": "Let's Encrypt เริ่มออกใบรับรองอายุสั้น 6 วันและใบรับรองไอพี Body Let's Encrypt เปิดใช้บริการโปรไฟล์ shortlived สำหรับการออกใบรับรองอายุสั้นเพียง 160",
+      "url": "https://www.blognone.com/node/149489",
+      "publishedAt": "2026-01-20T02:55:13.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149488 at https://www.blognone.com",
+      "title": "LINE จะทดสอบระบบเตือนภัย LINE Safety Check วันนี้ (20 มกราคม) เวลา 14:30น.",
+      "description": "LINE จะทดสอบระบบเตือนภัย LINE Safety Check วันนี้ (20 มกราคม) เวลา 14:30น. Body ในวันนี้ (20 มกราคม 2569) นอกจากมีการ",
+      "url": "https://www.blognone.com/node/149488",
+      "publishedAt": "2026-01-20T00:51:03.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}

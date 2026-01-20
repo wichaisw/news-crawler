@@ -1,0 +1,61 @@
+{
+  "date": "2026-01-19",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=2976754",
+      "title": "Here are the 55 US AI startups that raised $100M or more in 2025",
+      "description": "Last year was monumental for the AI industry in the U.S. and beyond. How will 2025 compare?",
+      "url": "https://techcrunch.com/2026/01/19/here-are-the-49-us-ai-startups-that-have-raised-100m-or-more-in-2025/",
+      "publishedAt": "2026-01-19T18:06:34.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Rebecca Szkutak",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3083143",
+      "title": "Well, there goes the metaverse!",
+      "description": "The metaverse is on its last legs as VR is eclipsed by AI. But that's not the only thing that went wrong for Meta's VR ambitions.",
+      "url": "https://techcrunch.com/2026/01/19/well-there-goes-the-metaverse/",
+      "publishedAt": "2026-01-19T16:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sarah Perez",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3083238",
+      "title": "Rogue agents and shadow AI: Why VCs are betting big on AI security",
+      "description": "Misaligned agents are just one layer of the AI security challenge that startup Witness AI is trying to solve. It detects employee use of unapproved",
+      "url": "https://techcrunch.com/2026/01/19/rogue-agents-and-shadow-ai-why-vcs-are-betting-big-on-ai-security/",
+      "publishedAt": "2026-01-19T16:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Rebecca Bellan",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3083590",
+      "title": "Looking ahead to 2026: What’s next for Startup Battlefield 200",
+      "description": "See what to expect for Startup Battlefield 200 in 2026, the ultimate startup pitch competition on the global stage at TechCrunch Disrupt. Join the",
+      "url": "https://techcrunch.com/2026/01/19/looking-ahead-to-2026-whats-next-for-startup-battlefield-200/",
+      "publishedAt": "2026-01-19T15:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Isabelle Johannessen",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3083656",
+      "title": "BioticsAI, which won Disrupt’s Battlefield competition in 2023, gains FDA approval for its AI-powered fetal ultrasound product",
+      "description": "TechCrunch Disrupt Battlefield 2023 winner, BioticsAI, announced on Monday that it has received FDA clearance for its AI software that helps detect",
+      "url": "https://techcrunch.com/2026/01/19/biotics-ai-battlefield-2023-gains-fda-approval-for-its-ai-powered-fetal-ultrasound-product/",
+      "publishedAt": "2026-01-19T15:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "tags": []
+    }
+  ]
+}
