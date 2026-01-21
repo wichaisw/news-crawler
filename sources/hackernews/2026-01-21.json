@@ -1,0 +1,105 @@
+{
+  "date": "2026-01-21",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "x5w4xt",
+      "title": "Libbbf: Bound Book Format, A high-performance container for comics and mangagithub.com/ef1500",
+      "description": "Score: 16 | Comments: 1 | Posted by zdw",
+      "url": "https://github.com/ef1500/libbbf",
+      "publishedAt": "2026-01-21T05:11:54.925Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "x5w4xt",
+      "title": "Libbbf: Bound Book Format, A high-performance container for comics and manga",
+      "description": "Score: 16 | Comments: 1 | Posted by zdw",
+      "url": "https://github.com/ef1500/libbbf",
+      "publishedAt": "2026-01-21T04:27:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "amkz1w",
+      "title": "Disaster planning for regular folks (2015)",
+      "description": "Score: 76 | Comments: 43 | Posted by AlphaWeaver",
+      "url": "https://lcamtuf.coredump.cx/prep/index-old.shtml",
+      "publishedAt": "2026-01-21T03:38:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "AlphaWeaver",
+      "tags": []
+    },
+    {
+      "id": "jyh0jp",
+      "title": "Anthropic's original take home assignment open sourcedgithub.com/anthropics",
+      "description": "Score: 130 | Comments: 38 | Posted by myahio",
+      "url": "https://github.com/anthropics/original_performance_takehome",
+      "publishedAt": "2026-01-21T03:11:54.925Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "myahio",
+      "tags": []
+    },
+    {
+      "id": "jyh0jp",
+      "title": "Anthropic's original take home assignment open sourced",
+      "description": "Score: 130 | Comments: 38 | Posted by myahio",
+      "url": "https://github.com/anthropics/original_performance_takehome",
+      "publishedAt": "2026-01-21T02:54:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "myahio",
+      "tags": []
+    },
+    {
+      "id": "v3tu3b",
+      "title": "RSS.Social – the latest and best from small sites across the web",
+      "description": "Score: 3 | Comments: 0 | Posted by Curiositry",
+      "url": "https://rss.social/",
+      "publishedAt": "2026-01-21T02:36:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Curiositry",
+      "tags": []
+    },
+    {
+      "id": "f9kc5y",
+      "title": "Verizon starts requiring 365 days of paid service before it will unlock phones",
+      "description": "Score: 81 | Comments: 71 | Posted by voxadam",
+      "url": "https://arstechnica.com/tech-policy/2026/01/verizon-starts-requiring-365-days-of-paid-service-before-it-will-unlock-phones/",
+      "publishedAt": "2026-01-21T01:37:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "voxadam",
+      "tags": []
+    },
+    {
+      "id": "bmomzb",
+      "title": "Who owns Rudolph's nose?",
+      "description": "Score: 27 | Comments: 14 | Posted by ohjeez",
+      "url": "https://creativelawcenter.com/copyright-rudolph-reindeer/",
+      "publishedAt": "2026-01-21T00:21:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ohjeez",
+      "tags": []
+    },
+    {
+      "id": "qkn85q",
+      "title": "Show HN: macOS native DAW with Git branching model",
+      "description": "Score: 23 | Comments: 18 | Posted by hpen",
+      "url": "https://www.scratchtrackaudio.com",
+      "publishedAt": "2026-01-21T00:05:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hpen",
+      "tags": []
+    }
+  ]
+}

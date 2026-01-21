@@ -1,0 +1,39 @@
+{
+  "date": "2026-01-21",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3083734",
+      "title": "Bolna nabs $6.3M from General Catalyst for its India-focused voice orchestration platform",
+      "description": "Bolna said that 75% of its revenue is coming from self-serve customers.",
+      "url": "https://techcrunch.com/2026/01/20/bolna-nabs-6-3-million-from-general-catalyst-for-its-india-focused-voice-orchestration-platform/",
+      "publishedAt": "2026-01-21T02:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Ivan Mehta",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3084298",
+      "title": "Anthropic’s CEO stuns Davos with Nvidia criticism",
+      "description": "Anthropic CEO Dario Amodei unloaded on both the administration and U.S. chip companies over plans to sell to China. The criticism was particularly",
+      "url": "https://techcrunch.com/2026/01/20/anthropics-ceo-stuns-davos-with-nvidia-criticism/",
+      "publishedAt": "2026-01-21T01:39:58.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Connie Loizos",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3084300",
+      "title": "Netflix to redesign its app as it competes with social platforms for daily engagement",
+      "description": "At the center of the redesign is deeper integration of vertical video feeds, which the streaming giant has been experimenting with since May.",
+      "url": "https://techcrunch.com/2026/01/20/netflix-to-redesign-its-app-as-it-competes-with-social-platforms-for-daily-engagement/",
+      "publishedAt": "2026-01-21T00:47:09.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lauren Forristal",
+      "tags": []
+    }
+  ]
+}

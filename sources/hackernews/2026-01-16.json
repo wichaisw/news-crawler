@@ -58,6 +58,17 @@
       "tags": []
     },
     {
+      "id": "gnatrk",
+      "title": "Fast Concordance: Instant concordance on a corpus of >1,200 books",
+      "description": "Score: 42 | Comments: 3 | Posted by evakhoury",
+      "url": "https://iafisher.com/concordance/",
+      "publishedAt": "2026-01-16T21:37:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "evakhoury",
+      "tags": []
+    },
+    {
       "id": "kz9tm0",
       "title": "East Germany balloon escapewikipedia.org",
       "description": "Score: 411 | Comments: 143 | Posted by robertvc",
@@ -176,6 +187,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jaas",
+      "tags": []
+    },
+    {
+      "id": "t43pr6",
+      "title": "The GDB JIT Interface",
+      "description": "Score: 12 | Comments: 2 | Posted by surprisetalk",
+      "url": "https://bernsteinbear.com/blog/gdb-jit/",
+      "publishedAt": "2026-01-16T15:27:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
       "tags": []
     },
     {
@@ -440,6 +462,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "gpi",
+      "tags": []
+    },
+    {
+      "id": "6v5szw",
+      "title": "Show HN: Aventos – An experiment in cheap AI SEO",
+      "description": "Score: 14 | Comments: 8 | Posted by JimsonYang",
+      "url": "https://www.aventos.dev/",
+      "publishedAt": "2026-01-16T02:57:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "JimsonYang",
       "tags": []
     },
     {
