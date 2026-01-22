@@ -234,6 +234,17 @@
       "tags": []
     },
     {
+      "id": "1y820b",
+      "title": "SIMD programming in pure Rust",
+      "description": "Score: 79 | Comments: 32 | Posted by randomint64",
+      "url": "https://kerkour.com/introduction-rust-simd",
+      "publishedAt": "2026-01-19T09:39:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "randomint64",
+      "tags": []
+    },
+    {
       "id": "wqu93a",
       "title": "Building Robust Helm Charts",
       "description": "Score: 55 | Comments: 0 | Posted by will_munn",
@@ -275,6 +286,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "wq98og",
+      "title": "Beowulf's opening \"What\" is no interjection (2013)",
+      "description": "Score: 68 | Comments: 50 | Posted by gsf_emergency_6",
+      "url": "https://www.poetryfoundation.org/poetry-news/69208/new-research-opening-line-of-beowulf-is-not-what-weve-eternally-thunk",
+      "publishedAt": "2026-01-19T06:19:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gsf_emergency_6",
       "tags": []
     },
     {

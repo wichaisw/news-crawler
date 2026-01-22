@@ -36,6 +36,17 @@
       "tags": []
     },
     {
+      "id": "i0lpik",
+      "title": "EmuDevz: A game about developing emulators",
+      "description": "Score: 191 | Comments: 42 | Posted by ingve",
+      "url": "https://afska.github.io/emudevz/",
+      "publishedAt": "2026-01-17T21:57:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingve",
+      "tags": []
+    },
+    {
       "id": "yqw4gi",
       "title": "Show HN: Speed Miners – A tiny RTS resource mini-game",
       "description": "Score: 20 | Comments: 2 | Posted by nickponline",
@@ -44,6 +55,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "nickponline",
+      "tags": []
+    },
+    {
+      "id": "m11zl1",
+      "title": "The WebRacket language is a subset of Racket that compiles to WebAssembly",
+      "description": "Score: 116 | Comments: 24 | Posted by mfru",
+      "url": "https://github.com/soegaard/webracket",
+      "publishedAt": "2026-01-17T21:23:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mfru",
       "tags": []
     },
     {
@@ -113,6 +135,17 @@
       "tags": []
     },
     {
+      "id": "45jr6b",
+      "title": "Show HN: Differentiable Quantum Chemistry",
+      "description": "Score: 19 | Comments: 4 | Posted by lowdanie",
+      "url": "https://github.com/lowdanie/hartree-fock-solver",
+      "publishedAt": "2026-01-17T17:36:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lowdanie",
+      "tags": []
+    },
+    {
       "id": "yepghr",
       "title": "An Elizabethan mansion's secrets for staying warm",
       "description": "Score: 129 | Comments: 147 | Posted by Tachyooon",
@@ -165,6 +198,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "glimshe",
+      "tags": []
+    },
+    {
+      "id": "eregm1",
+      "title": "Show HN: RatatuiRuby wraps Rust Ratatui as a RubyGem – TUIs with the joy of Ruby",
+      "description": "Score: 106 | Comments: 15 | Posted by Kerrick",
+      "url": "https://www.ratatui-ruby.dev/",
+      "publishedAt": "2026-01-17T14:03:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Kerrick",
+      "tags": []
+    },
+    {
+      "id": "7epghd",
+      "title": "Binary fuse filters: Fast and smaller than xor filters (2022)",
+      "description": "Score: 80 | Comments: 4 | Posted by redbell",
+      "url": "https://arxiv.org/abs/2201.01174",
+      "publishedAt": "2026-01-17T14:02:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "redbell",
       "tags": []
     },
     {

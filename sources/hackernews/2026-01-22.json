@@ -1,0 +1,116 @@
+{
+  "date": "2026-01-22",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "scqvy3",
+      "title": "Doctors in Brazil using tilapia fish skin to treat burn victims",
+      "description": "Score: 11 | Comments: 0 | Posted by kaycebasques",
+      "url": "https://www.pbs.org/newshour/health/brazilian-city-uses-tilapia-fish-skin-treat-burn-victims",
+      "publishedAt": "2026-01-22T05:15:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kaycebasques",
+      "tags": []
+    },
+    {
+      "id": "errwxo",
+      "title": "Show HN: High speed graphics rendering research with tinygrad/tinyJIT",
+      "description": "Score: 12 | Comments: 4 | Posted by quantbagel",
+      "url": "https://github.com/quantbagel/gtinygrad",
+      "publishedAt": "2026-01-22T03:26:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "quantbagel",
+      "tags": []
+    },
+    {
+      "id": "7arcg7",
+      "title": "Show HN: Sweep, Open-weights 1.5B model for next-edit autocompletehuggingface.co",
+      "description": "Score: 102 | Comments: 17 | Posted by williamzeng0",
+      "url": "https://huggingface.co/sweepai/sweep-next-edit-1.5B",
+      "publishedAt": "2026-01-22T03:10:47.767Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "williamzeng0",
+      "tags": []
+    },
+    {
+      "id": "bzm0mh",
+      "title": "From stealth blackout to whitelisting: Inside the Iranian shutdownkentik.com",
+      "description": "Score: 45 | Comments: 3 | Posted by oavioklein",
+      "url": "https://www.kentik.com/blog/from-stealth-blackout-to-whitelisting-inside-the-iranian-shutdown/",
+      "publishedAt": "2026-01-22T03:10:47.767Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "oavioklein",
+      "tags": []
+    },
+    {
+      "id": "mfwo34",
+      "title": "Internet voting is insecure and should not be used in public elections",
+      "description": "Score: 363 | Comments: 345 | Posted by WaitWaitWha",
+      "url": "https://blog.citp.princeton.edu/2026/01/16/internet-voting-is-insecure-and-should-not-be-used-in-public-elections/",
+      "publishedAt": "2026-01-22T01:11:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "WaitWaitWha",
+      "tags": []
+    },
+    {
+      "id": "kf88s9",
+      "title": "Threat actors expand abuse of Microsoft Visual Studio Codejamf.com",
+      "description": "Score: 113 | Comments: 60 | Posted by vinnyglennon",
+      "url": "https://www.jamf.com/blog/threat-actors-expand-abuse-of-visual-studio-code/",
+      "publishedAt": "2026-01-22T01:10:47.768Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vinnyglennon",
+      "tags": []
+    },
+    {
+      "id": "qbev7c",
+      "title": "I'll pass on your zoom call",
+      "description": "Score: 59 | Comments: 41 | Posted by c4lliope",
+      "url": "https://operand.online/chronicle/pass.zoom",
+      "publishedAt": "2026-01-22T00:34:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "c4lliope",
+      "tags": []
+    },
+    {
+      "id": "kf88s9",
+      "title": "Threat actors expand abuse of Microsoft Visual Studio Code",
+      "description": "Score: 113 | Comments: 60 | Posted by vinnyglennon",
+      "url": "https://www.jamf.com/blog/threat-actors-expand-abuse-of-visual-studio-code/",
+      "publishedAt": "2026-01-22T00:12:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vinnyglennon",
+      "tags": []
+    },
+    {
+      "id": "1xijvz",
+      "title": "Show HN: Dotenv Mask Editor: No more embarrassing screen leaks of your .env",
+      "description": "Score: 12 | Comments: 13 | Posted by xinbenlv",
+      "url": "https://marketplace.visualstudio.com/items?itemName=xinbenlv.dotenv-mask-editor",
+      "publishedAt": "2026-01-22T00:04:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "xinbenlv",
+      "tags": []
+    },
+    {
+      "id": "bzm0mh",
+      "title": "From stealth blackout to whitelisting: Inside the Iranian shutdown",
+      "description": "Score: 45 | Comments: 3 | Posted by oavioklein",
+      "url": "https://www.kentik.com/blog/from-stealth-blackout-to-whitelisting-inside-the-iranian-shutdown/",
+      "publishedAt": "2026-01-22T00:00:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "oavioklein",
+      "tags": []
+    }
+  ]
+}
