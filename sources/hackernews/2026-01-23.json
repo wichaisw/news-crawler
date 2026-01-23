@@ -1,0 +1,127 @@
+{
+  "date": "2026-01-23",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "z5zdx1",
+      "title": "I built a light that reacts to radio waves [video]",
+      "description": "Score: 5 | Comments: 0 | Posted by codetheweb",
+      "url": "https://www.youtube.com/watch?v=moBCOEiqiPs",
+      "publishedAt": "2026-01-23T05:34:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "codetheweb",
+      "tags": []
+    },
+    {
+      "id": "ku2dfd",
+      "title": "United States Completes WHO Withdrawal",
+      "description": "Score: 52 | Comments: 5 | Posted by Swizec",
+      "url": "https://www.hhs.gov/press-room/united-states-completes-who-withdrawal.html",
+      "publishedAt": "2026-01-23T05:10:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Swizec",
+      "tags": []
+    },
+    {
+      "id": "balbci",
+      "title": "Talking to LLMs has improved my thinkingphilipotoole.com",
+      "description": "Score: 43 | Comments: 20 | Posted by otoolep",
+      "url": "https://philipotoole.com/why-talking-to-llms-has-improved-my-thinking/",
+      "publishedAt": "2026-01-23T04:11:09.326Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "otoolep",
+      "tags": []
+    },
+    {
+      "id": "balbci",
+      "title": "Talking to LLMs has improved my thinking",
+      "description": "Score: 43 | Comments: 20 | Posted by otoolep",
+      "url": "https://philipotoole.com/why-talking-to-llms-has-improved-my-thinking/",
+      "publishedAt": "2026-01-23T03:52:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "otoolep",
+      "tags": []
+    },
+    {
+      "id": "6cducg",
+      "title": "The lost art of XML",
+      "description": "Score: 50 | Comments: 44 | Posted by Curiositry",
+      "url": "https://marcosmagueta.com/blog/the-lost-art-of-xml/",
+      "publishedAt": "2026-01-23T03:45:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Curiositry",
+      "tags": []
+    },
+    {
+      "id": "kc16h9",
+      "title": "The Cscript Style Guide – CScript is the standard C",
+      "description": "Score: 12 | Comments: 6 | Posted by domenukk",
+      "url": "https://github.com/domenukk/CScript",
+      "publishedAt": "2026-01-23T03:23:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "domenukk",
+      "tags": []
+    },
+    {
+      "id": "r4s8zu",
+      "title": "The Uncomfortable Math of Working for Yourself",
+      "description": "Score: 7 | Comments: 0 | Posted by eeko_systems",
+      "url": "https://thomasunise.com/the-uncomfortable-math-of-working-for-yourself/",
+      "publishedAt": "2026-01-23T03:04:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "eeko_systems",
+      "tags": []
+    },
+    {
+      "id": "jhwb0f",
+      "title": "Bugs Apple Loves",
+      "description": "Score: 381 | Comments: 130 | Posted by nhod",
+      "url": "https://www.bugsappleloves.com",
+      "publishedAt": "2026-01-23T02:24:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nhod",
+      "tags": []
+    },
+    {
+      "id": "3jfno",
+      "title": "Stunnel",
+      "description": "Score: 51 | Comments: 14 | Posted by firesteelrain",
+      "url": "https://www.stunnel.org/",
+      "publishedAt": "2026-01-23T00:30:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "firesteelrain",
+      "tags": []
+    },
+    {
+      "id": "4txs89",
+      "title": "Vibe a Guitar Pedal",
+      "description": "Score: 27 | Comments: 15 | Posted by mulhoon",
+      "url": "https://polyend.com/endless/",
+      "publishedAt": "2026-01-23T00:29:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mulhoon",
+      "tags": []
+    },
+    {
+      "id": "1y9hm3",
+      "title": "Why medieval city-builder video games are historically inaccurate (2020)",
+      "description": "Score: 95 | Comments: 54 | Posted by benbreen",
+      "url": "https://www.leidenmedievalistsblog.nl/articles/why-medieval-city-builder-video-games-are-historically-inaccurate",
+      "publishedAt": "2026-01-23T00:22:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "benbreen",
+      "tags": []
+    }
+  ]
+}

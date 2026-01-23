@@ -1,0 +1,42 @@
+{
+  "date": "2026-01-23",
+  "source": "theverge",
+  "articles": [
+    {
+      "id": "4x9n8q",
+      "title": "The TikTok deal is done, finally",
+      "description": "Just over a year after it briefly disappeared from app stores, TikTok in the US is now part of a new entity, TikTok USDS Joint Venture LLC. With approval from both the US and China closing on the schedule laid out in December, ByteDance's ownership of the new joint venture is now only 19.9 percent [&#8230;]",
+      "url": "https://www.theverge.com/tech/866437/tiktok-usds-bytedance-sale-oracle-mgx",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK051_TIKTOKBAN2_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-01-23T01:01:16.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Richard Lawler",
+      "tags": []
+    },
+    {
+      "id": "9ye2c1",
+      "title": "Ring can verify videos now, but that might not help you with most AI fakes",
+      "description": "Ring has launched a new Ring Verify tool that the company says can \"verify that Ring videos you receive haven't been edited or changed.\" But since Ring won't verify videos that have been altered in any way, it probably won't be able to verify those videos you see on TikTok that look like they're from [&#8230;]",
+      "url": "https://www.theverge.com/news/866441/ring-verify-security-camera-ai-fakes-video-verification",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Ring-Indoor-Camera-second-generation.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-01-23T00:57:41.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Jay Peters",
+      "tags": []
+    },
+    {
+      "id": "jl95s1",
+      "title": "Beyond Good and Evil 2 somehow survived the purge at Ubisoft",
+      "description": "In what world does Prince of Persia: The Sands of Time Remake get canceled amid corporate restructuring and yet BG&#38;E2 does not? \"Beyond Good &#38; Evil 2 remains a priority for us in the context of our strategy centered around Open World Adventures,\" an unnamed Ubisoft spokesperson told Kotaku and Insider Gaming. The original Beyond [&#8230;]",
+      "url": "https://www.theverge.com/games/866439/beyond-good-and-evil-2-somehow-survived-the-purge-at-ubisoft",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/8685249/BGE2_PACK_E3_KNOX.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-01-23T00:53:25.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Sean Hollister",
+      "tags": []
+    }
+  ]
+}

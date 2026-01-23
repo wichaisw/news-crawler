@@ -1,0 +1,50 @@
+{
+  "date": "2026-01-23",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3085412",
+      "title": "Former Sequoia partner’s new startup uses AI to negotiate your calendar for you",
+      "description": "Blockit, an AI agent that communicates directly with other calendars, has raised $5 million in seed funding led by Sequoia.",
+      "url": "https://techcrunch.com/2026/01/22/former-sequoia-partners-new-startup-uses-ai-to-negotiate-your-calendar-for-you/",
+      "publishedAt": "2026-01-23T02:29:24.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Marina Temkin",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3085355",
+      "title": "Palmer Luckey says the coolest thing about Anduril expanding to Long Beach is the fighter jets",
+      "description": "Anduril on Thursday announced its plans to expand its Southern California presence with a major campus in Long Beach, the town where founder Palmer",
+      "url": "https://techcrunch.com/2026/01/22/palmer-luckey-says-the-coolest-thing-about-anduril-expanding-to-long-beach-is-the-fighter-jets/",
+      "publishedAt": "2026-01-23T01:31:54.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Julie Bort",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3085270",
+      "title": "OpenAI is coming for those sweet enterprise dollars in 2026",
+      "description": "OpenAI has reportedly appointed Barret Zoph to lead its push into enterprise just a week after Zoph rejoined the company.",
+      "url": "https://techcrunch.com/2026/01/22/openai-is-coming-for-those-sweet-enterprise-dollars-in-2026/",
+      "publishedAt": "2026-01-23T00:52:33.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Rebecca Szkutak",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3085358",
+      "title": "Vimeo starts layoffs after acquisition by Bending Spoons",
+      "description": "Vimeo is in the process of laying off some of its global staff after being acquired last year by Bending Spoons for $1.38B.",
+      "url": "https://techcrunch.com/2026/01/22/vimeo-starts-layoffs-after-acquisition-by-bending-spoons/",
+      "publishedAt": "2026-01-23T00:27:28.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lucas Ropek",
+      "tags": []
+    }
+  ]
+}

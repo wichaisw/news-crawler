@@ -234,6 +234,17 @@
       "tags": []
     },
     {
+      "id": "z5xibo",
+      "title": "Turso is an in-process SQL database, compatible with SQLite",
+      "description": "Score: 85 | Comments: 47 | Posted by marklit",
+      "url": "https://github.com/tursodatabase/turso",
+      "publishedAt": "2026-01-19T11:04:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "marklit",
+      "tags": []
+    },
+    {
       "id": "1y820b",
       "title": "SIMD programming in pure Rust",
       "description": "Score: 79 | Comments: 32 | Posted by randomint64",
@@ -275,6 +286,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "long",
+      "tags": []
+    },
+    {
+      "id": "ndka6a",
+      "title": "Writing First, Tooling Second",
+      "description": "Score: 8 | Comments: 0 | Posted by blenderob",
+      "url": "https://susam.net/writing-first-tooling-second.html",
+      "publishedAt": "2026-01-19T06:51:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "blenderob",
       "tags": []
     },
     {
