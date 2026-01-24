@@ -1,0 +1,50 @@
+{
+  "date": "2026-01-24",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "55l7f6",
+      "title": "Internet Archive's Storagedshr.org",
+      "description": "Score: 45 | Comments: 5 | Posted by zdw",
+      "url": "https://blog.dshr.org/2026/01/internet-archives-storage.html",
+      "publishedAt": "2026-01-24T03:09:48.501Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "nfnvtk",
+      "title": "SEC obtains final consent judgments against former FTX and Alameda executives",
+      "description": "Score: 79 | Comments: 52 | Posted by sizzle",
+      "url": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26450",
+      "publishedAt": "2026-01-24T02:59:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sizzle",
+      "tags": []
+    },
+    {
+      "id": "a19zo2",
+      "title": "AI can 10x developers in creating tech debt",
+      "description": "Score: 27 | Comments: 6 | Posted by thebeardisred",
+      "url": "https://stackoverflow.blog/2026/01/23/ai-can-10x-developers-in-creating-tech-debt/",
+      "publishedAt": "2026-01-24T02:40:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thebeardisred",
+      "tags": []
+    },
+    {
+      "id": "bzzrn4",
+      "title": "Comma openpilot – Open source driver-assistance",
+      "description": "Score: 216 | Comments: 118 | Posted by JumpCrisscross",
+      "url": "https://comma.ai",
+      "publishedAt": "2026-01-24T01:00:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "JumpCrisscross",
+      "tags": []
+    }
+  ]
+}

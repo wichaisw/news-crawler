@@ -25,6 +25,17 @@
       "tags": []
     },
     {
+      "id": "86je8b",
+      "title": "Floating-Point Printing and Parsing Can Be Simple and Fast",
+      "description": "Score: 104 | Comments: 11 | Posted by chmaynard",
+      "url": "https://research.swtch.com/fp",
+      "publishedAt": "2026-01-19T22:21:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "chmaynard",
+      "tags": []
+    },
+    {
       "id": "o2tdwn",
       "title": "Nanolang: A tiny experimental language designed to be targeted by coding LLMs",
       "description": "Score: 123 | Comments: 80 | Posted by Scramblejams",
@@ -168,6 +179,17 @@
       "tags": []
     },
     {
+      "id": "4vak4f",
+      "title": "The SIM-to-real problem isn't about simulators – it's about behavior robustness",
+      "description": "Score: 20 | Comments: 3 | Posted by fabotelli",
+      "url": "https://medium.com/@freefabian/introducing-the-concept-of-kinematic-fingerprints-8e9bb332cc85",
+      "publishedAt": "2026-01-19T17:42:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fabotelli",
+      "tags": []
+    },
+    {
       "id": "7luciv",
       "title": "What came first: the CNAME or the A record?",
       "description": "Score: 328 | Comments: 113 | Posted by linolevan",
@@ -234,6 +256,17 @@
       "tags": []
     },
     {
+      "id": "3wbh6n",
+      "title": "Losing 1½ Million Lines of Go",
+      "description": "Score: 65 | Comments: 6 | Posted by moks",
+      "url": "https://www.tbray.org/ongoing/When/202x/2026/01/14/Unicode-Properties",
+      "publishedAt": "2026-01-19T15:06:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "moks",
+      "tags": []
+    },
+    {
       "id": "z5xibo",
       "title": "Turso is an in-process SQL database, compatible with SQLite",
       "description": "Score: 85 | Comments: 47 | Posted by marklit",
@@ -275,6 +308,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "SilenN",
+      "tags": []
+    },
+    {
+      "id": "is1ar7",
+      "title": "Some C habits I employ for the modern day",
+      "description": "Score: 115 | Comments: 36 | Posted by signa11",
+      "url": "https://www.unix.dog/~yosh/blog/c-habits-for-me.html",
+      "publishedAt": "2026-01-19T08:03:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "signa11",
       "tags": []
     },
     {

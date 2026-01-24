@@ -201,6 +201,17 @@
       "tags": []
     },
     {
+      "id": "55l7f6",
+      "title": "Internet Archive's Storage",
+      "description": "Score: 46 | Comments: 5 | Posted by zdw",
+      "url": "https://blog.dshr.org/2026/01/internet-archives-storage.html",
+      "publishedAt": "2026-01-20T17:16:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
       "id": "a6abbj",
       "title": "The Unix Pipe Card Game",
       "description": "Score: 199 | Comments: 65 | Posted by kykeonaut",
@@ -333,6 +344,28 @@
       "tags": []
     },
     {
+      "id": "23u0sg",
+      "title": "Workspaces and Monorepos in Package Managers",
+      "description": "Score: 18 | Comments: 3 | Posted by Couto",
+      "url": "https://nesbitt.io/2026/01/18/workspaces-and-monorepos-in-package-managers.html",
+      "publishedAt": "2026-01-20T09:33:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Couto",
+      "tags": []
+    },
+    {
+      "id": "dnbcrq",
+      "title": "Extracting verified C++ from the Rocq theorem prover at Bloomberg",
+      "description": "Score: 10 | Comments: 1 | Posted by clarus",
+      "url": "https://bloomberg.github.io/crane/",
+      "publishedAt": "2026-01-20T09:08:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "clarus",
+      "tags": []
+    },
+    {
       "id": "ye2008",
       "title": "X For You Feed Algorithm",
       "description": "Score: 60 | Comments: 32 | Posted by grainier",
@@ -462,6 +495,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "srameshc",
+      "tags": []
+    },
+    {
+      "id": "7dgehg",
+      "title": "AI is a horse (2024)",
+      "description": "Score: 455 | Comments: 219 | Posted by zdw",
+      "url": "https://kconner.com/2024/08/02/ai-is-a-horse.html",
+      "publishedAt": "2026-01-20T00:20:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
       "tags": []
     }
   ]

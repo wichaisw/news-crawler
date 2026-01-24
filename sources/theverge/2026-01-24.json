@@ -1,0 +1,30 @@
+{
+  "date": "2026-01-24",
+  "source": "theverge",
+  "articles": [
+    {
+      "id": "pevv0t",
+      "title": "Chromebooks train schoolkids to be loyal customers, internal Google document suggests",
+      "description": "Internal documents revealed as part of a child safety lawsuit hint at Google's plan to \"onboard kids\" into its ecosystem by investing in schools. In this November 2020 presentation, Google writes that getting kids into its ecosystem \"leads to brand trust and loyalty over their lifetime,\" as reported earlier by NBC News. The heavily-redacted documents, [&#8230;]",
+      "url": "https://www.theverge.com/news/867138/google-chromebook-education-expansion-court-filings",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/236575_236575_HP_Chromebook_AKrales_0060.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-01-24T01:21:41.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Emma Roth",
+      "tags": []
+    },
+    {
+      "id": "gszrtc",
+      "title": "Leak: Nvidia is about to challenge ‘Intel Inside’ with as many as eight Arm laptops",
+      "description": "Intel and AMD have split the Windows laptop market for years, but the x86 players may be getting outnumbered. It's not just Apple MacBooks and MediaTek-based Chromebooks using Arm chips anymore. There are finally competent Qualcomm Snapdragon laptops running Windows, and - as soon as this spring - Nvidia will finally power Windows consumer laptops [&#8230;]",
+      "url": "https://www.theverge.com/games/867056/leak-nvidia-n1-n1x-laptops-lenovo-dell",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/geforce-rtx-5050-desktop-and-laptop.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-01-24T01:09:10.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Sean Hollister",
+      "tags": []
+    }
+  ]
+}

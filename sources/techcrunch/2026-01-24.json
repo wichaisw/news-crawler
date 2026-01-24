@@ -1,0 +1,50 @@
+{
+  "date": "2026-01-24",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3085827",
+      "title": "Legal AI giant Harvey acquires Hexus as competition heats up in legal tech",
+      "description": "Hexus founder and CEO Sakshi Pratap, who previously held engineering roles at Walmart, Oracle, and Google, tells TechCrunch that her San",
+      "url": "https://techcrunch.com/2026/01/23/legal-ai-giant-harvey-acquires-hexus-as-competition-heats-up-in-legal-tech/",
+      "publishedAt": "2026-01-24T05:27:22.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Connie Loizos",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3085596",
+      "title": "Apple iPhone just had its best year in India as the smartphone market stays broadly flat",
+      "description": "Apple shipped a record 14 million iPhones in India in 2025 and gained market share.",
+      "url": "https://techcrunch.com/2026/01/23/apple-iphone-just-had-its-best-year-in-india-as-the-smartphone-market-stays-broadly-flat/",
+      "publishedAt": "2026-01-24T05:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Jagmeet Singh",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3085612",
+      "title": "TikTok users freak out over app’s ‘immigration status’ collection — here’s what it means",
+      "description": "TikTok users are freaking out over a mention of \"immigration status\" data collection, but lawyers explain the disclosure is related to state privacy",
+      "url": "https://techcrunch.com/2026/01/23/tiktok-users-freak-out-over-apps-immigration-status-collection-heres-what-it-means/",
+      "publishedAt": "2026-01-24T04:34:02.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sarah Perez",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3085799",
+      "title": "Who’s behind AMI Labs, Yann LeCun’s ‘world model’ startup",
+      "description": "Yann LeCun's new venture, AMI Labs, has drawn intense attention since the AI scientist left Meta to found it.",
+      "url": "https://techcrunch.com/2026/01/23/whos-behind-ami-labs-yann-lecuns-world-model-startup/",
+      "publishedAt": "2026-01-24T00:04:45.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anna Heim",
+      "tags": []
+    }
+  ]
+}
