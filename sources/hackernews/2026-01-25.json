@@ -1,0 +1,182 @@
+{
+  "date": "2026-01-25",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "6l5x91",
+      "title": "What Ralph Wiggum loops are missing",
+      "description": "Score: 4 | Comments: 0 | Posted by xR0am",
+      "url": "https://xr0am.substack.com/p/what-ralph-wiggum-loops-are-missing",
+      "publishedAt": "2026-01-25T05:09:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "xR0am",
+      "tags": []
+    },
+    {
+      "id": "5yggqu",
+      "title": "Palantir has no place in UK public services",
+      "description": "Score: 82 | Comments: 17 | Posted by jethronethro",
+      "url": "https://www.opendemocracy.net/en/zarah-sutlana-palantir-no-place-uk-public-services-ministry-of-defence/",
+      "publishedAt": "2026-01-25T04:53:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jethronethro",
+      "tags": []
+    },
+    {
+      "id": "13yg6q",
+      "title": "TikTok is officially US-owned for American users, here's what's changing",
+      "description": "Score: 25 | Comments: 25 | Posted by WaitWaitWha",
+      "url": "https://9to5mac.com/2026/01/23/tiktok-is-officially-us-owned-for-american-users-heres-whats-changing/",
+      "publishedAt": "2026-01-25T04:37:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "WaitWaitWha",
+      "tags": []
+    },
+    {
+      "id": "m34am4",
+      "title": "nvidia-smi hangs indefinitely after ~66 daysgithub.com/nvidia",
+      "description": "Score: 113 | Comments: 19 | Posted by tosh",
+      "url": "https://github.com/NVIDIA/open-gpu-kernel-modules/issues/971",
+      "publishedAt": "2026-01-25T04:09:58.082Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tosh",
+      "tags": []
+    },
+    {
+      "id": "srdvan",
+      "title": "The Responsibility of Intellectuals (1967)",
+      "description": "Score: 36 | Comments: 17 | Posted by andsoitis",
+      "url": "https://www.nybooks.com/articles/1967/02/23/a-special-supplement-the-responsibility-of-intelle/",
+      "publishedAt": "2026-01-25T03:44:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andsoitis",
+      "tags": []
+    },
+    {
+      "id": "wjffxo",
+      "title": "Alex Honnold completes Taipei 101 skyscraper climb without ropes or safety net",
+      "description": "Score: 76 | Comments: 50 | Posted by keepamovin",
+      "url": "https://www.cnn.com/sport/live-news/taiwan-alex-honnold-climb-taipei-101-01-25-26-intl-hnk",
+      "publishedAt": "2026-01-25T03:41:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "keepamovin",
+      "tags": []
+    },
+    {
+      "id": "c5yse",
+      "title": "Show HN: VM-curator – a TUI alternative to libvirt and virt-manager",
+      "description": "Score: 14 | Comments: 2 | Posted by theYipster",
+      "url": "https://github.com/mroboff/vm-curator",
+      "publishedAt": "2026-01-25T03:36:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "theYipster",
+      "tags": []
+    },
+    {
+      "id": "m34am4",
+      "title": "nvidia-smi hangs indefinitely after ~66 days",
+      "description": "Score: 113 | Comments: 19 | Posted by tosh",
+      "url": "https://github.com/NVIDIA/open-gpu-kernel-modules/issues/971",
+      "publishedAt": "2026-01-25T03:33:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tosh",
+      "tags": []
+    },
+    {
+      "id": "tf9ykv",
+      "title": "BookLore: A self-hosted, multi-user digital library",
+      "description": "Score: 8 | Comments: 0 | Posted by thunderbong",
+      "url": "https://github.com/booklore-app/booklore",
+      "publishedAt": "2026-01-25T03:20:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thunderbong",
+      "tags": []
+    },
+    {
+      "id": "o4m9d9",
+      "title": "Second Win11 emergency out of band update to address disastrous Patch Tuesday",
+      "description": "Score: 75 | Comments: 21 | Posted by speckx",
+      "url": "https://www.windowscentral.com/microsoft/windows-11/windows-11-second-emergency-out-of-band-update-kb5078127-released-address-outlook-bugs",
+      "publishedAt": "2026-01-25T03:17:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
+      "tags": []
+    },
+    {
+      "id": "twk0eu",
+      "title": "David Patterson: Challenges and Research Directions for LLM Inference Hardware",
+      "description": "Score: 25 | Comments: 1 | Posted by transpute",
+      "url": "https://arxiv.org/abs/2601.05047",
+      "publishedAt": "2026-01-25T02:48:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "transpute",
+      "tags": []
+    },
+    {
+      "id": "wkpjvr",
+      "title": "OpenAI's GPT-5.2 model cites Grokipedia",
+      "description": "Score: 21 | Comments: 4 | Posted by bhouston",
+      "url": "https://www.engadget.com/ai/report-reveals-that-openais-gpt-52-model-cites-grokipedia-192532977.html",
+      "publishedAt": "2026-01-25T02:33:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bhouston",
+      "tags": []
+    },
+    {
+      "id": "p5cnq4",
+      "title": "Vortex Support in DuckDB",
+      "description": "Score: 10 | Comments: 0 | Posted by 0x1997",
+      "url": "https://duckdb.org/2026/01/23/duckdb-vortex-extension",
+      "publishedAt": "2026-01-25T02:18:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "0x1997",
+      "tags": []
+    },
+    {
+      "id": "cap6ft",
+      "title": "Two Weeks Until Tapeout",
+      "description": "Score: 73 | Comments: 2 | Posted by client4",
+      "url": "https://essenceia.github.io/projects/two_weeks_until_tapeout/",
+      "publishedAt": "2026-01-25T01:25:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "client4",
+      "tags": []
+    },
+    {
+      "id": "qon4x",
+      "title": "Show HN: C From Scratch – Learn safety-critical C with prove-first methodology",
+      "description": "Score: 9 | Comments: 0 | Posted by william1872",
+      "url": "https://github.com/SpeyTech/c-from-scratch",
+      "publishedAt": "2026-01-25T00:17:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "william1872",
+      "tags": []
+    },
+    {
+      "id": "7utnp3",
+      "title": "Adoption of EVs tied to real-world reductions in air pollution: study",
+      "description": "Score: 245 | Comments: 206 | Posted by hhs",
+      "url": "https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/",
+      "publishedAt": "2026-01-25T00:14:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hhs",
+      "tags": []
+    }
+  ]
+}

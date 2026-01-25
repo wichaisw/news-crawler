@@ -3,6 +3,72 @@
   "source": "techcrunch",
   "articles": [
     {
+      "id": "https://techcrunch.com/?p=3085848",
+      "title": "Gmail is having issues with spam and misclassification",
+      "description": "If your Gmail account doesn’t seem to be working properly today, you’re not alone.",
+      "url": "https://techcrunch.com/2026/01/24/gmail-is-having-issues-with-spam-and-misclassification/",
+      "publishedAt": "2026-01-24T22:58:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3085845",
+      "title": "Tech CEOs boast and bicker about AI at Davos",
+      "description": "There were times at this week’s meeting of the World Economic Forum when Davos seemed transformed into a high-powered tech conference.",
+      "url": "https://techcrunch.com/2026/01/24/tech-ceos-boast-and-bicker-about-ai-at-davos/",
+      "publishedAt": "2026-01-24T20:00:46.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3084389",
+      "title": "Former Googlers seek to captivate kids with an AI-powered learning app",
+      "description": "Sparkli said that education systems often fall behind in teaching modern concepts. The company wants to teach kids about topics like skills design,",
+      "url": "https://techcrunch.com/2026/01/24/former-google-trio-is-building-an-interactive-ai-powered-learning-app-for-kids/",
+      "publishedAt": "2026-01-24T18:21:21.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Ivan Mehta",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3085837",
+      "title": "SEC drops lawsuit against Winklevoss twins’ Gemini crypto exchange",
+      "description": "The Securities and Exchange Commission has dropped its lawsuit against Gemini, the crypto exchange founded by Trump backers Cameron and Tyler",
+      "url": "https://techcrunch.com/2026/01/24/sec-drops-lawsuit-against-winklevoss-twins-gemini-crypto-exchange/",
+      "publishedAt": "2026-01-24T18:06:33.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3085833",
+      "title": "A new test for AI labs: Are you even trying to make money?",
+      "description": "It’s getting hard to tell which AI labs. are actually trying to make money. We created a rating system to help sort it out.",
+      "url": "https://techcrunch.com/2026/01/24/a-new-test-for-ai-labs-are-you-even-trying-to-make-money/",
+      "publishedAt": "2026-01-24T17:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Russell Brandom",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3085306",
+      "title": "How PopWheels helped a food cart ditch generators for e-bike batteries",
+      "description": "PopWheels realized its battery swapping network could be used for more than food delivery workers who need to charge their e-bikes. Now, its planning",
+      "url": "https://techcrunch.com/2026/01/24/how-popwheels-helped-a-food-cart-ditch-generators-for-e-bike-batteries/",
+      "publishedAt": "2026-01-24T16:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Tim De Chant",
+      "tags": []
+    },
+    {
       "id": "https://techcrunch.com/?p=3085827",
       "title": "Legal AI giant Harvey acquires Hexus as competition heats up in legal tech",
       "description": "Hexus founder and CEO Sakshi Pratap, who previously held engineering roles at Walmart, Oracle, and Google, tells TechCrunch that her San",

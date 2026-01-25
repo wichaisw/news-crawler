@@ -3,6 +3,61 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "149537 at https://www.blognone.com",
+      "title": "เกาหลีใต้ออกกฎหมายกำกับดูแลการใช้ AI เป็นครั้งแรก",
+      "description": "เกาหลีใต้ออกกฎหมายกำกับดูแลการใช้ AI เป็นครั้งแรก Body เกาหลีใต้ประกาศใช้กฎหมายพื้นฐานเกี่ยวกับ AI ซึ่งถือเป็นที่แรกในโลก โดยมีเป้าหมายเพื่อกำกับดูแล",
+      "url": "https://www.blognone.com/node/149537",
+      "publishedAt": "2026-01-24T15:35:58.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149534 at https://www.blognone.com",
+      "title": "Google บอกเอง Gemini ยังไม่มีความคิดแทรกโฆษณาในแชท \"ในตอนนี้\"",
+      "description": "Google บอกเอง Gemini ยังไม่มีความคิดแทรกโฆษณาในแชท \"ในตอนนี้\" Body Demis Hassabis ซีอีโอ Google DeepMind ให้สัมภาษณ์หลังจาก OpenAI",
+      "url": "https://www.blognone.com/node/149534",
+      "publishedAt": "2026-01-24T13:37:30.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149532 at https://www.blognone.com",
+      "title": "วิศวกร Anthropic เล่าปัญหาการออกข้อสอบคัดเลือกพนักงาน ตอนนี้ต้องแปลกมากพอที่ Claude ยังตอบไม่ได้",
+      "description": "วิศวกร Anthropic เล่าปัญหาการออกข้อสอบคัดเลือกพนักงาน ตอนนี้ต้องแปลกมากพอที่ Claude ยังตอบไม่ได้ Body Tristan Hume หัวหน้าทีม Performance",
+      "url": "https://www.blognone.com/node/149532",
+      "publishedAt": "2026-01-24T12:27:00.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149533 at https://www.blognone.com",
+      "title": "cURL ยกเลิกโครงการ Bug Bounty หลังพบรายงานช่องโหว่ไม่จริงที่สร้างจาก AI เพิ่มขึ้นมากในปีที่ผ่านมา",
+      "description": "cURL ยกเลิกโครงการ Bug Bounty หลังพบรายงานช่องโหว่ไม่จริงที่สร้างจาก AI เพิ่มขึ้นมากในปีที่ผ่านมา Body โครงการ cURL",
+      "url": "https://www.blognone.com/node/149533",
+      "publishedAt": "2026-01-24T09:13:30.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149522 at https://www.blognone.com",
+      "title": "กระจายความเสี่ยง Pegatron เตรียมเปิดโรงงานสหรัฐฯ มี.ค. นี้ ลดพึ่งพาจีน ขยายฐานสู่ทวีปอเมริกาเหนือ",
+      "description": "กระจายความเสี่ยง Pegatron เตรียมเปิดโรงงานสหรัฐฯ มี.ค. นี้ ลดพึ่งพาจีน ขยายฐานสู่ทวีปอเมริกาเหนือ Body Pegatron",
+      "url": "https://www.blognone.com/node/149522",
+      "publishedAt": "2026-01-24T08:24:07.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "149530 at https://www.blognone.com",
       "title": "Universal Studios Japan ประกาศแผนสร้างเครื่องเล่นใหม่ Pokémon ในสวนสนุก",
       "description": "Universal Studios Japan ประกาศแผนสร้างเครื่องเล่นใหม่ Pokémon ในสวนสนุก Body Universal Studios และ Pokémon Company",
