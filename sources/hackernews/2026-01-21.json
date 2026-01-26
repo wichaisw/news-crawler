@@ -80,6 +80,17 @@
       "tags": []
     },
     {
+      "id": "g1la91",
+      "title": "ANN v3: 200ms p99 query latency over 100B vectors",
+      "description": "Score: 99 | Comments: 43 | Posted by _peregrine_",
+      "url": "https://turbopuffer.com/blog/ann-v3",
+      "publishedAt": "2026-01-21T19:58:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "_peregrine_",
+      "tags": []
+    },
+    {
       "id": "6zr3de",
       "title": "Setting Up a Cluster of Tiny PCs for Parallel Computing",
       "description": "Score: 42 | Comments: 26 | Posted by speckx",
@@ -264,6 +275,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "aninibread",
+      "tags": []
+    },
+    {
+      "id": "bf2so5",
+      "title": "Integrating WebView with Nature Programming Language",
+      "description": "Score: 6 | Comments: 1 | Posted by weiwenhao",
+      "url": "https://nature-lang.org/blog/20260121",
+      "publishedAt": "2026-01-21T13:20:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "weiwenhao",
       "tags": []
     },
     {

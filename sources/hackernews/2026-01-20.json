@@ -212,6 +212,17 @@
       "tags": []
     },
     {
+      "id": "lnz039",
+      "title": "Show HN: Fence – Sandbox CLI commands with network/filesystem restrictions",
+      "description": "Score: 67 | Comments: 21 | Posted by jy-tan",
+      "url": "https://github.com/Use-Tusk/fence",
+      "publishedAt": "2026-01-20T18:05:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jy-tan",
+      "tags": []
+    },
+    {
       "id": "55l7f6",
       "title": "Internet Archive's Storage",
       "description": "Score: 46 | Comments: 5 | Posted by zdw",
@@ -253,6 +264,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "2bluesc",
+      "tags": []
+    },
+    {
+      "id": "zbzvf6",
+      "title": "I built a 2x faster lexer, then discovered I/O was the real bottleneck",
+      "description": "Score: 161 | Comments: 81 | Posted by modulovalue",
+      "url": "https://modulovalue.com/blog/syscall-overhead-tar-gz-io-performance/",
+      "publishedAt": "2026-01-20T16:10:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "modulovalue",
       "tags": []
     },
     {
@@ -344,6 +366,28 @@
       "tags": []
     },
     {
+      "id": "pkmw5u",
+      "title": "Publishing on the ATmosphere",
+      "description": "Score: 34 | Comments: 24 | Posted by danabramov",
+      "url": "https://tynanistyping.offprint.app/a/3mcsvjjceei23-publishing-on-the-atmosphere",
+      "publishedAt": "2026-01-20T12:33:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "danabramov",
+      "tags": []
+    },
+    {
+      "id": "ig82z5",
+      "title": "Hackable personal news reader in bash pipes",
+      "description": "Score: 33 | Comments: 7 | Posted by haron",
+      "url": "https://github.com/haron/news.sh",
+      "publishedAt": "2026-01-20T12:30:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "haron",
+      "tags": []
+    },
+    {
       "id": "tk8ln5",
       "title": "Running Claude Code dangerously (safely)",
       "description": "Score: 306 | Comments: 237 | Posted by emilburzo",
@@ -366,6 +410,17 @@
       "tags": []
     },
     {
+      "id": "i5mc2y",
+      "title": "Guix for Development",
+      "description": "Score: 60 | Comments: 22 | Posted by clircle",
+      "url": "https://dthompson.us/posts/guix-for-development.html",
+      "publishedAt": "2026-01-20T11:15:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "clircle",
+      "tags": []
+    },
+    {
       "id": "mcksza",
       "title": "I'm addicted to being useful",
       "description": "Score: 530 | Comments: 269 | Posted by swah",
@@ -374,6 +429,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "swah",
+      "tags": []
+    },
+    {
+      "id": "sv6r0r",
+      "title": "Optimizing GPU Programs from Java Using Babylon and Hat",
+      "description": "Score: 39 | Comments: 2 | Posted by pjmlp",
+      "url": "https://openjdk.org/projects/babylon/articles/hat-matmul/hat-matmul",
+      "publishedAt": "2026-01-20T09:41:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pjmlp",
       "tags": []
     },
     {
@@ -399,6 +465,17 @@
       "tags": []
     },
     {
+      "id": "bq4h9i",
+      "title": "Google confirms 'high-friction' sideloading flow is coming to Android",
+      "description": "Score: 617 | Comments: 676 | Posted by _____k",
+      "url": "https://www.androidauthority.com/google-sideloading-android-high-friction-process-3633468/",
+      "publishedAt": "2026-01-20T07:04:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "_____k",
+      "tags": []
+    },
+    {
       "id": "2z36cq",
       "title": "KAOS – The Kubernetes Agent Orchestration System",
       "description": "Score: 17 | Comments: 4 | Posted by axsaucedo",
@@ -407,6 +484,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "axsaucedo",
+      "tags": []
+    },
+    {
+      "id": "4ke545",
+      "title": "The Rebirth of Pennsylvania's Infamous Burning Town",
+      "description": "Score: 78 | Comments: 37 | Posted by pbshgthm",
+      "url": "https://www.atlasobscura.com/articles/centralia-pennsylvania-rebirth",
+      "publishedAt": "2026-01-20T06:10:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pbshgthm",
       "tags": []
     },
     {

@@ -1,0 +1,105 @@
+{
+  "date": "2026-01-26",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "gszrtc",
+      "title": "Nvidia is about to challenge 'Intel Inside' with as many as eight Arm laptops",
+      "description": "Score: 3 | Comments: 0 | Posted by BeetleB",
+      "url": "https://www.theverge.com/games/867056/leak-nvidia-n1-n1x-laptops-lenovo-dell",
+      "publishedAt": "2026-01-26T05:18:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "BeetleB",
+      "tags": []
+    },
+    {
+      "id": "t5h0yd",
+      "title": "Iran's internet blackout may become permanent, with access for elites only",
+      "description": "Score: 94 | Comments: 43 | Posted by siev",
+      "url": "https://restofworld.org/2026/iran-blackout-tiered-internet/",
+      "publishedAt": "2026-01-26T04:18:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "siev",
+      "tags": []
+    },
+    {
+      "id": "sdbltx",
+      "title": "Environmentalists worry Google behind bid to control Oregon town's water",
+      "description": "Score: 46 | Comments: 0 | Posted by voxadam",
+      "url": "https://www.sfgate.com/national-parks/article/mount-hood-water-google-21307223.php",
+      "publishedAt": "2026-01-26T03:40:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "voxadam",
+      "tags": []
+    },
+    {
+      "id": "6t8hi7",
+      "title": "Show HN: WhyThere – Compare cities side-by-side to decide where to move",
+      "description": "Score: 5 | Comments: 0 | Posted by daversa",
+      "url": "https://whythere.life",
+      "publishedAt": "2026-01-26T03:31:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "daversa",
+      "tags": []
+    },
+    {
+      "id": "psmkr6",
+      "title": "SF Microclimates",
+      "description": "Score: 16 | Comments: 3 | Posted by rmason",
+      "url": "https://microclimates.solofounders.com/",
+      "publishedAt": "2026-01-26T02:38:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rmason",
+      "tags": []
+    },
+    {
+      "id": "ojmgia",
+      "title": "Microsoft suspects some PCs might not boot after Windows 11 January 2026 Update",
+      "description": "Score: 55 | Comments: 36 | Posted by nsoonhui",
+      "url": "https://www.windowslatest.com/2026/01/25/microsoft-suspects-some-pcs-might-not-boot-after-windows-11-january-2026-update-kb5074109/",
+      "publishedAt": "2026-01-26T02:15:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nsoonhui",
+      "tags": []
+    },
+    {
+      "id": "ibqhiw",
+      "title": "Video Games as Art",
+      "description": "Score: 25 | Comments: 9 | Posted by andsoitis",
+      "url": "https://gwern.net/video-game-art",
+      "publishedAt": "2026-01-26T02:07:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andsoitis",
+      "tags": []
+    },
+    {
+      "id": "42qxx",
+      "title": "Clawdbot - open source personal AI assistant",
+      "description": "Score: 189 | Comments: 120 | Posted by KuzeyAbi",
+      "url": "https://github.com/clawdbot/clawdbot",
+      "publishedAt": "2026-01-26T00:27:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "KuzeyAbi",
+      "tags": []
+    },
+    {
+      "id": "msbh0h",
+      "title": "Scientists identify brain waves that define the limits of 'you'",
+      "description": "Score: 128 | Comments: 26 | Posted by mikhael",
+      "url": "https://www.sciencealert.com/scientists-identify-brain-waves-that-define-the-limits-of-you",
+      "publishedAt": "2026-01-26T00:10:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mikhael",
+      "tags": []
+    }
+  ]
+}
