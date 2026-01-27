@@ -1,0 +1,39 @@
+{
+  "date": "2026-01-27",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "149561 at https://www.blognone.com",
+      "title": "Apple อัปเดต iOS 26.2.1 แก้ไขช่องโหว่ความปลอดภัย, รองรับ AirTag ใหม่",
+      "description": "Apple อัปเดต iOS 26.2.1 แก้ไขช่องโหว่ความปลอดภัย, รองรับ AirTag ใหม่ Body แอปเปิลออกอัปเดตระบบปฏิบัติการย่อย iOS 26.2.1 และ iPadOS 26.2.1",
+      "url": "https://www.blognone.com/node/149561",
+      "publishedAt": "2026-01-27T05:20:03.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149559 at https://www.blognone.com",
+      "title": "NVIDIA ลงทุนใน CoreWeave เพิ่มอีก 2 พันล้านดอลลาร์ รองรับการขยายตัวของศูนย์ข้อมูล AI",
+      "description": "NVIDIA ลงทุนใน CoreWeave เพิ่มอีก 2 พันล้านดอลลาร์ รองรับการขยายตัวของศูนย์ข้อมูล AI Body NVIDIA ประกาศลงทุนเพิ่มเติมในบริษัทคลาวด์จีพียู CoreWeave",
+      "url": "https://www.blognone.com/node/149559",
+      "publishedAt": "2026-01-27T01:11:49.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149558 at https://www.blognone.com",
+      "title": "Microsoft เปิดตัว Maia 200 ชิปเร่งการประมวลผล AI ใหม่ ประสิทธิภาพเหนือกว่า Trainium หรือ TPU รุ่นล่าสุด",
+      "description": "Microsoft เปิดตัว Maia 200 ชิปเร่งการประมวลผล AI ใหม่ ประสิทธิภาพเหนือกว่า Trainium หรือ TPU รุ่นล่าสุด Body ไมโครซอฟท์เปิดตัว Maia 200",
+      "url": "https://www.blognone.com/node/149558",
+      "publishedAt": "2026-01-27T00:57:21.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}

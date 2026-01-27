@@ -80,6 +80,17 @@
       "tags": []
     },
     {
+      "id": "b94ehs",
+      "title": "Text Is King",
+      "description": "Score: 166 | Comments: 77 | Posted by zdw",
+      "url": "https://www.experimental-history.com/p/text-is-king",
+      "publishedAt": "2026-01-20T21:57:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
       "id": "mp7ga5",
       "title": "The challenges of soft delete",
       "description": "Score: 120 | Comments: 73 | Posted by buchanae",
@@ -223,6 +234,17 @@
       "tags": []
     },
     {
+      "id": "6pct4g",
+      "title": "Model Market Fit",
+      "description": "Score: 30 | Comments: 6 | Posted by nbstme",
+      "url": "https://www.nicolasbustamante.com/p/model-market-fit",
+      "publishedAt": "2026-01-20T17:24:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nbstme",
+      "tags": []
+    },
+    {
       "id": "55l7f6",
       "title": "Internet Archive's Storage",
       "description": "Score: 46 | Comments: 5 | Posted by zdw",
@@ -231,6 +253,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "d01iol",
+      "title": "The hidden engineering of runways",
+      "description": "Score: 240 | Comments: 64 | Posted by crescit_eundo",
+      "url": "https://practical.engineering/blog/2026/1/20/the-hidden-engineering-of-runways",
+      "publishedAt": "2026-01-20T16:52:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "crescit_eundo",
       "tags": []
     },
     {
@@ -264,6 +297,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "2bluesc",
+      "tags": []
+    },
+    {
+      "id": "5gg1a3",
+      "title": "Pharos: The Lighthouse at Alexandria",
+      "description": "Score: 32 | Comments: 6 | Posted by teleforce",
+      "url": "https://penelope.uchicago.edu/encyclopaedia_romana/greece/paganism/pharos.html",
+      "publishedAt": "2026-01-20T16:22:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "teleforce",
       "tags": []
     },
     {

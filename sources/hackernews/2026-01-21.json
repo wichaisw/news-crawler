@@ -113,6 +113,17 @@
       "tags": []
     },
     {
+      "id": "ancos3",
+      "title": "Find 'Abbey Road when type 'Beatles abbey rd': Fuzzy/Semantic search in Postgres",
+      "description": "Score: 74 | Comments: 24 | Posted by nethalo",
+      "url": "https://rendiment.io/postgresql/2026/01/21/pgtrgm-pgvector-music.html",
+      "publishedAt": "2026-01-21T18:24:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nethalo",
+      "tags": []
+    },
+    {
       "id": "n1pad8",
       "title": "GenAI, the snake eating its own tail",
       "description": "Score: 76 | Comments: 87 | Posted by brikis98",
@@ -352,6 +363,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "n1hood",
+      "title": "OpenFlexure Microscope",
+      "description": "Score: 57 | Comments: 11 | Posted by o4c",
+      "url": "https://openflexure.org/projects/microscope/",
+      "publishedAt": "2026-01-21T04:16:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "o4c",
       "tags": []
     },
     {

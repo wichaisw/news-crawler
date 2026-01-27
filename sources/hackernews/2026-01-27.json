@@ -1,0 +1,61 @@
+{
+  "date": "2026-01-27",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "qwwtos",
+      "title": "Claude's Constitutional Structure",
+      "description": "Score: 4 | Comments: 0 | Posted by paulpauper",
+      "url": "https://thezvi.substack.com/p/claudes-constitutional-structure",
+      "publishedAt": "2026-01-27T05:15:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "paulpauper",
+      "tags": []
+    },
+    {
+      "id": "m8ry3v",
+      "title": "A list of fun destinations for telnet",
+      "description": "Score: 8 | Comments: 4 | Posted by tokyobreakfast",
+      "url": "https://telnet.org/htm/places.htm",
+      "publishedAt": "2026-01-27T03:24:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tokyobreakfast",
+      "tags": []
+    },
+    {
+      "id": "4afwdd",
+      "title": "Hacker News: Savage Edition",
+      "description": "Score: 23 | Comments: 16 | Posted by keepamovin",
+      "url": "https://dosaygo-studio.github.io/hn-front-page-2035/news-honest-2025-01-27-2.html",
+      "publishedAt": "2026-01-27T03:13:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "keepamovin",
+      "tags": []
+    },
+    {
+      "id": "peb6m4",
+      "title": "iPhone 5s Gets New Software Update 13 Years After Launch",
+      "description": "Score: 96 | Comments: 30 | Posted by angott",
+      "url": "https://www.macrumors.com/2026/01/26/iphone-5s-software-update/",
+      "publishedAt": "2026-01-27T01:04:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "angott",
+      "tags": []
+    },
+    {
+      "id": "f4p3nc",
+      "title": "TikTok removals up 150% following U.S. joint venture",
+      "description": "Score: 31 | Comments: 5 | Posted by gehwartzen",
+      "url": "https://www.cnbc.com/2026/01/26/tiktok-uninstalls-are-up-150percent-following-us-joint-venture.html",
+      "publishedAt": "2026-01-27T00:27:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gehwartzen",
+      "tags": []
+    }
+  ]
+}
