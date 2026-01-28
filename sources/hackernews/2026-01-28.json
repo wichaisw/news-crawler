@@ -1,0 +1,50 @@
+{
+  "date": "2026-01-28",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "ep4phq",
+      "title": "The ICE the Dildo Distribution Delegation",
+      "description": "Score: 3 | Comments: 2 | Posted by _wire_",
+      "url": "https://www.closertotheedge.net/p/the-dildo-distribution-delegation",
+      "publishedAt": "2026-01-28T05:52:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "_wire_",
+      "tags": []
+    },
+    {
+      "id": "4iag63",
+      "title": "Google to pay $68M over allegations its voice assistant eavesdropped on users",
+      "description": "Score: 17 | Comments: 1 | Posted by iamnothere",
+      "url": "https://www.cbsnews.com/news/google-voice-assistant-lawsuit-settlement-68-million/",
+      "publishedAt": "2026-01-28T03:37:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "iamnothere",
+      "tags": []
+    },
+    {
+      "id": "o58swd",
+      "title": "Super Monkey Ball ported to a website",
+      "description": "Score: 221 | Comments: 60 | Posted by rebasedoctopus",
+      "url": "https://monkeyball-online.pages.dev/",
+      "publishedAt": "2026-01-28T01:44:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rebasedoctopus",
+      "tags": []
+    },
+    {
+      "id": "ma2wyk",
+      "title": "AISLE Discovered 12 out of 12 OpenSSL Vulnerabilities",
+      "description": "Score: 141 | Comments: 87 | Posted by mmsc",
+      "url": "https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities",
+      "publishedAt": "2026-01-28T01:38:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mmsc",
+      "tags": []
+    }
+  ]
+}

@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "6enuph",
+      "title": "I found the perfect yearly calendar (for me)",
+      "description": "Score: 35 | Comments: 14 | Posted by dewey",
+      "url": "https://blog.notmyhostna.me/posts/i-found-the-perfect-yearly-calendar-for-me",
+      "publishedAt": "2026-01-23T23:12:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dewey",
+      "tags": []
+    },
+    {
       "id": "fmfg52",
       "title": "Wilson Lin on FastRender: a browser built by parallel agents",
       "description": "Score: 38 | Comments: 9 | Posted by lumpa",
@@ -11,6 +22,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "lumpa",
+      "tags": []
+    },
+    {
+      "id": "3ngqqx",
+      "title": "The First Eighteen Lines of the Waste Land (1989)",
+      "description": "Score: 36 | Comments: 16 | Posted by benbreen",
+      "url": "https://yalereview.org/article/hecht-eliot-waste-land",
+      "publishedAt": "2026-01-23T22:02:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "benbreen",
       "tags": []
     },
     {
@@ -55,6 +77,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "szmarczak",
+      "tags": []
+    },
+    {
+      "id": "rv3y8g",
+      "title": "Arrows to Arrows, Categories to Queries",
+      "description": "Score: 31 | Comments: 2 | Posted by surprisetalk",
+      "url": "https://reasonablypolymorphic.com/blog/arrows-to-arrows/",
+      "publishedAt": "2026-01-23T20:07:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
       "tags": []
     },
     {
@@ -168,6 +201,17 @@
       "tags": []
     },
     {
+      "id": "uesvv8",
+      "title": "Golden Ratio using an equilateral triangle inscribed in a circle",
+      "description": "Score: 40 | Comments: 5 | Posted by peter_d_sherman",
+      "url": "https://geometrycode.com/free/how-to-graphically-derive-the-golden-ratio-using-an-equilateral-triangle-inscribed-in-a-circle/",
+      "publishedAt": "2026-01-23T17:27:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "peter_d_sherman",
+      "tags": []
+    },
+    {
       "id": "hp1asf",
       "title": "Nobody likes lag: How to make low-latency dev sandboxes",
       "description": "Score: 71 | Comments: 35 | Posted by mnazzaro",
@@ -198,6 +242,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "surprisetalk",
+      "tags": []
+    },
+    {
+      "id": "yut1ay",
+      "title": "Avoiding duplicate objects in Django querysets",
+      "description": "Score: 27 | Comments: 7 | Posted by johnnymetz",
+      "url": "https://johnnymetz.com/posts/avoiding-duplicate-objects-in-django-querysets/",
+      "publishedAt": "2026-01-23T16:43:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "johnnymetz",
       "tags": []
     },
     {
@@ -256,6 +311,17 @@
       "tags": []
     },
     {
+      "id": "beez2w",
+      "title": "Why my Rust benchmarks were wrong, or how to use std::hint::black_box? (2022)",
+      "description": "Score: 9 | Comments: 2 | Posted by aw1621107",
+      "url": "https://gendignoux.com/blog/2022/01/31/rust-benchmarks.html",
+      "publishedAt": "2026-01-23T14:25:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "aw1621107",
+      "tags": []
+    },
+    {
       "id": "deqz38",
       "title": "Radicle: The Sovereign Forge",
       "description": "Score: 269 | Comments: 131 | Posted by ibobev",
@@ -275,6 +341,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "s_dev",
+      "tags": []
+    },
+    {
+      "id": "46c1k7",
+      "title": "Extremophile molds are invading art museums",
+      "description": "Score: 74 | Comments: 30 | Posted by sohkamyung",
+      "url": "https://www.scientificamerican.com/article/how-extremophile-molds-are-destroying-museum-artifacts/",
+      "publishedAt": "2026-01-23T12:05:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sohkamyung",
       "tags": []
     },
     {
