@@ -1,0 +1,40 @@
+{
+  "date": "2026-01-29",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "149584 at https://www.blognone.com",
+      "title": "[ลือ] SoftBank เจรจาเพื่อลงทุนใน OpenAI เพิ่มอีก 3 หมื่นล้านดอลลาร์",
+      "description": "[ลือ] SoftBank เจรจาเพื่อลงทุนใน OpenAI เพิ่มอีก 3 หมื่นล้านดอลลาร์ Body SoftBank เป็นหนึ่งในบริษัทผู้ลงทุนรายสำคัญของ OpenAI อยู่แล้ว",
+      "url": "https://www.blognone.com/node/149584",
+      "publishedAt": "2026-01-29T00:37:08.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149583 at https://www.blognone.com",
+      "title": "Chrome ปรับปรุงความสามารถ Gemini - ใช้งานต่อเนื่องจากแถบด้านข้าง - รองรับคำสั่งที่ซับซ้อน",
+      "description": "Chrome ปรับปรุงความสามารถ Gemini - ใช้งานต่อเนื่องจากแถบด้านข้าง - รองรับคำสั่งที่ซับซ้อน Body กูเกิลอัปเดตความสามารถ Gemini ในเบราว์เซอร์ Chrome",
+      "url": "https://www.blognone.com/node/149583",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2026/2026-01/chrome1.jpg",
+      "publishedAt": "2026-01-29T00:29:44.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149582 at https://www.blognone.com",
+      "title": "Meta ไตรมาส 4/2025 รายได้เพิ่มขึ้น 24% - เตรียมเปิดตัวโมเดล AI รุ่นใหม่เร็ว ๆ นี้",
+      "description": "Meta ไตรมาส 4/2025 รายได้เพิ่มขึ้น 24% - เตรียมเปิดตัวโมเดล AI รุ่นใหม่เร็ว ๆ นี้ Body Meta รายงานผลประกอบการของไตรมาสที่ 4 ปี 2025 รายได้เพิ่มขึ้น",
+      "url": "https://www.blognone.com/node/149582",
+      "publishedAt": "2026-01-29T00:09:30.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}

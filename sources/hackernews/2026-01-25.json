@@ -36,6 +36,17 @@
       "tags": []
     },
     {
+      "id": "oc4rii",
+      "title": "Mecha Comet – Open Modular Linux Handheld Computer",
+      "description": "Score: 77 | Comments: 20 | Posted by Realman78",
+      "url": "https://mecha.so/comet",
+      "publishedAt": "2026-01-25T21:44:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Realman78",
+      "tags": []
+    },
+    {
       "id": "2p6xto",
       "title": "LED lighting undermines visual performance unless supplemented by wider spectra",
       "description": "Score: 201 | Comments: 191 | Posted by bookofjoe",
@@ -242,6 +253,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mitjafelicijan",
+      "tags": []
+    },
+    {
+      "id": "6tch1u",
+      "title": "Xmake: A cross-platform build utility based on Lua",
+      "description": "Score: 14 | Comments: 0 | Posted by phmx",
+      "url": "https://xmake.io/",
+      "publishedAt": "2026-01-25T11:12:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "phmx",
       "tags": []
     },
     {

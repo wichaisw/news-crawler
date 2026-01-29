@@ -47,6 +47,17 @@
       "tags": []
     },
     {
+      "id": "hxg5d",
+      "title": "An Illustrated Guide to Hippo Castration",
+      "description": "Score: 27 | Comments: 13 | Posted by joebig",
+      "url": "https://www.science.org/content/article/scienceshot-illustrated-guide-hippo-castration",
+      "publishedAt": "2026-01-24T19:47:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "joebig",
+      "tags": []
+    },
+    {
       "id": "hf99wb",
       "title": "Show HN: StormWatch – Weather emergency dashboard with prep checklists",
       "description": "Score: 35 | Comments: 7 | Posted by lotusxblack",
@@ -179,6 +190,17 @@
       "tags": []
     },
     {
+      "id": "wjrpts",
+      "title": "3D-Printed Mathematical Lampshades",
+      "description": "Score: 62 | Comments: 26 | Posted by hessammehr",
+      "url": "https://hessammehr.github.io/blog/posts/2025-12-24-maths-to-lampshade.html",
+      "publishedAt": "2026-01-24T15:17:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hessammehr",
+      "tags": []
+    },
+    {
       "id": "do5mtx",
       "title": "Claude Code's new hidden feature: Swarms",
       "description": "Score: 361 | Comments: 244 | Posted by AffableSpatula",
@@ -256,6 +278,17 @@
       "tags": []
     },
     {
+      "id": "3m89rd",
+      "title": "B.A.T.M.A.N Protocol Concept (2011)",
+      "description": "Score: 9 | Comments: 3 | Posted by jstrieb",
+      "url": "https://www.open-mesh.org/projects/open-mesh/wiki/BATMANConcept",
+      "publishedAt": "2026-01-24T04:57:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jstrieb",
+      "tags": []
+    },
+    {
       "id": "hnpylx",
       "title": "Rust’s Standard Library on the GPU",
       "description": "Score: 122 | Comments: 19 | Posted by justaboutanyone",
@@ -264,6 +297,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "justaboutanyone",
+      "tags": []
+    },
+    {
+      "id": "7atgak",
+      "title": "Package management is a wicked problem",
+      "description": "Score: 99 | Comments: 64 | Posted by zdw",
+      "url": "https://nesbitt.io/2026/01/23/package-management-is-a-wicked-problem.html",
+      "publishedAt": "2026-01-24T04:24:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
       "tags": []
     },
     {
@@ -319,6 +363,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "JumpCrisscross",
+      "tags": []
+    },
+    {
+      "id": "x3x8x8",
+      "title": "Show HN: Dwm.tmux – a dwm-inspired window manager for tmux",
+      "description": "Score: 90 | Comments: 16 | Posted by saysjonathan",
+      "url": "https://github.com/saysjonathan/dwm.tmux",
+      "publishedAt": "2026-01-24T00:15:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "saysjonathan",
       "tags": []
     }
   ]

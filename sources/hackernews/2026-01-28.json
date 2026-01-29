@@ -3,6 +3,270 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "tsin19",
+      "title": "Ross Stevens Donates $100M to Pay Every US Olympian and Paralympian $200k",
+      "description": "Score: 156 | Comments: 111 | Posted by bookofjoe",
+      "url": "https://www.townandcountrymag.com/leisure/sporting/a70171886/ross-stevens-american-olympians-donation/",
+      "publishedAt": "2026-01-28T23:55:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bookofjoe",
+      "tags": []
+    },
+    {
+      "id": "apkcpm",
+      "title": "UK Government’s ‘AI Skills Hub’ was delivered by PwC for £4.1M",
+      "description": "Score: 304 | Comments: 88 | Posted by JustSkyfall",
+      "url": "https://mahadk.com/posts/ai-skills-hub",
+      "publishedAt": "2026-01-28T23:16:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "JustSkyfall",
+      "tags": []
+    },
+    {
+      "id": "er2m2t",
+      "title": "Tesla ending Models S and X production",
+      "description": "Score: 201 | Comments: 297 | Posted by keyboardJones",
+      "url": "https://www.cnbc.com/2026/01/28/tesla-ending-model-s-x-production.html",
+      "publishedAt": "2026-01-28T22:53:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "keyboardJones",
+      "tags": []
+    },
+    {
+      "id": "x8ov0",
+      "title": "Bf-Tree: modern read-write-optimized concurrent larger-than-memory range index",
+      "description": "Score: 68 | Comments: 14 | Posted by SchwKatze",
+      "url": "https://github.com/microsoft/bf-tree",
+      "publishedAt": "2026-01-28T22:05:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "SchwKatze",
+      "tags": []
+    },
+    {
+      "id": "t62sw7",
+      "title": "Somebody used spoofed ADSB signals to raster the meme of JD Vance",
+      "description": "Score: 458 | Comments: 111 | Posted by wubin",
+      "url": "https://alecmuffett.com/article/143548",
+      "publishedAt": "2026-01-28T21:50:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wubin",
+      "tags": []
+    },
+    {
+      "id": "kgvf6g",
+      "title": "Jellyfin LLM/\"AI\" Development Policy",
+      "description": "Score: 181 | Comments: 92 | Posted by mmoogle",
+      "url": "https://jellyfin.org/docs/general/contributing/llm-policies/",
+      "publishedAt": "2026-01-28T21:42:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mmoogle",
+      "tags": []
+    },
+    {
+      "id": "nsqauv",
+      "title": "How to turn 'sfo-jfk' into a suitable photo",
+      "description": "Score: 24 | Comments: 22 | Posted by bblcla",
+      "url": "https://www.approachwithalacrity.com/how-to-turn-sfo-jfk-into-a-beautiful-photo/",
+      "publishedAt": "2026-01-28T19:24:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bblcla",
+      "tags": []
+    },
+    {
+      "id": "f4w118",
+      "title": "Show HN: A MitM proxy to see what your LLM tools are sending",
+      "description": "Score: 144 | Comments: 61 | Posted by jmuncor",
+      "url": "https://github.com/jmuncor/sherlock",
+      "publishedAt": "2026-01-28T18:52:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jmuncor",
+      "tags": []
+    },
+    {
+      "id": "f40u2y",
+      "title": "LM Studio 0.4",
+      "description": "Score: 117 | Comments: 66 | Posted by jiqiren",
+      "url": "https://lmstudio.ai/blog/0.4.0",
+      "publishedAt": "2026-01-28T18:23:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jiqiren",
+      "tags": []
+    },
+    {
+      "id": "kxmju1",
+      "title": "That's not how email works",
+      "description": "Score: 251 | Comments: 154 | Posted by HotGarbage",
+      "url": "https://danq.me/2026/01/28/hsbc-dont-understand-email/",
+      "publishedAt": "2026-01-28T18:12:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "HotGarbage",
+      "tags": []
+    },
+    {
+      "id": "uep68j",
+      "title": "Computer History Museum Launches Digital Portal to Its Collection",
+      "description": "Score: 135 | Comments: 25 | Posted by ChrisArchitect",
+      "url": "https://computerhistory.org/press-releases/computer-history-museum-launches-digital-portal-to-its-vast-collection/",
+      "publishedAt": "2026-01-28T17:54:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ChrisArchitect",
+      "tags": []
+    },
+    {
+      "id": "dqc1na",
+      "title": "Mousefood – Build embedded terminal UIs for microcontrollers",
+      "description": "Score: 189 | Comments: 42 | Posted by orhunp_",
+      "url": "https://github.com/ratatui/mousefood",
+      "publishedAt": "2026-01-28T17:20:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "orhunp_",
+      "tags": []
+    },
+    {
+      "id": "s8ntvp",
+      "title": "Amazon One palm authentication discontinued",
+      "description": "Score: 73 | Comments: 158 | Posted by KerryJones",
+      "url": "https://amazonone.aws.com/help",
+      "publishedAt": "2026-01-28T16:52:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "KerryJones",
+      "tags": []
+    },
+    {
+      "id": "oc9mve",
+      "title": "Spinning around: Please don't – Common problems with spin locks",
+      "description": "Score: 99 | Comments: 40 | Posted by bdash",
+      "url": "https://www.siliceum.com/en/blog/post/spinning-around/",
+      "publishedAt": "2026-01-28T16:48:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bdash",
+      "tags": []
+    },
+    {
+      "id": "2k1m7z",
+      "title": "Will AIs take all our jobs and end human history, or not? (2023)",
+      "description": "Score: 77 | Comments: 136 | Posted by lukakopajtic",
+      "url": "https://writings.stephenwolfram.com/2023/03/will-ais-take-all-our-jobs-and-end-human-history-or-not-well-its-complicated/",
+      "publishedAt": "2026-01-28T16:48:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lukakopajtic",
+      "tags": []
+    },
+    {
+      "id": "9qxa6p",
+      "title": "Oban, the job processing framework from Elixir, has come to Python",
+      "description": "Score: 207 | Comments: 83 | Posted by dimamik",
+      "url": "https://www.dimamik.com/posts/oban_py/",
+      "publishedAt": "2026-01-28T16:32:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dimamik",
+      "tags": []
+    },
+    {
+      "id": "o56xak",
+      "title": "Amazon cuts 16k jobs",
+      "description": "Score: 611 | Comments: 836 | Posted by DGAP",
+      "url": "https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/",
+      "publishedAt": "2026-01-28T15:39:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "DGAP",
+      "tags": []
+    },
+    {
+      "id": "4z9tnf",
+      "title": "Airfoil (2024)",
+      "description": "Score: 410 | Comments: 51 | Posted by brk",
+      "url": "https://ciechanow.ski/airfoil/",
+      "publishedAt": "2026-01-28T14:32:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "brk",
+      "tags": []
+    },
+    {
+      "id": "zg9f67",
+      "title": "Microsoft forced me to switch to Linux",
+      "description": "Score: 1675 | Comments: 1314 | Posted by bobsterlobster",
+      "url": "https://www.himthe.dev/blog/microsoft-to-linux",
+      "publishedAt": "2026-01-28T14:28:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bobsterlobster",
+      "tags": []
+    },
+    {
+      "id": "czrycl",
+      "title": "When Every Network is 192.168.1.x",
+      "description": "Score: 93 | Comments: 79 | Posted by pcarroll",
+      "url": "https://netrinos.com/blog/conflicting-subnets",
+      "publishedAt": "2026-01-28T14:06:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pcarroll",
+      "tags": []
+    },
+    {
+      "id": "mw8i2b",
+      "title": "Show HN: SHDL – A minimal hardware description language built from logic gates",
+      "description": "Score: 36 | Comments: 15 | Posted by rafa_rrayes",
+      "url": "https://github.com/rafa-rrayes/SHDL",
+      "publishedAt": "2026-01-28T12:06:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rafa_rrayes",
+      "tags": []
+    },
+    {
+      "id": "udc6v",
+      "title": "Show HN: The HN Arcade",
+      "description": "Score: 314 | Comments: 83 | Posted by yuppiepuppie",
+      "url": "https://andrewgy8.github.io/hnarcade/",
+      "publishedAt": "2026-01-28T10:50:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "yuppiepuppie",
+      "tags": []
+    },
+    {
+      "id": "e79ex9",
+      "title": "Make.ts",
+      "description": "Score: 222 | Comments: 115 | Posted by ingve",
+      "url": "https://matklad.github.io/2026/01/27/make-ts.html",
+      "publishedAt": "2026-01-28T07:35:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingve",
+      "tags": []
+    },
+    {
+      "id": "oghgu8",
+      "title": "Rust at Scale: An Added Layer of Security for WhatsApp",
+      "description": "Score: 246 | Comments: 128 | Posted by ubj",
+      "url": "https://engineering.fb.com/2026/01/27/security/rust-at-scale-security-whatsapp/",
+      "publishedAt": "2026-01-28T06:21:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ubj",
+      "tags": []
+    },
+    {
       "id": "ep4phq",
       "title": "The ICE the Dildo Distribution Delegation",
       "description": "Score: 3 | Comments: 2 | Posted by _wire_",
@@ -25,6 +289,17 @@
       "tags": []
     },
     {
+      "id": "4wtumx",
+      "title": "Android's desktop interface leaks",
+      "description": "Score: 206 | Comments: 282 | Posted by thunderbong",
+      "url": "https://9to5google.com/2026/01/27/android-desktop-leak/",
+      "publishedAt": "2026-01-28T03:34:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thunderbong",
+      "tags": []
+    },
+    {
       "id": "o58swd",
       "title": "Super Monkey Ball ported to a website",
       "description": "Score: 221 | Comments: 60 | Posted by rebasedoctopus",
@@ -44,6 +319,39 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mmsc",
+      "tags": []
+    },
+    {
+      "id": "xslsue",
+      "title": "Show HN: Pinecone Explorer – Desktop GUI for the Pinecone vector database",
+      "description": "Score: 14 | Comments: 1 | Posted by arsentjev",
+      "url": "https://www.pinecone-explorer.com",
+      "publishedAt": "2026-01-28T01:06:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "arsentjev",
+      "tags": []
+    },
+    {
+      "id": "krk2j3",
+      "title": "Trinity large: An open 400B sparse MoE model",
+      "description": "Score: 163 | Comments: 48 | Posted by linolevan",
+      "url": "https://www.arcee.ai/blog/trinity-large",
+      "publishedAt": "2026-01-28T00:57:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "linolevan",
+      "tags": []
+    },
+    {
+      "id": "fhdrqi",
+      "title": "Did a celebrated researcher obscure a baby's poisoning?",
+      "description": "Score: 129 | Comments: 47 | Posted by littlexsparkee",
+      "url": "https://www.newyorker.com/magazine/2026/02/02/did-a-celebrated-researcher-obscure-a-fatal-poisoning",
+      "publishedAt": "2026-01-28T00:18:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "littlexsparkee",
       "tags": []
     }
   ]

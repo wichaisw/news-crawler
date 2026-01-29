@@ -1,0 +1,105 @@
+{
+  "date": "2026-01-29",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "r5xo6o",
+      "title": "Microsoft's Azure Linux",
+      "description": "Score: 41 | Comments: 27 | Posted by AbuAssar",
+      "url": "https://github.com/microsoft/azurelinux",
+      "publishedAt": "2026-01-29T04:33:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "AbuAssar",
+      "tags": []
+    },
+    {
+      "id": "5pe46i",
+      "title": "We can't send mail farther than 500 miles (2002)web.mit.edu",
+      "description": "Score: 154 | Comments: 17 | Posted by giancarlostoro",
+      "url": "https://web.mit.edu/jemorris/humor/500-miles",
+      "publishedAt": "2026-01-29T04:20:05.352Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "giancarlostoro",
+      "tags": []
+    },
+    {
+      "id": "5pe46i",
+      "title": "We can't send mail farther than 500 miles (2002)",
+      "description": "Score: 154 | Comments: 18 | Posted by giancarlostoro",
+      "url": "https://web.mit.edu/jemorris/humor/500-miles",
+      "publishedAt": "2026-01-29T03:58:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "giancarlostoro",
+      "tags": []
+    },
+    {
+      "id": "e389m",
+      "title": "DECwindows Motif",
+      "description": "Score: 15 | Comments: 2 | Posted by doener",
+      "url": "https://products.vmssoftware.com/decwindowsmotif",
+      "publishedAt": "2026-01-29T03:04:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "doener",
+      "tags": []
+    },
+    {
+      "id": "otlhfb",
+      "title": "Meta's crawler made 11M requests to my site in 30 days",
+      "description": "Score: 18 | Comments: 2 | Posted by speckx",
+      "url": "https://old.reddit.com/r/webdev/comments/1qpqapj/metas_crawler_made_11_million_requests_to_my_site/",
+      "publishedAt": "2026-01-29T02:48:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
+      "tags": []
+    },
+    {
+      "id": "4488bb",
+      "title": "Maine’s ‘Lobster Lady’ who fished for nearly a century dies aged 105",
+      "description": "Score: 95 | Comments: 6 | Posted by NaOH",
+      "url": "https://www.theguardian.com/us-news/2026/jan/28/maine-lobster-lady-dies-aged-105",
+      "publishedAt": "2026-01-29T02:11:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "NaOH",
+      "tags": []
+    },
+    {
+      "id": "rhr80b",
+      "title": "Render Mermaid diagrams as SVGs or ASCII art",
+      "description": "Score: 142 | Comments: 20 | Posted by mellosouls",
+      "url": "https://github.com/lukilabs/beautiful-mermaid",
+      "publishedAt": "2026-01-29T02:08:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mellosouls",
+      "tags": []
+    },
+    {
+      "id": "nap05d",
+      "title": "Writing a .NET Garbage Collector in C# – Part 6: Mark and Sweep",
+      "description": "Score: 7 | Comments: 0 | Posted by vyrotek",
+      "url": "https://minidump.net/writing-a-net-gc-in-c-part-6/",
+      "publishedAt": "2026-01-29T01:45:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vyrotek",
+      "tags": []
+    },
+    {
+      "id": "ng6ktr",
+      "title": "Show HN: Shelvy Books",
+      "description": "Score: 23 | Comments: 10 | Posted by tekkie00",
+      "url": "https://shelvybooks.com",
+      "publishedAt": "2026-01-29T01:16:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tekkie00",
+      "tags": []
+    }
+  ]
+}
