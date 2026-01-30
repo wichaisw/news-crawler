@@ -14,6 +14,17 @@
       "tags": []
     },
     {
+      "id": "x1gos8",
+      "title": "The paper model houses of Peter Fritz (2013)",
+      "description": "Score: 5 | Comments: 0 | Posted by NaOH",
+      "url": "https://socks-studio.com/2013/12/06/the-imaginary-town-of-an-unconscious-architect-the-387-paper-models-houses-of-peter-fritz/",
+      "publishedAt": "2026-01-27T22:24:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "NaOH",
+      "tags": []
+    },
+    {
       "id": "vvhcyk",
       "title": "Thief of $90M in seized U.S.-controlled crypto is gov't contractor's son",
       "description": "Score: 285 | Comments: 56 | Posted by pavel_lishin",
@@ -33,6 +44,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mikestew",
+      "tags": []
+    },
+    {
+      "id": "enr3w5",
+      "title": "CISA’s acting head uploaded sensitive files into public version of ChatGPT",
+      "description": "Score: 109 | Comments: 207 | Posted by rurp",
+      "url": "https://www.politico.com/news/2026/01/27/cisa-madhu-gottumukkala-chatgpt-00749361",
+      "publishedAt": "2026-01-27T21:02:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rurp",
       "tags": []
     },
     {
@@ -124,6 +146,28 @@
       "tags": []
     },
     {
+      "id": "u7zmo4",
+      "title": "The most dangerous code: Validating SSL certs in non-browser software (2012) [pdf]",
+      "description": "Score: 7 | Comments: 2 | Posted by ripe",
+      "url": "https://www.cs.cornell.edu/~shmat/shmat_ccs12.pdf",
+      "publishedAt": "2026-01-27T18:45:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ripe",
+      "tags": []
+    },
+    {
+      "id": "j8byg0",
+      "title": "Show HN: Mystral Native – Run JavaScript games natively with WebGPU (no browser)",
+      "description": "Score: 7 | Comments: 2 | Posted by Flux159",
+      "url": "https://github.com/mystralengine/mystralnative",
+      "publishedAt": "2026-01-27T18:33:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Flux159",
+      "tags": []
+    },
+    {
       "id": "fosfcd",
       "title": "LLM-as-a-Courtroom",
       "description": "Score: 59 | Comments: 26 | Posted by jmtulloss",
@@ -132,6 +176,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jmtulloss",
+      "tags": []
+    },
+    {
+      "id": "2k9hv6",
+      "title": "Nannou – A creative coding framework for Rust",
+      "description": "Score: 6 | Comments: 0 | Posted by dmit",
+      "url": "https://github.com/nannou-org/nannou",
+      "publishedAt": "2026-01-27T18:27:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dmit",
       "tags": []
     },
     {
