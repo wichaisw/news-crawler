@@ -1,0 +1,116 @@
+{
+  "date": "2026-01-31",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "lqrxqz",
+      "title": "Target director's Global Entry was revoked after ICE used app to scan her face",
+      "description": "Score: 17 | Comments: 0 | Posted by mmoustafa",
+      "url": "https://arstechnica.com/tech-policy/2026/01/ice-protester-says-her-global-entry-was-revoked-after-agent-scanned-her-face/",
+      "publishedAt": "2026-01-31T05:51:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mmoustafa",
+      "tags": []
+    },
+    {
+      "id": "grm7uc",
+      "title": "Starlink updates privacy policy to allow consumer data to train",
+      "description": "Score: 4 | Comments: 0 | Posted by malchow",
+      "url": "https://finance.yahoo.com/news/musks-starlink-updates-privacy-policy-230853500.html",
+      "publishedAt": "2026-01-31T05:44:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "malchow",
+      "tags": []
+    },
+    {
+      "id": "mz744l",
+      "title": "Show HN: Phage Explorer",
+      "description": "Score: 7 | Comments: 0 | Posted by eigenvalue",
+      "url": "https://phage-explorer.org/",
+      "publishedAt": "2026-01-31T05:22:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "eigenvalue",
+      "tags": []
+    },
+    {
+      "id": "pbgjch",
+      "title": "Court Filings: ICE App Identifies Protesters; Global Entry, PreCheck Get Revoked",
+      "description": "Score: 141 | Comments: 67 | Posted by datsci_est_2015",
+      "url": "https://viewfromthewing.com/court-filings-ice-uses-mobile-fortify-to-identify-protesters-global-entry-and-precheck-get-revoked/",
+      "publishedAt": "2026-01-31T02:29:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "datsci_est_2015",
+      "tags": []
+    },
+    {
+      "id": "oaeg33",
+      "title": "Coding Is When We're Least Productive",
+      "description": "Score: 4 | Comments: 0 | Posted by vinhnx",
+      "url": "https://codemanship.wordpress.com/2026/01/30/coding-is-when-were-least-productive/",
+      "publishedAt": "2026-01-31T02:08:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vinhnx",
+      "tags": []
+    },
+    {
+      "id": "louspy",
+      "title": "Goblins: Distributed, Transactional Programming with Racket and Guile",
+      "description": "Score: 4 | Comments: 0 | Posted by alhazrod",
+      "url": "https://spritely.institute/goblins/",
+      "publishedAt": "2026-01-31T02:05:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "alhazrod",
+      "tags": []
+    },
+    {
+      "id": "gln8ql",
+      "title": "Show HN: I trained a 9M speech model to fix my Mandarin tonessimedw.com",
+      "description": "Score: 158 | Comments: 54 | Posted by simedw",
+      "url": "https://simedw.com/2026/01/31/ear-pronunication-via-ctc/",
+      "publishedAt": "2026-01-31T01:14:42.152Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "simedw",
+      "tags": []
+    },
+    {
+      "id": "gln8ql",
+      "title": "Show HN: I trained a 9M speech model to fix my Mandarin tones",
+      "description": "Score: 159 | Comments: 54 | Posted by simedw",
+      "url": "https://simedw.com/2026/01/31/ear-pronunication-via-ctc/",
+      "publishedAt": "2026-01-31T00:51:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "simedw",
+      "tags": []
+    },
+    {
+      "id": "o6otw4",
+      "title": "175K+ publicly-exposed Ollama AI instances discovered",
+      "description": "Score: 39 | Comments: 27 | Posted by heresie-dabord",
+      "url": "https://www.techradar.com/pro/security/over-175-000-publicly-exposed-ollama-ai-servers-discovered-worldwide-so-fix-now",
+      "publishedAt": "2026-01-31T00:12:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "heresie-dabord",
+      "tags": []
+    },
+    {
+      "id": "q7e096",
+      "title": "The $100B megadeal between OpenAI and Nvidia is on ice",
+      "description": "Score: 242 | Comments: 148 | Posted by pixelesque",
+      "url": "https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3",
+      "publishedAt": "2026-01-31T00:02:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pixelesque",
+      "tags": []
+    }
+  ]
+}

@@ -58,6 +58,17 @@
       "tags": []
     },
     {
+      "id": "2sn4oj",
+      "title": "Building docs like a product",
+      "description": "Score: 59 | Comments: 7 | Posted by emschwartz",
+      "url": "https://emschwartz.me/building-docs-like-a-product/",
+      "publishedAt": "2026-01-29T21:11:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "emschwartz",
+      "tags": []
+    },
+    {
       "id": "bz0yir",
       "title": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
       "description": "Score: 145 | Comments: 220 | Posted by rd",
@@ -256,6 +267,17 @@
       "tags": []
     },
     {
+      "id": "kx8wjr",
+      "title": "How to explain Generative AI in the classroom",
+      "description": "Score: 45 | Comments: 14 | Posted by thinkingaboutit",
+      "url": "https://dalelane.co.uk/blog/?p=5847",
+      "publishedAt": "2026-01-29T14:23:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thinkingaboutit",
+      "tags": []
+    },
+    {
       "id": "1czb0j",
       "title": "Waymo robotaxi hits a child near an elementary school in Santa Monica",
       "description": "Score: 404 | Comments: 650 | Posted by voxadam",
@@ -418,6 +440,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "tekkie00",
+      "tags": []
+    },
+    {
+      "id": "sh3zkp",
+      "title": "Declassifying JUMPSEAT: an American pioneer in space",
+      "description": "Score: 26 | Comments: 4 | Posted by mkmk",
+      "url": "https://www.nro.gov/news-media-featured-stories/news-media-archive/News-Article/Article/4392223/declassifying-jumpseat-an-american-pioneer-in-space/",
+      "publishedAt": "2026-01-29T01:15:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mkmk",
       "tags": []
     }
   ]
