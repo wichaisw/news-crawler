@@ -47,6 +47,17 @@
       "tags": []
     },
     {
+      "id": "enqv9r",
+      "title": "Opentrees.org (2024)",
+      "description": "Score: 46 | Comments: 4 | Posted by surprisetalk",
+      "url": "https://opentrees.org/#pos=1/-37.8/145",
+      "publishedAt": "2026-01-27T21:33:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
       "id": "enr3w5",
       "title": "CISA’s acting head uploaded sensitive files into public version of ChatGPT",
       "description": "Score: 109 | Comments: 207 | Posted by rurp",
@@ -132,6 +143,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "linolevan",
+      "tags": []
+    },
+    {
+      "id": "oq6hrz",
+      "title": "History of the browser user-agent string (2008)",
+      "description": "Score: 15 | Comments: 1 | Posted by smushy",
+      "url": "https://webaim.org/blog/user-agent-string-history/",
+      "publishedAt": "2026-01-27T19:03:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "smushy",
       "tags": []
     },
     {
@@ -363,6 +385,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ulyssepence",
+      "tags": []
+    },
+    {
+      "id": "l061tz",
+      "title": "CPython Internals Explained",
+      "description": "Score: 185 | Comments: 43 | Posted by yufiz",
+      "url": "https://github.com/zpoint/CPython-Internals",
+      "publishedAt": "2026-01-27T14:07:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "yufiz",
       "tags": []
     },
     {

@@ -47,6 +47,17 @@
       "tags": []
     },
     {
+      "id": "64qqbh",
+      "title": "Show HN: Moltbook – A social network for moltbots (clawdbots) to hang out",
+      "description": "Score: 176 | Comments: 818 | Posted by schlichtm",
+      "url": "https://www.moltbook.com/",
+      "publishedAt": "2026-01-28T22:09:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "schlichtm",
+      "tags": []
+    },
+    {
       "id": "x8ov0",
       "title": "Bf-Tree: modern read-write-optimized concurrent larger-than-memory range index",
       "description": "Score: 68 | Comments: 14 | Posted by SchwKatze",
@@ -256,6 +267,17 @@
       "tags": []
     },
     {
+      "id": "lw3zhq",
+      "title": "Show HN: An extensible pub/sub messaging server for edge applications",
+      "description": "Score: 36 | Comments: 0 | Posted by ortuman",
+      "url": "https://github.com/narwhal-io/narwhal",
+      "publishedAt": "2026-01-28T13:59:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ortuman",
+      "tags": []
+    },
+    {
       "id": "mw8i2b",
       "title": "Show HN: SHDL – A minimal hardware description language built from logic gates",
       "description": "Score: 36 | Comments: 15 | Posted by rafa_rrayes",
@@ -275,6 +297,39 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "yuppiepuppie",
+      "tags": []
+    },
+    {
+      "id": "o62zh8",
+      "title": "Scientist who helped eradicate smallpox dies at age 89",
+      "description": "Score: 179 | Comments: 38 | Posted by CrossVR",
+      "url": "https://www.scientificamerican.com/article/smallpox-eradication-champion-william-foege-dies-at-89/",
+      "publishedAt": "2026-01-28T10:03:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "CrossVR",
+      "tags": []
+    },
+    {
+      "id": "q1fg0y",
+      "title": "Nonograms: a practical guide with interactive examples",
+      "description": "Score: 9 | Comments: 2 | Posted by merelysounds",
+      "url": "https://lab174.com/blog/202601-nonograms/",
+      "publishedAt": "2026-01-28T08:00:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "merelysounds",
+      "tags": []
+    },
+    {
+      "id": "moffdy",
+      "title": "NASA's WB-57 crash lands at Houston",
+      "description": "Score: 159 | Comments: 84 | Posted by verzali",
+      "url": "https://arstechnica.com/space/2026/01/one-of-nasas-three-wb-57-aircraft-just-did-a-belly-landing-in-houston/",
+      "publishedAt": "2026-01-28T07:43:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "verzali",
       "tags": []
     },
     {
@@ -308,6 +363,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "_wire_",
+      "tags": []
+    },
+    {
+      "id": "jpjaes",
+      "title": "A novelist who took on the Italian mafia and lived",
+      "description": "Score: 88 | Comments: 79 | Posted by Thevet",
+      "url": "https://www.thetimes.com/culture/books/article/sicilian-man-leonardo-sciascia-rise-mafia-struggle-italy-soul-caroline-moorehead-review-lbsbd2p5w",
+      "publishedAt": "2026-01-28T05:28:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Thevet",
       "tags": []
     },
     {

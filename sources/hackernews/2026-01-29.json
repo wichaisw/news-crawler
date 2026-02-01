@@ -36,6 +36,17 @@
       "tags": []
     },
     {
+      "id": "3ysnuz",
+      "title": "EV-1 for Lease (1996)",
+      "description": "Score: 11 | Comments: 1 | Posted by 1970-01-01",
+      "url": "https://www.loe.org/shows/shows.html?programID=96-P13-00047#feature4",
+      "publishedAt": "2026-01-29T22:36:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "1970-01-01",
+      "tags": []
+    },
+    {
       "id": "mrc9z7",
       "title": "Cutting Up Curved Things",
       "description": "Score: 42 | Comments: 7 | Posted by ecto",
@@ -121,6 +132,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "OsrsNeedsf2P",
+      "tags": []
+    },
+    {
+      "id": "k8q7cw",
+      "title": "Ferrari vs. Markets",
+      "description": "Score: 50 | Comments: 26 | Posted by merinid",
+      "url": "https://ferrari-imports.enigmatechnologies.dev/",
+      "publishedAt": "2026-01-29T19:25:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "merinid",
       "tags": []
     },
     {
@@ -322,6 +344,17 @@
       "tags": []
     },
     {
+      "id": "hakpr6",
+      "title": "A Step Behind the Bleeding Edge: A Philosophy on AI in Dev",
+      "description": "Score: 144 | Comments: 78 | Posted by Ozzie_osman",
+      "url": "https://somehowmanage.com/2026/01/22/a-step-behind-the-bleeding-edge-monarchs-philosophy-on-ai-in-dev/",
+      "publishedAt": "2026-01-29T13:20:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Ozzie_osman",
+      "tags": []
+    },
+    {
       "id": "r7sl7q",
       "title": "AGENTS.md outperforms skills in our agent evals",
       "description": "Score: 274 | Comments: 117 | Posted by maximedupre",
@@ -451,6 +484,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mkmk",
+      "tags": []
+    },
+    {
+      "id": "ivwna9",
+      "title": "pg_tracing: Distributed Tracing for PostgreSQL",
+      "description": "Score: 24 | Comments: 1 | Posted by tanelpoder",
+      "url": "https://github.com/DataDog/pg_tracing",
+      "publishedAt": "2026-01-29T00:36:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tanelpoder",
       "tags": []
     }
   ]

@@ -1,0 +1,94 @@
+{
+  "date": "2026-02-01",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "3fe3no",
+      "title": "List animals until failurerose.systems",
+      "description": "Score: 82 | Comments: 50 | Posted by l1n",
+      "url": "https://rose.systems/animalist/",
+      "publishedAt": "2026-02-01T03:21:46.685Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "l1n",
+      "tags": []
+    },
+    {
+      "id": "jh5urj",
+      "title": "Show HN: OpenJuris – AI legal research with citations from primary sources",
+      "description": "Score: 5 | Comments: 0 | Posted by Zachzhao",
+      "url": "https://openjuris.org/",
+      "publishedAt": "2026-02-01T02:48:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Zachzhao",
+      "tags": []
+    },
+    {
+      "id": "fi4ub5",
+      "title": "Apple-1 Computer Prototype Board #0 sold for $2.75M",
+      "description": "Score: 44 | Comments: 21 | Posted by qingcharles",
+      "url": "https://www.rrauction.com/auctions/lot-detail/350902407346003-apple-1-computer-prototype-board-0-the-celebration-board-representing-the-earliest-known-fiberglass-apple-1-prototype/",
+      "publishedAt": "2026-02-01T02:25:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "qingcharles",
+      "tags": []
+    },
+    {
+      "id": "5xfcux",
+      "title": "Pre-Steal This Book",
+      "description": "Score: 4 | Comments: 0 | Posted by herbertl",
+      "url": "https://seths.blog/2008/12/pre-steal-this/",
+      "publishedAt": "2026-02-01T02:11:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "herbertl",
+      "tags": []
+    },
+    {
+      "id": "3fe3no",
+      "title": "List animals until failure",
+      "description": "Score: 82 | Comments: 50 | Posted by l1n",
+      "url": "https://rose.systems/animalist/",
+      "publishedAt": "2026-02-01T01:03:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "l1n",
+      "tags": []
+    },
+    {
+      "id": "wz8wid",
+      "title": "Sparse File LRU Cache",
+      "description": "Score: 13 | Comments: 1 | Posted by paladin314159",
+      "url": "http://ternarysearch.blogspot.com/2026/01/sparse-file-lru-cache.html",
+      "publishedAt": "2026-02-01T01:00:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "paladin314159",
+      "tags": []
+    },
+    {
+      "id": "swpxc8",
+      "title": "Working example of a Yocto setup without unnecessary complications",
+      "description": "Score: 18 | Comments: 4 | Posted by transpute",
+      "url": "https://github.com/bootlin/simplest-yocto-setup",
+      "publishedAt": "2026-02-01T00:08:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "transpute",
+      "tags": []
+    },
+    {
+      "id": "xo961q",
+      "title": "Cells use 'bioelectricity' to coordinate and make group decisions",
+      "description": "Score: 30 | Comments: 7 | Posted by marojejian",
+      "url": "https://www.quantamagazine.org/cells-use-bioelectricity-to-coordinate-and-make-group-decisions-20260112/",
+      "publishedAt": "2026-02-01T00:00:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "marojejian",
+      "tags": []
+    }
+  ]
+}
