@@ -1,0 +1,105 @@
+{
+  "date": "2026-02-02",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "k92it8",
+      "title": "Leaked Chats Expose the Daily Life of a Scam Compound's Enslaved Workforce",
+      "description": "Score: 8 | Comments: 0 | Posted by smurda",
+      "url": "https://www.wired.com/story/the-red-bull-leaks/",
+      "publishedAt": "2026-02-02T05:10:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "smurda",
+      "tags": []
+    },
+    {
+      "id": "q9eted",
+      "title": "Apple's MacBook Pro DFU port documentation is wronglapcatsoftware.com",
+      "description": "Score: 46 | Comments: 2 | Posted by zdw",
+      "url": "https://lapcatsoftware.com/articles/2026/2/1.html",
+      "publishedAt": "2026-02-02T04:29:30.287Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "q9eted",
+      "title": "Apple's MacBook Pro DFU port documentation is wrong",
+      "description": "Score: 47 | Comments: 2 | Posted by zdw",
+      "url": "https://lapcatsoftware.com/articles/2026/2/1.html",
+      "publishedAt": "2026-02-02T03:29:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "ihkw0s",
+      "title": "Building a Telegram Bot with Cloudflare Workers, Durable Objects and Grammy",
+      "description": "Score: 10 | Comments: 0 | Posted by flashblaze",
+      "url": "https://flashblaze.xyz/posts/cloudflare-workers-durable-objects-telegram-bot/",
+      "publishedAt": "2026-02-02T03:02:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "flashblaze",
+      "tags": []
+    },
+    {
+      "id": "a0asrb",
+      "title": "Notepad++ hijacked by state-sponsored actors",
+      "description": "Score: 519 | Comments: 287 | Posted by mysterydip",
+      "url": "https://notepad-plus-plus.org/news/hijacked-incident-info-update/",
+      "publishedAt": "2026-02-02T01:59:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mysterydip",
+      "tags": []
+    },
+    {
+      "id": "gav5c3",
+      "title": "Actors: A Model of Concurrent Computation [pdf] (1985)",
+      "description": "Score: 51 | Comments: 18 | Posted by kioku",
+      "url": "https://apps.dtic.mil/sti/tr/pdf/ADA157917.pdf",
+      "publishedAt": "2026-02-02T01:11:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kioku",
+      "tags": []
+    },
+    {
+      "id": "wlhfj6",
+      "title": "X8.11 Solar Flare from AR4366",
+      "description": "Score: 5 | Comments: 1 | Posted by ruined",
+      "url": "https://www.spaceweatherlive.com/en/solar-activity/solar-flares.html",
+      "publishedAt": "2026-02-02T00:54:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ruined",
+      "tags": []
+    },
+    {
+      "id": "dx37en",
+      "title": "Show HN: Wikipedia as a doomscrollable social media feed",
+      "description": "Score: 87 | Comments: 46 | Posted by rebane2001",
+      "url": "https://xikipedia.org",
+      "publishedAt": "2026-02-02T00:12:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rebane2001",
+      "tags": []
+    },
+    {
+      "id": "rn0cl5",
+      "title": "Time Machine-style Backups with rsync (2018)",
+      "description": "Score: 59 | Comments: 20 | Posted by accrual",
+      "url": "https://samuelhewitt.com/blog/2018-06-05-time-machine-style-backups-with-rsync",
+      "publishedAt": "2026-02-02T00:00:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "accrual",
+      "tags": []
+    }
+  ]
+}
