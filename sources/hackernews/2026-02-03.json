@@ -1,0 +1,138 @@
+{
+  "date": "2026-02-03",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "nzdt0j",
+      "title": "Coding assistants are solving the wrong problembicameral-ai.com",
+      "description": "Score: 28 | Comments: 3 | Posted by jinhkuan",
+      "url": "https://www.bicameral-ai.com/blog/introducing-bicameral",
+      "publishedAt": "2026-02-03T05:22:28.216Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jinhkuan",
+      "tags": []
+    },
+    {
+      "id": "cb2meg",
+      "title": "Floppinux – An Embedded Linux on a Single Floppy, 2025 Editionkrzysztofjankowski.com",
+      "description": "Score: 45 | Comments: 20 | Posted by GalaxySnail",
+      "url": "https://krzysztofjankowski.com/floppinux/floppinux-2025.html",
+      "publishedAt": "2026-02-03T05:22:28.212Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "GalaxySnail",
+      "tags": []
+    },
+    {
+      "id": "cb2meg",
+      "title": "Floppinux – An Embedded Linux on a Single Floppy, 2025 Edition",
+      "description": "Score: 45 | Comments: 20 | Posted by GalaxySnail",
+      "url": "https://krzysztofjankowski.com/floppinux/floppinux-2025.html",
+      "publishedAt": "2026-02-03T04:33:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "GalaxySnail",
+      "tags": []
+    },
+    {
+      "id": "nzdt0j",
+      "title": "Coding assistants are solving the wrong problem",
+      "description": "Score: 29 | Comments: 3 | Posted by jinhkuan",
+      "url": "https://www.bicameral-ai.com/blog/introducing-bicameral",
+      "publishedAt": "2026-02-03T04:25:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jinhkuan",
+      "tags": []
+    },
+    {
+      "id": "6th4zx",
+      "title": "Frog 'saunas' could help endangered species beat a deadly fungus (2024)",
+      "description": "Score: 5 | Comments: 1 | Posted by noleary",
+      "url": "https://www.science.org/content/article/frog-saunas-could-help-endangered-species-beat-deadly-fungus",
+      "publishedAt": "2026-02-03T04:12:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "noleary",
+      "tags": []
+    },
+    {
+      "id": "ir7og2",
+      "title": "To Build a Fire:Inside Russia's Campaign of Sabotage in Europe",
+      "description": "Score: 10 | Comments: 1 | Posted by stevenwoo",
+      "url": "https://www.newyorker.com/magazine/2026/02/09/to-build-a-fire",
+      "publishedAt": "2026-02-03T03:28:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "stevenwoo",
+      "tags": []
+    },
+    {
+      "id": "99i6iu",
+      "title": "Show HN: Open-source semantic search over your local notes via CLI",
+      "description": "Score: 4 | Comments: 0 | Posted by jellyotsiro",
+      "url": "https://github.com/chenxin-yan/nia-vault",
+      "publishedAt": "2026-02-03T03:13:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jellyotsiro",
+      "tags": []
+    },
+    {
+      "id": "75e9rr",
+      "title": "Banning lead in gas worked. The proof is in our hair",
+      "description": "Score: 80 | Comments: 11 | Posted by geox",
+      "url": "https://attheu.utah.edu/health-medicine/banning-lead-in-gas-worked-the-proof-is-in-our-hair/",
+      "publishedAt": "2026-02-03T01:52:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "geox",
+      "tags": []
+    },
+    {
+      "id": "wagsl9",
+      "title": "How does misalignment scale with model intelligence and task complexity?anthropic.com",
+      "description": "Score: 150 | Comments: 40 | Posted by salkahfi",
+      "url": "https://alignment.anthropic.com/2026/hot-mess-of-ai/",
+      "publishedAt": "2026-02-03T01:22:28.215Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "salkahfi",
+      "tags": []
+    },
+    {
+      "id": "8709uv",
+      "title": "Show HN: Axiomeer – An open marketplace for AI agents",
+      "description": "Score: 3 | Comments: 0 | Posted by ujjwalreddyks",
+      "url": "https://github.com/ujjwalredd/Axiomeer",
+      "publishedAt": "2026-02-03T00:43:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ujjwalreddyks",
+      "tags": []
+    },
+    {
+      "id": "m9com4",
+      "title": "GitHub discusses giving maintainers control to disable PRs",
+      "description": "Score: 94 | Comments: 27 | Posted by aofeisheng",
+      "url": "https://github.com/orgs/community/discussions/185387",
+      "publishedAt": "2026-02-03T00:30:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "aofeisheng",
+      "tags": []
+    },
+    {
+      "id": "wagsl9",
+      "title": "How does misalignment scale with model intelligence and task complexity?",
+      "description": "Score: 151 | Comments: 40 | Posted by salkahfi",
+      "url": "https://alignment.anthropic.com/2026/hot-mess-of-ai/",
+      "publishedAt": "2026-02-03T00:28:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "salkahfi",
+      "tags": []
+    }
+  ]
+}

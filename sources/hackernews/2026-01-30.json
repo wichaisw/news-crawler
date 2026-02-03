@@ -135,6 +135,17 @@
       "tags": []
     },
     {
+      "id": "s68zwq",
+      "title": "See how many words you have written in Hacker News comments",
+      "description": "Score: 32 | Comments: 47 | Posted by Imustaskforhelp",
+      "url": "https://serjaimelannister.github.io/hn-words/",
+      "publishedAt": "2026-01-30T19:54:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Imustaskforhelp",
+      "tags": []
+    },
+    {
       "id": "7licz4",
       "title": "CaaS – Cat as a Service",
       "description": "Score: 14 | Comments: 3 | Posted by cat-whisperer",
@@ -165,6 +176,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "vinhnx",
+      "tags": []
+    },
+    {
+      "id": "ghfi9k",
+      "title": "Joedb, the Journal-Only Embedded Database",
+      "description": "Score: 61 | Comments: 8 | Posted by mci",
+      "url": "https://www.joedb.org/index.html",
+      "publishedAt": "2026-01-30T16:34:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mci",
       "tags": []
     },
     {
@@ -278,6 +300,17 @@
       "tags": []
     },
     {
+      "id": "dzw3j1",
+      "title": "The Connection Machine CM-1 \"Feynman\" T-shirt",
+      "description": "Score: 63 | Comments: 14 | Posted by tosh",
+      "url": "https://tamikothiel.com/cm/cm-tshirt.html",
+      "publishedAt": "2026-01-30T09:10:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tosh",
+      "tags": []
+    },
+    {
       "id": "wq157i",
       "title": "GOG: Linux \"the next major frontier\" for gaming as it works on a native client",
       "description": "Score: 672 | Comments: 358 | Posted by franczesko",
@@ -352,6 +385,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "teej",
+      "tags": []
+    },
+    {
+      "id": "cho7hi",
+      "title": "4x faster network file sync with rclone (vs rsync) (2025)",
+      "description": "Score: 283 | Comments: 137 | Posted by indigodaddy",
+      "url": "https://www.jeffgeerling.com/blog/2025/4x-faster-network-file-sync-rclone-vs-rsync/",
+      "publishedAt": "2026-01-30T03:17:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "indigodaddy",
       "tags": []
     },
     {

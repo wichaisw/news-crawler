@@ -157,6 +157,17 @@
       "tags": []
     },
     {
+      "id": "s1g4fy",
+      "title": "General Graboids: Worms and Remote Code Execution in Command and Conquer",
+      "description": "Score: 35 | Comments: 8 | Posted by speckx",
+      "url": "https://www.atredis.com/blog/2026/1/26/generals",
+      "publishedAt": "2026-01-27T19:16:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
+      "tags": []
+    },
+    {
       "id": "oq6hrz",
       "title": "History of the browser user-agent string (2008)",
       "description": "Score: 15 | Comments: 1 | Posted by smushy",
@@ -319,6 +330,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "swolpers",
+      "tags": []
+    },
+    {
+      "id": "m4ls8p",
+      "title": "Training a trillion parameter model to be funny",
+      "description": "Score: 33 | Comments: 26 | Posted by sdan",
+      "url": "https://jokegen.sdan.io/blog",
+      "publishedAt": "2026-01-27T16:58:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sdan",
       "tags": []
     },
     {
