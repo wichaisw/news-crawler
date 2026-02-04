@@ -1,0 +1,102 @@
+{
+  "date": "2026-02-03",
+  "source": "theverge",
+  "articles": [
+    {
+      "id": "lfpbyv",
+      "title": "AMD hints Microsoft could launch its next-gen Xbox in 2027",
+      "description": "Microsoft confirmed last year that it's working on a next-gen Xbox console in partnership with AMD. Now, AMD is hinting that the next Xbox console, which will use custom AMD chips, could be launching in 2027. \"Development of Microsoft's next-gen Xbox, featuring an AMD semi-custom SoC, is progressing well to support a launch in 2027,\" [&#8230;]",
+      "url": "https://www.theverge.com/news/873490/microsoft-next-gen-xbox-console-2027-date-amd",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290359/STK048_XBOX_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-02-03T23:22:37.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Tom Warren",
+      "tags": []
+    },
+    {
+      "id": "9js4gz",
+      "title": "Department of Justice appeals Google search monopoly ruling",
+      "description": "On Tuesday, the Department of Justice and the plaintiffs in the antitrust case against Google filed a cross-appeal, as the DOJ Antitrust Division announced in a post on X: \"Today, the DOJ Antitrust Division filed notice that it will cross-appeal from the remedies decisions in its case against Google's unlawful monopolization of internet search and [&#8230;]",
+      "url": "https://www.theverge.com/tech/873438/google-antitrust-case-doj-states-appeal",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25505437/247157_DOJ_tech_regulation_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-02-03T22:40:47.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Stevie Bonifield",
+      "tags": []
+    },
+    {
+      "id": "rkrdc3",
+      "title": "Slopaganda goes West",
+      "description": "After right-wing YouTuber Nick Shirley's viral video alleging fraud at Minnesota daycares he said were operated by Somali residents, Donald Trump's administration responded by flooding the state with federal immigration agents and freezing funding for childcare services. (A judge ruled that the federal government must continue funding childcare subsidies, at least temporarily.) Now Shirley is [&#8230;]",
+      "url": "https://www.theverge.com/news/873400/nick-shirley-somali-daycares-san-diego-california-youtube",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/268235_Nick_Shirley_right_wing_influence_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-02-03T22:23:09.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Mia Sato",
+      "tags": []
+    },
+    {
+      "id": "9p745o",
+      "title": "Borderlands 4 for Switch 2 is on ‘pause’",
+      "description": "Development on the Nintendo Switch 2 version of Borderlands 4 is on \"pause,\" according to a statement from a Take-Two spokesperson given to Variety. \"We made the difficult decision to pause development on that SKU,\" Take-Two spokesperson Alan Lewis said in the statement published by Variety. \"Our focus continues to be delivering quality post-launch content [&#8230;]",
+      "url": "https://www.theverge.com/games/873409/borderlands-4-nintendo-switch-2-development-pause",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/ss_9e2b137a204b18b38ad65966b334e164338f1188.1920x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-02-03T21:56:13.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Jay Peters",
+      "tags": []
+    },
+    {
+      "id": "brptbo",
+      "title": "The four best Super Bowl TV deals we found",
+      "description": "The Super Bowl is not only one of the biggest sporting events in the world, it’s also one of the best times of year to find a deal on a big TV. For major events in particular, a large TV makes sense because it provides a more immersive experience and allows for groups of friends [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/873160/super-bowl-4k-oled-big-tv-deal-sale",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25818712/DSCF4306.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-02-03T21:23:36.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "John.Higgins",
+      "tags": []
+    },
+    {
+      "id": "ony1i7",
+      "title": "Elon Musk is merging SpaceX and xAI to build data centers in space — or so he says",
+      "description": "On Monday, Elon Musk announced that he was merging two of his companies, SpaceX and xAI, in a deal said to be worth $1.25 trillion. The reason, Musk said in an announcement, was that in order for AI to grow, it needed to go to space. AI relies on \"large terrestrial data centers\" that run [&#8230;]",
+      "url": "https://www.theverge.com/transportation/873203/elon-musk-spacex-xai-merge-data-centers-space-tesla-ipo",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22498394/1229892421.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-02-03T21:01:03.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Andrew J. Hawkins",
+      "tags": []
+    },
+    {
+      "id": "kc06f1",
+      "title": "Microsoft says it’s building an app store for AI content licensing",
+      "description": "Microsoft says it is working on the Publisher Content Marketplace (PCM), an AI licensing hub that shows usage terms set by publishers. That way, AI companies can easily shop the terms and set up deals to use online content for \"grounding\" their AI models, while the content owners get usage-based reporting to help set prices. [&#8230;]",
+      "url": "https://www.theverge.com/news/873296/microsoft-publisher-content-marketplace-ai-licensing",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832915/STK095_MICROSOFT_2_CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-02-03T20:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Emma Roth",
+      "tags": []
+    },
+    {
+      "id": "3u42ja",
+      "title": "Apple’s Xcode adds OpenAI and Anthropic’s coding agents",
+      "description": "Apple is building OpenAI and Anthropic's AI-powered coding agents directly into Xcode. New integrations in Xcode 26.3 will give developers the ability to call upon Anthropic's Claude Agent and OpenAI's Codex to write and edit code, update project settings, search documentation, and more. Xcode is the software developers can use to create and test apps [&#8230;]",
+      "url": "https://www.theverge.com/news/873300/apple-xcode-openai-anthropic-ai-agentic-coding",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_APPLE_P.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-02-03T19:04:09.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Emma Roth",
+      "tags": []
+    }
+  ]
+}

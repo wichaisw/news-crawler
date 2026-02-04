@@ -113,6 +113,17 @@
       "tags": []
     },
     {
+      "id": "hnk9cs",
+      "title": "Lessons learned shipping 500 units of my first hardware product",
+      "description": "Score: 477 | Comments: 215 | Posted by sberens",
+      "url": "https://www.simonberens.com/p/lessons-learned-shipping-500-units",
+      "publishedAt": "2026-02-01T20:01:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sberens",
+      "tags": []
+    },
+    {
       "id": "dvid86",
       "title": "1-Click RCE to steal your Moltbot data and keys",
       "description": "Score: 156 | Comments: 71 | Posted by arwt",
@@ -132,6 +143,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "rcarmo",
+      "tags": []
+    },
+    {
+      "id": "4fcr24",
+      "title": "Another London: Excavating the disenchanted city",
+      "description": "Score: 32 | Comments: 2 | Posted by jfil",
+      "url": "https://harpers.org/archive/2026/02/another-london-situationists-hari-kunzru/",
+      "publishedAt": "2026-02-01T19:32:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jfil",
       "tags": []
     },
     {
@@ -212,6 +234,17 @@
       "tags": []
     },
     {
+      "id": "k5zmad",
+      "title": "Show HN: Craftplan – I built my wife a production management tool for her bakery",
+      "description": "Score: 222 | Comments: 25 | Posted by deofoo",
+      "url": "https://github.com/puemos/craftplan",
+      "publishedAt": "2026-02-01T17:25:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "deofoo",
+      "tags": []
+    },
+    {
       "id": "js2qcl",
       "title": "50 years ago, a young Bill Gates took on the 'software pirates'",
       "description": "Score: 20 | Comments: 13 | Posted by MilnerRoute",
@@ -253,6 +286,39 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "doener",
+      "tags": []
+    },
+    {
+      "id": "atsq8f",
+      "title": "Resurrecting Crimsonland – Decompiling and preserving a cult 2003 classic game",
+      "description": "Score: 86 | Comments: 22 | Posted by banteg",
+      "url": "https://banteg.xyz/posts/crimsonland/",
+      "publishedAt": "2026-02-01T13:32:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "banteg",
+      "tags": []
+    },
+    {
+      "id": "c7n5rw",
+      "title": "Heritability of intrinsic human life span is about 50%",
+      "description": "Score: 147 | Comments: 97 | Posted by XzetaU8",
+      "url": "https://www.science.org/doi/10.1126/science.adz1187",
+      "publishedAt": "2026-02-01T12:13:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "XzetaU8",
+      "tags": []
+    },
+    {
+      "id": "iwngpa",
+      "title": "Machinery and English Style (1904)",
+      "description": "Score: 8 | Comments: 1 | Posted by danidiaz",
+      "url": "https://www.theatlantic.com/magazine/archive/1904/10/machinery-and-english-style/637506/",
+      "publishedAt": "2026-02-01T11:18:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "danidiaz",
       "tags": []
     },
     {
@@ -308,6 +374,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "3i24rj",
+      "title": "Reimplementing Tor from Scratch for a Single-Hop Proxy",
+      "description": "Score: 12 | Comments: 1 | Posted by Agreed3750",
+      "url": "https://foxmoss.com/blog/kurrat/",
+      "publishedAt": "2026-02-01T06:53:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Agreed3750",
       "tags": []
     },
     {

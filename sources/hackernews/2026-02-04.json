@@ -1,0 +1,50 @@
+{
+  "date": "2026-02-04",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "4b9e31",
+      "title": "Petition for Recognition of Work on Open-Source as Volunteering in Germanyopenpetition.de",
+      "description": "Score: 50 | Comments: 2 | Posted by numeri",
+      "url": "https://www.openpetition.de/petition/online/recognition-of-work-on-open-source-as-volunteering-in-germany",
+      "publishedAt": "2026-02-04T05:22:05.690Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "numeri",
+      "tags": []
+    },
+    {
+      "id": "4b9e31",
+      "title": "Petition for Recognition of Work on Open-Source as Volunteering in Germany",
+      "description": "Score: 51 | Comments: 2 | Posted by numeri",
+      "url": "https://www.openpetition.de/petition/online/recognition-of-work-on-open-source-as-volunteering-in-germany",
+      "publishedAt": "2026-02-04T04:46:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "numeri",
+      "tags": []
+    },
+    {
+      "id": "z83ogy",
+      "title": "I miss thinking hardjernesto.com",
+      "description": "Score: 214 | Comments: 120 | Posted by jernestomg",
+      "url": "https://www.jernesto.com/articles/thinking_hard",
+      "publishedAt": "2026-02-04T04:22:05.690Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jernestomg",
+      "tags": []
+    },
+    {
+      "id": "z83ogy",
+      "title": "I miss thinking hard",
+      "description": "Score: 214 | Comments: 120 | Posted by jernestomg",
+      "url": "https://www.jernesto.com/articles/thinking_hard",
+      "publishedAt": "2026-02-04T03:54:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jernestomg",
+      "tags": []
+    }
+  ]
+}
