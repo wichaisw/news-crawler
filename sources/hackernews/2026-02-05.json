@@ -1,0 +1,160 @@
+{
+  "date": "2026-02-05",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "d141ri",
+      "title": "When internal hostnames are leaked to the clownrachelbythebay.com",
+      "description": "Score: 59 | Comments: 16 | Posted by zdw",
+      "url": "https://rachelbythebay.com/w/2026/02/03/badnas/",
+      "publishedAt": "2026-02-05T05:25:50.934Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "d141ri",
+      "title": "When internal hostnames are leaked to the clown",
+      "description": "Score: 59 | Comments: 16 | Posted by zdw",
+      "url": "https://rachelbythebay.com/w/2026/02/03/badnas/",
+      "publishedAt": "2026-02-05T05:22:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "3tn8xi",
+      "title": "ICE seeks industry input on ad tech location data for investigative use",
+      "description": "Score: 92 | Comments: 23 | Posted by WaitWaitWha",
+      "url": "https://www.biometricupdate.com/202602/ice-seeks-industry-input-on-ad-tech-location-data-for-investigative-use",
+      "publishedAt": "2026-02-05T05:02:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "WaitWaitWha",
+      "tags": []
+    },
+    {
+      "id": "4hxro0",
+      "title": "The CIA Is Sunsetting the World Factbook",
+      "description": "Score: 13 | Comments: 4 | Posted by blizow",
+      "url": "https://actualityabridged.substack.com/p/the-cia-is-sunsetting-the-world-factbook",
+      "publishedAt": "2026-02-05T04:44:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "blizow",
+      "tags": []
+    },
+    {
+      "id": "g71ywg",
+      "title": "Sam Altman Responds to Anthropic Ad Campaign",
+      "description": "Score: 53 | Comments: 31 | Posted by gradus_ad",
+      "url": "https://twitter.com/i/status/2019139174339928189",
+      "publishedAt": "2026-02-05T04:14:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gradus_ad",
+      "tags": []
+    },
+    {
+      "id": "bf5cl9",
+      "title": "Open secrets about Hacker News",
+      "description": "Score: 17 | Comments: 2 | Posted by thunderbong",
+      "url": "https://bengtan.com/blog/open-secrets-hacker-news/",
+      "publishedAt": "2026-02-05T03:48:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thunderbong",
+      "tags": []
+    },
+    {
+      "id": "l3bqvd",
+      "title": "A few CPU hardware bugs",
+      "description": "Score: 21 | Comments: 3 | Posted by signa11",
+      "url": "https://www.taricorp.net/2026/a-few-cpu-bugs/",
+      "publishedAt": "2026-02-05T03:39:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "signa11",
+      "tags": []
+    },
+    {
+      "id": "8ghe3j",
+      "title": "Wirth's Revenge",
+      "description": "Score: 5 | Comments: 0 | Posted by signa11",
+      "url": "https://jmoiron.net/blog/wirths-revenge/",
+      "publishedAt": "2026-02-05T03:38:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "signa11",
+      "tags": []
+    },
+    {
+      "id": "3xxgcw",
+      "title": "Postgres Postmaster does not scalerecall.ai",
+      "description": "Score: 69 | Comments: 23 | Posted by davidgu",
+      "url": "https://www.recall.ai/blog/postgres-postmaster-does-not-scale",
+      "publishedAt": "2026-02-05T03:25:50.935Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "davidgu",
+      "tags": []
+    },
+    {
+      "id": "arz83p",
+      "title": "A tale of two flows: Metaflow and Kubeflow",
+      "description": "Score: 9 | Comments: 0 | Posted by savin-goyal",
+      "url": "https://blog.kubeflow.org/metaflow/",
+      "publishedAt": "2026-02-05T03:06:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "savin-goyal",
+      "tags": []
+    },
+    {
+      "id": "x4nj0e",
+      "title": "Child prodigies rarely become elite performers",
+      "description": "Score: 93 | Comments: 71 | Posted by i7l",
+      "url": "https://www.economist.com/science-and-technology/2026/01/14/why-child-prodigies-rarely-become-elite-performers",
+      "publishedAt": "2026-02-05T02:17:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "i7l",
+      "tags": []
+    },
+    {
+      "id": "e7gb15",
+      "title": "Banks seek out new buyers for Oracle data centre loans",
+      "description": "Score: 22 | Comments: 5 | Posted by zerosizedweasle",
+      "url": "https://www.ft.com/content/90aa74a5-b39d-4131-a138-367726cb18fb",
+      "publishedAt": "2026-02-05T01:30:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zerosizedweasle",
+      "tags": []
+    },
+    {
+      "id": "53u3qo",
+      "title": "OpenClaw is what Apple intelligence should have been",
+      "description": "Score: 256 | Comments: 233 | Posted by jakequist",
+      "url": "https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been",
+      "publishedAt": "2026-02-05T00:28:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jakequist",
+      "tags": []
+    },
+    {
+      "id": "44s648",
+      "title": "Steam Hardware: Launch timing and other FAQs",
+      "description": "Score: 62 | Comments: 26 | Posted by Philpax",
+      "url": "https://store.steampowered.com/news/group/45479024/view/625565405086220583",
+      "publishedAt": "2026-02-05T00:21:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Philpax",
+      "tags": []
+    }
+  ]
+}

@@ -14,6 +14,17 @@
       "tags": []
     },
     {
+      "id": "w1k4e0",
+      "title": "How not to securely erase a NVME drive (2022)",
+      "description": "Score: 43 | Comments: 32 | Posted by transpute",
+      "url": "https://peterbabic.dev/blog/how-not-to-securely-erase-nvme-drive/",
+      "publishedAt": "2026-01-31T23:01:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "transpute",
+      "tags": []
+    },
+    {
       "id": "6b1h1x",
       "title": "Swift is a more convenient Rust (2023)",
       "description": "Score: 256 | Comments: 240 | Posted by behnamoh",
@@ -88,6 +99,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ingve",
+      "tags": []
+    },
+    {
+      "id": "lmpo60",
+      "title": "Brazilian Micro-SaaS Map",
+      "description": "Score: 92 | Comments: 4 | Posted by acfilho",
+      "url": "https://saas-map.ssr.trapiche.cloud/",
+      "publishedAt": "2026-01-31T20:35:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "acfilho",
       "tags": []
     },
     {
@@ -201,6 +223,17 @@
       "tags": []
     },
     {
+      "id": "ilm939",
+      "title": "No More Hidden Changes: How MySQL 9.6 Transforms Foreign Key Management",
+      "description": "Score: 31 | Comments: 17 | Posted by ksec",
+      "url": "https://blogs.oracle.com/mysql/no-more-hidden-changes-how-mysql-9-6-transforms-foreign-key-management",
+      "publishedAt": "2026-01-31T17:14:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ksec",
+      "tags": []
+    },
+    {
       "id": "6o4ad",
       "title": "Finland looks to introduce Australia-style ban on social media",
       "description": "Score: 560 | Comments: 415 | Posted by Teever",
@@ -264,6 +297,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "tobr",
+      "tags": []
+    },
+    {
+      "id": "4s1acm",
+      "title": "Why S7 Scheme? (2020)",
+      "description": "Score: 11 | Comments: 3 | Posted by bmacho",
+      "url": "https://iainctduncan.github.io/scheme-for-max-docs/s7.html",
+      "publishedAt": "2026-01-31T11:35:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bmacho",
       "tags": []
     },
     {

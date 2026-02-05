@@ -1,0 +1,39 @@
+{
+  "date": "2026-02-05",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3089626",
+      "title": "Sam Altman got exceptionally testy over Claude Super Bowl ads",
+      "description": "He posted a novella-sized rant that devolved into to calling his rival \"dishonest\" and \"authoritarian.\"",
+      "url": "https://techcrunch.com/2026/02/04/sam-altman-got-exceptionally-testy-over-claude-super-bowl-ads/",
+      "publishedAt": "2026-02-05T00:45:11.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Julie Bort",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3089646",
+      "title": "As it preps Specs for the masses, Snap’s Q4 shows revenue growth but fewer daily users",
+      "description": "The company is engaged in a strategy to diversify its revenue sources as it heads into the new year.",
+      "url": "https://techcrunch.com/2026/02/04/as-it-preps-specs-for-the-masses-snaps-q4-shows-revenue-growth-but-fewer-daily-users/",
+      "publishedAt": "2026-02-05T00:07:59.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lucas Ropek",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3089542",
+      "title": "Mundi Ventures closes on €750M for Kembara, its largest deep tech and climate fund",
+      "description": "Spain-based deeptech and climate megafund Kembara has just completed a €750 million first close toward its €1 billion target.",
+      "url": "https://techcrunch.com/2026/02/04/mundi-ventures-closes-on-e750m-for-kembara-its-largest-deep-tech-and-climate-fund/",
+      "publishedAt": "2026-02-05T00:01:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anna Heim",
+      "tags": []
+    }
+  ]
+}

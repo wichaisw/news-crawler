@@ -69,6 +69,17 @@
       "tags": []
     },
     {
+      "id": "mg9qmw",
+      "title": "Lily Programming Language",
+      "description": "Score: 30 | Comments: 23 | Posted by FascinatedBox",
+      "url": "https://lily-lang.org",
+      "publishedAt": "2026-02-01T21:53:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "FascinatedBox",
+      "tags": []
+    },
+    {
       "id": "ob4u6h",
       "title": "MRI scans show exercise can make the brain look younger",
       "description": "Score: 91 | Comments: 37 | Posted by amichail",
@@ -300,6 +311,17 @@
       "tags": []
     },
     {
+      "id": "9z9xo0",
+      "title": "Claude Code: connect to a local model when your quota runs out",
+      "description": "Score: 245 | Comments: 125 | Posted by fugu2",
+      "url": "https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-runs-out/",
+      "publishedAt": "2026-02-01T12:43:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fugu2",
+      "tags": []
+    },
+    {
       "id": "c7n5rw",
       "title": "Heritability of intrinsic human life span is about 50%",
       "description": "Score: 147 | Comments: 97 | Posted by XzetaU8",
@@ -308,6 +330,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "XzetaU8",
+      "tags": []
+    },
+    {
+      "id": "b6qg6s",
+      "title": "Remarkable Pro Colors",
+      "description": "Score: 90 | Comments: 32 | Posted by ffaser5gxlsll",
+      "url": "https://www.thregr.org/wavexx/rnd/20260201-remarkable_pro_colors/",
+      "publishedAt": "2026-02-01T12:12:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ffaser5gxlsll",
+      "tags": []
+    },
+    {
+      "id": "ubdwpj",
+      "title": "Data Poems",
+      "description": "Score: 34 | Comments: 4 | Posted by putzdown",
+      "url": "https://dr.eamer.dev/datavis/poems/",
+      "publishedAt": "2026-02-01T12:06:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "putzdown",
       "tags": []
     },
     {
@@ -330,6 +374,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "donatj",
+      "tags": []
+    },
+    {
+      "id": "n5qkt6",
+      "title": "Sqldef: Idempotent schema management tool for MySQL, PostgreSQL, SQLite",
+      "description": "Score: 120 | Comments: 31 | Posted by Palmik",
+      "url": "https://sqldef.github.io/",
+      "publishedAt": "2026-02-01T10:56:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Palmik",
+      "tags": []
+    },
+    {
+      "id": "72dgul",
+      "title": "Listen to Understand",
+      "description": "Score: 29 | Comments: 3 | Posted by bradwoodsio",
+      "url": "https://talk.bradwoods.io/blog/listen-to-understand/",
+      "publishedAt": "2026-02-01T10:49:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bradwoodsio",
       "tags": []
     },
     {
@@ -374,6 +440,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "frpxq8",
+      "title": "Coding Agent VMs on NixOS with Microvm.nix",
+      "description": "Score: 93 | Comments: 44 | Posted by secure",
+      "url": "https://michael.stapelberg.ch/posts/2026-02-01-coding-agent-microvm-nix/",
+      "publishedAt": "2026-02-01T08:02:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "secure",
       "tags": []
     },
     {
@@ -462,6 +539,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "paladin314159",
+      "tags": []
+    },
+    {
+      "id": "4v0m6s",
+      "title": "High-Altitude Adventure with a DIY Pico Balloon",
+      "description": "Score: 110 | Comments: 57 | Posted by jnord",
+      "url": "https://spectrum.ieee.org/explore-stratosphere-diy-pico-balloon",
+      "publishedAt": "2026-02-01T00:14:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jnord",
       "tags": []
     },
     {
