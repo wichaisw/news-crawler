@@ -1,0 +1,138 @@
+{
+  "date": "2026-02-06",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "sx4kw8",
+      "title": "Things Unix can do atomicallyrcrowley.org",
+      "description": "Score: 26 | Comments: 1 | Posted by onurkanbkrc",
+      "url": "https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html",
+      "publishedAt": "2026-02-06T05:32:04.870Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "onurkanbkrc",
+      "tags": []
+    },
+    {
+      "id": "sx4kw8",
+      "title": "Things Unix can do atomically",
+      "description": "Score: 26 | Comments: 1 | Posted by onurkanbkrc",
+      "url": "https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html",
+      "publishedAt": "2026-02-06T05:29:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "onurkanbkrc",
+      "tags": []
+    },
+    {
+      "id": "lnll2x",
+      "title": "Systems Thinkingtheprogrammersparadox.blogspot.com",
+      "description": "Score: 21 | Comments: 6 | Posted by r4um",
+      "url": "http://theprogrammersparadox.blogspot.com/2026/02/systems-thinking.html",
+      "publishedAt": "2026-02-06T05:27:04.871Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "r4um",
+      "tags": []
+    },
+    {
+      "id": "lnll2x",
+      "title": "Systems Thinking",
+      "description": "Score: 21 | Comments: 6 | Posted by r4um",
+      "url": "http://theprogrammersparadox.blogspot.com/2026/02/systems-thinking.html",
+      "publishedAt": "2026-02-06T05:24:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "r4um",
+      "tags": []
+    },
+    {
+      "id": "pl5iip",
+      "title": "Generative Pen-Trained Transformer",
+      "description": "Score: 4 | Comments: 0 | Posted by Twarner",
+      "url": "https://theodore.net/projects/Polargraph/",
+      "publishedAt": "2026-02-06T04:28:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Twarner",
+      "tags": []
+    },
+    {
+      "id": "d3imvh",
+      "title": "Volkswagen overtook Tesla as Europe's top EV seller in 2025",
+      "description": "Score: 25 | Comments: 2 | Posted by _fizz_buzz_",
+      "url": "https://www.reuters.com/business/autos-transportation/volkswagen-overtook-tesla-europes-top-ev-seller-2025-2026-02-05/",
+      "publishedAt": "2026-02-06T04:12:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "_fizz_buzz_",
+      "tags": []
+    },
+    {
+      "id": "yetda5",
+      "title": "Waiting for Postgres 19: Better planner hints with path generation strategies [video]",
+      "description": "Score: 8 | Comments: 0 | Posted by sbuttgereit",
+      "url": "https://www.youtube.com/watch?v=QLb3nhIy2Lc",
+      "publishedAt": "2026-02-06T03:25:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sbuttgereit",
+      "tags": []
+    },
+    {
+      "id": "y4du2z",
+      "title": "I reversed Tower of Fantasy's anti-cheat driver: a BYOVD toolkit never loaded",
+      "description": "Score: 38 | Comments: 11 | Posted by svespalec",
+      "url": "https://vespalec.com/blog/tower-of-flaws/",
+      "publishedAt": "2026-02-06T03:22:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "svespalec",
+      "tags": []
+    },
+    {
+      "id": "9h7avm",
+      "title": "What's at the Other End of 8.8.8.8?",
+      "description": "Score: 24 | Comments: 1 | Posted by marinesebastian",
+      "url": "https://blog.nono.io/post/8.8.8.8/",
+      "publishedAt": "2026-02-06T03:21:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "marinesebastian",
+      "tags": []
+    },
+    {
+      "id": "hijlod",
+      "title": "GitHub Actions is slowly killing engineering teams",
+      "description": "Score: 138 | Comments: 61 | Posted by codesuki",
+      "url": "https://www.iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/",
+      "publishedAt": "2026-02-06T02:58:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "codesuki",
+      "tags": []
+    },
+    {
+      "id": "we2w0q",
+      "title": "BMW Commits to Subscriptions Even After Heated Seat Debacle",
+      "description": "Score: 17 | Comments: 5 | Posted by geox",
+      "url": "https://www.thedrive.com/news/bmw-commits-to-subscriptions-even-after-heated-seat-debacle",
+      "publishedAt": "2026-02-06T01:34:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "geox",
+      "tags": []
+    },
+    {
+      "id": "siy6nx",
+      "title": "C isn't a programming language anymore (2022)",
+      "description": "Score: 60 | Comments: 64 | Posted by stickynotememo",
+      "url": "https://faultlore.com/blah/c-isnt-a-language/",
+      "publishedAt": "2026-02-06T00:15:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "stickynotememo",
+      "tags": []
+    }
+  ]
+}

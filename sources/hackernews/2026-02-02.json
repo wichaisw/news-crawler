@@ -234,6 +234,17 @@
       "tags": []
     },
     {
+      "id": "hqwisa",
+      "title": "Animated Knots",
+      "description": "Score: 129 | Comments: 18 | Posted by ostacke",
+      "url": "https://www.animatedknots.com/",
+      "publishedAt": "2026-02-02T13:18:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ostacke",
+      "tags": []
+    },
+    {
       "id": "ovfnrk",
       "title": "Show HN: Adboost – A browser extension that adds ads to every webpage",
       "description": "Score: 105 | Comments: 111 | Posted by surprisetalk",
@@ -267,6 +278,17 @@
       "tags": []
     },
     {
+      "id": "fs0gj1",
+      "title": "Making Ferrite Core Inductors at Home",
+      "description": "Score: 104 | Comments: 32 | Posted by hasheddan",
+      "url": "https://danielmangum.com/posts/making-ferrite-core-inductors-home/",
+      "publishedAt": "2026-02-02T12:07:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hasheddan",
+      "tags": []
+    },
+    {
       "id": "kynlfj",
       "title": "My fast zero-allocation webserver using OxCaml",
       "description": "Score: 139 | Comments: 47 | Posted by noelwelsh",
@@ -275,6 +297,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "noelwelsh",
+      "tags": []
+    },
+    {
+      "id": "hcqm3h",
+      "title": "Unlocking high-performance PostgreSQL with key memory optimizations",
+      "description": "Score: 21 | Comments: 0 | Posted by camille_134",
+      "url": "https://stormatics.tech/blogs/unlocking-high-performance-postgresql-key-memory-optimizations",
+      "publishedAt": "2026-02-02T07:05:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "camille_134",
       "tags": []
     },
     {
@@ -319,6 +352,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "8qg5u9",
+      "title": "Housman's Introductory Lecture (1892)",
+      "description": "Score: 11 | Comments: 1 | Posted by coloneltcb",
+      "url": "https://worrydream.com/refs/Housman_1892_-_Introductory_Lecture.html",
+      "publishedAt": "2026-02-02T03:24:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "coloneltcb",
       "tags": []
     },
     {

@@ -3,6 +3,84 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "149662 at https://www.blognone.com",
+      "title": "OpenAI ออกโมเดลเขียนโค้ดรุ่นใหม่ GPT-5.3-Codex ทำงานเร็วขึ้น 25% ใช้โทเค็นน้อยลง",
+      "description": "OpenAI ออกโมเดลเขียนโค้ดรุ่นใหม่ GPT-5.3-Codex ทำงานเร็วขึ้น 25% ใช้โทเค็นน้อยลง Body OpenAI อัปเดตโมเดลปัญญาประดิษฐ์สำหรับการเขียนโค้ดรุ่นใหม่",
+      "url": "https://www.blognone.com/node/149662",
+      "publishedAt": "2026-02-05T23:31:22.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149661 at https://www.blognone.com",
+      "title": "Anthropic ออก Claude Opus 4.6 คิดรอบคอบขึ้น แก้บั๊กโค้ดตนเองได้ รองรับ context 1M",
+      "description": "Anthropic ออก Claude Opus 4.6 คิดรอบคอบขึ้น แก้บั๊กโค้ดตนเองได้ รองรับ context 1M Body Anthropic อัปเดตโมเดลปัญญาประดิษฐ์ขั้นสูงรุ่นใหม่ Claude Opus",
+      "url": "https://www.blognone.com/node/149661",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2026/2026-02/0e5c55fa8fd05a893d11168654dc36999e90908b-2600x2968.jpg",
+      "publishedAt": "2026-02-05T23:12:49.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149660 at https://www.blognone.com",
+      "title": "Amazon ไตรมาส 4/2025 AWS โต 24% เพิ่มงบลงทุนปีนี้เป็น 2 แสนล้านดอลลาร์",
+      "description": "Amazon ไตรมาส 4/2025 AWS โต 24% เพิ่มงบลงทุนปีนี้เป็น 2 แสนล้านดอลลาร์ Body Amazon รายงานผลประกอบการประจำไตรมาสที่ 4 ปี 2025 ยอดขายรวม 213,386",
+      "url": "https://www.blognone.com/node/149660",
+      "publishedAt": "2026-02-05T22:59:33.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149659 at https://www.blognone.com",
+      "title": "Apple อัปเตด Xcode 26.3 รองรับ Agentic Coding ทำงานอัตโนมัติตลอดเวิร์กโฟลว์",
+      "description": "Apple อัปเตด Xcode 26.3 รองรับ Agentic Coding ทำงานอัตโนมัติตลอดเวิร์กโฟลว์ Body แอปเปิลอัปเดต Xcode 26.3 รองรับ Agentic Coding",
+      "url": "https://www.blognone.com/node/149659",
+      "publishedAt": "2026-02-05T17:05:48.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149658 at https://www.blognone.com",
+      "title": "Sam Altman แสดงความเห็นโฆษณา Anthropic บอกตลกดี แต่ก็งี่เง่า",
+      "description": "Sam Altman แสดงความเห็นโฆษณา Anthropic บอกตลกดี แต่ก็งี่เง่า Body Sam Altman ซีอีโอ OpenAI ออกมาแสดงความเห็นต่อ หนังโฆษณาของ Anthropic ที่โจมตีการ",
+      "url": "https://www.blognone.com/node/149658",
+      "publishedAt": "2026-02-05T16:24:49.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149657 at https://www.blognone.com",
+      "title": "Uber ประกาศแผนให้บริการรถแท็กซี่อัตโนมัติในฮ่องกง ภายในปีนี้",
+      "description": "Uber ประกาศแผนให้บริการรถแท็กซี่อัตโนมัติในฮ่องกง ภายในปีนี้ Body Uber รายงานผลประกอบการประจำไตรมาสที่ 4 ปี 2025 รายได้รวมเพิ่มขึ้น 20%",
+      "url": "https://www.blognone.com/node/149657",
+      "publishedAt": "2026-02-05T12:52:50.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149656 at https://www.blognone.com",
+      "title": "Spotify เพิ่มฟีเจอร์แปลเนื้อเพลงภายในแอป",
+      "description": "Spotify เพิ่มฟีเจอร์แปลเนื้อเพลงภายในแอป Body Spotify ประกาศเพิ่มเติมความสามารถของฟีเจอร์แสดงเนื้อเพลงหรือ Lyrics ซึ่ง Spotify",
+      "url": "https://www.blognone.com/node/149656",
+      "publishedAt": "2026-02-05T11:32:17.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "149654 at https://www.blognone.com",
       "title": "Sony รายงานผลประกอบการไตรมาส ธุรกิจเกมรายได้ลดลง 4% ขาย PS5 ได้อีก 8 ล้านเครื่อง",
       "description": "Sony รายงานผลประกอบการไตรมาส ธุรกิจเกมรายได้ลดลง 4% ขาย PS5 ได้อีก 8 ล้านเครื่อง Body Sony รายงานผลประกอบการประจำไตรมาสเดือนธันวาคม 2025",
