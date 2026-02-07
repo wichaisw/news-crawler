@@ -1,0 +1,39 @@
+{
+  "date": "2026-02-07",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3090755",
+      "title": "Benchmark raises $225M in special funds to double down on Cerebras",
+      "description": "Benchmark Capital has been an investor in the Nvidia rival since 2016.",
+      "url": "https://techcrunch.com/2026/02/06/benchmark-raises-225m-in-special-funds-to-double-down-on-cerebras/",
+      "publishedAt": "2026-02-07T05:23:04.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Marina Temkin",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3090657",
+      "title": "An AI startup founder says he’s planning a ‘March for Billionaires’ in protest of California’s wealth tax",
+      "description": "The organizer of the event swears it's not a joke.",
+      "url": "https://techcrunch.com/2026/02/06/an-ai-startup-founder-says-hes-planning-a-march-for-billionaires-in-protest-of-californias-wealth-tax/",
+      "publishedAt": "2026-02-07T01:00:52.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lucas Ropek",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3090175",
+      "title": "‘Industry’ season 4 captures tech fraud better than any show on TV right now",
+      "description": "This latest season of the TV show Industry takes a look at the world of money and power through the eyes of a fintech baron.",
+      "url": "https://techcrunch.com/2026/02/06/industry-season-4-captures-tech-fraud-better-than-any-show-on-tv-right-now/",
+      "publishedAt": "2026-02-07T00:06:23.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "tags": []
+    }
+  ]
+}

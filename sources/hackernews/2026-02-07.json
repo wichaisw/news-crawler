@@ -1,0 +1,50 @@
+{
+  "date": "2026-02-07",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "ab7f0r",
+      "title": "Female Asian Elephant Calf Born at the Smithsonian National Zoo",
+      "description": "Score: 15 | Comments: 2 | Posted by gmays",
+      "url": "https://www.si.edu/newsdesk/releases/female-asian-elephant-calf-born-smithsonians-national-zoo-and-conservation?user_id=66c4bf745d78644b3aa57b08&utm_medium=email&utm_placement=newsletter&utm_source=join1440",
+      "publishedAt": "2026-02-07T02:35:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gmays",
+      "tags": []
+    },
+    {
+      "id": "1byx5n",
+      "title": "Why I Joined OpenAI",
+      "description": "Score: 76 | Comments: 60 | Posted by SerCe",
+      "url": "https://www.brendangregg.com/blog/2026-02-07/why-i-joined-openai.html",
+      "publishedAt": "2026-02-07T01:45:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "SerCe",
+      "tags": []
+    },
+    {
+      "id": "tppx9m",
+      "title": "WebView performance significantly slower than PWA",
+      "description": "Score: 10 | Comments: 0 | Posted by denysonique",
+      "url": "https://issues.chromium.org/issues/40817676",
+      "publishedAt": "2026-02-07T01:10:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "denysonique",
+      "tags": []
+    },
+    {
+      "id": "kkatqj",
+      "title": "I'm going to cure my girlfriend's brain tumor",
+      "description": "Score: 93 | Comments: 46 | Posted by ray__",
+      "url": "https://andrewjrod.substack.com/p/im-going-to-cure-my-girlfriends-brain",
+      "publishedAt": "2026-02-07T01:05:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ray__",
+      "tags": []
+    }
+  ]
+}

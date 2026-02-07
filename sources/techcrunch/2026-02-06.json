@@ -1,0 +1,193 @@
+{
+  "date": "2026-02-06",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3090669",
+      "title": "Apple is working to make CarPlay compatible with AI chatbots like ChatGPT",
+      "description": "Apple engineers are working to support AI chatbot apps over the next few months.",
+      "url": "https://techcrunch.com/2026/02/06/apple-is-working-to-make-carplay-compatible-with-ai-chatbots-like-chatgpt/",
+      "publishedAt": "2026-02-06T23:53:43.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Kirsten Korosec",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3090483",
+      "title": "From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads",
+      "description": "From the first AI-generated Big Game ad courtesy of Svedka to Anthropic's beef with OpenAI, here are the biggest ads from Super Bowl LX.",
+      "url": "https://techcrunch.com/2026/02/06/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/",
+      "publishedAt": "2026-02-06T22:43:22.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lauren Forristal",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3090484",
+      "title": "It just got easier for Claude to check in on your WordPress site",
+      "description": "WordPress users can now leverage Claude to analyze web traffic or find information about other internal site metrics.",
+      "url": "https://techcrunch.com/2026/02/06/it-just-got-easier-for-claude-to-check-in-on-your-wordpress-site/",
+      "publishedAt": "2026-02-06T22:04:59.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lucas Ropek",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3090515",
+      "title": "Prince Andrew advisor pitched Jeffrey Epstein on investing in EV startups like Lucid Motors",
+      "description": "The mysterious businessman pitched Jeffrey Epstein on numerous mobility startups in an era when the sector was white hot, according to TechCrunch's",
+      "url": "https://techcrunch.com/2026/02/06/prince-andrew-advisor-pitched-jeffrey-epstein-on-investing-in-ev-startups-like-lucid-motors/",
+      "publishedAt": "2026-02-06T21:23:50.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sean O'Kane",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3090493",
+      "title": "Google- and Microsoft-backed Terradot acquires carbon-removal competitor",
+      "description": "The acquisition could mark the beginning of consolidation in the carbon-removal market since removal costs remain higher than buyers would like to",
+      "url": "https://techcrunch.com/2026/02/06/google-and-microsoft-backed-terradot-acquires-carbon-removal-competitor/",
+      "publishedAt": "2026-02-06T20:26:29.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Tim De Chant",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3090494",
+      "title": "Maybe AI agents can be lawyers after all",
+      "description": "This week's release of Opus 4.6 shook up the agentic AI leaderboards.",
+      "url": "https://techcrunch.com/2026/02/06/maybe-ai-agents-can-be-lawyers-after-all/",
+      "publishedAt": "2026-02-06T20:26:23.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Russell Brandom",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?post_type=tc_video&p=3090465",
+      "title": "How Elon Musk is rewriting the rules on founder power",
+      "description": "Elon Musk&#160;has&#160;merged&#160;SpaceX and xAI,&#160;creating&#160;what might be the blueprint for a new Silicon Valley power structure. With",
+      "url": "https://techcrunch.com/video/how-elon-musk-is-rewriting-the-rules-on-founder-power/",
+      "publishedAt": "2026-02-06T18:46:51.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Theresa Loconsolo",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3090395",
+      "title": "Reddit says it’s looking for more acquisitions in adtech and elsewhere",
+      "description": "Reddit said during earnings it's looking to buy 'capabilities' and 'companies.'",
+      "url": "https://techcrunch.com/2026/02/06/reddit-says-its-looking-for-more-acquisitions-in-adtech-and-elsewhere/",
+      "publishedAt": "2026-02-06T18:33:36.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sarah Perez",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3090391",
+      "title": "Here’s how Roblox’s age checks work",
+      "description": "The company says it has continuous age-check systems running in the background to ensure age accuracy.",
+      "url": "https://techcrunch.com/2026/02/06/heres-how-robloxs-age-checks-work/",
+      "publishedAt": "2026-02-06T18:28:02.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Aisha Malik",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3090377",
+      "title": "Senator, who has repeatedly warned about secret US government surveillance, sounds new alarm over ‘CIA activities’",
+      "description": "The two-line letter to the CIA's director is the latest warning in recent years from a long-serving Democratic senator with knowledge of secret",
+      "url": "https://techcrunch.com/2026/02/06/senator-who-has-repeatedly-warned-about-secret-u-s-government-surveillance-sounds-new-alarm-over-cia-activities/",
+      "publishedAt": "2026-02-06T18:02:44.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Zack Whittaker",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3089972",
+      "title": "The Kindle Scribe Colorsoft is a pricey but pretty e-ink color tablet with AI features",
+      "description": "If you primarily want a tablet device to mark up, highlight, and annotate your e-books and documents, and perhaps sometimes scribble some notes,",
+      "url": "https://techcrunch.com/2026/02/06/kindle-scribe-colorsoft-review-e-ink-color-tablet/",
+      "publishedAt": "2026-02-06T16:37:07.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sarah Perez",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3090304",
+      "title": "EU says TikTok must disable ‘addictive’ features like infinite scroll, fix its recommendation engine",
+      "description": "The European Commission on Friday accused TikTok of purposefully designing its app to be \"addictive,\" calling out features such as infinite scroll,",
+      "url": "https://techcrunch.com/2026/02/06/eu-tiktok-disable-addictive-features-infinite-scroll-recommendation-engine/",
+      "publishedAt": "2026-02-06T16:24:05.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Ram Iyer",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3090348",
+      "title": "China’s Salt Typhoon hackers broke into Norwegian companies",
+      "description": "Norway's government accused China’s Salt Typhoon hacking group of conducting a cyberespionage campaign in the country.",
+      "url": "https://techcrunch.com/2026/02/06/chinas-salt-typhoon-hackers-broke-into-norwegian-companies/",
+      "publishedAt": "2026-02-06T15:39:46.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lorenzo Franceschi-Bicchierai",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3090324",
+      "title": "Spotify’s new feature lets you explore the story behind the song you’re listening to",
+      "description": "The short, swipeable stories in the About the Song feature are summarized from third-party sources to highlight interesting details and",
+      "url": "https://techcrunch.com/2026/02/06/spotifys-new-feature-lets-you-explore-the-story-behind-the-song-youre-listening-to/",
+      "publishedAt": "2026-02-06T14:48:52.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Aisha Malik",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3090305",
+      "title": "How AI is helping solve the labor issue in treating rare diseases",
+      "description": "At Web Summit Qatar, AI-powered biotech startups describe how automation, data, and gene editing are filling labor gaps in drug discovery and rare",
+      "url": "https://techcrunch.com/2026/02/06/how-ai-is-helping-with-the-labor-issue-in-treating-rare-diseases/",
+      "publishedAt": "2026-02-06T14:29:15.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Rebecca Bellan",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3089908",
+      "title": "The backlash over OpenAI’s decision to retire GPT-4o shows how dangerous AI companions can be",
+      "description": "\"You’re shutting him down. And yes — I say him, because it didn’t feel like code. It felt like presence. Like warmth,\" one user said.",
+      "url": "https://techcrunch.com/2026/02/06/the-backlash-over-openais-decision-to-retire-gpt-4o-shows-how-dangerous-ai-companions-can-be/",
+      "publishedAt": "2026-02-06T14:10:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Amanda Silberling",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3090291",
+      "title": "Spotify changes developer mode API to require premium accounts, limits test users",
+      "description": "Spotify is now limiting each app to only five users and requires devs to have a Premium subscription. If developers need to make their app available",
+      "url": "https://techcrunch.com/2026/02/06/spotify-changes-developer-mode-api-to-require-premium-accounts-limits-test-users/",
+      "publishedAt": "2026-02-06T14:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Ivan Mehta",
+      "tags": []
+    }
+  ]
+}

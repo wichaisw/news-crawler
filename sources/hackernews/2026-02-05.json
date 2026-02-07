@@ -69,6 +69,17 @@
       "tags": []
     },
     {
+      "id": "17d2h2",
+      "title": "Show HN: Slack CLI for Agents",
+      "description": "Score: 43 | Comments: 11 | Posted by nwparker",
+      "url": "https://github.com/stablyai/agent-slack",
+      "publishedAt": "2026-02-05T21:38:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nwparker",
+      "tags": []
+    },
+    {
       "id": "a2xev9",
       "title": "Claude Opus 4.6 extra usage promo",
       "description": "Score: 146 | Comments: 41 | Posted by rob",
@@ -201,6 +212,17 @@
       "tags": []
     },
     {
+      "id": "7hrhlw",
+      "title": "Evaluating and mitigating the growing risk of LLM-discovered 0-days",
+      "description": "Score: 44 | Comments: 12 | Posted by lebovic",
+      "url": "https://red.anthropic.com/2026/zero-days/",
+      "publishedAt": "2026-02-05T17:50:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lebovic",
+      "tags": []
+    },
+    {
       "id": "x84q9c",
       "title": "Orchestrate teams of Claude Code sessions",
       "description": "Score: 334 | Comments: 188 | Posted by davidbarker",
@@ -245,6 +267,17 @@
       "tags": []
     },
     {
+      "id": "kt3352",
+      "title": "Show HN: Smooth CLI – Token-efficient browser for AI agents",
+      "description": "Score: 81 | Comments: 59 | Posted by antves",
+      "url": "https://docs.smooth.sh/cli/overview",
+      "publishedAt": "2026-02-05T16:13:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "antves",
+      "tags": []
+    },
+    {
       "id": "dae3jm",
       "title": "CIA suddenly stops publishing, removes archives of The World Factbook",
       "description": "Score: 353 | Comments: 149 | Posted by ck2",
@@ -267,6 +300,17 @@
       "tags": []
     },
     {
+      "id": "3b4ccd",
+      "title": "Show HN: ARM64 Android Dev Kit",
+      "description": "Score: 11 | Comments: 0 | Posted by denuoweb",
+      "url": "https://github.com/denuoweb/ARM64-ADK",
+      "publishedAt": "2026-02-05T13:40:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "denuoweb",
+      "tags": []
+    },
+    {
       "id": "6814dq",
       "title": "Company as Code",
       "description": "Score: 233 | Comments: 116 | Posted by ahamez",
@@ -286,6 +330,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "RobinL",
+      "tags": []
+    },
+    {
+      "id": "fw5zgl",
+      "title": "How we made geo joins 400× faster with H3 indexes",
+      "description": "Score: 54 | Comments: 10 | Posted by matheusalmeida",
+      "url": "https://floedb.ai/blog/how-we-made-geo-joins-400-faster-with-h3-indexes",
+      "publishedAt": "2026-02-05T11:19:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "matheusalmeida",
       "tags": []
     },
     {
