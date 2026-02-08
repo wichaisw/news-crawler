@@ -3,6 +3,17 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "149674 at https://www.blognone.com",
+      "title": "Pydantic ปล่อย Monty ตัวรันโค้ด Python แบบปลอดภัย ใช้รันโค้ดจาก AI",
+      "description": "Pydantic ปล่อย Monty ตัวรันโค้ด Python แบบปลอดภัย ใช้รันโค้ดจาก AI Body Pydantic ผู้สร้างไลบรารี Pydantic สำหรับการเขียนโค้ด Python แบบกำหนด type",
+      "url": "https://www.blognone.com/node/149674",
+      "publishedAt": "2026-02-07T16:36:39.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "149671 at https://www.blognone.com",
       "title": "Waymo เปิดตัว World Model สร้างโลกจำลองเพื่อฝึกรถให้เจอเหตุการณ์ประหลาด",
       "description": "Waymo เปิดตัว World Model สร้างโลกจำลองเพื่อฝึกรถให้เจอเหตุการณ์ประหลาด Body Waymo เปิดตัว Waymo World Model",

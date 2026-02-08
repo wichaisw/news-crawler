@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "19n00q",
+      "title": "Selection rather than prediction",
+      "description": "Score: 35 | Comments: 16 | Posted by languid-photic",
+      "url": "https://voratiq.com/blog/selection-rather-than-prediction/",
+      "publishedAt": "2026-02-03T23:31:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "languid-photic",
+      "tags": []
+    },
+    {
       "id": "88w8cn",
       "title": "Notepad++ supply chain attack breakdown",
       "description": "Score: 244 | Comments: 109 | Posted by natebc",
@@ -300,6 +311,17 @@
       "tags": []
     },
     {
+      "id": "lju26u",
+      "title": "Where did all the starships go?",
+      "description": "Score: 156 | Comments: 242 | Posted by speckx",
+      "url": "https://www.datawrapper.de/blog/science-fiction-decline",
+      "publishedAt": "2026-02-03T13:27:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
+      "tags": []
+    },
+    {
       "id": "texjoq",
       "title": "Learning from context is harder than we thought",
       "description": "Score: 159 | Comments: 80 | Posted by limoce",
@@ -333,6 +355,28 @@
       "tags": []
     },
     {
+      "id": "plbaky",
+      "title": "Show HN: Craftplan – Elixir-based micro-ERP for small-scale manufacturers",
+      "description": "Score: 18 | Comments: 4 | Posted by deofoo",
+      "url": "https://puemos.github.io/craftplan/",
+      "publishedAt": "2026-02-03T11:01:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "deofoo",
+      "tags": []
+    },
+    {
+      "id": "udbbco",
+      "title": "Eigen: Building a Workspace",
+      "description": "Score: 14 | Comments: 3 | Posted by todsacerdoti",
+      "url": "https://reindernijhoff.net/2025/10/eigen-building-a-workspace/",
+      "publishedAt": "2026-02-03T10:58:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    },
+    {
       "id": "aidft8",
       "title": "X offices raided in France as UK opens fresh investigation into Grok",
       "description": "Score: 281 | Comments: 484 | Posted by vikaveri",
@@ -341,6 +385,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "vikaveri",
+      "tags": []
+    },
+    {
+      "id": "oh4z99",
+      "title": "LLMs as the new high level language",
+      "description": "Score: 69 | Comments: 122 | Posted by swah",
+      "url": "https://federicopereiro.com/llm-high/",
+      "publishedAt": "2026-02-03T10:00:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "swah",
       "tags": []
     },
     {
@@ -396,6 +451,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "everlier",
+      "tags": []
+    },
+    {
+      "id": "dpb2o5",
+      "title": "Unseen Footage of Atari Battlezone Arcade Cabinet Production",
+      "description": "Score: 146 | Comments: 48 | Posted by videotopia",
+      "url": "https://arcadeblogger.com/2026/02/02/unseen-footage-of-atari-battlezone-cabinet-production/",
+      "publishedAt": "2026-02-03T08:49:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "videotopia",
+      "tags": []
+    },
+    {
+      "id": "wes5st",
+      "title": "Total surface area required to fuel the world with solar (2009)",
+      "description": "Score: 22 | Comments: 19 | Posted by robtherobber",
+      "url": "https://landartgenerator.org/blagi/archives/127",
+      "publishedAt": "2026-02-03T08:42:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "robtherobber",
       "tags": []
     },
     {

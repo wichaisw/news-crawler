@@ -1,0 +1,72 @@
+{
+  "date": "2026-02-08",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "2k7qv0",
+      "title": "Why there is no official statement from Substack about the data leak",
+      "description": "Score: 18 | Comments: 6 | Posted by witnessme",
+      "url": "https://techcrunch.com/2026/02/05/substack-confirms-data-breach-affecting-email-addresses-and-phone-numbers/",
+      "publishedAt": "2026-02-08T04:34:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "witnessme",
+      "tags": []
+    },
+    {
+      "id": "nvxhty",
+      "title": "Homeland Security Spying on Reddit Users",
+      "description": "Score: 66 | Comments: 14 | Posted by duxup",
+      "url": "https://www.kenklippenstein.com/p/homeland-security-spies-on-reddit",
+      "publishedAt": "2026-02-08T03:59:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "duxup",
+      "tags": []
+    },
+    {
+      "id": "3k696x",
+      "title": "Bye Bye Humanity: The Potential AMOC Collapse",
+      "description": "Score: 45 | Comments: 28 | Posted by rolph",
+      "url": "https://thatjoescott.com/2026/02/03/bye-bye-humanity-the-potential-amoc-collapse/",
+      "publishedAt": "2026-02-08T03:20:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rolph",
+      "tags": []
+    },
+    {
+      "id": "trfh5t",
+      "title": "Vouch",
+      "description": "Score: 69 | Comments: 12 | Posted by chwtutha",
+      "url": "https://twitter.com/mitchellh/status/2020252149117313349",
+      "publishedAt": "2026-02-08T03:09:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "chwtutha",
+      "tags": []
+    },
+    {
+      "id": "8l3l8p",
+      "title": "Haskell for all: Beyond agentic coding",
+      "description": "Score: 59 | Comments: 14 | Posted by RebelPotato",
+      "url": "https://haskellforall.com/2026/02/beyond-agentic-coding",
+      "publishedAt": "2026-02-08T01:55:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "RebelPotato",
+      "tags": []
+    },
+    {
+      "id": "fgpavl",
+      "title": "Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory",
+      "description": "Score: 140 | Comments: 42 | Posted by yi_wang",
+      "url": "https://github.com/localgpt-app/localgpt",
+      "publishedAt": "2026-02-08T01:26:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "yi_wang",
+      "tags": []
+    }
+  ]
+}

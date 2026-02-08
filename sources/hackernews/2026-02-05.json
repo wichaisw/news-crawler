@@ -344,6 +344,17 @@
       "tags": []
     },
     {
+      "id": "ywrh8w",
+      "title": "Wood Gas Vehicles: Firewood in the Fuel Tank (2010)",
+      "description": "Score: 31 | Comments: 8 | Posted by Rygian",
+      "url": "https://solar.lowtechmagazine.com/2010/01/wood-gas-vehicles-firewood-in-the-fuel-tank/",
+      "publishedAt": "2026-02-05T08:56:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Rygian",
+      "tags": []
+    },
+    {
       "id": "mrf423",
       "title": "Show HN: Micropolis/SimCity Clone in Emacs Lisp",
       "description": "Score: 164 | Comments: 41 | Posted by vkazanov",
@@ -363,6 +374,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "Torq_boi",
+      "tags": []
+    },
+    {
+      "id": "aet954",
+      "title": "Show HN: Kappal – CLI to Run Docker Compose YML on Kubernetes for Local Dev",
+      "description": "Score: 45 | Comments: 27 | Posted by sandGorgon",
+      "url": "https://github.com/sandys/kappal",
+      "publishedAt": "2026-02-05T05:41:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sandGorgon",
       "tags": []
     },
     {

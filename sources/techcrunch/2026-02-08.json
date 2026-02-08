@@ -1,0 +1,28 @@
+{
+  "date": "2026-02-08",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3090645",
+      "title": "India has changed its startup rules for deep tech",
+      "description": "India is adjusting startup rules to help more of its deep tech startups with funding and long-term success.",
+      "url": "https://techcrunch.com/2026/02/07/india-has-changed-its-startup-rules-for-deep-tech/",
+      "publishedAt": "2026-02-08T03:30:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Jagmeet Singh",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3090805",
+      "title": "The kids ‘picked last in gym class’ gear up for Super Bowl",
+      "description": "YouTube CEO Neal Mohan is expected to be there. Apple's Tim Cook, too.",
+      "url": "https://techcrunch.com/2026/02/07/the-kids-picked-last-in-gym-class-gear-up-for-super-bowl/",
+      "publishedAt": "2026-02-08T01:26:49.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Connie Loizos",
+      "tags": []
+    }
+  ]
+}

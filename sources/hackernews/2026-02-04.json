@@ -80,6 +80,17 @@
       "tags": []
     },
     {
+      "id": "8ddrwm",
+      "title": "Start all of your commands with a comma (2009)",
+      "description": "Score: 583 | Comments: 212 | Posted by theblazehen",
+      "url": "https://rhodesmill.org/brandon/2009/commands-with-comma/",
+      "publishedAt": "2026-02-04T19:59:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "theblazehen",
+      "tags": []
+    },
+    {
       "id": "66x9mr",
       "title": "Recreating Epstein PDFs from raw encoded attachments",
       "description": "Score: 294 | Comments: 87 | Posted by ComputerGuru",
@@ -179,6 +190,17 @@
       "tags": []
     },
     {
+      "id": "qnw1db",
+      "title": "The F Word",
+      "description": "Score: 116 | Comments: 56 | Posted by zdw",
+      "url": "http://muratbuffalo.blogspot.com/2026/02/friction.html",
+      "publishedAt": "2026-02-04T15:34:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
       "id": "rxy2kx",
       "title": "Voxtral Transcribe 2mistral.ai",
       "description": "Score: 831 | Comments: 206 | Posted by meetpateltech",
@@ -242,6 +264,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "meetpateltech",
+      "tags": []
+    },
+    {
+      "id": "n21co5",
+      "title": "Show HN: A luma dependent chroma compression algorithm (image compression)",
+      "description": "Score: 40 | Comments: 5 | Posted by mbitsnbites",
+      "url": "https://www.bitsnbites.eu/a-spatial-domain-variable-block-size-luma-dependent-chroma-compression-algorithm/",
+      "publishedAt": "2026-02-04T11:13:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mbitsnbites",
       "tags": []
     },
     {

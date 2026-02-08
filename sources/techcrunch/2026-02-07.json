@@ -3,6 +3,28 @@
   "source": "techcrunch",
   "articles": [
     {
+      "id": "https://techcrunch.com/?p=3090799",
+      "title": "NBA star Giannis Antetokounmpo joins Kalshi as an investor",
+      "description": "Antetokounmpo is the first NBA player to directly invest in Kalshi.",
+      "url": "https://techcrunch.com/2026/02/07/nba-star-giannis-antetokounmpo-joins-kalshi-as-an-investor/",
+      "publishedAt": "2026-02-07T21:30:41.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3090789",
+      "title": "New York lawmakers propose a three-year pause on new data centers",
+      "description": "Although the bill’s prospects are uncertain, New York is at least the sixth state to consider pausing construction of new data centers.",
+      "url": "https://techcrunch.com/2026/02/07/new-york-lawmakers-propose-a-three-year-pause-on-new-data-centers/",
+      "publishedAt": "2026-02-07T18:23:04.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
       "id": "https://techcrunch.com/?p=3090755",
       "title": "Benchmark raises $225M in special funds to double down on Cerebras",
       "description": "Benchmark Capital has been an investor in the Nvidia rival since 2016.",
