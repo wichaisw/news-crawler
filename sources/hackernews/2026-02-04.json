@@ -102,6 +102,17 @@
       "tags": []
     },
     {
+      "id": "mjopqa",
+      "title": "LispE: Lisp Interpreter with Pattern Programming and Lazy Evaluation",
+      "description": "Score: 8 | Comments: 0 | Posted by PaulHoule",
+      "url": "https://github.com/naver/lispe",
+      "publishedAt": "2026-02-04T18:34:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "PaulHoule",
+      "tags": []
+    },
+    {
       "id": "58rzcg",
       "title": "Claude Code for Infrastructure",
       "description": "Score: 193 | Comments: 143 | Posted by aspectrr",
@@ -256,6 +267,17 @@
       "tags": []
     },
     {
+      "id": "l1kxts",
+      "title": "Custom Firmware for the MZ-RH1 – Ready for Testing",
+      "description": "Score: 27 | Comments: 5 | Posted by jimbauwens",
+      "url": "https://sir68k.re/posts/rh1-firmware-available/",
+      "publishedAt": "2026-02-04T13:57:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jimbauwens",
+      "tags": []
+    },
+    {
       "id": "uqxsfh",
       "title": "Claude is a space to think",
       "description": "Score: 417 | Comments: 223 | Posted by meetpateltech",
@@ -275,6 +297,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mbitsnbites",
+      "tags": []
+    },
+    {
+      "id": "emagbq",
+      "title": "Ktkit: A Kotlin toolkit for building server applications with Ktor",
+      "description": "Score: 21 | Comments: 4 | Posted by smyrgeorge",
+      "url": "https://github.com/smyrgeorge/ktkit",
+      "publishedAt": "2026-02-04T08:56:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "smyrgeorge",
       "tags": []
     },
     {

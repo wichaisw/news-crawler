@@ -3,6 +3,72 @@
   "source": "techcrunch",
   "articles": [
     {
+      "id": "https://techcrunch.com/?p=3090844",
+      "title": "Amazon’s ‘Melania’ documentary stumbles in second weekend",
+      "description": "After a better-than-expected opening weekend in theaters, box office for Amazon’s “Melania”fell 67%.",
+      "url": "https://techcrunch.com/2026/02/08/amazons-melania-documentary-stumbles-in-second-weekend/",
+      "publishedAt": "2026-02-08T22:41:31.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3090829",
+      "title": "Crypto.com places $70M bet on AI.com domain ahead of Super Bowl",
+      "description": "The purchase rewrites the domain record books -- not that the crypto industry has ever been accused of restraint when it comes to spending.",
+      "url": "https://techcrunch.com/2026/02/08/crypto-com-places-70m-bet-on-ai-com-domain-ahead-of-super-bowl/",
+      "publishedAt": "2026-02-08T20:19:47.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Connie Loizos",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3090816",
+      "title": "Okay, I’m slightly less mad about that ‘Magnificent Ambersons’ AI project",
+      "description": "But this is still a bad idea.",
+      "url": "https://techcrunch.com/2026/02/08/okay-im-slightly-less-mad-about-that-magnificent-ambersons-ai-project/",
+      "publishedAt": "2026-02-08T19:36:28.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3090638",
+      "title": "TechCrunch Mobility: Is $16B enough to build a profitable robotaxi business?",
+      "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "url": "https://techcrunch.com/2026/02/08/techcrunch-mobility-is-16b-enough-to-build-a-profitable-robotaxi-business/",
+      "publishedAt": "2026-02-08T17:05:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Kirsten Korosec",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3090811",
+      "title": "San Francisco’s pro-billionaire march draws dozens",
+      "description": "A march supporting California’s billionaires didn’t exactly draw a huge crowd on Saturday.",
+      "url": "https://techcrunch.com/2026/02/08/san-franciscos-pro-billionaire-march-draws-dozens/",
+      "publishedAt": "2026-02-08T16:49:48.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3090483",
+      "title": "From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads",
+      "description": "From the first AI-generated Big Game ad courtesy of Svedka to Anthropic's beef with OpenAI, here are the biggest ads from Super Bowl LX.",
+      "url": "https://techcrunch.com/2026/02/08/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/",
+      "publishedAt": "2026-02-08T16:18:16.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lauren Forristal",
+      "tags": []
+    },
+    {
       "id": "https://techcrunch.com/?p=3090645",
       "title": "India has changed its startup rules for deep tech",
       "description": "India is adjusting startup rules to help more of its deep tech startups with funding and long-term success.",

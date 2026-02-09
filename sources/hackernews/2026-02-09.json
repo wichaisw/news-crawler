@@ -1,0 +1,116 @@
+{
+  "date": "2026-02-09",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "ccmeb7",
+      "title": "Claude’s C Compiler vs. GCCharshanu.space",
+      "description": "Score: 86 | Comments: 31 | Posted by unchar1",
+      "url": "https://harshanu.space/en/tech/ccc-vs-gcc/",
+      "publishedAt": "2026-02-09T05:30:52.425Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "unchar1",
+      "tags": []
+    },
+    {
+      "id": "t1dxmm",
+      "title": "A tough labor market for white-collar workers has turned recruiting upside down",
+      "description": "Score: 19 | Comments: 4 | Posted by KnuthIsGod",
+      "url": "https://www.wsj.com/lifestyle/careers/job-hunters-are-so-desperate-that-theyre-paying-to-get-recruited-44891ac2",
+      "publishedAt": "2026-02-09T05:23:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "KnuthIsGod",
+      "tags": []
+    },
+    {
+      "id": "3q7ute",
+      "title": "TSMC to make advanced AI semiconductors in Japan",
+      "description": "Score: 65 | Comments: 27 | Posted by dev_tty01",
+      "url": "https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5",
+      "publishedAt": "2026-02-09T04:38:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dev_tty01",
+      "tags": []
+    },
+    {
+      "id": "ccmeb7",
+      "title": "Claude’s C Compiler vs. GCC",
+      "description": "Score: 86 | Comments: 31 | Posted by unchar1",
+      "url": "https://harshanu.space/en/tech/ccc-vs-gcc/",
+      "publishedAt": "2026-02-09T04:30:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "unchar1",
+      "tags": []
+    },
+    {
+      "id": "3x8d1o",
+      "title": "Americans want heat pumps – but high electricity prices may get in the way",
+      "description": "Score: 16 | Comments: 14 | Posted by PaulHoule",
+      "url": "https://theconversation.com/americans-want-heat-pumps-but-high-electricity-prices-may-get-in-the-way-273981",
+      "publishedAt": "2026-02-09T04:17:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "PaulHoule",
+      "tags": []
+    },
+    {
+      "id": "kv7jjy",
+      "title": "Caffeine content for coffee, tea, soda and more",
+      "description": "Score: 11 | Comments: 0 | Posted by mooreds",
+      "url": "https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/caffeine/art-20049372",
+      "publishedAt": "2026-02-09T04:16:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mooreds",
+      "tags": []
+    },
+    {
+      "id": "30boy9",
+      "title": "CIA Erased the World Factbook with No Warning",
+      "description": "Score: 9 | Comments: 0 | Posted by Gaishan",
+      "url": "https://www.techdirt.com/2026/02/06/the-cia-erased-the-world-factbook-with-no-warning-and-told-everyone-to-stay-curious/",
+      "publishedAt": "2026-02-09T04:06:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Gaishan",
+      "tags": []
+    },
+    {
+      "id": "ekedno",
+      "title": "NanoClaw now supports Claude's Agent Swarms in containers",
+      "description": "Score: 32 | Comments: 4 | Posted by spendy_clao",
+      "url": "https://twitter.com/Gavriel_Cohen/status/2020701159175155874",
+      "publishedAt": "2026-02-09T03:34:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "spendy_clao",
+      "tags": []
+    },
+    {
+      "id": "awazem",
+      "title": "Show HN: Ported the 1999 game Bugdom to the browser and added a bunch of mods",
+      "description": "Score: 5 | Comments: 0 | Posted by reallyeli",
+      "url": "https://reallyeli.com/bugdom/Bugdom.html",
+      "publishedAt": "2026-02-09T03:07:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "reallyeli",
+      "tags": []
+    },
+    {
+      "id": "vr90ga",
+      "title": "Art of Roads in Gamessandboxspirit.com",
+      "description": "Score: 174 | Comments: 53 | Posted by linolevan",
+      "url": "https://sandboxspirit.com/blog/art-of-roads-in-games/",
+      "publishedAt": "2026-02-09T00:30:52.428Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "linolevan",
+      "tags": []
+    }
+  ]
+}

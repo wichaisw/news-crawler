@@ -1,0 +1,114 @@
+{
+  "date": "2026-02-08",
+  "source": "theverge",
+  "articles": [
+    {
+      "id": "fni2rm",
+      "title": "Super Bowl LX ads: all AI everything",
+      "description": "Super Bowl LX is nearly here, with the Seattle Seahawks taking on the New England Patriots. While Bad Bunny will be the star of the halftime show, AI could be the star of the commercial breaks, much like crypto was a few years ago. Last year’s Super Bowl featured a Google Gemini ad that fumbled [&#8230;]",
+      "url": "https://www.theverge.com/entertainment/874504/super-bowl-lx-ads-big-game",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24008751/acastro_STK099_NFL_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-02-08T23:58:02.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Verge Staff",
+      "tags": []
+    },
+    {
+      "id": "nd5ddk",
+      "title": "YouTube Music starts putting lyrics behind a paywall",
+      "description": "Free YouTube Music accounts are now seeing their access to lyrics limited, according to multiple reports. Google started testing lyrics as an exclusive feature for Premium users in September, but it appears that it's now receiving a wider rollout. It seems that free users will be limited to viewing lyrics for five songs per month, [&#8230;]",
+      "url": "https://www.theverge.com/streaming/875511/youtube-music-lyrics-paywall",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/hge7tghc13ig1.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-02-08T22:55:43.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Terrence O’Brien",
+      "tags": []
+    },
+    {
+      "id": "eibg7h",
+      "title": "New York is considering two bills to rein in the AI industry",
+      "description": "New York's state legislature is set to consider a pair of bills that would require labels on AI-generated content and would put a three-year pause on new data center construction. The New York Fundamental Artificial Intelligence Requirements in News Act (NY FAIR News Act, for short) would require that any news \"substantially composed, authored, or [&#8230;]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/875501/new-york-is-considering-two-bills-to-rein-in-the-ai-industry",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/OMB-Datacenter-Hero-9_18_25.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-02-08T21:04:53.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Terrence O’Brien",
+      "tags": []
+    },
+    {
+      "id": "y81n23",
+      "title": "You need to listen to the new Mandy, Indiana record: URGH",
+      "description": "Often, I focus on recommending older media that isn't currently getting a ton of attention. But this week, I can't stop listening to the new Mandy, Indiana album long enough to even think about anything else. It's early still, obviously, but URGH is my favorite release of 2026 so far. The band that I fell [&#8230;]",
+      "url": "https://www.theverge.com/entertainment/875469/mandy-indiana-urgh-review",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/urgh.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-02-08T17:30:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Terrence O’Brien",
+      "tags": []
+    },
+    {
+      "id": "a68k73",
+      "title": "The iPhone 17e could launch soon with MagSafe and an A19 chip",
+      "description": "Almost exactly one year after launching the iPhone 16e, Apple is preparing to launch the 17e, according to Mark Gurman. The iPhone 17e will feature an upgraded A19 chip from the iPhone 17 lineup, plus MagSafe charging, and move Apple's in-house cellular chips. Just as importantly, the company apparently plans to keep the price at [&#8230;]",
+      "url": "https://www.theverge.com/tech/875454/iphone-17e-launching-soon-magsafe-a19",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2207365267.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-02-08T15:26:33.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Terrence O’Brien",
+      "tags": []
+    },
+    {
+      "id": "hyqhfy",
+      "title": "How I Built the Star Trek control panel of my dreams",
+      "description": "One of my pandemic hobbies that stuck was home automation. I discovered Home Assistant - the popular open source, extremely customizable home automation platform - and all the intricate things you can do with it to make your home work better. I have ADHD and have found Home Assistant to be a valuable tool for [&#8230;]",
+      "url": "https://www.theverge.com/tech/862070/lcars-homes-assistant-star-trek",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/GettyImages-454259088.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-02-08T15:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Ursa Wright",
+      "tags": []
+    },
+    {
+      "id": "9at8aj",
+      "title": "GuliKit’s tiny USB dongle lets you connect your PS5 controller to your Switch 2",
+      "description": "Dongles have a well-earned reputation for being a nuisance. They're often costly and annoying to deal with, but for gamers, there's one that I love to recommend that's neither. 8BitDo's $20 USB Adapter 2 lets you wirelessly link controllers to the Switch 2 that would otherwise be unsupported, like the Sony DualSense (complete with rumble [&#8230;]",
+      "url": "https://www.theverge.com/tech/874842/gulikit-hyperlink-gen2-usb-adapter-wireless-switch-2-hands-on",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/P2060751.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-02-08T15:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Cameron Faulkner",
+      "tags": []
+    },
+    {
+      "id": "jo1hht",
+      "title": "Section 230 turns 30 as it faces its biggest tests yet",
+      "description": "Thirty years ago today, Section 230 of the Communications Decency Act, a bill credited with creating the groundwork for the modern internet, became law and set off a chain of events that would make it a lightning rod for the techlash. The statute has survived everything from the dot-com bubble to a Supreme Court challenge [&#8230;]",
+      "url": "https://www.theverge.com/policy/875300/section-230-turns-30-social-media-addiction-cases-sunset",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKS519_FREE_SPEECH_CVIRGINIA_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-02-08T14:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Lauren Feiner",
+      "tags": []
+    },
+    {
+      "id": "7dw66x",
+      "title": "Digital car keys are getting more sophisticated",
+      "description": "Last month, over a dozen automobile and smartphone manufacturers gathered in Palo Alto, California, for the 16th annual \"Plugfest,\" hosted by the Car Connectivity Consortium (CCC) to test out the latest in digital key technology. Digital keys, which allow vehicle owners to lock, unlock, and start their cars using smartphones or other digital devices, are [&#8230;]",
+      "url": "https://www.theverge.com/transportation/873197/digital-key-car-ccc-plugfest-rivian",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25114965/P90354782_highRes_bmw_digital_key_06_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-02-08T13:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Andrew J. Hawkins",
+      "tags": []
+    }
+  ]
+}
