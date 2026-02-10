@@ -267,6 +267,17 @@
       "tags": []
     },
     {
+      "id": "od7npo",
+      "title": "Like Game-of-Life, but on Growing Graphs, with WASM and WebGL",
+      "description": "Score: 182 | Comments: 24 | Posted by znah",
+      "url": "https://znah.net/graphs/",
+      "publishedAt": "2026-02-08T13:18:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "znah",
+      "tags": []
+    },
+    {
       "id": "tbu5vb",
       "title": "Dave Farber has died",
       "description": "Score: 235 | Comments: 38 | Posted by vitplister",
@@ -286,6 +297,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ingve",
+      "tags": []
+    },
+    {
+      "id": "e37pin",
+      "title": "Eight more months of agents",
+      "description": "Score: 90 | Comments: 76 | Posted by arrowsmith",
+      "url": "https://crawshaw.io/blog/eight-more-months-of-agents",
+      "publishedAt": "2026-02-08T11:00:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "arrowsmith",
       "tags": []
     },
     {
@@ -330,6 +352,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "gtsnexp",
+      "tags": []
+    },
+    {
+      "id": "5f4poi",
+      "title": "LLMs as Language Compilers: Lessons from Fortran for the Future of Coding",
+      "description": "Score: 36 | Comments: 8 | Posted by birdculture",
+      "url": "https://cyber-omelette.com/posts/the-abstraction-rises.html",
+      "publishedAt": "2026-02-08T08:15:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "birdculture",
       "tags": []
     },
     {

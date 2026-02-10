@@ -3,6 +3,50 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "149685 at https://www.blognone.com",
+      "title": "Databricks รับเงินทุนเพิ่มเติม ที่มูลค่ากิจการ 1.34 แสนล้านดอลลาร์",
+      "description": "Databricks รับเงินทุนเพิ่มเติม ที่มูลค่ากิจการ 1.34 แสนล้านดอลลาร์ Body Databricks ประกาศรับเงินลงทุนรอบใหม่ แบ่งซื้อหุ้น 5 พันล้านดอลลาร์ และเงินกู้",
+      "url": "https://www.blognone.com/node/149685",
+      "publishedAt": "2026-02-09T16:58:15.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149684 at https://www.blognone.com",
+      "title": "Sam Altman บอก ChatGPT กลับมาเติบโตระดับ 10% ต่อเดือนอีกครั้ง",
+      "description": "Sam Altman บอก ChatGPT กลับมาเติบโตระดับ 10% ต่อเดือนอีกครั้ง Body CNBC อ้างข้อความจาก Slack ภายใน OpenAI โดย Sam Altman ซีอีโอ ประกาศว่าตอนนี้",
+      "url": "https://www.blognone.com/node/149684",
+      "publishedAt": "2026-02-09T16:31:42.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149683 at https://www.blognone.com",
+      "title": "Discord เตรียมเพิ่มระบบตรวจสอบอายุผู้ใช้งาน ป้องกันเยาวชนเข้าถึงเนื้อหาไม่เหมาะสม",
+      "description": "Discord เตรียมเพิ่มระบบตรวจสอบอายุผู้ใช้งาน ป้องกันเยาวชนเข้าถึงเนื้อหาไม่เหมาะสม Body Discord ประกาศเพิ่มความปลอดภัยในการใช้งานแพลตฟอร์มสำหรับเยาวชน",
+      "url": "https://www.blognone.com/node/149683",
+      "publishedAt": "2026-02-09T16:28:11.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149682 at https://www.blognone.com",
+      "title": "Linux 6.19 ออกแล้ว ไลนัสบ่นเลขเริ่มเยอะ เวอร์ชันหน้าต้องเป็น 7.0",
+      "description": "Linux 6.19 ออกแล้ว ไลนัสบ่นเลขเริ่มเยอะ เวอร์ชันหน้าต้องเป็น 7.0 Body ไลนัสประกาศออกเวอร์ชัน 6.19 เวอร์ชั่นเสถียรล่าสุด",
+      "url": "https://www.blognone.com/node/149682",
+      "publishedAt": "2026-02-09T13:17:47.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "149681 at https://www.blognone.com",
       "title": "ผู้สร้าง Ghostty เริ่มใช้ระบบคะแนนความน่าเชื่อถือ ก่อนรับโค้ดจากภายนอก",
       "description": "ผู้สร้าง Ghostty เริ่มใช้ระบบคะแนนความน่าเชื่อถือ ก่อนรับโค้ดจากภายนอก Body Mitchell Hashimoto ผู้สร้างโปรแกรม Ghostty ที่เป็น terminal emulator",

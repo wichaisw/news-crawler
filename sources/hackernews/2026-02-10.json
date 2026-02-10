@@ -1,0 +1,83 @@
+{
+  "date": "2026-02-10",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "wala2n",
+      "title": "Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIsarxiv.org",
+      "description": "Score: 146 | Comments: 81 | Posted by tiny-automates",
+      "url": "https://arxiv.org/abs/2512.20798",
+      "publishedAt": "2026-02-10T03:30:56.432Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tiny-automates",
+      "tags": []
+    },
+    {
+      "id": "wala2n",
+      "title": "Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs",
+      "description": "Score: 146 | Comments: 81 | Posted by tiny-automates",
+      "url": "https://arxiv.org/abs/2512.20798",
+      "publishedAt": "2026-02-10T03:17:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tiny-automates",
+      "tags": []
+    },
+    {
+      "id": "mroims",
+      "title": "Why \"just prompt better\" doesn't work",
+      "description": "Score: 36 | Comments: 14 | Posted by jinkuan",
+      "url": "https://www.bicameral-ai.com/blog/tech-debt-meeting",
+      "publishedAt": "2026-02-10T03:13:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jinkuan",
+      "tags": []
+    },
+    {
+      "id": "rz4586",
+      "title": "Rust implementation of Mistral's Voxtral Mini 4B Realtime runs in your browser",
+      "description": "Score: 112 | Comments: 15 | Posted by Curiositry",
+      "url": "https://github.com/TrevorS/voxtral-mini-realtime-rs",
+      "publishedAt": "2026-02-10T01:26:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Curiositry",
+      "tags": []
+    },
+    {
+      "id": "itzn9z",
+      "title": "Pure C, CPU-only inference with Mistral Voxtral Realtime 4B speech to text model",
+      "description": "Score: 46 | Comments: 3 | Posted by Curiositry",
+      "url": "https://github.com/antirez/voxtral.c",
+      "publishedAt": "2026-02-10T01:17:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Curiositry",
+      "tags": []
+    },
+    {
+      "id": "5mlu3q",
+      "title": "Zulip.com Values",
+      "description": "Score: 10 | Comments: 0 | Posted by nothrowaways",
+      "url": "https://zulip.com/values/",
+      "publishedAt": "2026-02-10T00:46:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nothrowaways",
+      "tags": []
+    },
+    {
+      "id": "p8j8vh",
+      "title": "What functional programmers get wrong about systems",
+      "description": "Score: 161 | Comments: 105 | Posted by subset",
+      "url": "https://www.iankduncan.com/engineering/2026-02-09-what-functional-programmers-get-wrong-about-systems/",
+      "publishedAt": "2026-02-10T00:07:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "subset",
+      "tags": []
+    }
+  ]
+}

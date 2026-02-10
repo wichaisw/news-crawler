@@ -267,6 +267,28 @@
       "tags": []
     },
     {
+      "id": "op5ovj",
+      "title": "Stop using icons in data tables",
+      "description": "Score: 95 | Comments: 36 | Posted by ctward",
+      "url": "https://medium.com/@codythistleward/stop-using-icons-in-data-tables-7537af18ea0d",
+      "publishedAt": "2026-02-05T16:42:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ctward",
+      "tags": []
+    },
+    {
+      "id": "d2v78c",
+      "title": "Importance of Tuning Checkpoint in PostgreSQL",
+      "description": "Score: 6 | Comments: 1 | Posted by jeltz",
+      "url": "https://www.percona.com/blog/importance-of-tuning-checkpoint-in-postgresql/",
+      "publishedAt": "2026-02-05T16:29:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jeltz",
+      "tags": []
+    },
+    {
       "id": "kt3352",
       "title": "Show HN: Smooth CLI – Token-efficient browser for AI agents",
       "description": "Score: 81 | Comments: 59 | Posted by antves",
@@ -278,11 +300,44 @@
       "tags": []
     },
     {
+      "id": "vlhnyt",
+      "title": "Show HN: VillageSQL = MySQL and Extensions",
+      "description": "Score: 16 | Comments: 2 | Posted by metzby",
+      "url": "https://github.com/villagesql/villagesql-server",
+      "publishedAt": "2026-02-05T15:35:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "metzby",
+      "tags": []
+    },
+    {
+      "id": "glynmn",
+      "title": "Pg-dev-container is a ready-to-run VS Code development container for PostgreSQL",
+      "description": "Score: 33 | Comments: 6 | Posted by mariuz",
+      "url": "https://github.com/jnidzwetzki/pg-dev-container",
+      "publishedAt": "2026-02-05T15:09:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mariuz",
+      "tags": []
+    },
+    {
       "id": "4c80qx",
       "title": "Cooking with glasses",
       "description": "Score: 15 | Comments: 3 | Posted by surprisetalk",
       "url": "https://macwright.com/2025/09/21/cooking-with-glasses",
       "publishedAt": "2026-02-05T15:07:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
+      "id": "mntp1w",
+      "title": "History of UHF Television: TV Above Channel 13 (2024)",
+      "description": "Score: 10 | Comments: 0 | Posted by surprisetalk",
+      "url": "https://uhfhistory.com/",
+      "publishedAt": "2026-02-05T14:31:14.000Z",
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "surprisetalk",
@@ -344,6 +399,17 @@
       "tags": []
     },
     {
+      "id": "hqz8z2",
+      "title": "Expansion Microscopy Has Transformed How We See the Cellular World",
+      "description": "Score: 71 | Comments: 3 | Posted by sohkamyung",
+      "url": "https://www.quantamagazine.org/expansion-microscopy-has-transformed-how-we-see-the-cellular-world-20260204/",
+      "publishedAt": "2026-02-05T12:18:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sohkamyung",
+      "tags": []
+    },
+    {
       "id": "fw5zgl",
       "title": "How we made geo joins 400× faster with H3 indexes",
       "description": "Score: 54 | Comments: 10 | Posted by matheusalmeida",
@@ -352,6 +418,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "matheusalmeida",
+      "tags": []
+    },
+    {
+      "id": "cspbo9",
+      "title": "What's the Entropy of a Random Integer?",
+      "description": "Score: 41 | Comments: 10 | Posted by sebg",
+      "url": "https://quomodocumque.wordpress.com/2026/02/03/whats-the-entropy-of-a-random-integer/",
+      "publishedAt": "2026-02-05T09:47:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sebg",
       "tags": []
     },
     {
@@ -506,6 +583,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "savin-goyal",
+      "tags": []
+    },
+    {
+      "id": "a6d9y6",
+      "title": "Mimes directing traffic in Bogotá had surprisingly loud impacts (2025)",
+      "description": "Score: 103 | Comments: 24 | Posted by IgorPartola",
+      "url": "https://www.atlasobscura.com/articles/traffic-mimes-of-colombia",
+      "publishedAt": "2026-02-05T02:58:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "IgorPartola",
       "tags": []
     },
     {

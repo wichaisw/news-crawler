@@ -1,0 +1,28 @@
+{
+  "date": "2026-02-10",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3091233",
+      "title": "Tem raises $75M to remake electricity markets using AI",
+      "description": "Tem has built a transaction engine that relies on AI to cut costs. Lightspeed led the round to help the startup expand to the U.S. and Australia.",
+      "url": "https://techcrunch.com/2026/02/09/tem-raises-75m-to-remake-electricity-markets-using-ai/",
+      "publishedAt": "2026-02-10T03:01:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Tim De Chant",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3090308",
+      "title": "India makes Aadhaar more ubiquitous, but critics say security and privacy concerns remain",
+      "description": "India's Aadhaar is moving into wallets, hotels and policing through a new app. Critics say that amid the broader Aadhaar rollout, it's unclear how",
+      "url": "https://techcrunch.com/2026/02/09/india-makes-aadhaar-more-ubiquitous-but-critics-say-privacy-concerns-remain/",
+      "publishedAt": "2026-02-10T03:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Jagmeet Singh",
+      "tags": []
+    }
+  ]
+}
