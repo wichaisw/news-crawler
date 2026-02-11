@@ -1,0 +1,39 @@
+{
+  "date": "2026-02-11",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3091847",
+      "title": "With co-founders leaving and an IPO looming, Elon Musk turns talk to the moon",
+      "description": "According to The New York Times, which reports that it heard the meeting, Musk told employees that xAI needs a lunar manufacturing facility, a",
+      "url": "https://techcrunch.com/2026/02/10/with-co-founders-leaving-and-an-ipo-looming-elon-musk-turns-talk-to-the-moon/",
+      "publishedAt": "2026-02-11T05:23:26.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Connie Loizos",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3091795",
+      "title": "OpenAI policy exec who opposed chatbot’s “adult mode” reportedly fired on discrimination claim",
+      "description": "The executive has denied the allegation that she engaged in discrimination.",
+      "url": "https://techcrunch.com/2026/02/10/openai-policy-exec-who-opposed-chatbots-adult-mode-reportedly-fired-on-discrimination-claim/",
+      "publishedAt": "2026-02-11T02:15:27.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lucas Ropek",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3091548",
+      "title": "Okay, now exactly half of xAI’s founding team has left the company",
+      "description": "Whatever the cause of the departures, the cumulative impact is alarming. There is a lot of work left to do at xAI, and an IPO will bring more",
+      "url": "https://techcrunch.com/2026/02/10/nearly-half-of-xais-founding-team-has-now-left-the-company/",
+      "publishedAt": "2026-02-11T01:50:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Russell Brandom",
+      "tags": []
+    }
+  ]
+}

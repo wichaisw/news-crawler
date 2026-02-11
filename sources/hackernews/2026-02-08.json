@@ -245,6 +245,17 @@
       "tags": []
     },
     {
+      "id": "qkjom",
+      "title": "Exploring a Modern SMTPE 2110 Broadcast Truck",
+      "description": "Score: 69 | Comments: 5 | Posted by assimpleaspossi",
+      "url": "https://www.jeffgeerling.com/blog/2026/exploring-a-modern-smpte-2110-broadcast-truck-with-my-dad/",
+      "publishedAt": "2026-02-08T14:09:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "assimpleaspossi",
+      "tags": []
+    },
+    {
       "id": "cfegv8",
       "title": "Running Your Own As: BGP on FreeBSD with FRR, GRE Tunnels, and Policy Routing",
       "description": "Score: 163 | Comments: 63 | Posted by todsacerdoti",
@@ -253,6 +264,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "y8fesd",
+      "title": "The Little Learner: A Straight Line to Deep Learning (2023)",
+      "description": "Score: 129 | Comments: 18 | Posted by AlexeyBrin",
+      "url": "https://mitpress.mit.edu/9780262546379/the-little-learner/",
+      "publishedAt": "2026-02-08T14:01:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "AlexeyBrin",
       "tags": []
     },
     {
@@ -275,6 +297,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "znah",
+      "tags": []
+    },
+    {
+      "id": "g6ilqg",
+      "title": "My eighth year as a bootstrapped founder",
+      "description": "Score: 201 | Comments: 57 | Posted by mtlynch",
+      "url": "https://mtlynch.io/bootstrapped-founder-year-8/",
+      "publishedAt": "2026-02-08T11:47:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mtlynch",
       "tags": []
     },
     {
@@ -322,6 +355,17 @@
       "tags": []
     },
     {
+      "id": "gw3kuy",
+      "title": "MIT Technology Review has confirmed that posts on Moltbook were fake",
+      "description": "Score: 285 | Comments: 131 | Posted by helloplanets",
+      "url": "https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/",
+      "publishedAt": "2026-02-08T09:58:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "helloplanets",
+      "tags": []
+    },
+    {
       "id": "6xh06h",
       "title": "Self-referential functions and the design of options (2014)",
       "description": "Score: 12 | Comments: 3 | Posted by hambes",
@@ -333,6 +377,17 @@
       "tags": []
     },
     {
+      "id": "rhtrht",
+      "title": "Show HN: Model Training Memory Simulator",
+      "description": "Score: 6 | Comments: 0 | Posted by czheo",
+      "url": "https://czheo.github.io/2026/02/08/model-training-memory-simulator/",
+      "publishedAt": "2026-02-08T09:39:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "czheo",
+      "tags": []
+    },
+    {
       "id": "3sydln",
       "title": "Reverse Engineering Raiders of the Lost Ark for the Atari 2600",
       "description": "Score: 86 | Comments: 4 | Posted by pacod",
@@ -341,6 +396,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "pacod",
+      "tags": []
+    },
+    {
+      "id": "r6ij2j",
+      "title": "Willow – Protocols for an uncertain future [video]",
+      "description": "Score: 38 | Comments: 1 | Posted by todsacerdoti",
+      "url": "https://fosdem.org/2026/schedule/event/CVGZAV-willow/",
+      "publishedAt": "2026-02-08T08:52:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
       "tags": []
     },
     {
@@ -374,6 +440,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jingkai_he",
+      "tags": []
+    },
+    {
+      "id": "g3aeck",
+      "title": "80386 Barrel Shifter",
+      "description": "Score: 75 | Comments: 10 | Posted by jamesbowman",
+      "url": "https://nand2mario.github.io/posts/2026/80386_barrel_shifter/",
+      "publishedAt": "2026-02-08T07:19:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jamesbowman",
+      "tags": []
+    },
+    {
+      "id": "hwfxqi",
+      "title": "Show HN: ArtisanForge: Learn Laravel through a gamified RPG adventure",
+      "description": "Score: 29 | Comments: 2 | Posted by grazulex",
+      "url": "https://artisanforge.online/",
+      "publishedAt": "2026-02-08T07:15:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "grazulex",
       "tags": []
     },
     {

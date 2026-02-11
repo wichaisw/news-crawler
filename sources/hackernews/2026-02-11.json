@@ -1,0 +1,50 @@
+{
+  "date": "2026-02-11",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "klcz9m",
+      "title": "A simpler way to remove explicit images from Search",
+      "description": "Score: 27 | Comments: 17 | Posted by gnabgib",
+      "url": "https://blog.google/products-and-platforms/products/search/remove-explicit-images/",
+      "publishedAt": "2026-02-11T04:15:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gnabgib",
+      "tags": []
+    },
+    {
+      "id": "23nf4a",
+      "title": "End of an era for me: no more self-hosted git",
+      "description": "Score: 93 | Comments: 46 | Posted by dzulp0d",
+      "url": "https://www.kraxel.org/blog/2026/01/thank-you-ai/",
+      "publishedAt": "2026-02-11T01:50:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dzulp0d",
+      "tags": []
+    },
+    {
+      "id": "g4b1gq",
+      "title": "Rivian R2: Electric Mid-Size SUV",
+      "description": "Score: 86 | Comments: 125 | Posted by socialcommenter",
+      "url": "https://rivian.com/r2",
+      "publishedAt": "2026-02-11T01:00:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "socialcommenter",
+      "tags": []
+    },
+    {
+      "id": "xq4idb",
+      "title": "Fun With Pinball",
+      "description": "Score: 63 | Comments: 7 | Posted by jackwilsdon",
+      "url": "https://www.funwithpinball.com/exhibits/small-boards",
+      "publishedAt": "2026-02-11T00:21:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jackwilsdon",
+      "tags": []
+    }
+  ]
+}
