@@ -135,6 +135,17 @@
       "tags": []
     },
     {
+      "id": "3nf7g5",
+      "title": "Using an engineering notebook",
+      "description": "Score: 107 | Comments: 29 | Posted by evakhoury",
+      "url": "https://ntietz.com/blog/using-an-engineering-notebook/",
+      "publishedAt": "2026-02-09T19:29:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "evakhoury",
+      "tags": []
+    },
+    {
       "id": "nbmnux",
       "title": "Luce: First Electric Ferrari",
       "description": "Score: 138 | Comments: 132 | Posted by kaizenb",
@@ -245,6 +256,17 @@
       "tags": []
     },
     {
+      "id": "3q0ffj",
+      "title": "Show HN: AI agents play SimCity through a REST API",
+      "description": "Score: 182 | Comments: 67 | Posted by aed",
+      "url": "https://hallucinatingsplines.com",
+      "publishedAt": "2026-02-09T15:54:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "aed",
+      "tags": []
+    },
+    {
       "id": "oujnnc",
       "title": "Why is the sky blue?",
       "description": "Score: 493 | Comments: 175 | Posted by udit99",
@@ -275,6 +297,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "waihtis",
+      "tags": []
+    },
+    {
+      "id": "4barwr",
+      "title": "Trying Out Thunderbird Appointment While I Patiently Wait for an Invite",
+      "description": "Score: 4 | Comments: 1 | Posted by todsacerdoti",
+      "url": "https://blog.matthewbrunelle.com/trying-out-thunderbird-appointment-while-i-patiently-await-for-an-invite/",
+      "publishedAt": "2026-02-09T15:01:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
       "tags": []
     },
     {
@@ -341,6 +374,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "tombh",
+      "tags": []
+    },
+    {
+      "id": "aob8at",
+      "title": "Text classification with Python 3.14's ZSTD module",
+      "description": "Score: 166 | Comments: 29 | Posted by alexmolas",
+      "url": "https://maxhalford.github.io/blog/text-classification-zstd/",
+      "publishedAt": "2026-02-09T08:14:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "alexmolas",
       "tags": []
     },
     {
@@ -429,6 +473,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "Gaishan",
+      "tags": []
+    },
+    {
+      "id": "q4sgd7",
+      "title": "Sekka Zusetsu: A Book of Snowflakes (1832)",
+      "description": "Score: 30 | Comments: 3 | Posted by prismatic",
+      "url": "https://publicdomainreview.org/collection/japanese-snowflake-book/",
+      "publishedAt": "2026-02-09T03:49:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "prismatic",
       "tags": []
     },
     {

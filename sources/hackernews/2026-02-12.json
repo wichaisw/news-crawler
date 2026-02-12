@@ -1,0 +1,83 @@
+{
+  "date": "2026-02-12",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "n2kup4",
+      "title": "Warcraft III Peon Voice Notifications for Claude Code",
+      "description": "Score: 27 | Comments: 4 | Posted by doppp",
+      "url": "https://github.com/tonyyont/peon-ping",
+      "publishedAt": "2026-02-12T05:18:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "doppp",
+      "tags": []
+    },
+    {
+      "id": "40c7pm",
+      "title": "D Programming Language",
+      "description": "Score: 15 | Comments: 6 | Posted by arcadia_leak",
+      "url": "https://dlang.org/",
+      "publishedAt": "2026-02-12T05:18:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "arcadia_leak",
+      "tags": []
+    },
+    {
+      "id": "4r3hfb",
+      "title": "My wife calls me, panicked",
+      "description": "Score: 12 | Comments: 5 | Posted by latchkey",
+      "url": "https://twitter.com/ModernDad/status/2021675945581486309",
+      "publishedAt": "2026-02-12T05:06:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "latchkey",
+      "tags": []
+    },
+    {
+      "id": "mhego6",
+      "title": "How to Make a Living as an Artist",
+      "description": "Score: 40 | Comments: 16 | Posted by gwintrob",
+      "url": "https://essays.fnnch.com/make-a-living",
+      "publishedAt": "2026-02-12T03:56:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gwintrob",
+      "tags": []
+    },
+    {
+      "id": "z5r27k",
+      "title": "Show HN: Double blind entropy using Drand for verifiably fair randomness",
+      "description": "Score: 14 | Comments: 11 | Posted by rishi_blockrand",
+      "url": "https://blockrand.net/live.html",
+      "publishedAt": "2026-02-12T02:10:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rishi_blockrand",
+      "tags": []
+    },
+    {
+      "id": "2n118j",
+      "title": "The Problem with LLMs",
+      "description": "Score: 38 | Comments: 28 | Posted by vinhnx",
+      "url": "https://www.deobald.ca/essays/2026-02-10-the-problem-with-llms/",
+      "publishedAt": "2026-02-12T02:03:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vinhnx",
+      "tags": []
+    },
+    {
+      "id": "xkgu51",
+      "title": "Heroku is not dead",
+      "description": "Score: 35 | Comments: 30 | Posted by jbm",
+      "url": "https://nombiezinja.com/word-things/2026/2/8/heroku-is-not-dead",
+      "publishedAt": "2026-02-12T00:20:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jbm",
+      "tags": []
+    }
+  ]
+}
