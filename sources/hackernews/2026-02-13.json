@@ -1,0 +1,105 @@
+{
+  "date": "2026-02-13",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "qju0my",
+      "title": "New Nick Bostrom Paper: Optimal Timing for Superintelligence [pdf]nickbostrom.com",
+      "description": "Score: 24 | Comments: 6 | Posted by uejfiweun",
+      "url": "https://nickbostrom.com/optimal.pdf",
+      "publishedAt": "2026-02-13T05:26:49.075Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "uejfiweun",
+      "tags": []
+    },
+    {
+      "id": "5itbpx",
+      "title": "Waymo is asking DoorDash drivers to shut the doors of its self-driving cars",
+      "description": "Score: 13 | Comments: 2 | Posted by mfiguiere",
+      "url": "https://techcrunch.com/2026/02/12/waymo-is-asking-doordash-drivers-to-shut-the-doors-of-its-self-driving-cars/",
+      "publishedAt": "2026-02-13T05:10:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mfiguiere",
+      "tags": []
+    },
+    {
+      "id": "qju0my",
+      "title": "New Nick Bostrom Paper: Optimal Timing for Superintelligence [pdf]",
+      "description": "Score: 24 | Comments: 6 | Posted by uejfiweun",
+      "url": "https://nickbostrom.com/optimal.pdf",
+      "publishedAt": "2026-02-13T05:05:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "uejfiweun",
+      "tags": []
+    },
+    {
+      "id": "suy5p4",
+      "title": "The Wonder of Modern Drywall",
+      "description": "Score: 19 | Comments: 18 | Posted by zdw",
+      "url": "https://worksinprogress.co/issue/the-wonder-of-modern-drywall/",
+      "publishedAt": "2026-02-13T03:33:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "x3ljxo",
+      "title": "Skip the Tips: A game to select \"No Tip\" but dark patterns try to stop youskipthe.tips",
+      "description": "Score: 209 | Comments: 113 | Posted by randycupertino",
+      "url": "https://skipthe.tips/",
+      "publishedAt": "2026-02-13T01:26:49.075Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "randycupertino",
+      "tags": []
+    },
+    {
+      "id": "x3ljxo",
+      "title": "Skip the Tips: A game to select \"No Tip\" but dark patterns try to stop you",
+      "description": "Score: 209 | Comments: 114 | Posted by randycupertino",
+      "url": "https://skipthe.tips/",
+      "publishedAt": "2026-02-13T00:54:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "randycupertino",
+      "tags": []
+    },
+    {
+      "id": "4ppxiw",
+      "title": "Resizing windows on macOS Tahoe – the saga continuesnoheger.at",
+      "description": "Score: 357 | Comments: 167 | Posted by erickhill",
+      "url": "https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/",
+      "publishedAt": "2026-02-13T00:26:49.074Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "erickhill",
+      "tags": []
+    },
+    {
+      "id": "5umze4",
+      "title": "Lifetime Lead Exposure Can Triple Alzheimer's Risk",
+      "description": "Score: 9 | Comments: 0 | Posted by stevenwoo",
+      "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.71075",
+      "publishedAt": "2026-02-13T00:26:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "stevenwoo",
+      "tags": []
+    },
+    {
+      "id": "mccn8e",
+      "title": "AWS Adds support for nested virtualization",
+      "description": "Score: 147 | Comments: 54 | Posted by sitole",
+      "url": "https://github.com/aws/aws-sdk-go-v2/commit/3dca5e45d5ad05460b93410087833cbaa624754e",
+      "publishedAt": "2026-02-13T00:07:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sitole",
+      "tags": []
+    }
+  ]
+}
