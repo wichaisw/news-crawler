@@ -3,6 +3,204 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "ifq686",
+      "title": "OpenAI has deleted the word 'safely' from its mission",
+      "description": "Score: 453 | Comments: 234 | Posted by DamnInteresting",
+      "url": "https://theconversation.com/openai-has-deleted-the-word-safely-from-its-mission-and-its-new-structure-is-a-test-for-whether-ai-serves-society-or-shareholders-274467",
+      "publishedAt": "2026-02-13T22:17:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "DamnInteresting",
+      "tags": []
+    },
+    {
+      "id": "zfa51g",
+      "title": "Show HN: Data Engineering Book – An open source, community-driven guide",
+      "description": "Score: 127 | Comments: 11 | Posted by xx123122",
+      "url": "https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md",
+      "publishedAt": "2026-02-13T21:35:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "xx123122",
+      "tags": []
+    },
+    {
+      "id": "6tzdvu",
+      "title": "The EU moves to kill infinite scrolling",
+      "description": "Score: 463 | Comments: 472 | Posted by danso",
+      "url": "https://www.politico.eu/article/tiktok-meta-facebook-instagram-brussels-kill-infinite-scrolling/",
+      "publishedAt": "2026-02-13T20:52:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "danso",
+      "tags": []
+    },
+    {
+      "id": "nu1i88",
+      "title": "GPT-5.2 derives a new result in theoretical physics",
+      "description": "Score: 441 | Comments: 293 | Posted by davidbarker",
+      "url": "https://openai.com/index/new-result-theoretical-physics/",
+      "publishedAt": "2026-02-13T19:20:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "davidbarker",
+      "tags": []
+    },
+    {
+      "id": "iihj71",
+      "title": "I'm not worried about AI job loss",
+      "description": "Score: 224 | Comments: 376 | Posted by ezekg",
+      "url": "https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss",
+      "publishedAt": "2026-02-13T19:13:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ezekg",
+      "tags": []
+    },
+    {
+      "id": "ebj0w7",
+      "title": "Show HN: Skill that lets Claude Code/Codex spin up VMs and GPUs",
+      "description": "Score: 115 | Comments: 30 | Posted by austinwang115",
+      "url": "https://cloudrouter.dev/",
+      "publishedAt": "2026-02-13T19:02:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "austinwang115",
+      "tags": []
+    },
+    {
+      "id": "fnpk98",
+      "title": "Age of Empires: 25 years of pathfinding problems with C++ [video]",
+      "description": "Score: 130 | Comments: 22 | Posted by CharlesW",
+      "url": "https://www.youtube.com/watch?v=lEBQveBCtKY",
+      "publishedAt": "2026-02-13T18:56:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "CharlesW",
+      "tags": []
+    },
+    {
+      "id": "7nd4zw",
+      "title": "Show HN: OpenWhisper – free, local, and private voice-to-text macOS app",
+      "description": "Score: 25 | Comments: 6 | Posted by rwu1997",
+      "url": "https://github.com/richardwu/openwhisper",
+      "publishedAt": "2026-02-13T18:51:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rwu1997",
+      "tags": []
+    },
+    {
+      "id": "8581ky",
+      "title": "Dario Amodei – \"We are near the end of the exponential\" [video]",
+      "description": "Score: 89 | Comments: 181 | Posted by danielmorozoff",
+      "url": "https://www.dwarkesh.com/p/dario-amodei-2",
+      "publishedAt": "2026-02-13T17:55:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "danielmorozoff",
+      "tags": []
+    },
+    {
+      "id": "utfqyz",
+      "title": "Building a TUI is easy now",
+      "description": "Score: 185 | Comments: 126 | Posted by abelanger",
+      "url": "https://hatchet.run/blog/tuis-are-easy-now",
+      "publishedAt": "2026-02-13T17:50:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "abelanger",
+      "tags": []
+    },
+    {
+      "id": "miedif",
+      "title": "Open source is not about you (2018)",
+      "description": "Score: 212 | Comments: 172 | Posted by doubleg",
+      "url": "https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9",
+      "publishedAt": "2026-02-13T14:36:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "doubleg",
+      "tags": []
+    },
+    {
+      "id": "awithq",
+      "title": "How did the Maya survive?",
+      "description": "Score: 120 | Comments: 96 | Posted by speckx",
+      "url": "https://www.theguardian.com/news/2026/feb/12/apocalypse-no-how-almost-everything-we-thought-we-knew-about-the-maya-is-wrong",
+      "publishedAt": "2026-02-13T14:36:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
+      "tags": []
+    },
+    {
+      "id": "bn1ltt",
+      "title": "Fix the iOS keyboard before the timer hits zero or I'm switching back to Android",
+      "description": "Score: 1375 | Comments: 686 | Posted by ozzyphantom",
+      "url": "https://ios-countdown.win/",
+      "publishedAt": "2026-02-13T14:21:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ozzyphantom",
+      "tags": []
+    },
+    {
+      "id": "5fohl3",
+      "title": "Zed editor switching graphics lib from blade to wgpu",
+      "description": "Score: 293 | Comments: 270 | Posted by jpeeler",
+      "url": "https://github.com/zed-industries/zed/pull/46758",
+      "publishedAt": "2026-02-13T14:03:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jpeeler",
+      "tags": []
+    },
+    {
+      "id": "tqeabr",
+      "title": "Monosketch",
+      "description": "Score: 748 | Comments: 131 | Posted by penguin_booze",
+      "url": "https://monosketch.io/",
+      "publishedAt": "2026-02-13T12:18:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "penguin_booze",
+      "tags": []
+    },
+    {
+      "id": "41e8zv",
+      "title": "WolfSSL sucks too, so now what?",
+      "description": "Score: 101 | Comments: 78 | Posted by thomasjb",
+      "url": "https://blog.feld.me/posts/2026/02/wolfssl-sucks-too/",
+      "publishedAt": "2026-02-13T10:18:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thomasjb",
+      "tags": []
+    },
+    {
+      "id": "3lyvhy",
+      "title": "CSS-Doodle",
+      "description": "Score: 146 | Comments: 16 | Posted by dsego",
+      "url": "https://css-doodle.com/",
+      "publishedAt": "2026-02-13T08:02:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dsego",
+      "tags": []
+    },
+    {
+      "id": "wm7qyy",
+      "title": "MinIO repository is no longer maintained",
+      "description": "Score: 465 | Comments: 343 | Posted by psvmcc",
+      "url": "https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f",
+      "publishedAt": "2026-02-13T07:46:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "psvmcc",
+      "tags": []
+    },
+    {
       "id": "qju0my",
       "title": "New Nick Bostrom Paper: Optimal Timing for Superintelligence [pdf]nickbostrom.com",
       "description": "Score: 24 | Comments: 6 | Posted by uejfiweun",
@@ -44,6 +242,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "37ke72",
+      "title": "The wonder of modern drywall",
+      "description": "Score: 95 | Comments: 149 | Posted by jger15",
+      "url": "https://www.worksinprogress.news/p/the-wonder-of-modern-drywall",
+      "publishedAt": "2026-02-13T03:33:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jger15",
       "tags": []
     },
     {

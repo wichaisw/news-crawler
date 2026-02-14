@@ -124,6 +124,17 @@
       "tags": []
     },
     {
+      "id": "wxyrxd",
+      "title": "MySQL foreign key cascade operations finally hit the binary log",
+      "description": "Score: 30 | Comments: 12 | Posted by marceloaltmann",
+      "url": "https://readyset.io/blog/mysql-9-6-foreign-key-cascade-operations-finally-hit-the-binary-log",
+      "publishedAt": "2026-02-09T20:01:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "marceloaltmann",
+      "tags": []
+    },
+    {
       "id": "g5ojga",
       "title": "An articulated archer automaton [video]",
       "description": "Score: 34 | Comments: 6 | Posted by Teever",
@@ -322,6 +333,17 @@
       "tags": []
     },
     {
+      "id": "em8c4y",
+      "title": "Do Metaprojects",
+      "description": "Score: 77 | Comments: 31 | Posted by surprisetalk",
+      "url": "https://taylor.town/wealth-001",
+      "publishedAt": "2026-02-09T14:39:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
       "id": "mkxnyz",
       "title": "Discord will require a face scan or ID for full access next month",
       "description": "Score: 1487 | Comments: 1451 | Posted by x01",
@@ -374,6 +396,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ingve",
+      "tags": []
+    },
+    {
+      "id": "szmsg1",
+      "title": "gRPC: From service definition to wire format",
+      "description": "Score: 111 | Comments: 14 | Posted by latonz",
+      "url": "https://kreya.app/blog/grpc-deep-dive/",
+      "publishedAt": "2026-02-09T12:17:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "latonz",
       "tags": []
     },
     {

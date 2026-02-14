@@ -47,6 +47,17 @@
       "tags": []
     },
     {
+      "id": "qyucej",
+      "title": "An open replacement for the IBM 3174 Establishment Controller",
+      "description": "Score: 37 | Comments: 8 | Posted by bri3d",
+      "url": "https://github.com/lowobservable/oec",
+      "publishedAt": "2026-02-07T18:39:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bri3d",
+      "tags": []
+    },
+    {
       "id": "oliz7c",
       "title": "We mourn our craft",
       "description": "Score: 705 | Comments: 791 | Posted by ColinWright",
@@ -176,6 +187,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ms7892",
+      "tags": []
+    },
+    {
+      "id": "fur508",
+      "title": "We interfaced single-threaded C++ with multi-threaded Rust",
+      "description": "Score: 103 | Comments: 9 | Posted by lukastyrychtr",
+      "url": "https://antithesis.com/blog/2026/rust_cpp/",
+      "publishedAt": "2026-02-07T13:45:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lukastyrychtr",
       "tags": []
     },
     {

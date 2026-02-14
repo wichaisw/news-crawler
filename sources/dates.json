@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-02-14",
     "2026-02-13",
     "2026-02-12",
     "2026-02-11",
@@ -59,7 +60,7 @@
     "2025-12-19",
     "2025-12-18"
   ],
-  "lastUpdated": "2026-02-13T06:26:51.099Z",
+  "lastUpdated": "2026-02-14T06:18:36.654Z",
   "totalSources": 4,
   "sources": [
     "theverge",
@@ -68,9 +69,9 @@
     "hackernews"
   ],
   "dateAvailability": {
-    "theverge": 51,
-    "techcrunch": 53,
-    "blognone": 53,
-    "hackernews": 58
+    "theverge": 52,
+    "techcrunch": 54,
+    "blognone": 54,
+    "hackernews": 59
   }
 }

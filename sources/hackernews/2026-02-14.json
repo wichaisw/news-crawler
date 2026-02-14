@@ -1,0 +1,116 @@
+{
+  "date": "2026-02-14",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "n7495g",
+      "title": "Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQLgithub.com/mickamy",
+      "description": "Score: 27 | Comments: 2 | Posted by mickamy",
+      "url": "https://github.com/mickamy/sql-tap",
+      "publishedAt": "2026-02-14T05:18:34.598Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mickamy",
+      "tags": []
+    },
+    {
+      "id": "w5zj29",
+      "title": "Backblaze Drive Stats for 2025",
+      "description": "Score: 20 | Comments: 4 | Posted by Brajeshwar",
+      "url": "https://www.backblaze.com/blog/backblaze-drive-stats-for-2025/",
+      "publishedAt": "2026-02-14T04:35:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Brajeshwar",
+      "tags": []
+    },
+    {
+      "id": "uxaduz",
+      "title": "Why exercise isn't much help if you are trying to lose weight",
+      "description": "Score: 8 | Comments: 3 | Posted by stevenwoo",
+      "url": "https://www.newscientist.com/article/2514600-why-exercise-isnt-much-help-if-you-are-trying-to-lose-weight/",
+      "publishedAt": "2026-02-14T04:27:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "stevenwoo",
+      "tags": []
+    },
+    {
+      "id": "n7495g",
+      "title": "Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL",
+      "description": "Score: 27 | Comments: 2 | Posted by mickamy",
+      "url": "https://github.com/mickamy/sql-tap",
+      "publishedAt": "2026-02-14T04:27:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mickamy",
+      "tags": []
+    },
+    {
+      "id": "v19gm",
+      "title": "Oh, good: Discord's age verification rollout has ties to Palantir co-founder",
+      "description": "Score: 33 | Comments: 8 | Posted by absqueued",
+      "url": "https://www.pcgamer.com/software/platforms/oh-good-discords-age-verification-rollout-has-ties-to-palantir-co-founder-and-panopticon-architect-peter-thiel/",
+      "publishedAt": "2026-02-14T03:49:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "absqueued",
+      "tags": []
+    },
+    {
+      "id": "ba4pzx",
+      "title": "NPMX – a fast, modern browser for the NPM registrynpmx.dev",
+      "description": "Score: 66 | Comments: 32 | Posted by slymax",
+      "url": "https://npmx.dev",
+      "publishedAt": "2026-02-14T02:18:34.598Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "slymax",
+      "tags": []
+    },
+    {
+      "id": "ba4pzx",
+      "title": "NPMX – a fast, modern browser for the NPM registry",
+      "description": "Score: 66 | Comments: 32 | Posted by slymax",
+      "url": "https://npmx.dev",
+      "publishedAt": "2026-02-14T02:14:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "slymax",
+      "tags": []
+    },
+    {
+      "id": "1i1e55",
+      "title": "What dating apps are optimizing. Hint: It isn't love",
+      "description": "Score: 82 | Comments: 47 | Posted by i7l",
+      "url": "https://phys.org/news/2026-02-dating-apps-optimizing-hint-isnt.html",
+      "publishedAt": "2026-02-14T01:27:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "i7l",
+      "tags": []
+    },
+    {
+      "id": "m66aii",
+      "title": "Show HN: ClipPath – Paste screenshots as file paths in your terminal",
+      "description": "Score: 4 | Comments: 0 | Posted by viniciusborgeis",
+      "url": "https://github.com/BiteCraft/ClipPath",
+      "publishedAt": "2026-02-14T01:08:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "viniciusborgeis",
+      "tags": []
+    },
+    {
+      "id": "xkj9fs",
+      "title": "An AI Agent Published a Hit Piece on Me – More Things Have Happened",
+      "description": "Score: 335 | Comments: 166 | Posted by scottshambaugh",
+      "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/",
+      "publishedAt": "2026-02-14T00:37:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "scottshambaugh",
+      "tags": []
+    }
+  ]
+}

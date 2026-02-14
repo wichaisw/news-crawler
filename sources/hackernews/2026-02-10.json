@@ -47,6 +47,17 @@
       "tags": []
     },
     {
+      "id": "sv7gyy",
+      "title": "Adventures in Neural Rendering",
+      "description": "Score: 20 | Comments: 1 | Posted by ingve",
+      "url": "https://interplayoflight.wordpress.com/2026/02/10/adventures-in-neural-rendering/",
+      "publishedAt": "2026-02-10T21:26:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingve",
+      "tags": []
+    },
+    {
       "id": "26tslf",
       "title": "Code has _always_ been the easy part",
       "description": "Score: 23 | Comments: 12 | Posted by rmason",
@@ -355,6 +366,17 @@
       "tags": []
     },
     {
+      "id": "u4athu",
+      "title": "Gradient.horse",
+      "description": "Score: 189 | Comments: 43 | Posted by microflash",
+      "url": "https://gradient.horse",
+      "publishedAt": "2026-02-10T04:13:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "microflash",
+      "tags": []
+    },
+    {
       "id": "wala2n",
       "title": "Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIsarxiv.org",
       "description": "Score: 146 | Comments: 81 | Posted by tiny-automates",
@@ -396,6 +418,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jinkuan",
+      "tags": []
+    },
+    {
+      "id": "vlddfu",
+      "title": "Show HN: I spent 3 years reverse-engineering a 40 yo stock market sim from 1986",
+      "description": "Score: 106 | Comments: 26 | Posted by benstopics",
+      "url": "https://www.wallstreetraider.com/story.html",
+      "publishedAt": "2026-02-10T02:44:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "benstopics",
+      "tags": []
+    },
+    {
+      "id": "55wmtj",
+      "title": "Faster Than Dijkstra?",
+      "description": "Score: 118 | Comments: 70 | Posted by drbruced",
+      "url": "https://systemsapproach.org/2026/02/09/faster-than-dijkstra/",
+      "publishedAt": "2026-02-10T02:36:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "drbruced",
       "tags": []
     },
     {
