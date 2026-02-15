@@ -3,6 +3,94 @@
   "source": "techcrunch",
   "articles": [
     {
+      "id": "https://techcrunch.com/?p=3093205",
+      "title": "Homeland Security reportedly sent hundreds of subpoenas seeking to unmask anti-ICE accounts",
+      "description": "The Department of Homeland Security has been increasing pressure on tech companies to identify the owners of accounts that criticize ICE.",
+      "url": "https://techcrunch.com/2026/02/14/homeland-security-reportedly-sent-hundreds-of-subpoenas-seeking-to-unmask-anti-ice-accounts/",
+      "publishedAt": "2026-02-14T22:30:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3093200",
+      "title": "Is safety ‘dead’ at xAI?",
+      "description": "Elon Musk is “actively” working to make xAI’s Grok chatbot “more unhinged, according to a former employee.",
+      "url": "https://techcrunch.com/2026/02/14/is-safety-is-dead-at-xai/",
+      "publishedAt": "2026-02-14T21:55:44.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3092452",
+      "title": "In a changed VC landscape, this exec is doubling down on overlooked founders",
+      "description": "As much of Silicon Valley chases mega-rounds and buzzy AI deals, Stacy Brown-Philpot is running Cherryrock Capital like a throwback to venture",
+      "url": "https://techcrunch.com/2026/02/14/stacy-brown-philpot-cherryrock-capital-vc/",
+      "publishedAt": "2026-02-14T20:37:42.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Connie Loizos",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3092988",
+      "title": "‘Clueless’ -inspired app Alta partners with brand Public School to start integrating styling tools into websites",
+      "description": "This week, Alta unveiled its first integration collaboration, teaming up with Public School, a storied New York City brand.",
+      "url": "https://techcrunch.com/2026/02/14/clueless-inspired-app-alta-partners-with-brand-public-school-to-start-integrating-styling-tools-into-websites/",
+      "publishedAt": "2026-02-14T19:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3093184",
+      "title": "Hollywood isn’t happy about the new Seedance 2.0 video generator",
+      "description": "Hollywood organizations are pushing back against a new AI video model called Seedance 2.0, which they say has quickly become a tool for “blatant”",
+      "url": "https://techcrunch.com/2026/02/14/hollywood-isnt-happy-about-the-new-seedance-2-0-video-generator/",
+      "publishedAt": "2026-02-14T18:26:52.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3093023",
+      "title": "Designer Kate Barton teams up with IBM and Fiducia AI for a NYFW presentation",
+      "description": "Designer Kate Barton teams up with Fiducia AI and IBM for a NYFW presentation.",
+      "url": "https://techcrunch.com/2026/02/14/designer-kate-barton-teams-up-with-ibm-and-fiducia-ai-for-a-nyfw-presentation/",
+      "publishedAt": "2026-02-14T17:43:46.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3093154",
+      "title": "India doubles down on state-backed venture capital, approving $1.1B fund",
+      "description": "India’s $1.1B fund-of-funds will invest through private VCs to support deep-tech and manufacturing startups.",
+      "url": "https://techcrunch.com/2026/02/14/india-doubles-down-on-state-backed-venture-capital-approving-1-1b-fund/",
+      "publishedAt": "2026-02-14T16:23:22.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Jagmeet Singh",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3092800",
+      "title": "Nothing opens its first retail store in India",
+      "description": "The two-story location will sell products from Nothing and the more affordable, mass-market brand CMF.",
+      "url": "https://techcrunch.com/2026/02/13/nothing-opens-its-first-retail-store-in-india/",
+      "publishedAt": "2026-02-14T06:30:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Ivan Mehta",
+      "tags": []
+    },
+    {
       "id": "https://techcrunch.com/?p=3092377",
       "title": "Indian pharmacy chain giant exposed customer data and internal systems",
       "description": "A backend flaw in web admin dashboards used by one of India's largest pharmacy chains, exposed thousands of online pharmacy orders.",

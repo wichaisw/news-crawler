@@ -3,6 +3,39 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "yulco4",
+      "title": "IBM tripling entry-level jobs after finding the limits of AI adoption",
+      "description": "Score: 330 | Comments: 205 | Posted by WhatsTheBigIdea",
+      "url": "https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/",
+      "publishedAt": "2026-02-13T23:34:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "WhatsTheBigIdea",
+      "tags": []
+    },
+    {
+      "id": "iu7mqz",
+      "title": "Launching Interop 2026",
+      "description": "Score: 57 | Comments: 3 | Posted by linolevan",
+      "url": "https://hacks.mozilla.org/2026/02/launching-interop-2026/",
+      "publishedAt": "2026-02-13T22:40:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "linolevan",
+      "tags": []
+    },
+    {
+      "id": "r0pdj8",
+      "title": "How often do full-body MRIs find cancer?",
+      "description": "Score: 83 | Comments: 79 | Posted by brandonb",
+      "url": "https://www.usatoday.com/story/life/health-wellness/2026/02/11/full-body-mris-cancer-aneurysm/88396037007/",
+      "publishedAt": "2026-02-13T22:21:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "brandonb",
+      "tags": []
+    },
+    {
       "id": "ifq686",
       "title": "OpenAI has deleted the word 'safely' from its mission",
       "description": "Score: 453 | Comments: 234 | Posted by DamnInteresting",
@@ -33,6 +66,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "danso",
+      "tags": []
+    },
+    {
+      "id": "3x88br",
+      "title": "Breaking the spell of vibe coding",
+      "description": "Score: 179 | Comments: 135 | Posted by arjunbanker",
+      "url": "https://www.fast.ai/posts/2026-01-28-dark-flow/",
+      "publishedAt": "2026-02-13T19:22:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "arjunbanker",
       "tags": []
     },
     {
@@ -91,6 +135,17 @@
       "tags": []
     },
     {
+      "id": "6trc58",
+      "title": "The consequences of task switching in supervisory programming",
+      "description": "Score: 62 | Comments: 29 | Posted by bigwheels",
+      "url": "https://martinfowler.com/fragments/2026-02-13.html",
+      "publishedAt": "2026-02-13T18:18:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bigwheels",
+      "tags": []
+    },
+    {
       "id": "8581ky",
       "title": "Dario Amodei – \"We are near the end of the exponential\" [video]",
       "description": "Score: 89 | Comments: 181 | Posted by danielmorozoff",
@@ -110,6 +165,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "abelanger",
+      "tags": []
+    },
+    {
+      "id": "2y60w0",
+      "title": "Instagram's URL Blackhole",
+      "description": "Score: 137 | Comments: 22 | Posted by tkp-415",
+      "url": "https://medium.com/@shredlife/instagrams-url-blackhole-c1733e081664",
+      "publishedAt": "2026-02-13T16:42:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tkp-415",
       "tags": []
     },
     {
@@ -176,6 +242,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "thomasjb",
+      "tags": []
+    },
+    {
+      "id": "iebfcn",
+      "title": "Zvec: A lightweight, fast, in-process vector database",
+      "description": "Score: 113 | Comments: 18 | Posted by dvrp",
+      "url": "https://github.com/alibaba/zvec",
+      "publishedAt": "2026-02-13T08:53:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dvrp",
+      "tags": []
+    },
+    {
+      "id": "7wmn6r",
+      "title": "Babylon 5 is now free to watch on YouTube",
+      "description": "Score: 605 | Comments: 315 | Posted by walterbell",
+      "url": "https://cordcuttersnews.com/babylon-5-is-now-free-to-watch-on-youtube/",
+      "publishedAt": "2026-02-13T08:49:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "walterbell",
       "tags": []
     },
     {

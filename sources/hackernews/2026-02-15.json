@@ -1,0 +1,72 @@
+{
+  "date": "2026-02-15",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "gz3nu0",
+      "title": "America Isn't Ready for What AI Will Do to Jobs",
+      "description": "Score: 9 | Comments: 0 | Posted by helloplanets",
+      "url": "https://www.theatlantic.com/magazine/2026/03/ai-economy-labor-market-transformation/685731/",
+      "publishedAt": "2026-02-15T05:22:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "helloplanets",
+      "tags": []
+    },
+    {
+      "id": "ekqulb",
+      "title": "Linear Representations and Superposition",
+      "description": "Score: 9 | Comments: 0 | Posted by paladin314159",
+      "url": "http://ternarysearch.blogspot.com/2026/02/linear-representations-and-superposition.html",
+      "publishedAt": "2026-02-15T04:29:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "paladin314159",
+      "tags": []
+    },
+    {
+      "id": "d3aza7",
+      "title": "Guitars of the USSR and the Jolana Special in Azerbaijani Music",
+      "description": "Score: 15 | Comments: 1 | Posted by bpierre",
+      "url": "https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music/",
+      "publishedAt": "2026-02-15T03:29:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bpierre",
+      "tags": []
+    },
+    {
+      "id": "z6opun",
+      "title": "NewPipe: YouTube client without vertical videos and algorithmic feed",
+      "description": "Score: 191 | Comments: 50 | Posted by nvader",
+      "url": "https://newpipe.net/",
+      "publishedAt": "2026-02-15T01:24:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nvader",
+      "tags": []
+    },
+    {
+      "id": "k4otiy",
+      "title": "I love the work of the ArchWiki maintainersk7r.eu",
+      "description": "Score: 179 | Comments: 35 | Posted by panic",
+      "url": "https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/",
+      "publishedAt": "2026-02-15T01:22:47.926Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "panic",
+      "tags": []
+    },
+    {
+      "id": "k4otiy",
+      "title": "I love the work of the ArchWiki maintainers",
+      "description": "Score: 179 | Comments: 35 | Posted by panic",
+      "url": "https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/",
+      "publishedAt": "2026-02-15T01:20:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "panic",
+      "tags": []
+    }
+  ]
+}

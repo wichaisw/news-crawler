@@ -190,6 +190,28 @@
       "tags": []
     },
     {
+      "id": "8ty441",
+      "title": "Show HN: MOL – A programming language where pipelines trace themselves",
+      "description": "Score: 31 | Comments: 9 | Posted by MouneshK",
+      "url": "https://github.com/crux-ecosystem/mol-lang",
+      "publishedAt": "2026-02-11T17:31:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "MouneshK",
+      "tags": []
+    },
+    {
+      "id": "az3m81",
+      "title": "The Perfect Device",
+      "description": "Score: 19 | Comments: 2 | Posted by surprisetalk",
+      "url": "https://sometimes.digital/posts/the-perfect-device/",
+      "publishedAt": "2026-02-11T17:17:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
       "id": "8jaopa",
       "title": "Ireland rolls out basic income scheme for artists",
       "description": "Score: 218 | Comments: 220 | Posted by abe94",
@@ -220,6 +242,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "machielrey",
+      "tags": []
+    },
+    {
+      "id": "2k2ckt",
+      "title": "MDST Engine: run GGUF models in the browser with WebGPU/WASM",
+      "description": "Score: 4 | Comments: 2 | Posted by vmirnv",
+      "url": "https://mdst.app/blog/mdst_engine_run_gguf_models_in_your_browser",
+      "publishedAt": "2026-02-11T14:09:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vmirnv",
       "tags": []
     },
     {
@@ -256,6 +289,17 @@
       "tags": []
     },
     {
+      "id": "3x269c",
+      "title": "Flood Fill vs. The Magic Circle",
+      "description": "Score: 56 | Comments: 17 | Posted by tobr",
+      "url": "https://www.robinsloan.com/winter-garden/magic-circle/",
+      "publishedAt": "2026-02-11T10:31:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tobr",
+      "tags": []
+    },
+    {
       "id": "e992v5",
       "title": "Officials Claim Drone Incursion Led to Shutdown of El Paso Airport",
       "description": "Score: 350 | Comments: 551 | Posted by edward",
@@ -289,6 +333,17 @@
       "tags": []
     },
     {
+      "id": "b0cc0",
+      "title": "I'm building a clarity-first language (compiles to C++)",
+      "description": "Score: 12 | Comments: 9 | Posted by hedayet",
+      "url": "https://github.com/taman-islam/rox",
+      "publishedAt": "2026-02-11T04:30:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hedayet",
+      "tags": []
+    },
+    {
       "id": "klcz9m",
       "title": "A simpler way to remove explicit images from Search",
       "description": "Score: 27 | Comments: 17 | Posted by gnabgib",
@@ -297,6 +352,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "gnabgib",
+      "tags": []
+    },
+    {
+      "id": "77091y",
+      "title": "5,300-year-old 'bow drill' rewrites story of ancient Egyptian tools",
+      "description": "Score: 94 | Comments: 14 | Posted by geox",
+      "url": "https://www.ncl.ac.uk/press/articles/latest/2026/02/ancientegyptiandrillbit/",
+      "publishedAt": "2026-02-11T04:12:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "geox",
       "tags": []
     },
     {
