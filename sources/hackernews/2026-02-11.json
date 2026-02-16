@@ -47,6 +47,17 @@
       "tags": []
     },
     {
+      "id": "ka5wut",
+      "title": "Language a Wood for Thought: Susan Howe's Work",
+      "description": "Score: 22 | Comments: 1 | Posted by apollinaire",
+      "url": "https://www.poetryfoundation.org/articles/1769037/language-a-wood-for-thought",
+      "publishedAt": "2026-02-11T23:07:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "apollinaire",
+      "tags": []
+    },
+    {
       "id": "9wgdkt",
       "title": "Discord/Twitch/Snapchat age verification bypass",
       "description": "Score: 586 | Comments: 237 | Posted by JustSkyfall",
@@ -77,6 +88,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "DamonHD",
+      "tags": []
+    },
+    {
+      "id": "rs6ip3",
+      "title": "Transforming a Clojure Database into a Library with GraalVM Native Image and FFI",
+      "description": "Score: 35 | Comments: 2 | Posted by PaulHoule",
+      "url": "https://avelino.run/chrondb-polyglot-ffi-clojure-graalvm-native-image/",
+      "publishedAt": "2026-02-11T21:03:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "PaulHoule",
       "tags": []
     },
     {
@@ -212,6 +234,17 @@
       "tags": []
     },
     {
+      "id": "yzz4tv",
+      "title": "I Love Board Games: A Personal Obsession Explained by Psychology",
+      "description": "Score: 36 | Comments: 23 | Posted by Propolice",
+      "url": "https://www.thesswnetwork.com/post/why-i-love-board-games-a-personal-obsession-explained-by-psychology",
+      "publishedAt": "2026-02-11T17:13:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Propolice",
+      "tags": []
+    },
+    {
       "id": "8jaopa",
       "title": "Ireland rolls out basic income scheme for artists",
       "description": "Score: 218 | Comments: 220 | Posted by abe94",
@@ -245,6 +278,17 @@
       "tags": []
     },
     {
+      "id": "1t0j84",
+      "title": "Databases should contain their own Metadata – Use SQL Everywhere",
+      "description": "Score: 11 | Comments: 3 | Posted by matheusalmeida",
+      "url": "https://floedb.ai/blog/databases-should-contain-their-own-metadata-instrumentation-in-floe",
+      "publishedAt": "2026-02-11T15:36:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "matheusalmeida",
+      "tags": []
+    },
+    {
       "id": "2k2ckt",
       "title": "MDST Engine: run GGUF models in the browser with WebGPU/WASM",
       "description": "Score: 4 | Comments: 2 | Posted by vmirnv",
@@ -264,6 +308,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "CuriouslyC",
+      "tags": []
+    },
+    {
+      "id": "jk8kog",
+      "title": "Why does aluminum foil have one shiny side and one with a matte finish?",
+      "description": "Score: 8 | Comments: 12 | Posted by surprisetalk",
+      "url": "https://bookofjoe2.blogspot.com/2025/10/why-does-aluminum-foil-have-one-shiny.html",
+      "publishedAt": "2026-02-11T13:35:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
       "tags": []
     },
     {
@@ -319,6 +374,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "tardibear",
+      "tags": []
+    },
+    {
+      "id": "irgpom",
+      "title": "Benchmarking Automatic Typesetting Systems",
+      "description": "Score: 12 | Comments: 4 | Posted by patrickg",
+      "url": "https://news.speedata.de/2026/02/10/typesetting-benchmark/",
+      "publishedAt": "2026-02-11T06:20:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "patrickg",
       "tags": []
     },
     {

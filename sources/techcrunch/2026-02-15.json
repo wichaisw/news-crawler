@@ -1,0 +1,116 @@
+{
+  "date": "2026-02-15",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3093271",
+      "title": "OpenClaw creator Peter Steinberger joins OpenAI",
+      "description": "OpenAI said OpenClaw will live on as an open source project.",
+      "url": "https://techcrunch.com/2026/02/15/openclaw-creator-peter-steinberger-joins-openai/",
+      "publishedAt": "2026-02-15T22:28:02.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3093266",
+      "title": "Longtime NPR host David Greene sues Google over NotebookLM voice",
+      "description": "The longtime host of NPR’s “Morning Edition,” is suing Google, alleging that the male podcast voice in the company’s NotebookLM tool is based on him.",
+      "url": "https://techcrunch.com/2026/02/15/longtime-npr-host-david-greene-sues-google-over-notebooklm-voice/",
+      "publishedAt": "2026-02-15T22:07:51.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3093256",
+      "title": "Anthropic and the Pentagon are reportedly arguing over Claude usage",
+      "description": "The apparent issue: whether Claude can be used for mass domestic surveillance and autonomous weapons.",
+      "url": "https://techcrunch.com/2026/02/15/anthropic-and-the-pentagon-are-reportedly-arguing-over-claude-usage/",
+      "publishedAt": "2026-02-15T21:11:28.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3093246",
+      "title": "India has 100M weekly active ChatGPT users, Sam Altman says",
+      "description": "OpenAI CEO Sam Altman says India has the largest number of student users of ChatGPT worldwide.",
+      "url": "https://techcrunch.com/2026/02/15/india-has-100m-weekly-active-chatgpt-users-sam-altman-says/",
+      "publishedAt": "2026-02-15T18:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Jagmeet Singh",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3093083",
+      "title": "The enterprise AI land grab is on. Glean is building the layer beneath the interface.",
+      "description": "In this week's episode of the Equity podcast, Glean CEO Arvind Jain explains the company's shift from enterprise search tool to middleware layer for",
+      "url": "https://techcrunch.com/2026/02/15/the-enterprise-ai-land-grab-is-on-glean-is-building-the-layer-beneath-the-interface/",
+      "publishedAt": "2026-02-15T17:30:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Rebecca Bellan",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3093020",
+      "title": "TechCrunch Mobility: Rivian’s savior",
+      "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "url": "https://techcrunch.com/2026/02/15/techcrunch-mobility-rivians-savior/",
+      "publishedAt": "2026-02-15T17:05:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Kirsten Korosec",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3093240",
+      "title": "What the Epstein files reveal about EV startups and Silicon Valley",
+      "description": "Will the Epstein revelations lead to broader fallout in Silicon Valley?",
+      "url": "https://techcrunch.com/2026/02/15/what-the-epstein-files-reveal-about-ev-startups-and-silicon-valley/",
+      "publishedAt": "2026-02-15T16:54:12.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3091907",
+      "title": "How to get into a16z’s super-competitive Speedrun startup accelerator program",
+      "description": "TechCrunch spoke to a16z partner Joshua Lu for some tips on standing out for the Speedrun program.",
+      "url": "https://techcrunch.com/2026/02/15/how-to-get-into-a16zs-super-competitive-speedrun-startup-accelerator-program/",
+      "publishedAt": "2026-02-15T15:53:53.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3093184",
+      "title": "Hollywood isn’t happy about the new Seedance 2.0 video generator",
+      "description": "Hollywood organizations are pushing back against a new AI video model called Seedance 2.0, which they say has quickly become a tool for “blatant”",
+      "url": "https://techcrunch.com/2026/02/15/hollywood-isnt-happy-about-the-new-seedance-2-0-video-generator/",
+      "publishedAt": "2026-02-15T15:41:16.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3093211",
+      "title": "The great computer science exodus (and where students are going instead)",
+      "description": "Students are losing some interest in computer science broadly but gaining interest in AI-specific majors and courses.",
+      "url": "https://techcrunch.com/2026/02/15/the-great-computer-science-exodus-and-where-students-are-going-instead/",
+      "publishedAt": "2026-02-15T08:40:27.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Connie Loizos",
+      "tags": []
+    }
+  ]
+}

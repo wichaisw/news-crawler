@@ -1,0 +1,50 @@
+{
+  "date": "2026-02-16",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "t5j9pj",
+      "title": "Your pet's microchip may now be useless after chip company goes out of business",
+      "description": "Score: 12 | Comments: 9 | Posted by cpeterso",
+      "url": "https://local12.com/news/local/cincinnati-animal-care-shelter-warns-microchips-may-fail-after-major-company-goes-out-of-business-microchip-dog-dogs-pet-pets-animals-registered-online-records-database-lost-missing-save-this-life-shelters-hamilton-county",
+      "publishedAt": "2026-02-16T03:38:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cpeterso",
+      "tags": []
+    },
+    {
+      "id": "2aw51y",
+      "title": "Arm wants a bigger slice of the chip business",
+      "description": "Score: 48 | Comments: 23 | Posted by andsoitis",
+      "url": "https://www.economist.com/business/2026/02/12/arm-wants-a-bigger-slice-of-the-chip-business",
+      "publishedAt": "2026-02-16T02:36:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andsoitis",
+      "tags": []
+    },
+    {
+      "id": "pvgqs4",
+      "title": "Canada Gives U.S. Arms Makers the Cold Shoulder on Military Spending",
+      "description": "Score: 40 | Comments: 6 | Posted by JumpCrisscross",
+      "url": "https://www.nytimes.com/2026/02/15/world/canada/canada-military-spending.html",
+      "publishedAt": "2026-02-16T00:41:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "JumpCrisscross",
+      "tags": []
+    },
+    {
+      "id": "qzol87",
+      "title": "Pink noise reduces REM sleep and may harm sleep quality",
+      "description": "Score: 85 | Comments: 57 | Posted by gnabgib",
+      "url": "https://www.pennmedicine.org/news/pink-noise-reduces-rem-sleep-and-may-harm-sleep-quality",
+      "publishedAt": "2026-02-16T00:35:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gnabgib",
+      "tags": []
+    }
+  ]
+}
