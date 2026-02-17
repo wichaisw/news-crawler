@@ -3,6 +3,83 @@
   "source": "techcrunch",
   "articles": [
     {
+      "id": "https://techcrunch.com/?p=3093323",
+      "title": "Have money, will travel: a16z’s hunt for the next European unicorn",
+      "description": "According to a16z, it has eyes around the world in order to spot companies as early as local funds might.",
+      "url": "https://techcrunch.com/2026/02/16/have-money-will-travel-a16zs-hunt-for-the-next-european-unicorn/",
+      "publishedAt": "2026-02-16T18:53:56.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anna Heim",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3093032",
+      "title": "How Ricursive Intelligence raised $335M at a $4B valuation in 4 months",
+      "description": "The reason why this nascent startup had VCs lining up is the founders.They are so famed in the AI world, everyone tried to hire them.",
+      "url": "https://techcrunch.com/2026/02/16/how-ricursive-intelligence-raised-335m-at-a-4b-valuation-in-4-months/",
+      "publishedAt": "2026-02-16T17:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Julie Bort",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3092892",
+      "title": "Flapping Airplanes on the future of AI: ‘We want to try really radically different things’",
+      "description": "\"We're exploring a different set of tradeoffs.\"",
+      "url": "https://techcrunch.com/2026/02/16/flapping-airplanes-on-the-future-of-ai-we-want-to-try-really-radically-different-things/",
+      "publishedAt": "2026-02-16T14:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Russell Brandom",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3092853",
+      "title": "After all the hype, some AI experts don’t think OpenClaw is all that exciting",
+      "description": "\"From an AI research perspective, this is nothing novel,\" one expert told TechCrunch.",
+      "url": "https://techcrunch.com/2026/02/16/after-all-the-hype-some-ai-experts-dont-think-openclaw-is-all-that-exciting/",
+      "publishedAt": "2026-02-16T13:15:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Amanda Silberling",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3093288",
+      "title": "Fractal Analytics’ muted IPO debut signals persistent AI fears in India",
+      "description": "As India's first AI company to IPO, Fractal Analytics didn't have a stellar first day on the public markets, as enthusiasm for the technology",
+      "url": "https://techcrunch.com/2026/02/16/fractal-analytics-muted-ipo-debut-signals-persistent-ai-fears-in-india/",
+      "publishedAt": "2026-02-16T11:51:25.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Jagmeet Singh",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3093283",
+      "title": "All the important news from the ongoing India AI Impact Summit",
+      "description": "India is hosting a four-day AI Summit this week that will be attended by executives from major AI labs and Big Tech, including OpenAI, Anthropic,",
+      "url": "https://techcrunch.com/2026/02/16/all-the-important-news-from-the-ongoing-india-ai-summit/",
+      "publishedAt": "2026-02-16T11:20:27.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Ivan Mehta",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3092801",
+      "title": "African defensetech Terra Industries, founded by two Gen Zers, raises additional $22M in a month",
+      "description": "Terra Industries, the African defense company, announced Monday that it had secured an additional $22 million in funding to further expand the",
+      "url": "https://techcrunch.com/2026/02/16/terra-industries-raises-22-million/",
+      "publishedAt": "2026-02-16T08:01:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "tags": []
+    },
+    {
       "id": "https://techcrunch.com/?p=3093187",
       "title": "As AI data centers hit power limits, Peak XV backs Indian startup C2i to fix the bottleneck",
       "description": "C2i has raised $15 million as it tests a grid-to-GPU approach to reducing power losses in AI data centers.",

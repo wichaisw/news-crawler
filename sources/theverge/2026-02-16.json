@@ -1,0 +1,114 @@
+{
+  "date": "2026-02-16",
+  "source": "theverge",
+  "articles": [
+    {
+      "id": "x38drv",
+      "title": "Apple starts testing end-to-end encrypted RCS messages on iPhone",
+      "description": "Apple is starting to test end-to-end encrypted (E2EE) RCS messages with the developer beta of iOS 26.4 released Monday. Apple announced plans last year to support the feature, and once fully available, it will let iPhone and Android users send encrypted RCS messages to each other across platforms. However, with this initial implementation, Apple is [&#8230;]",
+      "url": "https://www.theverge.com/tech/879792/apple-iphone-android-rcs-messages-end-to-end-encrypted",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/DSC01706-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-02-16T20:21:33.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Jay Peters",
+      "tags": []
+    },
+    {
+      "id": "ptnb6e",
+      "title": "Apple’s Podcasts app will let you ‘seamlessly’ switch between audio and video shows",
+      "description": "Apple is upgrading its Podcasts app to let users \"seamlessly\" swap between audio and video podcasts using its HTTP Live Streaming (HLS) technology. While listening to a show, users will be able to switch to a horizontal video version of the podcast and download the video versions of a podcast for offline viewing. By giving [&#8230;]",
+      "url": "https://www.theverge.com/tech/879749/apple-podcasts-video-swap-hls-live-streaming",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23986636/acastro_STK461_03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-02-16T19:14:58.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Jay Peters",
+      "tags": []
+    },
+    {
+      "id": "h4f8zg",
+      "title": "Here are 50 Presidents Day deals actually worth shopping for",
+      "description": "Deals have been admittedly pretty dry since the holidays, but now that February is in full swing, we’re starting to see strong discounts return across a range of categories. In fact, thanks to Valentine’s Day, the Super Bowl, and — as of this week — Presidents Day, retailers are once again offering a slew of [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/875949/best-presidents-day-sales-deals-2026",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25691621/iPad_Mini_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-02-16T16:12:34.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Sheena VasaniBrandon Widder",
+      "tags": []
+    },
+    {
+      "id": "isl1at",
+      "title": "Apple’s doing something on March 4th",
+      "description": "Apple is hosting a \"special Apple experience\" in New York City on Wednesday, March 4th at 9AM ET, instead of at the Apple Park location it typically uses for events. It's also hosting press in the cities of London and Shanghai at the same time. The invitation includes the words \"You're invited\" and an Apple [&#8230;]",
+      "url": "https://www.theverge.com/tech/879671/apple-special-experience-event-march-2026",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK071_APPLE_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-02-16T15:02:41.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Jess Weatherbed",
+      "tags": []
+    },
+    {
+      "id": "49yvz9",
+      "title": "Let's talk about Ring, lost dogs, and the surveillance state",
+      "description": "Today, let’s talk about the camera company Ring, lost dogs, and the surveillance state.&#160; You probably saw this ad during the Super Bowl a couple of weekends ago: Since it aired for a massive audience at the Super Bowl, Ring’s Search Party commercial has become a lightning rod for controversy — it’s easy to see [&#8230;]",
+      "url": "https://www.theverge.com/podcast/879203/ring-search-party-super-bowl-ai-surveillance-privacy-security",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/ring_eye_illo.gif?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-02-16T15:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Nilay Patel",
+      "tags": []
+    },
+    {
+      "id": "2kb4fc",
+      "title": "Switch 2 pricing and next PlayStation release could be impacted by memory shortage",
+      "description": "Sony and Nintendo are reportedly feeling squeezed by RAM shortages as demand from AI data centers takes up an increasing share of memory chip production. In response to rising costs and dwindling chip supplies, Sony is considering pushing back the release of its next PlayStation console \"to 2028 or even 2029,\" according to industry sources [&#8230;]",
+      "url": "https://www.theverge.com/tech/879668/sony-playstation-nintendo-switch-2-console-memory-shortage",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/21991383/vpavic_4261_20201023_0058.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-02-16T13:45:49.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Jess Weatherbed",
+      "tags": []
+    },
+    {
+      "id": "50r4b0",
+      "title": "Samsung ad confirms rumors of a useful S26 ‘privacy display’",
+      "description": "Samsung has released a new advertisement for its upcoming Galaxy S26 launch that all-but confirms rumors of a new display with a built-in privacy mode. Leaked videos show that the feature could be capable of entirely blacking out content from specific apps or parts of the display when viewed at an angle. The new advert [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/879652/samsung-galaxy-s26-privacy-display-ad-flex-magic-pixel",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/DSC09399_processed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-02-16T11:55:50.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Dominic Preston",
+      "tags": []
+    },
+    {
+      "id": "x0klcf",
+      "title": "After spooking Hollywood, ByteDance will tweak safeguards on new AI model",
+      "description": "TikTok creator ByteDance says that it is working to improve safeguards on its new AI video generator after Disney, Paramount, and Hollywood trade groups accused the tool of violating copyright protections. Concerns were raised after hyperrealistic videos generated by the Seedance 2.0 model went viral last week, with the likeness of actors, such as Tom [&#8230;]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/879644/bytedance-seedance-safeguards-ai-video-copyright-infringement",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2221026706.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-02-16T11:29:24.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Jess Weatherbed",
+      "tags": []
+    },
+    {
+      "id": "rv2h2n",
+      "title": "A Star is born",
+      "description": "Two hours before one of the most important live events in Netflix's history, LA's sprawling CBS Radford Studio Center is abuzz with the strangest combination of things. As I walk through one cavernous soundstage on a Tuesday afternoon, I hear multiple people warming up their voices to sing. I pass a man carefully waving a [&#8230;]",
+      "url": "https://www.theverge.com/streaming/879129/netflix-star-search-live",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268353_A_Star_Is_Born_CVirginia3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-02-16T11:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "David Pierce",
+      "tags": []
+    }
+  ]
+}
