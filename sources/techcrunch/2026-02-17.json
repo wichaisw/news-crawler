@@ -1,0 +1,204 @@
+{
+  "date": "2026-02-17",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3093698",
+      "title": "Jack Altman joins Benchmark as GP",
+      "description": "Jack Altman and Benchmark announced today that he would be joining the firm as a general partner.",
+      "url": "https://techcrunch.com/2026/02/17/jack-altman-joins-benchmark-as-gp/",
+      "publishedAt": "2026-02-17T23:54:55.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3093721",
+      "title": "Ford turns to F1 and bounties to build a $30,000 electric truck",
+      "description": "A combination of 3D-printed Lego-like parts, Formula 1 thinking, and a bounty program will help the company hit that target. The team, led by Tesla",
+      "url": "https://techcrunch.com/2026/02/17/ford-turns-to-f1-and-bounties-to-build-a-30000-electric-truck/",
+      "publishedAt": "2026-02-17T23:43:21.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Kirsten Korosec",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3093564",
+      "title": "Meta’s own research found parental supervision doesn’t really help curb teens’ compulsive social media use",
+      "description": "An internal research study at Meta found that parental supervision may not help teens regulate their social media, and teens with trauma are more",
+      "url": "https://techcrunch.com/2026/02/17/metas-own-research-found-parental-supervision-doesnt-really-help-curb-teens-compulsive-social-media-use/",
+      "publishedAt": "2026-02-17T20:45:33.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sarah Perez",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3093595",
+      "title": "Apple is reportedly cooking up a trio of AI wearables",
+      "description": "As the AI hardware space heats up, the iPhone maker has multiple smart products in development.",
+      "url": "https://techcrunch.com/2026/02/17/apple-is-reportedly-cooking-up-a-trio-of-ai-wearables/",
+      "publishedAt": "2026-02-17T20:14:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lucas Ropek",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3093620",
+      "title": "Thrive raises $10B for new fund, its largest yet",
+      "description": "Thrive Capital just raised $10 billion for its new fund -- nearly double the size of its last fund.",
+      "url": "https://techcrunch.com/2026/02/17/thrive-raises-10b-for-new-fund-its-largest-yet/",
+      "publishedAt": "2026-02-17T20:13:12.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3093543",
+      "title": "Climactic launches hybrid fund to get startups through the ‘valley of death’",
+      "description": "The new project, called Material Scale, will initially focus on climate tech startups in the apparel industry.",
+      "url": "https://techcrunch.com/2026/02/17/climactic-launches-hybrid-fund-to-get-startups-through-the-valley-of-death/",
+      "publishedAt": "2026-02-17T18:57:57.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Tim De Chant",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3093500",
+      "title": "Anthropic releases Sonnet 4.6",
+      "description": "Anthropic has released a new version of its midsized Sonnet model, keeping pace with the company's four-month update cycle.",
+      "url": "https://techcrunch.com/2026/02/17/anthropic-releases-sonnet-4-6/",
+      "publishedAt": "2026-02-17T18:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Russell Brandom",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3093487",
+      "title": "Mistral AI buys Koyeb in first acquisition to back its cloud ambitions",
+      "description": "Mistral AI has agreed to buy Koyeb, a Paris-based startup that simplifies AI app deployment at scale and manages the infrastructure behind it.",
+      "url": "https://techcrunch.com/2026/02/17/mistral-ai-buys-koyeb-in-first-acquisition-to-back-its-cloud-ambitions/",
+      "publishedAt": "2026-02-17T17:22:09.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anna Heim",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3093331",
+      "title": "SpaceX vets raise $50M Series A for data center links",
+      "description": "Mesh aims to mass-produce optical transceivers for AI data centers.",
+      "url": "https://techcrunch.com/2026/02/17/spacex-vets-raise-50m-series-a-for-data-center-links/",
+      "publishedAt": "2026-02-17T17:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Tim Fernholz",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3093429",
+      "title": "Running AI models is turning into a memory game",
+      "description": "When we talk about the cost of AI infrastructure, the focus is usually on Nvidia and GPUs -- but memory is an increasingly important part of the",
+      "url": "https://techcrunch.com/2026/02/17/running-ai-models-is-turning-into-a-memory-game/",
+      "publishedAt": "2026-02-17T16:44:14.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Russell Brandom",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3093475",
+      "title": "European Parliament blocks AI on lawmakers’ devices, citing security risks",
+      "description": "EU lawmakers found their government-issued devices were blocked from using the baked-in AI tools, amid fears that sensitive information could turn up",
+      "url": "https://techcrunch.com/2026/02/17/european-parliament-blocks-ai-on-lawmakers-devices-citing-security-risks/",
+      "publishedAt": "2026-02-17T16:30:43.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Zack Whittaker",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3093452",
+      "title": "WordPress.com adds an AI Assistant that can edit, adjust styles, create images, and more",
+      "description": "The feature is designed to work inside the website to understand its content and layout, allowing site owners to make changes with natural language",
+      "url": "https://techcrunch.com/2026/02/17/wordpress-com-adds-an-ai-assistant-that-can-edit-adjust-styles-create-images-and-more/",
+      "publishedAt": "2026-02-17T16:10:44.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sarah Perez",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3092894",
+      "title": "These are the countries moving to ban social media for children",
+      "description": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media,",
+      "url": "https://techcrunch.com/2026/02/17/social-media-ban-children-countries-list/",
+      "publishedAt": "2026-02-17T15:59:38.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Aisha Malik",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3093446",
+      "title": "Amazon Fire TV’s new interface is now rolling out in the US",
+      "description": "Fire TV's new interface simplifies its layout and navigation and adds Alexa+.",
+      "url": "https://techcrunch.com/2026/02/17/amazon-fire-tvs-new-interface-is-now-rolling-out-in-the-u-s/",
+      "publishedAt": "2026-02-17T15:58:43.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sarah Perez",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3093437",
+      "title": "Apple Podcasts is getting an enhanced video experience this spring",
+      "description": "By bringing an enhanced video podcast viewing experience to its app, Apple is aiming to keep users from turning to rival platforms to watch their",
+      "url": "https://techcrunch.com/2026/02/17/apple-podcasts-is-getting-an-enhanced-video-experience-this-spring/",
+      "publishedAt": "2026-02-17T15:06:48.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Aisha Malik",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3093035",
+      "title": "Here are the 17 US-based AI companies that have raised $100M or more in 2026",
+      "description": "Three U.S.-based AI companies raised rounds larger than $1 billion so far in 2026, with 14 others raising rounds of $100 million or more.",
+      "url": "https://techcrunch.com/2026/02/17/here-are-the-17-us-based-ai-companies-that-have-raised-100m-or-more-in-2026/",
+      "publishedAt": "2026-02-17T14:58:09.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Rebecca Szkutak",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3093412",
+      "title": "India bids to attract over $200B in AI infrastructure investment by 2028",
+      "description": "India is ramping up shared AI compute, adding 20,000 GPUs as part of a broader push to attract global AI investment.",
+      "url": "https://techcrunch.com/2026/02/17/india-bids-to-attract-over-200b-in-ai-infrastructure-investment-by-2028/",
+      "publishedAt": "2026-02-17T14:13:54.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Jagmeet Singh",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3093430",
+      "title": "Snapchat launches creator subscriptions in the US",
+      "description": "Snapchat will let creators set their monthly subscription price.",
+      "url": "https://techcrunch.com/2026/02/17/snapchat-launches-creator-subscription-in-the-u-s/",
+      "publishedAt": "2026-02-17T14:07:49.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Ivan Mehta",
+      "tags": []
+    }
+  ]
+}

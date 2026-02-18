@@ -1,0 +1,83 @@
+{
+  "date": "2026-02-18",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "ghw2h0",
+      "title": "Halt and Catch Fire: TV's Best Drama You've Probably Never Heard Of (2021)sceneandheardnu.com",
+      "description": "Score: 276 | Comments: 166 | Posted by walterbell",
+      "url": "https://www.sceneandheardnu.com/content/halt-and-catch-fire",
+      "publishedAt": "2026-02-18T02:28:44.220Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "walterbell",
+      "tags": []
+    },
+    {
+      "id": "ghw2h0",
+      "title": "Halt and Catch Fire: TV's Best Drama You've Probably Never Heard Of (2021)",
+      "description": "Score: 278 | Comments: 167 | Posted by walterbell",
+      "url": "https://www.sceneandheardnu.com/content/halt-and-catch-fire",
+      "publishedAt": "2026-02-18T02:18:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "walterbell",
+      "tags": []
+    },
+    {
+      "id": "dd9xhe",
+      "title": "It's not just you, YouTube is partially down in outage",
+      "description": "Score: 55 | Comments: 4 | Posted by aqeelat",
+      "url": "https://9to5google.com/2026/02/17/youtube-outage-february-2026/",
+      "publishedAt": "2026-02-18T02:00:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "aqeelat",
+      "tags": []
+    },
+    {
+      "id": "gccmq1",
+      "title": "Thousands of CEOs just admitted AI had no impact on employment or productivity",
+      "description": "Score: 318 | Comments: 212 | Posted by virgildotcodes",
+      "url": "https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/",
+      "publishedAt": "2026-02-18T01:40:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "virgildotcodes",
+      "tags": []
+    },
+    {
+      "id": "kd9k0i",
+      "title": "Advice, not control: the role of Remote Assistance in Waymo's operations",
+      "description": "Score: 68 | Comments: 59 | Posted by xnx",
+      "url": "https://waymo.com/blog/?modal=short-advice-not-control-the-role-of-remote-assistance",
+      "publishedAt": "2026-02-18T01:19:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "xnx",
+      "tags": []
+    },
+    {
+      "id": "ulsi29",
+      "title": "Google Public CA is down",
+      "description": "Score: 228 | Comments: 124 | Posted by aloknnikhil",
+      "url": "https://status.pki.goog/incidents/5oJEbcU3ZfMfySTSXXd3",
+      "publishedAt": "2026-02-18T01:05:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "aloknnikhil",
+      "tags": []
+    },
+    {
+      "id": "w32ue0",
+      "title": "Minimal x86 Kernel Zig",
+      "description": "Score: 78 | Comments: 22 | Posted by lopespm",
+      "url": "https://github.com/lopespm/zig-minimal-kernel-x86",
+      "publishedAt": "2026-02-18T00:02:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lopespm",
+      "tags": []
+    }
+  ]
+}
