@@ -1,0 +1,138 @@
+{
+  "date": "2026-02-19",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "c0x45j",
+      "title": "European Tech Alternativeseutechmap.com",
+      "description": "Score: 75 | Comments: 29 | Posted by puppion",
+      "url": "https://eutechmap.com/map",
+      "publishedAt": "2026-02-19T05:28:15.183Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "puppion",
+      "tags": []
+    },
+    {
+      "id": "c0x45j",
+      "title": "European Tech Alternatives",
+      "description": "Score: 75 | Comments: 29 | Posted by puppion",
+      "url": "https://eutechmap.com/map",
+      "publishedAt": "2026-02-19T05:07:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "puppion",
+      "tags": []
+    },
+    {
+      "id": "9k3f8x",
+      "title": "Show HN: A Lisp where each function call runs a Docker container",
+      "description": "Score: 9 | Comments: 4 | Posted by a11ce",
+      "url": "https://github.com/a11ce/docker-lisp",
+      "publishedAt": "2026-02-19T04:19:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "a11ce",
+      "tags": []
+    },
+    {
+      "id": "s94q62",
+      "title": "Ukranian controls Home Assistant over LoRa radio when their power grid goes down",
+      "description": "Score: 38 | Comments: 4 | Posted by switz",
+      "url": "https://old.reddit.com/r/homeassistant/comments/1r8ftc0/i_control_my_home_assistant_over_lora_radio_when/",
+      "publishedAt": "2026-02-19T03:56:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "switz",
+      "tags": []
+    },
+    {
+      "id": "857jfl",
+      "title": "Electrobun v1: Build fast, tiny, and cross-platform desktop apps with TypeScript",
+      "description": "Score: 58 | Comments: 17 | Posted by merlindru",
+      "url": "https://blackboard.sh/blog/electrobun-v1/",
+      "publishedAt": "2026-02-19T03:46:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "merlindru",
+      "tags": []
+    },
+    {
+      "id": "iziax2",
+      "title": "FDA reverses course and will review Moderna's mRNA flu shot, company says",
+      "description": "Score: 18 | Comments: 2 | Posted by CGMthrowaway",
+      "url": "https://www.cnn.com/2026/02/18/health/fda-moderna-mrna-flu-vaccine-reversal",
+      "publishedAt": "2026-02-19T03:16:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "CGMthrowaway",
+      "tags": []
+    },
+    {
+      "id": "ven5p",
+      "title": "Germany's Merz calls for real names on the internet",
+      "description": "Score: 19 | Comments: 8 | Posted by iamnothere",
+      "url": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:260218-99-569905/",
+      "publishedAt": "2026-02-19T02:56:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "iamnothere",
+      "tags": []
+    },
+    {
+      "id": "yzfsf7",
+      "title": "Anthropic officially bans using subscription auth for third party use",
+      "description": "Score: 214 | Comments: 221 | Posted by theahura",
+      "url": "https://code.claude.com/docs/en/legal-and-compliance",
+      "publishedAt": "2026-02-19T02:52:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "theahura",
+      "tags": []
+    },
+    {
+      "id": "9rj7fk",
+      "title": "Step 3.5 Flash: Fast Enough to Think. Reliable Enough to Act",
+      "description": "Score: 34 | Comments: 8 | Posted by kristianp",
+      "url": "https://static.stepfun.com/blog/step-3.5-flash/",
+      "publishedAt": "2026-02-19T02:32:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kristianp",
+      "tags": []
+    },
+    {
+      "id": "okgbuj",
+      "title": "Minecraft Java is switching from OpenGL to Vulkan",
+      "description": "Score: 148 | Comments: 41 | Posted by tuananh",
+      "url": "https://www.gamingonlinux.com/2026/02/minecraft-java-is-switching-from-opengl-to-vulkan-for-the-vibrant-visuals-update/",
+      "publishedAt": "2026-02-19T01:55:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tuananh",
+      "tags": []
+    },
+    {
+      "id": "jnts6",
+      "title": "15 years of FP64 segmentation, and why the Blackwell Ultra breaks the pattern",
+      "description": "Score: 75 | Comments: 18 | Posted by fp64enjoyer",
+      "url": "https://nicolasdickenmann.com/blog/the-great-fp64-divide.html",
+      "publishedAt": "2026-02-19T01:46:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fp64enjoyer",
+      "tags": []
+    },
+    {
+      "id": "ptz3ko",
+      "title": "How AI is affecting productivity and jobs in Europe",
+      "description": "Score: 62 | Comments: 23 | Posted by pseudolus",
+      "url": "https://cepr.org/voxeu/columns/how-ai-affecting-productivity-and-jobs-europe",
+      "publishedAt": "2026-02-19T00:22:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pseudolus",
+      "tags": []
+    }
+  ]
+}

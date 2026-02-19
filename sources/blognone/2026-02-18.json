@@ -3,6 +3,62 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "149791 at https://www.blognone.com",
+      "title": "Sony จดสิทธิบัตรใหม่ เตรียมลดขนาดเกม AAA เหลือแค่ 100MB ด้วยระบบ Asset Streaming",
+      "description": "Sony จดสิทธิบัตรใหม่ เตรียมลดขนาดเกม AAA เหลือแค่ 100MB ด้วยระบบ Asset Streaming Body เว็บไซต์ Tech4Gamers รายงานการค้นพบสิทธิบัตรใบใหม่ของ Sony",
+      "url": "https://www.blognone.com/node/149791",
+      "publishedAt": "2026-02-18T16:42:00.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149792 at https://www.blognone.com",
+      "title": "แอป Gemini เพิ่มฟีเจอร์สร้างเพลงด้วยโมเดล Lyria 3",
+      "description": "แอป Gemini เพิ่มฟีเจอร์สร้างเพลงด้วยโมเดล Lyria 3 Body กูเกิลเพิ่มฟีเจอร์สร้างเพลงในแอป Gemini ด้วย โมเดล Lyria แต่มีข้อจำกัดว่าจะสร้างเพลงได้ทีละ 30",
+      "url": "https://www.blognone.com/node/149792",
+      "publishedAt": "2026-02-18T16:00:21.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149790 at https://www.blognone.com",
+      "title": "นักพัฒนาภาษา Go ขอนักพัฒนาใช้คำสั่ง go fix ปรับโค้ดให้ทันสมัย หลัง AI เอาแต่เขียนโค้ดแบบเก่า",
+      "description": "นักพัฒนาภาษา Go ขอนักพัฒนาใช้คำสั่ง go fix ปรับโค้ดให้ทันสมัย หลัง AI เอาแต่เขียนโค้ดแบบเก่า Body Alan Donovan หนึ่งในทีมงานภาษา Go",
+      "url": "https://www.blognone.com/node/149790",
+      "publishedAt": "2026-02-18T09:01:02.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149789 at https://www.blognone.com",
+      "title": "กูเกิลเปิดตัวอินเทอร์เฟซ Glimmer กึ่งโปร่งแสง สำหรับแว่น Android XR",
+      "description": "กูเกิลเปิดตัวอินเทอร์เฟซ Glimmer กึ่งโปร่งแสง สำหรับแว่น Android XR Body กูเกิลเปิดตัวชุดอินเทอร์เฟซแบบใหม่ชื่อ Glimmer สำหรับใช้งานบนแว่นตาอัจฉริยะ",
+      "url": "https://www.blognone.com/node/149789",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2026/2026-02/glimmer-do-dont.webp",
+      "publishedAt": "2026-02-18T08:38:34.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149788 at https://www.blognone.com",
+      "title": "UI ก็ไม่ต้องสร้างเอง Claude Code รองรับการแปลงออกมาเป็นไฟล์ Figma",
+      "description": "UI ก็ไม่ต้องสร้างเอง Claude Code รองรับการแปลงออกมาเป็นไฟล์ Figma Body Figma ประกาศความร่วมมือกับ Anthropic ให้เราสั่ง Claude Code สร้าง UI",
+      "url": "https://www.blognone.com/node/149788",
+      "publishedAt": "2026-02-18T06:40:48.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "149785 at https://www.blognone.com",
       "title": "Facebook Messenger เตรียมปิดการใช้งานผ่าน Messenger.com เมษายนนี้ รีไดเร็กไปที่เว็บ Facebook แทน",
       "description": "Facebook Messenger เตรียมปิดการใช้งานผ่าน Messenger.com เมษายนนี้ รีไดเร็กไปที่เว็บ Facebook แทน Body Facebook อัปเดตข้อมูลในหน้าความช่วยเหลือ",

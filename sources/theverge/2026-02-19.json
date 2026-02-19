@@ -1,0 +1,30 @@
+{
+  "date": "2026-02-19",
+  "source": "theverge",
+  "articles": [
+    {
+      "id": "rakofb",
+      "title": "Mark Zuckerberg and his Ray-Ban entourage have their day in court",
+      "description": "Meta CEO Mark Zuckerberg entered a downtown Los Angeles courthouse in largely the same way as all the attorneys, reporters, and advocates who'd come to watch his landmark trial testimony, but with one notable difference: he was flanked by an entourage that appeared to be wearing Meta's Ray-Ban smart glasses. To get to the courtroom, [&#8230;]",
+      "url": "https://www.theverge.com/policy/881210/mark-zuckerberg-meta-ceo-testimony-filters",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_4_F.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-02-19T04:13:17.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Lauren Feiner",
+      "tags": []
+    },
+    {
+      "id": "reb92z",
+      "title": "The RAM crunch could kill products and even entire companies, memory exec admits",
+      "description": "Phison is one of the leading makers of controller chips for SSDs and other flash memory devices - and CEO Pua Khein-Seng has now become a leading voice for just how bad the RAM shortage might get. Companies may need to cut back their product lines in the second half of 2026, and some companies [&#8230;]",
+      "url": "https://www.theverge.com/tech/881062/ram-shortage-kill-products-companies-phison-ceo-interview",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKS523_RAM_SHORTAGE_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-02-19T00:32:30.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Sean Hollister",
+      "tags": []
+    }
+  ]
+}

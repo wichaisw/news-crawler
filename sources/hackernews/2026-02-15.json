@@ -14,6 +14,17 @@
       "tags": []
     },
     {
+      "id": "o2pmyx",
+      "title": "Visualizing the ARM64 Instruction Set (2024)",
+      "description": "Score: 5 | Comments: 0 | Posted by userbinator",
+      "url": "https://zyedidia.github.io/blog/posts/6-arm64/",
+      "publishedAt": "2026-02-15T23:20:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "userbinator",
+      "tags": []
+    },
+    {
       "id": "p8hekd",
       "title": "Error payloads in Zig",
       "description": "Score: 66 | Comments: 24 | Posted by srcreigh",
@@ -102,6 +113,17 @@
       "tags": []
     },
     {
+      "id": "ik30lf",
+      "title": "The true history of the Minotaur: what archaeology reveals",
+      "description": "Score: 41 | Comments: 12 | Posted by joebig",
+      "url": "https://www.nationalgeographic.fr/histoire/la-veritable-histoire-du-minotaure-ce-que-revele-archeologie-recherche-verification",
+      "publishedAt": "2026-02-15T18:42:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "joebig",
+      "tags": []
+    },
+    {
       "id": "68n7ap",
       "title": "Show HN: Microgpt is a GPT you can visualize in the browser",
       "description": "Score: 156 | Comments: 13 | Posted by b44",
@@ -132,6 +154,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "bikenaga",
+      "tags": []
+    },
+    {
+      "id": "lwl5io",
+      "title": "How to Choose Between Hindley-Milner and Bidirectional Typing",
+      "description": "Score: 76 | Comments: 9 | Posted by thunderseethe",
+      "url": "https://thunderseethe.dev/posts/how-to-choose-between-hm-and-bidir/",
+      "publishedAt": "2026-02-15T18:07:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thunderseethe",
       "tags": []
     },
     {
@@ -234,6 +267,17 @@
       "tags": []
     },
     {
+      "id": "9jtfyr",
+      "title": "Making a font with ligatures to display thirteenth-century monk numerals",
+      "description": "Score: 74 | Comments: 8 | Posted by a7b3fa",
+      "url": "https://digitalseams.com/blog/making-a-font-with-9999-ligatures-to-display-thirteenth-century-monk-numerals",
+      "publishedAt": "2026-02-15T15:44:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "a7b3fa",
+      "tags": []
+    },
+    {
       "id": "bqclyh",
       "title": "Gwtar: A static efficient single-file HTML format",
       "description": "Score: 211 | Comments: 70 | Posted by theblazehen",
@@ -278,6 +322,28 @@
       "tags": []
     },
     {
+      "id": "105bzd",
+      "title": "Show HN: Respectlytics – Open-source, privacy-first mobile analytics (MIT+AGPL)",
+      "description": "Score: 16 | Comments: 1 | Posted by cesncn",
+      "url": "https://github.com/respectlytics/respectlytics",
+      "publishedAt": "2026-02-15T13:14:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cesncn",
+      "tags": []
+    },
+    {
+      "id": "q14l87",
+      "title": "Roads to Rome (2015)",
+      "description": "Score: 22 | Comments: 4 | Posted by robin_reala",
+      "url": "https://benedikt-gross.de/projects/roads-to-rome/",
+      "publishedAt": "2026-02-15T12:42:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "robin_reala",
+      "tags": []
+    },
+    {
       "id": "4ydusk",
       "title": "Amazon's Ring and Google's Nest reveal the severity of U.S. surveillance state",
       "description": "Score: 771 | Comments: 564 | Posted by mikece",
@@ -319,6 +385,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "miloschwartz",
+      "tags": []
+    },
+    {
+      "id": "jbl718",
+      "title": "A Pokémon of a Different Color",
+      "description": "Score: 89 | Comments: 10 | Posted by Risse",
+      "url": "https://matthew.verive.me/blog/color/",
+      "publishedAt": "2026-02-15T10:40:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Risse",
+      "tags": []
+    },
+    {
+      "id": "9stdas",
+      "title": "Learning Lean: Part 1",
+      "description": "Score: 102 | Comments: 12 | Posted by vinhnx",
+      "url": "https://rkirov.github.io/posts/lean1/",
+      "publishedAt": "2026-02-15T10:20:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vinhnx",
       "tags": []
     },
     {
