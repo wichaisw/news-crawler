@@ -25,6 +25,17 @@
       "tags": []
     },
     {
+      "id": "txbqt5",
+      "title": "My 1981 adventure game is now a multimedia extravaganza",
+      "description": "Score: 86 | Comments: 29 | Posted by vontzy",
+      "url": "https://technologizer.com/home/2026/02/16/arctic-adventure-2026/",
+      "publishedAt": "2026-02-16T22:35:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vontzy",
+      "tags": []
+    },
+    {
       "id": "7uccme",
       "title": "Rise of the Triforce",
       "description": "Score: 186 | Comments: 19 | Posted by max-m",
@@ -135,6 +146,17 @@
       "tags": []
     },
     {
+      "id": "f2opb6",
+      "title": "A word processor from 1990s for Atari ST/TOS is still supported by enthusiasts",
+      "description": "Score: 113 | Comments: 48 | Posted by muzzy19",
+      "url": "https://tempus-word.de/en/index",
+      "publishedAt": "2026-02-16T18:44:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "muzzy19",
+      "tags": []
+    },
+    {
       "id": "or7aq0",
       "title": "14-year-old Miles Wu folded origami pattern that holds 10k times its own weight",
       "description": "Score: 540 | Comments: 104 | Posted by bookofjoe",
@@ -143,6 +165,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "bookofjoe",
+      "tags": []
+    },
+    {
+      "id": "w8avhu",
+      "title": "Type-based alias analysis in the Toy Optimizer",
+      "description": "Score: 17 | Comments: 1 | Posted by chunkles",
+      "url": "https://bernsteinbear.com/blog/toy-tbaa/",
+      "publishedAt": "2026-02-16T18:37:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "chunkles",
       "tags": []
     },
     {
@@ -187,6 +220,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "surprisetalk",
+      "tags": []
+    },
+    {
+      "id": "b82w6b",
+      "title": "Don't Trust the Salt: AI Summarization, Multilingual Safety, and LLM Guardrails",
+      "description": "Score: 196 | Comments: 79 | Posted by benbreen",
+      "url": "https://royapakzad.substack.com/p/multilingual-llm-evaluation-to-guardrails",
+      "publishedAt": "2026-02-16T17:57:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "benbreen",
+      "tags": []
+    },
+    {
+      "id": "s5gfa2",
+      "title": "Zero downtime migrations at petabyte scale (2024)",
+      "description": "Score: 100 | Comments: 23 | Posted by Ozzie_osman",
+      "url": "https://planetscale.com/blog/zero-downtime-migrations-at-petabyte-scale",
+      "publishedAt": "2026-02-16T17:35:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Ozzie_osman",
       "tags": []
     },
     {
@@ -256,6 +311,17 @@
       "tags": []
     },
     {
+      "id": "xnnm9u",
+      "title": "Lindenmayer.jl: Defining recursive patterns in Julia",
+      "description": "Score: 39 | Comments: 2 | Posted by WillMorr",
+      "url": "https://cormullion.github.io/Lindenmayer.jl/stable/",
+      "publishedAt": "2026-02-16T14:49:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "WillMorr",
+      "tags": []
+    },
+    {
       "id": "6znbwj",
       "title": "What your Bluetooth devices reveal",
       "description": "Score: 366 | Comments: 142 | Posted by ssgodderidge",
@@ -275,6 +341,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "speckx",
+      "tags": []
+    },
+    {
+      "id": "aweukl",
+      "title": "The Chinese periodic table goes hard [video]",
+      "description": "Score: 38 | Comments: 1 | Posted by surprisetalk",
+      "url": "https://www.youtube.com/watch?v=8ol7DsPnHcE",
+      "publishedAt": "2026-02-16T13:16:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
       "tags": []
     },
     {
@@ -344,6 +421,17 @@
       "tags": []
     },
     {
+      "id": "lpv2he",
+      "title": "Defer Available in GCC and Clang",
+      "description": "Score: 29 | Comments: 8 | Posted by r4um",
+      "url": "https://gustedt.wordpress.com/2026/02/15/defer-available-in-gcc-and-clang/",
+      "publishedAt": "2026-02-16T05:27:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "r4um",
+      "tags": []
+    },
+    {
       "id": "t5j9pj",
       "title": "Your pet's microchip may now be useless after chip company goes out of business",
       "description": "Score: 12 | Comments: 9 | Posted by cpeterso",
@@ -407,6 +495,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "gnabgib",
+      "tags": []
+    },
+    {
+      "id": "cz9bfc",
+      "title": "A beginner's guide to split keyboards",
+      "description": "Score: 78 | Comments: 93 | Posted by thehaikuza",
+      "url": "https://www.justinmklam.com/posts/2026/02/beginners-guide-split-keyboards/",
+      "publishedAt": "2026-02-16T00:31:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thehaikuza",
       "tags": []
     }
   ]

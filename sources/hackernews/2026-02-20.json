@@ -1,0 +1,116 @@
+{
+  "date": "2026-02-20",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "hipbc7",
+      "title": "Mystery donor gives Japanese city $3.6M in gold bars to fix water system",
+      "description": "Score: 34 | Comments: 12 | Posted by tartoran",
+      "url": "https://www.bbc.com/news/articles/c3ew5jlqz87o",
+      "publishedAt": "2026-02-20T04:27:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tartoran",
+      "tags": []
+    },
+    {
+      "id": "d9p1tn",
+      "title": "FBI 'Asset' Helped Run a Dark Web Site That Sold Fentanyl-Laced Drugs for Years",
+      "description": "Score: 9 | Comments: 3 | Posted by jbegley",
+      "url": "https://www.wired.com/story/an-fbi-asset-helped-run-a-dark-web-site-that-sold-fentanyl-laced-drugs-for-years/",
+      "publishedAt": "2026-02-20T04:24:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jbegley",
+      "tags": []
+    },
+    {
+      "id": "7k7b5a",
+      "title": "Consistency diffusion language models: Up to 14x faster, no quality loss",
+      "description": "Score: 38 | Comments: 5 | Posted by zagwdt",
+      "url": "https://www.together.ai/blog/consistency-diffusion-language-models",
+      "publishedAt": "2026-02-20T04:15:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zagwdt",
+      "tags": []
+    },
+    {
+      "id": "ng5m8g",
+      "title": "Micron Is Spending $200B to Break the AI Memory Bottleneck",
+      "description": "Score: 7 | Comments: 3 | Posted by walterbell",
+      "url": "https://www.wsj.com/tech/micron-is-spending-200-billion-to-break-the-ai-memory-bottleneck-a4cc74a1",
+      "publishedAt": "2026-02-20T03:58:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "walterbell",
+      "tags": []
+    },
+    {
+      "id": "se321m",
+      "title": "Microsoft's new 10k-year data storage medium: glass",
+      "description": "Score: 23 | Comments: 7 | Posted by vinhnx",
+      "url": "https://arstechnica.com/science/2026/02/microsofts-new-10000-year-data-storage-medium-glass/",
+      "publishedAt": "2026-02-20T03:57:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vinhnx",
+      "tags": []
+    },
+    {
+      "id": "yrtwn7",
+      "title": "An AI Agent Published a Hit Piece on Me – The Operator Came Forward",
+      "description": "Score: 258 | Comments: 200 | Posted by scottshambaugh",
+      "url": "https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/",
+      "publishedAt": "2026-02-20T03:05:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "scottshambaugh",
+      "tags": []
+    },
+    {
+      "id": "n5a83o",
+      "title": "China confirms visa-free travel for UK and Canadian nationals",
+      "description": "Score: 15 | Comments: 3 | Posted by 1659447091",
+      "url": "https://www.bbc.com/news/articles/c875d3d3x34o",
+      "publishedAt": "2026-02-20T02:47:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "1659447091",
+      "tags": []
+    },
+    {
+      "id": "r5jk2z",
+      "title": "Pi for Excel: AI sidebar add-in for Excel, powered by Pi",
+      "description": "Score: 32 | Comments: 5 | Posted by rahimnathwani",
+      "url": "https://github.com/tmustier/pi-for-excel",
+      "publishedAt": "2026-02-20T02:20:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rahimnathwani",
+      "tags": []
+    },
+    {
+      "id": "bzuh9s",
+      "title": "An ARM Homelab Server, or a Minisforum MS-R1 Review",
+      "description": "Score: 48 | Comments: 40 | Posted by neelc",
+      "url": "https://sour.coffee/2026/02/20/an-arm-homelab-server-or-a-minisforum-ms-r1-review/",
+      "publishedAt": "2026-02-20T01:33:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "neelc",
+      "tags": []
+    },
+    {
+      "id": "3l3syh",
+      "title": "MuMu Player (NetEase) silently runs 17 reconnaissance commands every 30 minutes",
+      "description": "Score: 196 | Comments: 79 | Posted by interpidused",
+      "url": "https://gist.github.com/interpiduser5/547d8a7baec436f24b7cce89dd4ae1ea",
+      "publishedAt": "2026-02-20T01:28:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "interpidused",
+      "tags": []
+    }
+  ]
+}

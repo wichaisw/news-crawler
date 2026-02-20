@@ -1,0 +1,39 @@
+{
+  "date": "2026-02-20",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3094816",
+      "title": "Ali Partovi’s Neo looks to upend the accelerator model with low-dilution terms",
+      "description": "Neo's new Residency program invests $750,000 in an uncapped SAFE for startups and provides a $40,000 no-strings-attached grant for college students.",
+      "url": "https://techcrunch.com/2026/02/19/ali-partovis-neo-looks-to-upend-the-accelerator-model-with-low-dilution-terms/",
+      "publishedAt": "2026-02-20T06:13:55.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Marina Temkin",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3094765",
+      "title": "Google’s new Gemini Pro model has record benchmark scores — again",
+      "description": "Gemini 3.1 Pro promises a Google LLM capable of handling more complex forms of work.",
+      "url": "https://techcrunch.com/2026/02/19/googles-new-gemini-pro-model-has-record-benchmark-scores-again/",
+      "publishedAt": "2026-02-20T00:55:22.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lucas Ropek",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3094604",
+      "title": "Nvidia deepens early-stage push into India’s AI startup ecosystem",
+      "description": "Nvidia is working with investors, nonprofits, and venture firms to build earlier ties with India's fast-growing AI founder ecosystem.",
+      "url": "https://techcrunch.com/2026/02/19/nvidia-deepens-early-stage-push-into-indias-ai-startup-ecosystem/",
+      "publishedAt": "2026-02-20T00:30:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Jagmeet Singh",
+      "tags": []
+    }
+  ]
+}

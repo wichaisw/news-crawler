@@ -102,6 +102,17 @@
       "tags": []
     },
     {
+      "id": "uzjarf",
+      "title": "Voith Schneider Propeller",
+      "description": "Score: 126 | Comments: 33 | Posted by Luc",
+      "url": "https://en.wikipedia.org/wiki/Voith_Schneider_Propeller",
+      "publishedAt": "2026-02-15T20:22:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Luc",
+      "tags": []
+    },
+    {
       "id": "g5tht3",
       "title": "Show HN: VOOG – Moog-style polyphonic synthesizer in Python with tkinter GUI",
       "description": "Score: 76 | Comments: 24 | Posted by gpasquero",

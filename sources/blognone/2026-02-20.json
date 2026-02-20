@@ -1,0 +1,83 @@
+{
+  "date": "2026-02-20",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "149808 at https://www.blognone.com",
+      "title": "AWS รองรับการทำ Virtualization ซ้อนใน VM ไม่ต้องซื้อเครื่อง Bare Metal",
+      "description": "AWS รองรับการทำ Virtualization ซ้อนใน VM ไม่ต้องซื้อเครื่อง Bare Metal Body AWS เพิ่มฟีเจอร์ nested virtualization สำหรับการแบ่งเครื่องใช้งาน",
+      "url": "https://www.blognone.com/node/149808",
+      "publishedAt": "2026-02-20T04:29:37.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149807 at https://www.blognone.com",
+      "title": "Western Digital เปิดตัวแบรนด์ G-Drive ใช้แทน SanDisk Professional",
+      "description": "Western Digital เปิดตัวแบรนด์ G-Drive ใช้แทน SanDisk Professional Body Western Digital ประกาศใช้แบรนด์ G-Drive โลโก้ตัว G สีฟ้า",
+      "url": "https://www.blognone.com/node/149807",
+      "publishedAt": "2026-02-20T02:40:30.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149806 at https://www.blognone.com",
+      "title": "Chrome เพิ่มฟีเจอร์ Split View แบ่งครึ่งจอ, เขียนและไฮไลท์ PDF ได้แล้ว",
+      "description": "Chrome เพิ่มฟีเจอร์ Split View แบ่งครึ่งจอ, เขียนและไฮไลท์ PDF ได้แล้ว Body Chrome เวอร์ชันเดสก์ท็อป เพิ่มฟีเจอร์ใหญ่ 3 อย่างดังนี้ Split View",
+      "url": "https://www.blognone.com/node/149806",
+      "publishedAt": "2026-02-20T02:29:20.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149805 at https://www.blognone.com",
+      "title": "Let's Encrypt เตรียมรองรับการยืนยันเจ้าของโดเมน DNS-PERSIST-01 เปิดทางใช้งานภายในองค์กรที่บนเซิร์ฟเวอร์ที่เข้าจากอินเทอร์เน็ตไม่ได้",
+      "description": "Let's Encrypt เตรียมรองรับการยืนยันเจ้าของโดเมน DNS-PERSIST-01 เปิดทางใช้งานภายในองค์กรที่บนเซิร์ฟเวอร์ที่เข้าจากอินเทอร์เน็ตไม่ได้ Body Let's",
+      "url": "https://www.blognone.com/node/149805",
+      "publishedAt": "2026-02-20T01:41:31.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149804 at https://www.blognone.com",
+      "title": "Meta ปรับโลกเสมือน Horizon Worlds เป็นเกมมือถือ แยกจากแว่น Quest VR",
+      "description": "Meta ปรับโลกเสมือน Horizon Worlds เป็นเกมมือถือ แยกจากแว่น Quest VR Body Meta ประกาศแผนการปรับทิศทางของบริการโลกเสมือน Horizon Worlds",
+      "url": "https://www.blognone.com/node/149804",
+      "publishedAt": "2026-02-20T01:02:12.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149803 at https://www.blognone.com",
+      "title": "ซีอีโอ OpenAI และ Anthropic ปฏิเสธไม่ยอมจับมือกันในงาน India AI Impact Summit",
+      "description": "ซีอีโอ OpenAI และ Anthropic ปฏิเสธไม่ยอมจับมือกันในงาน India AI Impact Summit Body เมื่อวานนี้ รัฐบาลอินเดียจัดงานสัมมนาใหญ่ระดับนานาชาติ India AI",
+      "url": "https://www.blognone.com/node/149803",
+      "publishedAt": "2026-02-20T00:36:43.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149802 at https://www.blognone.com",
+      "title": "Sony ปิด Bluepoint สตูดิโอที่รีเมคเกม Demon’s Souls ใน PS5",
+      "description": "Sony ปิด Bluepoint สตูดิโอที่รีเมคเกม Demon’s Souls ใน PS5 Body โซนี่ตัดสินใจปิด Bluepoint สตูดิโอที่มีผลงานเด่นในการรีเมคเกมลง PlayStation",
+      "url": "https://www.blognone.com/node/149802",
+      "publishedAt": "2026-02-20T00:19:10.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}

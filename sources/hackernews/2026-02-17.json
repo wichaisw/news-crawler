@@ -278,6 +278,17 @@
       "tags": []
     },
     {
+      "id": "wk6guv",
+      "title": "FreeCAD is an open-source parametric 3D modeler",
+      "description": "Score: 3 | Comments: 0 | Posted by doener",
+      "url": "https://www.freecad.org/index.php",
+      "publishedAt": "2026-02-17T12:57:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "doener",
+      "tags": []
+    },
+    {
       "id": "ansyig",
       "title": "Is Show HN dead? No, but it's drowning",
       "description": "Score: 458 | Comments: 377 | Posted by acnops",
@@ -319,6 +330,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "nomdep",
+      "tags": []
+    },
+    {
+      "id": "xygoi6",
+      "title": "Almost Every infrastructure decision I endorse or regret after 4 years",
+      "description": "Score: 142 | Comments: 71 | Posted by Meetvelde",
+      "url": "https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/",
+      "publishedAt": "2026-02-17T03:23:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Meetvelde",
       "tags": []
     },
     {
