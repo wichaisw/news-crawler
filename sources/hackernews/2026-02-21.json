@@ -1,0 +1,94 @@
+{
+  "date": "2026-02-21",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "ck3d5l",
+      "title": "Colorado moves age checks from websites to operating systems",
+      "description": "Score: 5 | Comments: 0 | Posted by iamnothere",
+      "url": "https://www.biometricupdate.com/202602/colorado-moves-age-checks-from-websites-to-operating-systems",
+      "publishedAt": "2026-02-21T06:01:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "iamnothere",
+      "tags": []
+    },
+    {
+      "id": "md539b",
+      "title": "Show HN: Script Snap – Extract code from videos",
+      "description": "Score: 5 | Comments: 0 | Posted by liumw1203",
+      "url": "https://script-snap.com/",
+      "publishedAt": "2026-02-21T04:39:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "liumw1203",
+      "tags": []
+    },
+    {
+      "id": "vxc3wy",
+      "title": "Meta Deployed AI and It Is Killing Our Agency",
+      "description": "Score: 13 | Comments: 3 | Posted by zenincognito",
+      "url": "https://mojodojo.io/blog/meta-is-systematically-killing-our-agency/",
+      "publishedAt": "2026-02-21T04:29:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zenincognito",
+      "tags": []
+    },
+    {
+      "id": "d5hgm8",
+      "title": "OpenAI Employees Raised Alarms About Canada Shooting Suspect Months Ago",
+      "description": "Score: 15 | Comments: 3 | Posted by caminante",
+      "url": "https://www.wsj.com/us-news/law/openai-employees-raised-alarms-about-canada-shooting-suspect-months-ago-b585df62",
+      "publishedAt": "2026-02-21T03:09:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "caminante",
+      "tags": []
+    },
+    {
+      "id": "a44auo",
+      "title": "Excessive token usage in Claude Code",
+      "description": "Score: 52 | Comments: 13 | Posted by behnamoh",
+      "url": "https://github.com/anthropics/claude-code/issues/16856",
+      "publishedAt": "2026-02-21T02:40:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "behnamoh",
+      "tags": []
+    },
+    {
+      "id": "99pf1i",
+      "title": "What Is OAuth?",
+      "description": "Score: 81 | Comments: 18 | Posted by cratermoon",
+      "url": "https://leaflet.pub/p/did:plc:3vdrgzr2zybocs45yfhcr6ur/3mfd2oxx5v22b",
+      "publishedAt": "2026-02-21T01:33:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cratermoon",
+      "tags": []
+    },
+    {
+      "id": "cy4kqs",
+      "title": "Cord: Coordinating Trees of AI Agents",
+      "description": "Score: 56 | Comments: 21 | Posted by gfortaine",
+      "url": "https://www.june.kim/cord",
+      "publishedAt": "2026-02-21T01:27:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gfortaine",
+      "tags": []
+    },
+    {
+      "id": "bfp1g2",
+      "title": "ATAboy is a USB adapter for legacy CHS only style IDE (PATA) drives",
+      "description": "Score: 11 | Comments: 2 | Posted by zdw",
+      "url": "https://github.com/redruM0381/ATAboy",
+      "publishedAt": "2026-02-21T00:18:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    }
+  ]
+}

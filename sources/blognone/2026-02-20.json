@@ -3,6 +3,62 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "149816 at https://www.blognone.com",
+      "title": "Microsoft ยืนยันปัญหา Copilot อ่านอีเมลผู้ใช้งานที่ติดป้ายกำกับ Confidential - ออกแพตช์แก้ไขแล้ว",
+      "description": "Microsoft ยืนยันปัญหา Copilot อ่านอีเมลผู้ใช้งานที่ติดป้ายกำกับ Confidential - ออกแพตช์แก้ไขแล้ว Body",
+      "url": "https://www.blognone.com/node/149816",
+      "publishedAt": "2026-02-20T13:51:54.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149815 at https://www.blognone.com",
+      "title": "Google รายงานสถิติความปลอดภัย Google Play ปีที่ผ่านมาปฏิเสธคำขอแอปขึ้นสโตร์ไปมากกว่า 1.75 ล้านแอป",
+      "description": "Google รายงานสถิติความปลอดภัย Google Play ปีที่ผ่านมาปฏิเสธคำขอแอปขึ้นสโตร์ไปมากกว่า 1.75 ล้านแอป Body กูเกิลเผยแพร่รายงานด้านความปลอดภัยของ Android",
+      "url": "https://www.blognone.com/node/149815",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2026/2026-02/img_5790.png",
+      "publishedAt": "2026-02-20T10:36:43.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149813 at https://www.blognone.com",
+      "title": "กูเกิลออก Pomelli Photoshoot สร้างภาพถ่ายสินค้าแบบมืออาชีพด้วย AI",
+      "description": "กูเกิลออก Pomelli Photoshoot สร้างภาพถ่ายสินค้าแบบมืออาชีพด้วย AI Body Google Labs ออกบริการแนวทดลองชื่อ Pomelli Photoshoot เป็นการใช้ AI",
+      "url": "https://www.blognone.com/node/149813",
+      "publishedAt": "2026-02-20T09:59:57.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149812 at https://www.blognone.com",
+      "title": "Pokemon FireRed และ LeafGreen เตรียมลง Nintendo Switch วันที่ 27 กุมภาพันธ์นี้",
+      "description": "Pokemon FireRed และ LeafGreen เตรียมลง Nintendo Switch วันที่ 27 กุมภาพันธ์นี้ Body นินเทนโดนำเกม Pokemon FireRed Version และ Pokemon LeafGreen",
+      "url": "https://www.blognone.com/node/149812",
+      "publishedAt": "2026-02-20T08:02:22.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149810 at https://www.blognone.com",
+      "title": "[ไม่ยืนยัน] NVIDIA เจรจาลงทุนใน OpenAI เพิ่มเติมอีก 3 หมื่นล้านดอลลาร์",
+      "description": "[ไม่ยืนยัน] NVIDIA เจรจาลงทุนใน OpenAI เพิ่มเติมอีก 3 หมื่นล้านดอลลาร์ Body CNBC ยืนยันแหล่งข่าวที่เกี่ยวข้องว่า NVIDIA กำลังเจรจาเพื่อลงทุนใน OpenAI",
+      "url": "https://www.blognone.com/node/149810",
+      "publishedAt": "2026-02-20T06:31:23.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "149808 at https://www.blognone.com",
       "title": "AWS รองรับการทำ Virtualization ซ้อนใน VM ไม่ต้องซื้อเครื่อง Bare Metal",
       "description": "AWS รองรับการทำ Virtualization ซ้อนใน VM ไม่ต้องซื้อเครื่อง Bare Metal Body AWS เพิ่มฟีเจอร์ nested virtualization สำหรับการแบ่งเครื่องใช้งาน",

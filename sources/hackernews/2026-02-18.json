@@ -102,6 +102,17 @@
       "tags": []
     },
     {
+      "id": "8n84kr",
+      "title": "Microsoft team creates 'revolutionary' data storage system that lasts millennia",
+      "description": "Score: 15 | Comments: 6 | Posted by gnabgib",
+      "url": "https://www.nature.com/articles/d41586-026-00502-2",
+      "publishedAt": "2026-02-18T20:12:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gnabgib",
+      "tags": []
+    },
+    {
       "id": "nashug",
       "title": "R3forth: A concatenative language derived from ColorForth",
       "description": "Score: 74 | Comments: 10 | Posted by tosh",
@@ -154,6 +165,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jfantl",
+      "tags": []
+    },
+    {
+      "id": "5urls4",
+      "title": "Reproducible and traceable configuration for Conan C and C++ package manager",
+      "description": "Score: 10 | Comments: 2 | Posted by ibobev",
+      "url": "https://blog.conan.io/cpp/conan/configuration/reproducibility/lockfile/2026/02/17/Reproducible-Configuration-Conan.html",
+      "publishedAt": "2026-02-18T18:04:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
       "tags": []
     },
     {
@@ -275,6 +297,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "vermaden",
+      "tags": []
+    },
+    {
+      "id": "6axdp3",
+      "title": "Index, Count, Offset, Size",
+      "description": "Score: 55 | Comments: 12 | Posted by ingve",
+      "url": "https://tigerbeetle.com/blog/2026-02-16-index-count-offset-size/",
+      "publishedAt": "2026-02-18T08:20:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingve",
       "tags": []
     },
     {
@@ -407,6 +440,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "lopespm",
+      "tags": []
+    },
+    {
+      "id": "mm1wew",
+      "title": "The true story behind the Toronto mystery tunnel",
+      "description": "Score: 56 | Comments: 11 | Posted by mhb",
+      "url": "https://macleans.ca/society/elton-mcdonald-and-the-incredible-true-story-behind-the-toronto-mystery-tunnel/",
+      "publishedAt": "2026-02-18T00:01:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mhb",
       "tags": []
     }
   ]

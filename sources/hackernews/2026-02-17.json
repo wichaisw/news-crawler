@@ -289,6 +289,17 @@
       "tags": []
     },
     {
+      "id": "6adghv",
+      "title": "A chatbot's worst enemy is page refresh",
+      "description": "Score: 54 | Comments: 13 | Posted by zknill",
+      "url": "https://zknill.io/posts/chatbots-worst-enemy-is-page-refresh/",
+      "publishedAt": "2026-02-17T11:47:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zknill",
+      "tags": []
+    },
+    {
       "id": "ansyig",
       "title": "Is Show HN dead? No, but it's drowning",
       "description": "Score: 458 | Comments: 377 | Posted by acnops",
@@ -308,6 +319,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "to3k",
+      "tags": []
+    },
+    {
+      "id": "f8hzq8",
+      "title": "SwiftForth IDE for Windows, Linux, macOS",
+      "description": "Score: 13 | Comments: 2 | Posted by tosh",
+      "url": "https://www.forth.com/swiftforth/",
+      "publishedAt": "2026-02-17T08:55:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tosh",
+      "tags": []
+    },
+    {
+      "id": "1hd8z1",
+      "title": "How to Review an AUR Package",
+      "description": "Score: 64 | Comments: 11 | Posted by exploraz",
+      "url": "https://bertptrs.nl/2026/01/30/how-to-review-an-aur-package.html",
+      "publishedAt": "2026-02-17T07:34:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "exploraz",
       "tags": []
     },
     {
