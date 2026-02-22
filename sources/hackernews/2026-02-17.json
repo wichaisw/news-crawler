@@ -91,6 +91,17 @@
       "tags": []
     },
     {
+      "id": "naylws",
+      "title": "Scientists discover recent tectonic activity on the moon",
+      "description": "Score: 38 | Comments: 2 | Posted by bookmtn",
+      "url": "https://phys.org/news/2026-02-scientists-tectonic-moon.html",
+      "publishedAt": "2026-02-17T19:13:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bookmtn",
+      "tags": []
+    },
+    {
       "id": "dtwnwk",
       "title": "Claude Sonnet 4.6anthropic.com",
       "description": "Score: 1014 | Comments: 898 | Posted by adocomplete",
@@ -278,6 +289,17 @@
       "tags": []
     },
     {
+      "id": "bxyzi2",
+      "title": "Lean 4: How the theorem prover works and why it's the new competitive edge in AI",
+      "description": "Score: 131 | Comments: 60 | Posted by tesserato",
+      "url": "https://venturebeat.com/ai/lean4-how-the-theorem-prover-works-and-why-its-the-new-competitive-edge-in",
+      "publishedAt": "2026-02-17T12:58:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tesserato",
+      "tags": []
+    },
+    {
       "id": "wk6guv",
       "title": "FreeCAD is an open-source parametric 3D modeler",
       "description": "Score: 3 | Comments: 0 | Posted by doener",
@@ -289,6 +311,17 @@
       "tags": []
     },
     {
+      "id": "4p1nln",
+      "title": "Permacomputing",
+      "description": "Score: 127 | Comments: 31 | Posted by tosh",
+      "url": "https://wiki.xxiivv.com/site/permacomputing.html",
+      "publishedAt": "2026-02-17T12:40:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tosh",
+      "tags": []
+    },
+    {
       "id": "6adghv",
       "title": "A chatbot's worst enemy is page refresh",
       "description": "Score: 54 | Comments: 13 | Posted by zknill",
@@ -297,6 +330,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "zknill",
+      "tags": []
+    },
+    {
+      "id": "fewavb",
+      "title": "Two Bits Are Better Than One: making bloom filters 2x more accurate",
+      "description": "Score: 52 | Comments: 6 | Posted by matheusalmeida",
+      "url": "https://floedb.ai/blog/two-bits-are-better-than-one-making-bloom-filters-2x-more-accurate",
+      "publishedAt": "2026-02-17T11:01:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "matheusalmeida",
       "tags": []
     },
     {
@@ -407,6 +451,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ivewonyoung",
+      "tags": []
+    },
+    {
+      "id": "1rdpq3",
+      "title": "Finding forall-exists Hyperbugs using Symbolic Execution",
+      "description": "Score: 29 | Comments: 2 | Posted by todsacerdoti",
+      "url": "https://dl.acm.org/doi/full/10.1145/3689761",
+      "publishedAt": "2026-02-17T01:57:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
       "tags": []
     },
     {

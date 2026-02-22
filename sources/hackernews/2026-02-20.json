@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "apo939",
+      "title": "Be wary of Bluesky",
+      "description": "Score: 284 | Comments: 185 | Posted by kevinak",
+      "url": "https://kevinak.se/blog/be-wary-of-bluesky",
+      "publishedAt": "2026-02-20T23:35:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kevinak",
+      "tags": []
+    },
+    {
       "id": "sap82k",
       "title": "Lexega Turns SQL into Signals",
       "description": "Score: 15 | Comments: 8 | Posted by whoami4041",
@@ -33,6 +44,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "latexr",
+      "tags": []
+    },
+    {
+      "id": "1qot74",
+      "title": "A16z partner says that the theory that we’ll vibe code everything is wrong",
+      "description": "Score: 114 | Comments: 173 | Posted by paulpauper",
+      "url": "https://www.aol.com/articles/a16z-partner-says-theory-well-050150534.html",
+      "publishedAt": "2026-02-20T22:47:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "paulpauper",
       "tags": []
     },
     {
@@ -220,6 +242,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ramimac",
+      "tags": []
+    },
+    {
+      "id": "l4cpya",
+      "title": "“Playmakers,” reviewed: The race to give every child a toy",
+      "description": "Score: 11 | Comments: 0 | Posted by fortran77",
+      "url": "https://www.newyorker.com/magazine/2026/02/16/playmakers-the-jewish-entrepreneurs-who-created-the-toy-industry-in-america-michael-kimmel-book-review",
+      "publishedAt": "2026-02-20T14:14:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fortran77",
       "tags": []
     },
     {

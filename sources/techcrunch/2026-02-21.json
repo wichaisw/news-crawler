@@ -3,6 +3,72 @@
   "source": "techcrunch",
   "articles": [
     {
+      "id": "https://techcrunch.com/?p=3095339",
+      "title": "Sam Altman would like remind you that humans use a lot of energy, too",
+      "description": "\"It also takes a lot of energy to train a human.\"",
+      "url": "https://techcrunch.com/2026/02/21/sam-altman-would-like-remind-you-that-humans-use-a-lot-of-energy-too/",
+      "publishedAt": "2026-02-21T21:38:01.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3095336",
+      "title": "Wikipedia blacklists Archive.today after alleged DDoS attack",
+      "description": "Wikipedia editors have decided to remove all links to Archive.today, a web archiving service that they said has been linked to more than 695,000",
+      "url": "https://techcrunch.com/2026/02/21/wikipedia-blacklists-archive-today-after-alleged-ddos-attack/",
+      "publishedAt": "2026-02-21T20:20:15.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3095331",
+      "title": "Microsoft’s new gaming CEO vows not to flood the ecosystem with ‘endless AI slop’",
+      "description": "Is Microsoft's gaming division doubling down on AI?",
+      "url": "https://techcrunch.com/2026/02/21/microsofts-new-gaming-ceo-vows-not-to-flood-the-ecosystem-with-endless-ai-slop/",
+      "publishedAt": "2026-02-21T17:41:27.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3094718",
+      "title": "Google VP warns that two types of AI startups may not survive",
+      "description": "As generative AI evolves, a Google VP warns that LLM wrappers and AI aggregators face mounting pressure, with shrinking margins and limited",
+      "url": "https://techcrunch.com/2026/02/21/google-vp-warns-that-two-types-of-ai-startups-may-not-survive/",
+      "publishedAt": "2026-02-21T16:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Rebecca Bellan",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3095314",
+      "title": "OpenAI debated calling police about suspected Canadian shooter’s chats",
+      "description": "Jesse Van Rootselaar's descriptions of gun violence were flagged by tools that monitor ChatGPT for misuse.",
+      "url": "https://techcrunch.com/2026/02/21/openai-debated-calling-police-about-suspected-canadian-shooters-chats/",
+      "publishedAt": "2026-02-21T15:25:44.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Tim Fernholz",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3095290",
+      "title": "7 days until ticket prices rise for TechCrunch Disrupt 2026",
+      "description": "Lowest ticket prices to TechCrunch Disrupt 2026 end February 27. Up to $680 off individual passes and up to 30% off group passes. Register before",
+      "url": "https://techcrunch.com/2026/02/21/7-days-until-ticket-prices-rise-for-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-02-21T15:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "TechCrunch Events",
+      "tags": []
+    },
+    {
       "id": "https://techcrunch.com/?p=3095084",
       "title": "India’s Sarvam launches Indus AI chat app as competition heats up",
       "description": "Sarvam's Indus chat app is currently available in beta.",
