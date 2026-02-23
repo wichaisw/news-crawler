@@ -1,0 +1,116 @@
+{
+  "date": "2026-02-23",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "7tlo6r",
+      "title": "Top '28 Dems retreat on AI – sign of rising backlash",
+      "description": "Score: 6 | Comments: 0 | Posted by 1vuio0pswjnm7",
+      "url": "https://www.axios.com/2026/02/22/democrats-2028-retreat-ai-data-centers",
+      "publishedAt": "2026-02-23T05:36:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "1vuio0pswjnm7",
+      "tags": []
+    },
+    {
+      "id": "ryvbnx",
+      "title": "Pinterest is drowning in a sea of AI slop and auto-moderation",
+      "description": "Score: 11 | Comments: 1 | Posted by trinsic2",
+      "url": "https://www.404media.co/pinterest-is-drowning-in-a-sea-of-ai-slop-and-auto-moderation/",
+      "publishedAt": "2026-02-23T04:03:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "trinsic2",
+      "tags": []
+    },
+    {
+      "id": "e5n68p",
+      "title": "Freemediaheckyeah",
+      "description": "Score: 122 | Comments: 29 | Posted by con",
+      "url": "https://fmhy.net/",
+      "publishedAt": "2026-02-23T03:35:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "con",
+      "tags": []
+    },
+    {
+      "id": "u7cpo5",
+      "title": "The JavaScript Oxidation Compiler",
+      "description": "Score: 86 | Comments: 18 | Posted by modinfo",
+      "url": "https://oxc.rs/",
+      "publishedAt": "2026-02-23T02:49:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "modinfo",
+      "tags": []
+    },
+    {
+      "id": "oo6v4o",
+      "title": "Agentic Software Engineering Book",
+      "description": "Score: 60 | Comments: 31 | Posted by bananaflag",
+      "url": "https://agenticse-book.github.io/",
+      "publishedAt": "2026-02-23T02:41:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bananaflag",
+      "tags": []
+    },
+    {
+      "id": "euubpt",
+      "title": "Aqua: A CLI message tool for AI agents",
+      "description": "Score: 36 | Comments: 17 | Posted by lyricat",
+      "url": "https://github.com/quailyquaily/aqua",
+      "publishedAt": "2026-02-23T02:07:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lyricat",
+      "tags": []
+    },
+    {
+      "id": "k3b7hi",
+      "title": "$30B for laptops yielded a generation less cognitively capable than parents",
+      "description": "Score: 163 | Comments: 146 | Posted by walterbell",
+      "url": "https://www.yahoo.com/news/articles/u-spent-30-billion-ditch-110200869.html",
+      "publishedAt": "2026-02-23T01:54:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "walterbell",
+      "tags": []
+    },
+    {
+      "id": "3m3qpl",
+      "title": "JIT: A header-only, cross-platform JIT compiler library in C",
+      "description": "Score: 8 | Comments: 0 | Posted by linkdd",
+      "url": "https://github.com/abdimoallim/jit",
+      "publishedAt": "2026-02-23T01:38:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "linkdd",
+      "tags": []
+    },
+    {
+      "id": "1x3ooq",
+      "title": "The power of daily rituals (2021)",
+      "description": "Score: 46 | Comments: 28 | Posted by andsoitis",
+      "url": "https://www.bbc.com/future/article/20210914-how-rituals-help-us-to-deal-with-uncertainty-and-stress",
+      "publishedAt": "2026-02-23T01:23:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andsoitis",
+      "tags": []
+    },
+    {
+      "id": "lw3cnt",
+      "title": "Redefining the Software Engineering Profession for AI",
+      "description": "Score: 6 | Comments: 0 | Posted by dnw",
+      "url": "https://dl.acm.org/doi/10.1145/3779312",
+      "publishedAt": "2026-02-23T00:12:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dnw",
+      "tags": []
+    }
+  ]
+}

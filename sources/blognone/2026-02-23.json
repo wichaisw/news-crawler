@@ -1,0 +1,83 @@
+{
+  "date": "2026-02-23",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "149835 at https://www.blognone.com",
+      "title": "กูเกิลเริ่มแบนบัญชี AI Pro/Ultra หากนำไปใช้ OpenClaw",
+      "description": "กูเกิลเริ่มแบนบัญชี AI Pro/Ultra หากนำไปใช้ OpenClaw Body ลูกค้า Google AI จำนวนหนึ่งรายงานว่าบัญชี Google AI Pro/Ultra ถูกจำกัดการใช้งาน",
+      "url": "https://www.blognone.com/node/149835",
+      "publishedAt": "2026-02-23T05:45:30.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149834 at https://www.blognone.com",
+      "title": "Seekster ประกาศยุติการให้บริการ วันที่ 1 มีนาคม เป็นต้นไป",
+      "description": "Seekster ประกาศยุติการให้บริการ วันที่ 1 มีนาคม เป็นต้นไป Body Seekster แพลตฟอร์มสำหรับค้นหาแม่บ้านทำความสะอาดและช่างซ่อมแอร์ ประกาศยุติการให้บริการ",
+      "url": "https://www.blognone.com/node/149834",
+      "publishedAt": "2026-02-23T05:23:51.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149833 at https://www.blognone.com",
+      "title": "TAALAS ฝังโมเดล Llama 3.1 8B ลงชิปโดยตรง อัตราการตอบสูงถึง 16,960 token/s",
+      "description": "TAALAS ฝังโมเดล Llama 3.1 8B ลงชิปโดยตรง อัตราการตอบสูงถึง 16,960 token/s Body TAALAS บริษัทออกแบบชิปจากแคนาดา สาธิตชิป Taalas HC1",
+      "url": "https://www.blognone.com/node/149833",
+      "publishedAt": "2026-02-23T04:26:33.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149832 at https://www.blognone.com",
+      "title": "[ลือ] อินเทลตั้งทีม Unified Core อาจเลิกใช้ระบบ P-core และ E-core แยกกัน",
+      "description": "[ลือ] อินเทลตั้งทีม Unified Core อาจเลิกใช้ระบบ P-core และ E-core แยกกัน Body เว็บไซต์ Wccftech รายงานข่าวว่าทิศทางการพัฒนาซีพียูของอินเทล",
+      "url": "https://www.blognone.com/node/149832",
+      "publishedAt": "2026-02-23T04:06:13.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149831 at https://www.blognone.com",
+      "title": "[ลือ] พีซีที่ใช้ชิป SoC ของ NVIDIA เปิดตัวครึ่งแรก 2026, มีทั้งซีพียู MediaTek และ Intel",
+      "description": "[ลือ] พีซีที่ใช้ชิป SoC ของ NVIDIA เปิดตัวครึ่งแรก 2026, มีทั้งซีพียู MediaTek และ Intel Body Wall Street Journal รายงานข่าวไม่เป็นทางการว่า",
+      "url": "https://www.blognone.com/node/149831",
+      "publishedAt": "2026-02-23T03:39:24.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149830 at https://www.blognone.com",
+      "title": "Sam Altman บอกถ้ามองว่า AI ใช้พลังงานมหาศาล คนหนึ่งคนเติบโตขึ้นมาก็ใช้พลังงานมากเช่นกัน",
+      "description": "Sam Altman บอกถ้ามองว่า AI ใช้พลังงานมหาศาล คนหนึ่งคนเติบโตขึ้นมาก็ใช้พลังงานมากเช่นกัน Body ยังคงอยู่กับ Sam Altman ซีอีโอ OpenAI ในอินเดีย",
+      "url": "https://www.blognone.com/node/149830",
+      "publishedAt": "2026-02-23T00:21:11.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149829 at https://www.blognone.com",
+      "title": "Tencent ปิดสตูดิโอเกม TiMi Montreal ที่แคนาดา หลังเปิดดำเนินงานไม่ถึง 5 ปี",
+      "description": "Tencent ปิดสตูดิโอเกม TiMi Montreal ที่แคนาดา หลังเปิดดำเนินงานไม่ถึง 5 ปี Body Tencent ตัดสินใจปิด TiMi Montreal สาขาของสตูดิโอพัฒนาเกมมือถือ TiMi",
+      "url": "https://www.blognone.com/node/149829",
+      "publishedAt": "2026-02-23T00:02:58.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}
