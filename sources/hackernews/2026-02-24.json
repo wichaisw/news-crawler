@@ -1,0 +1,127 @@
+{
+  "date": "2026-02-24",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "t4443c",
+      "title": "Firefox 148 Launches with AI Kill Switch Feature and More Enhancements",
+      "description": "Score: 18 | Comments: 0 | Posted by shaunpud",
+      "url": "https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/",
+      "publishedAt": "2026-02-24T05:47:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "shaunpud",
+      "tags": []
+    },
+    {
+      "id": "vo4uzy",
+      "title": "Show HN: enveil – hide your .env secrets from prAIng eyes",
+      "description": "Score: 9 | Comments: 4 | Posted by parkaboy",
+      "url": "https://github.com/GreatScott/enveil",
+      "publishedAt": "2026-02-24T05:04:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "parkaboy",
+      "tags": []
+    },
+    {
+      "id": "93cms2",
+      "title": "Intel XeSS 3: expanded support for Core Ultra/Core Ultra 2 and Arc A, B series",
+      "description": "Score: 12 | Comments: 1 | Posted by nateb2022",
+      "url": "https://www.intel.com/content/www/us/en/download/785597/intel-arc-graphics-windows.html",
+      "publishedAt": "2026-02-24T04:04:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nateb2022",
+      "tags": []
+    },
+    {
+      "id": "kvmr2n",
+      "title": "The Weird OS Built Around a Database [video]",
+      "description": "Score: 7 | Comments: 1 | Posted by surprisetalk",
+      "url": "https://www.youtube.com/watch?v=pWZBQMRmW7k",
+      "publishedAt": "2026-02-24T03:51:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
+      "id": "1z2iol",
+      "title": "Terence Tao, at 8 years old (1984) [pdf]gwern.net",
+      "description": "Score: 157 | Comments: 29 | Posted by gurjeet",
+      "url": "https://gwern.net/doc/iq/high/smpy/1984-clements.pdf",
+      "publishedAt": "2026-02-24T03:27:29.275Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gurjeet",
+      "tags": []
+    },
+    {
+      "id": "b5lhkn",
+      "title": "Blood test boosts Alzheimer's diagnosis accuracy to 94.5%, clinical study shows",
+      "description": "Score: 163 | Comments: 47 | Posted by wglb",
+      "url": "https://medicalxpress.com/news/2026-02-blood-boosts-alzheimer-diagnosis-accuracy.html",
+      "publishedAt": "2026-02-24T03:10:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wglb",
+      "tags": []
+    },
+    {
+      "id": "1zdt65",
+      "title": "Show HN: X86CSS – An x86 CPU emulator written in CSS",
+      "description": "Score: 72 | Comments: 18 | Posted by rebane2001",
+      "url": "https://lyra.horse/x86css/",
+      "publishedAt": "2026-02-24T02:27:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rebane2001",
+      "tags": []
+    },
+    {
+      "id": "xr0yaz",
+      "title": "NIST Seeking Public Comment on AI Agent Security (Deadline: March 9, 2026)",
+      "description": "Score: 42 | Comments: 9 | Posted by ascarola",
+      "url": "https://www.federalregister.gov/documents/2026/01/08/2026-00206/request-for-information-regarding-security-considerations-for-artificial-intelligence-agents",
+      "publishedAt": "2026-02-24T01:31:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ascarola",
+      "tags": []
+    },
+    {
+      "id": "rum54c",
+      "title": "Iowa farmers are leading the fight for repair",
+      "description": "Score: 78 | Comments: 21 | Posted by gnabgib",
+      "url": "https://www.ifixit.com/News/115722/iowa-farmers-are-leading-the-fight-for-repair",
+      "publishedAt": "2026-02-24T01:09:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gnabgib",
+      "tags": []
+    },
+    {
+      "id": "nhctt1",
+      "title": "Show HN: Steerling-8B, a language model that can explain any token it generates",
+      "description": "Score: 102 | Comments: 13 | Posted by adebayoj",
+      "url": "https://www.guidelabs.ai/post/steerling-8b-base-model-release/",
+      "publishedAt": "2026-02-24T00:38:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "adebayoj",
+      "tags": []
+    },
+    {
+      "id": "hr2qv4",
+      "title": "Shatner is making an album with 35 metal icons",
+      "description": "Score: 153 | Comments: 67 | Posted by mhb",
+      "url": "https://www.guitarworld.com/artists/guitarists/william-shatner-announces-all-star-metal-album",
+      "publishedAt": "2026-02-24T00:33:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mhb",
+      "tags": []
+    }
+  ]
+}

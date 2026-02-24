@@ -223,6 +223,17 @@
       "tags": []
     },
     {
+      "id": "sg9z62",
+      "title": "Benchmarks for concurrent hash map implementations in Go",
+      "description": "Score: 92 | Comments: 12 | Posted by platzhirsch",
+      "url": "https://github.com/puzpuzpuz/go-concurrent-map-bench",
+      "publishedAt": "2026-02-22T18:28:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "platzhirsch",
+      "tags": []
+    },
+    {
       "id": "osxym7",
       "title": "Fresh File Explorer – VS Code extension for navigating recent work",
       "description": "Score: 85 | Comments: 24 | Posted by frehu",

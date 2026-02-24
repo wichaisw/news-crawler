@@ -1,0 +1,39 @@
+{
+  "date": "2026-02-24",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3095724",
+      "title": "Stripe, PayPal Ventures bet on India’s Xflow to fix cross-border B2B payments",
+      "description": "Stripe and PayPal Ventures have participated in Xflow's $16.6 million round that gives it a post-money valuation of $85 million.",
+      "url": "https://techcrunch.com/2026/02/23/stripe-paypal-ventures-bet-on-indias-xflow-to-fix-cross-border-b2b-payments/",
+      "publishedAt": "2026-02-24T05:30:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Jagmeet Singh",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3095915",
+      "title": "A Meta AI security researcher said an OpenClaw agent ran amok on her inbox",
+      "description": "The viral X post from an AI security researcher reads like satire. But it's really a word of warning about what can go wrong when handing tasks to an",
+      "url": "https://techcrunch.com/2026/02/23/a-meta-ai-security-researcher-said-an-openclaw-agent-ran-amok-on-her-inbox/",
+      "publishedAt": "2026-02-24T00:57:14.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Julie Bort",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3095897",
+      "title": "Tesla’s battle with the California Department of Motor Vehicles isn’t over after all",
+      "description": "Tesla has filed a lawsuit against the California DMV in the ongoing battle around Autopilot.",
+      "url": "https://techcrunch.com/2026/02/23/teslas-battle-with-the-california-department-of-motor-vehicles-isnt-over-after-all/",
+      "publishedAt": "2026-02-24T00:36:12.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Kirsten Korosec",
+      "tags": []
+    }
+  ]
+}

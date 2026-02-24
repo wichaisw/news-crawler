@@ -1,0 +1,61 @@
+{
+  "date": "2026-02-24",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "149844 at https://www.blognone.com",
+      "title": "Anthropic บอก Claude Code สามารถแกะโค้ด COBOL เพื่อการปรับปรุงระบบเป็นภาษาสมัยใหม่ได้ง่ายขึ้น",
+      "description": "Anthropic บอก Claude Code สามารถแกะโค้ด COBOL เพื่อการปรับปรุงระบบเป็นภาษาสมัยใหม่ได้ง่ายขึ้น Body Anthropic โพสต์บทความนำเสนอความสามารถของ Claude",
+      "url": "https://www.blognone.com/node/149844",
+      "publishedAt": "2026-02-24T02:18:59.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149845 at https://www.blognone.com",
+      "title": "Seamus Blackley บิดาแห่ง Xbox พยากรณ์ ไมโครซอฟท์จะถอนตัวจากธุรกิจเกม",
+      "description": "Seamus Blackley บิดาแห่ง Xbox พยากรณ์ ไมโครซอฟท์จะถอนตัวจากธุรกิจเกม Body เว็บไซต์ GamesBeat มีบทสัมภาษณ์ Seamus Blackley \"บิดาแห่ง Xbox\"",
+      "url": "https://www.blognone.com/node/149845",
+      "publishedAt": "2026-02-24T02:18:34.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149843 at https://www.blognone.com",
+      "title": "Uber ซื้อกิจการแอปจองที่จอดรถ SpotHero",
+      "description": "Uber ซื้อกิจการแอปจองที่จอดรถ SpotHero Body Uber ประกาศซื้อกิจการ SpotHero แอปจองที่จอดรถซึ่งมีข้อมูลมากกว่า 13,000",
+      "url": "https://www.blognone.com/node/149843",
+      "publishedAt": "2026-02-24T02:04:34.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149842 at https://www.blognone.com",
+      "title": "OpenAI เปิดตัว Frontier แพลตฟอร์ม AI ฝั่งองค์กร, ดึงบริษัทที่ปรึกษาชื่อดังเป็นพันธมิตร",
+      "description": "OpenAI เปิดตัว Frontier แพลตฟอร์ม AI ฝั่งองค์กร, ดึงบริษัทที่ปรึกษาชื่อดังเป็นพันธมิตร Body OpenAI ประกาศตั้งกลุ่ม Frontier Alliances",
+      "url": "https://www.blognone.com/node/149842",
+      "publishedAt": "2026-02-24T01:40:23.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149841 at https://www.blognone.com",
+      "title": "Anthropic เผยถูกสามบริษัท AI จีน ดึงข้อมูลและความสามารถไปฝึกโมเดล AI รวมกว่า 16 ล้านครั้ง",
+      "description": "Anthropic เผยถูกสามบริษัท AI จีน ดึงข้อมูลและความสามารถไปฝึกโมเดล AI รวมกว่า 16 ล้านครั้ง Body Anthropic เปิดเผยว่าโมเดลปัญญาประดิษฐ์ Claude",
+      "url": "https://www.blognone.com/node/149841",
+      "publishedAt": "2026-02-24T00:14:33.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}

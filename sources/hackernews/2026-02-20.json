@@ -102,6 +102,17 @@
       "tags": []
     },
     {
+      "id": "5882g4",
+      "title": "Lords of the Ring",
+      "description": "Score: 28 | Comments: 2 | Posted by lermontov",
+      "url": "https://harpers.org/archive/2026/03/lords-of-the-ring-joshua-hunt-cultural-politics-sumo-wrestling/",
+      "publishedAt": "2026-02-20T21:05:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lermontov",
+      "tags": []
+    },
+    {
       "id": "vk350s",
       "title": "OpenScan",
       "description": "Score: 132 | Comments: 5 | Posted by joebig",
@@ -289,6 +300,17 @@
       "tags": []
     },
     {
+      "id": "99l2x4",
+      "title": "What is f(x) ≤ g(x) + O(1)? Inequalities With Asymptotics",
+      "description": "Score: 37 | Comments: 28 | Posted by ibobev",
+      "url": "https://jamesoswald.dev/posts/bigoinequality/",
+      "publishedAt": "2026-02-20T13:55:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
+      "tags": []
+    },
+    {
       "id": "ijjrff",
       "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
       "description": "Score: 703 | Comments: 177 | Posted by lairv",
@@ -308,6 +330,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jimishol",
+      "tags": []
+    },
+    {
+      "id": "4aji62",
+      "title": "The Lighthouse: How extreme isolation transforms the body and mind (2020)",
+      "description": "Score: 77 | Comments: 23 | Posted by nixass",
+      "url": "https://www.newscientist.com/article/2231732-the-lighthouse-how-extreme-isolation-transforms-the-body-and-mind/",
+      "publishedAt": "2026-02-20T13:33:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nixass",
       "tags": []
     },
     {
@@ -363,6 +396,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "Lwrless",
+      "tags": []
+    },
+    {
+      "id": "avc798",
+      "title": "Generalized Sequential Probability Ratio Test for Families of Hypotheses [pdf]",
+      "description": "Score: 29 | Comments: 5 | Posted by luu",
+      "url": "https://sites.stat.columbia.edu/jcliu/paper/GSPRT_SQA3.pdf",
+      "publishedAt": "2026-02-20T07:59:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "luu",
       "tags": []
     },
     {
