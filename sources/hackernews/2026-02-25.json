@@ -1,0 +1,72 @@
+{
+  "date": "2026-02-25",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "8ln0ww",
+      "title": "Tech Firms Aren't Just Encouraging Their Workers to Use AI. They're Enforcing It",
+      "description": "Score: 20 | Comments: 2 | Posted by 1vuio0pswjnm7",
+      "url": "https://www.wsj.com/tech/ai/tech-firms-arent-just-encouraging-their-workers-to-use-ai-theyre-enforcing-it-d43ebf84",
+      "publishedAt": "2026-02-25T04:58:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "1vuio0pswjnm7",
+      "tags": []
+    },
+    {
+      "id": "jh2s4l",
+      "title": "Cl-kawa: Scheme on Java on Common Lispgithub.com/atgreen",
+      "description": "Score: 13 | Comments: 0 | Posted by varjag",
+      "url": "https://github.com/atgreen/cl-kawa",
+      "publishedAt": "2026-02-25T04:29:36.178Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "varjag",
+      "tags": []
+    },
+    {
+      "id": "v86y39",
+      "title": "What Happened to Fry's Electronics",
+      "description": "Score: 58 | Comments: 60 | Posted by jnord",
+      "url": "https://dfarq.homeip.net/what-happened-to-frys-electronics/",
+      "publishedAt": "2026-02-25T03:55:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jnord",
+      "tags": []
+    },
+    {
+      "id": "u1poed",
+      "title": "Anthropic Drops Flagship Safety Pledge",
+      "description": "Score: 186 | Comments: 73 | Posted by cwwc",
+      "url": "https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/",
+      "publishedAt": "2026-02-25T01:08:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cwwc",
+      "tags": []
+    },
+    {
+      "id": "ssm48s",
+      "title": "Amazon accused of widespread scheme to inflate prices across the economy",
+      "description": "Score: 307 | Comments: 92 | Posted by toomuchtodo",
+      "url": "https://www.thebignewsletter.com/p/amazon-busted-for-widespread-price",
+      "publishedAt": "2026-02-25T01:00:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "toomuchtodo",
+      "tags": []
+    },
+    {
+      "id": "tke5qz",
+      "title": "US Military leaders meet with Anthropic to argue against Claude safeguards",
+      "description": "Score: 131 | Comments: 51 | Posted by KnuthIsGod",
+      "url": "https://www.theguardian.com/us-news/2026/feb/24/anthropic-claude-military-ai",
+      "publishedAt": "2026-02-25T00:20:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "KnuthIsGod",
+      "tags": []
+    }
+  ]
+}

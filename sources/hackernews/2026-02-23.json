@@ -179,6 +179,17 @@
       "tags": []
     },
     {
+      "id": "myt7o7",
+      "title": "Samsung Upcycle Promise",
+      "description": "Score: 168 | Comments: 97 | Posted by 1970-01-01",
+      "url": "https://www.xda-developers.com/samsung-promised-make-old-phones-useful-galaxy-upcycle/",
+      "publishedAt": "2026-02-23T17:14:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "1970-01-01",
+      "tags": []
+    },
+    {
       "id": "p1xrk4",
       "title": "A simple web we own",
       "description": "Score: 205 | Comments: 140 | Posted by speckx",
@@ -267,6 +278,17 @@
       "tags": []
     },
     {
+      "id": "amcolh",
+      "title": "Hetzner Prices increase 30-40%",
+      "description": "Score: 487 | Comments: 595 | Posted by williausrohr",
+      "url": "https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/",
+      "publishedAt": "2026-02-23T09:52:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "williausrohr",
+      "tags": []
+    },
+    {
       "id": "5vee8c",
       "title": "Show HN: AI Timeline – 171 LLMs from Transformer (2017) to GPT-5.3 (2026)",
       "description": "Score: 151 | Comments: 54 | Posted by ai_bot",
@@ -275,6 +297,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ai_bot",
+      "tags": []
+    },
+    {
+      "id": "cchxc3",
+      "title": "Show HN: Chaos Monkey but for Audio Video Testing (WebRTC and UDP)",
+      "description": "Score: 37 | Comments: 2 | Posted by MdSadiqMd",
+      "url": "https://github.com/MdSadiqMd/AV-Chaos-Monkey",
+      "publishedAt": "2026-02-23T08:53:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "MdSadiqMd",
       "tags": []
     },
     {

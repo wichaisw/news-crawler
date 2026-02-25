@@ -1,0 +1,30 @@
+{
+  "date": "2026-02-25",
+  "source": "theverge",
+  "articles": [
+    {
+      "id": "jf0txj",
+      "title": "Pete Hegseth’s Pentagon AI bro squad includes a former Uber executive and a private equity billionaire",
+      "description": "Hello and welcome to Regulator, a newsletter for Verge subscribers covering the broligarchs, the influencers, and the (potentially conscious) artificial intelligence models scrambling for power in Washington. If you're not a subscriber yet, assert your humanity against the will of the machines by signing up here. Very important news: Do you want to tell me [&#8230;]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/884165/pentagon-anthropic-emil-michael-steve-feinberg",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2225411614.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-02-25T01:59:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Tina Nguyen",
+      "tags": []
+    },
+    {
+      "id": "y16v0u",
+      "title": "Apple's new age verification tools block underage app downloads where required by law",
+      "description": "Apple, like many others, has had to launch age verification features in response to new requirements for age checks in many regions, and on Tuesday, the company announced new details about its tools that developers can use to \"meet their age assurance obligations under upcoming U.S. and regional laws, including in Brazil, Australia, Singapore, Utah, [&#8230;]",
+      "url": "https://www.theverge.com/tech/884136/apple-age-verification-assurance-underage-app-downloads",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK071_APPLE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-02-25T00:45:37.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Jay Peters",
+      "tags": []
+    }
+  ]
+}

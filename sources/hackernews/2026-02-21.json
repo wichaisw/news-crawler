@@ -47,6 +47,17 @@
       "tags": []
     },
     {
+      "id": "zi5tbc",
+      "title": "Aesthetics of single threading",
+      "description": "Score: 57 | Comments: 13 | Posted by todsacerdoti",
+      "url": "https://ta.fo/aesthetics-of-single-threading/",
+      "publishedAt": "2026-02-21T20:14:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    },
+    {
       "id": "unevt4",
       "title": "MeshTNC is a tool for turning consumer grade LoRa radios into KISS TNC compatib",
       "description": "Score: 27 | Comments: 13 | Posted by todsacerdoti",
@@ -179,6 +190,17 @@
       "tags": []
     },
     {
+      "id": "8zpvx9",
+      "title": "Build Your Own Forth Interpreter",
+      "description": "Score: 64 | Comments: 20 | Posted by AlexeyBrin",
+      "url": "https://codingchallenges.fyi/challenges/challenge-forth/",
+      "publishedAt": "2026-02-21T14:14:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "AlexeyBrin",
+      "tags": []
+    },
+    {
       "id": "iee94",
       "title": "The Human Root of Trust – public domain framework for agent accountability",
       "description": "Score: 7 | Comments: 3 | Posted by 3du4rd0v3g4",
@@ -190,6 +212,17 @@
       "tags": []
     },
     {
+      "id": "fy4w2p",
+      "title": "Unsung heroes: Flickr's URLs scheme",
+      "description": "Score: 266 | Comments: 90 | Posted by onli",
+      "url": "https://unsung.aresluna.org/unsung-heroes-flickrs-urls-scheme/",
+      "publishedAt": "2026-02-21T13:36:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "onli",
+      "tags": []
+    },
+    {
       "id": "x9mqnn",
       "title": "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
       "description": "Score: 141 | Comments: 79 | Posted by tosh",
@@ -198,6 +231,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "tosh",
+      "tags": []
+    },
+    {
+      "id": "79w8tc",
+      "title": "Code has always been the easy part",
+      "description": "Score: 86 | Comments: 92 | Posted by Ozzie_osman",
+      "url": "https://laughingmeme.org/2026/02/09/code-has-always-been-the-easy-part.html",
+      "publishedAt": "2026-02-21T10:46:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Ozzie_osman",
+      "tags": []
+    },
+    {
+      "id": "qesnkt",
+      "title": "A distributed queue in a single JSON file on object storage",
+      "description": "Score: 159 | Comments: 48 | Posted by Sirupsen",
+      "url": "https://turbopuffer.com/blog/object-storage-queue",
+      "publishedAt": "2026-02-21T10:31:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Sirupsen",
       "tags": []
     },
     {
