@@ -146,6 +146,17 @@
       "tags": []
     },
     {
+      "id": "9tyunj",
+      "title": "Learnings from 4 months of Image-Video VAE experiments",
+      "description": "Score: 97 | Comments: 14 | Posted by schopra909",
+      "url": "https://www.linum.ai/field-notes/vae-reconstruction-vs-generation",
+      "publishedAt": "2026-02-24T18:59:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "schopra909",
+      "tags": []
+    },
+    {
       "id": "m8jy11",
       "title": "Steel Bank Common Lisp",
       "description": "Score: 185 | Comments: 69 | Posted by tosh",
@@ -223,6 +234,17 @@
       "tags": []
     },
     {
+      "id": "vcr9x5",
+      "title": "Large-Scale Online Deanonymization with LLMs",
+      "description": "Score: 234 | Comments: 180 | Posted by DalasNoin",
+      "url": "https://simonlermen.substack.com/p/large-scale-online-deanonymization",
+      "publishedAt": "2026-02-24T17:18:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "DalasNoin",
+      "tags": []
+    },
+    {
       "id": "4beyf0",
       "title": "I'm helping my dog vibe code games",
       "description": "Score: 792 | Comments: 221 | Posted by cleak",
@@ -253,6 +275,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jez",
+      "tags": []
+    },
+    {
+      "id": "imvbw6",
+      "title": "Dissecting the CPU-memory relationship in garbage collection (OpenJDK 26)",
+      "description": "Score: 71 | Comments: 19 | Posted by jonasn",
+      "url": "https://norlinder.nu/posts/GC-Cost-CPU-vs-Memory/",
+      "publishedAt": "2026-02-24T13:49:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jonasn",
       "tags": []
     },
     {
@@ -308,6 +341,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "Qem",
+      "tags": []
+    },
+    {
+      "id": "bqi9ep",
+      "title": "The Hydrogen Truck Problem Isn't the Truck",
+      "description": "Score: 51 | Comments: 57 | Posted by mikeayles",
+      "url": "https://www.mikeayles.com/blog/hydrogen-refuelling-road-freight/",
+      "publishedAt": "2026-02-24T10:58:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mikeayles",
       "tags": []
     },
     {

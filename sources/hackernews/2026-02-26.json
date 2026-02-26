@@ -1,0 +1,105 @@
+{
+  "date": "2026-02-26",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "9f9s7o",
+      "title": "I don't know how you get here from \"predict the next word.\"grumpy-economist.com",
+      "description": "Score: 48 | Comments: 27 | Posted by qsi",
+      "url": "https://www.grumpy-economist.com/p/refine",
+      "publishedAt": "2026-02-26T05:26:56.100Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "qsi",
+      "tags": []
+    },
+    {
+      "id": "9f9s7o",
+      "title": "I don't know how you get here from \"predict the next word.\"",
+      "description": "Score: 48 | Comments: 29 | Posted by qsi",
+      "url": "https://www.grumpy-economist.com/p/refine",
+      "publishedAt": "2026-02-26T04:59:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "qsi",
+      "tags": []
+    },
+    {
+      "id": "ol57ly",
+      "title": "Apple Needs to Copy Samsung's New Security Smartphone Screen ASAP",
+      "description": "Score: 12 | Comments: 5 | Posted by Brajeshwar",
+      "url": "https://www.wsj.com/tech/personal-tech/samsung-galaxy-s26-privacy-display-d5bce9ab",
+      "publishedAt": "2026-02-26T04:50:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Brajeshwar",
+      "tags": []
+    },
+    {
+      "id": "fvx6gn",
+      "title": "Self-improving software won't produce Skynet",
+      "description": "Score: 16 | Comments: 8 | Posted by normalocity",
+      "url": "https://contalign.jefflunt.com/self-improving-software/",
+      "publishedAt": "2026-02-26T03:36:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "normalocity",
+      "tags": []
+    },
+    {
+      "id": "4oguny",
+      "title": "RAM now represents 35 percent of bill of materials for HP PCs",
+      "description": "Score: 163 | Comments: 95 | Posted by jnord",
+      "url": "https://arstechnica.com/gadgets/2026/02/ram-now-represents-35-percent-of-bill-of-materials-for-hp-pcs/",
+      "publishedAt": "2026-02-26T02:43:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jnord",
+      "tags": []
+    },
+    {
+      "id": "qrb7nm",
+      "title": "Google API keys weren't secrets, but then Gemini changed the rulestrufflesecurity.com",
+      "description": "Score: 274 | Comments: 63 | Posted by hiisthisthingon",
+      "url": "https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules",
+      "publishedAt": "2026-02-26T02:26:56.100Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hiisthisthingon",
+      "tags": []
+    },
+    {
+      "id": "rtoj87",
+      "title": "Show HN: OpenSwarm – Multi‑Agent Claude CLI Orchestrator for Linear/GitHub",
+      "description": "Score: 19 | Comments: 3 | Posted by unohee",
+      "url": "https://github.com/Intrect-io/OpenSwarm",
+      "publishedAt": "2026-02-26T02:19:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "unohee",
+      "tags": []
+    },
+    {
+      "id": "yenuo6",
+      "title": "Show HN: ZSE – Open-source LLM inference engine with 3.9s cold starts",
+      "description": "Score: 37 | Comments: 1 | Posted by zyoralabs",
+      "url": "https://github.com/Zyora-Dev/zse",
+      "publishedAt": "2026-02-26T01:15:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zyoralabs",
+      "tags": []
+    },
+    {
+      "id": "e66kui",
+      "title": "Tech companies shouldn't be bullied into doing surveillance",
+      "description": "Score: 183 | Comments: 50 | Posted by pseudolus",
+      "url": "https://www.eff.org/deeplinks/2026/02/tech-companies-shouldnt-be-bullied-doing-surveillance",
+      "publishedAt": "2026-02-26T00:37:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pseudolus",
+      "tags": []
+    }
+  ]
+}
