@@ -3,6 +3,28 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "r0ggqf",
+      "title": "Steering interpretable language models with concept algebra",
+      "description": "Score: 65 | Comments: 4 | Posted by luulinh90s",
+      "url": "https://www.guidelabs.ai/post/steerling-steering-8b/",
+      "publishedAt": "2026-02-25T23:55:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "luulinh90s",
+      "tags": []
+    },
+    {
+      "id": "jxxv2w",
+      "title": "Banned in California",
+      "description": "Score: 577 | Comments: 685 | Posted by pie_flavor",
+      "url": "https://www.bannedincalifornia.org/",
+      "publishedAt": "2026-02-25T23:16:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pie_flavor",
+      "tags": []
+    },
+    {
       "id": "cf605g",
       "title": "First Website (1992)",
       "description": "Score: 169 | Comments: 35 | Posted by shrikaranhanda",
@@ -264,6 +286,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ssiddharth",
+      "tags": []
+    },
+    {
+      "id": "s2ijee",
+      "title": "I rendered 1,418 confusables over 230 fonts. Most aren't confusable to the eye",
+      "description": "Score: 21 | Comments: 5 | Posted by paultendo",
+      "url": "https://paultendo.github.io/posts/confusable-vision-visual-similarity/",
+      "publishedAt": "2026-02-25T12:30:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "paultendo",
       "tags": []
     },
     {

@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "odilu6",
+      "title": "Show HN: Linex – A daily challenge: placing pieces on a board that fights back",
+      "description": "Score: 57 | Comments: 20 | Posted by Humanista75",
+      "url": "https://www.playlinex.com/",
+      "publishedAt": "2026-02-24T23:33:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Humanista75",
+      "tags": []
+    },
+    {
       "id": "kxbqts",
       "title": "Mercury 2: The fastest reasoning LLM, powered by diffusioninceptionlabs.ai",
       "description": "Score: 163 | Comments: 82 | Posted by fittingopposite",
@@ -146,6 +157,17 @@
       "tags": []
     },
     {
+      "id": "negot1",
+      "title": "Show HN: Hacker Smacker – Spot great (and terrible) HN commenters at a glance",
+      "description": "Score: 106 | Comments: 118 | Posted by conesus",
+      "url": "https://hackersmacker.org",
+      "publishedAt": "2026-02-24T19:00:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "conesus",
+      "tags": []
+    },
+    {
       "id": "9tyunj",
       "title": "Learnings from 4 months of Image-Video VAE experiments",
       "description": "Score: 97 | Comments: 14 | Posted by schopra909",
@@ -256,6 +278,17 @@
       "tags": []
     },
     {
+      "id": "diim2p",
+      "title": "80386 Protection",
+      "description": "Score: 15 | Comments: 1 | Posted by nand2mario",
+      "url": "https://nand2mario.github.io/posts/2026/80386_protection/",
+      "publishedAt": "2026-02-24T15:56:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nand2mario",
+      "tags": []
+    },
+    {
       "id": "9nwdfc",
       "title": "The history of knocking on wood",
       "description": "Score: 23 | Comments: 1 | Posted by benbreen",
@@ -352,6 +385,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mikeayles",
+      "tags": []
+    },
+    {
+      "id": "s755g3",
+      "title": "Show HN: Beehive – Multi-Workspace Agent Orchestrator",
+      "description": "Score: 42 | Comments: 21 | Posted by mst98",
+      "url": "https://storozhenko98.github.io/beehive/",
+      "publishedAt": "2026-02-24T10:41:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mst98",
       "tags": []
     },
     {
