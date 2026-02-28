@@ -1,0 +1,127 @@
+{
+  "date": "2026-02-28",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "z2wmai",
+      "title": "Cash Issuing Terminals",
+      "description": "Score: 7 | Comments: 0 | Posted by zdw",
+      "url": "https://computer.rip/2026-02-27-ibm-atm.html",
+      "publishedAt": "2026-02-28T05:21:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "uczlmy",
+      "title": "OpenAI reaches deal to deploy AI models on U.S. DoW classified network",
+      "description": "Score: 87 | Comments: 25 | Posted by erhuve",
+      "url": "https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/",
+      "publishedAt": "2026-02-28T03:23:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "erhuve",
+      "tags": []
+    },
+    {
+      "id": "29m3zv",
+      "title": "Don't use passkeys for encrypting user data",
+      "description": "Score: 86 | Comments: 35 | Posted by zdw",
+      "url": "https://blog.timcappalli.me/p/passkeys-prf-warning/",
+      "publishedAt": "2026-02-28T03:11:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "bmux30",
+      "title": "OpenAI agrees with Dept. of War to deploy models in their classified network",
+      "description": "Score: 330 | Comments: 192 | Posted by eoskx",
+      "url": "https://twitter.com/sama/status/2027578652477821175",
+      "publishedAt": "2026-02-28T02:59:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "eoskx",
+      "tags": []
+    },
+    {
+      "id": "9hunwy",
+      "title": "Bootc and OSTree: Modernizing Linux System Deployment",
+      "description": "Score: 9 | Comments: 1 | Posted by mrtedbear",
+      "url": "https://a-cup-of.coffee/blog/ostree-bootc/",
+      "publishedAt": "2026-02-28T02:55:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mrtedbear",
+      "tags": []
+    },
+    {
+      "id": "90h900",
+      "title": "Croatia declared free of landmines after 31 years",
+      "description": "Score: 90 | Comments: 7 | Posted by toomuchtodo",
+      "url": "https://glashrvatske.hrt.hr/en/domestic/croatia-declared-free-of-landmines-after-31-years-12593533",
+      "publishedAt": "2026-02-28T02:48:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "toomuchtodo",
+      "tags": []
+    },
+    {
+      "id": "hp0132",
+      "title": "Statement on the comments from Secretary of War Pete Hegsethanthropic.com",
+      "description": "Score: 778 | Comments: 267 | Posted by surprisetalk",
+      "url": "https://www.anthropic.com/news/statement-comments-secretary-war",
+      "publishedAt": "2026-02-28T02:13:02.896Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
+      "id": "hp0132",
+      "title": "Statement on the comments from Secretary of War Pete Hegseth",
+      "description": "Score: 778 | Comments: 267 | Posted by surprisetalk",
+      "url": "https://www.anthropic.com/news/statement-comments-secretary-war",
+      "publishedAt": "2026-02-28T01:20:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
+      "id": "sp704d",
+      "title": "We Will Not Be Dividednotdivided.org",
+      "description": "Score: 1065 | Comments: 406 | Posted by BloondAndDoom",
+      "url": "https://notdivided.org",
+      "publishedAt": "2026-02-28T01:13:02.893Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "BloondAndDoom",
+      "tags": []
+    },
+    {
+      "id": "sp704d",
+      "title": "We Will Not Be Divided",
+      "description": "Score: 1064 | Comments: 406 | Posted by BloondAndDoom",
+      "url": "https://notdivided.org",
+      "publishedAt": "2026-02-28T00:54:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "BloondAndDoom",
+      "tags": []
+    },
+    {
+      "id": "slw07b",
+      "title": "Stop Putting Secrets in .env Files",
+      "description": "Score: 16 | Comments: 4 | Posted by veverkap",
+      "url": "https://jonmagic.com/posts/stop-putting-secrets-in-dotenv-files/",
+      "publishedAt": "2026-02-28T00:53:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "veverkap",
+      "tags": []
+    }
+  ]
+}

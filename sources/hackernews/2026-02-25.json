@@ -135,6 +135,17 @@
       "tags": []
     },
     {
+      "id": "4n8rz9",
+      "title": "Show HN: I ported Manim to TypeScript (run 3b1B math animations in the browser)",
+      "description": "Score: 48 | Comments: 10 | Posted by maloyan",
+      "url": "https://github.com/maloyan/manim-web",
+      "publishedAt": "2026-02-25T18:15:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "maloyan",
+      "tags": []
+    },
+    {
       "id": "lmltiz",
       "title": "The Om Programming Language",
       "description": "Score: 249 | Comments: 60 | Posted by tosh",
@@ -143,6 +154,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "tosh",
+      "tags": []
+    },
+    {
+      "id": "5roi97",
+      "title": "Time-Travel Debugging: Replaying Production Bugs Locally",
+      "description": "Score: 6 | Comments: 0 | Posted by tie-in",
+      "url": "https://lackofimagination.org/2026/02/time-travel-debugging-replaying-production-bugs-locally/",
+      "publishedAt": "2026-02-25T17:47:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tie-in",
       "tags": []
     },
     {
@@ -300,6 +322,28 @@
       "tags": []
     },
     {
+      "id": "ykwppb",
+      "title": "Inventing the Lisa user interface – Interactions",
+      "description": "Score: 26 | Comments: 2 | Posted by rbanffy",
+      "url": "https://dl.acm.org/doi/10.1145/242388.242405",
+      "publishedAt": "2026-02-25T12:16:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rbanffy",
+      "tags": []
+    },
+    {
+      "id": "k5tgb9",
+      "title": "Implementing a Z80 / ZX Spectrum emulator with Claude Code",
+      "description": "Score: 139 | Comments: 67 | Posted by antirez",
+      "url": "https://antirez.com/news/160",
+      "publishedAt": "2026-02-25T10:36:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "antirez",
+      "tags": []
+    },
+    {
       "id": "9n81is",
       "title": "100M-Row Challenge with PHP",
       "description": "Score: 170 | Comments: 94 | Posted by brentroose",
@@ -355,6 +399,17 @@
       "tags": []
     },
     {
+      "id": "n9emgk",
+      "title": "Gawk 5.4.0 is released, with replaced MinRX matcher",
+      "description": "Score: 24 | Comments: 2 | Posted by zdw",
+      "url": "https://lists.gnu.org/archive/html/info-gnu/2026-02/msg00011.html",
+      "publishedAt": "2026-02-25T04:01:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
       "id": "v86y39",
       "title": "What Happened to Fry's Electronics",
       "description": "Score: 58 | Comments: 60 | Posted by jnord",
@@ -363,6 +418,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jnord",
+      "tags": []
+    },
+    {
+      "id": "9ifz4c",
+      "title": "Can you reverse engineer our neural network?",
+      "description": "Score: 281 | Comments: 185 | Posted by jsomers",
+      "url": "https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/",
+      "publishedAt": "2026-02-25T02:20:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jsomers",
       "tags": []
     },
     {

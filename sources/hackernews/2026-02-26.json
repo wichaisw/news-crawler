@@ -58,6 +58,17 @@
       "tags": []
     },
     {
+      "id": "q4aklx",
+      "title": "Show HN: Unfucked - version all changes (by any tool) - local-first/source avail",
+      "description": "Score: 81 | Comments: 41 | Posted by cyrusradfar",
+      "url": "https://www.unfudged.io/",
+      "publishedAt": "2026-02-26T21:30:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cyrusradfar",
+      "tags": []
+    },
+    {
       "id": "v0g84e",
       "title": "Layoffs at Block",
       "description": "Score: 622 | Comments: 653 | Posted by mlex",
@@ -121,6 +132,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "g3g1jd",
+      "title": "Smallest transformer that can add two 10-digit numbers",
+      "description": "Score: 124 | Comments: 46 | Posted by ks2048",
+      "url": "https://github.com/anadim/AdderBoard",
+      "publishedAt": "2026-02-26T18:29:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ks2048",
       "tags": []
     },
     {
@@ -231,6 +253,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jasonpeacock",
+      "tags": []
+    },
+    {
+      "id": "lsorl3",
+      "title": "Show HN: I built a self-hosted course platform in Clojure",
+      "description": "Score: 40 | Comments: 5 | Posted by jacekschae",
+      "url": "https://clojure.stream",
+      "publishedAt": "2026-02-26T13:31:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jacekschae",
       "tags": []
     },
     {

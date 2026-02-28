@@ -234,6 +234,17 @@
       "tags": []
     },
     {
+      "id": "jjq7x8",
+      "title": "An interactive intro to quadtrees",
+      "description": "Score: 198 | Comments: 23 | Posted by evakhoury",
+      "url": "https://growingswe.com/blog/quadtrees",
+      "publishedAt": "2026-02-24T17:31:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "evakhoury",
+      "tags": []
+    },
+    {
       "id": "8fi1qh",
       "title": "Hugging Face Skills",
       "description": "Score: 150 | Comments: 43 | Posted by armcat",
@@ -289,6 +300,17 @@
       "tags": []
     },
     {
+      "id": "ah1hku",
+      "title": "Distributed Systems for Fun and Profit",
+      "description": "Score: 41 | Comments: 0 | Posted by vinhnx",
+      "url": "https://book.mixu.net/distsys/single-page.html",
+      "publishedAt": "2026-02-24T15:32:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vinhnx",
+      "tags": []
+    },
+    {
       "id": "9nwdfc",
       "title": "The history of knocking on wood",
       "description": "Score: 23 | Comments: 1 | Posted by benbreen",
@@ -311,6 +333,17 @@
       "tags": []
     },
     {
+      "id": "y9b546",
+      "title": "Modeling cycles of grift with evolutionary game theory",
+      "description": "Score: 90 | Comments: 38 | Posted by ibobev",
+      "url": "https://www.oranlooney.com/post/grifters-skeptics-marks/",
+      "publishedAt": "2026-02-24T13:54:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
+      "tags": []
+    },
+    {
       "id": "imvbw6",
       "title": "Dissecting the CPU-memory relationship in garbage collection (OpenJDK 26)",
       "description": "Score: 71 | Comments: 19 | Posted by jonasn",
@@ -330,6 +363,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "wps",
+      "tags": []
+    },
+    {
+      "id": "8mclh",
+      "title": "Eschewing Zshell for Emacs Shell (2014)",
+      "description": "Score: 22 | Comments: 5 | Posted by pvdebbe",
+      "url": "https://www.howardism.org/Technical/Emacs/eshell-fun.html",
+      "publishedAt": "2026-02-24T13:04:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pvdebbe",
       "tags": []
     },
     {
@@ -363,6 +407,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mitchbob",
+      "tags": []
+    },
+    {
+      "id": "dmsabq",
+      "title": "Semantic Syntax Highlighting for Lisp in Emacs",
+      "description": "Score: 5 | Comments: 0 | Posted by oumua_don17",
+      "url": "https://github.com/calsys456/lisp-semantic-hl.el",
+      "publishedAt": "2026-02-24T12:58:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "oumua_don17",
       "tags": []
     },
     {
