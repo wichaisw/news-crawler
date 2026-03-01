@@ -3,6 +3,61 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "149895 at https://www.blognone.com",
+      "title": "เกาหลีใต้อนุญาตให้ Google Maps เข้าถึงข้อมูลแผนที่ความละเอียดสูงแล้ว",
+      "description": "เกาหลีใต้อนุญาตให้ Google Maps เข้าถึงข้อมูลแผนที่ความละเอียดสูงแล้ว Body รัฐบาลเกาหลีใต้อนุมัติคำขอใช้งานข้อมูลแผนที่ความแม่นยำสูงของกูเกิล",
+      "url": "https://www.blognone.com/node/149895",
+      "publishedAt": "2026-02-28T16:01:54.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149894 at https://www.blognone.com",
+      "title": "[ลือ] NVIDIA เตรียมเปิดตัวชิประบบใหม่ ใช้สำหรับขั้นตอน AI Inference โดยเฉพาะ",
+      "description": "[ลือ] NVIDIA เตรียมเปิดตัวชิประบบใหม่ ใช้สำหรับขั้นตอน AI Inference โดยเฉพาะ Body รายงานนี้มาจาก The Wall Street Journal",
+      "url": "https://www.blognone.com/node/149894",
+      "publishedAt": "2026-02-28T15:19:23.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149893 at https://www.blognone.com",
+      "title": "ไมโครซอฟท์ยืนยัน ยังเป็นพาร์ทเนอร์ OpenAI แม้ AWS เข้ามาลงทุน ยังมีเอ็กซ์คลูซีฟ API",
+      "description": "ไมโครซอฟท์ยืนยัน ยังเป็นพาร์ทเนอร์ OpenAI แม้ AWS เข้ามาลงทุน ยังมีเอ็กซ์คลูซีฟ API Body ไมโครซอฟท์ในฐานะพาร์ทเนอร์รายสำคัญของ OpenAI",
+      "url": "https://www.blognone.com/node/149893",
+      "publishedAt": "2026-02-28T12:52:25.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149892 at https://www.blognone.com",
+      "title": "OpenAI ชิงจังหวะ เซ็นสัญญา AI กับกระทรวงกลาโหมสหรัฐ บอกกระทรวงยอมเงื่อนไข",
+      "description": "OpenAI ชิงจังหวะ เซ็นสัญญา AI กับกระทรวงกลาโหมสหรัฐ บอกกระทรวงยอมเงื่อนไข Body เพียงไม่กี่ชั่วโมงหลัง รัฐบาลสหรัฐอเมริกาสั่งแบน Anthropic",
+      "url": "https://www.blognone.com/node/149892",
+      "publishedAt": "2026-02-28T12:07:37.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149891 at https://www.blognone.com",
+      "title": "Lenovo ยืนยัน จะซัพพอร์ต Legion Go รุ่นแรก ออกไดรเวอร์ให้จนถึงปี 2029",
+      "description": "Lenovo ยืนยัน จะซัพพอร์ต Legion Go รุ่นแรก ออกไดรเวอร์ให้จนถึงปี 2029 Body ก่อนหน้านี้มีข่าวออกมาจาก Lenovo Korea ว่าหยุดอัพเดตไดรเวอร์ของ",
+      "url": "https://www.blognone.com/node/149891",
+      "publishedAt": "2026-02-28T11:52:37.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "149886 at https://www.blognone.com",
       "title": "Trump สั่งแบนรัฐบาลอเมริกาใช้ Anthropic หลังเจรจาใช้ในการทหารไม่ลงตัว",
       "description": "Trump สั่งแบนรัฐบาลอเมริกาใช้ Anthropic หลังเจรจาใช้ในการทหารไม่ลงตัว Body Donald Trump ประกาศแบนการใช้งานเทคโนโลยีของบริษัท Anthropic ในรัฐบาลสหรัฐ",

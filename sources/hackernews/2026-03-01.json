@@ -1,0 +1,50 @@
+{
+  "date": "2026-03-01",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "lc7ncw",
+      "title": "The Science of Detecting LLM-Generated Text",
+      "description": "Score: 12 | Comments: 1 | Posted by vinhnx",
+      "url": "https://dl.acm.org/doi/10.1145/3624725",
+      "publishedAt": "2026-03-01T02:09:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vinhnx",
+      "tags": []
+    },
+    {
+      "id": "ntifu4",
+      "title": "Samsung Galaxy update removes Android recovery menu tools, including sideloading",
+      "description": "Score: 78 | Comments: 16 | Posted by pabs3",
+      "url": "https://9to5google.com/2026/02/27/samsung-galaxy-update-android-recovery-menu-removed/",
+      "publishedAt": "2026-03-01T01:59:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pabs3",
+      "tags": []
+    },
+    {
+      "id": "8lf21o",
+      "title": "Microgpt",
+      "description": "Score: 462 | Comments: 83 | Posted by tambourine_man",
+      "url": "http://karpathy.github.io/2026/02/12/microgpt/",
+      "publishedAt": "2026-03-01T01:39:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tambourine_man",
+      "tags": []
+    },
+    {
+      "id": "4vvhv0",
+      "title": "Running a One Trillion-Parameter LLM Locally on AMD Ryzen AI Max+ Cluster",
+      "description": "Score: 52 | Comments: 10 | Posted by mindcrime",
+      "url": "https://www.amd.com/en/developer/resources/technical-articles/2026/how-to-run-a-one-trillion-parameter-llm-locally-an-amd.html",
+      "publishedAt": "2026-03-01T01:24:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mindcrime",
+      "tags": []
+    }
+  ]
+}

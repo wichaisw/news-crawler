@@ -47,6 +47,17 @@
       "tags": []
     },
     {
+      "id": "cs2bxf",
+      "title": "Deterministic Programming with LLMs",
+      "description": "Score: 36 | Comments: 19 | Posted by todsacerdoti",
+      "url": "https://www.mcherm.com/deterministic-programming-with-llms.html",
+      "publishedAt": "2026-02-25T22:17:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    },
+    {
       "id": "evdyei",
       "title": "An autopsy of AI-generated 3D slop",
       "description": "Score: 54 | Comments: 38 | Posted by sech8420",
@@ -55,6 +66,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "sech8420",
+      "tags": []
+    },
+    {
+      "id": "p6fa5y",
+      "title": "SQL vs. NoSQL: How to Answer This Interview Question in 2026",
+      "description": "Score: 10 | Comments: 0 | Posted by janandonly",
+      "url": "https://www.thetrueengineer.com/p/sql-vs-nosql-how-to-answer-this-interview",
+      "publishedAt": "2026-02-25T20:37:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "janandonly",
       "tags": []
     },
     {
@@ -77,6 +99,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "losgehts",
+      "tags": []
+    },
+    {
+      "id": "s6yamr",
+      "title": "SpacetimeDB ThreeJS Support",
+      "description": "Score: 10 | Comments: 3 | Posted by ryker2000",
+      "url": "https://discourse.threejs.org/t/spacetimedb-threejs-support-and-free-tier/90052",
+      "publishedAt": "2026-02-25T20:20:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ryker2000",
       "tags": []
     },
     {
@@ -135,6 +168,17 @@
       "tags": []
     },
     {
+      "id": "vpwx26",
+      "title": "Woxi: Wolfram Mathematica Reimplementation in Rust",
+      "description": "Score: 268 | Comments: 111 | Posted by adamnemecek",
+      "url": "https://github.com/ad-si/Woxi",
+      "publishedAt": "2026-02-25T18:24:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "adamnemecek",
+      "tags": []
+    },
+    {
       "id": "4n8rz9",
       "title": "Show HN: I ported Manim to TypeScript (run 3b1B math animations in the browser)",
       "description": "Score: 48 | Comments: 10 | Posted by maloyan",
@@ -143,6 +187,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "maloyan",
+      "tags": []
+    },
+    {
+      "id": "n91tsl",
+      "title": "Ghosts'n Goblins – “Worse danger is ahead”",
+      "description": "Score: 70 | Comments: 26 | Posted by elvis70",
+      "url": "https://superchartisland.com/ghostsn-goblins/",
+      "publishedAt": "2026-02-25T18:07:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "elvis70",
       "tags": []
     },
     {
@@ -165,6 +220,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "tie-in",
+      "tags": []
+    },
+    {
+      "id": "ooybco",
+      "title": "New evidence that Cantor plagiarized Dedekind?",
+      "description": "Score: 117 | Comments: 74 | Posted by rbanffy",
+      "url": "https://www.quantamagazine.org/the-man-who-stole-infinity-20260225/",
+      "publishedAt": "2026-02-25T17:28:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rbanffy",
       "tags": []
     },
     {
@@ -231,6 +297,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "remywang",
+      "tags": []
+    },
+    {
+      "id": "eikfcs",
+      "title": "The archivist preserving decaying floppy disks",
+      "description": "Score: 61 | Comments: 11 | Posted by Brajeshwar",
+      "url": "https://www.popsci.com/technology/floppy-disk-archivist-project/",
+      "publishedAt": "2026-02-25T15:28:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Brajeshwar",
+      "tags": []
+    },
+    {
+      "id": "azoqg3",
+      "title": "Sub-second volumetric 3D printing by synthesis of holographic light fields",
+      "description": "Score: 25 | Comments: 4 | Posted by zdw",
+      "url": "https://www.nature.com/articles/s41586-026-10114-5",
+      "publishedAt": "2026-02-25T15:01:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
       "tags": []
     },
     {
@@ -333,6 +421,17 @@
       "tags": []
     },
     {
+      "id": "xkt1fn",
+      "title": "What I learned while trying to build a production-ready nearest neighbor system",
+      "description": "Score: 20 | Comments: 12 | Posted by Jashwanth01",
+      "url": "https://github.com/thatipamula-jashwanth/smart-knn",
+      "publishedAt": "2026-02-25T11:55:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Jashwanth01",
+      "tags": []
+    },
+    {
       "id": "k5tgb9",
       "title": "Implementing a Z80 / ZX Spectrum emulator with Claude Code",
       "description": "Score: 139 | Comments: 67 | Posted by antirez",
@@ -374,6 +473,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "avh3",
+      "tags": []
+    },
+    {
+      "id": "l3188w",
+      "title": "The Eternal Promise: A History of Attempts to Eliminate Programmers",
+      "description": "Score: 259 | Comments: 173 | Posted by dinvlad",
+      "url": "https://www.ivanturkovic.com/2026/01/22/history-software-simplification-cobol-ai-hype/",
+      "publishedAt": "2026-02-25T05:14:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dinvlad",
       "tags": []
     },
     {

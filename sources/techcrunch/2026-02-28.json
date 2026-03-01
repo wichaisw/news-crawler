@@ -3,6 +3,83 @@
   "source": "techcrunch",
   "articles": [
     {
+      "id": "https://techcrunch.com/?p=3098261",
+      "title": "Why did Netflix back down from its deal to acquire Warner Bros.?",
+      "description": "Netflix's co-CEO reportedly told Trump, \"I took your advice.\"",
+      "url": "https://techcrunch.com/2026/02/28/why-did-netflix-back-down-from-its-deal-to-acquire-warner-bros/",
+      "publishedAt": "2026-02-28T22:07:48.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3085519",
+      "title": "What to know about the landmark Warner Bros. Discovery sale",
+      "description": "Learn more about Paramount's planned acquisition of Warner Bros. Discovery — a historic Hollywood megadeal valued at $111 billion — as it continues",
+      "url": "https://techcrunch.com/2026/02/28/warner-bros-netflix-paramount-acquisition-timeline-wbd/",
+      "publishedAt": "2026-02-28T21:28:06.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lauren Forristal",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3098239",
+      "title": "Anthropic’s Claude rises to No. 2 in the App Store following Pentagon dispute",
+      "description": "Anthropic’s chatbot Claude seems to have benefited from the attention around the company’s fraught negotiations with the Pentagon.",
+      "url": "https://techcrunch.com/2026/02/28/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/",
+      "publishedAt": "2026-02-28T21:05:06.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3048567",
+      "title": "The billion-dollar infrastructure deals powering the AI boom",
+      "description": "Here's everything we know about the biggest AI infrastructure projects, including major spending from Meta, Oracle, Microsoft, Google, and OpenAI.",
+      "url": "https://techcrunch.com/2026/02/28/billion-dollar-infrastructure-deals-ai-boom-data-centers-openai-oracle-nvidia-microsoft-google-meta/",
+      "publishedAt": "2026-02-28T20:41:55.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Russell Brandom",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3098199",
+      "title": "OpenAI’s Sam Altman announces Pentagon deal with ‘technical safeguards’",
+      "description": "OpenAI's CEO claims its new defense contract includes protections addressing the same issues that became a flashpoint for Anthropic.",
+      "url": "https://techcrunch.com/2026/02/28/openais-sam-altman-announces-pentagon-deal-with-technical-safeguards/",
+      "publishedAt": "2026-02-28T16:17:36.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3097555",
+      "title": "Xiaomi launches 17 Ultra smartphone, an AirTag clone, and an ultra slim powerbank",
+      "description": "We round up everything Xiaomi announced at its Mobile World Congress event.",
+      "url": "https://techcrunch.com/2026/02/28/xiaomi-launches-17-ultra-smartphone-an-airtag-clone-and-an-ultra-slim-powerbank/",
+      "publishedAt": "2026-02-28T15:09:03.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Ivan Mehta",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3097319",
+      "title": "Why China’s humanoid robot industry is winning the early market",
+      "description": "China’s push into humanoid robots is accelerating, with domestic firms shipping more units and iterating faster than U.S. competitors in a",
+      "url": "https://techcrunch.com/2026/02/28/why-chinas-humanoid-robot-industry-is-winning-the-early-market/",
+      "publishedAt": "2026-02-28T15:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Kate Park",
+      "tags": []
+    },
+    {
       "id": "https://techcrunch.com/?p=3098082",
       "title": "India disrupts access to popular developer platform Supabase with blocking order",
       "description": "India, one of Supabase’s biggest markets, is seeing patchy access after a government block order.",
