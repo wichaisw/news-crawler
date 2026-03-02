@@ -102,6 +102,17 @@
       "tags": []
     },
     {
+      "id": "3a0w6c",
+      "title": "Running Neural Amp Modeler on embedded hardware",
+      "description": "Score: 23 | Comments: 4 | Posted by woodybury",
+      "url": "https://www.tone3000.com/blog/running-nam-on-embedded-hardware",
+      "publishedAt": "2026-02-27T18:29:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "woodybury",
+      "tags": []
+    },
+    {
       "id": "7rf55k",
       "title": "Writing a Guide to SDF Fonts",
       "description": "Score: 87 | Comments: 6 | Posted by chunkles",
@@ -110,6 +121,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "chunkles",
+      "tags": []
+    },
+    {
+      "id": "tq6tct",
+      "title": "Robust and efficient quantum-safe HTTPS",
+      "description": "Score: 111 | Comments: 25 | Posted by tptacek",
+      "url": "https://security.googleblog.com/2026/02/cultivating-robust-and-efficient.html",
+      "publishedAt": "2026-02-27T17:58:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tptacek",
+      "tags": []
+    },
+    {
+      "id": "1geg2t",
+      "title": "Show HN: Vibe Code your 3D Models",
+      "description": "Score: 47 | Comments: 12 | Posted by burrnii",
+      "url": "https://github.com/ierror/synaps-cad",
+      "publishedAt": "2026-02-27T17:27:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "burrnii",
       "tags": []
     },
     {
@@ -157,6 +190,28 @@
       "tags": []
     },
     {
+      "id": "91jh9s",
+      "title": "Next-gen spacecraft are overwhelming communication networks",
+      "description": "Score: 57 | Comments: 15 | Posted by korrz",
+      "url": "https://atempleton.bearblog.dev/how-next-gen-spacecraft-are-overwhelming-our-communication-networks/",
+      "publishedAt": "2026-02-27T16:21:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "korrz",
+      "tags": []
+    },
+    {
+      "id": "tltc2b",
+      "title": "Tove Jansson's criticized illustrations of The Hobbit (2023)",
+      "description": "Score: 137 | Comments: 62 | Posted by abelanger",
+      "url": "https://tovejansson.com/hobbit-tolkien/",
+      "publishedAt": "2026-02-27T16:17:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "abelanger",
+      "tags": []
+    },
+    {
       "id": "g26z0y",
       "title": "A Chinese official’s use of ChatGPT revealed an intimidation operation",
       "description": "Score: 185 | Comments: 116 | Posted by cwwc",
@@ -187,6 +242,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "iamnothere",
+      "tags": []
+    },
+    {
+      "id": "p5t9gt",
+      "title": "Have your cake and decompress it too",
+      "description": "Score: 7 | Comments: 0 | Posted by emschwartz",
+      "url": "https://spiraldb.com/post/cascading-compression-with-btrblocks",
+      "publishedAt": "2026-02-27T15:33:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "emschwartz",
+      "tags": []
+    },
+    {
+      "id": "iirjq1",
+      "title": "An ode to houseplant programming (2025)",
+      "description": "Score: 142 | Comments: 28 | Posted by evakhoury",
+      "url": "https://hannahilea.com/blog/houseplant-programming/",
+      "publishedAt": "2026-02-27T15:19:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "evakhoury",
       "tags": []
     },
     {
@@ -245,6 +322,17 @@
       "tags": []
     },
     {
+      "id": "8uusr1",
+      "title": "Chorba: A novel CRC32 implementation (2024)",
+      "description": "Score: 56 | Comments: 15 | Posted by fnands",
+      "url": "https://arxiv.org/abs/2412.16398",
+      "publishedAt": "2026-02-27T13:12:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fnands",
+      "tags": []
+    },
+    {
       "id": "aiy7g0",
       "title": "Show HN: RetroTick – Run classic Windows EXEs in the browser",
       "description": "Score: 177 | Comments: 53 | Posted by lqs_",
@@ -253,6 +341,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "lqs_",
+      "tags": []
+    },
+    {
+      "id": "s7qboe",
+      "title": "Aromatic 5-silicon rings synthesized at last",
+      "description": "Score: 78 | Comments: 31 | Posted by keepamovin",
+      "url": "https://cen.acs.org/materials/inorganic-chemistry/Aromatic-5-silicon-rings-synthesized/104/web/2026/02",
+      "publishedAt": "2026-02-27T10:10:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "keepamovin",
       "tags": []
     },
     {
@@ -286,6 +385,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "Hooke",
+      "tags": []
+    },
+    {
+      "id": "hrtn8g",
+      "title": "Gzpeek: Tool to Parse Gzip Metadata",
+      "description": "Score: 39 | Comments: 1 | Posted by ingve",
+      "url": "https://evanhahn.com/introducing-gzpeek/",
+      "publishedAt": "2026-02-27T07:39:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingve",
       "tags": []
     },
     {
@@ -341,6 +451,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "noahkay13",
+      "tags": []
+    },
+    {
+      "id": "xjhh5o",
+      "title": "Frankensqlite a Rust reimplementation of SQLite with concurrent writers",
+      "description": "Score: 30 | Comments: 24 | Posted by rahimnathwani",
+      "url": "https://frankensqlite.com/",
+      "publishedAt": "2026-02-27T03:43:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rahimnathwani",
       "tags": []
     },
     {

@@ -1,0 +1,94 @@
+{
+  "date": "2026-03-02",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "g3gsbh",
+      "title": "Evolving descriptive text of mental content from human brain activity",
+      "description": "Score: 7 | Comments: 0 | Posted by ggm",
+      "url": "https://www.bbc.com/future/article/20260226-how-ai-can-read-your-thoughts",
+      "publishedAt": "2026-03-02T05:39:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ggm",
+      "tags": []
+    },
+    {
+      "id": "d06qsy",
+      "title": "Computer-generated dream world: Virtual reality for a 286 processor",
+      "description": "Score: 49 | Comments: 0 | Posted by MBCook",
+      "url": "https://deadlime.hu/en/2026/02/22/computer-generated-dream-world/",
+      "publishedAt": "2026-03-02T04:23:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "MBCook",
+      "tags": []
+    },
+    {
+      "id": "ry8kjc",
+      "title": "How to record and retrieve anything you've ever had to look up twice",
+      "description": "Score: 12 | Comments: 2 | Posted by Curiositry",
+      "url": "https://ellanew.com/2026/03/02/ptpl-197-record-retrieve-from-a-personal-knowledgebase",
+      "publishedAt": "2026-03-02T04:15:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Curiositry",
+      "tags": []
+    },
+    {
+      "id": "vn4b1j",
+      "title": "Everett shuts down Flock camera network after judge rules footage public record",
+      "description": "Score: 135 | Comments: 21 | Posted by aranaur",
+      "url": "https://www.wltx.com/article/news/nation-world/281-53d8693e-77a4-42ad-86e4-3426a30d25ae",
+      "publishedAt": "2026-03-02T04:06:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "aranaur",
+      "tags": []
+    },
+    {
+      "id": "k575i2",
+      "title": "Floor113.com – A Scarcity-Driven Dating System Built on Deterministic Access",
+      "description": "Score: 4 | Comments: 2 | Posted by chainbuilder",
+      "url": "https://floor113.com/",
+      "publishedAt": "2026-03-02T03:01:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "chainbuilder",
+      "tags": []
+    },
+    {
+      "id": "sk9uf5",
+      "title": "Secure LLM Scripting. Finally",
+      "description": "Score: 3 | Comments: 0 | Posted by dahjelle",
+      "url": "https://mlld.ai/",
+      "publishedAt": "2026-03-02T02:18:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dahjelle",
+      "tags": []
+    },
+    {
+      "id": "2rk2n5",
+      "title": "Show HN: Timber – Ollama for classical ML models, 336x faster than Python",
+      "description": "Score: 96 | Comments: 10 | Posted by kossisoroyce",
+      "url": "https://github.com/kossisoroyce/timber",
+      "publishedAt": "2026-03-02T00:57:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kossisoroyce",
+      "tags": []
+    },
+    {
+      "id": "s4792f",
+      "title": "If AI writes code, should the session be part of the commit?",
+      "description": "Score: 133 | Comments: 153 | Posted by mandel_x",
+      "url": "https://github.com/mandel-macaque/memento",
+      "publishedAt": "2026-03-02T00:27:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mandel_x",
+      "tags": []
+    }
+  ]
+}

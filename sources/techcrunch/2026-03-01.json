@@ -3,6 +3,105 @@
   "source": "techcrunch",
   "articles": [
     {
+      "id": "https://techcrunch.com/?p=3098336",
+      "title": "Polymarket saw $529M traded on bets tied to bombing of Iran",
+      "description": "Six newly-created accounts made a profit of $1 million by correctly betting that the U.S. would strike Iran by February 28.",
+      "url": "https://techcrunch.com/2026/03/01/polymarket-saw-529m-traded-on-bets-tied-to-bombing-of-iran/",
+      "publishedAt": "2026-03-01T19:05:35.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3096153",
+      "title": "Let’s explore the best alternatives to Discord",
+      "description": "With many users feeling uneasy about Discord's new age verification requirement, here are some alternatives that could be worth exploring.",
+      "url": "https://techcrunch.com/2026/03/01/best-discord-alternatives-age-verification-identity-privacy/",
+      "publishedAt": "2026-03-01T19:00:01.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lauren Forristal",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3098313",
+      "title": "Google looks to tackle longstanding RCS spam in India — but not alone",
+      "description": "Google is integrating carrier-level filtering into RCS in India through a partnership with Airtel to strengthen protections against spam.",
+      "url": "https://techcrunch.com/2026/03/01/google-looks-to-tackle-longstanding-rcs-spam-in-india-but-not-alone/",
+      "publishedAt": "2026-03-01T17:30:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Jagmeet Singh",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3098097",
+      "title": "Investors spill what they aren’t looking for anymore in AI SaaS companies",
+      "description": "TechCrunch spoke with VCs to learn what investors aren't looking for in AI SaaS startups anymore.",
+      "url": "https://techcrunch.com/2026/03/01/investors-spill-what-they-arent-looking-for-anymore-in-ai-saas-companies/",
+      "publishedAt": "2026-03-01T17:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3098314",
+      "title": "OpenAI reveals more details about its agreement with the Pentagon",
+      "description": "By CEO Sam Altman’s own admission, OpenAI’s deal with the Department of Defense was “definitely rushed,” and “the optics don’t look good.”",
+      "url": "https://techcrunch.com/2026/03/01/openai-shares-more-details-about-its-agreement-with-the-pentagon/",
+      "publishedAt": "2026-03-01T16:30:10.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3098209",
+      "title": "Honor says its ‘Robot phone’ with moving camera can dance to music",
+      "description": "Honor first teased its \"Robot phone\" with a movable camera arm earlier this year. Ahead of the Mobile World Congress (MWC) in Barcelona, the Chinese",
+      "url": "https://techcrunch.com/2026/03/01/honor-says-its-robot-phone-with-moving-camera-can-dance-to-music/",
+      "publishedAt": "2026-03-01T15:30:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Ivan Mehta",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3098210",
+      "title": "Honor launches its new slim foldable Magic V6 with a 6,600 mAh battery",
+      "description": "Honor also previewed battery tech that could take foldable batteries over 7,000 mAh mark",
+      "url": "https://techcrunch.com/2026/03/01/honor-launches-its-new-slim-foldable-magic-v6-with-a-6600-mah-battery/",
+      "publishedAt": "2026-03-01T15:13:09.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Ivan Mehta",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3098239",
+      "title": "Anthropic’s Claude rises to No. 1 in the App Store following Pentagon dispute",
+      "description": "Anthropic’s chatbot Claude seems to have benefited from the attention around the company’s fraught negotiations with the Pentagon.",
+      "url": "https://techcrunch.com/2026/03/01/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/",
+      "publishedAt": "2026-03-01T14:48:58.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3097359",
+      "title": "SaaS in, SaaS out: Here’s what’s driving the SaaSpocalypse",
+      "description": "What's behind the SaaSpocalypse? It simply seems a new supreme has risen.",
+      "url": "https://techcrunch.com/2026/03/01/saas-in-saas-out-heres-whats-driving-the-saaspocalypse/",
+      "publishedAt": "2026-03-01T14:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "tags": []
+    },
+    {
       "id": "https://techcrunch.com/?p=3098273",
       "title": "The trap Anthropic built for itself",
       "description": "Anthropic, OpenAI, Google DeepMind and others have long promised to govern themselves responsibly. Now, in the absence of rules, there's not a lot to",

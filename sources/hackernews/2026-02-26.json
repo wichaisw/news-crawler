@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "f6g893",
+      "title": "C64 Copy Protection",
+      "description": "Score: 40 | Comments: 3 | Posted by snvzz",
+      "url": "https://www.commodoregames.net/copyprotection/",
+      "publishedAt": "2026-02-26T23:59:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "snvzz",
+      "tags": []
+    },
+    {
       "id": "rh1t6f",
       "title": "Statement from Dario Amodei on our discussions with the Department of Waranthropic.com",
       "description": "Score: 1462 | Comments: 765 | Posted by qwertox",
@@ -58,6 +69,17 @@
       "tags": []
     },
     {
+      "id": "e8bg6t",
+      "title": "What our DNA reveals about the sex life of Neanderthals",
+      "description": "Score: 38 | Comments: 35 | Posted by Hooke",
+      "url": "https://www.nytimes.com/2026/02/26/science/human-evolution-neanderthal-sex.html",
+      "publishedAt": "2026-02-26T21:55:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Hooke",
+      "tags": []
+    },
+    {
       "id": "q4aklx",
       "title": "Show HN: Unfucked - version all changes (by any tool) - local-first/source avail",
       "description": "Score: 81 | Comments: 41 | Posted by cyrusradfar",
@@ -99,6 +121,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "alexmolas",
+      "tags": []
+    },
+    {
+      "id": "i4jzj9",
+      "title": "Setting up phones is a nightmare",
+      "description": "Score: 136 | Comments: 173 | Posted by bariumbitmap",
+      "url": "https://joelchrono.xyz/blog/setting-up-phones-is-a-nightmare/",
+      "publishedAt": "2026-02-26T19:36:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bariumbitmap",
       "tags": []
     },
     {
@@ -223,6 +256,17 @@
       "tags": []
     },
     {
+      "id": "wtgiut",
+      "title": "Interview with Øyvind Kolås, GIMP developer (2017)",
+      "description": "Score: 130 | Comments: 58 | Posted by ibobev",
+      "url": "https://www.gimp.org/news/2026/02/22/%C3%B8yvind-kol%C3%A5s-interview-ww2017/",
+      "publishedAt": "2026-02-26T16:39:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
+      "tags": []
+    },
+    {
       "id": "926v5i",
       "title": "Open Source Endowment – new funding source for open source maintainers",
       "description": "Score: 229 | Comments: 140 | Posted by kvinogradov",
@@ -278,6 +322,17 @@
       "tags": []
     },
     {
+      "id": "pi8w9b",
+      "title": "Long Range E-Bike (2021)",
+      "description": "Score: 144 | Comments: 218 | Posted by birdculture",
+      "url": "https://jacquesmattheij.com/long-range-ebike/",
+      "publishedAt": "2026-02-26T13:41:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "birdculture",
+      "tags": []
+    },
+    {
       "id": "lsorl3",
       "title": "Show HN: I built a self-hosted course platform in Clojure",
       "description": "Score: 40 | Comments: 5 | Posted by jacekschae",
@@ -319,6 +374,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "littlexsparkee",
+      "tags": []
+    },
+    {
+      "id": "wuarpy",
+      "title": "The real cost of random I/O",
+      "description": "Score: 95 | Comments: 20 | Posted by jpineman",
+      "url": "https://vondra.me/posts/the-real-cost-of-random-io/",
+      "publishedAt": "2026-02-26T12:38:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jpineman",
+      "tags": []
+    },
+    {
+      "id": "wcpfa6",
+      "title": "Programming in K",
+      "description": "Score: 54 | Comments: 9 | Posted by tosh",
+      "url": "https://github.com/JohnEarnest/ok/blob/gh-pages/docs/Programming.md",
+      "publishedAt": "2026-02-26T11:27:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tosh",
       "tags": []
     },
     {
