@@ -25,6 +25,28 @@
       "tags": []
     },
     {
+      "id": "eznwe6",
+      "title": "Programmable Cryptography (2024)",
+      "description": "Score: 62 | Comments: 35 | Posted by fi-le",
+      "url": "https://0xparc.org/writings/programmable-cryptography-1",
+      "publishedAt": "2026-02-28T22:43:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fi-le",
+      "tags": []
+    },
+    {
+      "id": "wwyqek",
+      "title": "Simple screw counter",
+      "description": "Score: 60 | Comments: 12 | Posted by jk_tech",
+      "url": "https://mitxela.com/projects/screwcounter",
+      "publishedAt": "2026-02-28T22:41:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jk_tech",
+      "tags": []
+    },
+    {
       "id": "7gl6gb",
       "title": "The Windows 95 user interface: A case study in usability engineering (1996)",
       "description": "Score: 212 | Comments: 126 | Posted by ksec",
@@ -102,6 +124,17 @@
       "tags": []
     },
     {
+      "id": "hizn0f",
+      "title": "Moldova broke our data pipeline",
+      "description": "Score: 20 | Comments: 7 | Posted by almonerthis",
+      "url": "https://www.avraam.dev/blog/moldova-broke-our-pipeline",
+      "publishedAt": "2026-02-28T17:23:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "almonerthis",
+      "tags": []
+    },
+    {
       "id": "dbzy8q",
       "title": "Verified Spec-Driven Development (VSDD)",
       "description": "Score: 166 | Comments: 87 | Posted by todsacerdoti",
@@ -168,6 +201,17 @@
       "tags": []
     },
     {
+      "id": "kkv97t",
+      "title": "Why Objective-C",
+      "description": "Score: 130 | Comments: 121 | Posted by ingve",
+      "url": "https://inessential.com/2026/02/27/why-objective-c.html",
+      "publishedAt": "2026-02-28T12:41:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingve",
+      "tags": []
+    },
+    {
       "id": "x3agzd",
       "title": "The Future of AI",
       "description": "Score: 123 | Comments: 98 | Posted by BerislavLopac",
@@ -212,6 +256,17 @@
       "tags": []
     },
     {
+      "id": "20pbgq",
+      "title": "Show HN: Visual Lambda Calculus – a thesis project (2008) revived for the web",
+      "description": "Score: 38 | Comments: 5 | Posted by bntr",
+      "url": "https://github.com/bntre/visual-lambda",
+      "publishedAt": "2026-02-28T06:04:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bntr",
+      "tags": []
+    },
+    {
       "id": "8evfva",
       "title": "Rust is just a tool",
       "description": "Score: 151 | Comments: 162 | Posted by JuniperMesos",
@@ -231,6 +286,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "d3440v",
+      "title": "Build your own Command Line with ANSI escape codes (2016)",
+      "description": "Score: 36 | Comments: 13 | Posted by vinhnx",
+      "url": "https://www.lihaoyi.com/post/BuildyourownCommandLinewithANSIescapecodes.html",
+      "publishedAt": "2026-02-28T03:48:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vinhnx",
       "tags": []
     },
     {
@@ -341,6 +407,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "veverkap",
+      "tags": []
+    },
+    {
+      "id": "sw0y35",
+      "title": "Zclaw – The 888 KiB Assistant",
+      "description": "Score: 79 | Comments: 44 | Posted by kristianpaul",
+      "url": "https://zclaw.dev",
+      "publishedAt": "2026-02-28T00:47:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kristianpaul",
+      "tags": []
+    },
+    {
+      "id": "wpayht",
+      "title": "LFortran compiles fpm",
+      "description": "Score: 61 | Comments: 29 | Posted by wtlin",
+      "url": "https://lfortran.org/blog/2026/02/lfortran-compiles-fpm/",
+      "publishedAt": "2026-02-28T00:12:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wtlin",
       "tags": []
     }
   ]

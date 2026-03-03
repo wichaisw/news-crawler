@@ -69,6 +69,17 @@
       "tags": []
     },
     {
+      "id": "tltac",
+      "title": "Guido van Rossum Interviews Thomas Wouters (Python Core Dev)",
+      "description": "Score: 6 | Comments: 0 | Posted by azhenley",
+      "url": "https://gvanrossum.github.io/interviews/Thomas.html",
+      "publishedAt": "2026-03-01T20:06:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "azhenley",
+      "tags": []
+    },
+    {
       "id": "s9avu",
       "title": "Why does C have the best file API",
       "description": "Score: 98 | Comments: 60 | Posted by maurycyz",
@@ -99,6 +110,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "doener",
+      "tags": []
+    },
+    {
+      "id": "3grdj6",
+      "title": "Inside the M4 Apple Neural Engine, Part 1: Reverse Engineering",
+      "description": "Score: 308 | Comments: 83 | Posted by zdw",
+      "url": "https://maderix.substack.com/p/inside-the-m4-apple-neural-engine",
+      "publishedAt": "2026-03-01T17:11:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
       "tags": []
     },
     {
@@ -168,6 +190,17 @@
       "tags": []
     },
     {
+      "id": "e04cyj",
+      "title": "Against Query Based Compilers",
+      "description": "Score: 51 | Comments: 28 | Posted by surprisetalk",
+      "url": "https://matklad.github.io/2026/02/25/against-query-based-compilers.html",
+      "publishedAt": "2026-03-01T12:54:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
       "id": "m0vd89",
       "title": "Show HN: I built a zero-browser, pure-JS typesetting engine for bit-perfect PDFs",
       "description": "Score: 44 | Comments: 22 | Posted by cosmiciron",
@@ -212,6 +245,17 @@
       "tags": []
     },
     {
+      "id": "vantaa",
+      "title": "The Cathode Ray Tube site",
+      "description": "Score: 26 | Comments: 2 | Posted by joebig",
+      "url": "https://www.crtsite.com/didactic-crt.html",
+      "publishedAt": "2026-03-01T10:51:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "joebig",
+      "tags": []
+    },
+    {
       "id": "xfsqv",
       "title": "Microgpt explained interactively",
       "description": "Score: 244 | Comments: 37 | Posted by growingswe",
@@ -231,6 +275,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mschnell",
+      "tags": []
+    },
+    {
+      "id": "o4n8ny",
+      "title": "Guilty Displeasures",
+      "description": "Score: 45 | Comments: 52 | Posted by aregue",
+      "url": "https://www.hopefulmons.com/p/what-are-your-guilty-displeasures",
+      "publishedAt": "2026-03-01T08:22:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "aregue",
       "tags": []
     },
     {

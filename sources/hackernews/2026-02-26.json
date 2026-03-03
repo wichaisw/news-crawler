@@ -146,6 +146,17 @@
       "tags": []
     },
     {
+      "id": "s3dc4l",
+      "title": "RCade: Building a Community Arcade Cabinet",
+      "description": "Score: 68 | Comments: 14 | Posted by evakhoury",
+      "url": "https://www.frankchiarulli.com/blog/building-the-rcade/",
+      "publishedAt": "2026-02-26T19:09:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "evakhoury",
+      "tags": []
+    },
+    {
       "id": "wuo1tf",
       "title": "Show HN: Rev-dep – 20x faster knip.dev alternative build in Go",
       "description": "Score: 39 | Comments: 9 | Posted by jayu_dev",
@@ -308,6 +319,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "DamnInteresting",
+      "tags": []
+    },
+    {
+      "id": "e1z870",
+      "title": "Use the Mikado Method to do safe changes in a complex codebase",
+      "description": "Score: 167 | Comments: 72 | Posted by foenix",
+      "url": "https://understandlegacycode.com/blog/a-process-to-do-safe-changes-in-a-complex-codebase/",
+      "publishedAt": "2026-02-26T15:03:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "foenix",
       "tags": []
     },
     {

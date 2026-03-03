@@ -1,0 +1,39 @@
+{
+  "date": "2026-03-03",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3098742",
+      "title": "Cursor has reportedly surpassed $2B in annualized revenue",
+      "description": "The four-year-old startup saw its revenue run rate double over the past three months, according to one Bloomberg source.",
+      "url": "https://techcrunch.com/2026/03/02/cursor-has-reportedly-surpassed-2b-in-annualized-revenue/",
+      "publishedAt": "2026-03-03T01:53:59.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Marina Temkin",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3098556",
+      "title": "India’s Pronto formalizes house help as its valuation jumps 8x in under a year",
+      "description": "Pronto handles 18,000 daily bookings and plans rapid expansion as it races rivals to digitize India's largely offline home services market.",
+      "url": "https://techcrunch.com/2026/03/02/indias-pronto-formalizes-house-help-as-its-valuation-jumps-8x-in-under-a-year/",
+      "publishedAt": "2026-03-03T01:15:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Jagmeet Singh",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3098711",
+      "title": "ChatGPT uninstalls surged by 295% after DoD deal",
+      "description": "Many consumers ditched ChatGPT's app after news of its DoD deal went live, while Claude's downloads grew.",
+      "url": "https://techcrunch.com/2026/03/02/chatgpt-uninstalls-surged-by-295-after-dod-deal/",
+      "publishedAt": "2026-03-03T00:03:37.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sarah Perez",
+      "tags": []
+    }
+  ]
+}

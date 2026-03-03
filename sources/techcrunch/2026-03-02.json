@@ -1,0 +1,193 @@
+{
+  "date": "2026-03-02",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3098620",
+      "title": "Stripe wants to turn your AI costs into a profit center",
+      "description": "Stripe released a preview intended to allow AI companies to easily track, pass through, and make a profit on underlying AI model fees.",
+      "url": "https://techcrunch.com/2026/03/02/stripe-wants-to-turn-your-ai-costs-into-a-profit-center/",
+      "publishedAt": "2026-03-02T23:18:27.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Julie Bort",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3098631",
+      "title": "Geopolitical drama reportedly stalls IPO of SoftBank-backed PayPay",
+      "description": "The Japan-based company reportedly aimed for a public valuation of at least ¥1.5 trillion ($10 billion).",
+      "url": "https://techcrunch.com/2026/03/02/geopolitical-drama-reportedly-stalls-ipo-of-softbank-backed-paypay/",
+      "publishedAt": "2026-03-02T23:01:57.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Marina Temkin",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3098660",
+      "title": "No one has a good plan for how AI companies should work with the government",
+      "description": "As OpenAI transitions from a wildly successful consumer startup into a piece of national security infrastructure, the company seems unequipped to",
+      "url": "https://techcrunch.com/2026/03/02/openai-anthropic-department-of-defense-war-hegseth-ai-companies-work-with-us-government/",
+      "publishedAt": "2026-03-02T22:59:10.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Russell Brandom",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3098085",
+      "title": "A new app alerts you if someone nearby is wearing smart glasses",
+      "description": "A hobbyist developer's new app, which can detect nearby smart glasses, comes amid resistance to always-on recording and listening devices that invade",
+      "url": "https://techcrunch.com/2026/03/02/nearby-glasses-new-app-alerts-you-wearing-smart-glasses-surveillance-meta-snap-bluetooth/",
+      "publishedAt": "2026-03-02T22:40:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Zack Whittaker",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3098594",
+      "title": "Instagram tracked growing usage while targeting teens, lawyers argue",
+      "description": "The company said usage grew from 40 minutes per day in 2023 to 46 minutes in 2026. Other documents referenced teens as being a top priority for the",
+      "url": "https://techcrunch.com/2026/03/02/instagram-tracked-growing-usage-while-targeting-teens-lawyers-argue/",
+      "publishedAt": "2026-03-02T22:23:48.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sarah Perez",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3098443",
+      "title": "Users are ditching ChatGPT for Claude — here’s how to make the switch",
+      "description": "Following controversies surrounding ChatGPT, many users are ditching the AI chatbot for Claude instead. Here's how to make the switch.",
+      "url": "https://techcrunch.com/2026/03/02/users-are-ditching-chatgpt-for-claude-heres-how-to-make-the-switch/",
+      "publishedAt": "2026-03-02T18:42:11.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lauren Forristal",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3098525",
+      "title": "Paramount+ and HBO Max to merge into one streaming service after WBD deal closes",
+      "description": "Ellison reassured investors that HBO’s identity and creative vision as a studio would remain unchanged, stating, “Our viewpoint is HBO should stay",
+      "url": "https://techcrunch.com/2026/03/02/paramount-and-hbo-max-to-merge-into-one-streaming-service-after-wbd-deal-closes/",
+      "publishedAt": "2026-03-02T18:34:19.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lauren Forristal",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3098455",
+      "title": "Tech workers urge DOD, Congress to withdraw Anthropic label as a supply-chain risk",
+      "description": "Tech workers have signed an open letter urging the Department of Defense to withdraw its designation of Anthropic as a \"supply chain risk\" and",
+      "url": "https://techcrunch.com/2026/03/02/tech-workers-urge-dod-congress-to-withdraw-anthropic-label-as-a-supply-chain-risk/",
+      "publishedAt": "2026-03-02T17:18:34.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Rebecca Bellan",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3098425",
+      "title": "X adds ‘Paid Partnership’ labels so creators can ditch the hashtags",
+      "description": "The new labels comply with regulations and allow creators to be more transparent with their followers.",
+      "url": "https://techcrunch.com/2026/03/02/x-ads-paid-partnership-labels-for-creators-so-they-can-ditch-the-hashtags/",
+      "publishedAt": "2026-03-02T16:25:08.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sarah Perez",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3098421",
+      "title": "Hacktivists claim to have hacked Homeland Security to release ICE contract data",
+      "description": "A hacking group called Department of Peace said they hacked a specific office within Homeland Security to protest ICE’s mass deportation campaign,",
+      "url": "https://techcrunch.com/2026/03/02/hacktivists-claim-to-have-hacked-homeland-security-to-release-ice-contract-data/",
+      "publishedAt": "2026-03-02T16:11:56.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lorenzo Franceschi-Bicchierai",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3096045",
+      "title": "A married founder duo’s company, 14.ai, is replacing customer support teams at startups",
+      "description": "14.ai also launched a consumer brand to understand how much AI can handle customer support tasks.",
+      "url": "https://techcrunch.com/2026/03/02/a-married-founder-duos-company-14-ai-is-replacing-customer-support-teams-at-startups/",
+      "publishedAt": "2026-03-02T15:14:36.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Ivan Mehta",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3098385",
+      "title": "Apple speeds up the iPad Air with an M4 upgrade, starting at $599",
+      "description": "Apple refreshes the iPad Air with the M4 chip and more memory to make it better for AI use cases.",
+      "url": "https://techcrunch.com/2026/03/02/apple-speeds-up-the-ipad-air-with-an-m4-upgrade-starting-at-599/",
+      "publishedAt": "2026-03-02T15:06:20.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sarah Perez",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3098386",
+      "title": "Apple bakes in AI smarts into its new $599 iPhone 17e",
+      "description": "The base model comes with 256 GB of storage, which Apple says is twice the entry storage from the previous generation at the same starting price.",
+      "url": "https://techcrunch.com/2026/03/02/apples-bakes-in-ai-smarts-into-its-new-599-iphone-17e/",
+      "publishedAt": "2026-03-02T14:53:14.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Aisha Malik",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3098364",
+      "title": "Hackers and internet outages hit Iran amid US air strikes",
+      "description": "Users of a popular Iranian prayer app were flooded with phone notifications as U.S. air strikes hit Iran's biggest cities, killing the country's",
+      "url": "https://techcrunch.com/2026/03/02/hackers-and-internet-outages-hit-iran-amid-u-s-air-strikes/",
+      "publishedAt": "2026-03-02T14:16:53.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Zack Whittaker",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3098039",
+      "title": "MyFitnessPal has acquired Cal AI, the viral calorie app built by teens",
+      "description": "After wooing Cal AI for months, MyFitnessPal has successfully acquired its up-and-coming rival, Cal AI, the app built by teens soaring on the apps",
+      "url": "https://techcrunch.com/2026/03/02/myfitnesspal-has-acquired-cal-ai-the-viral-calorie-app-built-by-teens/",
+      "publishedAt": "2026-03-02T14:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Julie Bort",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3098324",
+      "title": "Parade’s Cami Tellez announces new creator economy marketing platform, $4M in funding",
+      "description": "Cami Tellez announces launch of new company, $4 million raise.",
+      "url": "https://techcrunch.com/2026/03/02/parades-cami-tellez-announces-new-creator-economy-marketing-platform-4m-in-funding/",
+      "publishedAt": "2026-03-02T14:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3098361",
+      "title": "Anthropic’s Claude reports widespread outage",
+      "description": "Anthropic's AI chatbot Claude experienced widespread service disruptions on Monday morning, with thousands of users reporting issues accessing the",
+      "url": "https://techcrunch.com/2026/03/02/anthropics-claude-reports-widespread-outage/",
+      "publishedAt": "2026-03-02T13:31:49.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Ram Iyer",
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "date": "2026-03-03",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "ylwozz",
+      "title": "I've been running GrapheneOS on my Pixel Fold for over half a year",
+      "description": "Score: 17 | Comments: 0 | Posted by zdw",
+      "url": "https://blog.matthewbrunelle.com/8-4-months-of-daily-driving-grapheneos/",
+      "publishedAt": "2026-03-03T05:18:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "260eqn",
+      "title": "Intent-Based Commits",
+      "description": "Score: 21 | Comments: 11 | Posted by adamveld12",
+      "url": "https://github.com/adamveld12/ghost",
+      "publishedAt": "2026-03-03T04:20:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "adamveld12",
+      "tags": []
+    },
+    {
+      "id": "wwyqek",
+      "title": "Simple screw countermitxela.com",
+      "description": "Score: 59 | Comments: 12 | Posted by jk_tech",
+      "url": "https://mitxela.com/projects/screwcounter",
+      "publishedAt": "2026-03-03T03:21:49.497Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jk_tech",
+      "tags": []
+    },
+    {
+      "id": "r3m8u5",
+      "title": "Show HN: Giggles – A batteries-included React framework for TUIs",
+      "description": "Score: 10 | Comments: 7 | Posted by ajz317",
+      "url": "https://github.com/zion-off/giggles",
+      "publishedAt": "2026-03-03T02:26:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ajz317",
+      "tags": []
+    },
+    {
+      "id": "1ht19d",
+      "title": "The Excommunicated Devs Making Games with AI",
+      "description": "Score: 25 | Comments: 7 | Posted by tyleo",
+      "url": "https://www.tyleo.com/blog/the-excommunicated-devs-making-games-with-ai",
+      "publishedAt": "2026-03-03T02:16:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tyleo",
+      "tags": []
+    },
+    {
+      "id": "rg6xzy",
+      "title": "Do AI Agents Make Money in 2026? Or Is It Just Mac Minis and Vibes?",
+      "description": "Score: 28 | Comments: 17 | Posted by SaaSasaurus",
+      "url": "https://www.siliconsnark.com/do-ai-agents-actually-make-money-in-2026-or-is-it-just-mac-minis-and-vibes/",
+      "publishedAt": "2026-03-03T02:00:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "SaaSasaurus",
+      "tags": []
+    },
+    {
+      "id": "oi0zca",
+      "title": "Ars Technica fires reporter after AI controversy involving fabricated quotesfuturism.com",
+      "description": "Score: 150 | Comments: 73 | Posted by danso",
+      "url": "https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes",
+      "publishedAt": "2026-03-03T01:21:49.497Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "danso",
+      "tags": []
+    },
+    {
+      "id": "oi0zca",
+      "title": "Ars Technica fires reporter after AI controversy involving fabricated quotes",
+      "description": "Score: 151 | Comments: 73 | Posted by danso",
+      "url": "https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes",
+      "publishedAt": "2026-03-03T01:12:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "danso",
+      "tags": []
+    }
+  ]
+}
