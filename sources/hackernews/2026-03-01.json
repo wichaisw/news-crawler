@@ -245,6 +245,17 @@
       "tags": []
     },
     {
+      "id": "2rgrxa",
+      "title": "Welcoming Elizabeth Barron as the New Executive Director of the PHP Foundation",
+      "description": "Score: 13 | Comments: 2 | Posted by ulrischa",
+      "url": "https://thephp.foundation/blog/2026/02/27/welcoming-elizabeth-barron-new-executive-director/",
+      "publishedAt": "2026-03-01T10:56:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ulrischa",
+      "tags": []
+    },
+    {
       "id": "vantaa",
       "title": "The Cathode Ray Tube site",
       "description": "Score: 26 | Comments: 2 | Posted by joebig",
@@ -264,6 +275,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "growingswe",
+      "tags": []
+    },
+    {
+      "id": "cecert",
+      "title": "On the Design of Programming Languages (1974) [pdf]",
+      "description": "Score: 7 | Comments: 0 | Posted by jruohonen",
+      "url": "https://web.cs.ucdavis.edu/~su/teaching/ecs240-w17/readings/PLHistoryGoodDesign.PDF",
+      "publishedAt": "2026-03-01T09:09:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jruohonen",
       "tags": []
     },
     {
@@ -289,6 +311,17 @@
       "tags": []
     },
     {
+      "id": "3c3rup",
+      "title": "What’s in a name? (2014)",
+      "description": "Score: 17 | Comments: 6 | Posted by Curiositry",
+      "url": "https://sailsandcommas.com/2014/02/03/whats-in-a-name/",
+      "publishedAt": "2026-03-01T08:15:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Curiositry",
+      "tags": []
+    },
+    {
       "id": "itbsex",
       "title": "10-202: Introduction to Modern AI (CMU)",
       "description": "Score: 241 | Comments: 55 | Posted by vismit2000",
@@ -297,6 +330,50 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "vismit2000",
+      "tags": []
+    },
+    {
+      "id": "6pkt6o",
+      "title": "Mount Mayhem at Netflix: Scaling Containers on Modern CPUs",
+      "description": "Score: 35 | Comments: 9 | Posted by vquemener",
+      "url": "https://netflixtechblog.com/mount-mayhem-at-netflix-scaling-containers-on-modern-cpus-f3b09b68beac",
+      "publishedAt": "2026-03-01T06:25:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vquemener",
+      "tags": []
+    },
+    {
+      "id": "6ohzim",
+      "title": "Textadept",
+      "description": "Score: 107 | Comments: 19 | Posted by giancarlostoro",
+      "url": "https://orbitalquark.github.io/textadept/",
+      "publishedAt": "2026-03-01T05:36:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "giancarlostoro",
+      "tags": []
+    },
+    {
+      "id": "qzx1w0",
+      "title": "A pretty looking web for a quantum mechanics tool",
+      "description": "Score: 8 | Comments: 0 | Posted by Jamessfks123",
+      "url": "https://github.com/Jamessfks/mace",
+      "publishedAt": "2026-03-01T05:00:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Jamessfks123",
+      "tags": []
+    },
+    {
+      "id": "pmrczv",
+      "title": "TorchLean: Formalizing Neural Networks in Lean",
+      "description": "Score: 85 | Comments: 12 | Posted by matt_d",
+      "url": "https://leandojo.org/torchlean.html",
+      "publishedAt": "2026-03-01T03:03:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "matt_d",
       "tags": []
     },
     {

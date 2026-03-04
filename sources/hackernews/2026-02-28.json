@@ -25,6 +25,17 @@
       "tags": []
     },
     {
+      "id": "m7fmow",
+      "title": "You can use newline characters in URLs",
+      "description": "Score: 45 | Comments: 21 | Posted by chmaynard",
+      "url": "https://lemire.me/blog/2026/02/28/you-can-use-newline-characters-in-urls/",
+      "publishedAt": "2026-02-28T23:24:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "chmaynard",
+      "tags": []
+    },
+    {
       "id": "eznwe6",
       "title": "Programmable Cryptography (2024)",
       "description": "Score: 62 | Comments: 35 | Posted by fi-le",
@@ -256,6 +267,17 @@
       "tags": []
     },
     {
+      "id": "mm8xdr",
+      "title": "Time, Space, and Life as We Know It (2017)",
+      "description": "Score: 15 | Comments: 0 | Posted by vismit2000",
+      "url": "https://raganwald.com/2017/01/12/time-space-life-as-we-know-it.html",
+      "publishedAt": "2026-02-28T06:12:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vismit2000",
+      "tags": []
+    },
+    {
       "id": "20pbgq",
       "title": "Show HN: Visual Lambda Calculus – a thesis project (2008) revived for the web",
       "description": "Score: 38 | Comments: 5 | Posted by bntr",
@@ -283,6 +305,17 @@
       "description": "Score: 7 | Comments: 0 | Posted by zdw",
       "url": "https://computer.rip/2026-02-27-ibm-atm.html",
       "publishedAt": "2026-02-28T05:21:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "wfqv5n",
+      "title": "Disable Your SSH access accidentally with scp",
+      "description": "Score: 110 | Comments: 52 | Posted by zdw",
+      "url": "https://sny.sh/hypha/blog/scp",
+      "publishedAt": "2026-02-28T05:18:22.000Z",
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "zdw",

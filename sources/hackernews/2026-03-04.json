@@ -1,0 +1,171 @@
+{
+  "date": "2026-03-04",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "1evpvb",
+      "title": "A CPU that runs entirely on GPU",
+      "description": "Score: 15 | Comments: 4 | Posted by cypres",
+      "url": "https://github.com/robertcprice/nCPU",
+      "publishedAt": "2026-03-04T04:30:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cypres",
+      "tags": []
+    },
+    {
+      "id": "6fhajw",
+      "title": "Nobody Gets Promoted for Simplicity",
+      "description": "Score: 125 | Comments: 49 | Posted by SerCe",
+      "url": "https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/",
+      "publishedAt": "2026-03-04T03:40:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "SerCe",
+      "tags": []
+    },
+    {
+      "id": "ay4qjx",
+      "title": "Giving LLMs a personality is just good engineering",
+      "description": "Score: 6 | Comments: 0 | Posted by dboon",
+      "url": "https://www.seangoedecke.com/giving-llms-a-personality/",
+      "publishedAt": "2026-03-04T03:37:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dboon",
+      "tags": []
+    },
+    {
+      "id": "1cf56o",
+      "title": "California's Digital Age Assurance Act, and FOSS",
+      "description": "Score: 74 | Comments: 56 | Posted by todsacerdoti",
+      "url": "https://runxiyu.org/comp/ab1043/",
+      "publishedAt": "2026-03-04T03:36:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "brspl7",
+      "title": "Speculative Speculative Decoding (SSD)",
+      "description": "Score: 28 | Comments: 3 | Posted by E-Reverance",
+      "url": "https://arxiv.org/abs/2603.03251",
+      "publishedAt": "2026-03-04T03:24:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "E-Reverance",
+      "tags": []
+    },
+    {
+      "id": "bp16fq",
+      "title": "LLMs can unmask pseudonymous users at scale with surprising accuracy",
+      "description": "Score: 48 | Comments: 25 | Posted by Gagarin1917",
+      "url": "https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/",
+      "publishedAt": "2026-03-04T03:00:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Gagarin1917",
+      "tags": []
+    },
+    {
+      "id": "pm7e2i",
+      "title": "Mac external displays for designers and developers, part 2 (2022)",
+      "description": "Score: 32 | Comments: 15 | Posted by fragmede",
+      "url": "https://bjango.com/articles/macexternaldisplays2/",
+      "publishedAt": "2026-03-04T02:43:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fragmede",
+      "tags": []
+    },
+    {
+      "id": "24kjvz",
+      "title": "Number Research Inc",
+      "description": "Score: 18 | Comments: 11 | Posted by eieio",
+      "url": "https://numberresearch.xyz/",
+      "publishedAt": "2026-03-04T02:34:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "eieio",
+      "tags": []
+    },
+    {
+      "id": "z4utez",
+      "title": "Graphics Programming Resources",
+      "description": "Score: 51 | Comments: 4 | Posted by abetusk",
+      "url": "https://develop--gpvm-website.netlify.app/resources/",
+      "publishedAt": "2026-03-04T02:23:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "abetusk",
+      "tags": []
+    },
+    {
+      "id": "itl8oi",
+      "title": "Weave – A language aware merge algorithm based on entities",
+      "description": "Score: 81 | Comments: 46 | Posted by rs545837",
+      "url": "https://github.com/Ataraxy-Labs/weave",
+      "publishedAt": "2026-03-04T01:52:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rs545837",
+      "tags": []
+    },
+    {
+      "id": "gk2x6s",
+      "title": "TikTok will not introduce end-to-end encryption, saying it makes users less safe",
+      "description": "Score: 111 | Comments: 71 | Posted by 1659447091",
+      "url": "https://www.bbc.com/news/articles/cly2m5e5ke4o",
+      "publishedAt": "2026-03-04T01:31:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "1659447091",
+      "tags": []
+    },
+    {
+      "id": "3focx2",
+      "title": "The largest acidic geyser has been putting on quite a show",
+      "description": "Score: 41 | Comments: 1 | Posted by 1659447091",
+      "url": "https://www.usgs.gov/observatories/yvo/news/echinus-geyser-back-action-now",
+      "publishedAt": "2026-03-04T01:27:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "1659447091",
+      "tags": []
+    },
+    {
+      "id": "nc2gls",
+      "title": "Motorola GrapheneOS devices will be bootloader unlockable/relockablegrapheneos.social",
+      "description": "Score: 361 | Comments: 92 | Posted by pabs3",
+      "url": "https://grapheneos.social/@GrapheneOS/116160393783585567",
+      "publishedAt": "2026-03-04T01:19:55.924Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pabs3",
+      "tags": []
+    },
+    {
+      "id": "nc2gls",
+      "title": "Motorola GrapheneOS devices will be bootloader unlockable/relockable",
+      "description": "Score: 361 | Comments: 91 | Posted by pabs3",
+      "url": "https://grapheneos.social/@GrapheneOS/116160393783585567",
+      "publishedAt": "2026-03-04T00:58:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pabs3",
+      "tags": []
+    },
+    {
+      "id": "c6e9ow",
+      "title": "Claude's Cycles [pdf]",
+      "description": "Score: 24 | Comments: 3 | Posted by cebert",
+      "url": "https://cs.stanford.edu/~knuth/papers/claude-cycles.pdf",
+      "publishedAt": "2026-03-04T00:37:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cebert",
+      "tags": []
+    }
+  ]
+}
