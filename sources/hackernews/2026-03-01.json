@@ -146,6 +146,17 @@
       "tags": []
     },
     {
+      "id": "2pjtku",
+      "title": "My Favorite 39C3 Talks",
+      "description": "Score: 57 | Comments: 4 | Posted by max_",
+      "url": "https://asindu.xyz/my-favorite-39c3-talks/",
+      "publishedAt": "2026-03-01T15:36:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "max_",
+      "tags": []
+    },
+    {
       "id": "snefb5",
       "title": "Lil' Fun Langs' Guts",
       "description": "Score: 38 | Comments: 3 | Posted by surprisetalk",
@@ -190,6 +201,17 @@
       "tags": []
     },
     {
+      "id": "nyi71e",
+      "title": "RE#: how we built the fastest regex engine in F#",
+      "description": "Score: 205 | Comments: 70 | Posted by exceptione",
+      "url": "https://iev.ee/blog/resharp-how-we-built-the-fastest-regex-in-fsharp/",
+      "publishedAt": "2026-03-01T13:47:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "exceptione",
+      "tags": []
+    },
+    {
       "id": "e04cyj",
       "title": "Against Query Based Compilers",
       "description": "Score: 51 | Comments: 28 | Posted by surprisetalk",
@@ -231,6 +253,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "nickk81",
+      "tags": []
+    },
+    {
+      "id": "79ad9k",
+      "title": "Show HN: Vertex.js – A 1kloc SPA Framework",
+      "description": "Score: 42 | Comments: 23 | Posted by LukeB42",
+      "url": "https://lukeb42.github.io/vertex-manual.html",
+      "publishedAt": "2026-03-01T11:05:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "LukeB42",
       "tags": []
     },
     {
@@ -286,6 +319,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jruohonen",
+      "tags": []
+    },
+    {
+      "id": "c271pg",
+      "title": "Libre Solar – Open Hardware for Renewable Energy",
+      "description": "Score: 238 | Comments: 71 | Posted by evolve2k",
+      "url": "https://libre.solar",
+      "publishedAt": "2026-03-01T09:01:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "evolve2k",
       "tags": []
     },
     {
@@ -366,6 +410,28 @@
       "tags": []
     },
     {
+      "id": "595p4u",
+      "title": "Show HN: A GFM+GF-MathJax/Latex HTML formatting adventure",
+      "description": "Score: 3 | Comments: 0 | Posted by ycombiredd",
+      "url": "https://github.com/scottvr/phart/blob/main/docs/GHM-LATEX.md",
+      "publishedAt": "2026-03-01T04:05:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ycombiredd",
+      "tags": []
+    },
+    {
+      "id": "5dlu24",
+      "title": "Malm Whale",
+      "description": "Score: 21 | Comments: 7 | Posted by thunderbong",
+      "url": "https://www.atlasobscura.com/places/malm-whale",
+      "publishedAt": "2026-03-01T03:56:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thunderbong",
+      "tags": []
+    },
+    {
       "id": "pmrczv",
       "title": "TorchLean: Formalizing Neural Networks in Lean",
       "description": "Score: 85 | Comments: 12 | Posted by matt_d",
@@ -418,6 +484,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mindcrime",
+      "tags": []
+    },
+    {
+      "id": "58gngf",
+      "title": "Raspberry Pi Pico as AM Radio Transmitter",
+      "description": "Score: 89 | Comments: 31 | Posted by pesfandiar",
+      "url": "https://www.pesfandiar.com/blog/2026/02/28/pico-am-radio-transmitter",
+      "publishedAt": "2026-03-01T00:26:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pesfandiar",
       "tags": []
     }
   ]

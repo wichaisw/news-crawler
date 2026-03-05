@@ -1,0 +1,72 @@
+{
+  "date": "2026-03-05",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "149946 at https://www.blognone.com",
+      "title": "กูเกิลเสนอแนวทางยืนยันตัวตนเซิร์ฟเวอร์ใหม่ ใช้เฉพาะ Log ไม่ต้องส่งใบรับรองเข้ารหัสยกสาย",
+      "description": "กูเกิลเสนอแนวทางยืนยันตัวตนเซิร์ฟเวอร์ใหม่ ใช้เฉพาะ Log ไม่ต้องส่งใบรับรองเข้ารหัสยกสาย Body ทีมงาน Chrome Secure Web and Networking",
+      "url": "https://www.blognone.com/node/149946",
+      "publishedAt": "2026-03-05T05:39:08.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149945 at https://www.blognone.com",
+      "title": "iFixit ให้คะแนนซ่อมแซม ThinkPad T Series รุ่นใหม่ 10 เต็ม 10",
+      "description": "iFixit ให้คะแนนซ่อมแซม ThinkPad T Series รุ่นใหม่ 10 เต็ม 10 Body iFixit แกะแล็ปท็อป ThinkPad T Series ที่เน้นลูกค้าองค์กร รุ่นล่าสุดได้แก่ T14 Gen 7",
+      "url": "https://www.blognone.com/node/149945",
+      "publishedAt": "2026-03-05T05:36:50.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149944 at https://www.blognone.com",
+      "title": "Oppo ประกาศปล่อยอัพเดต Quick Share เชื่อม AirDrop ภายในเดือนมีนาคม 2026",
+      "description": "Oppo ประกาศปล่อยอัพเดต Quick Share เชื่อม AirDrop ภายในเดือนมีนาคม 2026 Body Oppo ประกาศว่าจะรองรับ Android Quick Share ส่งไฟล์แลกกับ AirDrop",
+      "url": "https://www.blognone.com/node/149944",
+      "publishedAt": "2026-03-05T03:20:36.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149943 at https://www.blognone.com",
+      "title": "Google Play ปรับลดค่าส่วนแบ่งนักพัฒนาลง เปิดช่องจ่ายเงินภายนอก, ยุติคดี Epic",
+      "description": "Google Play ปรับลดค่าส่วนแบ่งนักพัฒนาลง เปิดช่องจ่ายเงินภายนอก, ยุติคดี Epic Body กูเกิลประกาศปรับลดค่าธรรมเนียม Google Play Store",
+      "url": "https://www.blognone.com/node/149943",
+      "publishedAt": "2026-03-05T02:37:08.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149942 at https://www.blognone.com",
+      "title": "OpenAI ออกแอปผู้ช่วยเขียนโค้ด Codex เวอร์ชัน Windows",
+      "description": "OpenAI ออกแอปผู้ช่วยเขียนโค้ด Codex เวอร์ชัน Windows Body OpenAI ออกแอปช่วยเขียนโค้ด Codex สำหรับระบบปฏิบัติการ Windows หนึ่งเดือนหลังจากออก เวอร์ชัน",
+      "url": "https://www.blognone.com/node/149942",
+      "publishedAt": "2026-03-05T01:44:14.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149941 at https://www.blognone.com",
+      "title": "Apple อัปเดต iOS 26.3.1 และ macOS Tahoe‌ 26.3.1 รองรับการเชื่อมต่อจอ Studio Display ใหม่",
+      "description": "Apple อัปเดต iOS 26.3.1 และ macOS Tahoe‌ 26.3.1 รองรับการเชื่อมต่อจอ Studio Display ใหม่ Body แอปเปิลออกอัปเดตย่อยระบบปฏิบัติการ iOS 26.3.1, iPadOS",
+      "url": "https://www.blognone.com/node/149941",
+      "publishedAt": "2026-03-05T00:15:33.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}

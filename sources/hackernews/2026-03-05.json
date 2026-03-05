@@ -1,0 +1,105 @@
+{
+  "date": "2026-03-05",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "diwjcx",
+      "title": "Relicensing with AI-Assisted Rewrite",
+      "description": "Score: 26 | Comments: 15 | Posted by tuananh",
+      "url": "https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/",
+      "publishedAt": "2026-03-05T05:07:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tuananh",
+      "tags": []
+    },
+    {
+      "id": "nrmam6",
+      "title": "DOJ proposes policy aimed at limiting state bar ethics probes into its attorneys",
+      "description": "Score: 15 | Comments: 1 | Posted by petethomas",
+      "url": "https://abcnews.com/US/doj-proposes-policy-aimed-limiting-state-bar-ethics/story?id=130755238",
+      "publishedAt": "2026-03-05T04:58:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "petethomas",
+      "tags": []
+    },
+    {
+      "id": "fal6ja",
+      "title": "You Just Reveived",
+      "description": "Score: 45 | Comments: 8 | Posted by djnaraps",
+      "url": "https://dylan.gr/1772520728",
+      "publishedAt": "2026-03-05T04:37:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "djnaraps",
+      "tags": []
+    },
+    {
+      "id": "lnvzjy",
+      "title": "Show HN: Poppy – a simple app to stay intentional with relationships",
+      "description": "Score: 46 | Comments: 10 | Posted by mahirhiro",
+      "url": "https://poppy-connection-keeper.netlify.app/",
+      "publishedAt": "2026-03-05T03:56:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mahirhiro",
+      "tags": []
+    },
+    {
+      "id": "qqsfss",
+      "title": "What Python's asyncio primitives get wrong about shared state",
+      "description": "Score: 31 | Comments: 20 | Posted by goodoldneon",
+      "url": "https://www.inngest.com/blog/no-lost-updates-python-asyncio",
+      "publishedAt": "2026-03-05T02:55:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "goodoldneon",
+      "tags": []
+    },
+    {
+      "id": "xf9fgy",
+      "title": "Jensen Huang says Nvidia is pulling back from OpenAI and Anthropic",
+      "description": "Score: 104 | Comments: 37 | Posted by jnord",
+      "url": "https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/",
+      "publishedAt": "2026-03-05T02:33:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jnord",
+      "tags": []
+    },
+    {
+      "id": "rwdecy",
+      "title": "Chaos and Dystopian news for the dead internet survivors",
+      "description": "Score: 76 | Comments: 28 | Posted by anonnona8878",
+      "url": "https://www.fubardaily.com",
+      "publishedAt": "2026-03-05T01:50:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "anonnona8878",
+      "tags": []
+    },
+    {
+      "id": "m2vrib",
+      "title": "Google Workspace CLIgithub.com/googleworkspace",
+      "description": "Score: 390 | Comments: 143 | Posted by gonzalovargas",
+      "url": "https://github.com/googleworkspace/cli",
+      "publishedAt": "2026-03-05T01:21:59.386Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gonzalovargas",
+      "tags": []
+    },
+    {
+      "id": "m2vrib",
+      "title": "Google Workspace CLI",
+      "description": "Score: 391 | Comments: 143 | Posted by gonzalovargas",
+      "url": "https://github.com/googleworkspace/cli",
+      "publishedAt": "2026-03-05T00:22:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gonzalovargas",
+      "tags": []
+    }
+  ]
+}
