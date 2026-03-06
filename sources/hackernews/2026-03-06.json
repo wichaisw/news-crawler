@@ -1,0 +1,116 @@
+{
+  "date": "2026-03-06",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "r430l4",
+      "title": "TeX Live 2026 is available for download now",
+      "description": "Score: 17 | Comments: 4 | Posted by jithinraj",
+      "url": "https://www.tug.org/texlive/acquire.html",
+      "publishedAt": "2026-03-06T05:20:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jithinraj",
+      "tags": []
+    },
+    {
+      "id": "d6qmc9",
+      "title": "System76 on Age Verification Lawssystem76.com",
+      "description": "Score: 83 | Comments: 32 | Posted by LorenDB",
+      "url": "https://blog.system76.com/post/system76-on-age-verification/",
+      "publishedAt": "2026-03-06T04:20:23.129Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "LorenDB",
+      "tags": []
+    },
+    {
+      "id": "gg2ia4",
+      "title": "Show HN: Swarm – Program a colony of 200 ants using a custom assembly language",
+      "description": "Score: 24 | Comments: 9 | Posted by armandhammer10",
+      "url": "https://dev.moment.com/",
+      "publishedAt": "2026-03-06T04:15:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "armandhammer10",
+      "tags": []
+    },
+    {
+      "id": "c5gixe",
+      "title": "Enhanced brain cells clear away dementia-related proteins",
+      "description": "Score: 13 | Comments: 0 | Posted by WaitWaitWha",
+      "url": "https://medicalxpress.com/news/2026-03-brain-cells-dementia-proteins.html",
+      "publishedAt": "2026-03-06T04:14:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "WaitWaitWha",
+      "tags": []
+    },
+    {
+      "id": "d6qmc9",
+      "title": "System76 on Age Verification Laws",
+      "description": "Score: 85 | Comments: 34 | Posted by LorenDB",
+      "url": "https://blog.system76.com/post/system76-on-age-verification/",
+      "publishedAt": "2026-03-06T04:12:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "LorenDB",
+      "tags": []
+    },
+    {
+      "id": "k25tfx",
+      "title": "Breaking Down 50M Pins: A Smarter Way to Design 3D IC Packages",
+      "description": "Score: 4 | Comments: 0 | Posted by WaitWaitWha",
+      "url": "https://www.allaboutcircuits.com/industry-articles/breaking-down-50-million-pins-a-smarter-way-to-design-3d-ic-packages/",
+      "publishedAt": "2026-03-06T03:56:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "WaitWaitWha",
+      "tags": []
+    },
+    {
+      "id": "3hk81p",
+      "title": "Every Claim from Meta Child Safety Trials",
+      "description": "Score: 6 | Comments: 1 | Posted by laurex",
+      "url": "https://meta-trials.vercel.app/",
+      "publishedAt": "2026-03-06T03:45:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "laurex",
+      "tags": []
+    },
+    {
+      "id": "rpvybr",
+      "title": "The home computer war",
+      "description": "Score: 15 | Comments: 1 | Posted by cfmcdonald",
+      "url": "https://technicshistory.com/2026/03/06/the-home-computer-war/",
+      "publishedAt": "2026-03-06T02:04:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cfmcdonald",
+      "tags": []
+    },
+    {
+      "id": "fnslq3",
+      "title": "How to install and start using LineageOS on your phone",
+      "description": "Score: 30 | Comments: 12 | Posted by todsacerdoti",
+      "url": "https://lockywolf.net/2026-02-19_How-to-install-and-start-using-LineageOS-on-your-phone.d/index.html",
+      "publishedAt": "2026-03-06T00:43:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "mgcnlc",
+      "title": "Where things stand with the Department of War",
+      "description": "Score: 355 | Comments: 346 | Posted by surprisetalk",
+      "url": "https://www.anthropic.com/news/where-stand-department-war",
+      "publishedAt": "2026-03-06T00:40:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    }
+  ]
+}

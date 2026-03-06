@@ -25,6 +25,17 @@
       "tags": []
     },
     {
+      "id": "dja5a3",
+      "title": "Nobody ever got fired for using a struct",
+      "description": "Score: 75 | Comments: 50 | Posted by gz09",
+      "url": "https://www.feldera.com/blog/nobody-ever-got-fired-for-using-a-struct",
+      "publishedAt": "2026-03-02T23:16:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gz09",
+      "tags": []
+    },
+    {
       "id": "ky1rnk",
       "title": "Closure of the Weatheradio service in Canada",
       "description": "Score: 113 | Comments: 52 | Posted by da768",
@@ -55,6 +66,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "sandbach",
+      "tags": []
+    },
+    {
+      "id": "wg3w9q",
+      "title": "The remaking of Thomas Mann",
+      "description": "Score: 11 | Comments: 1 | Posted by benbreen",
+      "url": "https://www.commonwealmagazine.org/thomas-mann-magic-mountain-jensen",
+      "publishedAt": "2026-03-02T22:15:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "benbreen",
       "tags": []
     },
     {
@@ -223,6 +245,17 @@
       "tags": []
     },
     {
+      "id": "l9na9v",
+      "title": "Greg Kroah-Hartman Stretches Support Periods for Key Linux LTS Kernels",
+      "description": "Score: 67 | Comments: 22 | Posted by brideoflinux",
+      "url": "https://fossforce.com/2026/03/greg-kroah-hartman-stretches-support-periods-for-key-linux-lts-kernels/",
+      "publishedAt": "2026-03-02T14:30:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "brideoflinux",
+      "tags": []
+    },
+    {
       "id": "xf7mfy",
       "title": "Parallel coding agents with tmux and Markdown specs",
       "description": "Score: 141 | Comments: 109 | Posted by schipperai",
@@ -297,6 +330,39 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "robtherobber",
+      "tags": []
+    },
+    {
+      "id": "lwec26",
+      "title": "Hardware hotplug events on Linux, the gory details",
+      "description": "Score: 132 | Comments: 10 | Posted by todsacerdoti",
+      "url": "https://arcanenibble.github.io/hardware-hotplug-events-on-linux-the-gory-details.html",
+      "publishedAt": "2026-03-02T09:26:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "v78m06",
+      "title": "Converting dash cam videos into Panoramax images",
+      "description": "Score: 44 | Comments: 7 | Posted by marklit",
+      "url": "https://www.openstreetmap.org/user/FeetAndInches/diary/408268",
+      "publishedAt": "2026-03-02T08:16:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "marklit",
+      "tags": []
+    },
+    {
+      "id": "9gxdj8",
+      "title": "Hacking Super Mario 64 using covering spaces",
+      "description": "Score: 26 | Comments: 4 | Posted by nill0",
+      "url": "https://happel.ai/posts/covering-spaces-geometries-visualized/",
+      "publishedAt": "2026-03-02T07:56:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nill0",
       "tags": []
     },
     {
@@ -407,6 +473,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mandel_x",
+      "tags": []
+    },
+    {
+      "id": "ayeg3x",
+      "title": "Code World Models for Parameter Control in Evolutionary Algorithms",
+      "description": "Score: 3 | Comments: 0 | Posted by camilochs",
+      "url": "https://www.alphaxiv.org/abs/2602.22260",
+      "publishedAt": "2026-03-02T00:12:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "camilochs",
       "tags": []
     }
   ]

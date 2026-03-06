@@ -47,6 +47,17 @@
       "tags": []
     },
     {
+      "id": "t4buov",
+      "title": "A man who broke into jail",
+      "description": "Score: 117 | Comments: 51 | Posted by fortran77",
+      "url": "https://www.newyorker.com/magazine/2026/03/09/alexander-friedmann-profile-prison-reform",
+      "publishedAt": "2026-03-03T23:09:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fortran77",
+      "tags": []
+    },
+    {
       "id": "qxeln1",
       "title": "Voxile: A ray-traced game made in its own engine and programming language",
       "description": "Score: 160 | Comments: 41 | Posted by spacemarine1",
@@ -66,6 +77,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "sb057",
+      "tags": []
+    },
+    {
+      "id": "7qcgew",
+      "title": "A ternary plot of citrus geneology",
+      "description": "Score: 117 | Comments: 20 | Posted by jlauf",
+      "url": "https://www.jlauf.com/writing/citrus/",
+      "publishedAt": "2026-03-03T20:14:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jlauf",
       "tags": []
     },
     {
@@ -212,6 +234,17 @@
       "tags": []
     },
     {
+      "id": "u1gz6l",
+      "title": "Data Does Not Speak to You",
+      "description": "Score: 5 | Comments: 1 | Posted by tantaman",
+      "url": "https://tantaman.com/2026-03-02-data-doesnt-speak.html",
+      "publishedAt": "2026-03-03T12:05:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tantaman",
+      "tags": []
+    },
+    {
       "id": "i0ns83",
       "title": "Claude's Cycles [pdf]",
       "description": "Score: 578 | Comments: 233 | Posted by fs123",
@@ -245,6 +278,17 @@
       "tags": []
     },
     {
+      "id": "xebfu6",
+      "title": "Fixpoints to think clearly",
+      "description": "Score: 4 | Comments: 1 | Posted by yellowflash",
+      "url": "https://blog.yellowflash.in/posts/2026-03-03-fixpoints-for-clarity.html",
+      "publishedAt": "2026-03-03T10:19:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "yellowflash",
+      "tags": []
+    },
+    {
       "id": "ylwozz",
       "title": "I've been running GrapheneOS on my Pixel Fold for over half a year",
       "description": "Score: 17 | Comments: 0 | Posted by zdw",
@@ -253,6 +297,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "tqptjr",
+      "title": "Optimizing Recommendation Systems with JDK's Vector API",
+      "description": "Score: 75 | Comments: 5 | Posted by mariuz",
+      "url": "https://netflixtechblog.com/optimizing-recommendation-systems-with-jdks-vector-api-30d2830401ec",
+      "publishedAt": "2026-03-03T04:33:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mariuz",
       "tags": []
     },
     {
