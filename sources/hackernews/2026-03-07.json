@@ -1,0 +1,105 @@
+{
+  "date": "2026-03-07",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "gparws",
+      "title": "Why New Zealand is seeing an exodus of over-30s",
+      "description": "Score: 4 | Comments: 1 | Posted by Tomte",
+      "url": "https://www.cnn.com/2026/03/06/world/new-zealand-australia-emigration-midlife-intl-hnk-dst",
+      "publishedAt": "2026-03-07T05:59:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Tomte",
+      "tags": []
+    },
+    {
+      "id": "4dw1pd",
+      "title": "Can a wealthy family change the course of a deadly brain disease?",
+      "description": "Score: 33 | Comments: 17 | Posted by Snoozus",
+      "url": "https://www.science.org/content/article/can-wealthy-family-change-course-deadly-brain-disease",
+      "publishedAt": "2026-03-07T03:06:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Snoozus",
+      "tags": []
+    },
+    {
+      "id": "amhxtn",
+      "title": "UUID package coming to Go standard librarygithub.com/golang",
+      "description": "Score: 99 | Comments: 39 | Posted by soypat",
+      "url": "https://github.com/golang/go/issues/62026",
+      "publishedAt": "2026-03-07T02:14:47.875Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "soypat",
+      "tags": []
+    },
+    {
+      "id": "amhxtn",
+      "title": "UUID package coming to Go standard library",
+      "description": "Score: 100 | Comments: 39 | Posted by soypat",
+      "url": "https://github.com/golang/go/issues/62026",
+      "publishedAt": "2026-03-07T02:03:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "soypat",
+      "tags": []
+    },
+    {
+      "id": "va53c3",
+      "title": "LLMs work best when the user defines their acceptance criteria first",
+      "description": "Score: 142 | Comments: 103 | Posted by dnw",
+      "url": "https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code",
+      "publishedAt": "2026-03-07T01:17:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dnw",
+      "tags": []
+    },
+    {
+      "id": "v3kdou",
+      "title": "Game about Data of America",
+      "description": "Score: 12 | Comments: 1 | Posted by fidicen",
+      "url": "https://americaindata.com/",
+      "publishedAt": "2026-03-07T00:28:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fidicen",
+      "tags": []
+    },
+    {
+      "id": "b1sjmj",
+      "title": "SPA vs. Hypermedia: Real-World Performance Under Load",
+      "description": "Score: 9 | Comments: 0 | Posted by todsacerdoti",
+      "url": "https://zweiundeins.gmbh/en/methodology/spa-vs-hypermedia-real-world-performance-under-load",
+      "publishedAt": "2026-03-07T00:16:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "rb2wdi",
+      "title": "Plasma Bigscreen – 10-foot interface for KDE plasmaplasma-bigscreen.org",
+      "description": "Score: 278 | Comments: 89 | Posted by PaulHoule",
+      "url": "https://plasma-bigscreen.org",
+      "publishedAt": "2026-03-07T00:14:47.874Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "PaulHoule",
+      "tags": []
+    },
+    {
+      "id": "pcscje",
+      "title": "Show HN: Kula – Lightweight, self-contained Linux server monitoring tool",
+      "description": "Score: 30 | Comments: 20 | Posted by c0m4r",
+      "url": "https://github.com/c0m4r/kula",
+      "publishedAt": "2026-03-07T00:07:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "c0m4r",
+      "tags": []
+    }
+  ]
+}

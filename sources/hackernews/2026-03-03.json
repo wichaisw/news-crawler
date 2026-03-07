@@ -223,6 +223,17 @@
       "tags": []
     },
     {
+      "id": "tkor4r",
+      "title": "Show HN: Reconstruct any image using primitive shapes, runs in-browser via WASM",
+      "description": "Score: 27 | Comments: 7 | Posted by taiseiue",
+      "url": "https://github.com/taiseiue/primitive-playground",
+      "publishedAt": "2026-03-03T13:55:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "taiseiue",
+      "tags": []
+    },
+    {
       "id": "adk7a6",
       "title": "I'm losing the SEO battle for my own open source project",
       "description": "Score: 465 | Comments: 232 | Posted by devinitely",
@@ -231,6 +242,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "devinitely",
+      "tags": []
+    },
+    {
+      "id": "8ctkho",
+      "title": "Querying 3B Vectors",
+      "description": "Score: 21 | Comments: 0 | Posted by surprisetalk",
+      "url": "https://vickiboykis.com/2026/02/21/querying-3-billion-vectors/",
+      "publishedAt": "2026-03-03T13:17:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
       "tags": []
     },
     {
