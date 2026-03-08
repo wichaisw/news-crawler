@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "xeoism",
+      "title": "Self-Portrait by Ernst Mach (1886)",
+      "description": "Score: 103 | Comments: 18 | Posted by Hooke",
+      "url": "https://publicdomainreview.org/collection/self-portrait-by-ernst-mach-1886/",
+      "publishedAt": "2026-03-05T23:48:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Hooke",
+      "tags": []
+    },
+    {
       "id": "celp0k",
       "title": "The next generations of Bubble Tea, Lip Gloss, and Bubbles are available now",
       "description": "Score: 165 | Comments: 64 | Posted by atkrad",
@@ -11,6 +22,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "atkrad",
+      "tags": []
+    },
+    {
+      "id": "ten6h1",
+      "title": "Trampolining Nix with GenericClosure",
+      "description": "Score: 9 | Comments: 1 | Posted by ret2pop",
+      "url": "https://blog.kleisli.io/post/trampolining-nix-with-generic-closure",
+      "publishedAt": "2026-03-05T23:26:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ret2pop",
       "tags": []
     },
     {
@@ -245,6 +267,17 @@
       "tags": []
     },
     {
+      "id": "lv5b2j",
+      "title": "Ten Years of Deploying to Production",
+      "description": "Score: 5 | Comments: 0 | Posted by mooreds",
+      "url": "https://brandonvin.github.io/2026/03/04/ten-years-of-deploying-to-production.html",
+      "publishedAt": "2026-03-05T14:25:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mooreds",
+      "tags": []
+    },
+    {
       "id": "cdll",
       "title": "Fast-Servers",
       "description": "Score: 105 | Comments: 29 | Posted by tosh",
@@ -275,6 +308,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ssaboum",
+      "tags": []
+    },
+    {
+      "id": "cfdz36",
+      "title": "Bourdieu's theory of taste: a grumbling abrégé (2023)",
+      "description": "Score: 48 | Comments: 16 | Posted by sebg",
+      "url": "https://dynomight.net/bourdieu/",
+      "publishedAt": "2026-03-05T10:33:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sebg",
+      "tags": []
+    },
+    {
+      "id": "p6uoju",
+      "title": "Emacs internals: Deconstructing Lisp_Object in C (Part 2)",
+      "description": "Score: 45 | Comments: 0 | Posted by thecloudlet",
+      "url": "https://thecloudlet.github.io/blog/project/emacs-02/",
+      "publishedAt": "2026-03-05T10:23:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thecloudlet",
       "tags": []
     },
     {
@@ -377,6 +432,17 @@
       "tags": []
     },
     {
+      "id": "x56ckl",
+      "title": "A Grand Vision for Rust",
+      "description": "Score: 25 | Comments: 21 | Posted by todsacerdoti",
+      "url": "https://blog.yoshuawuyts.com/a-grand-vision-for-rust/",
+      "publishedAt": "2026-03-05T01:37:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    },
+    {
       "id": "m2vrib",
       "title": "Google Workspace CLIgithub.com/googleworkspace",
       "description": "Score: 390 | Comments: 143 | Posted by gonzalovargas",
@@ -396,6 +462,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "gonzalovargas",
+      "tags": []
+    },
+    {
+      "id": "eluh6o",
+      "title": "48x32, a 1536 LED Game Computer (2023)",
+      "description": "Score: 71 | Comments: 14 | Posted by duck",
+      "url": "https://jacquesmattheij.com/48x32-introduction/",
+      "publishedAt": "2026-03-05T00:10:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "duck",
       "tags": []
     }
   ]

@@ -3,6 +3,50 @@
   "source": "techcrunch",
   "articles": [
     {
+      "id": "https://techcrunch.com/?p=3100300",
+      "title": "Grammarly’s ‘expert review’ is just missing the actual experts",
+      "description": "A recently-added feature in Grammarly purports to improve users’ writing with help from the world's great writers and thinkers — and some tech",
+      "url": "https://techcrunch.com/2026/03/07/grammarlys-expert-review-is-just-missing-the-actual-experts/",
+      "publishedAt": "2026-03-07T22:56:31.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3100295",
+      "title": "OpenAI robotics lead Caitlin Kalinowski quits in response to Pentagon deal",
+      "description": "Hardware executive Caitlin Kalinowski announced today that in response to OpenAI's controversial agreement with the Department of Defense, she’s",
+      "url": "https://techcrunch.com/2026/03/07/openai-robotics-lead-caitlin-kalinowski-quits-in-response-to-pentagon-deal/",
+      "publishedAt": "2026-03-07T20:44:25.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3099193",
+      "title": "PopSockets founder David Barnett talks about building a viral business",
+      "description": "David Barnett, founder of PopSocket, stops by Equity to talk about scaling the business and what he's learned as a leader.",
+      "url": "https://techcrunch.com/2026/03/07/popsockets-founder-david-barnett-talks-about-building-a-viral-business/",
+      "publishedAt": "2026-03-07T18:40:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3100288",
+      "title": "OpenAI delays ChatGPT’s ‘adult mode’ again",
+      "description": "The feature, which will give verified adult users access to erotica and other adult content, had already been delayed from December.",
+      "url": "https://techcrunch.com/2026/03/07/openai-delays-chatgpts-adult-mode-again/",
+      "publishedAt": "2026-03-07T17:28:41.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
       "id": "https://techcrunch.com/?p=3100273",
       "title": "Robinhood’s startup fund stumbles in NYSE debut",
       "description": "The fund currently offers retail investors exposure to eight startups, including Mercor, Ramp, and Stripe, with plans to expand its portfolio.",

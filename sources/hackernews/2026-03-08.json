@@ -1,0 +1,61 @@
+{
+  "date": "2026-03-08",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "m4o7uo",
+      "title": "Give Up GitHub – Software Freedom Conservancy",
+      "description": "Score: 20 | Comments: 3 | Posted by nreece",
+      "url": "https://sfconservancy.org/GiveUpGitHub/",
+      "publishedAt": "2026-03-08T02:24:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nreece",
+      "tags": []
+    },
+    {
+      "id": "xc2o1x",
+      "title": "MonoGame: A .NET framework for making cross-platform games",
+      "description": "Score: 36 | Comments: 12 | Posted by azhenley",
+      "url": "https://github.com/MonoGame/MonoGame",
+      "publishedAt": "2026-03-08T02:16:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "azhenley",
+      "tags": []
+    },
+    {
+      "id": "t20yxr",
+      "title": "\"Warn about PyPy being unmaintained\"",
+      "description": "Score: 72 | Comments: 17 | Posted by networked",
+      "url": "https://github.com/astral-sh/uv/pull/17643",
+      "publishedAt": "2026-03-08T01:35:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "networked",
+      "tags": []
+    },
+    {
+      "id": "mhyzo6",
+      "title": "Cloud VM benchmarks 2026ecuadors.net",
+      "description": "Score: 149 | Comments: 73 | Posted by dkechag",
+      "url": "https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html",
+      "publishedAt": "2026-03-08T01:18:17.380Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dkechag",
+      "tags": []
+    },
+    {
+      "id": "mhyzo6",
+      "title": "Cloud VM benchmarks 2026",
+      "description": "Score: 149 | Comments: 74 | Posted by dkechag",
+      "url": "https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html",
+      "publishedAt": "2026-03-08T00:44:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dkechag",
+      "tags": []
+    }
+  ]
+}
