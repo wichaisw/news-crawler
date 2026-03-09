@@ -3,6 +3,50 @@
   "source": "techcrunch",
   "articles": [
     {
+      "id": "https://techcrunch.com/?p=3100340",
+      "title": "Palmer Luckey’s retro gaming startup ModRetro reportedly seeks funding at $1B valuation",
+      "description": "The company launched its first product, a Game Boy-style handheld device called the Chromatic, in 2024.",
+      "url": "https://techcrunch.com/2026/03/08/palmer-luckeys-retro-gaming-startup-modretro-reportedly-seeks-funding-at-1b-valuation/",
+      "publishedAt": "2026-03-08T21:26:07.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3100337",
+      "title": "Will the Pentagon’s Anthropic controversy scare startups away from defense work?",
+      "description": "On the latest episode of TechCrunch’s Equity podcast, we discussed what the controversy means for other startups seeking to work with the federal",
+      "url": "https://techcrunch.com/2026/03/08/will-the-pentagons-anthropic-controversy-scare-startups-away-from-defense-work/",
+      "publishedAt": "2026-03-08T20:14:42.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3100329",
+      "title": "Owner of ICE detention facility sees big opportunity in AI man camps",
+      "description": "AI data center developers are increasingly relying on a style of camp popularized as housing for men working in remote oil fields.",
+      "url": "https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/",
+      "publishedAt": "2026-03-08T16:30:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3100134",
+      "title": "TechCrunch Mobility: Rivian’s R2 gambit",
+      "description": "Welcome back to TechCrunch Mobility, your hub for all things “future of transportation.”",
+      "url": "https://techcrunch.com/2026/03/08/techcrunch-mobility-rivians-r2-gambit/",
+      "publishedAt": "2026-03-08T16:03:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Kirsten Korosec",
+      "tags": []
+    },
+    {
       "id": "https://techcrunch.com/?p=3100311",
       "title": "A roadmap for AI, if anyone will listen",
       "description": "The Pro-Human Declaration was finalized before last week's Pentagon-Anthropic standoff, but the collision of the two events wasn’t lost on anyone",

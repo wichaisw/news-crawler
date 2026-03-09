@@ -1,0 +1,39 @@
+{
+  "date": "2026-03-09",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "anfmmf",
+      "title": "Thermal Grizzly was scammed twice on raw materials worth €40k",
+      "description": "Score: 15 | Comments: 3 | Posted by pella",
+      "url": "https://videocardz.com/newz/der8auer-explains-thermal-grizzly-delays-after-company-was-scammed-twice-on-raw-materials-worth-e40000",
+      "publishedAt": "2026-03-09T04:38:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pella",
+      "tags": []
+    },
+    {
+      "id": "zhjg4u",
+      "title": "The death of social media is the renaissance of RSS (2025)",
+      "description": "Score: 64 | Comments: 34 | Posted by jruohonen",
+      "url": "https://www.smartlab.at/rss-revival-life-after-social-media/",
+      "publishedAt": "2026-03-09T04:27:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jruohonen",
+      "tags": []
+    },
+    {
+      "id": "ej30v9",
+      "title": "How the Sriracha guys screwed over their supplier",
+      "description": "Score: 37 | Comments: 3 | Posted by thunderbong",
+      "url": "https://old.reddit.com/r/KitchenConfidential/comments/1ro61g2/how_the_sriracha_guys_screwed_over_their_supplier/",
+      "publishedAt": "2026-03-09T04:16:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thunderbong",
+      "tags": []
+    }
+  ]
+}
