@@ -1,0 +1,61 @@
+{
+  "date": "2026-03-10",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3100876",
+      "title": "Apple now makes one in four iPhones in India: report",
+      "description": "Apple reportedly produced 55 million units in India last year, a shift accelerated as Apple faced growing uncertainty in China.",
+      "url": "https://techcrunch.com/2026/03/09/apple-now-makes-one-in-four-iphones-in-india-report/",
+      "publishedAt": "2026-03-10T06:04:43.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Ivan Mehta",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3100799",
+      "title": "Yann LeCun’s AMI Labs raises $1.03 billion to build world models",
+      "description": "AMI Labs, the new venture cofounded by Turing Prize winner Yann LeCun after he left Meta, has raised $1.03 billion at a $3.5 billion pre-money",
+      "url": "https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/",
+      "publishedAt": "2026-03-10T05:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anna Heim",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3100555",
+      "title": "An iPhone-hacking toolkit used by Russian spies likely came from U.S military contractor",
+      "description": "Google found a series of hacking tools they said were used by a Russian espionage group and a cybercriminal group in China. Sources from a U.S.",
+      "url": "https://techcrunch.com/2026/03/09/an-iphone-hacking-toolkit-used-by-russian-spies-likely-came-from-u-s-military-contractor/",
+      "publishedAt": "2026-03-10T01:56:01.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lorenzo Franceschi-Bicchierai",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3100805",
+      "title": "Electric air taxi maker Archer hits back at Joby in countersuit alleging concealed Chinese ties",
+      "description": "Archer's countersuit comes four months after Joby sued its rival for alleged 'corporate espionage.'",
+      "url": "https://techcrunch.com/2026/03/09/electric-air-taxi-maker-archer-hits-back-at-joby-in-countersuit-alleging-concealed-chinese-ties/",
+      "publishedAt": "2026-03-10T01:41:38.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Kirsten Korosec",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3100779",
+      "title": "Founders Fund nears $6B close for latest growth fund, sources say",
+      "description": "The fresh fundraise comes less than a year after Founders Fund closed its third growth fund, a $4.6 billion vehicle intended primarily for follow-on",
+      "url": "https://techcrunch.com/2026/03/09/founders-fund-nears-6-billion-close-for-latest-growth-fund-sources-say/",
+      "publishedAt": "2026-03-10T01:03:48.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Marina Temkin",
+      "tags": []
+    }
+  ]
+}

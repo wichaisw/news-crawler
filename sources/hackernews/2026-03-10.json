@@ -1,0 +1,116 @@
+{
+  "date": "2026-03-10",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "9j4g63",
+      "title": "Claude Code, Claude Cowork and Codex #5",
+      "description": "Score: 3 | Comments: 0 | Posted by swolpers",
+      "url": "https://thezvi.wordpress.com/2026/03/09/claude-code-claude-cowork-and-codex-5/",
+      "publishedAt": "2026-03-10T05:12:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "swolpers",
+      "tags": []
+    },
+    {
+      "id": "i2fvpn",
+      "title": "Amazon holds engineering meeting following AI-related outages",
+      "description": "Score: 14 | Comments: 2 | Posted by petethomas",
+      "url": "https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de",
+      "publishedAt": "2026-03-10T05:07:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "petethomas",
+      "tags": []
+    },
+    {
+      "id": "f0vl1s",
+      "title": "Show HN: I Was Here – Draw on street view, others can find your drawings",
+      "description": "Score: 8 | Comments: 0 | Posted by mrktsm__",
+      "url": "https://washere.live",
+      "publishedAt": "2026-03-10T05:04:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mrktsm__",
+      "tags": []
+    },
+    {
+      "id": "ek727c",
+      "title": "United States Leads Dismantlement of One of the Largest Hacker Forums",
+      "description": "Score: 7 | Comments: 0 | Posted by mikhael",
+      "url": "https://www.justice.gov/opa/pr/united-states-leads-dismantlement-one-worlds-largest-hacker-forums",
+      "publishedAt": "2026-03-10T04:58:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mikhael",
+      "tags": []
+    },
+    {
+      "id": "mijr28",
+      "title": "Windows: Microsoft broke the only thing that mattered",
+      "description": "Score: 49 | Comments: 27 | Posted by kjellsbells",
+      "url": "https://www.yankodesign.com/2026/03/08/microsoft-broke-the-only-thing-that-actually-mattered/",
+      "publishedAt": "2026-03-10T04:48:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kjellsbells",
+      "tags": []
+    },
+    {
+      "id": "pmfnox",
+      "title": "Learnings from paying artists royalties for AI-generated artkapwing.com",
+      "description": "Score: 92 | Comments: 50 | Posted by jenthoven",
+      "url": "https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/",
+      "publishedAt": "2026-03-10T03:20:20.827Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jenthoven",
+      "tags": []
+    },
+    {
+      "id": "pmfnox",
+      "title": "Learnings from paying artists royalties for AI-generated art",
+      "description": "Score: 93 | Comments: 50 | Posted by jenthoven",
+      "url": "https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/",
+      "publishedAt": "2026-03-10T02:24:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jenthoven",
+      "tags": []
+    },
+    {
+      "id": "lu0su5",
+      "title": "The “JVG algorithm” only wins on tiny numbers",
+      "description": "Score: 51 | Comments: 25 | Posted by jhalderm",
+      "url": "https://scottaaronson.blog/?p=9615",
+      "publishedAt": "2026-03-10T00:35:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jhalderm",
+      "tags": []
+    },
+    {
+      "id": "dfkiop",
+      "title": "Two Years of Emacs Solorahuljuliato.com",
+      "description": "Score: 156 | Comments: 32 | Posted by celadevra_",
+      "url": "https://www.rahuljuliato.com/posts/emacs-solo-two-years",
+      "publishedAt": "2026-03-10T00:20:20.827Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "celadevra_",
+      "tags": []
+    },
+    {
+      "id": "dfkiop",
+      "title": "Two Years of Emacs Solo",
+      "description": "Score: 156 | Comments: 32 | Posted by celadevra_",
+      "url": "https://www.rahuljuliato.com/posts/emacs-solo-two-years",
+      "publishedAt": "2026-03-10T00:16:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "celadevra_",
+      "tags": []
+    }
+  ]
+}
