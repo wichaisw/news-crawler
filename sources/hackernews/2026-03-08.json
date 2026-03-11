@@ -344,6 +344,50 @@
       "tags": []
     },
     {
+      "id": "a19sx1",
+      "title": "Pike: To Exit or Not to Exit",
+      "description": "Score: 7 | Comments: 1 | Posted by dnw",
+      "url": "https://tomjohnell.com/pike-solving-the-should-we-stop-here-or-gamble-on-the-next-exit-problem/",
+      "publishedAt": "2026-03-08T10:51:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dnw",
+      "tags": []
+    },
+    {
+      "id": "kabcys",
+      "title": "Bippy: React Internals Toolkit",
+      "description": "Score: 31 | Comments: 6 | Posted by handfuloflight",
+      "url": "https://www.bippy.dev/",
+      "publishedAt": "2026-03-08T10:01:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "handfuloflight",
+      "tags": []
+    },
+    {
+      "id": "xflcdm",
+      "title": "Julia Snail – An Emacs Development Environment for Julia Like Clojure's Cider",
+      "description": "Score: 37 | Comments: 3 | Posted by TheWiggles",
+      "url": "https://github.com/gcv/julia-snail",
+      "publishedAt": "2026-03-08T09:27:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "TheWiggles",
+      "tags": []
+    },
+    {
+      "id": "5rszoj",
+      "title": "Invoker Commands API",
+      "description": "Score: 76 | Comments: 14 | Posted by maqnius",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/API/Invoker_Commands_API",
+      "publishedAt": "2026-03-08T08:16:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "maqnius",
+      "tags": []
+    },
+    {
       "id": "brsl7k",
       "title": "SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI",
       "description": "Score: 115 | Comments: 40 | Posted by mpweiher",
@@ -418,6 +462,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "networked",
+      "tags": []
+    },
+    {
+      "id": "vuirip",
+      "title": "Roblox is minting teen millionaires",
+      "description": "Score: 102 | Comments: 110 | Posted by petethomas",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-06/roblox-s-teen-millionaires-are-disrupting-the-gaming-industry",
+      "publishedAt": "2026-03-08T01:20:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "petethomas",
       "tags": []
     },
     {

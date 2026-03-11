@@ -1,0 +1,72 @@
+{
+  "date": "2026-03-11",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "ar033v",
+      "title": "Standardizing Source Maps",
+      "description": "Score: 9 | Comments: 1 | Posted by Timothee",
+      "url": "https://bloomberg.github.io/js-blog/post/standardizing-source-maps/",
+      "publishedAt": "2026-03-11T04:42:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Timothee",
+      "tags": []
+    },
+    {
+      "id": "pq6nir",
+      "title": "MacBook Neo Review: No Other Budget Laptop Can Compete",
+      "description": "Score: 21 | Comments: 12 | Posted by thunderbong",
+      "url": "https://gizmodo.com/macbook-neo-review-no-other-budget-laptop-can-compete-2000731635",
+      "publishedAt": "2026-03-11T03:55:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thunderbong",
+      "tags": []
+    },
+    {
+      "id": "z7qf11",
+      "title": "Asus Executive Says MacBook Neo Is 'Shock' to PC Industry",
+      "description": "Score: 23 | Comments: 6 | Posted by alwillis",
+      "url": "https://www.macrumors.com/2026/03/10/asus-executive-says-macbook-neo-is-a-shock/",
+      "publishedAt": "2026-03-11T03:05:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "alwillis",
+      "tags": []
+    },
+    {
+      "id": "34ua7m",
+      "title": "Zig – Type Resolution Redesign and Language Changesziglang.org",
+      "description": "Score: 127 | Comments: 34 | Posted by Retro_Dev",
+      "url": "https://ziglang.org/devlog/2026/#2026-03-10",
+      "publishedAt": "2026-03-11T02:22:12.034Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Retro_Dev",
+      "tags": []
+    },
+    {
+      "id": "fix1g5",
+      "title": "Writing my own text editor, and daily-driving it",
+      "description": "Score: 63 | Comments: 11 | Posted by todsacerdoti",
+      "url": "https://blog.jsbarretto.com/post/text-editor",
+      "publishedAt": "2026-03-11T02:04:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "34ua7m",
+      "title": "Zig – Type Resolution Redesign and Language Changes",
+      "description": "Score: 127 | Comments: 34 | Posted by Retro_Dev",
+      "url": "https://ziglang.org/devlog/2026/#2026-03-10",
+      "publishedAt": "2026-03-11T01:24:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Retro_Dev",
+      "tags": []
+    }
+  ]
+}
