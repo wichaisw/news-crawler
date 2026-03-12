@@ -1,0 +1,94 @@
+{
+  "date": "2026-03-12",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "dsvxx9",
+      "title": "WireGuard Is Two Things",
+      "description": "Score: 35 | Comments: 9 | Posted by mlhpdx",
+      "url": "https://www.proxylity.com/articles/wireguard-is-two-things.html",
+      "publishedAt": "2026-03-12T04:38:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mlhpdx",
+      "tags": []
+    },
+    {
+      "id": "gf77u5",
+      "title": "Iran-backed hackers claim wiper attack on medtech firm Stryker",
+      "description": "Score: 100 | Comments: 25 | Posted by 2bluesc",
+      "url": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
+      "publishedAt": "2026-03-12T03:29:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "2bluesc",
+      "tags": []
+    },
+    {
+      "id": "qvxjhl",
+      "title": "DHS Contracts Explorer – Hacked data from the Office of Industry Partnership",
+      "description": "Score: 215 | Comments: 40 | Posted by peq42",
+      "url": "https://micahflee.github.io/ice-contracts/",
+      "publishedAt": "2026-03-12T02:03:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "peq42",
+      "tags": []
+    },
+    {
+      "id": "ldjvf9",
+      "title": "Urea prices",
+      "description": "Score: 73 | Comments: 53 | Posted by burnt-resistor",
+      "url": "https://tradingeconomics.com/commodity/urea",
+      "publishedAt": "2026-03-12T01:59:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "burnt-resistor",
+      "tags": []
+    },
+    {
+      "id": "64f3a3",
+      "title": "Show HN: s@: decentralized social networking over static sitessatproto.org",
+      "description": "Score: 175 | Comments: 64 | Posted by remywang",
+      "url": "http://satproto.org/",
+      "publishedAt": "2026-03-12T01:23:19.675Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "remywang",
+      "tags": []
+    },
+    {
+      "id": "3lw19f",
+      "title": "Apple releases iOS 15.8.7 to fix Coruna exploit for iPhone 6S from 2015",
+      "description": "Score: 86 | Comments: 34 | Posted by seam_carver",
+      "url": "https://support.apple.com/en-us/126632",
+      "publishedAt": "2026-03-12T01:22:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "seam_carver",
+      "tags": []
+    },
+    {
+      "id": "g9pken",
+      "title": "How much of HN is AI?",
+      "description": "Score: 83 | Comments: 45 | Posted by surprisetalk",
+      "url": "https://lcamtuf.substack.com/p/how-much-of-hn-is-ai",
+      "publishedAt": "2026-03-12T01:15:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
+      "id": "64f3a3",
+      "title": "Show HN: s@: decentralized social networking over static sites",
+      "description": "Score: 176 | Comments: 64 | Posted by remywang",
+      "url": "http://satproto.org/",
+      "publishedAt": "2026-03-12T00:22:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "remywang",
+      "tags": []
+    }
+  ]
+}
