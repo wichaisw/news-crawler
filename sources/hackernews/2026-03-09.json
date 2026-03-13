@@ -135,6 +135,17 @@
       "tags": []
     },
     {
+      "id": "va9co6",
+      "title": "The Cost of Indirection in Rust",
+      "description": "Score: 93 | Comments: 46 | Posted by sebastianconcpt",
+      "url": "https://blog.sebastiansastre.co/posts/cost-of-indirection-in-rust/",
+      "publishedAt": "2026-03-09T17:28:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sebastianconcpt",
+      "tags": []
+    },
+    {
       "id": "rxy12q",
       "title": "Florida judge rules red light camera tickets are unconstitutional",
       "description": "Score: 400 | Comments: 523 | Posted by 1970-01-01",
@@ -245,6 +256,17 @@
       "tags": []
     },
     {
+      "id": "755t2l",
+      "title": "Understanding the Go Runtime: The Scheduler",
+      "description": "Score: 77 | Comments: 3 | Posted by valyala",
+      "url": "https://internals-for-interns.com/posts/go-runtime-scheduler/",
+      "publishedAt": "2026-03-09T14:54:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "valyala",
+      "tags": []
+    },
+    {
       "id": "yyxk1a",
       "title": "Algebraic topology: knots links and braids",
       "description": "Score: 82 | Comments: 10 | Posted by marysminefnuf",
@@ -253,6 +275,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "marysminefnuf",
+      "tags": []
+    },
+    {
+      "id": "vxjob2",
+      "title": "IMG_0416 (2024)",
+      "description": "Score: 46 | Comments: 5 | Posted by TigerUniversity",
+      "url": "https://ben-mini.com/2024/img-0416",
+      "publishedAt": "2026-03-09T13:07:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "TigerUniversity",
       "tags": []
     },
     {
@@ -297,6 +330,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "speckx",
+      "tags": []
+    },
+    {
+      "id": "s0c776",
+      "title": "Willingness to look stupid",
+      "description": "Score: 133 | Comments: 48 | Posted by Samin100",
+      "url": "https://sharif.io/looking-stupid",
+      "publishedAt": "2026-03-09T10:21:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Samin100",
       "tags": []
     },
     {
@@ -374,6 +418,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "thunderbong",
+      "tags": []
+    },
+    {
+      "id": "q0pwz3",
+      "title": "How people woke up before alarm clocks",
+      "description": "Score: 43 | Comments: 34 | Posted by tchalla",
+      "url": "https://www.bbc.com/future/article/20260306-the-wake-up-tricks-people-used-before-alarm-clocks",
+      "publishedAt": "2026-03-09T00:09:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tchalla",
       "tags": []
     }
   ]

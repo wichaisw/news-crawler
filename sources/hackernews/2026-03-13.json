@@ -1,0 +1,94 @@
+{
+  "date": "2026-03-13",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "9kfs6p",
+      "title": "Lost Doctor Who Episodes Found",
+      "description": "Score: 7 | Comments: 0 | Posted by edent",
+      "url": "https://www.bbc.co.uk/news/articles/c4g7kwq1k11o",
+      "publishedAt": "2026-03-13T05:18:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "edent",
+      "tags": []
+    },
+    {
+      "id": "9hpxlg",
+      "title": "Why Technology Makes Us More Productive but Not Richer",
+      "description": "Score: 22 | Comments: 8 | Posted by harshakcheruku",
+      "url": "https://www.fullstackpm.tech/blog/productivity-paradox-capital-lockup",
+      "publishedAt": "2026-03-13T05:06:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "harshakcheruku",
+      "tags": []
+    },
+    {
+      "id": "rpl405",
+      "title": "Vite 8.0 Is Out",
+      "description": "Score: 89 | Comments: 5 | Posted by kothariji",
+      "url": "https://vite.dev/blog/announcing-vite8",
+      "publishedAt": "2026-03-13T04:36:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kothariji",
+      "tags": []
+    },
+    {
+      "id": "1e6rqv",
+      "title": "Hyperlinks in Terminal Emulators",
+      "description": "Score: 20 | Comments: 8 | Posted by nvahalik",
+      "url": "https://gist.github.com/egmontkob/eb114294efbcd5adb1944c9f3cb5feda",
+      "publishedAt": "2026-03-13T03:32:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nvahalik",
+      "tags": []
+    },
+    {
+      "id": "s0c776",
+      "title": "Willingness to look stupidsharif.io",
+      "description": "Score: 132 | Comments: 47 | Posted by Samin100",
+      "url": "https://sharif.io/looking-stupid",
+      "publishedAt": "2026-03-13T03:22:31.893Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Samin100",
+      "tags": []
+    },
+    {
+      "id": "qa1ol8",
+      "title": "Can you instruct a robot to make a PBJ sandwich?",
+      "description": "Score: 23 | Comments: 26 | Posted by mooreds",
+      "url": "https://pbj.deliberateinc.com/",
+      "publishedAt": "2026-03-13T03:06:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mooreds",
+      "tags": []
+    },
+    {
+      "id": "hae6c4",
+      "title": "Golden Sets: Regression Engineering for Probabilistic Systems",
+      "description": "Score: 6 | Comments: 1 | Posted by ryan-s",
+      "url": "https://heavythoughtcloud.com/knowledge/designing-a-golden-set",
+      "publishedAt": "2026-03-13T01:58:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ryan-s",
+      "tags": []
+    },
+    {
+      "id": "xsvevd",
+      "title": "“This is not the computer for you”",
+      "description": "Score: 230 | Comments: 119 | Posted by MBCook",
+      "url": "https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/",
+      "publishedAt": "2026-03-13T01:45:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "MBCook",
+      "tags": []
+    }
+  ]
+}

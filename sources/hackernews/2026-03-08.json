@@ -157,6 +157,17 @@
       "tags": []
     },
     {
+      "id": "n473yg",
+      "title": "Prefix sums at gigabytes per second with ARM NEON",
+      "description": "Score: 6 | Comments: 0 | Posted by mfiguiere",
+      "url": "https://lemire.me/blog/2026/03/08/prefix-sums-at-tens-of-gigabytes-per-second-with-arm-neon/",
+      "publishedAt": "2026-03-08T20:22:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mfiguiere",
+      "tags": []
+    },
+    {
       "id": "k9c3vl",
       "title": "What Happens After You Die? (2016)",
       "description": "Score: 19 | Comments: 10 | Posted by NaOH",
@@ -264,6 +275,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "1970-01-01",
+      "tags": []
+    },
+    {
+      "id": "hhsaxb",
+      "title": "Full Spectrum and Infrared Photography",
+      "description": "Score: 55 | Comments: 30 | Posted by alter_igel",
+      "url": "https://timstr.website/blog/fullspectrumphotography.html",
+      "publishedAt": "2026-03-08T16:11:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "alter_igel",
       "tags": []
     },
     {
@@ -495,6 +517,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "dmonterocrespo",
+      "tags": []
+    },
+    {
+      "id": "1onyfm",
+      "title": "Forcing Flash Attention onto a TPU and Learning the Hard Way",
+      "description": "Score: 55 | Comments: 14 | Posted by azhng",
+      "url": "https://archerzhang.me/forcing-flash-attention-onto-a-tpu",
+      "publishedAt": "2026-03-08T03:57:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "azhng",
       "tags": []
     },
     {

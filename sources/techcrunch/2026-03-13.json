@@ -1,0 +1,28 @@
+{
+  "date": "2026-03-13",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3102179",
+      "title": "Before quantum computing arrives, this startup wants enterprises already running on it",
+      "description": "After selling his AI startup to AMD for $665 million, Peter Sarlin is back with QuTwo, a new venture building the infrastructure it believes",
+      "url": "https://techcrunch.com/2026/03/12/before-quantum-computing-arrives-this-startup-wants-enterprises-already-running-on-it/",
+      "publishedAt": "2026-03-13T05:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anna Heim",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3101896",
+      "title": "Truecaller now lets you hang up on scammers — on behalf of your family",
+      "description": "Caller identity platform Truecaller recently launched a new feature that lets one person become an admin of a family group, get alerts about fraud",
+      "url": "https://techcrunch.com/2026/03/12/truecallers-now-lets-you-hang-up-on-scammers-on-behalf-of-your-family/",
+      "publishedAt": "2026-03-13T04:30:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Ivan Mehta",
+      "tags": []
+    }
+  ]
+}
