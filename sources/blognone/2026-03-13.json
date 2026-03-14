@@ -3,6 +3,40 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "150022 at https://www.blognone.com",
+      "title": "Vite ออกเวอร์ชั่น 8.0 เปลี่ยน bundler เป็น Rolldown เร่งความเร็วหลายเท่าตัว",
+      "description": "Vite ออกเวอร์ชั่น 8.0 เปลี่ยน bundler เป็น Rolldown เร่งความเร็วหลายเท่าตัว Body Vite โครงการเครื่องมือ build",
+      "url": "https://www.blognone.com/node/150022",
+      "publishedAt": "2026-03-13T16:37:43.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150021 at https://www.blognone.com",
+      "title": "กลุ่มบริษัท AI วางมาตรฐานส่งข้อมูลทางไฟเบอร์ วางเป้าแบนด์วิดท์ 3.2Tbps ต่อเส้นไฟเบอร์",
+      "description": "กลุ่มบริษัท AI วางมาตรฐานส่งข้อมูลทางไฟเบอร์ วางเป้าแบนด์วิดท์ 3.2Tbps ต่อเส้นไฟเบอร์ Body AMD, Broadcom, Meta, Microsoft, NVIDIA, OpenAI",
+      "url": "https://www.blognone.com/node/150021",
+      "publishedAt": "2026-03-13T16:08:39.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "149974 at https://www.blognone.com",
+      "title": "เปิดบ้าน KKP Tech Team  เบื้องหลังนวัตกรรมการเงินของ KKP",
+      "description": "เปิดบ้าน KKP Tech Team เบื้องหลังนวัตกรรมการเงินของ KKP Body เมื่อพูดถึง Digital Transformation ภาพแรกที่หลายคนนึกถึงมักเกี่ยวข้องกับภาคธุรกิจ",
+      "url": "https://www.blognone.com/node/149974",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2026/2026-03/QT2025010012/New/image1.png",
+      "publishedAt": "2026-03-13T09:30:00.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "150017 at https://www.blognone.com",
       "title": "Adobe รายงานผลประกอบไตรมาส รายได้รวมโต 12% ทำสถิติอีกไตรมาส",
       "description": "Adobe รายงานผลประกอบไตรมาส รายได้รวมโต 12% ทำสถิติอีกไตรมาส Body Adobe รายงานผลประกอบการประจำไตรมาส สิ้นสุดวันที่ 27 กุมภาพันธ์ รายได้รวม 6,398",

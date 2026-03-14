@@ -245,6 +245,17 @@
       "tags": []
     },
     {
+      "id": "noxw2g",
+      "title": "You gotta think outside the hypercube",
+      "description": "Score: 10 | Comments: 0 | Posted by surprisetalk",
+      "url": "https://lcamtuf.substack.com/p/you-gotta-think-outside-the-hypercube",
+      "publishedAt": "2026-03-10T14:18:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
       "id": "5nvxgv",
       "title": "Rebasing in Magit",
       "description": "Score: 198 | Comments: 132 | Posted by ibobev",
@@ -300,6 +311,28 @@
       "tags": []
     },
     {
+      "id": "rj4twe",
+      "title": "Kovan: From Production MVCC Systems to Wait-Free Memory Reclamation",
+      "description": "Score: 12 | Comments: 0 | Posted by EvgeniyZh",
+      "url": "https://vertexclique.com/blog/kovan-from-prod-to-mr/",
+      "publishedAt": "2026-03-10T11:33:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "EvgeniyZh",
+      "tags": []
+    },
+    {
+      "id": "9baqni",
+      "title": "OpenTelemetry for Rust Developers",
+      "description": "Score: 53 | Comments: 11 | Posted by dhruv_ahuja",
+      "url": "https://signoz.io/blog/opentelemetry-rust/",
+      "publishedAt": "2026-03-10T10:57:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dhruv_ahuja",
+      "tags": []
+    },
+    {
       "id": "b419aj",
       "title": "I put my whole life into a single database",
       "description": "Score: 439 | Comments: 208 | Posted by lukakopajtic",
@@ -352,6 +385,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "helloplanets",
+      "tags": []
+    },
+    {
+      "id": "dwa0w8",
+      "title": "Using Thunderbird for RSS",
+      "description": "Score: 88 | Comments: 21 | Posted by ingve",
+      "url": "https://rubenerd.com/using-thunderbird-for-rss/",
+      "publishedAt": "2026-03-10T07:38:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingve",
       "tags": []
     },
     {
@@ -443,6 +487,17 @@
       "tags": []
     },
     {
+      "id": "1d46mx",
+      "title": "Emacs and Vim in the Age of AI",
+      "description": "Score: 67 | Comments: 11 | Posted by psibi",
+      "url": "https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/",
+      "publishedAt": "2026-03-10T04:21:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "psibi",
+      "tags": []
+    },
+    {
       "id": "mixdj1",
       "title": "EQT eyes potential $6B sale of Linux pioneer SUSE, sources say",
       "description": "Score: 38 | Comments: 11 | Posted by shscs911",
@@ -484,6 +539,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jenthoven",
+      "tags": []
+    },
+    {
+      "id": "7eamjz",
+      "title": "A Survival Guide to a PhD (2016)",
+      "description": "Score: 29 | Comments: 4 | Posted by vismit2000",
+      "url": "http://karpathy.github.io/2016/09/07/phd/",
+      "publishedAt": "2026-03-10T02:16:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vismit2000",
       "tags": []
     },
     {
