@@ -1,0 +1,105 @@
+{
+  "date": "2026-03-15",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "6u02gf",
+      "title": "Jeff Bezos Upended the Washington Post",
+      "description": "Score: 10 | Comments: 6 | Posted by y1n0",
+      "url": "https://www.nytimes.com/2026/03/14/business/media/washington-post-jeff-bezos-layoffs.html",
+      "publishedAt": "2026-03-15T05:36:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "y1n0",
+      "tags": []
+    },
+    {
+      "id": "n6a7nf",
+      "title": "Rack-Mount Hydroponicslj.am",
+      "description": "Score: 60 | Comments: 15 | Posted by cdrnsf",
+      "url": "https://sa.lj.am/rack-mount-hydroponics/",
+      "publishedAt": "2026-03-15T04:26:25.384Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cdrnsf",
+      "tags": []
+    },
+    {
+      "id": "n6a7nf",
+      "title": "Rack-Mount Hydroponics",
+      "description": "Score: 60 | Comments: 15 | Posted by cdrnsf",
+      "url": "https://sa.lj.am/rack-mount-hydroponics/",
+      "publishedAt": "2026-03-15T04:23:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cdrnsf",
+      "tags": []
+    },
+    {
+      "id": "jlh0co",
+      "title": "Young people are turning to old-school hobbies to get off their phones",
+      "description": "Score: 18 | Comments: 2 | Posted by 1vuio0pswjnm7",
+      "url": "https://apnews.com/article/old-school-hobbies-vintage-analog-grandma-e45fa11ae1422715b6a2540044767fd0",
+      "publishedAt": "2026-03-15T03:34:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "1vuio0pswjnm7",
+      "tags": []
+    },
+    {
+      "id": "q508wv",
+      "title": "A most elegant TCP hole punching algorithm",
+      "description": "Score: 25 | Comments: 2 | Posted by Uptrenda",
+      "url": "https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html",
+      "publishedAt": "2026-03-15T03:29:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Uptrenda",
+      "tags": []
+    },
+    {
+      "id": "yfzc5b",
+      "title": "Treasure hunter freed from jail after refusing to turn over shipwreck gold",
+      "description": "Score: 51 | Comments: 54 | Posted by tartoran",
+      "url": "https://www.bbc.com/news/articles/cg4g7kn99q3o",
+      "publishedAt": "2026-03-15T02:48:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tartoran",
+      "tags": []
+    },
+    {
+      "id": "trqpa6",
+      "title": "Mathematics Distillation Challenge – Equational Theoriesterrytao.wordpress.com",
+      "description": "Score: 48 | Comments: 2 | Posted by picafrost",
+      "url": "https://terrytao.wordpress.com/2026/03/13/mathematics-distillation-challenge-equational-theories/",
+      "publishedAt": "2026-03-15T01:26:25.385Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "picafrost",
+      "tags": []
+    },
+    {
+      "id": "scnlmx",
+      "title": "Tree Search Distillation for Language Models Using PPO",
+      "description": "Score: 45 | Comments: 2 | Posted by at2005",
+      "url": "https://ayushtambde.com/blog/tree-search-distillation-for-language-models-using-ppo/",
+      "publishedAt": "2026-03-15T00:51:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "at2005",
+      "tags": []
+    },
+    {
+      "id": "m5womn",
+      "title": "How Kernel Anti-Cheats Work",
+      "description": "Score: 106 | Comments: 82 | Posted by davikr",
+      "url": "https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/",
+      "publishedAt": "2026-03-15T00:15:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "davikr",
+      "tags": []
+    }
+  ]
+}

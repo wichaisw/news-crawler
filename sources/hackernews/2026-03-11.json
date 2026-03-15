@@ -124,6 +124,17 @@
       "tags": []
     },
     {
+      "id": "lrknhm",
+      "title": "Baochip-1x: What it is, why I'm doing it now and how it came about",
+      "description": "Score: 297 | Comments: 64 | Posted by timhh",
+      "url": "https://www.crowdsupply.com/baochip/dabao/updates/what-it-is-why-im-doing-it-now-and-how-it-came-about",
+      "publishedAt": "2026-03-11T18:21:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "timhh",
+      "tags": []
+    },
+    {
       "id": "99bncx",
       "title": "I was interviewed by an AI bot for a job",
       "description": "Score: 240 | Comments: 221 | Posted by speckx",
@@ -132,6 +143,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "speckx",
+      "tags": []
+    },
+    {
+      "id": "ajeo8d",
+      "title": "An interactive presentation about the Grammar of Graphic",
+      "description": "Score: 19 | Comments: 1 | Posted by gangtao",
+      "url": "https://timeplus-io.github.io/gg-vistral-introduction/",
+      "publishedAt": "2026-03-11T17:59:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gangtao",
       "tags": []
     },
     {
@@ -168,6 +190,17 @@
       "tags": []
     },
     {
+      "id": "ye93iz",
+      "title": "Refinement Modeling and Verification of RISC-V Assembly Using Knuckledragger",
+      "description": "Score: 7 | Comments: 0 | Posted by matt_d",
+      "url": "https://www.philipzucker.com/refine_assembly/",
+      "publishedAt": "2026-03-11T16:17:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "matt_d",
+      "tags": []
+    },
+    {
       "id": "8t7ply",
       "title": "Launch HN: Prism (YC X25) – Workspace and API to generate and edit videos",
       "description": "Score: 36 | Comments: 18 | Posted by aliu327",
@@ -176,6 +209,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "aliu327",
+      "tags": []
+    },
+    {
+      "id": "px0wkk",
+      "title": "An unappetizing shrub became different vegetables",
+      "description": "Score: 16 | Comments: 10 | Posted by bensouthwood",
+      "url": "https://www.worksinprogress.news/p/many-of-the-tastiest-vegetables-are",
+      "publishedAt": "2026-03-11T16:07:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bensouthwood",
       "tags": []
     },
     {
@@ -198,6 +242,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "tzury",
+      "tags": []
+    },
+    {
+      "id": "57klm8",
+      "title": "A look inside Dialector, filmmaker Chris Marker's chatbot from 1988",
+      "description": "Score: 24 | Comments: 1 | Posted by kosmavision",
+      "url": "https://kubicki.org/letters/the-festival-of-the-machines/",
+      "publishedAt": "2026-03-11T15:42:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kosmavision",
       "tags": []
     },
     {
@@ -253,6 +308,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "kilroy123",
+      "tags": []
+    },
+    {
+      "id": "ncvlud",
+      "title": "A Recursive Algorithm to Render Signed Distance Fields",
+      "description": "Score: 75 | Comments: 5 | Posted by surprisetalk",
+      "url": "https://pointersgonewild.com/2026-03-06-a-recursive-algorithm-to-render-signed-distance-fields/",
+      "publishedAt": "2026-03-11T14:10:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
       "tags": []
     },
     {
@@ -341,6 +407,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "christiansafka",
+      "tags": []
+    },
+    {
+      "id": "alei5g",
+      "title": "Life as an OnlyFans 'chatter'",
+      "description": "Score: 142 | Comments: 204 | Posted by 1659447091",
+      "url": "https://www.bbc.com/news/articles/cq571g9gd4lo",
+      "publishedAt": "2026-03-11T08:08:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "1659447091",
+      "tags": []
+    },
+    {
+      "id": "4iih8z",
+      "title": "Generalizing Knuth's Pseudocode Architecture From Algorithms to Knowledge",
+      "description": "Score: 29 | Comments: 3 | Posted by isomorphist",
+      "url": "https://www.researchgate.net/publication/401189185_Towards_a_Generalization_of_Knuth%27s_Pseudocode_Architecture_From_Algorithms_to_Knowledge",
+      "publishedAt": "2026-03-11T08:03:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "isomorphist",
       "tags": []
     },
     {
