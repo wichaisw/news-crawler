@@ -375,6 +375,17 @@
       "sourceName": "Hacker News",
       "author": "MBCook",
       "tags": []
+    },
+    {
+      "id": "a9f5o",
+      "title": "Lies I was told about collaborative editing, Part 2: Why we don't use Yjs",
+      "description": "Score: 28 | Comments: 13 | Posted by antics",
+      "url": "https://www.moment.dev/blog/lies-i-was-told-pt-2",
+      "publishedAt": "2026-03-13T01:38:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "antics",
+      "tags": []
     }
   ]
 }

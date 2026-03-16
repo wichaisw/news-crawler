@@ -1,0 +1,72 @@
+{
+  "date": "2026-03-15",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3102639",
+      "title": "ByteDance reportedly pauses global launch of its Seedance 2.0 video generator",
+      "description": "The company is reportedly delaying the launch as its engineers and lawyers work to avert further legal issues.",
+      "url": "https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/",
+      "publishedAt": "2026-03-15T21:01:51.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3102554",
+      "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
+      "description": "AI chatbots have been linked to suicides for years. Now one lawyer says they are showing up in mass casualty cases too, and the technology is moving",
+      "url": "https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
+      "publishedAt": "2026-03-15T18:49:32.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Rebecca Bellan",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3102628",
+      "title": "Unacademy to be acquired by upGrad in share-swap deal as India’s edtech sector consolidates",
+      "description": "The deal comes after Unacademy’s valuation plunged from $3.5B to under $500M, as India’s once-booming edtech sector struggles.",
+      "url": "https://techcrunch.com/2026/03/15/unacademy-to-be-acquired-by-upgrad-in-share-swap-deal-as-indias-edtech-sector-consolidates/",
+      "publishedAt": "2026-03-15T17:19:47.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Jagmeet Singh",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3102531",
+      "title": "TechCrunch Mobility: Travis Kalanick’s return proves it really is 2016 again",
+      "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "url": "https://techcrunch.com/2026/03/15/techcrunch-mobility-travis-kalanicks-return-proves-it-really-is-2016-again/",
+      "publishedAt": "2026-03-15T16:05:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Kirsten Korosec",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3102623",
+      "title": "Wiz investor unpacks Google’s $32B acquisition",
+      "description": "Shardul Shah of Index Ventures walks us through Google's biggest acquisition ever.",
+      "url": "https://techcrunch.com/2026/03/15/wiz-investor-unpacks-googles-32b-acquisition/",
+      "publishedAt": "2026-03-15T15:30:33.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3102611",
+      "title": "Rivian’s RJ Scaringe thinks we’re doing robots all wrong",
+      "description": "Rivian CEO RJ Scaringe shares his thoughts and plans for his newest startup, Mind Robotics.",
+      "url": "https://techcrunch.com/2026/03/15/rivians-rj-scaringe-thinks-were-doing-robots-all-wrong/",
+      "publishedAt": "2026-03-15T14:30:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Kirsten Korosec",
+      "tags": []
+    }
+  ]
+}

@@ -25,6 +25,17 @@
       "tags": []
     },
     {
+      "id": "o6qlo9",
+      "title": "What every computer scientist should know about floating-point arithmetic (1991) [pdf]",
+      "description": "Score: 35 | Comments: 2 | Posted by jbarrow",
+      "url": "https://www.itu.dk/~sestoft/bachelor/IEEE754_article.pdf",
+      "publishedAt": "2026-03-11T23:24:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jbarrow",
+      "tags": []
+    },
+    {
       "id": "6k2dpw",
       "title": "Six-Day and IP Address Certificates Available in Certbot",
       "description": "Score: 10 | Comments: 0 | Posted by hn_acker",
@@ -44,6 +55,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "donutshop",
+      "tags": []
+    },
+    {
+      "id": "64kkrs",
+      "title": "Type systems are leaky abstractions: the case of Map.take!/2",
+      "description": "Score: 44 | Comments: 19 | Posted by tosh",
+      "url": "https://dashbit.co/blog/type-systems-are-leaky-abstractions-map-take",
+      "publishedAt": "2026-03-11T21:13:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tosh",
       "tags": []
     },
     {
@@ -99,6 +121,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "usefulposter",
+      "tags": []
+    },
+    {
+      "id": "9gw7b5",
+      "title": "Bus travel from Lima to Rio de Janeiro",
+      "description": "Score: 150 | Comments: 60 | Posted by ks2048",
+      "url": "https://kenschutte.com/lima-to-rio-by-bus/",
+      "publishedAt": "2026-03-11T19:07:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ks2048",
+      "tags": []
+    },
+    {
+      "id": "jz9wgz",
+      "title": "//go:fix inline and the source-level inliner",
+      "description": "Score: 131 | Comments: 55 | Posted by commotionfever",
+      "url": "https://go.dev/blog/inliner",
+      "publishedAt": "2026-03-11T18:39:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "commotionfever",
       "tags": []
     },
     {
