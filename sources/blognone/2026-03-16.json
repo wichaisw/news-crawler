@@ -3,6 +3,51 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "150049 at https://www.blognone.com",
+      "title": "NVIDIA เปิดตัวโมเดล Nemotron เพิ่มทั้งโมเดลขนาดใหญ่, โมเดลเข้าใจเสียงและภาพ",
+      "description": "NVIDIA เปิดตัวโมเดล Nemotron เพิ่มทั้งโมเดลขนาดใหญ่, โมเดลเข้าใจเสียงและภาพ Body NVIDIA เปิดตัวโมเดลปัญญาประดิษฐ์แบบโอเพนซอร์สเพิ่มในงาน GTC 2026",
+      "url": "https://www.blognone.com/node/150049",
+      "publishedAt": "2026-03-16T22:44:12.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150048 at https://www.blognone.com",
+      "title": "NVIDIA เปิดตัวแพลตฟอร์ม Vera Rubin เชื่อมชิป Groq 3 เร่งความเร็ว",
+      "description": "NVIDIA เปิดตัวแพลตฟอร์ม Vera Rubin เชื่อมชิป Groq 3 เร่งความเร็ว Body NVIDIA เปิดตัวแพลตฟอร์ม NVIDIA Vera Rubin ครบชุด",
+      "url": "https://www.blognone.com/node/150048",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2026/2026-03/pxl_20260316_194350935.jpg",
+      "publishedAt": "2026-03-16T22:06:19.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150047 at https://www.blognone.com",
+      "title": "Apple เปิดตัว AirPods Max 2 อัปเกรดชิปเป็น H2 พร้อมคุณภาพเสียงที่ดียิ่งขึ้น",
+      "description": "Apple เปิดตัว AirPods Max 2 อัปเกรดชิปเป็น H2 พร้อมคุณภาพเสียงที่ดียิ่งขึ้น Body แอปเปิลเปิดตัวหูฟังรุ่นบนตัวใหม่ AirPods Max 2 อัปเกรดชิปเป็น H2",
+      "url": "https://www.blognone.com/node/150047",
+      "publishedAt": "2026-03-16T20:19:19.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150046 at https://www.blognone.com",
+      "title": "NVIDIA เปิดตัว DLSS 5 ใช้ AI ปรับความละเอียดภาพโดยอาศัยโครงสร้าง 3 มิติด้วย",
+      "description": "NVIDIA เปิดตัว DLSS 5 ใช้ AI ปรับความละเอียดภาพโดยอาศัยโครงสร้าง 3 มิติด้วย Body NVIDIA เปิดตัว DLSS 5 เทคโนโลยีปรับความละเอียดภาพคุณภาพสูง",
+      "url": "https://www.blognone.com/node/150046",
+      "publishedAt": "2026-03-16T18:52:33.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "150041 at https://www.blognone.com",
       "title": "Spotify เปิดให้ผู้ใช้งานแก้ประวัติ Taste Profile ได้แล้ว เพื่อให้แนะนำเพลง-พอดคาสต์ ตรงใจมากขึ้น",
       "description": "Spotify เปิดให้ผู้ใช้งานแก้ประวัติ Taste Profile ได้แล้ว เพื่อให้แนะนำเพลง-พอดคาสต์ ตรงใจมากขึ้น Body Gustav Söderström ซีอีโอร่วมของ Spotify",

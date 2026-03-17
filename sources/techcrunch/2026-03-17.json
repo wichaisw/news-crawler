@@ -1,0 +1,28 @@
+{
+  "date": "2026-03-17",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3102893",
+      "title": "Picsart now allows creators to ‘hire’ AI assistants through agent marketplace",
+      "description": "Picsart's AI agent marketplace will launch with four agents, then add more agents each week.",
+      "url": "https://techcrunch.com/2026/03/16/picsart-now-allows-creators-to-hire-ai-assistants-through-agent-marketplace/",
+      "publishedAt": "2026-03-17T04:01:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Amanda Silberling",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3103148",
+      "title": "SEC eyes shift to twice-yearly earnings reports",
+      "description": "The SEC is working on a proposal to allow public companies to release earnings reports twice a year instead of quarterly, per the WSJ.",
+      "url": "https://techcrunch.com/2026/03/16/sec-eyes-shift-to-twice-yearly-earnings-reports/",
+      "publishedAt": "2026-03-17T00:27:10.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "date": "2026-03-17",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "150052 at https://www.blognone.com",
+      "title": "ชวนคนเลิกซื้อ Mac Mini, NVIDIA เปิดตัว NemoClaw สร้างผู้ช่วยส่วนตัวบน DGX Spark/DGX Station",
+      "description": "ชวนคนเลิกซื้อ Mac Mini, NVIDIA เปิดตัว NemoClaw สร้างผู้ช่วยส่วนตัวบน DGX Spark/DGX Station Body NVIDIA เปิดตัวโครงการ NemoClaw",
+      "url": "https://www.blognone.com/node/150052",
+      "publishedAt": "2026-03-17T05:17:02.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150051 at https://www.blognone.com",
+      "title": "NVIDIA คาดยอดขายชิป AI รุ่นหลักจะรวมกันแตะ 1 ล้านล้านดอลลาร์ ภายในปี 2027",
+      "description": "NVIDIA คาดยอดขายชิป AI รุ่นหลักจะรวมกันแตะ 1 ล้านล้านดอลลาร์ ภายในปี 2027 Body Jensen Huang ซีอีโอ NVIDIA กล่าวในตอนหนึ่งของคีย์โน้ตเปิดงานสัมมนา GTC",
+      "url": "https://www.blognone.com/node/150051",
+      "publishedAt": "2026-03-17T00:42:06.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150050 at https://www.blognone.com",
+      "title": "Apple ซื้อกิจการ MotionVFX ผู้พัฒนาปลั๊กอินยอดนิยมบน Final Cut Pro",
+      "description": "Apple ซื้อกิจการ MotionVFX ผู้พัฒนาปลั๊กอินยอดนิยมบน Final Cut Pro Body แอปเปิลซื้อกิจการ MotionVFX บริษัทผู้พัฒนาปลั๊กอิน เอฟเฟกต์ด้านภาพ",
+      "url": "https://www.blognone.com/node/150050",
+      "publishedAt": "2026-03-17T00:27:54.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}

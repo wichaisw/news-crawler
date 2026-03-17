@@ -1,0 +1,94 @@
+{
+  "date": "2026-03-17",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "gbr11v",
+      "title": "Kagi Translate now supports LinkedIn Speak as an output languagekagi.com",
+      "description": "Score: 200 | Comments: 33 | Posted by smitec",
+      "url": "https://translate.kagi.com/?from=en&to=LinkedIn+speak",
+      "publishedAt": "2026-03-17T05:29:09.423Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "smitec",
+      "tags": []
+    },
+    {
+      "id": "gbr11v",
+      "title": "Kagi Translate now supports LinkedIn Speak as an output language",
+      "description": "Score: 203 | Comments: 33 | Posted by smitec",
+      "url": "https://translate.kagi.com/?from=en&to=LinkedIn+speak",
+      "publishedAt": "2026-03-17T04:39:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "smitec",
+      "tags": []
+    },
+    {
+      "id": "xh6bm0",
+      "title": "Zenclora OS",
+      "description": "Score: 17 | Comments: 15 | Posted by debo_",
+      "url": "https://zenclora.org/",
+      "publishedAt": "2026-03-17T04:10:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "debo_",
+      "tags": []
+    },
+    {
+      "id": "4ewecj",
+      "title": "Monkey Island for Commodore 64 Ground Up",
+      "description": "Score: 62 | Comments: 14 | Posted by aresant",
+      "url": "https://pixeldust.se/monkey-island-project",
+      "publishedAt": "2026-03-17T04:00:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "aresant",
+      "tags": []
+    },
+    {
+      "id": "6fj8hd",
+      "title": "Jepsen: MariaDB Galera Cluster 12.1.2",
+      "description": "Score: 45 | Comments: 4 | Posted by aphyr",
+      "url": "https://jepsen.io/analyses/mariadb-galera-cluster-12.1.2",
+      "publishedAt": "2026-03-17T03:46:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "aphyr",
+      "tags": []
+    },
+    {
+      "id": "2o2e8n",
+      "title": "Every layer of review makes you 10x slower",
+      "description": "Score: 106 | Comments: 44 | Posted by greyface-",
+      "url": "https://apenwarr.ca/log/20260316",
+      "publishedAt": "2026-03-17T03:20:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "greyface-",
+      "tags": []
+    },
+    {
+      "id": "rchadn",
+      "title": "US SEC preparing to scrap quarterly reporting requirementreuters.com",
+      "description": "Score: 502 | Comments: 266 | Posted by djoldman",
+      "url": "https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/",
+      "publishedAt": "2026-03-17T00:29:09.424Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "djoldman",
+      "tags": []
+    },
+    {
+      "id": "rchadn",
+      "title": "US SEC preparing to scrap quarterly reporting requirement",
+      "description": "Score: 504 | Comments: 266 | Posted by djoldman",
+      "url": "https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/",
+      "publishedAt": "2026-03-17T00:02:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "djoldman",
+      "tags": []
+    }
+  ]
+}
