@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "736ql0",
+      "title": "Electron microscopy shows ‘mouse bite’ defects in semiconductors",
+      "description": "Score: 48 | Comments: 10 | Posted by hhs",
+      "url": "https://news.cornell.edu/stories/2026/03/electron-microscopy-shows-mouse-bite-defects-semiconductors",
+      "publishedAt": "2026-03-13T23:30:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hhs",
+      "tags": []
+    },
+    {
       "id": "nwl64z",
       "title": "Show HN: Simple plugin to get Claude Code to listen to you",
       "description": "Score: 12 | Comments: 0 | Posted by itsankur",
@@ -58,6 +69,17 @@
       "tags": []
     },
     {
+      "id": "q6eqps",
+      "title": "More than 135 open hardware devices flashable with your own firmware",
+      "description": "Score: 149 | Comments: 12 | Posted by iosifnicolae2",
+      "url": "https://openhardware.directory",
+      "publishedAt": "2026-03-13T21:04:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "iosifnicolae2",
+      "tags": []
+    },
+    {
       "id": "787eoh",
       "title": "Stanford researchers report first recording of a blue whale's heart rate (2019)",
       "description": "Score: 66 | Comments: 39 | Posted by eatonphil",
@@ -66,6 +88,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "eatonphil",
+      "tags": []
+    },
+    {
+      "id": "qjqnkg",
+      "title": "It Took Me 30 Years to Solve This VFX Problem – Green Screen Problem [video]",
+      "description": "Score: 214 | Comments: 91 | Posted by yincrash",
+      "url": "https://www.youtube.com/watch?v=3Ploi723hg4",
+      "publishedAt": "2026-03-13T19:14:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "yincrash",
       "tags": []
     },
     {
@@ -190,6 +223,28 @@
       "tags": []
     },
     {
+      "id": "xv82ep",
+      "title": "Font Smuggler – Copy hidden brand fonts into Google Docs",
+      "description": "Score: 168 | Comments: 79 | Posted by lanewinfield",
+      "url": "https://brianmoore.com/fontsmuggler/",
+      "publishedAt": "2026-03-13T16:35:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lanewinfield",
+      "tags": []
+    },
+    {
+      "id": "pbankg",
+      "title": "The unlikely story of Teardown Multiplayer",
+      "description": "Score: 226 | Comments: 59 | Posted by lairv",
+      "url": "https://blog.voxagon.se/2026/03/13/teardown-multiplayer.html",
+      "publishedAt": "2026-03-13T16:20:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lairv",
+      "tags": []
+    },
+    {
       "id": "rirpmp",
       "title": "The Wyden Siren Goes Off Again: We'll Be \"Stunned\" by NSA Under Section 702",
       "description": "Score: 432 | Comments: 127 | Posted by cf100clunk",
@@ -198,6 +253,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "cf100clunk",
+      "tags": []
+    },
+    {
+      "id": "zh8myv",
+      "title": "The Starving Time in Jamestown",
+      "description": "Score: 7 | Comments: 1 | Posted by samclemens",
+      "url": "https://www.historytoday.com/archive/history-matters/starving-time-jamestown",
+      "publishedAt": "2026-03-13T16:03:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "samclemens",
       "tags": []
     },
     {

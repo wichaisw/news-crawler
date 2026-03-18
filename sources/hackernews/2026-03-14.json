@@ -289,6 +289,17 @@
       "tags": []
     },
     {
+      "id": "7bl8lr",
+      "title": "Torturing Rustc by Emulating HKTs",
+      "description": "Score: 59 | Comments: 6 | Posted by g0xA52A2A",
+      "url": "https://www.harudagondi.space/blog/torturing-rustc-by-emulating-hkts/",
+      "publishedAt": "2026-03-14T07:25:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "g0xA52A2A",
+      "tags": []
+    },
+    {
       "id": "fcqf99",
       "title": "Ex-Windows chief praises MacBook Neo, laments Surface defeat",
       "description": "Score: 7 | Comments: 4 | Posted by walterbell",
@@ -333,6 +344,28 @@
       "tags": []
     },
     {
+      "id": "desi2m",
+      "title": "Arno's Engram Keyboard Layouts",
+      "description": "Score: 12 | Comments: 7 | Posted by so-cal-schemer",
+      "url": "https://github.com/binarybottle/engram",
+      "publishedAt": "2026-03-14T01:47:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "so-cal-schemer",
+      "tags": []
+    },
+    {
+      "id": "ddr10y",
+      "title": "JPEG Compression",
+      "description": "Score: 6 | Comments: 0 | Posted by vinhnx",
+      "url": "https://www.sophielwang.com/blog/jpeg",
+      "publishedAt": "2026-03-14T01:31:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vinhnx",
+      "tags": []
+    },
+    {
       "id": "p65o8p",
       "title": "$2B nonprofit grants traced to find who's behind age verification bills",
       "description": "Score: 34 | Comments: 1 | Posted by spaghetdefects",
@@ -344,6 +377,17 @@
       "tags": []
     },
     {
+      "id": "6lacba",
+      "title": "Show HN: I built an interactive 3D three-body problem simulator in the browser",
+      "description": "Score: 44 | Comments: 16 | Posted by amrutha_",
+      "url": "https://structuredlabs.github.io/threebodyproblem/",
+      "publishedAt": "2026-03-14T00:43:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "amrutha_",
+      "tags": []
+    },
+    {
       "id": "tp0y6h",
       "title": "Our Experience with I-Ready",
       "description": "Score: 55 | Comments: 18 | Posted by barry-cotter",
@@ -352,6 +396,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "barry-cotter",
+      "tags": []
+    },
+    {
+      "id": "2n967v",
+      "title": "Show HN: Fatal Core Dump – A debugging murder mystery played with GDB",
+      "description": "Score: 50 | Comments: 1 | Posted by axlan",
+      "url": "https://www.robopenguins.com/fatal_core_dump/",
+      "publishedAt": "2026-03-14T00:12:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "axlan",
       "tags": []
     },
     {

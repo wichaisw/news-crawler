@@ -1,0 +1,116 @@
+{
+  "date": "2026-03-18",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "lczs5u",
+      "title": "Switzerland Built an Alternative to BGP",
+      "description": "Score: 9 | Comments: 0 | Posted by jonbaer",
+      "url": "https://www.theregister.com/2026/03/17/switzerland_bgp_alternative/",
+      "publishedAt": "2026-03-18T05:44:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jonbaer",
+      "tags": []
+    },
+    {
+      "id": "u294qi",
+      "title": "SSH has no Host headerexe.dev",
+      "description": "Score: 44 | Comments: 29 | Posted by apitman",
+      "url": "https://blog.exe.dev/ssh-host-header",
+      "publishedAt": "2026-03-18T05:29:23.676Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "apitman",
+      "tags": []
+    },
+    {
+      "id": "u294qi",
+      "title": "SSH has no Host header",
+      "description": "Score: 45 | Comments: 32 | Posted by apitman",
+      "url": "https://blog.exe.dev/ssh-host-header",
+      "publishedAt": "2026-03-18T05:18:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "apitman",
+      "tags": []
+    },
+    {
+      "id": "6su1sd",
+      "title": "Have a Fucking Websiteotherstrangeness.com",
+      "description": "Score: 131 | Comments: 64 | Posted by asukachikaru",
+      "url": "https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/",
+      "publishedAt": "2026-03-18T04:29:23.676Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "asukachikaru",
+      "tags": []
+    },
+    {
+      "id": "w430pu",
+      "title": "Forget Flags and Scripts: Just Rename the File",
+      "description": "Score: 13 | Comments: 11 | Posted by Uptrenda",
+      "url": "https://robertsdotpm.github.io/software_engineering/program_names_as_input.html",
+      "publishedAt": "2026-03-18T04:11:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Uptrenda",
+      "tags": []
+    },
+    {
+      "id": "6su1sd",
+      "title": "Have a Fucking Website",
+      "description": "Score: 134 | Comments: 67 | Posted by asukachikaru",
+      "url": "https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/",
+      "publishedAt": "2026-03-18T03:53:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "asukachikaru",
+      "tags": []
+    },
+    {
+      "id": "m04srf",
+      "title": "Robotocore · a Digital Twin of AWS",
+      "description": "Score: 10 | Comments: 1 | Posted by pkaeding",
+      "url": "https://github.com/robotocore/robotocore",
+      "publishedAt": "2026-03-18T01:30:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pkaeding",
+      "tags": []
+    },
+    {
+      "id": "nbe9l1",
+      "title": "Launch an autonomous AI agent with sandboxed execution in 2 lines of code",
+      "description": "Score: 24 | Comments: 3 | Posted by wiseprobe",
+      "url": "https://amaiya.github.io/onprem/examples_agent.html",
+      "publishedAt": "2026-03-18T01:10:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wiseprobe",
+      "tags": []
+    },
+    {
+      "id": "rp9iq4",
+      "title": "The pleasures of poor product design",
+      "description": "Score: 68 | Comments: 21 | Posted by NaOH",
+      "url": "https://www.inconspicuous.info/p/the-pleasures-of-poor-product-design",
+      "publishedAt": "2026-03-18T01:00:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "NaOH",
+      "tags": []
+    },
+    {
+      "id": "iwbue0",
+      "title": "A tale about fixing eBPF spinlock issues in the Linux kernel",
+      "description": "Score: 60 | Comments: 1 | Posted by y1n0",
+      "url": "https://rovarma.com/articles/a-tale-about-fixing-ebpf-spinlock-issues-in-the-linux-kernel/",
+      "publishedAt": "2026-03-18T00:53:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "y1n0",
+      "tags": []
+    }
+  ]
+}
