@@ -1,0 +1,138 @@
+{
+  "date": "2026-03-19",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "1yc253",
+      "title": "What 81,000 people want from AI",
+      "description": "Score: 43 | Comments: 31 | Posted by dsr12",
+      "url": "https://www.anthropic.com/features/81k-interviews",
+      "publishedAt": "2026-03-19T05:00:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dsr12",
+      "tags": []
+    },
+    {
+      "id": "ca2kx2",
+      "title": "Conway's Game of Life, in real life",
+      "description": "Score: 24 | Comments: 2 | Posted by surprisetalk",
+      "url": "https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life",
+      "publishedAt": "2026-03-19T03:55:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
+      "id": "jcr0l8",
+      "title": "Mozilla to launch free built-in VPN in upcoming Firefox 149",
+      "description": "Score: 59 | Comments: 28 | Posted by adrianwaj",
+      "url": "https://cyberinsider.com/mozilla-to-launch-free-built-in-vpn-in-upcoming-firefox-149/",
+      "publishedAt": "2026-03-19T03:31:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "adrianwaj",
+      "tags": []
+    },
+    {
+      "id": "658vut",
+      "title": "We Have Learned Nothing",
+      "description": "Score: 27 | Comments: 6 | Posted by lukestevens",
+      "url": "https://colossus.com/article/we-have-learned-nothing-startup-pundits/",
+      "publishedAt": "2026-03-19T02:53:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lukestevens",
+      "tags": []
+    },
+    {
+      "id": "53g2wz",
+      "title": "A sufficiently detailed spec is codehaskellforall.com",
+      "description": "Score: 160 | Comments: 57 | Posted by signa11",
+      "url": "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code",
+      "publishedAt": "2026-03-19T02:26:56.720Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "signa11",
+      "tags": []
+    },
+    {
+      "id": "24bqc8",
+      "title": "Cook: A simple CLI for orchestrating Claude Coderjcorwin.github.io",
+      "description": "Score: 119 | Comments: 27 | Posted by staticvar",
+      "url": "https://rjcorwin.github.io/cook/",
+      "publishedAt": "2026-03-19T02:26:56.720Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "staticvar",
+      "tags": []
+    },
+    {
+      "id": "53g2wz",
+      "title": "A sufficiently detailed spec is code",
+      "description": "Score: 161 | Comments: 59 | Posted by signa11",
+      "url": "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code",
+      "publishedAt": "2026-03-19T02:23:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "signa11",
+      "tags": []
+    },
+    {
+      "id": "24bqc8",
+      "title": "Cook: A simple CLI for orchestrating Claude Code",
+      "description": "Score: 120 | Comments: 28 | Posted by staticvar",
+      "url": "https://rjcorwin.github.io/cook/",
+      "publishedAt": "2026-03-19T02:20:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "staticvar",
+      "tags": []
+    },
+    {
+      "id": "r3ludh",
+      "title": "Autoresearch for SAT Solvers",
+      "description": "Score: 89 | Comments: 15 | Posted by chaisan",
+      "url": "https://github.com/iliazintchenko/agent-sat",
+      "publishedAt": "2026-03-19T00:40:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "chaisan",
+      "tags": []
+    },
+    {
+      "id": "nia3f0",
+      "title": "A comprehensive database of categories and their properties",
+      "description": "Score: 5 | Comments: 0 | Posted by mathgenius",
+      "url": "https://catdat.app/",
+      "publishedAt": "2026-03-19T00:19:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mathgenius",
+      "tags": []
+    },
+    {
+      "id": "on48x9",
+      "title": "Austin’s surge of new housing construction drove down rents",
+      "description": "Score: 461 | Comments: 501 | Posted by matthest",
+      "url": "https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents",
+      "publishedAt": "2026-03-19T00:15:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "matthest",
+      "tags": []
+    },
+    {
+      "id": "xwr9p6",
+      "title": "Jack Bogle would hate what Vanguard has become",
+      "description": "Score: 9 | Comments: 13 | Posted by benjaminklick",
+      "url": "https://ristforever.com/rist/06693d7b-590a-4636-9198-a9e103369c70",
+      "publishedAt": "2026-03-19T00:06:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "benjaminklick",
+      "tags": []
+    }
+  ]
+}

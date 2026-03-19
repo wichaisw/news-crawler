@@ -190,6 +190,17 @@
       "tags": []
     },
     {
+      "id": "5b4gkg",
+      "title": "Explore 19th Century Scientific Correspondence",
+      "description": "Score: 26 | Comments: 3 | Posted by rramadass",
+      "url": "https://epsilon.ac.uk/",
+      "publishedAt": "2026-03-15T16:38:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rramadass",
+      "tags": []
+    },
+    {
       "id": "q9lkl7",
       "title": "LLM Architecture Gallery",
       "description": "Score: 344 | Comments: 27 | Posted by tzury",
@@ -198,6 +209,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "tzury",
+      "tags": []
+    },
+    {
+      "id": "dee8co",
+      "title": "Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe",
+      "description": "Score: 244 | Comments: 47 | Posted by mmastrac",
+      "url": "https://gitlab.com/IsolatedOctopi/nvidia_greenboost",
+      "publishedAt": "2026-03-15T15:59:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mmastrac",
       "tags": []
     },
     {
@@ -256,6 +278,17 @@
       "tags": []
     },
     {
+      "id": "l59aib",
+      "title": "An x86-64 back end for raven-uxn",
+      "description": "Score: 25 | Comments: 5 | Posted by dcre",
+      "url": "https://www.mattkeeter.com/blog/2026-03-15-uxn/",
+      "publishedAt": "2026-03-15T13:57:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dcre",
+      "tags": []
+    },
+    {
       "id": "9wmc0l",
       "title": "Honda is killing its EVs",
       "description": "Score: 282 | Comments: 586 | Posted by sylvainkalache",
@@ -297,6 +330,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "RickJWagner",
+      "tags": []
+    },
+    {
+      "id": "v19dj4",
+      "title": "OpenRocket",
+      "description": "Score: 484 | Comments: 89 | Posted by zeristor",
+      "url": "https://openrocket.info/",
+      "publishedAt": "2026-03-15T12:20:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zeristor",
       "tags": []
     },
     {
@@ -385,6 +429,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "aerhardt",
+      "tags": []
+    },
+    {
+      "id": "7euuyy",
+      "title": "LotusNotes",
+      "description": "Score: 37 | Comments: 15 | Posted by TMWNN",
+      "url": "https://computer.rip/2026-03-14-lotusnotes.html",
+      "publishedAt": "2026-03-15T08:40:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "TMWNN",
       "tags": []
     },
     {

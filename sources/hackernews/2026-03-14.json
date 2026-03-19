@@ -47,6 +47,17 @@
       "tags": []
     },
     {
+      "id": "n3060f",
+      "title": "Framework doesn't matter",
+      "description": "Score: 7 | Comments: 0 | Posted by zdw",
+      "url": "https://cemrehancavdar.com/2026/02/19/your-framework-may-not-matter/",
+      "publishedAt": "2026-03-14T22:14:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
       "id": "om1tbi",
       "title": "Ageless Linux – Software for humans of indeterminate age",
       "description": "Score: 507 | Comments: 323 | Posted by nateb2022",
@@ -146,6 +157,17 @@
       "tags": []
     },
     {
+      "id": "tpxctt",
+      "title": "Book: The Emerging Science of Machine Learning Benchmarks",
+      "description": "Score: 108 | Comments: 6 | Posted by jxmorris12",
+      "url": "https://mlbenchmarks.org/00-preface.html",
+      "publishedAt": "2026-03-14T20:15:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jxmorris12",
+      "tags": []
+    },
+    {
       "id": "h6ch45",
       "title": "My fireside chat about agentic engineering at the Pragmatic Summit",
       "description": "Score: 12 | Comments: 1 | Posted by lumpa",
@@ -198,6 +220,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mooreds",
+      "tags": []
+    },
+    {
+      "id": "yohl4e",
+      "title": "Show HN: Hacker News archive (47M+ items, 11.6GB) as Parquet, updated every 5m",
+      "description": "Score: 351 | Comments: 143 | Posted by tamnd",
+      "url": "https://huggingface.co/datasets/open-index/hacker-news",
+      "publishedAt": "2026-03-14T17:12:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tamnd",
       "tags": []
     },
     {
@@ -363,6 +396,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "vinhnx",
+      "tags": []
+    },
+    {
+      "id": "37et46",
+      "title": "On a Boat",
+      "description": "Score: 145 | Comments: 24 | Posted by mmcclure",
+      "url": "https://moq.dev/blog/on-a-boat/",
+      "publishedAt": "2026-03-14T00:50:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mmcclure",
       "tags": []
     },
     {
