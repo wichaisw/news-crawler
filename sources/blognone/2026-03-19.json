@@ -3,6 +3,61 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "150069 at https://www.blognone.com",
+      "title": "OpenAI ซื้อบริษัท Astral ผู้สร้าง uv เครื่องมือพัฒนา Python ยอดนิยม",
+      "description": "OpenAI ซื้อบริษัท Astral ผู้สร้าง uv เครื่องมือพัฒนา Python ยอดนิยม Body OpenAI ประกาศซื้อบริษัท Astral ผู้สร้างเครื่องมือพัฒนา Python เช่น uv, Ruff,",
+      "url": "https://www.blognone.com/node/150069",
+      "publishedAt": "2026-03-19T18:33:56.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150068 at https://www.blognone.com",
+      "title": "Unsloth Studio โครงการช่วยปรับจูน AI ให้ตรงการใช้งานได้โดยไม่ต้องเขียนโค้ด",
+      "description": "Unsloth Studio โครงการช่วยปรับจูน AI ให้ตรงการใช้งานได้โดยไม่ต้องเขียนโค้ด Body Unsloth โครงการเฟรมเวิร์คสำหรับปรับแต่งโมเดล AI ยอดนิยมในช่วงหลัง",
+      "url": "https://www.blognone.com/node/150068",
+      "publishedAt": "2026-03-19T18:06:20.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150067 at https://www.blognone.com",
+      "title": "NVIDIA OpenShell ซอฟต์แวร์ sandbox สำหรับรัน AI Agent จำกัดการเชื่อมต่อภายนอกอย่างละเอียด",
+      "description": "NVIDIA OpenShell ซอฟต์แวร์ sandbox สำหรับรัน AI Agent จำกัดการเชื่อมต่อภายนอกอย่างละเอียด Body ในงาน GTC ปีนี้ NVIDIA เปิดโครงการ NemoClaw",
+      "url": "https://www.blognone.com/node/150067",
+      "publishedAt": "2026-03-19T17:24:56.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150065 at https://www.blognone.com",
+      "title": "Meta ประกาศปิดบริการโลกเสมือน Horizon Worlds บน VR อย่างเป็นทางการ เฉพาะเกมยังเก็บไว้ต่อ",
+      "description": "Meta ประกาศปิดบริการโลกเสมือน Horizon Worlds บน VR อย่างเป็นทางการ เฉพาะเกมยังเก็บไว้ต่อ Body เมื่อเดือนที่แล้ว Meta ประกาศ",
+      "url": "https://www.blognone.com/node/150065",
+      "publishedAt": "2026-03-19T13:33:56.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150064 at https://www.blognone.com",
+      "title": "realme เปิดตัว 16 Series 5G ชูกล้อง 200MP พร้อม 3 รุ่น เริ่ม 11,999 บาท",
+      "description": "realme เปิดตัว 16 Series 5G ชูกล้อง 200MP พร้อม 3 รุ่น เริ่ม 11,999 บาท Body realme เปิดตัวสมาร์ทโฟน 16 Series 5G ในไทย 3 รุ่น ได้แก่ 16 Pro+ 5G, 16",
+      "url": "https://www.blognone.com/node/150064",
+      "publishedAt": "2026-03-19T12:20:35.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "150062 at https://www.blognone.com",
       "title": "Perplexity ออกเบราว์เซอร์ Comet เวอร์ชัน iOS แล้ว",
       "description": "Perplexity ออกเบราว์เซอร์ Comet เวอร์ชัน iOS แล้ว Body Perplexity ออกเบราว์เซอร์ Comet บน iOS และ iPadOS แล้ว หลังจากออกแอปเวอร์ชัน Android เมื่อ 4",

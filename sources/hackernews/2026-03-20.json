@@ -1,0 +1,127 @@
+{
+  "date": "2026-03-20",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "o8ca7b",
+      "title": "ArXiv Declares Independence from Cornellscience.org",
+      "description": "Score: 91 | Comments: 15 | Posted by bookstore-romeo",
+      "url": "https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell",
+      "publishedAt": "2026-03-20T05:23:47.754Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bookstore-romeo",
+      "tags": []
+    },
+    {
+      "id": "9yaff",
+      "title": "Kin: Semantic version control that tracks code as entities, not files",
+      "description": "Score: 5 | Comments: 1 | Posted by troyjr4103",
+      "url": "https://github.com/firelock-ai/kin",
+      "publishedAt": "2026-03-20T04:31:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "troyjr4103",
+      "tags": []
+    },
+    {
+      "id": "o8ca7b",
+      "title": "ArXiv Declares Independence from Cornell",
+      "description": "Score: 92 | Comments: 15 | Posted by bookstore-romeo",
+      "url": "https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell",
+      "publishedAt": "2026-03-20T04:24:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bookstore-romeo",
+      "tags": []
+    },
+    {
+      "id": "32dxki",
+      "title": "TI-89 Height-Mapped Raycaster",
+      "description": "Score: 5 | Comments: 0 | Posted by zoba",
+      "url": "https://github.com/dzoba/ti-89-raycasting-with-z",
+      "publishedAt": "2026-03-20T02:33:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zoba",
+      "tags": []
+    },
+    {
+      "id": "7ubh6i",
+      "title": "Physicists Trace Sun's Magnetic Engine, 200k Kilometers Below Surface",
+      "description": "Score: 12 | Comments: 0 | Posted by gmays",
+      "url": "https://news.njit.edu/njit-physicists-trace-sun%E2%80%99s-magnetic-engine-200000-kilometers-below-surface",
+      "publishedAt": "2026-03-20T02:12:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gmays",
+      "tags": []
+    },
+    {
+      "id": "ovoiad",
+      "title": "Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found",
+      "description": "Score: 94 | Comments: 17 | Posted by nyxgeek",
+      "url": "https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found",
+      "publishedAt": "2026-03-20T01:09:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nyxgeek",
+      "tags": []
+    },
+    {
+      "id": "2jy7xx",
+      "title": "3D Printing High Quality Keycaps",
+      "description": "Score: 6 | Comments: 0 | Posted by TheGuyWhoCodes",
+      "url": "https://candrews.integralblue.com/2024/03/3d-printing-high-quality-keycaps/",
+      "publishedAt": "2026-03-20T01:09:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "TheGuyWhoCodes",
+      "tags": []
+    },
+    {
+      "id": "i1phbw",
+      "title": "Drugwars for the TI-82/83/83 Calculators (2011)",
+      "description": "Score: 112 | Comments: 45 | Posted by robotnikman",
+      "url": "https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404",
+      "publishedAt": "2026-03-20T00:26:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "robotnikman",
+      "tags": []
+    },
+    {
+      "id": "rqba42",
+      "title": "Push events into a running session with channelsclaude.com",
+      "description": "Score: 286 | Comments: 156 | Posted by jasonjmcghee",
+      "url": "https://code.claude.com/docs/en/channels",
+      "publishedAt": "2026-03-20T00:23:47.755Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jasonjmcghee",
+      "tags": []
+    },
+    {
+      "id": "rqba42",
+      "title": "Push events into a running session with channels",
+      "description": "Score: 286 | Comments: 156 | Posted by jasonjmcghee",
+      "url": "https://code.claude.com/docs/en/channels",
+      "publishedAt": "2026-03-20T00:22:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jasonjmcghee",
+      "tags": []
+    },
+    {
+      "id": "7l863g",
+      "title": "Wayland set the Linux Desktop back by 10 years?",
+      "description": "Score: 236 | Comments: 250 | Posted by omarroth",
+      "url": "https://omar.yt/posts/wayland-set-the-linux-desktop-back-by-10-years",
+      "publishedAt": "2026-03-20T00:01:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "omarroth",
+      "tags": []
+    }
+  ]
+}

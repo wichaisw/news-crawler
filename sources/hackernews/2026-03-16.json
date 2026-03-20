@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "mmjwxp",
+      "title": "Return of the Obra Dinn: spherical mapped dithering for a 1bpp first-person game",
+      "description": "Score: 302 | Comments: 42 | Posted by PaulHoule",
+      "url": "https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742",
+      "publishedAt": "2026-03-16T22:56:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "PaulHoule",
+      "tags": []
+    },
+    {
       "id": "nbqj57",
       "title": "Beyond has dropped “meat” from its name and expanded its high-protein drink line",
       "description": "Score: 105 | Comments: 175 | Posted by rmason",
@@ -33,6 +44,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "lewismenelaws",
+      "tags": []
+    },
+    {
+      "id": "hc7sdc",
+      "title": "FSF Threatens Anthropic over Infringed Copyright: Share Your LLMs Freel",
+      "description": "Score: 8 | Comments: 0 | Posted by m463",
+      "url": "https://www.fsf.org/blogs/licensing/2026-anthropic-settlement",
+      "publishedAt": "2026-03-16T19:49:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "m463",
+      "tags": []
+    },
+    {
+      "id": "uc5x4u",
+      "title": "My Random Forest Was Mostly Learning Time-to-Expiry Noise",
+      "description": "Score: 30 | Comments: 5 | Posted by iluxonchik",
+      "url": "https://illya.sh/threads/out-of-sample-permutation-feature-importance-for-random",
+      "publishedAt": "2026-03-16T18:16:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "iluxonchik",
       "tags": []
     },
     {
@@ -121,6 +154,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "htdt",
+      "tags": []
+    },
+    {
+      "id": "g79h3y",
+      "title": "Last love: a romance in a care home (2023)",
+      "description": "Score: 13 | Comments: 1 | Posted by NaOH",
+      "url": "https://www.theguardian.com/lifeandstyle/2023/nov/23/last-love-a-romance-in-a-care-home",
+      "publishedAt": "2026-03-16T15:59:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "NaOH",
       "tags": []
     },
     {

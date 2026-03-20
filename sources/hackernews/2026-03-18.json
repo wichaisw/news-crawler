@@ -14,6 +14,17 @@
       "tags": []
     },
     {
+      "id": "klpsls",
+      "title": "How many branches can your CPU predict?",
+      "description": "Score: 52 | Comments: 43 | Posted by chmaynard",
+      "url": "https://lemire.me/blog/2026/03/18/how-many-branches-can-your-cpu-predict/",
+      "publishedAt": "2026-03-18T23:39:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "chmaynard",
+      "tags": []
+    },
+    {
       "id": "idm6m9",
       "title": "FastAPI-compatible Python framework with Zig HTTP core; 7x faster",
       "description": "Score: 10 | Comments: 2 | Posted by vaibhav3002",
@@ -187,6 +198,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jgalt212",
+      "tags": []
+    },
+    {
+      "id": "mtbn51",
+      "title": "Linux Page Faults, MMAP, and userfaultfd for faster VM boots",
+      "description": "Score: 19 | Comments: 0 | Posted by shayonj",
+      "url": "https://www.shayon.dev/post/2026/65/linux-page-faults-mmap-and-userfaultfd/",
+      "publishedAt": "2026-03-18T12:28:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "shayonj",
       "tags": []
     },
     {
