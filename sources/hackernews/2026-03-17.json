@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "w1020a",
+      "title": "Mamba-3",
+      "description": "Score: 33 | Comments: 1 | Posted by matt_d",
+      "url": "https://www.together.ai/blog/mamba-3",
+      "publishedAt": "2026-03-17T22:45:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "matt_d",
+      "tags": []
+    },
+    {
       "id": "br7m7i",
       "title": "Why AI systems don't learn – On autonomous learning from cognitive science",
       "description": "Score: 80 | Comments: 26 | Posted by aanet",
@@ -22,6 +33,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "pember",
+      "tags": []
+    },
+    {
+      "id": "ij6nvy",
+      "title": "Regex Blaster",
+      "description": "Score: 144 | Comments: 54 | Posted by mdp",
+      "url": "https://mdp.github.io/regex-blaster/",
+      "publishedAt": "2026-03-17T21:00:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mdp",
       "tags": []
     },
     {
@@ -99,6 +121,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mfiguiere",
+      "tags": []
+    },
+    {
+      "id": "r1gci",
+      "title": "The Los Angeles Aqueduct Is Wild",
+      "description": "Score: 324 | Comments: 170 | Posted by michaefe",
+      "url": "https://practical.engineering/blog/2026/3/17/the-los-angeles-aqueduct-is-wild",
+      "publishedAt": "2026-03-17T18:43:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "michaefe",
       "tags": []
     },
     {
@@ -190,6 +223,17 @@
       "tags": []
     },
     {
+      "id": "xnszyt",
+      "title": "Drawvg Filter for FFmpeg",
+      "description": "Score: 174 | Comments: 27 | Posted by nolta",
+      "url": "https://ayosec.github.io/ffmpeg-drawvg/",
+      "publishedAt": "2026-03-17T15:16:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nolta",
+      "tags": []
+    },
+    {
       "id": "svphwn",
       "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
       "description": "Score: 619 | Comments: 220 | Posted by crtasm",
@@ -264,6 +308,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "bookofjoe",
+      "tags": []
+    },
+    {
+      "id": "8rotv0",
+      "title": "VisiCalc Reconstructed",
+      "description": "Score: 181 | Comments: 74 | Posted by ingve",
+      "url": "https://zserge.com/posts/visicalc/",
+      "publishedAt": "2026-03-17T10:39:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingve",
       "tags": []
     },
     {

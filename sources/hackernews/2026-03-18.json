@@ -47,6 +47,28 @@
       "tags": []
     },
     {
+      "id": "kl4p5c",
+      "title": "A look at content scrambling in DVDs",
+      "description": "Score: 17 | Comments: 8 | Posted by rvnx",
+      "url": "https://mathweb.ucsd.edu/~crypto/Projects/MarkBarry/",
+      "publishedAt": "2026-03-18T21:29:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rvnx",
+      "tags": []
+    },
+    {
+      "id": "2mvqw3",
+      "title": "Work_mem: It's a Trap",
+      "description": "Score: 39 | Comments: 6 | Posted by enz",
+      "url": "https://mydbanotebook.org/posts/work_mem-its-a-trap/",
+      "publishedAt": "2026-03-18T20:52:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "enz",
+      "tags": []
+    },
+    {
       "id": "mo2o8a",
       "title": "An industrial piping contractor on Claude Code [video]",
       "description": "Score: 18 | Comments: 2 | Posted by mighty-fine",
@@ -110,6 +132,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "thijsverreck",
+      "tags": []
+    },
+    {
+      "id": "w3qcln",
+      "title": "The Ugliest Airplane: An Appreciation",
+      "description": "Score: 45 | Comments: 27 | Posted by randycupertino",
+      "url": "https://www.smithsonianmag.com/air-space-magazine/ugliest-airplane-appreciation-180978708/",
+      "publishedAt": "2026-03-18T16:52:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "randycupertino",
       "tags": []
     },
     {
@@ -190,6 +223,17 @@
       "tags": []
     },
     {
+      "id": "s2gs5s",
+      "title": "Lent and Lisp",
+      "description": "Score: 42 | Comments: 2 | Posted by surprisetalk",
+      "url": "https://leancrew.com/all-this/2026/02/lent-and-lisp/",
+      "publishedAt": "2026-03-18T13:00:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
       "id": "i2c7yc",
       "title": "Trevor Milton is raising funds for a new jet he claims will transform flying",
       "description": "Score: 117 | Comments: 176 | Posted by jgalt212",
@@ -212,6 +256,28 @@
       "tags": []
     },
     {
+      "id": "s3y20x",
+      "title": "Turing Award Honors Bennett and Brassard for Quantum Information Science",
+      "description": "Score: 18 | Comments: 0 | Posted by throw0101d",
+      "url": "https://amturing.acm.org",
+      "publishedAt": "2026-03-18T12:16:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "throw0101d",
+      "tags": []
+    },
+    {
+      "id": "oxbikn",
+      "title": "Parallel Perl – Autoparallelizing interpreter with JIT",
+      "description": "Score: 111 | Comments: 39 | Posted by bmn__",
+      "url": "https://perl.petamem.com/gpw2026/perl-mit-ai-gpw2026.html#/4/1/1",
+      "publishedAt": "2026-03-18T11:59:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bmn__",
+      "tags": []
+    },
+    {
       "id": "5bqg92",
       "title": "Measuring progress toward AGI: A cognitive framework",
       "description": "Score: 115 | Comments: 186 | Posted by surprisetalk",
@@ -231,6 +297,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "aamederen",
+      "tags": []
+    },
+    {
+      "id": "h88upq",
+      "title": "The worst volume control UI in the world (2017)",
+      "description": "Score: 95 | Comments: 45 | Posted by andsoitis",
+      "url": "https://uxdesign.cc/the-worst-volume-control-ui-in-the-world-60713dc86950",
+      "publishedAt": "2026-03-18T10:22:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andsoitis",
       "tags": []
     },
     {
@@ -341,6 +418,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "asukachikaru",
+      "tags": []
+    },
+    {
+      "id": "k008q7",
+      "title": "Too Much Color",
+      "description": "Score: 113 | Comments: 57 | Posted by maguay",
+      "url": "https://www.keithcirkel.co.uk/too-much-color/",
+      "publishedAt": "2026-03-18T02:28:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "maguay",
       "tags": []
     },
     {

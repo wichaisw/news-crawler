@@ -1,0 +1,61 @@
+{
+  "date": "2026-03-21",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "hm7juv",
+      "title": "Israel and Weapons of Mass Destruction",
+      "description": "Score: 16 | Comments: 2 | Posted by handfuloflight",
+      "url": "https://en.wikipedia.org/wiki/Israel_and_weapons_of_mass_destruction",
+      "publishedAt": "2026-03-21T05:04:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "handfuloflight",
+      "tags": []
+    },
+    {
+      "id": "9xeh7p",
+      "title": "FFmpeg 101 (2024)",
+      "description": "Score: 20 | Comments: 0 | Posted by vinhnx",
+      "url": "https://blogs.igalia.com/llepage/ffmpeg-101/",
+      "publishedAt": "2026-03-21T02:47:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vinhnx",
+      "tags": []
+    },
+    {
+      "id": "h4yjzx",
+      "title": "purl: a curl-esque CLI for making HTTP requests that require payment",
+      "description": "Score: 17 | Comments: 2 | Posted by bpierre",
+      "url": "https://www.purl.dev/",
+      "publishedAt": "2026-03-21T02:09:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bpierre",
+      "tags": []
+    },
+    {
+      "id": "npme71",
+      "title": "Ozempic Is About to Go Generic for Billions of People",
+      "description": "Score: 26 | Comments: 7 | Posted by jmsflknr",
+      "url": "https://www.nytimes.com/2026/03/19/health/ozempic-wegovy-generic-india-china-canada.html",
+      "publishedAt": "2026-03-21T01:39:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jmsflknr",
+      "tags": []
+    },
+    {
+      "id": "f74bjl",
+      "title": "Reboot: Rebuild civilization by reinventing lost technologies",
+      "description": "Score: 13 | Comments: 0 | Posted by nielka",
+      "url": "https://ksindi.com/reboot/",
+      "publishedAt": "2026-03-21T00:20:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nielka",
+      "tags": []
+    }
+  ]
+}
