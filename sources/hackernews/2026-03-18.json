@@ -58,6 +58,17 @@
       "tags": []
     },
     {
+      "id": "cjxgf8",
+      "title": "ZJIT removes redundant object loads and stores",
+      "description": "Score: 81 | Comments: 15 | Posted by tekknolagi",
+      "url": "https://railsatscale.com/2026-03-18-how-zjit-removes-redundant-object-loads-and-stores/",
+      "publishedAt": "2026-03-18T21:26:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tekknolagi",
+      "tags": []
+    },
+    {
       "id": "2mvqw3",
       "title": "Work_mem: It's a Trap",
       "description": "Score: 39 | Comments: 6 | Posted by enz",
@@ -121,6 +132,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "verelo",
+      "tags": []
+    },
+    {
+      "id": "q1rq8w",
+      "title": "Bayesian statistics for confused data scientists",
+      "description": "Score: 88 | Comments: 23 | Posted by speckx",
+      "url": "https://nchagnet.pages.dev/blog/bayesian-statistics-for-confused-data-scientists/",
+      "publishedAt": "2026-03-18T17:52:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
       "tags": []
     },
     {
@@ -231,6 +253,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "surprisetalk",
+      "tags": []
+    },
+    {
+      "id": "5tcwsq",
+      "title": "It's Their Mona Lisa",
+      "description": "Score: 11 | Comments: 0 | Posted by ramimac",
+      "url": "https://ironicsans.ghost.io/its-t-mona-lisa/",
+      "publishedAt": "2026-03-18T12:53:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ramimac",
       "tags": []
     },
     {
@@ -388,6 +421,17 @@
       "tags": []
     },
     {
+      "id": "x4bhjx",
+      "title": "Meta's Omnilingual MT for 1,600 Languages",
+      "description": "Score: 128 | Comments: 37 | Posted by j0e1",
+      "url": "https://ai.meta.com/research/publications/omnilingual-mt-machine-translation-for-1600-languages/?_fb_noscript=1",
+      "publishedAt": "2026-03-18T05:00:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "j0e1",
+      "tags": []
+    },
+    {
       "id": "6su1sd",
       "title": "Have a Fucking Websiteotherstrangeness.com",
       "description": "Score: 131 | Comments: 64 | Posted by asukachikaru",
@@ -473,6 +517,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "y1n0",
+      "tags": []
+    },
+    {
+      "id": "m0r98h",
+      "title": "A digital resource for studying the graffiti of Herculaneum and Pompeii",
+      "description": "Score: 17 | Comments: 1 | Posted by thomassmith65",
+      "url": "https://ancientgraffiti.org/Graffiti/",
+      "publishedAt": "2026-03-18T00:27:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thomassmith65",
       "tags": []
     }
   ]

@@ -1,0 +1,83 @@
+{
+  "date": "2026-03-22",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "6a9es3",
+      "title": "Sashiko: An agentic Linux kernel code review system",
+      "description": "Score: 8 | Comments: 0 | Posted by Lwrless",
+      "url": "https://sashiko.dev/",
+      "publishedAt": "2026-03-22T03:59:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Lwrless",
+      "tags": []
+    },
+    {
+      "id": "vmn7g6",
+      "title": "Cloudflare flags archive.today as \"C&C/Botnet\"; no longer resolves via 1.1.1.2",
+      "description": "Score: 57 | Comments: 18 | Posted by winkelmann",
+      "url": "https://radar.cloudflare.com/domains/domain/archive.today",
+      "publishedAt": "2026-03-22T03:43:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "winkelmann",
+      "tags": []
+    },
+    {
+      "id": "5dtb2x",
+      "title": "Alpha Micro AM-1000E and AM-1200",
+      "description": "Score: 7 | Comments: 0 | Posted by goldenskye",
+      "url": "http://oldvcr.blogspot.com/2026/03/refurb-weekend-double-header-alpha.html",
+      "publishedAt": "2026-03-22T03:38:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "goldenskye",
+      "tags": []
+    },
+    {
+      "id": "qvxyoh",
+      "title": "What does the future of software engineering look like?",
+      "description": "Score: 11 | Comments: 0 | Posted by rcy",
+      "url": "https://www.thoughtworks.com/about-us/events/the-future-of-software-development",
+      "publishedAt": "2026-03-22T03:28:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rcy",
+      "tags": []
+    },
+    {
+      "id": "vczon9",
+      "title": "Ant Mill",
+      "description": "Score: 25 | Comments: 4 | Posted by thunderbong",
+      "url": "https://en.wikipedia.org/wiki/Ant_mill",
+      "publishedAt": "2026-03-22T02:32:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thunderbong",
+      "tags": []
+    },
+    {
+      "id": "f6lf3l",
+      "title": "The Three Pillars of JavaScript Bloat",
+      "description": "Score: 126 | Comments: 52 | Posted by onlyspaceghost",
+      "url": "https://43081j.com/2026/03/three-pillars-of-javascript-bloat",
+      "publishedAt": "2026-03-22T02:04:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "onlyspaceghost",
+      "tags": []
+    },
+    {
+      "id": "7l25oo",
+      "title": "Chest Fridge (2009)",
+      "description": "Score: 65 | Comments: 48 | Posted by wolfi1",
+      "url": "https://mtbest.net/chest-fridge/",
+      "publishedAt": "2026-03-22T01:02:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wolfi1",
+      "tags": []
+    }
+  ]
+}

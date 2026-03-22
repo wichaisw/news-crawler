@@ -3,6 +3,61 @@
   "source": "techcrunch",
   "articles": [
     {
+      "id": "https://techcrunch.com/?p=3104694",
+      "title": "It’s been 20 years since the first tweet",
+      "description": "On March 21, 2006, Jack Dorsey posted a simple message: “just setting up my twittr”.",
+      "url": "https://techcrunch.com/2026/03/21/its-been-20-years-since-the-first-tweet/",
+      "publishedAt": "2026-03-21T20:30:47.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3104688",
+      "title": "Publisher pulls horror novel ‘Shy Girl’ over AI concerns",
+      "description": "Hachette Book Group said it will not be publishing “Shy Girl” over concerns that artificial intelligence was used to generate the text.",
+      "url": "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/",
+      "publishedAt": "2026-03-21T19:30:27.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3104674",
+      "title": "Delve accused of misleading customers with ‘fake compliance’",
+      "description": "An anonymous Substack post accuses compliance startup Delve of “falsely” convincing “hundreds of customers they were compliant” with privacy and",
+      "url": "https://techcrunch.com/2026/03/21/delve-accused-of-misleading-customers-with-fake-compliance/",
+      "publishedAt": "2026-03-21T17:00:05.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3104563",
+      "title": "Why Wall Street wasn’t won over by Nvidia’s big conference",
+      "description": "Despite investor fears of an AI bubble, Nvidia's latest conference shows that most in the industry aren't concerned by that possibility.",
+      "url": "https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/",
+      "publishedAt": "2026-03-21T16:28:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Rebecca Szkutak",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3093026",
+      "title": "How fusion power works and the startups pursuing it",
+      "description": "Fusion power promises to generate large amounts of clean electricity from nearly limitless fuel. This article explains the main approaches and the",
+      "url": "https://techcrunch.com/2026/03/21/how-fusion-power-works-and-the-startups-pursuing-it/",
+      "publishedAt": "2026-03-21T14:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Tim De Chant",
+      "tags": []
+    },
+    {
       "id": "https://techcrunch.com/?p=3104644",
       "title": "New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput",
       "description": "Anthropic submitted two sworn declarations to a California federal court late Friday afternoon, pushing back on the Pentagon's assertion that the AI",

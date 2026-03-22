@@ -157,6 +157,17 @@
       "tags": []
     },
     {
+      "id": "twj0mu",
+      "title": "Boomloom: Think with your hands",
+      "description": "Score: 82 | Comments: 7 | Posted by rasengan0",
+      "url": "https://www.theboomloom.com",
+      "publishedAt": "2026-03-20T17:13:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rasengan0",
+      "tags": []
+    },
+    {
       "id": "aiajls",
       "title": "Meme Buildings",
       "description": "Score: 28 | Comments: 2 | Posted by speckx",
@@ -183,6 +194,17 @@
       "title": "Molly Guard",
       "description": "Score: 53 | Comments: 24 | Posted by surprisetalk",
       "url": "https://bookofjoe2.blogspot.com/2026/02/molly-guard.html",
+      "publishedAt": "2026-03-20T14:33:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
+      "id": "jtv4mc",
+      "title": "Molly guard in reverse",
+      "description": "Score: 206 | Comments: 88 | Posted by surprisetalk",
+      "url": "https://unsung.aresluna.org/molly-guard-in-reverse/",
       "publishedAt": "2026-03-20T14:33:41.000Z",
       "source": "hackernews",
       "sourceName": "Hacker News",
@@ -256,6 +278,17 @@
       "tags": []
     },
     {
+      "id": "qao1qf",
+      "title": "Training Center for Maneuvering on Manned Model Ships",
+      "description": "Score: 3 | Comments: 0 | Posted by mhb",
+      "url": "https://www.portrevel.com/",
+      "publishedAt": "2026-03-20T12:04:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mhb",
+      "tags": []
+    },
+    {
       "id": "yn8vu0",
       "title": "Entso-E final report on Iberian 2025 blackout",
       "description": "Score: 181 | Comments: 87 | Posted by Rygian",
@@ -319,6 +352,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "bookstore-romeo",
+      "tags": []
+    },
+    {
+      "id": "uh6u8u",
+      "title": "Trivy ecosystem supply chain briefly compromised",
+      "description": "Score: 53 | Comments: 19 | Posted by batch12",
+      "url": "https://github.com/aquasecurity/trivy/security/advisories/GHSA-69fq-xp46-6x23",
+      "publishedAt": "2026-03-20T03:30:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "batch12",
       "tags": []
     },
     {
