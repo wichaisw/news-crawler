@@ -1,0 +1,61 @@
+{
+  "date": "2026-03-22",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "150088 at https://www.blognone.com",
+      "title": "Cloudflare ทำตลาด LLM ขนาดใหญ่ เริ่มจาก Kimi K2.5",
+      "description": "Cloudflare ทำตลาด LLM ขนาดใหญ่ เริ่มจาก Kimi K2.5 Body Cloudflare ปรับบริการ Workers AI จากเดิมให้บริการ LLM เฉพาะโมเดลขนาดเล็กถึงขนาดกลาง เช่น",
+      "url": "https://www.blognone.com/node/150088",
+      "publishedAt": "2026-03-22T14:53:11.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150085 at https://www.blognone.com",
+      "title": "Manus เปิดตัว My Computer เพิ่มความสามารถ AI Agent ที่ระดับโลคอล",
+      "description": "Manus เปิดตัว My Computer เพิ่มความสามารถ AI Agent ที่ระดับโลคอล Body Manus เปิดตัวความสามารถใหม่ My Computer เพื่อทำให้ Manus",
+      "url": "https://www.blognone.com/node/150085",
+      "publishedAt": "2026-03-22T13:57:00.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150083 at https://www.blognone.com",
+      "title": "Alibaba ไตรมาสล่าสุด ธุรกิจคลาวด์เติบโตแข็งแกร่ง จากบริการ AI",
+      "description": "Alibaba ไตรมาสล่าสุด ธุรกิจคลาวด์เติบโตแข็งแกร่ง จากบริการ AI Body Alibaba รายงานผลประกอบการของไตรมาสเดือนธันวาคม 2025 มีรายได้รวม 284,843 ล้านหยวน",
+      "url": "https://www.blognone.com/node/150083",
+      "publishedAt": "2026-03-22T12:37:05.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150087 at https://www.blognone.com",
+      "title": "OpenAI เตรียมปรับยุทธศาสตร์แอปบนเดสก์ท็อปให้เป็น Superapp แอปเดียวครบจบในตัว",
+      "description": "OpenAI เตรียมปรับยุทธศาสตร์แอปบนเดสก์ท็อปให้เป็น Superapp แอปเดียวครบจบในตัว Body มีรายงานว่า OpenAI",
+      "url": "https://www.blognone.com/node/150087",
+      "publishedAt": "2026-03-22T12:29:22.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150082 at https://www.blognone.com",
+      "title": "Tencent ไตรมาส 4/2025 รายได้เติบโต 13% ผลักดันผลิตภัณฑ์ AI มากยิ่งขึ้น",
+      "description": "Tencent ไตรมาส 4/2025 รายได้เติบโต 13% ผลักดันผลิตภัณฑ์ AI มากยิ่งขึ้น Body Tencent รายงานผลประกอบการของไตรมาสที่ 4 ปี 2025 รายได้รวม 1.94",
+      "url": "https://www.blognone.com/node/150082",
+      "publishedAt": "2026-03-22T11:28:00.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}

@@ -168,6 +168,17 @@
       "tags": []
     },
     {
+      "id": "wenmsy",
+      "title": "Node.js worker threads are problematic, but they work great for us",
+      "description": "Score: 68 | Comments: 30 | Posted by goodoldneon",
+      "url": "https://www.inngest.com/blog/node-worker-threads",
+      "publishedAt": "2026-03-18T16:51:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "goodoldneon",
+      "tags": []
+    },
+    {
       "id": "mqd7za",
       "title": "Show HN: I built 48 lightweight SVG backgrounds you can copy/paste",
       "description": "Score: 225 | Comments: 49 | Posted by visiwig",
@@ -176,6 +187,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "visiwig",
+      "tags": []
+    },
+    {
+      "id": "fwp4d5",
+      "title": "25 Years of Eggs",
+      "description": "Score: 270 | Comments: 73 | Posted by avyfain",
+      "url": "https://www.john-rush.com/posts/eggs-25-years-20260219.html",
+      "publishedAt": "2026-03-18T15:44:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "avyfain",
       "tags": []
     },
     {
@@ -223,6 +245,17 @@
       "tags": []
     },
     {
+      "id": "smnxcd",
+      "title": "Show HN: Codala, a social network built on scanning barcodes",
+      "description": "Score: 47 | Comments: 21 | Posted by hsynkrkye",
+      "url": "https://play.google.com/store/apps/details?id=com.hsynkrkye.codala&hl=en",
+      "publishedAt": "2026-03-18T15:17:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hsynkrkye",
+      "tags": []
+    },
+    {
       "id": "ljlua5",
       "title": "Despite doubts, federal cyber experts approved Microsoft cloud service",
       "description": "Score: 456 | Comments: 208 | Posted by hn_acker",
@@ -242,6 +275,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "joaoh82",
+      "tags": []
+    },
+    {
+      "id": "vvz297",
+      "title": "LLMs predict my coffee",
+      "description": "Score: 106 | Comments: 43 | Posted by surprisetalk",
+      "url": "https://dynomight.net/coffee/",
+      "publishedAt": "2026-03-18T13:56:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
       "tags": []
     },
     {

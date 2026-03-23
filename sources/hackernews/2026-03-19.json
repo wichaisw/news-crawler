@@ -102,6 +102,17 @@
       "tags": []
     },
     {
+      "id": "nlmcvv",
+      "title": "My first patch to the Linux kernel",
+      "description": "Score: 215 | Comments: 48 | Posted by pooladkhay",
+      "url": "https://pooladkhay.com/posts/first-kernel-patch/",
+      "publishedAt": "2026-03-19T19:51:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pooladkhay",
+      "tags": []
+    },
+    {
       "id": "w7uws5",
       "title": "Clockwise acquired by Salesforce",
       "description": "Score: 103 | Comments: 58 | Posted by nigelgutzmann",
@@ -212,6 +223,17 @@
       "tags": []
     },
     {
+      "id": "br6efg",
+      "title": "Vectorization of Verilog Designs and its Effects on Verification and Synthesis",
+      "description": "Score: 28 | Comments: 6 | Posted by matt_d",
+      "url": "https://arxiv.org/abs/2603.17099",
+      "publishedAt": "2026-03-19T16:40:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "matt_d",
+      "tags": []
+    },
+    {
       "id": "50py5v",
       "title": "Show HN: Three new Kitten TTS models – smallest less than 25MB",
       "description": "Score: 378 | Comments: 146 | Posted by rohan_joshi",
@@ -267,6 +289,17 @@
       "tags": []
     },
     {
+      "id": "149rz5",
+      "title": "A Copy-Paste Bug That Broke PSpice AES-256 Encryption",
+      "description": "Score: 26 | Comments: 5 | Posted by jtsylve",
+      "url": "https://jtsylve.blog/post/2026/03/18/PSpice-Encryption-Weakness",
+      "publishedAt": "2026-03-19T14:18:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jtsylve",
+      "tags": []
+    },
+    {
       "id": "fen9u2",
       "title": "OpenBSD: PF queues break the 4 Gbps barrier",
       "description": "Score: 189 | Comments: 60 | Posted by defrost",
@@ -286,6 +319,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "FabianCarbonara",
+      "tags": []
+    },
+    {
+      "id": "4m9326",
+      "title": "First and Lego Education Partnership Update",
+      "description": "Score: 39 | Comments: 14 | Posted by jchin",
+      "url": "https://community.firstinspires.org/first-lego-education-partnership-update",
+      "publishedAt": "2026-03-19T13:25:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jchin",
       "tags": []
     },
     {
@@ -355,6 +399,28 @@
       "tags": []
     },
     {
+      "id": "kvvfcz",
+      "title": "A Review of Dice that came with The White Castle (2025)",
+      "description": "Score: 137 | Comments: 39 | Posted by doener",
+      "url": "https://boardgamegeek.com/thread/3533812/a-review-of-dice-that-came-with-the-white-castle",
+      "publishedAt": "2026-03-19T06:47:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "doener",
+      "tags": []
+    },
+    {
+      "id": "60qgj9",
+      "title": "Theodosian Land Walls of Constantinople (2025)",
+      "description": "Score: 34 | Comments: 8 | Posted by bcraven",
+      "url": "https://turkisharchaeonews.net/object/theodosian-land-walls-constantinople",
+      "publishedAt": "2026-03-19T06:19:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bcraven",
+      "tags": []
+    },
+    {
       "id": "7099oa",
       "title": "Eniac, the First General-Purpose Digital Computer, Turns 80",
       "description": "Score: 116 | Comments: 48 | Posted by baruchel",
@@ -374,6 +440,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "dsr12",
+      "tags": []
+    },
+    {
+      "id": "6zyw13",
+      "title": "I Reverse-Engineered the TiinyAI Pocket Lab from Marketing Photos",
+      "description": "Score: 65 | Comments: 19 | Posted by davidklemke",
+      "url": "https://bay41.com/posts/tiiny-ai-pocket-lab-review/",
+      "publishedAt": "2026-03-19T04:56:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "davidklemke",
       "tags": []
     },
     {

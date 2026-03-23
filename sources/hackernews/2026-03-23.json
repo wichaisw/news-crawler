@@ -1,0 +1,50 @@
+{
+  "date": "2026-03-23",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "rzh6ds",
+      "title": "The Trillion Dollar Race to Automate Our Lives",
+      "description": "Score: 6 | Comments: 1 | Posted by thm",
+      "url": "https://www.wsj.com/tech/ai/claude-code-cursor-codex-vibe-coding-52750531",
+      "publishedAt": "2026-03-23T04:51:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thm",
+      "tags": []
+    },
+    {
+      "id": "7wbzth",
+      "title": "\"Collaboration\" Is Bullshit",
+      "description": "Score: 76 | Comments: 24 | Posted by mitchbob",
+      "url": "https://www.joanwestenberg.com/collaboration-is-bullshit/",
+      "publishedAt": "2026-03-23T01:43:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mitchbob",
+      "tags": []
+    },
+    {
+      "id": "dkd9ui",
+      "title": "Intuitions for Tranformer Circuits",
+      "description": "Score: 41 | Comments: 3 | Posted by cjamsonhn",
+      "url": "https://www.connorjdavis.com/p/intuitions-for-transformer-circuits",
+      "publishedAt": "2026-03-23T01:06:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cjamsonhn",
+      "tags": []
+    },
+    {
+      "id": "g50lz",
+      "title": "Migrating the American Express Payment Network, Twice",
+      "description": "Score: 61 | Comments: 16 | Posted by madflojo",
+      "url": "https://americanexpress.io/migrating-the-payments-network-twice/",
+      "publishedAt": "2026-03-23T00:15:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "madflojo",
+      "tags": []
+    }
+  ]
+}
