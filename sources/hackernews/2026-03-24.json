@@ -1,0 +1,127 @@
+{
+  "date": "2026-03-24",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "rfy9xp",
+      "title": "Log File Viewer for the Terminal",
+      "description": "Score: 15 | Comments: 2 | Posted by wiradikusuma",
+      "url": "https://lnav.org/",
+      "publishedAt": "2026-03-24T05:32:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wiradikusuma",
+      "tags": []
+    },
+    {
+      "id": "e5hcx0",
+      "title": "Box of Secrets: Discreetly modding an apartment intercom to work with Apple Homejackhogan.me",
+      "description": "Score: 45 | Comments: 7 | Posted by jackhogan11",
+      "url": "https://www.jackhogan.me/blog/box-of-secrets/",
+      "publishedAt": "2026-03-24T05:29:11.988Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jackhogan11",
+      "tags": []
+    },
+    {
+      "id": "bencwd",
+      "title": "Microsoft blocks trick to unlock native NVMe driver, but workarounds still exist",
+      "description": "Score: 19 | Comments: 2 | Posted by josephcsible",
+      "url": "https://www.tomshardware.com/software/windows/microsoft-blocks-the-registry-hack-trick-that-unlocked-native-nvme-performance-on-windows-11",
+      "publishedAt": "2026-03-24T05:00:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "josephcsible",
+      "tags": []
+    },
+    {
+      "id": "aei1er",
+      "title": "StackOverflow's questions per day have fallen 99%",
+      "description": "Score: 17 | Comments: 8 | Posted by stevage",
+      "url": "https://meta.stackoverflow.com/questions/433864/do-you-agree-with-gergely-that-stack-overflow-is-almost-dead",
+      "publishedAt": "2026-03-24T04:04:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "stevage",
+      "tags": []
+    },
+    {
+      "id": "9s67mt",
+      "title": "Explosion at the Valero Oil Refinery in Texas",
+      "description": "Score: 15 | Comments: 0 | Posted by flockonus",
+      "url": "https://old.reddit.com/r/TFE/comments/1s208fv/an_explosion_at_the_valero_oil_refinery_of_port/",
+      "publishedAt": "2026-03-24T03:43:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "flockonus",
+      "tags": []
+    },
+    {
+      "id": "fawe20",
+      "title": "Cuba's Fragile Power Grid Finds a Powerful New Partner",
+      "description": "Score: 33 | Comments: 2 | Posted by thelastgallon",
+      "url": "https://oilprice.com/Energy/Energy-General/Cubas-Fragile-Power-Grid-Finds-a-Powerful-New-Partner.html",
+      "publishedAt": "2026-03-24T03:32:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thelastgallon",
+      "tags": []
+    },
+    {
+      "id": "o1o5zh",
+      "title": "Iran War Live Updates: U.S. and Iran Send Conflicting Signals on Peace Prospects",
+      "description": "Score: 15 | Comments: 16 | Posted by mananbasim",
+      "url": "https://www.nytimes.com/live/2026/03/23/world/iran-war-oil-trump",
+      "publishedAt": "2026-03-24T03:24:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mananbasim",
+      "tags": []
+    },
+    {
+      "id": "ssz6e1",
+      "title": "Ubisoft's Death by a Thousand Cuts",
+      "description": "Score: 9 | Comments: 1 | Posted by ilamont",
+      "url": "https://www.thegamebusiness.com/p/ubisofts-death-by-a-thousand-cuts",
+      "publishedAt": "2026-03-24T02:15:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ilamont",
+      "tags": []
+    },
+    {
+      "id": "85i701",
+      "title": "Sunsetting the Techempower Framework Benchmarks",
+      "description": "Score: 30 | Comments: 4 | Posted by nbrady",
+      "url": "https://github.com/TechEmpower/FrameworkBenchmarks/issues/10932",
+      "publishedAt": "2026-03-24T01:54:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nbrady",
+      "tags": []
+    },
+    {
+      "id": "krf1v0",
+      "title": "Epoch confirms GPT5.4 Pro solved a frontier math open problem",
+      "description": "Score: 240 | Comments: 156 | Posted by in-silico",
+      "url": "https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs",
+      "publishedAt": "2026-03-24T01:53:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "in-silico",
+      "tags": []
+    },
+    {
+      "id": "62rynh",
+      "title": "I created my first AI-assisted pull request",
+      "description": "Score: 70 | Comments: 69 | Posted by nelsonfigueroa",
+      "url": "https://nelson.cloud/i-created-my-first-ai-assisted-pull-request-and-i-feel-like-a-fraud/",
+      "publishedAt": "2026-03-24T01:42:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nelsonfigueroa",
+      "tags": []
+    }
+  ]
+}

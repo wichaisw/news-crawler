@@ -322,6 +322,28 @@
       "tags": []
     },
     {
+      "id": "i3tc1v",
+      "title": "Trivy under attack again: Widespread GitHub Actions tag compromise secrets",
+      "description": "Score: 187 | Comments: 67 | Posted by jicea",
+      "url": "https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise",
+      "publishedAt": "2026-03-22T09:45:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jicea",
+      "tags": []
+    },
+    {
+      "id": "3yetl1",
+      "title": "Dune3d: A parametric 3D CAD application",
+      "description": "Score: 135 | Comments: 41 | Posted by luu",
+      "url": "https://github.com/dune3d/dune3d",
+      "publishedAt": "2026-03-22T08:06:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "luu",
+      "tags": []
+    },
+    {
       "id": "6a9es3",
       "title": "Sashiko: An agentic Linux kernel code review system",
       "description": "Score: 8 | Comments: 0 | Posted by Lwrless",
