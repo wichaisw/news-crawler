@@ -1,0 +1,114 @@
+{
+  "date": "2026-03-24",
+  "source": "theverge",
+  "articles": [
+    {
+      "id": "k08dq0",
+      "title": "Instagram and Facebook are about to be filled with affiliate content",
+      "description": "Instagram and Facebook content will soon have shopping links baked into posts, essentially cutting out third-party \"link in bio\"-style tools. Meta announced Tuesday that it's adding commerce features on the two platforms, though the functionality will be slightly different for each. On Facebook, content creators will be able to link their affiliate accounts they have [&#8230;]",
+      "url": "https://www.theverge.com/news/899717/meta-instagram-facebook-affiliate-shopping-links-reels",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/IG_Consumption.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-03-24T23:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Mia Sato",
+      "tags": []
+    },
+    {
+      "id": "xguw0p",
+      "title": "Meta misled users about its products’ safety, jury decides",
+      "description": "Meta willfully violated New Mexico law by misleading users about the safety of its products and engaging in an unconscionable trade practice, a jury found. The company will face a $375 million penalty for the violations, awarding the maximum penalty of $5,000 per violation for 37,500 violations across two counts. The jury decided against Meta [&#8230;]",
+      "url": "https://www.theverge.com/policy/899910/meta-new-mexico-jury-verdict",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951496/VRG_Illo_STK169_L_Normand_MarkZuckerburg_Negative.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-03-24T21:54:29.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Lauren Feiner",
+      "tags": []
+    },
+    {
+      "id": "f0k0md",
+      "title": "NASA wants to put a $20 billion base on the Moon",
+      "description": "NASA Administrator Jared Isaacman has big plans for the future of the agency, including the construction of a $20 billion lunar base that he said will establish an \"enduring presence\" on the Moon. Isaacman announced the news during NASA's Ignition event on Tuesday, where he also described goals to launch a nuclear-powered spacecraft to Mars, [&#8230;]",
+      "url": "https://www.theverge.com/science/899891/nasa-moon-base-mars-nuclear-power-jared-isaacman",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2256133481.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-03-24T21:47:24.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Emma Roth",
+      "tags": []
+    },
+    {
+      "id": "n149o0",
+      "title": "What is ICE actually doing at the airport?",
+      "description": "I arrived at John F. Kennedy International Airport nearly five hours before my domestic flight. This is not my way - usually I roll up to the airport 30 minutes before boarding - but not even I have enough hubris to think that my good luck is more powerful than a partial government shutdown. Congress [&#8230;]",
+      "url": "https://www.theverge.com/policy/899855/ice-airports-tsa-shutdown-dhs-jfk",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2267587817.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-03-24T21:17:28.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Gaby Del Valle",
+      "tags": []
+    },
+    {
+      "id": "vk1act",
+      "title": "OpenAI just gave up on Sora and its billion-dollar Disney deal",
+      "description": "On Tuesday afternoon, OpenAI announced \"We're saying goodbye to Sora,\" the video generation tool that it launched at the end of 2024, and centered in a massive licensing deal with Disney only a few months ago. The Wall Street Journal reported the move earlier, saying that OpenAI boss Sam Altman had informed staff that both [&#8230;]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/ai-label-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-03-24T21:08:10.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Richard Lawler",
+      "tags": []
+    },
+    {
+      "id": "t8l0dl",
+      "title": "Arm’s first CPU ever will plug into Meta’s AI data centers later this year",
+      "description": "After decades of only licensing its chip designs for others to use, UK-based Arm revealed the first chip it's producing on its own, and the first customer. Dubbed the Arm AGI CPU, it's another chip designed for inference, or running the cloud processing for AI tools like AI agents that can continue to spawn more [&#8230;]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/899823/arm-agi-cpu-meta",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/20260216_VISION25_ExplodedTight_Chip-01-16x9_16bit_v2-1200x675-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-03-24T20:43:14.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Richard Lawler",
+      "tags": []
+    },
+    {
+      "id": "3k4znw",
+      "title": "Apple is testing a standalone app for its overhauled Siri",
+      "description": "Apple's efforts to rebuild its Apple Intelligence AI platform will make its debut at its Worldwide Developers Conference on June 8th. A new version of Siri that transforms the voice assistant into a \"systemwide AI agent with deep integration across applications\" will be announced at WWDC 2026, according to a new report from Bloomberg's Mark [&#8230;]",
+      "url": "https://www.theverge.com/tech/899801/apple-wwdc-2026-new-siri-apple-intelligence-standalone-app",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK071_APPLE_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-03-24T20:41:24.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Andrew Liszewski",
+      "tags": []
+    },
+    {
+      "id": "rvx883",
+      "title": "The man who coined Metaverse now says Meta's glasses are creepy",
+      "description": "Neal Stephenson didn't invent the virtual reality headset. But Meta certainly knows his name - in 1992, his seminal cyberpunk novel Snow Crash coined the phrase \"Metaverse\" to describe a virtual reality world experienced through VR goggles. It inspired many key VR developers - and in 2021, Facebook decided to rename its entire company to [&#8230;]",
+      "url": "https://www.theverge.com/tech/899797/metaverse-neal-stephenson-headsets-goggles-glasses-creepy-no-business-case",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-1385780106.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-03-24T20:08:14.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Sean Hollister",
+      "tags": []
+    },
+    {
+      "id": "snn3uq",
+      "title": "Apple launches iOS 26.4 with AI playlists, purchase sharing, and more",
+      "description": "iOS 26.4 is here, and it comes with a bunch of small but notable updates. That includes a new Playlist Playground launching in beta in Apple Music, which uses AI to generate a song playlist - complete with a title, description, and tracklist - based on a text prompt. Apple Music is also adding a [&#8230;]",
+      "url": "https://www.theverge.com/tech/899799/apple-ios-26-4-ai-playlist-purchase-sharing-update",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24401979/STK071_ACastro_apple_0002.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-03-24T19:22:29.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Emma Roth",
+      "tags": []
+    }
+  ]
+}

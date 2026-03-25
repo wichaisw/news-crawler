@@ -25,6 +25,17 @@
       "tags": []
     },
     {
+      "id": "1iommu",
+      "title": "What happened to GEM?",
+      "description": "Score: 63 | Comments: 29 | Posted by naves",
+      "url": "https://dfarq.homeip.net/whatever-happened-to-gem/",
+      "publishedAt": "2026-03-20T22:45:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "naves",
+      "tags": []
+    },
+    {
       "id": "gi10we",
       "title": "Show HN: Red Grid Link – peer-to-peer team tracking over Bluetooth, no servers",
       "description": "Score: 35 | Comments: 13 | Posted by redgridtactical",
@@ -110,6 +121,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "cainxinth",
+      "tags": []
+    },
+    {
+      "id": "br6ei7",
+      "title": "Transformers Are Bayesian Networks",
+      "description": "Score: 36 | Comments: 20 | Posted by Anon84",
+      "url": "https://arxiv.org/abs/2603.17063",
+      "publishedAt": "2026-03-20T20:50:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Anon84",
       "tags": []
     },
     {
@@ -234,6 +256,17 @@
       "tags": []
     },
     {
+      "id": "vnnquk",
+      "title": "How the world’s first electric grid was built",
+      "description": "Score: 74 | Comments: 21 | Posted by zdw",
+      "url": "https://worksinprogress.co/issue/how-the-worlds-first-electric-grid-was-built/",
+      "publishedAt": "2026-03-20T14:29:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
       "id": "tdbqv9",
       "title": "Tin Can, a 'landline' for kids",
       "description": "Score: 71 | Comments: 62 | Posted by tejohnso",
@@ -316,6 +349,28 @@
       "description": "Score: 37 | Comments: 2 | Posted by surprisetalk",
       "url": "https://slab.org/2026/03/11/exploring-8-shaft-weaving/",
       "publishedAt": "2026-03-20T12:59:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
+      "id": "ufovty",
+      "title": "You can run a DNS server (2025)",
+      "description": "Score: 37 | Comments: 14 | Posted by surprisetalk",
+      "url": "https://simonsafar.com/2025/running_dns/",
+      "publishedAt": "2026-03-20T12:42:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
+      "id": "o4cy15",
+      "title": "Overcoming the friendship recession",
+      "description": "Score: 128 | Comments: 105 | Posted by surprisetalk",
+      "url": "https://joeprevite.com/friendship-recession/",
+      "publishedAt": "2026-03-20T12:42:37.000Z",
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "surprisetalk",

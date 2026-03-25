@@ -3,6 +3,28 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "3tiw1c",
+      "title": "Fun with CSF firmware (RK3588 GPU firmware)",
+      "description": "Score: 6 | Comments: 0 | Posted by M95D",
+      "url": "https://icecream95.gitlab.io/fun-with-csf-firmware.html",
+      "publishedAt": "2026-03-21T22:43:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "M95D",
+      "tags": []
+    },
+    {
+      "id": "azenc9",
+      "title": "An Aural Companion for Decades, CBS News Radio Crackles to a Close",
+      "description": "Score: 47 | Comments: 11 | Posted by tintinnabula",
+      "url": "https://www.nytimes.com/2026/03/21/business/media/cbs-news-radio-appraisal.html",
+      "publishedAt": "2026-03-21T22:20:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tintinnabula",
+      "tags": []
+    },
+    {
       "id": "rfz5ts",
       "title": "The Impact of AI on Game Dev Jobs. Open to Work Crisis",
       "description": "Score: 71 | Comments: 54 | Posted by hacker_13",
@@ -223,6 +245,17 @@
       "tags": []
     },
     {
+      "id": "lmk6jm",
+      "title": "The final switch: Goldsboro, 1961",
+      "description": "Score: 4 | Comments: 0 | Posted by 1970-01-01",
+      "url": "https://blog.nuclearsecrecy.com/2013/09/27/final-switch-goldsboro-1961/",
+      "publishedAt": "2026-03-21T14:55:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "1970-01-01",
+      "tags": []
+    },
+    {
       "id": "y3uqyn",
       "title": "Grafeo – A fast, lean, embeddable graph database built in Rust",
       "description": "Score: 208 | Comments: 68 | Posted by 0x1997",
@@ -267,6 +300,17 @@
       "tags": []
     },
     {
+      "id": "u2zvi0",
+      "title": "Intel Device Modeling Language for virtual platforms",
+      "description": "Score: 20 | Comments: 0 | Posted by transpute",
+      "url": "https://github.com/intel/device-modeling-language",
+      "publishedAt": "2026-03-21T08:35:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "transpute",
+      "tags": []
+    },
+    {
       "id": "g9i7hx",
       "title": "Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record",
       "description": "Score: 510 | Comments: 140 | Posted by pabs3",
@@ -297,6 +341,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "handfuloflight",
+      "tags": []
+    },
+    {
+      "id": "1hctbm",
+      "title": "Algorithm Visualizer",
+      "description": "Score: 62 | Comments: 3 | Posted by vinhnx",
+      "url": "https://algorithm-visualizer.org/",
+      "publishedAt": "2026-03-21T02:47:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vinhnx",
       "tags": []
     },
     {

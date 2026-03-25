@@ -1,0 +1,61 @@
+{
+  "date": "2026-03-25",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3104823",
+      "title": "A former Thiel fellow’s startup just launched a drone it says can replace police helicopters",
+      "description": "Brinc launched its newest 911 response drone this week, as the company seeks to expand its prominence in the public safety industry.",
+      "url": "https://techcrunch.com/2026/03/24/a-former-thiel-fellows-startup-just-launched-a-drone-it-says-can-replace-police-helicopters/",
+      "publishedAt": "2026-03-25T02:30:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lucas Ropek",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3105855",
+      "title": "Amazon just bought a startup making kid-size humanoid robots",
+      "description": "The acquisition of Fauna Robotics is the second robotics startup Amazon has purchased this month.",
+      "url": "https://techcrunch.com/2026/03/24/amazon-just-bought-a-startup-making-kid-size-humanoid-robots/",
+      "publishedAt": "2026-03-25T00:53:39.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Kirsten Korosec",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3105854",
+      "title": "With $3.5B in fresh capital, Kleiner Perkins is going all in on AI",
+      "description": "The fundraise includes $1 billion for investing in early-stage startups, and $2.5 billion for late-stage growth businesses.",
+      "url": "https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/",
+      "publishedAt": "2026-03-25T00:47:20.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Marina Temkin",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3105827",
+      "title": "New Mexico just handed Meta its first courtroom defeat over child safety, and the rest of the country is watching",
+      "description": "The dollar amount isn’t as important as the fact that this is the first jury verdict of its kind against Meta over harm to young people.",
+      "url": "https://techcrunch.com/2026/03/24/new-mexico-just-handed-meta-its-first-courtroom-defeat-over-child-safety-and-the-rest-of-the-country-is-watching/",
+      "publishedAt": "2026-03-25T00:14:12.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Connie Loizos",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3104978",
+      "title": "Lululemon bets Epoch Biodesign can eat its shorts, literally",
+      "description": "Startup Epoch Biodesign uses enzymes to break plastic waste down into monomers, the chemical building blocks that can be used to make new plastic.",
+      "url": "https://techcrunch.com/2026/03/24/lululemon-bets-epoch-biodesign-can-eat-its-shorts-literally/",
+      "publishedAt": "2026-03-25T00:01:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Tim De Chant",
+      "tags": []
+    }
+  ]
+}

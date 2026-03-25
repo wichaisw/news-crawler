@@ -322,6 +322,17 @@
       "tags": []
     },
     {
+      "id": "dt2351",
+      "title": "Data Manipulation in Clojure Compared to R and Python",
+      "description": "Score: 109 | Comments: 32 | Posted by tosh",
+      "url": "https://codewithkira.com/2024-07-18-tablecloth-dplyr-pandas-polars.html",
+      "publishedAt": "2026-03-22T09:55:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tosh",
+      "tags": []
+    },
+    {
       "id": "i3tc1v",
       "title": "Trivy under attack again: Widespread GitHub Actions tag compromise secrets",
       "description": "Score: 187 | Comments: 67 | Posted by jicea",

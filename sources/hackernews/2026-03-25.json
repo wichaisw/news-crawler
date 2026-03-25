@@ -1,0 +1,116 @@
+{
+  "date": "2026-03-25",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "932o6o",
+      "title": "Implementing automatic eSIM installation on Android",
+      "description": "Score: 11 | Comments: 0 | Posted by nesterenkopavel",
+      "url": "https://medium.com/proandroiddev/integration-of-automatic-esim-installation-on-android-6c5f6d7124cb",
+      "publishedAt": "2026-03-25T05:42:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nesterenkopavel",
+      "tags": []
+    },
+    {
+      "id": "tz9cu5",
+      "title": "TurboQuant: Redefining AI efficiency with extreme compressionresearch.google",
+      "description": "Score: 32 | Comments: 0 | Posted by ray__",
+      "url": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
+      "publishedAt": "2026-03-25T05:28:59.596Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ray__",
+      "tags": []
+    },
+    {
+      "id": "tz9cu5",
+      "title": "TurboQuant: Redefining AI efficiency with extreme compression",
+      "description": "Score: 32 | Comments: 0 | Posted by ray__",
+      "url": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
+      "publishedAt": "2026-03-25T05:00:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ray__",
+      "tags": []
+    },
+    {
+      "id": "p1rp6f",
+      "title": "Social media bans and digital curfews to be trialled on UK teenagers",
+      "description": "Score: 9 | Comments: 12 | Posted by 1659447091",
+      "url": "https://www.bbc.com/news/articles/cn89g3ngkyzo",
+      "publishedAt": "2026-03-25T04:34:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "1659447091",
+      "tags": []
+    },
+    {
+      "id": "vqv772",
+      "title": "Miscellanea: The War in Iran",
+      "description": "Score: 34 | Comments: 16 | Posted by decimalenough",
+      "url": "https://acoup.blog/2026/03/25/miscellanea-the-war-in-iran/",
+      "publishedAt": "2026-03-25T04:27:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "decimalenough",
+      "tags": []
+    },
+    {
+      "id": "jr37t9",
+      "title": "Meta ordered to pay $375M in New Mexico trial over child exploitation",
+      "description": "Score: 56 | Comments: 17 | Posted by gostsamo",
+      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/jury-orders-meta-pay-375-mln-new-mexico-lawsuit-over-child-sexual-exploitation-2026-03-24/",
+      "publishedAt": "2026-03-25T04:04:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gostsamo",
+      "tags": []
+    },
+    {
+      "id": "ex4cx6",
+      "title": "Show HN: DuckDB community extension for prefiltered HNSW using ACORN-1",
+      "description": "Score: 28 | Comments: 1 | Posted by cigrainger",
+      "url": "https://github.com/cigrainger/duckdb-hnsw-acorn",
+      "publishedAt": "2026-03-25T03:28:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cigrainger",
+      "tags": []
+    },
+    {
+      "id": "i3ux3l",
+      "title": "VitruvianOS – Desktop Linux Inspired by the BeOS",
+      "description": "Score: 67 | Comments: 25 | Posted by felixding",
+      "url": "https://v-os.dev",
+      "publishedAt": "2026-03-25T03:17:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "felixding",
+      "tags": []
+    },
+    {
+      "id": "b3is03",
+      "title": "In Edison’s Revenge, Data Centers Are Transitioning From AC to DC",
+      "description": "Score: 120 | Comments: 154 | Posted by jnord",
+      "url": "https://spectrum.ieee.org/data-center-dc",
+      "publishedAt": "2026-03-25T00:44:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jnord",
+      "tags": []
+    },
+    {
+      "id": "f741d6",
+      "title": "Flighty Airports",
+      "description": "Score: 236 | Comments: 78 | Posted by skogstokig",
+      "url": "https://flighty.com/airports",
+      "publishedAt": "2026-03-25T00:29:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "skogstokig",
+      "tags": []
+    }
+  ]
+}
