@@ -1,0 +1,39 @@
+{
+  "date": "2026-03-26",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3106410",
+      "title": "The least surprising chapter of the Manus story is what’s happening right now",
+      "description": "Did anyone think there would not be a reckoning over this tie-up?",
+      "url": "https://techcrunch.com/2026/03/25/the-least-surprising-chapter-of-the-manus-story-is-whats-happening-right-now/",
+      "publishedAt": "2026-03-26T02:46:48.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Connie Loizos",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3106190",
+      "title": "Mercor competitor Deccan AI raises $25M, sources experts from India",
+      "description": "Deccan AI concentrates its workforce in India to manage quality in a fast-growing but fragmented AI training market.",
+      "url": "https://techcrunch.com/2026/03/25/deccan-ai-raises-25m-as-ai-training-push-relies-on-india-based-workforce/",
+      "publishedAt": "2026-03-26T00:30:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Jagmeet Singh",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3106318",
+      "title": "Delve did the security compliance on LiteLLM, an AI project hit by malware",
+      "description": "LiteLLM offers an AI open source project used by millions that was infected by credential harvesting malware.",
+      "url": "https://techcrunch.com/2026/03/25/delve-did-the-security-compliance-on-litellm-an-ai-project-hit-by-malware/",
+      "publishedAt": "2026-03-26T00:03:52.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Julie Bort",
+      "tags": []
+    }
+  ]
+}
