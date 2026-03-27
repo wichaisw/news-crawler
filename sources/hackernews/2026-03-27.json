@@ -1,0 +1,94 @@
+{
+  "date": "2026-03-27",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "gvacjb",
+      "title": "Schedule tasks on the webclaude.com",
+      "description": "Score: 66 | Comments: 38 | Posted by iBelieve",
+      "url": "https://code.claude.com/docs/en/web-scheduled-tasks",
+      "publishedAt": "2026-03-27T05:32:22.192Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "iBelieve",
+      "tags": []
+    },
+    {
+      "id": "gvacjb",
+      "title": "Schedule tasks on the web",
+      "description": "Score: 66 | Comments: 38 | Posted by iBelieve",
+      "url": "https://code.claude.com/docs/en/web-scheduled-tasks",
+      "publishedAt": "2026-03-27T04:47:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "iBelieve",
+      "tags": []
+    },
+    {
+      "id": "o2rrfu",
+      "title": "PICO-8 platformer system: handling every notoriously difficult physics edge case",
+      "description": "Score: 4 | Comments: 0 | Posted by memalign",
+      "url": "https://torcado.com/blog/simple-platformer/",
+      "publishedAt": "2026-03-27T03:23:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "memalign",
+      "tags": []
+    },
+    {
+      "id": "19x3b1",
+      "title": "Show HN: New Causal Impact Library",
+      "description": "Score: 3 | Comments: 0 | Posted by djwjjtw",
+      "url": "https://github.com/YuminosukeSato/bsts-causalimpact",
+      "publishedAt": "2026-03-27T03:12:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "djwjjtw",
+      "tags": []
+    },
+    {
+      "id": "tq40so",
+      "title": "The decline and fall of the Roman currency empire",
+      "description": "Score: 6 | Comments: 1 | Posted by andsoitis",
+      "url": "https://www.economist.com/finance-and-economics/2026/03/26/the-decline-and-fall-of-the-roman-currency-empire",
+      "publishedAt": "2026-03-27T02:55:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andsoitis",
+      "tags": []
+    },
+    {
+      "id": "e32otv",
+      "title": "HandyMKV for MakeMKV and HandBrake Automation",
+      "description": "Score: 17 | Comments: 1 | Posted by geerlingguy",
+      "url": "https://github.com/dmars8047/handymkv",
+      "publishedAt": "2026-03-27T02:19:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "geerlingguy",
+      "tags": []
+    },
+    {
+      "id": "wob9ou",
+      "title": "Agent-to-agent pair programming",
+      "description": "Score: 42 | Comments: 12 | Posted by axldelafosse",
+      "url": "https://axeldelafosse.com/blog/agent-to-agent-pair-programming",
+      "publishedAt": "2026-03-27T01:47:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "axldelafosse",
+      "tags": []
+    },
+    {
+      "id": "w4ig77",
+      "title": "From 0% to 36% on Day 1 of ARC-AGI-3",
+      "description": "Score: 64 | Comments: 35 | Posted by lairv",
+      "url": "https://www.symbolica.ai/blog/arc-agi-3",
+      "publishedAt": "2026-03-27T01:32:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lairv",
+      "tags": []
+    }
+  ]
+}

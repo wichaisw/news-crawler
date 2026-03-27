@@ -124,6 +124,17 @@
       "tags": []
     },
     {
+      "id": "y3sx3q",
+      "title": "HyperAgents: Self-referential self-improving agents",
+      "description": "Score: 164 | Comments: 63 | Posted by andyg_blog",
+      "url": "https://github.com/facebookresearch/hyperagents",
+      "publishedAt": "2026-03-24T16:54:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andyg_blog",
+      "tags": []
+    },
+    {
       "id": "mhu9nf",
       "title": "Show HN: Email.md – Markdown to responsive, email-safe HTML",
       "description": "Score: 257 | Comments: 60 | Posted by dancablam",
@@ -308,6 +319,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jberthom",
+      "tags": []
+    },
+    {
+      "id": "xzxd9z",
+      "title": "Fast regex search: indexing text for agent tools",
+      "description": "Score: 38 | Comments: 7 | Posted by jxmorris12",
+      "url": "https://cursor.com/blog/fast-regex-search",
+      "publishedAt": "2026-03-24T06:31:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jxmorris12",
       "tags": []
     },
     {

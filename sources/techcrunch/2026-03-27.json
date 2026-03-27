@@ -1,0 +1,28 @@
+{
+  "date": "2026-03-27",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3106899",
+      "title": "David Sacks is done as AI czar — here’s what he’s doing instead",
+      "description": "Sacks will be much further from power center in Washington than since the outset of this second Trump administration.",
+      "url": "https://techcrunch.com/2026/03/26/david-sacks-is-done-as-ai-czar-heres-what-hes-doing-instead/",
+      "publishedAt": "2026-03-27T01:26:40.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Connie Loizos",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3106880",
+      "title": "Anthropic wins injunction against Trump administration over Defense Department saga",
+      "description": "A federal judge has ordered that the Trump administration rescind recent restrictions it placed on the AI company.",
+      "url": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/",
+      "publishedAt": "2026-03-27T01:18:38.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lucas Ropek",
+      "tags": []
+    }
+  ]
+}

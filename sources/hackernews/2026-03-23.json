@@ -25,6 +25,17 @@
       "tags": []
     },
     {
+      "id": "brvoh1",
+      "title": "Cloudflare's Gen 13 servers: trading cache for cores for 2x performance",
+      "description": "Score: 70 | Comments: 22 | Posted by wmf",
+      "url": "https://blog.cloudflare.com/gen13-launch/",
+      "publishedAt": "2026-03-23T22:06:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wmf",
+      "tags": []
+    },
+    {
       "id": "hr0ic",
       "title": "The Resolv hack: How one compromised key printed $23M",
       "description": "Score: 80 | Comments: 107 | Posted by timbowhite",
@@ -55,6 +66,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "moonka",
+      "tags": []
+    },
+    {
+      "id": "wc0gu5",
+      "title": "Whistler: Live eBPF Programming from the Common Lisp REPL",
+      "description": "Score: 67 | Comments: 2 | Posted by varjag",
+      "url": "https://atgreen.github.io/repl-yell/posts/whistler/",
+      "publishedAt": "2026-03-23T21:13:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "varjag",
       "tags": []
     },
     {
@@ -113,6 +135,17 @@
       "tags": []
     },
     {
+      "id": "nyh57k",
+      "title": "The Legibility of Serif and Sans Serif Typefaces (2022)",
+      "description": "Score: 15 | Comments: 3 | Posted by the-mitr",
+      "url": "https://library.oapen.org//handle/20.500.12657/53344",
+      "publishedAt": "2026-03-23T17:56:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "the-mitr",
+      "tags": []
+    },
+    {
       "id": "aw5o74",
       "title": "US and TotalEnergies reach 'nearly $1B' deal to end offshore wind projects",
       "description": "Score: 388 | Comments: 305 | Posted by lode",
@@ -157,6 +190,17 @@
       "tags": []
     },
     {
+      "id": "73so62",
+      "title": "DOOM Over DNS",
+      "description": "Score: 243 | Comments: 75 | Posted by Venn1",
+      "url": "https://github.com/resumex/doom-over-dns",
+      "publishedAt": "2026-03-23T15:17:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Venn1",
+      "tags": []
+    },
+    {
       "id": "8wyk23",
       "title": "An incoherent Rust",
       "description": "Score: 163 | Comments: 76 | Posted by emschwartz",
@@ -176,6 +220,39 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "anemll",
+      "tags": []
+    },
+    {
+      "id": "kf9z2t",
+      "title": "My home network observes bedtime with OpenBSD and pf",
+      "description": "Score: 125 | Comments: 35 | Posted by ibobev",
+      "url": "https://ratfactor.com/openbsd/pf-gateway-bedtime",
+      "publishedAt": "2026-03-23T13:56:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
+      "tags": []
+    },
+    {
+      "id": "cz6e3y",
+      "title": "Generators in Lone Lisp",
+      "description": "Score: 25 | Comments: 1 | Posted by matheusmoreira",
+      "url": "https://www.matheusmoreira.com/articles/generators-in-lone-lisp",
+      "publishedAt": "2026-03-23T13:51:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "matheusmoreira",
+      "tags": []
+    },
+    {
+      "id": "yxv29s",
+      "title": "Dobase – Your workspace, your server",
+      "description": "Score: 54 | Comments: 16 | Posted by frenkel",
+      "url": "https://dobase.co/",
+      "publishedAt": "2026-03-23T13:24:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "frenkel",
       "tags": []
     },
     {
@@ -242,6 +319,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "rlustin",
+      "tags": []
+    },
+    {
+      "id": "mnirpq",
+      "title": "Chopping my brain into bits – turning my brain into a 3D model on the web",
+      "description": "Score: 6 | Comments: 1 | Posted by lanakei",
+      "url": "https://srg.id.au/posts/brain/",
+      "publishedAt": "2026-03-23T08:25:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lanakei",
       "tags": []
     },
     {
