@@ -3,6 +3,116 @@
   "source": "techcrunch",
   "articles": [
     {
+      "id": "https://techcrunch.com/?p=3107286",
+      "title": "Physical Intelligence is reportedly in talks to raise $1 billion, again",
+      "description": "The deal would effectively double the company's $5.6 billion valuation in just four months.",
+      "url": "https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/",
+      "publishedAt": "2026-03-27T23:59:40.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Connie Loizos",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3107152",
+      "title": "Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO",
+      "description": "Wall Street giants JPMorgan and Goldman Sachs are extending a 12-month, unsecured loan to the Japanese conglomerate.",
+      "url": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
+      "publishedAt": "2026-03-27T21:44:45.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Marina Temkin",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3106944",
+      "title": "Memory chip giant SK hynix could help end ‘RAMmageddon’ with blockbuster US IPO",
+      "description": "SK hynix’s potential U.S. listing could raise $10-$14 billion to help it build more capacity, encourage others to follow, and end the 'RAMmageddon'",
+      "url": "https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/",
+      "publishedAt": "2026-03-27T19:11:28.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Kate Park",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3106879",
+      "title": "Waymo’s skyrocketing ridership in one chart",
+      "description": "Waymo's weekly paid robotaxi trips have increased tenfold in less than two years.",
+      "url": "https://techcrunch.com/2026/03/27/waymo-skyrocketing-ridership-in-one-chart/",
+      "publishedAt": "2026-03-27T19:11:10.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Kirsten Korosec",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3107097",
+      "title": "European Commission confirms cyberattack after hackers claim data breach",
+      "description": "The European Union's top executive body has confirmed a cyberattack after hackers reportedly stole reams of data from the European Commission's cloud",
+      "url": "https://techcrunch.com/2026/03/27/european-commission-confirms-cyberattack-after-hackers-claim-data-breach/",
+      "publishedAt": "2026-03-27T17:59:29.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Zack Whittaker",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3107054",
+      "title": "Aetherflux reportedly raising Series B at $2 billion valuation",
+      "description": "Index Ventures is said to be leading a $250 million to $350 million round.",
+      "url": "https://techcrunch.com/2026/03/27/aetherflux-reportedly-raising-series-b-at-2-billion-valuation/",
+      "publishedAt": "2026-03-27T17:05:26.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Tim Fernholz",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3106973",
+      "title": "Rivian gets another $1B from Volkswagen",
+      "description": "The two companies have been collaborating on a joint venture that would see Rivian tech go in VW's EVs.",
+      "url": "https://techcrunch.com/2026/03/27/rivian-gets-another-1b-from-volkswagen/",
+      "publishedAt": "2026-03-27T15:47:03.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sean O'Kane",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3106985",
+      "title": "Iranian hackers claim breach of FBI director Kash Patel’s personal email account",
+      "description": "Handala, a pro-Iranian hacking group allegedly working for Iran’s government, published emails it said were taken from the Gmail account of FBI",
+      "url": "https://techcrunch.com/2026/03/27/iranian-hackers-claim-breach-of-fbi-director-kash-patels-personal-email-account/",
+      "publishedAt": "2026-03-27T15:39:07.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lorenzo Franceschi-Bicchierai, Zack Whittaker",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3106970",
+      "title": "Apple says no one using Lockdown Mode has been hacked with spyware",
+      "description": "The tech giant's claim that it has not seen any successful spyware attacks targeting Apple devices with Lockdown Mode enabled comes amid a leak of",
+      "url": "https://techcrunch.com/2026/03/27/apple-says-no-one-using-lockdown-mode-has-been-hacked-with-spyware/",
+      "publishedAt": "2026-03-27T14:27:32.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lorenzo Franceschi-Bicchierai",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?post_type=tc_video&p=3107013",
+      "title": "OpenAI shuts down Sora while Meta gets shut out in court",
+      "description": "When an 82-year-old Kentucky woman was&#160;offered $26 million&#160;from an AI company that wanted to build a data center on her land, she said no.",
+      "url": "https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/",
+      "publishedAt": "2026-03-27T13:30:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Theresa Loconsolo",
+      "tags": []
+    },
+    {
       "id": "https://techcrunch.com/?p=3106899",
       "title": "David Sacks is done as AI czar — here’s what he’s doing instead",
       "description": "Sacks will be much further from power center in Washington than since the outset of this second Trump administration.",

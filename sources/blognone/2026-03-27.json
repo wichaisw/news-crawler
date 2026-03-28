@@ -3,6 +3,29 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "150135 at https://www.blognone.com",
+      "title": "ผู้ก่อตั้ง Turso สร้าง pgmicro เซิร์ฟเวอร์ PostgreSQL แต่เขียนข้อมูลเป็นไฟล์เดียวในฟอร์แมต SQLite",
+      "description": "ผู้ก่อตั้ง Turso สร้าง pgmicro เซิร์ฟเวอร์ PostgreSQL แต่เขียนข้อมูลเป็นไฟล์เดียวในฟอร์แมต SQLite Body Glauber Costa ผู้ก่อตั้งบริษัท Turso",
+      "url": "https://www.blognone.com/node/150135",
+      "publishedAt": "2026-03-27T15:35:46.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150117 at https://www.blognone.com",
+      "title": "Seagate รับเกม AI ด้วยฮาร์ดไดรฟ์จุสูงสุด 44TB ใหญ่สุดในวงการ ด้วยแพลตฟอร์ม Mozaic 4+",
+      "description": "Seagate รับเกม AI ด้วยฮาร์ดไดรฟ์จุสูงสุด 44TB ใหญ่สุดในวงการ ด้วยแพลตฟอร์ม Mozaic 4+ Body โลกเทคโนโลยีตอนนี้อยู่ตรงไหน? ตัวเลขชุดนี้จาก IDC",
+      "url": "https://www.blognone.com/node/150117",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2026/2026-03/QT2026030023/image3.jpg",
+      "publishedAt": "2026-03-27T07:00:09.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "150129 at https://www.blognone.com",
       "title": "Netflix ขึ้นราคาสมาชิก \"เฉพาะสหรัฐอเมริกา\" อีกครั้ง หลังจากขึ้นราคาเมื่อต้นปีที่แล้ว",
       "description": "Netflix ขึ้นราคาสมาชิก \"เฉพาะสหรัฐอเมริกา\" อีกครั้ง หลังจากขึ้นราคาเมื่อต้นปีที่แล้ว Body Netflix ประกาศขึ้นราคาค่าสมาชิก มีผลเฉพาะสหรัฐอเมริกา",

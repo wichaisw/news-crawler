@@ -14,6 +14,28 @@
       "tags": []
     },
     {
+      "id": "httkvx",
+      "title": "Type Construction and Cycle Detection",
+      "description": "Score: 14 | Comments: 0 | Posted by commotionfever",
+      "url": "https://go.dev/blog/type-construction-and-cycle-detection",
+      "publishedAt": "2026-03-24T23:00:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "commotionfever",
+      "tags": []
+    },
+    {
+      "id": "jikuh8",
+      "title": "The Interactive Lost Place Map",
+      "description": "Score: 10 | Comments: 5 | Posted by bilegeek",
+      "url": "https://lostfoundations.org/",
+      "publishedAt": "2026-03-24T22:40:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bilegeek",
+      "tags": []
+    },
+    {
       "id": "dzwwpx",
       "title": "Jury finds Meta liable in case over child sexual exploitation on its platforms",
       "description": "Score: 354 | Comments: 459 | Posted by billfor",
@@ -66,6 +88,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "felix089",
+      "tags": []
+    },
+    {
+      "id": "swxwrb",
+      "title": "Solving Semantle with the Wrong Embeddings",
+      "description": "Score: 23 | Comments: 0 | Posted by evakhoury",
+      "url": "https://victoriaritvo.com/blog/robust-semantle-solver/",
+      "publishedAt": "2026-03-24T19:05:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "evakhoury",
       "tags": []
     },
     {
@@ -212,6 +245,17 @@
       "tags": []
     },
     {
+      "id": "qe8o6i",
+      "title": "EMachines never obsolete PCs: More than a meme",
+      "description": "Score: 68 | Comments: 39 | Posted by zdw",
+      "url": "https://dfarq.homeip.net/emachines-never-obsolete-pcs-more-than-a-meme/",
+      "publishedAt": "2026-03-24T15:12:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
       "id": "j0nkpj",
       "title": "Epic Games to cut more than 1k jobs as Fortnite usage falls",
       "description": "Score: 310 | Comments: 477 | Posted by doughnutstracks",
@@ -289,6 +333,17 @@
       "tags": []
     },
     {
+      "id": "qvg74g",
+      "title": "Can It Resolve DOOM? Game Engine in 2k DNS Records",
+      "description": "Score: 45 | Comments: 2 | Posted by Einenlum",
+      "url": "https://core-jmp.org/2026/03/can-it-resolve-doom-game-engine-in-2000-dns-records/",
+      "publishedAt": "2026-03-24T10:22:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Einenlum",
+      "tags": []
+    },
+    {
       "id": "b32v9s",
       "title": "curl > /dev/sda: How I made a Linux distro that runs wget | dd",
       "description": "Score: 141 | Comments: 60 | Posted by astralbijection",
@@ -319,6 +374,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jberthom",
+      "tags": []
+    },
+    {
+      "id": "2tl75b",
+      "title": "Gzip decompression in 250 lines of Rust",
+      "description": "Score: 118 | Comments: 44 | Posted by vismit2000",
+      "url": "https://iev.ee/blog/gzip-decompression-in-250-lines-of-rust/",
+      "publishedAt": "2026-03-24T06:35:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vismit2000",
       "tags": []
     },
     {
@@ -366,6 +432,17 @@
       "tags": []
     },
     {
+      "id": "dfig7e",
+      "title": "Nashville library launches Memory Lab for digitizing home movies",
+      "description": "Score: 137 | Comments: 33 | Posted by toomuchtodo",
+      "url": "https://www.axios.com/local/nashville/2026/03/16/nashville-library-digitize-home-movies",
+      "publishedAt": "2026-03-24T04:22:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "toomuchtodo",
+      "tags": []
+    },
+    {
       "id": "aei1er",
       "title": "StackOverflow's questions per day have fallen 99%",
       "description": "Score: 17 | Comments: 8 | Posted by stevage",
@@ -407,6 +484,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mananbasim",
+      "tags": []
+    },
+    {
+      "id": "seebga",
+      "title": "Embracing Bayesian methods in clinical trials",
+      "description": "Score: 95 | Comments: 9 | Posted by nextos",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2847011",
+      "publishedAt": "2026-03-24T03:08:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nextos",
       "tags": []
     },
     {
