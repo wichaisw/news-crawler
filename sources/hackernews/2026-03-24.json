@@ -14,6 +14,17 @@
       "tags": []
     },
     {
+      "id": "m9fxm4",
+      "title": "Arm releases first in-house chip, with Meta as debut customer",
+      "description": "Score: 104 | Comments: 31 | Posted by goplayoutside",
+      "url": "https://www.cnbc.com/2026/03/24/arm-launches-its-own-cpu-with-meta-as-first-customer.html",
+      "publishedAt": "2026-03-24T23:34:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "goplayoutside",
+      "tags": []
+    },
+    {
       "id": "httkvx",
       "title": "Type Construction and Cycle Detection",
       "description": "Score: 14 | Comments: 0 | Posted by commotionfever",
@@ -69,6 +80,17 @@
       "tags": []
     },
     {
+      "id": "808vf3",
+      "title": "Detecting file changes on macOS with kqueue",
+      "description": "Score: 73 | Comments: 14 | Posted by benhoyt",
+      "url": "https://www.vegardstikbakke.com/kqueue/",
+      "publishedAt": "2026-03-24T20:29:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "benhoyt",
+      "tags": []
+    },
+    {
       "id": "vbkbiq",
       "title": "Goodbye to Sora",
       "description": "Score: 591 | Comments: 429 | Posted by mikeocool",
@@ -77,6 +99,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mikeocool",
+      "tags": []
+    },
+    {
+      "id": "fvqi68",
+      "title": "The case for becoming a manager",
+      "description": "Score: 22 | Comments: 12 | Posted by jcmartinezdev",
+      "url": "https://newsletter.thelongcommit.com/p/the-case-for-becoming-a-manager",
+      "publishedAt": "2026-03-24T19:49:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jcmartinezdev",
       "tags": []
     },
     {
@@ -102,6 +135,17 @@
       "tags": []
     },
     {
+      "id": "f8lnq9",
+      "title": "My heuristics are wrong. What now?",
+      "description": "Score: 53 | Comments: 8 | Posted by herbertl",
+      "url": "https://brooker.co.za/blog/2026/03/20/ic-leadership.html",
+      "publishedAt": "2026-03-24T18:52:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "herbertl",
+      "tags": []
+    },
+    {
       "id": "sx6xfp",
       "title": "Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains",
       "description": "Score: 812 | Comments: 276 | Posted by felineflock",
@@ -110,6 +154,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "felineflock",
+      "tags": []
+    },
+    {
+      "id": "wq7nt2",
+      "title": "Meta Partners with Arm to Develop New Class of Data Center Silicon",
+      "description": "Score: 56 | Comments: 13 | Posted by eatonphil",
+      "url": "https://about.fb.com/news/2026/03/meta-partners-with-arm-to-develop-new-class-of-data-center-silicon/",
+      "publishedAt": "2026-03-24T18:17:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "eatonphil",
       "tags": []
     },
     {
@@ -264,6 +319,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "doughnutstracks",
+      "tags": []
+    },
+    {
+      "id": "ojr02p",
+      "title": "Improved Git Diffs with Delta, Fzf and a Little Shell Scripting",
+      "description": "Score: 140 | Comments: 36 | Posted by nickjj",
+      "url": "https://nickjanetakis.com/blog/awesome-git-diffs-with-delta-fzf-and-a-little-shell-scripting",
+      "publishedAt": "2026-03-24T15:02:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nickjj",
       "tags": []
     },
     {
