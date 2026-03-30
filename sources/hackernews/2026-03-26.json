@@ -157,6 +157,17 @@
       "tags": []
     },
     {
+      "id": "wt4m1h",
+      "title": "I'll buy your electronics to feed our robot",
+      "description": "Score: 78 | Comments: 18 | Posted by skholinn",
+      "url": "https://www.dayworkx.com/",
+      "publishedAt": "2026-03-26T19:45:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "skholinn",
+      "tags": []
+    },
+    {
       "id": "ju1dg4",
       "title": "CERN to host a new phase of Open Research Europe",
       "description": "Score: 213 | Comments: 19 | Posted by JohnHammersley",
@@ -278,6 +289,17 @@
       "tags": []
     },
     {
+      "id": "per2ed",
+      "title": "Gonon: Building a Clock with No Numerals",
+      "description": "Score: 16 | Comments: 10 | Posted by nullpath",
+      "url": "https://tonygaeta.com/perceptor/code/gonon",
+      "publishedAt": "2026-03-26T16:14:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nullpath",
+      "tags": []
+    },
+    {
       "id": "xmthrz",
       "title": "Stripe Projects: Provision and manage services from the CLI",
       "description": "Score: 122 | Comments: 29 | Posted by piinbinary",
@@ -297,6 +319,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "Fibonar",
+      "tags": []
+    },
+    {
+      "id": "3gd8rg",
+      "title": "The RISE RISC-V Runners: free, native RISC-V CI on GitHub",
+      "description": "Score: 130 | Comments: 34 | Posted by thebeardisred",
+      "url": "https://riseproject.dev/2026/03/24/announcing-the-rise-risc-v-runners-free-native-risc-v-ci-on-github/",
+      "publishedAt": "2026-03-26T15:17:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thebeardisred",
       "tags": []
     },
     {
@@ -396,6 +429,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "benbreen",
+      "tags": []
+    },
+    {
+      "id": "2rbu0a",
+      "title": "When do we become adults, really?",
+      "description": "Score: 80 | Comments: 117 | Posted by benbreen",
+      "url": "https://www.newyorker.com/culture/annals-of-inquiry/when-do-we-become-adults-really",
+      "publishedAt": "2026-03-26T03:54:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "benbreen",
+      "tags": []
+    },
+    {
+      "id": "fk0yjb",
+      "title": "The loneliness of A Room of One’s Own",
+      "description": "Score: 49 | Comments: 11 | Posted by prismatic",
+      "url": "https://newrepublic.com/article/206731/loneliness-room-one-virginia-woolf-hold-up",
+      "publishedAt": "2026-03-26T03:53:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "prismatic",
       "tags": []
     },
     {

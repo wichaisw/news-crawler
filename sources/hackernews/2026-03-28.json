@@ -69,6 +69,17 @@
       "tags": []
     },
     {
+      "id": "s4li36",
+      "title": "Show HN: QuickBEAM – run JavaScript as supervised Erlang/OTP processes",
+      "description": "Score: 91 | Comments: 14 | Posted by dannote",
+      "url": "https://github.com/elixir-volt/quickbeam",
+      "publishedAt": "2026-03-28T21:03:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dannote",
+      "tags": []
+    },
+    {
       "id": "h0ei5r",
       "title": "CSS is DOOMed",
       "description": "Score: 267 | Comments: 62 | Posted by msephton",
@@ -99,6 +110,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "imbobbytables",
+      "tags": []
+    },
+    {
+      "id": "g6xwy6",
+      "title": "Hardware Image Compression",
+      "description": "Score: 11 | Comments: 2 | Posted by luu",
+      "url": "https://www.ludicon.com/castano/blog/2026/03/hardware-image-compression/",
+      "publishedAt": "2026-03-28T18:58:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "luu",
       "tags": []
     },
     {
@@ -154,6 +176,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "frizlab",
+      "tags": []
+    },
+    {
+      "id": "qf6t7o",
+      "title": "Pretext: TypeScript library for multiline text measurement and layout",
+      "description": "Score: 272 | Comments: 47 | Posted by emersonmacro",
+      "url": "https://github.com/chenglou/pretext",
+      "publishedAt": "2026-03-28T16:52:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "emersonmacro",
       "tags": []
     },
     {

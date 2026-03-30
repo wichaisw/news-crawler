@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "8p3k92",
+      "title": "About the Atmosphere",
+      "description": "Score: 48 | Comments: 8 | Posted by Kye",
+      "url": "https://toni.org/2026/03/27/about-the-atmosphere/",
+      "publishedAt": "2026-03-27T23:10:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Kye",
+      "tags": []
+    },
+    {
       "id": "brkj4a",
       "title": "Show HN: Twitch Roulette – Find live streamers who need views the most",
       "description": "Score: 93 | Comments: 44 | Posted by ellg",
@@ -91,6 +102,17 @@
       "tags": []
     },
     {
+      "id": "6potm4",
+      "title": "15 Years of Forking",
+      "description": "Score: 132 | Comments: 12 | Posted by MrAlex94",
+      "url": "https://www.waterfox.com/blog/15-years-of-forking/",
+      "publishedAt": "2026-03-27T17:22:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "MrAlex94",
+      "tags": []
+    },
+    {
       "id": "wd06ec",
       "title": "AI got the blame for the Iran school bombing. The truth is more worrying",
       "description": "Score: 352 | Comments: 314 | Posted by cptroot",
@@ -146,6 +168,17 @@
       "tags": []
     },
     {
+      "id": "webq3v",
+      "title": "Interview: Nobonoko, Master of the Minimal Sequencer",
+      "description": "Score: 21 | Comments: 2 | Posted by fi-le",
+      "url": "https://fi-le.net/nobo/",
+      "publishedAt": "2026-03-27T14:40:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fi-le",
+      "tags": []
+    },
+    {
       "id": "k99hfn",
       "title": "OpenBSD on Motorola 88000 Processors",
       "description": "Score: 76 | Comments: 8 | Posted by rbanffy",
@@ -198,6 +231,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "8organicbits",
+      "tags": []
+    },
+    {
+      "id": "4fja3j",
+      "title": "Observations from carbon dioxide monitoring",
+      "description": "Score: 53 | Comments: 25 | Posted by coloneltcb",
+      "url": "https://grieve-smith.com/ftn/2026/03/nine-observations-from-carbon-dioxide-monitoring/",
+      "publishedAt": "2026-03-27T12:56:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "coloneltcb",
       "tags": []
     },
     {
@@ -286,6 +330,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "iBelieve",
+      "tags": []
+    },
+    {
+      "id": "nn4pu6",
+      "title": "Ohm's Peg-to-WASM Compiler",
+      "description": "Score: 48 | Comments: 16 | Posted by azhenley",
+      "url": "https://ohmjs.org/blog/2026/03/12/peg-to-wasm",
+      "publishedAt": "2026-03-27T04:41:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "azhenley",
       "tags": []
     },
     {

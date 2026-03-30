@@ -1,0 +1,105 @@
+{
+  "date": "2026-03-30",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "70t90y",
+      "title": "15 years, one server, 8GB RAM and 500k users – how Webminal refuses to die",
+      "description": "Score: 12 | Comments: 2 | Posted by giis",
+      "url": "https://community.webminal.org/t/15-years-one-server-8gb-ram-and-500k-users-how-webminal-refuses-to-die/8803",
+      "publishedAt": "2026-03-30T06:08:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "giis",
+      "tags": []
+    },
+    {
+      "id": "xwjrwk",
+      "title": "The curious case of retro demo scene graphicsdatagubbe.se",
+      "description": "Score: 38 | Comments: 5 | Posted by zdw",
+      "url": "https://www.datagubbe.se/aipixels/",
+      "publishedAt": "2026-03-30T05:44:21.322Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "xwjrwk",
+      "title": "The curious case of retro demo scene graphics",
+      "description": "Score: 39 | Comments: 5 | Posted by zdw",
+      "url": "https://www.datagubbe.se/aipixels/",
+      "publishedAt": "2026-03-30T05:27:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "44c4k7",
+      "title": "HD Audio Driver for Windows 98SE / Me",
+      "description": "Score: 20 | Comments: 2 | Posted by userbinator",
+      "url": "https://github.com/andrew-hoffman/wdmhda",
+      "publishedAt": "2026-03-30T05:01:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "userbinator",
+      "tags": []
+    },
+    {
+      "id": "8jof63",
+      "title": "VHDL's Crown Jewel",
+      "description": "Score: 19 | Comments: 8 | Posted by cokernel_hacker",
+      "url": "https://www.sigasi.com/opinion/jan/vhdls-crown-jewel/",
+      "publishedAt": "2026-03-30T04:39:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cokernel_hacker",
+      "tags": []
+    },
+    {
+      "id": "6bo754",
+      "title": "Copilot edited an ad into my PR",
+      "description": "Score: 276 | Comments: 76 | Posted by pavo-etc",
+      "url": "https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/",
+      "publishedAt": "2026-03-30T04:04:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pavo-etc",
+      "tags": []
+    },
+    {
+      "id": "k0gi0e",
+      "title": "New Apple Silicon M4 and M5 HiDPI Limitation on 4K External Displays",
+      "description": "Score: 226 | Comments: 107 | Posted by smcleod",
+      "url": "https://smcleod.net/2026/03/new-apple-silicon-m4-m5-hidpi-limitation-on-4k-external-displays/",
+      "publishedAt": "2026-03-30T01:43:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "smcleod",
+      "tags": []
+    },
+    {
+      "id": "ilruy2",
+      "title": "Philly courts will ban all smart eyeglasses starting next week",
+      "description": "Score: 186 | Comments: 66 | Posted by Philadelphia",
+      "url": "https://www.inquirer.com/news/philadelphia/smart-glasses-ai-meta-courts-20260326.html",
+      "publishedAt": "2026-03-30T01:38:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Philadelphia",
+      "tags": []
+    },
+    {
+      "id": "xwkxdp",
+      "title": "The Strait of Hormuz Oil Shock Is Now Heading West",
+      "description": "Score: 42 | Comments: 28 | Posted by petethomas",
+      "url": "https://www.bloomberg.com/graphics/2026-iran-war-hormuz-closure-oil-shock",
+      "publishedAt": "2026-03-30T00:11:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "petethomas",
+      "tags": []
+    }
+  ]
+}
