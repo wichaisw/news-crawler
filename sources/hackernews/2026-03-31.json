@@ -1,0 +1,149 @@
+{
+  "date": "2026-03-31",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "hnb9ke",
+      "title": "Show HN: Raincast – Describe an app, get a native desktop app (open source)",
+      "description": "Score: 7 | Comments: 6 | Posted by tito777",
+      "url": "https://github.com/tihiera/raincast",
+      "publishedAt": "2026-03-31T05:39:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tito777",
+      "tags": []
+    },
+    {
+      "id": "os0vmr",
+      "title": "Google's 200M-parameter time-series foundation model with 16k context",
+      "description": "Score: 43 | Comments: 19 | Posted by codepawl",
+      "url": "https://github.com/google-research/timesfm",
+      "publishedAt": "2026-03-31T05:21:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "codepawl",
+      "tags": []
+    },
+    {
+      "id": "r7cv3d",
+      "title": "Sony halts memory card shipments due to NAND shortage",
+      "description": "Score: 21 | Comments: 4 | Posted by methuselah_in",
+      "url": "https://www.techzine.eu/news/devices/140058/sony-halts-memory-card-shipments-due-to-nand-shortage/",
+      "publishedAt": "2026-03-31T05:12:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "methuselah_in",
+      "tags": []
+    },
+    {
+      "id": "f5lw1i",
+      "title": "GitHub backs down, kills Copilot pull-request ads after backlash",
+      "description": "Score: 52 | Comments: 19 | Posted by _____k",
+      "url": "https://www.theregister.com/2026/03/30/github_copilot_ads_pull_requests/",
+      "publishedAt": "2026-03-31T05:11:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "_____k",
+      "tags": []
+    },
+    {
+      "id": "bvow21",
+      "title": "Claude Code bug can silently 10-20x API costs",
+      "description": "Score: 13 | Comments: 1 | Posted by wg0",
+      "url": "https://old.reddit.com/r/ClaudeCode/comments/1s7mitf/psa_claude_code_has_two_cache_bugs_that_can",
+      "publishedAt": "2026-03-31T04:50:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wg0",
+      "tags": []
+    },
+    {
+      "id": "bohmfh",
+      "title": "Ollama is now powered by MLX on Apple Silicon in preview",
+      "description": "Score: 121 | Comments: 38 | Posted by redundantly",
+      "url": "https://ollama.com/blog/mlx",
+      "publishedAt": "2026-03-31T03:40:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "redundantly",
+      "tags": []
+    },
+    {
+      "id": "fvgm8d",
+      "title": "Safeguarding cryptocurrency by disclosing quantum vulnerabilities responsibly",
+      "description": "Score: 38 | Comments: 4 | Posted by madars",
+      "url": "https://research.google/blog/safeguarding-cryptocurrency-by-disclosing-quantum-vulnerabilities-responsibly/",
+      "publishedAt": "2026-03-31T03:28:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "madars",
+      "tags": []
+    },
+    {
+      "id": "m4x24f",
+      "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
+      "description": "Score: 449 | Comments: 137 | Posted by mtud",
+      "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
+      "publishedAt": "2026-03-31T02:54:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mtud",
+      "tags": []
+    },
+    {
+      "id": "m3hnab",
+      "title": "Seems like a bad idea: \"One login to connect Glassdoor and Indeed\"",
+      "description": "Score: 4 | Comments: 1 | Posted by SteveVeilStream",
+      "url": "https://www.glassdoor.ca/about/onelogin/",
+      "publishedAt": "2026-03-31T02:54:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "SteveVeilStream",
+      "tags": []
+    },
+    {
+      "id": "quibsn",
+      "title": "Mr. Chatterbox is a Victorian-era ethically trained model",
+      "description": "Score: 25 | Comments: 6 | Posted by y1n0",
+      "url": "https://simonwillison.net/2026/Mar/30/mr-chatterbox/",
+      "publishedAt": "2026-03-31T02:26:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "y1n0",
+      "tags": []
+    },
+    {
+      "id": "z1noa5",
+      "title": "Artemis II is not safe to fly",
+      "description": "Score: 191 | Comments: 110 | Posted by idlewords",
+      "url": "https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm",
+      "publishedAt": "2026-03-31T02:23:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "idlewords",
+      "tags": []
+    },
+    {
+      "id": "srfiay",
+      "title": "Incident March 30th, 2026 – Accidental CDN Caching",
+      "description": "Score: 43 | Comments: 15 | Posted by cebert",
+      "url": "https://blog.railway.com/p/incident-report-march-30-2026-accidental-cdn-caching",
+      "publishedAt": "2026-03-31T01:28:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cebert",
+      "tags": []
+    },
+    {
+      "id": "hgig0u",
+      "title": "Universal Claude.md – cut Claude output tokens",
+      "description": "Score: 237 | Comments: 91 | Posted by killme2008",
+      "url": "https://github.com/drona23/claude-token-efficient",
+      "publishedAt": "2026-03-31T01:23:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "killme2008",
+      "tags": []
+    }
+  ]
+}

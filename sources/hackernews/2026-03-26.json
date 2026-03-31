@@ -267,6 +267,28 @@
       "tags": []
     },
     {
+      "id": "oh62tx",
+      "title": "Unit: A self-replicating Forth mesh agent running in a browser tab",
+      "description": "Score: 25 | Comments: 1 | Posted by DavidCanHelp",
+      "url": "https://davidcanhelp.github.io/unit/",
+      "publishedAt": "2026-03-26T17:15:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "DavidCanHelp",
+      "tags": []
+    },
+    {
+      "id": "vvwian",
+      "title": "Clojure: The Documentary, official trailer [video]",
+      "description": "Score: 127 | Comments: 7 | Posted by fogus",
+      "url": "https://www.youtube.com/watch?v=JJEyffSdBsk",
+      "publishedAt": "2026-03-26T17:00:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fogus",
+      "tags": []
+    },
+    {
       "id": "tlprtc",
       "title": "Improving Composer through real-time RL",
       "description": "Score: 76 | Comments: 19 | Posted by ingve",
@@ -322,6 +344,17 @@
       "tags": []
     },
     {
+      "id": "d5bbun",
+      "title": "Principles and Gear",
+      "description": "Score: 17 | Comments: 7 | Posted by surprisetalk",
+      "url": "https://arun.is/blog/on-running/",
+      "publishedAt": "2026-03-26T15:22:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
       "id": "3gd8rg",
       "title": "The RISE RISC-V Runners: free, native RISC-V CI on GitHub",
       "description": "Score: 130 | Comments: 34 | Posted by thebeardisred",
@@ -341,6 +374,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "RestlessMind",
+      "tags": []
+    },
+    {
+      "id": "71f4dv",
+      "title": "IronGlass Brings Legendary Soviet Cinema Lenses to Mirrorless Cameras",
+      "description": "Score: 27 | Comments: 21 | Posted by PaulHoule",
+      "url": "https://petapixel.com/2026/02/19/ironglass-brings-legendary-soviet-cinema-lenses-to-mirrorless-cameras/",
+      "publishedAt": "2026-03-26T13:49:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "PaulHoule",
       "tags": []
     },
     {
@@ -385,6 +429,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "signa11",
+      "tags": []
+    },
+    {
+      "id": "tyrvi6",
+      "title": "In math, rigor is vital, but are digitized proofs taking it too far?",
+      "description": "Score: 113 | Comments: 99 | Posted by isaacfrond",
+      "url": "https://www.quantamagazine.org/in-math-rigor-is-vital-but-are-digitized-proofs-taking-it-too-far-20260325/",
+      "publishedAt": "2026-03-26T09:41:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "isaacfrond",
       "tags": []
     },
     {
