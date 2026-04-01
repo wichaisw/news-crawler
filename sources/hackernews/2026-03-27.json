@@ -36,6 +36,17 @@
       "tags": []
     },
     {
+      "id": "5euntz",
+      "title": "4D Doom",
+      "description": "Score: 174 | Comments: 39 | Posted by chronolitus",
+      "url": "https://github.com/danieldugas/HYPERHELL",
+      "publishedAt": "2026-03-27T22:19:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "chronolitus",
+      "tags": []
+    },
+    {
       "id": "h8q32d",
       "title": "Researchers find 3,500-year-old loom that reveals textile revolution",
       "description": "Score: 101 | Comments: 10 | Posted by geox",
@@ -132,6 +143,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ejplatzer",
+      "tags": []
+    },
+    {
+      "id": "uizzvl",
+      "title": "Back to FreeBSD – Part 2 – Jails",
+      "description": "Score: 71 | Comments: 13 | Posted by vermaden",
+      "url": "https://hypha.pub/back-to-freebsd-part-2",
+      "publishedAt": "2026-03-27T18:55:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vermaden",
       "tags": []
     },
     {
@@ -267,6 +289,17 @@
       "tags": []
     },
     {
+      "id": "tjrf5v",
+      "title": "Nematophagous Fungus",
+      "description": "Score: 43 | Comments: 6 | Posted by lordgilman",
+      "url": "https://en.wikipedia.org/wiki/Nematophagous_fungus",
+      "publishedAt": "2026-03-27T13:41:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lordgilman",
+      "tags": []
+    },
+    {
       "id": "4fja3j",
       "title": "Observations from carbon dioxide monitoring",
       "description": "Score: 53 | Comments: 25 | Posted by coloneltcb",
@@ -286,6 +319,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "robin_reala",
+      "tags": []
+    },
+    {
+      "id": "no5yvi",
+      "title": "Show HN: Forkrun – NUMA-aware shell parallelizer (50×–400× faster than parallel)",
+      "description": "Score: 128 | Comments: 31 | Posted by jkool702",
+      "url": "https://github.com/jkool702/forkrun",
+      "publishedAt": "2026-03-27T12:12:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jkool702",
+      "tags": []
+    },
+    {
+      "id": "qg6dnn",
+      "title": "TinyLoRA – Learning to Reason in 13 Parameters",
+      "description": "Score: 145 | Comments: 19 | Posted by sorenjan",
+      "url": "https://arxiv.org/abs/2602.04118",
+      "publishedAt": "2026-03-27T12:11:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sorenjan",
       "tags": []
     },
     {

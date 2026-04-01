@@ -1,0 +1,83 @@
+{
+  "date": "2026-04-01",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "150165 at https://www.blognone.com",
+      "title": "โครงการ Ollama รองรับ MLX ทำงานเร็วขึ้นเท่าตัว ใช้ NVFP4 ได้ด้วย",
+      "description": "โครงการ Ollama รองรับ MLX ทำงานเร็วขึ้นเท่าตัว ใช้ NVFP4 ได้ด้วย Body Ollama โครงการซอฟต์แวร์รัน LLM บนพีซียอดนิยมออกเวอร์ชั่น 0.19",
+      "url": "https://www.blognone.com/node/150165",
+      "publishedAt": "2026-04-01T05:01:42.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150164 at https://www.blognone.com",
+      "title": "โดนด่าแล้วจำ พบ Claude Code มีระบบตรวจคำหยาบ ส่งกลับเซิร์ฟเวอร์เพื่อวิเคราะห์, พบโค้ด Agent ทำงานเองฝังอยู่ภายใน",
+      "description": "โดนด่าแล้วจำ พบ Claude Code มีระบบตรวจคำหยาบ ส่งกลับเซิร์ฟเวอร์เพื่อวิเคราะห์, พบโค้ด Agent ทำงานเองฝังอยู่ภายใน Body เมื่อคืนที่ผ่านมาโครงการ Claude",
+      "url": "https://www.blognone.com/node/150164",
+      "publishedAt": "2026-04-01T03:19:03.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150163 at https://www.blognone.com",
+      "title": "axios ไลบรารี HTTP ยอดนิยมถูกฝังมัลแวร์ เปิดทางคนร้ายคุมเครื่องทุกเครื่องที่ติดตั้ง",
+      "description": "axios ไลบรารี HTTP ยอดนิยมถูกฝังมัลแวร์ เปิดทางคนร้ายคุมเครื่องทุกเครื่องที่ติดตั้ง Body axios ไลบรารี HTTP ที่ได้รับความนิยมสูงมาก",
+      "url": "https://www.blognone.com/node/150163",
+      "publishedAt": "2026-04-01T01:23:46.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150162 at https://www.blognone.com",
+      "title": "WHOOP รับเงินลงทุนซีรีส์ G 575 ล้านดอลลาร์ มี Cristiano Ronaldo, LeBron James ร่วมลงทุนด้วย",
+      "description": "WHOOP รับเงินลงทุนซีรีส์ G 575 ล้านดอลลาร์ มี Cristiano Ronaldo, LeBron James ร่วมลงทุนด้วย Body WHOOP บริษัทพัฒนาอุปกรณ์เก็บข้อมูลสุขภาพ",
+      "url": "https://www.blognone.com/node/150162",
+      "publishedAt": "2026-04-01T01:01:05.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150161 at https://www.blognone.com",
+      "title": "Oracle ประกาศปลดพนักงาน คาดตัวเลขอยู่ที่หลักหลายหมื่นคน",
+      "description": "Oracle ประกาศปลดพนักงาน คาดตัวเลขอยู่ที่หลักหลายหมื่นคน Body Oracle ได้แจ้งพนักงานถึงแผนการปลดพนักงานรอบใหม่ โดยไม่ได้ระบุจำนวนที่ได้รับผลกระทบ",
+      "url": "https://www.blognone.com/node/150161",
+      "publishedAt": "2026-04-01T00:51:08.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150160 at https://www.blognone.com",
+      "title": "OpenAI อัปเดตตัวเลขเงินลงทุนรอบใหม่ เพิ่มเป็น 1.22 แสนล้านดอลลาร์ ทำสถิติสูงสุด มูลค่ากิจการ 8.52 แสนล้านดอลลาร์",
+      "description": "OpenAI อัปเดตตัวเลขเงินลงทุนรอบใหม่ เพิ่มเป็น 1.22 แสนล้านดอลลาร์ ทำสถิติสูงสุด มูลค่ากิจการ 8.52 แสนล้านดอลลาร์ Body OpenAI",
+      "url": "https://www.blognone.com/node/150160",
+      "publishedAt": "2026-04-01T00:28:13.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150159 at https://www.blognone.com",
+      "title": "กูเกิลออก Veo 3.1 Lite ราคาถูกลงกว่าเดิม ถูกกว่า Veo 3.1 Fast ถึงสามเท่า",
+      "description": "กูเกิลออก Veo 3.1 Lite ราคาถูกลงกว่าเดิม ถูกกว่า Veo 3.1 Fast ถึงสามเท่า Body กูเกิลออกโมเดลสร้างวิดีโอตัวใหม่ Veo 3.1 Lite มีจุดเด่นที่เรื่องราคา",
+      "url": "https://www.blognone.com/node/150159",
+      "publishedAt": "2026-04-01T00:15:31.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}

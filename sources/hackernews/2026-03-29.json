@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "jc8emi",
+      "title": "Butterfly-collecting: The history of an insult (2017)",
+      "description": "Score: 5 | Comments: 0 | Posted by jruohonen",
+      "url": "http://lughat.blogspot.com/2017/10/butterfly-collecting-history-of-insult.html",
+      "publishedAt": "2026-03-29T22:35:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jruohonen",
+      "tags": []
+    },
+    {
       "id": "cbo95d",
       "title": "Coding Agents Could Make Free Software Matter Again",
       "description": "Score: 151 | Comments: 130 | Posted by rogueleaderr",
@@ -220,6 +231,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ourmandave",
+      "tags": []
+    },
+    {
+      "id": "d8w26e",
+      "title": "Chess in SQL",
+      "description": "Score: 23 | Comments: 6 | Posted by upmostly",
+      "url": "https://www.dbpro.app/blog/chess-in-pure-sql",
+      "publishedAt": "2026-03-29T13:25:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "upmostly",
+      "tags": []
+    },
+    {
+      "id": "qqx9fp",
+      "title": "Digitizing photos from the 1998 Game Boy Camera",
+      "description": "Score: 22 | Comments: 3 | Posted by rockbruno",
+      "url": "https://swiftrocks.com/digitizing-photos-from-the-1998-game-boy-camera",
+      "publishedAt": "2026-03-29T11:50:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rockbruno",
       "tags": []
     },
     {

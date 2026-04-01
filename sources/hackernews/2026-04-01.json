@@ -1,0 +1,83 @@
+{
+  "date": "2026-04-01",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "w1rffa",
+      "title": "Mad Bugs: Vim vs. Emacs vs. Claude",
+      "description": "Score: 14 | Comments: 3 | Posted by Munksgaard",
+      "url": "https://blog.calif.io/p/mad-bugs-vim-vs-emacs-vs-claude",
+      "publishedAt": "2026-04-01T06:05:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Munksgaard",
+      "tags": []
+    },
+    {
+      "id": "ku2hug",
+      "title": "Claude Code Unpacked : A visual guideccunpacked.dev",
+      "description": "Score: 99 | Comments: 29 | Posted by autocracy101",
+      "url": "https://ccunpacked.dev/",
+      "publishedAt": "2026-04-01T05:41:11.564Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "autocracy101",
+      "tags": []
+    },
+    {
+      "id": "n5hw4n",
+      "title": "Allbirds, once valued at $4B, just sold its assets for next to nothing",
+      "description": "Score: 6 | Comments: 0 | Posted by timr",
+      "url": "https://www.msn.com/en-us/money/companies/allbirds-the-tech-bro-favorite-once-valued-at-4-billion-just-sold-its-assets-for-next-to-nothing/ar-AA1ZQhjs",
+      "publishedAt": "2026-04-01T05:27:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "timr",
+      "tags": []
+    },
+    {
+      "id": "ku2hug",
+      "title": "Claude Code Unpacked : A visual guide",
+      "description": "Score: 99 | Comments: 29 | Posted by autocracy101",
+      "url": "https://ccunpacked.dev/",
+      "publishedAt": "2026-04-01T05:15:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "autocracy101",
+      "tags": []
+    },
+    {
+      "id": "t5q97z",
+      "title": "Analyzing Geekbench 6 under Intel's BOT",
+      "description": "Score: 17 | Comments: 12 | Posted by hajile",
+      "url": "https://www.geekbench.com/blog/2026/03/analyzing-geekbench-6-under-intels-bot/",
+      "publishedAt": "2026-04-01T03:27:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hajile",
+      "tags": []
+    },
+    {
+      "id": "2g7sfl",
+      "title": "We intercepted the White House app's network traffic",
+      "description": "Score: 198 | Comments: 59 | Posted by donutpepperoni",
+      "url": "https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/",
+      "publishedAt": "2026-04-01T01:58:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "donutpepperoni",
+      "tags": []
+    },
+    {
+      "id": "2uuhw5",
+      "title": "Neanderthals survived on a knife's edge for 350k years",
+      "description": "Score: 101 | Comments: 45 | Posted by Hooke",
+      "url": "https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years",
+      "publishedAt": "2026-04-01T01:12:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Hooke",
+      "tags": []
+    }
+  ]
+}

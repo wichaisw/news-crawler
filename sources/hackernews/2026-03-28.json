@@ -47,6 +47,17 @@
       "tags": []
     },
     {
+      "id": "eqqs8c",
+      "title": "From 300KB to 69KB per Token: How LLM Architectures Solve the KV Cache Problem",
+      "description": "Score: 110 | Comments: 9 | Posted by future-shock-ai",
+      "url": "https://news.future-shock.ai/the-weight-of-remembering/",
+      "publishedAt": "2026-03-28T22:42:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "future-shock-ai",
+      "tags": []
+    },
+    {
       "id": "4z5hdf",
       "title": "Stop picking my Go version for me",
       "description": "Score: 48 | Comments: 38 | Posted by ingve",
@@ -77,6 +88,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "securicat",
+      "tags": []
+    },
+    {
+      "id": "1zn00i",
+      "title": "Bring Back MiniDV with This Raspberry Pi FireWire Hat",
+      "description": "Score: 29 | Comments: 5 | Posted by ingve",
+      "url": "https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/",
+      "publishedAt": "2026-03-28T21:04:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingve",
       "tags": []
     },
     {
@@ -146,6 +168,17 @@
       "tags": []
     },
     {
+      "id": "edlzo5",
+      "title": "TruffleRuby",
+      "description": "Score: 97 | Comments: 4 | Posted by tosh",
+      "url": "https://chrisseaton.com/truffleruby/",
+      "publishedAt": "2026-03-28T18:39:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tosh",
+      "tags": []
+    },
+    {
       "id": "uedlls",
       "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
       "description": "Score: 185 | Comments: 122 | Posted by mean_mistreater",
@@ -209,6 +242,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "smartmic",
+      "tags": []
+    },
+    {
+      "id": "uxhv1a",
+      "title": "What major works of literature were written after age of 85? 75? 65?",
+      "description": "Score: 125 | Comments: 90 | Posted by paulpauper",
+      "url": "https://statmodeling.stat.columbia.edu/2026/03/25/what-major-works-of-literature-were-written-after-age-of-85-75-65/",
+      "publishedAt": "2026-03-28T16:29:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "paulpauper",
+      "tags": []
+    },
+    {
+      "id": "hzy9c0",
+      "title": "Learn Something Old Every Day, Part XVIII: How Does FPU Detection Work?",
+      "description": "Score: 41 | Comments: 4 | Posted by kencausey",
+      "url": "https://www.os2museum.com/wp/learn-something-old-every-day-part-xviii-how-does-fpu-detection-work/",
+      "publishedAt": "2026-03-28T16:29:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kencausey",
       "tags": []
     },
     {
@@ -385,6 +440,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mazieres",
+      "tags": []
+    },
+    {
+      "id": "7zqxm3",
+      "title": "Teenage Engineering's PO-32 acoustic modem and synth implementation",
+      "description": "Score: 103 | Comments: 23 | Posted by ericlewis",
+      "url": "https://github.com/ericlewis/libpo32",
+      "publishedAt": "2026-03-28T01:04:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ericlewis",
       "tags": []
     },
     {

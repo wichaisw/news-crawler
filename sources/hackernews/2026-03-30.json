@@ -190,6 +190,17 @@
       "tags": []
     },
     {
+      "id": "8pjtca",
+      "title": "Inside the 'self-driving' lab revolution",
+      "description": "Score: 30 | Comments: 4 | Posted by salkahfi",
+      "url": "https://www.nature.com/articles/d41586-026-00974-2",
+      "publishedAt": "2026-03-30T14:39:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "salkahfi",
+      "tags": []
+    },
+    {
       "id": "6ectc2",
       "title": "The ladder is missing rungs – Engineering Progression When AI Ate the Middle",
       "description": "Score: 84 | Comments: 40 | Posted by sorenvrist",
@@ -256,6 +267,17 @@
       "tags": []
     },
     {
+      "id": "a76j2u",
+      "title": "Good CTE, Bad CTE",
+      "description": "Score: 178 | Comments: 38 | Posted by radimm",
+      "url": "https://boringsql.com/posts/good-cte-bad-cte/",
+      "publishedAt": "2026-03-30T07:11:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "radimm",
+      "tags": []
+    },
+    {
       "id": "70t90y",
       "title": "15 years, one server, 8GB RAM and 500k users – how Webminal refuses to die",
       "description": "Score: 12 | Comments: 2 | Posted by giis",
@@ -319,6 +341,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "pavo-etc",
+      "tags": []
+    },
+    {
+      "id": "al1lih",
+      "title": "Use string views instead of passing std:wstring by const&",
+      "description": "Score: 35 | Comments: 33 | Posted by Orochikaku",
+      "url": "https://giodicanio.com/2024/05/14/why-dont-you-use-string-views-like-std-wstring_view-instead-of-passing-std-wstring-by-const-reference/",
+      "publishedAt": "2026-03-30T02:31:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Orochikaku",
       "tags": []
     },
     {
