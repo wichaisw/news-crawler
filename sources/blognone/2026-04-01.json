@@ -3,6 +3,50 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "150170 at https://www.blognone.com",
+      "title": "แพ็กเกจ Google AI Pro เพิ่มพื้นที่สตอเรจจาก 2TB เป็น 5TB ในราคาเดิม",
+      "description": "แพ็กเกจ Google AI Pro เพิ่มพื้นที่สตอเรจจาก 2TB เป็น 5TB ในราคาเดิม Body กูเกิลประกาศอัพเกรดสิทธิของแพ็กเกจ Google AI Pro จากเดิมได้พื้นที่สตอเรจ 2TB",
+      "url": "https://www.blognone.com/node/150170",
+      "publishedAt": "2026-04-01T23:47:38.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150169 at https://www.blognone.com",
+      "title": "NASA ยิงยาน Artemis II ออกนอกโลกแล้ว เดินทางมุ่งสู่ดวงจันทร์",
+      "description": "NASA ยิงยาน Artemis II ออกนอกโลกแล้ว เดินทางมุ่งสู่ดวงจันทร์ Body ช่วงเช้าวันนี้เวลาประมาณ 5.35 น. NASA ประสบความสำเร็จในการส่งยาน Artemis II",
+      "url": "https://www.blognone.com/node/150169",
+      "publishedAt": "2026-04-01T23:17:13.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150168 at https://www.blognone.com",
+      "title": "Rapsberry Pi ขึ้นราคาอีกรอบเพราะแรมแพง, ออก Pi 4 รุ่น 3GB มาเป็นทางเลือก",
+      "description": "Rapsberry Pi ขึ้นราคาอีกรอบเพราะแรมแพง, ออก Pi 4 รุ่น 3GB มาเป็นทางเลือก Body Raspberry Pi",
+      "url": "https://www.blognone.com/node/150168",
+      "publishedAt": "2026-04-01T17:54:57.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150167 at https://www.blognone.com",
+      "title": "วิศวกร Midjourney สร้างไลบรารี Pretext สำหรับคำนวณขนาดข้อความ เปิดทางแสดงข้อความซับซ้อนสูง",
+      "description": "วิศวกร Midjourney สร้างไลบรารี Pretext สำหรับคำนวณขนาดข้อความ เปิดทางแสดงข้อความซับซ้อนสูง Body Cheng Lou วิศวกรซอฟต์แวร์จาก Midjourney",
+      "url": "https://www.blognone.com/node/150167",
+      "publishedAt": "2026-04-01T16:05:42.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "150165 at https://www.blognone.com",
       "title": "โครงการ Ollama รองรับ MLX ทำงานเร็วขึ้นเท่าตัว ใช้ NVFP4 ได้ด้วย",
       "description": "โครงการ Ollama รองรับ MLX ทำงานเร็วขึ้นเท่าตัว ใช้ NVFP4 ได้ด้วย Body Ollama โครงการซอฟต์แวร์รัน LLM บนพีซียอดนิยมออกเวอร์ชั่น 0.19",

@@ -1,0 +1,40 @@
+{
+  "date": "2026-04-02",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "150173 at https://www.blognone.com",
+      "title": "ผล MLPerf 6.0: NVIDIA โชว์ TensorRT-LLM รีดประสิทธิภาพ Blackwell ได้ 2.7 เท่า, AMD โชว์ MI355X เข้าใกล้ Blackwell, Intel ใช้ B70 ทำเซิร์ฟเวอร์คุ้มราคา",
+      "description": "ผล MLPerf 6.0: NVIDIA โชว์ TensorRT-LLM รีดประสิทธิภาพ Blackwell ได้ 2.7 เท่า, AMD โชว์ MI355X เข้าใกล้ Blackwell, Intel ใช้ B70",
+      "url": "https://www.blognone.com/node/150173",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2026/2026-03/4593908-amd-instinct-leadership-roadmap.jpg.avif",
+      "publishedAt": "2026-04-02T04:20:29.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150172 at https://www.blognone.com",
+      "title": "Intel ซื้อหุ้นคืน 49% ของโรงงานชิป Fab 34 ที่ไอร์แลนด์ ทำให้กลับมาเป็นเจ้าของโรงงานนี้ทั้งหมด",
+      "description": "Intel ซื้อหุ้นคืน 49% ของโรงงานชิป Fab 34 ที่ไอร์แลนด์ ทำให้กลับมาเป็นเจ้าของโรงงานนี้ทั้งหมด Body อินเทลประกาศทำข้อตกลงซื้อหุ้นคืน 49%",
+      "url": "https://www.blognone.com/node/150172",
+      "publishedAt": "2026-04-02T00:53:13.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150171 at https://www.blognone.com",
+      "title": "SpaceX ยื่นไฟลิ่งเตรียมไอพีโอเข้าตลาดหุ้นแล้ว คาดภายในเดือนมิถุนายน",
+      "description": "SpaceX ยื่นไฟลิ่งเตรียมไอพีโอเข้าตลาดหุ้นแล้ว คาดภายในเดือนมิถุนายน Body SpaceX บริษัทด้านอวกาศของ Elon Musk ยื่นเอกสารไฟลิ่งแบบ confidential",
+      "url": "https://www.blognone.com/node/150171",
+      "publishedAt": "2026-04-02T00:41:16.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "date": "2026-04-02",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "p4gieu",
+      "title": "r/programming bans all discussion of LLM programming",
+      "description": "Score: 60 | Comments: 27 | Posted by cryptoz",
+      "url": "https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/",
+      "publishedAt": "2026-04-02T05:33:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cryptoz",
+      "tags": []
+    },
+    {
+      "id": "2293jl",
+      "title": "Subscription bombing and how to mitigate itbytemash.net",
+      "description": "Score: 62 | Comments: 41 | Posted by homelessdino",
+      "url": "https://bytemash.net/posts/subscription-bombing-your-signup-form-is-a-weapon/",
+      "publishedAt": "2026-04-02T04:33:00.072Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "homelessdino",
+      "tags": []
+    },
+    {
+      "id": "6cek6x",
+      "title": "Salomi, a research repo on extreme low-bit transformer quantization",
+      "description": "Score: 8 | Comments: 2 | Posted by Edward9055",
+      "url": "https://github.com/OrionsLock/SALOMI",
+      "publishedAt": "2026-04-02T04:08:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Edward9055",
+      "tags": []
+    },
+    {
+      "id": "2293jl",
+      "title": "Subscription bombing and how to mitigate it",
+      "description": "Score: 62 | Comments: 41 | Posted by homelessdino",
+      "url": "https://bytemash.net/posts/subscription-bombing-your-signup-form-is-a-weapon/",
+      "publishedAt": "2026-04-02T04:08:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "homelessdino",
+      "tags": []
+    },
+    {
+      "id": "62xzpg",
+      "title": "The future of code search is not regex – 100x faster than ripgrep",
+      "description": "Score: 21 | Comments: 9 | Posted by neogoose",
+      "url": "https://fff.dmtrkovalenko.dev/",
+      "publishedAt": "2026-04-02T03:45:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "neogoose",
+      "tags": []
+    },
+    {
+      "id": "ybtkku",
+      "title": "Show HN: NASA Artemis II Mission Timeline Tracker",
+      "description": "Score: 15 | Comments: 2 | Posted by AustinDev",
+      "url": "https://www.sunnywingsvirtual.com/artemis2/timeline.html",
+      "publishedAt": "2026-04-02T03:40:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "AustinDev",
+      "tags": []
+    },
+    {
+      "id": "dy3p7d",
+      "title": "Email obfuscation: What works in 2026?",
+      "description": "Score: 33 | Comments: 4 | Posted by jaden",
+      "url": "https://spencermortensen.com/articles/email-obfuscation/",
+      "publishedAt": "2026-04-02T03:35:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jaden",
+      "tags": []
+    },
+    {
+      "id": "1h01d",
+      "title": "Steam on Linux Use Skyrocketed Above 5% in March",
+      "description": "Score: 160 | Comments: 60 | Posted by hkmaxpro",
+      "url": "https://www.phoronix.com/news/Steam-On-Linux-Tops-5p",
+      "publishedAt": "2026-04-02T03:12:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hkmaxpro",
+      "tags": []
+    },
+    {
+      "id": "31111l",
+      "title": "Show HN: Semantic atlas of 188 constitutions in 3D (30k articles, embeddings)",
+      "description": "Score: 6 | Comments: 1 | Posted by joaoli131",
+      "url": "https://constitutionalmap.ai/en",
+      "publishedAt": "2026-04-02T02:40:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "joaoli131",
+      "tags": []
+    },
+    {
+      "id": "j6pnmb",
+      "title": "The Claude Code Leakbuild.ms",
+      "description": "Score: 95 | Comments: 48 | Posted by mergesort",
+      "url": "https://build.ms/2026/4/1/the-claude-code-leak/",
+      "publishedAt": "2026-04-02T02:33:00.072Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mergesort",
+      "tags": []
+    },
+    {
+      "id": "j6pnmb",
+      "title": "The Claude Code Leak",
+      "description": "Score: 95 | Comments: 49 | Posted by mergesort",
+      "url": "https://build.ms/2026/4/1/the-claude-code-leak/",
+      "publishedAt": "2026-04-02T02:26:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mergesort",
+      "tags": []
+    },
+    {
+      "id": "iooi3l",
+      "title": "Solar Balconies Take Europe by Storm",
+      "description": "Score: 51 | Comments: 19 | Posted by lxm",
+      "url": "https://hackaday.com/2026/03/31/solar-balconies-take-europe-by-storm/",
+      "publishedAt": "2026-04-02T02:17:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lxm",
+      "tags": []
+    },
+    {
+      "id": "wdoc23",
+      "title": "Trinity Large Thinking",
+      "description": "Score: 29 | Comments: 12 | Posted by kristianp",
+      "url": "https://openrouter.ai/arcee-ai/trinity-large-thinking",
+      "publishedAt": "2026-04-02T02:15:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kristianp",
+      "tags": []
+    },
+    {
+      "id": "fzw9i0",
+      "title": "Weather.com/Retro",
+      "description": "Score: 112 | Comments: 22 | Posted by typeofhuman",
+      "url": "https://weather.com/retro/",
+      "publishedAt": "2026-04-02T01:48:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "typeofhuman",
+      "tags": []
+    },
+    {
+      "id": "lu0syg",
+      "title": "Quantum computing bombshells that are not April Fools",
+      "description": "Score: 114 | Comments: 34 | Posted by Strilanc",
+      "url": "https://scottaaronson.blog/?p=9665",
+      "publishedAt": "2026-04-02T00:24:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Strilanc",
+      "tags": []
+    }
+  ]
+}

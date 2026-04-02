@@ -80,6 +80,17 @@
       "tags": []
     },
     {
+      "id": "jxnk33",
+      "title": "What Gödel Discovered (2020)",
+      "description": "Score: 27 | Comments: 5 | Posted by qnleigh",
+      "url": "https://stopa.io/post/269",
+      "publishedAt": "2026-03-30T19:23:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "qnleigh",
+      "tags": []
+    },
+    {
       "id": "k6omd1",
       "title": "Turning a MacBook into a touchscreen with $1 of hardware (2018)",
       "description": "Score: 280 | Comments: 130 | Posted by HughParry",
@@ -157,6 +168,17 @@
       "tags": []
     },
     {
+      "id": "srbv0x",
+      "title": "Reverse Engineering Crazy Taxi, Part 2",
+      "description": "Score: 17 | Comments: 1 | Posted by wgreenberg",
+      "url": "https://wretched.computer/post/crazytaxi2",
+      "publishedAt": "2026-03-30T16:09:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wgreenberg",
+      "tags": []
+    },
+    {
       "id": "vcszbl",
       "title": "FTC action against Match and OkCupid for deceiving users, sharing personal data",
       "description": "Score: 283 | Comments: 136 | Posted by gnabgib",
@@ -198,6 +220,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "salkahfi",
+      "tags": []
+    },
+    {
+      "id": "4k5iml",
+      "title": "BurgerDisk News",
+      "description": "Score: 13 | Comments: 1 | Posted by ibobev",
+      "url": "https://www.colino.net/wordpress/archives/2026/03/28/burgerdisk-news/",
+      "publishedAt": "2026-03-30T14:18:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
       "tags": []
     },
     {
@@ -245,6 +278,39 @@
       "tags": []
     },
     {
+      "id": "hdxz5",
+      "title": "Intuiting Pratt Parsing",
+      "description": "Score: 151 | Comments: 46 | Posted by signa11",
+      "url": "https://louis.co.nz/2026/03/26/pratt-parsing.html",
+      "publishedAt": "2026-03-30T12:31:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "signa11",
+      "tags": []
+    },
+    {
+      "id": "2h5hwd",
+      "title": "Set the Line Before It's Crossed",
+      "description": "Score: 56 | Comments: 24 | Posted by surprisetalk",
+      "url": "https://nomagicpill.substack.com/p/set-the-line-before-its-crossed",
+      "publishedAt": "2026-03-30T11:59:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
+      "id": "7ae2bq",
+      "title": "How-to guide: Commissioning a Sensor Physics R&D Lab",
+      "description": "Score: 39 | Comments: 4 | Posted by MagneLauritzen",
+      "url": "https://gist.github.com/nup002/912383615b12dc1ec44ae9004c40b11f",
+      "publishedAt": "2026-03-30T11:19:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "MagneLauritzen",
+      "tags": []
+    },
+    {
       "id": "bqn5ab",
       "title": "Mathematical methods and human thought in the age of AI",
       "description": "Score: 202 | Comments: 81 | Posted by zaikunzhang",
@@ -267,6 +333,17 @@
       "tags": []
     },
     {
+      "id": "5tttwd",
+      "title": "Escaping the Ogallala Trap",
+      "description": "Score: 10 | Comments: 11 | Posted by surprisetalk",
+      "url": "https://worksinprogress.co/issue/escaping-the-ogallala-trap/",
+      "publishedAt": "2026-03-30T10:57:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
       "id": "a76j2u",
       "title": "Good CTE, Bad CTE",
       "description": "Score: 178 | Comments: 38 | Posted by radimm",
@@ -275,6 +352,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "radimm",
+      "tags": []
+    },
+    {
+      "id": "j4q56n",
+      "title": "Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)",
+      "description": "Score: 189 | Comments: 78 | Posted by wazHFsRy",
+      "url": "https://github.com/yannick-cw/korb",
+      "publishedAt": "2026-03-30T06:45:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wazHFsRy",
       "tags": []
     },
     {
