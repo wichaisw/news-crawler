@@ -1,0 +1,62 @@
+{
+  "date": "2026-04-03",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "150180 at https://www.blognone.com",
+      "title": "อุปสรรคของมนุษยชาติ นักบินอวกาศ Artemis II เจอปัญหา Outlook ไม่ทำงาน",
+      "description": "อุปสรรคของมนุษยชาติ นักบินอวกาศ Artemis II เจอปัญหา Outlook ไม่ทำงาน Body นักบินอวกาศ Artemis II กำลังอยู่ระหว่างการเดินทางจากโลกไปยังดวงจันทร์",
+      "url": "https://www.blognone.com/node/150180",
+      "publishedAt": "2026-04-03T03:46:43.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150179 at https://www.blognone.com",
+      "title": "เปิดตัว Cursor 3.0 ออกแบบ UI ใหม่สำหรับยุค Agent หลายตัวทำงานขนานกัน",
+      "description": "เปิดตัว Cursor 3.0 ออกแบบ UI ใหม่สำหรับยุค Agent หลายตัวทำงานขนานกัน Body Anysphere เปิดตัวบริการช่วยเขียนโค้ด Cursor เวอร์ชัน 3.0",
+      "url": "https://www.blognone.com/node/150179",
+      "publishedAt": "2026-04-03T03:34:22.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150174 at https://www.blognone.com",
+      "title": "เศรษฐกิจก็แย่ แต่ AI ไม่รอท่า แล้วองค์กรควรลงทุนยังไง ในมุมมองดำรงศักดิ์ รีตานนท์ CIIO แห่ง MFEC",
+      "description": "เศรษฐกิจก็แย่ แต่ AI ไม่รอท่า แล้วองค์กรควรลงทุนยังไง ในมุมมองดำรงศักดิ์ รีตานนท์ CIIO แห่ง MFEC Body ปฏิเสธไม่ได้ว่าในยุคที่ AI",
+      "url": "https://www.blognone.com/node/150174",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2026/2026-04/MFEC/image4.jpg",
+      "publishedAt": "2026-04-03T03:00:00.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150178 at https://www.blognone.com",
+      "title": "Microsoft AI เปิดตัวโมเดลถอดเสียงเป็นข้อความ MAI-Transcribe-1 รองรับภาษาไทย",
+      "description": "Microsoft AI เปิดตัวโมเดลถอดเสียงเป็นข้อความ MAI-Transcribe-1 รองรับภาษาไทย Body Microsoft AI เปิดตัวโมเดลตระกูล MAI เพิ่มเติมอีก 3 ตัว ได้แก่",
+      "url": "https://www.blognone.com/node/150178",
+      "publishedAt": "2026-04-03T01:54:46.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150177 at https://www.blognone.com",
+      "title": "กูเกิลเปิดตัว Gemma 4 โมเดลแบบเปิด ชูความเก่งใกล้เคียง Qwen3.5 ที่ขนาดใหญ่กว่ามาก",
+      "description": "กูเกิลเปิดตัว Gemma 4 โมเดลแบบเปิด ชูความเก่งใกล้เคียง Qwen3.5 ที่ขนาดใหญ่กว่ามาก Body กูเกิลเปิดตัว Gemma 4 ชุดโมเดลปัญญาประดิษฐ์ LLM แบบเปิด",
+      "url": "https://www.blognone.com/node/150177",
+      "publishedAt": "2026-04-03T01:19:18.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "date": "2026-04-03",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "jp7s50",
+      "title": "Show HN: Minimal Brain Teaser Web Game (Handcrafted, No AI)",
+      "description": "Score: 4 | Comments: 0 | Posted by arttaboi",
+      "url": "https://mehuleo.github.io/encircle/",
+      "publishedAt": "2026-04-03T04:00:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "arttaboi",
+      "tags": []
+    },
+    {
+      "id": "m08j2m",
+      "title": "I Built an SMS Gateway with a $20 Android Phone – Jonno.nz",
+      "description": "Score: 16 | Comments: 2 | Posted by jonno-nz",
+      "url": "https://jonno.nz/posts/built-an-sms-gateway-with-a-20-dollar-android-phone/",
+      "publishedAt": "2026-04-03T00:04:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jonno-nz",
+      "tags": []
+    },
+    {
+      "id": "33lczl",
+      "title": "Post Mortem: axios NPM supply chain compromise",
+      "description": "Score: 78 | Comments: 42 | Posted by Kyro38",
+      "url": "https://github.com/axios/axios/issues/10636",
+      "publishedAt": "2026-04-03T00:00:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Kyro38",
+      "tags": []
+    }
+  ]
+}

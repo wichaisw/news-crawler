@@ -223,6 +223,17 @@
       "tags": []
     },
     {
+      "id": "y9j8tf",
+      "title": "C89cc.sh – standalone C89/ELF64 compiler in pure portable shell",
+      "description": "Score: 101 | Comments: 15 | Posted by gaigalas",
+      "url": "https://gist.github.com/alganet/2b89c4368f8d23d033961d8a3deb5c19",
+      "publishedAt": "2026-04-01T08:41:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gaigalas",
+      "tags": []
+    },
+    {
       "id": "w1rffa",
       "title": "Mad Bugs: Vim vs. Emacs vs. Claude",
       "description": "Score: 14 | Comments: 3 | Posted by Munksgaard",

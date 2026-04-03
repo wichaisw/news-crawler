@@ -1,0 +1,204 @@
+{
+  "date": "2026-04-02",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3108999",
+      "title": "Amazon hits sellers with ‘fuel surcharge’ as Iran war roils global energy markets",
+      "description": "The e-commerce giant called the surcharge \"temporary\" but couldn't give a date for when the policy would be retired.",
+      "url": "https://techcrunch.com/2026/04/02/amazon-hits-sellers-with-fuel-surcharge-as-iran-war-roils-global-energy-markets/",
+      "publishedAt": "2026-04-02T22:56:29.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lucas Ropek",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3109020",
+      "title": "Telehealth giant Hims & Hers says its customer support system was hacked",
+      "description": "The U.S. telehealth giant says hackers stole customer support ticket data over the course of several days in February.",
+      "url": "https://techcrunch.com/2026/04/02/telehealth-giant-hims-hers-says-its-customer-support-system-was-hacked/",
+      "publishedAt": "2026-04-02T21:26:48.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Zack Whittaker",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3108914",
+      "title": "Artemis II is NASA’s last moon mission without Silicon Valley",
+      "description": "Next time around, the pressure will be on SpaceX and Blue Origin.",
+      "url": "https://techcrunch.com/2026/04/02/artemis-ii-is-nasas-last-moon-mission-without-silicon-valley/",
+      "publishedAt": "2026-04-02T20:06:29.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Tim Fernholz",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3107868",
+      "title": "Gateway Capital announces first close of $25M Fund II",
+      "description": "Gateway Capital, the Milwaukee-based venture firm founded by Dana Guthrie, can now begin investment operations for its $25M Fund II.",
+      "url": "https://techcrunch.com/2026/04/02/gateway-capital-dana-guthrie-milwaukee-first-close-fund-ii/",
+      "publishedAt": "2026-04-02T19:45:19.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3108907",
+      "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
+      "description": "TBPN, Silicon Valley's cult-favorite tech podcast, will operate independently, even as it's overseen by chief political operative Chris Lehane.",
+      "url": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
+      "publishedAt": "2026-04-02T19:21:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Rebecca Bellan",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3108925",
+      "title": "Flipboard’s new ‘social websites’ help publishers and creators tap into the open social web",
+      "description": "Flipboard's social websites consolidate profiles and posts from Bluesky, Mastodon, Threads, YouTube, podcasts, blogs, and RSS feeds into a single,",
+      "url": "https://techcrunch.com/2026/04/02/flipboard-surf-social-websites-help-publishers-and-creators-tap-into-the-open-social-web/",
+      "publishedAt": "2026-04-02T19:18:51.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Aisha Malik",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3108397",
+      "title": "ElevenLabs releases a new AI-powered music-generation app",
+      "description": "ElevenMusic lets users create and remix songs using text prompts. The new app suggests ElevenLabs wants to be more than just a voice model company.",
+      "url": "https://techcrunch.com/2026/04/02/elevenlabs-releases-a-new-ai-powered-music-generation-app/",
+      "publishedAt": "2026-04-02T18:58:45.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Ivan Mehta",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3108833",
+      "title": "NASA astronauts prove that sending an email really is rocket science",
+      "description": "NASA Artemis II commander Reid Wiseman faced the most earthly possible conflict while in outer space: his Outlook wasn't working.",
+      "url": "https://techcrunch.com/2026/04/02/nasa-artemis-microsoft-outlook-astronauts/",
+      "publishedAt": "2026-04-02T18:19:39.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Amanda Silberling",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3108825",
+      "title": "Microsoft takes on AI rivals with three new foundational models",
+      "description": "MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago.",
+      "url": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
+      "publishedAt": "2026-04-02T16:48:16.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Rebecca Szkutak",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3108843",
+      "title": "Money transfer app Duc exposed thousands of driver’s licenses and passports to the open web",
+      "description": "An exposed Amazon-hosted server allowed anyone to access reams of customer data without needing a password.",
+      "url": "https://techcrunch.com/2026/04/02/canadian-money-transfer-app-duc-expose-drivers-licenses-passports-amazon-server/",
+      "publishedAt": "2026-04-02T16:29:35.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Zack Whittaker",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3108782",
+      "title": "Google now lets you direct avatars through prompts in its Vids app",
+      "description": "Google is adding a way to customize and instruct avatars for video creation in the Vids app.",
+      "url": "https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/",
+      "publishedAt": "2026-04-02T16:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Ivan Mehta",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3108819",
+      "title": "ICE says it bought Paragon’s spyware to use in drug trafficking cases",
+      "description": "The acting director of U.S. Immigration and Customs Enforcement told lawmakers that the use of Paragon spyware is necessary to counter terrorists’",
+      "url": "https://techcrunch.com/2026/04/02/ice-says-it-bought-paragons-spyware-to-use-in-drug-trafficking-cases/",
+      "publishedAt": "2026-04-02T15:39:51.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lorenzo Franceschi-Bicchierai",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3108804",
+      "title": "United’s mobile app now shows TSA wait times at select airports",
+      "description": "The TSA wait times feature is one of many new additions to the United app, including automatic rebooking assistance and real-time time weather radar",
+      "url": "https://techcrunch.com/2026/04/02/uniteds-mobile-app-now-shows-tsa-wait-times-at-select-airports/",
+      "publishedAt": "2026-04-02T14:44:21.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Aisha Malik",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3108793",
+      "title": "Tesla’s cheaper vehicles aren’t helping its declining sales",
+      "description": "The company's deliveries in the first quarter were just 6% higher than last year, and Tesla now faces a third straight year of falling sales.",
+      "url": "https://techcrunch.com/2026/04/02/tesla-deliveries-cheaper-vehicles-model-y-3-sales/",
+      "publishedAt": "2026-04-02T14:18:42.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sean O'Kane",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3108629",
+      "title": "Commonwealth Fusion Systems leans on magnets for near-term revenue",
+      "description": "Realta Fusion is buying magnets from Commonwealth Fusion Systems, providing a revenue stopgap.",
+      "url": "https://techcrunch.com/2026/04/02/commonwealth-fusion-systems-leans-on-magnets-for-near-term-revenue/",
+      "publishedAt": "2026-04-02T14:15:27.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Tim De Chant",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3108740",
+      "title": "Diverse teams start with diverse VCs",
+      "description": "It is the path of least resistance for a growth-stage company to hire from the familiar Silicon Valley pipelines but if a founder wants a diverse",
+      "url": "https://techcrunch.com/2026/04/02/diverse-teams-start-with-diverse-vcs/",
+      "publishedAt": "2026-04-02T13:45:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Maggie Nye, Isabelle Johannessen",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3108531",
+      "title": "Beehiiv expands into podcasting, taking aim at Patreon",
+      "description": "One way Beehiiv is convincing creators to switch from rivals like Substack and Patreon is by not taking a cut of revenue.",
+      "url": "https://techcrunch.com/2026/04/02/beehiiv-expands-into-podcasts-taking-aim-at-patreon-substack-newsletters/",
+      "publishedAt": "2026-04-02T12:50:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Aisha Malik",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3108514",
+      "title": "Cash App launches ‘pay later’ feature for P2P transfers",
+      "description": "Block says that the new feature has strong built-in protections to keep users from so-called debt spirals.",
+      "url": "https://techcrunch.com/2026/04/02/cash-app-launches-buy-now-pay-later-feature-for-p2p-pay-transfers/",
+      "publishedAt": "2026-04-02T12:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lucas Ropek",
+      "tags": []
+    }
+  ]
+}

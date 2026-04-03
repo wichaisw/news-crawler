@@ -3,6 +3,28 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "150176 at https://www.blognone.com",
+      "title": "Anthropic ส่งคำสั่งลบโค้ด Claude Code, GitHub ปิดแล้ว 8,100 repository",
+      "description": "Anthropic ส่งคำสั่งลบโค้ด Claude Code, GitHub ปิดแล้ว 8,100 repository Body หลังจากซอร์สโค้ดของ Claude Code หลุดออกมาทางแพ็กเกจ NPM ล่าสุดทาง",
+      "url": "https://www.blognone.com/node/150176",
+      "publishedAt": "2026-04-02T17:03:27.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150175 at https://www.blognone.com",
+      "title": "Apple อัปเดต iOS 18.7.7 แพตช์ช่องโหว่ DarkSword - ได้ทั้ง iPhone รุ่นเก่าและรุ่นใหม่ที่เลือกไม่อัป iOS 26",
+      "description": "Apple อัปเดต iOS 18.7.7 แพตช์ช่องโหว่ DarkSword - ได้ทั้ง iPhone รุ่นเก่าและรุ่นใหม่ที่เลือกไม่อัป iOS 26 Body แอปเปิลออกอัปเดตระบบปฏิบัติการ iOS",
+      "url": "https://www.blognone.com/node/150175",
+      "publishedAt": "2026-04-02T11:17:40.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "150173 at https://www.blognone.com",
       "title": "ผล MLPerf 6.0: NVIDIA โชว์ TensorRT-LLM รีดประสิทธิภาพ Blackwell ได้ 2.7 เท่า, AMD โชว์ MI355X เข้าใกล้ Blackwell, Intel ใช้ B70 ทำเซิร์ฟเวอร์คุ้มราคา",
       "description": "ผล MLPerf 6.0: NVIDIA โชว์ TensorRT-LLM รีดประสิทธิภาพ Blackwell ได้ 2.7 เท่า, AMD โชว์ MI355X เข้าใกล้ Blackwell, Intel ใช้ B70",
