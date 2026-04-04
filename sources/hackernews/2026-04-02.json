@@ -69,6 +69,17 @@
       "tags": []
     },
     {
+      "id": "si537x",
+      "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
+      "description": "Score: 270 | Comments: 108 | Posted by denssumesh",
+      "url": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
+      "publishedAt": "2026-04-02T18:24:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "denssumesh",
+      "tags": []
+    },
+    {
       "id": "9sbums",
       "title": "Tailscale's new macOS home",
       "description": "Score: 411 | Comments: 198 | Posted by tosh",

@@ -135,6 +135,17 @@
       "tags": []
     },
     {
+      "id": "xl4xg",
+      "title": "Bourbon waste could provide next-gen supercapacitor components",
+      "description": "Score: 27 | Comments: 14 | Posted by prabal97",
+      "url": "https://spectrum.ieee.org/supercapacitor-electrodes-bourbon-waste",
+      "publishedAt": "2026-03-31T18:44:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "prabal97",
+      "tags": []
+    },
+    {
       "id": "eizgyn",
       "title": "Show HN: Postgres extension for BM25 relevance-ranked full-text search",
       "description": "Score: 131 | Comments: 38 | Posted by tjgreen",
@@ -190,6 +201,28 @@
       "tags": []
     },
     {
+      "id": "3fhhsl",
+      "title": "DCJ11Hack+ – DEC PDP/11 based homebrew computer",
+      "description": "Score: 23 | Comments: 0 | Posted by zdw",
+      "url": "https://codeberg.org/TechPaula/DCJ11HackPlus",
+      "publishedAt": "2026-03-31T13:46:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "5m6h5c",
+      "title": "What changes when you turn a Linux box into a router",
+      "description": "Score: 139 | Comments: 35 | Posted by 0o_MrPatrick_o0",
+      "url": "https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/",
+      "publishedAt": "2026-03-31T13:13:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "0o_MrPatrick_o0",
+      "tags": []
+    },
+    {
       "id": "gnkj69",
       "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
       "description": "Score: 1083 | Comments: 421 | Posted by alex000kim",
@@ -234,6 +267,17 @@
       "tags": []
     },
     {
+      "id": "659eg3",
+      "title": "Herbie: Automatically improve imprecise floating point formulas",
+      "description": "Score: 76 | Comments: 10 | Posted by summarity",
+      "url": "https://herbie.uwplse.org/doc/latest/tutorial.html",
+      "publishedAt": "2026-03-31T10:53:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "summarity",
+      "tags": []
+    },
+    {
       "id": "gbbquo",
       "title": "Why the US Navy won't blast the Iranians and 'open' Strait of Hormuz",
       "description": "Score: 259 | Comments: 679 | Posted by KoftaBob",
@@ -275,6 +319,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "offbyone42",
+      "tags": []
+    },
+    {
+      "id": "zgjcx6",
+      "title": "Windows++: C++ Application Framework for Windows by Paul DiLascia",
+      "description": "Score: 14 | Comments: 4 | Posted by teleforce",
+      "url": "http://pauldilascia.com/wpp.htm",
+      "publishedAt": "2026-03-31T06:16:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "teleforce",
       "tags": []
     },
     {
@@ -341,6 +396,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "wg0",
+      "tags": []
+    },
+    {
+      "id": "qxbhbq",
+      "title": "The Philosopher and the Tsar",
+      "description": "Score: 4 | Comments: 0 | Posted by Caiero",
+      "url": "https://www.the-hinternet.com/p/the-philosopher-and-the-tsar",
+      "publishedAt": "2026-03-31T04:44:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Caiero",
+      "tags": []
+    },
+    {
+      "id": "me9u40",
+      "title": "Linux Running in a PDF (2025)",
+      "description": "Score: 78 | Comments: 21 | Posted by matthewsinclair",
+      "url": "https://linux.doompdf.dev/linux.pdf",
+      "publishedAt": "2026-03-31T04:34:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "matthewsinclair",
       "tags": []
     },
     {

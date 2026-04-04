@@ -1,0 +1,83 @@
+{
+  "date": "2026-04-04",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "x1lplj",
+      "title": "Scientists are working on \"everything vaccines\"",
+      "description": "Score: 5 | Comments: 1 | Posted by andsoitis",
+      "url": "https://economist.com/science-and-technology/2026/04/01/scientists-are-working-on-everything-vaccines",
+      "publishedAt": "2026-04-04T05:47:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andsoitis",
+      "tags": []
+    },
+    {
+      "id": "nr6wv8",
+      "title": "Naming rights to street auctioned in San Francisco",
+      "description": "Score: 3 | Comments: 0 | Posted by 18nleung",
+      "url": "https://paintastreet.com/auction",
+      "publishedAt": "2026-04-04T04:59:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "18nleung",
+      "tags": []
+    },
+    {
+      "id": "g4dwtw",
+      "title": "Delve sets the record straight on anonymous attacks",
+      "description": "Score: 7 | Comments: 4 | Posted by frenchtoast8",
+      "url": "https://delve.co/blog/delve-sets-the-record-straight-on-anonymous-attacks",
+      "publishedAt": "2026-04-04T04:05:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "frenchtoast8",
+      "tags": []
+    },
+    {
+      "id": "lg0ma7",
+      "title": "Japan to require language proficiency proof for engineer, specialist visa",
+      "description": "Score: 11 | Comments: 1 | Posted by totetsu",
+      "url": "https://english.kyodonews.net/articles/-/73562",
+      "publishedAt": "2026-04-04T03:51:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "totetsu",
+      "tags": []
+    },
+    {
+      "id": "vvsgk1",
+      "title": "Gold overtakes U.S. Treasuries as the largest foreign reserve asset",
+      "description": "Score: 110 | Comments: 62 | Posted by lxm",
+      "url": "https://economictimes.indiatimes.com/news/international/us/gold-overtakes-u-s-treasuries-as-the-worlds-largest-foreign-reserve-asset-in-2026-can-gold-challenge-the-u-s-dollars-dominance-and-hold-its-ground/articleshow/126420128.cms?from=mdr",
+      "publishedAt": "2026-04-04T02:30:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lxm",
+      "tags": []
+    },
+    {
+      "id": "ks521k",
+      "title": "Show HN: Travel Hacking Toolkit – Points search and trip planning with AI",
+      "description": "Score: 53 | Comments: 20 | Posted by borski",
+      "url": "https://github.com/borski/travel-hacking-toolkit",
+      "publishedAt": "2026-04-04T02:26:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "borski",
+      "tags": []
+    },
+    {
+      "id": "2835mv",
+      "title": "Delve removed from Y Combinator",
+      "description": "Score: 197 | Comments: 104 | Posted by carabiner",
+      "url": "https://www.ycombinator.com/companies/delve",
+      "publishedAt": "2026-04-04T01:37:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "carabiner",
+      "tags": []
+    }
+  ]
+}
