@@ -3,6 +3,50 @@
   "source": "techcrunch",
   "articles": [
     {
+      "id": "https://techcrunch.com/?p=3109434",
+      "title": "Peter Thiel’s big bet on solar-powered cow collars",
+      "description": "Why did Founders Fund invest $220 million in cattle management startup Halter?",
+      "url": "https://techcrunch.com/2026/04/04/unpacking-peter-thiels-big-bet-on-solar-powered-cow-collars/",
+      "publishedAt": "2026-04-04T21:30:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Connie Loizos",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3109441",
+      "title": "Embattled startup Delve has ‘parted ways’ with Y Combinator",
+      "description": "The controversy around Delve appears to have cost the compliance startup its relationship with accelerator Y Combinator.",
+      "url": "https://techcrunch.com/2026/04/04/embattled-startup-delve-has-parted-ways-with-y-combinator/",
+      "publishedAt": "2026-04-04T21:03:43.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3109429",
+      "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
+      "description": "It’s about to become more expensive for Claude Code subscribers to use Anthropic’s coding assistant with OpenClaw and other third-party tools.",
+      "url": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
+      "publishedAt": "2026-04-04T16:32:22.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3109040",
+      "title": "After fighting malware for decades, this cybersecurity veteran is now hacking drones",
+      "description": "Mikko Hyppönen is one of the most recognizable faces of the cybersecurity industry. After fighting computer viruses, worms, and malware, for more",
+      "url": "https://techcrunch.com/2026/04/04/after-fighting-malware-for-decades-this-cybersecurity-veteran-is-now-hacking-drones/",
+      "publishedAt": "2026-04-04T13:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lorenzo Franceschi-Bicchierai",
+      "tags": []
+    },
+    {
       "id": "https://techcrunch.com/?p=3109207",
       "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
       "description": "Glen Anderson, president of Rainmaker Securities, says the secondary market for private shares has never been more active — with Anthropic the",

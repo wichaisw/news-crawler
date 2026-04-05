@@ -135,6 +135,28 @@
       "tags": []
     },
     {
+      "id": "e5jqol",
+      "title": "Electrical transformer manufacturing is throttling the electrified future",
+      "description": "Score: 69 | Comments: 61 | Posted by toomuchtodo",
+      "url": "https://www.bloomberg.com/features/2025-bottlenecks-transformers/",
+      "publishedAt": "2026-04-01T18:47:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "toomuchtodo",
+      "tags": []
+    },
+    {
+      "id": "w91zhq",
+      "title": "Functional programming accelerates agentic feature development",
+      "description": "Score: 41 | Comments: 20 | Posted by cyrusradfar",
+      "url": "https://cyrusradfar.com/thoughts/functional-programming-is-the-only-way-to-scale-with-ai",
+      "publishedAt": "2026-04-01T18:32:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cyrusradfar",
+      "tags": []
+    },
+    {
       "id": "q9pv88",
       "title": "SpaceX files to go public",
       "description": "Score: 285 | Comments: 375 | Posted by nutjob2",
@@ -234,6 +256,17 @@
       "tags": []
     },
     {
+      "id": "9kgoxo",
+      "title": "Rubysyn: Clarifying Ruby's Syntax and Semantics",
+      "description": "Score: 19 | Comments: 0 | Posted by petalmind",
+      "url": "https://github.com/squadette/rubysyn/blob/master/README.md",
+      "publishedAt": "2026-04-01T09:54:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "petalmind",
+      "tags": []
+    },
+    {
       "id": "y9j8tf",
       "title": "C89cc.sh – standalone C89/ELF64 compiler in pure portable shell",
       "description": "Score: 101 | Comments: 15 | Posted by gaigalas",
@@ -330,6 +363,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "donutpepperoni",
+      "tags": []
+    },
+    {
+      "id": "n9rfyz",
+      "title": "OpenScreen is an open-source alternative to Screen Studio",
+      "description": "Score: 199 | Comments: 35 | Posted by jskopek",
+      "url": "https://github.com/siddharthvaddem/openscreen",
+      "publishedAt": "2026-04-01T01:31:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jskopek",
       "tags": []
     },
     {

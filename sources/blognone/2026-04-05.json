@@ -1,0 +1,28 @@
+{
+  "date": "2026-04-05",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "150192 at https://www.blognone.com",
+      "title": "Matt Mullenweg วิจารณ์ EmDash บอกของดี แต่สร้างมาเพื่อขายบริการ Cloudflare",
+      "description": "Matt Mullenweg วิจารณ์ EmDash บอกของดี แต่สร้างมาเพื่อขายบริการ Cloudflare Body การเปิดตัว EmDash ของ Cloudflare ที่ตั้งใจมาชน WordPress ตรงๆ",
+      "url": "https://www.blognone.com/node/150192",
+      "publishedAt": "2026-04-05T02:20:03.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150191 at https://www.blognone.com",
+      "title": "[ไม่ยืนยัน] Microsoft Copilot สำหรับลูกค้าองค์กร ทำยอดขายได้มากกว่าเป้า ในไตรมาสที่ผ่านมา",
+      "description": "[ไม่ยืนยัน] Microsoft Copilot สำหรับลูกค้าองค์กร ทำยอดขายได้มากกว่าเป้า ในไตรมาสที่ผ่านมา Body Bloomberg อ้างแหล่งข่าวภายในไมโครซอฟท์บอกว่า Judson",
+      "url": "https://www.blognone.com/node/150191",
+      "publishedAt": "2026-04-05T01:30:21.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}

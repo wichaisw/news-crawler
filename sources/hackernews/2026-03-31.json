@@ -146,6 +146,17 @@
       "tags": []
     },
     {
+      "id": "9e9pvd",
+      "title": "Breaking Enigma with Index of Coincidence on a Commodore 64",
+      "description": "Score: 35 | Comments: 4 | Posted by saganus",
+      "url": "https://imapenguin.com/2026/03/breaking-enigma-with-index-of-coincidence-on-a-commodore-64/",
+      "publishedAt": "2026-03-31T18:16:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "saganus",
+      "tags": []
+    },
+    {
       "id": "eizgyn",
       "title": "Show HN: Postgres extension for BM25 relevance-ranked full-text search",
       "description": "Score: 131 | Comments: 38 | Posted by tjgreen",
@@ -209,6 +220,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "owug0d",
+      "title": "Zml-smi: universal monitoring tool for GPUs, TPUs and NPUs",
+      "description": "Score: 14 | Comments: 3 | Posted by steeve",
+      "url": "https://zml.ai/posts/zml-smi/",
+      "publishedAt": "2026-03-31T13:29:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "steeve",
       "tags": []
     },
     {

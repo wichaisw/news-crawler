@@ -1,0 +1,52 @@
+{
+  "date": "2026-04-04",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "150190 at https://www.blognone.com",
+      "title": "Cloudflare เปิดตัว EmDash ระบบ CMS ยุคใหม่ใช้แทน WordPress แก้ปัญหาเดิมหลายอย่าง",
+      "description": "Cloudflare เปิดตัว EmDash ระบบ CMS ยุคใหม่ใช้แทน WordPress แก้ปัญหาเดิมหลายอย่าง Body Cloudflare เปิดตัวระบบจัดการเนื้อหาเว็บ (CMS) ตัวใหม่ชื่อ",
+      "url": "https://www.blognone.com/node/150190",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2026/2026-03/emdash-plugin.png",
+      "publishedAt": "2026-04-04T14:45:34.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150189 at https://www.blognone.com",
+      "title": "Anthropic บอกลูกค้า Subscription จะไม่รองรับการใช้ 3rd Party เช่น OpenClaw แล้ว ต้องซื้อเครดิตแยกต่างหาก",
+      "description": "Anthropic บอกลูกค้า Subscription จะไม่รองรับการใช้ 3rd Party เช่น OpenClaw แล้ว ต้องซื้อเครดิตแยกต่างหาก Body Boris Cherny หัวหน้าฝ่ายผลิตภัณฑ์",
+      "url": "https://www.blognone.com/node/150189",
+      "publishedAt": "2026-04-04T10:45:13.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150185 at https://www.blognone.com",
+      "title": "Meta เริ่มทดสอบแอป Instants แอปถ่ายรูปเหตุการณ์ในเวลานั้นแล้วแชร์ให้เพื่อนทันที จาก Instagram",
+      "description": "Meta เริ่มทดสอบแอป Instants แอปถ่ายรูปเหตุการณ์ในเวลานั้นแล้วแชร์ให้เพื่อนทันที จาก Instagram Body เมื่อกลางปีที่แล้ว Meta เริ่มออกฟีเจอร์ใหม่บน",
+      "url": "https://www.blognone.com/node/150185",
+      "imageUrl": "https://cdn.imgpile.com/f/sPNB7Hn_xl.png",
+      "publishedAt": "2026-04-04T10:03:00.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150188 at https://www.blognone.com",
+      "title": "โดนอีกแล้ว อิหร่านโจมตีศูนย์ข้อมูล AWS ในบาห์เรน, ศูนย์ข้อมูล Oracle ใน UAE",
+      "description": "โดนอีกแล้ว อิหร่านโจมตีศูนย์ข้อมูล AWS ในบาห์เรน, ศูนย์ข้อมูล Oracle ใน UAE Body กองทัพอิหร่าน (IRGC) ประกาศว่าได้โจมตีกับศูนย์ข้อมูลที่เกี่ยวโยงกับ",
+      "url": "https://www.blognone.com/node/150188",
+      "publishedAt": "2026-04-04T08:03:48.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}

@@ -190,6 +190,17 @@
       "tags": []
     },
     {
+      "id": "vldi2b",
+      "title": "A case study in testing with 100+ Claude agents in parallel",
+      "description": "Score: 42 | Comments: 30 | Posted by thejash",
+      "url": "https://imbue.com/product/mngr_part_2/",
+      "publishedAt": "2026-04-03T17:27:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thejash",
+      "tags": []
+    },
+    {
       "id": "ybkh63",
       "title": "iNaturalist",
       "description": "Score: 382 | Comments: 105 | Posted by bookofjoe",
@@ -198,6 +209,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "bookofjoe",
+      "tags": []
+    },
+    {
+      "id": "oqsy7s",
+      "title": "Getting Claude to QA its own work",
+      "description": "Score: 14 | Comments: 0 | Posted by suchintan",
+      "url": "https://www.skyvern.com/blog/getting-claude-to-qa-its-own-work/",
+      "publishedAt": "2026-04-03T17:18:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "suchintan",
       "tags": []
     },
     {

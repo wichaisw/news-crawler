@@ -1,0 +1,138 @@
+{
+  "date": "2026-04-05",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "m74qol",
+      "title": "Applying machine learning to identify unrecognized Covid-19 deaths in the US",
+      "description": "Score: 9 | Comments: 5 | Posted by Pxtl",
+      "url": "https://www.science.org/doi/10.1126/sciadv.aef5697",
+      "publishedAt": "2026-04-05T05:00:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Pxtl",
+      "tags": []
+    },
+    {
+      "id": "9vjo0m",
+      "title": "What if the browser built the UI for you?jonno.nz",
+      "description": "Score: 28 | Comments: 38 | Posted by jonnonz",
+      "url": "https://jonno.nz/posts/what-if-your-browser-built-the-ui-for-you/",
+      "publishedAt": "2026-04-05T04:32:07.115Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jonnonz",
+      "tags": []
+    },
+    {
+      "id": "9vjo0m",
+      "title": "What if the browser built the UI for you?",
+      "description": "Score: 28 | Comments: 38 | Posted by jonnonz",
+      "url": "https://jonno.nz/posts/what-if-your-browser-built-the-ui-for-you/",
+      "publishedAt": "2026-04-05T04:18:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jonnonz",
+      "tags": []
+    },
+    {
+      "id": "3depoi",
+      "title": "Introduction to Computer Music (2009) [pdf]composerprogrammer.com",
+      "description": "Score: 115 | Comments: 29 | Posted by luu",
+      "url": "https://composerprogrammer.com/introductiontocomputermusic.pdf",
+      "publishedAt": "2026-04-05T02:32:07.114Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "luu",
+      "tags": []
+    },
+    {
+      "id": "h053we",
+      "title": "Writing Lisp is AI resistant and I'm sad",
+      "description": "Score: 59 | Comments: 53 | Posted by djha-skin",
+      "url": "https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/",
+      "publishedAt": "2026-04-05T02:01:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "djha-skin",
+      "tags": []
+    },
+    {
+      "id": "3depoi",
+      "title": "Introduction to Computer Music (2009) [pdf]",
+      "description": "Score: 115 | Comments: 29 | Posted by luu",
+      "url": "https://composerprogrammer.com/introductiontocomputermusic.pdf",
+      "publishedAt": "2026-04-05T01:54:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "luu",
+      "tags": []
+    },
+    {
+      "id": "6gghbg",
+      "title": "Demonstrating Real Time AV2 Decoding on Consumer Laptops",
+      "description": "Score: 6 | Comments: 0 | Posted by breve",
+      "url": "http://aomedia.org/blog%20posts/Demonstrating-Real-Time-AV2-Decoding-on-Consumer-Laptops/",
+      "publishedAt": "2026-04-05T01:32:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "breve",
+      "tags": []
+    },
+    {
+      "id": "8pvadn",
+      "title": "Families Can Now Eat Some Fish from Hudson River for First Time in 50 Years",
+      "description": "Score: 17 | Comments: 5 | Posted by geox",
+      "url": "https://www.health.ny.gov/press/releases/2026/2026-04-01_advice_for_eating_fish.htm",
+      "publishedAt": "2026-04-05T01:23:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "geox",
+      "tags": []
+    },
+    {
+      "id": "487mcu",
+      "title": "Brain scans reveal how to enters a psychedelic-like trance without drugs",
+      "description": "Score: 34 | Comments: 5 | Posted by ingenika",
+      "url": "https://www.psypost.org/brain-scans-reveal-how-a-woman-voluntarily-enters-a-psychedelic-like-trance-without-drugs/",
+      "publishedAt": "2026-04-05T01:18:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingenika",
+      "tags": []
+    },
+    {
+      "id": "qd2s88",
+      "title": "Isseven",
+      "description": "Score: 84 | Comments: 46 | Posted by philipreasa",
+      "url": "https://isseven.app/",
+      "publishedAt": "2026-04-05T01:05:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "philipreasa",
+      "tags": []
+    },
+    {
+      "id": "rr26d2",
+      "title": "Show HN: Contrapunk – Real-time counterpoint harmony from guitar input, in Rust",
+      "description": "Score: 38 | Comments: 5 | Posted by waveywaves",
+      "url": "https://contrapunk.com/",
+      "publishedAt": "2026-04-05T00:40:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "waveywaves",
+      "tags": []
+    },
+    {
+      "id": "v0z6sk",
+      "title": "AWS engineer reports PostgreSQL perf halved by Linux 7.0, fix may not be easy",
+      "description": "Score: 217 | Comments: 50 | Posted by crcastle",
+      "url": "https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop",
+      "publishedAt": "2026-04-05T00:13:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "crcastle",
+      "tags": []
+    }
+  ]
+}
