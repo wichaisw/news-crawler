@@ -1,0 +1,193 @@
+{
+  "date": "2026-04-06",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "qk7qti",
+      "title": "Scientists found a protein that drives brain aging – and how to stop it",
+      "description": "Score: 9 | Comments: 1 | Posted by mikhael",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260405065236.htm",
+      "publishedAt": "2026-04-06T05:07:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mikhael",
+      "tags": []
+    },
+    {
+      "id": "ra12dj",
+      "title": "Winners of the 2026 Kokuyo Design Awards",
+      "description": "Score: 29 | Comments: 2 | Posted by zdw",
+      "url": "https://spoon-tamago.com/winners-of-the-2026-kokuyo-design-awards/",
+      "publishedAt": "2026-04-06T03:32:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "b2u5og",
+      "title": "Media scraper Gallery-dl is moving to Codeberg after receiving a DMCA notice",
+      "description": "Score: 109 | Comments: 30 | Posted by MoltenMonster",
+      "url": "https://github.com/mikf/gallery-dl/discussions/9304",
+      "publishedAt": "2026-04-06T03:28:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "MoltenMonster",
+      "tags": []
+    },
+    {
+      "id": "693h14",
+      "title": "An open-source 240-antenna array to bounce signals off the Moon",
+      "description": "Score: 53 | Comments: 12 | Posted by hillcrestenigma",
+      "url": "https://moonrf.com/",
+      "publishedAt": "2026-04-06T03:22:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hillcrestenigma",
+      "tags": []
+    },
+    {
+      "id": "4cy5r2",
+      "title": "The 1987 game \"The Last Ninja\" was 40 kilobytes",
+      "description": "Score: 46 | Comments: 17 | Posted by keepamovin",
+      "url": "https://twitter.com/exQUIZitely/status/2040777977521398151",
+      "publishedAt": "2026-04-06T03:03:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "keepamovin",
+      "tags": []
+    },
+    {
+      "id": "j4ypak",
+      "title": "Does coding with LLMs mean more microservices?",
+      "description": "Score: 8 | Comments: 0 | Posted by jer0me",
+      "url": "https://ben.page/microservices",
+      "publishedAt": "2026-04-06T02:33:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jer0me",
+      "tags": []
+    },
+    {
+      "id": "5j4mys",
+      "title": "Case study: recovery of a corrupted 12 TB multi-device pool",
+      "description": "Score: 37 | Comments: 4 | Posted by salt4034",
+      "url": "https://github.com/kdave/btrfs-progs/issues/1107",
+      "publishedAt": "2026-04-06T02:28:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "salt4034",
+      "tags": []
+    },
+    {
+      "id": "x7umtz",
+      "title": "We replaced Node.js with Bun for 5x throughput",
+      "description": "Score: 39 | Comments: 20 | Posted by pier25",
+      "url": "https://trigger.dev/blog/firebun",
+      "publishedAt": "2026-04-06T01:57:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pier25",
+      "tags": []
+    },
+    {
+      "id": "ih88py",
+      "title": "Stamp It All Programs Must Report Their Version – Michael Stapelberg",
+      "description": "Score: 10 | Comments: 1 | Posted by gurjeet",
+      "url": "https://michael.stapelberg.ch/posts/2026-04-05-stamp-it-all-programs-must-report-their-version/",
+      "publishedAt": "2026-04-06T01:42:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gurjeet",
+      "tags": []
+    },
+    {
+      "id": "okva2x",
+      "title": "Usenet Archives",
+      "description": "Score: 22 | Comments: 2 | Posted by myth_drannon",
+      "url": "https://usenetarchives.com",
+      "publishedAt": "2026-04-06T01:33:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "myth_drannon",
+      "tags": []
+    },
+    {
+      "id": "t0ec5f",
+      "title": "LLMs can't justify their answers–this CLI forces them to",
+      "description": "Score: 9 | Comments: 9 | Posted by volatilityfund",
+      "url": "https://wheat.grainulation.com/",
+      "publishedAt": "2026-04-06T01:07:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "volatilityfund",
+      "tags": []
+    },
+    {
+      "id": "w82ilv",
+      "title": "Show HN: I built a tiny LLM to demystify how language models workgithub.com/arman-bd",
+      "description": "Score: 299 | Comments: 25 | Posted by armanified",
+      "url": "https://github.com/arman-bd/guppylm",
+      "publishedAt": "2026-04-06T00:44:59.234Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "armanified",
+      "tags": []
+    },
+    {
+      "id": "fjd3wv",
+      "title": "Employers use your personal data to figure out the lowest salary you'll accept",
+      "description": "Score: 165 | Comments: 75 | Posted by thisislife2",
+      "url": "https://www.marketwatch.com/story/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept-c2b968fb",
+      "publishedAt": "2026-04-06T00:29:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thisislife2",
+      "tags": []
+    },
+    {
+      "id": "w82ilv",
+      "title": "Show HN: I built a tiny LLM to demystify how language models work",
+      "description": "Score: 301 | Comments: 25 | Posted by armanified",
+      "url": "https://github.com/arman-bd/guppylm",
+      "publishedAt": "2026-04-06T00:20:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "armanified",
+      "tags": []
+    },
+    {
+      "id": "hlobet",
+      "title": "Show HN: I made a YouTube search form with advanced filters",
+      "description": "Score: 188 | Comments: 114 | Posted by nevernothing",
+      "url": "https://playlists.at/youtube/search/",
+      "publishedAt": "2026-04-06T00:18:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nevernothing",
+      "tags": []
+    },
+    {
+      "id": "875jmz",
+      "title": "Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud",
+      "description": "Score: 52 | Comments: 9 | Posted by ikessler",
+      "url": "https://github.com/kessler/gemma-gem",
+      "publishedAt": "2026-04-06T00:14:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ikessler",
+      "tags": []
+    },
+    {
+      "id": "2t1xbv",
+      "title": "Recall – local multimodal semantic search for your files",
+      "description": "Score: 18 | Comments: 8 | Posted by patel_aayushya",
+      "url": "https://github.com/aayu22809/Recall",
+      "publishedAt": "2026-04-06T00:09:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "patel_aayushya",
+      "tags": []
+    }
+  ]
+}

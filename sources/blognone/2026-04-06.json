@@ -1,0 +1,39 @@
+{
+  "date": "2026-04-06",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "150193 at https://www.blognone.com",
+      "title": "รัฐ Colorado เปลี่ยนระบบกล้องตรวจจับความเร็วรถ มาใช้ค่าเฉลี่ยความเร็วระหว่างกล้องแทน",
+      "description": "รัฐ Colorado เปลี่ยนระบบกล้องตรวจจับความเร็วรถ มาใช้ค่าเฉลี่ยความเร็วระหว่างกล้องแทน Body Waze แอปแนะนำเส้นทางจราจรซึ่งมีกูเกิลเป็นเจ้าของ",
+      "url": "https://www.blognone.com/node/150193",
+      "publishedAt": "2026-04-06T02:23:00.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150196 at https://www.blognone.com",
+      "title": "Apple อนุมัติ Driver 3rd Party สำหรับต่อ eGPU NVIDIA แล้ว แต่ได้เฉพาะงาน AI",
+      "description": "Apple อนุมัติ Driver 3rd Party สำหรับต่อ eGPU NVIDIA แล้ว แต่ได้เฉพาะงาน AI Body ปัญหาหนึ่งของคนใช้ Mac ในยุคชิป Apple Silicon",
+      "url": "https://www.blognone.com/node/150196",
+      "publishedAt": "2026-04-06T00:38:34.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150195 at https://www.blognone.com",
+      "title": "Samsung ประกาศแผนปิดตัว Samsung Messages ให้ใช้ Google Messages แทน",
+      "description": "Samsung ประกาศแผนปิดตัว Samsung Messages ให้ใช้ Google Messages แทน Body ซัมซุงอเมริกาประกาศแผนยุติการใช้งานแอป Samsung Messages มีผลในเดือนกรกฎาคม",
+      "url": "https://www.blognone.com/node/150195",
+      "publishedAt": "2026-04-06T00:04:54.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}
