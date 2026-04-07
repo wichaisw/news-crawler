@@ -256,6 +256,28 @@
       "tags": []
     },
     {
+      "id": "celg09",
+      "title": "VOID: Video Object and Interaction Deletion",
+      "description": "Score: 135 | Comments: 42 | Posted by bobsoap",
+      "url": "https://github.com/Netflix/void-model",
+      "publishedAt": "2026-04-03T15:38:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bobsoap",
+      "tags": []
+    },
+    {
+      "id": "y3ptio",
+      "title": "Porting Go's strings package to C",
+      "description": "Score: 62 | Comments: 8 | Posted by ingve",
+      "url": "https://antonz.org/porting-go-strings/",
+      "publishedAt": "2026-04-03T15:12:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingve",
+      "tags": []
+    },
+    {
       "id": "mnh3ng",
       "title": "Build your own Dial-up ISP with a Raspberry Pi",
       "description": "Score: 134 | Comments: 29 | Posted by arjunbajaj",
@@ -264,6 +286,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "arjunbajaj",
+      "tags": []
+    },
+    {
+      "id": "kla9yr",
+      "title": "Graph-go – zero config, full visibility",
+      "description": "Score: 18 | Comments: 1 | Posted by devGrimm",
+      "url": "https://github.com/guilherme-grimm/graph-go",
+      "publishedAt": "2026-04-03T14:55:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "devGrimm",
       "tags": []
     },
     {

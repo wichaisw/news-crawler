@@ -3,6 +3,28 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "150202 at https://www.blognone.com",
+      "title": "Anthropic ขยายข้อตกลงใช้งาน TPU บน Google Cloud ที่ผลิตโดย Broadcom เพื่อรองรับความต้องการ Claude ที่มากขึ้น",
+      "description": "Anthropic ขยายข้อตกลงใช้งาน TPU บน Google Cloud ที่ผลิตโดย Broadcom เพื่อรองรับความต้องการ Claude ที่มากขึ้น Body Anthropic",
+      "url": "https://www.blognone.com/node/150202",
+      "publishedAt": "2026-04-06T23:41:04.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150201 at https://www.blognone.com",
+      "title": "เอกสารการเงิน OpenAI และ Anthropic มองต้นทุนการ Train AI ยังคงสูงต่อเนื่องอีกหลายปี",
+      "description": "เอกสารการเงิน OpenAI และ Anthropic มองต้นทุนการ Train AI ยังคงสูงต่อเนื่องอีกหลายปี Body The Wall Street Journal",
+      "url": "https://www.blognone.com/node/150201",
+      "publishedAt": "2026-04-06T16:34:41.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "150193 at https://www.blognone.com",
       "title": "รัฐ Colorado เปลี่ยนระบบกล้องตรวจจับความเร็วรถ มาใช้ค่าเฉลี่ยความเร็วระหว่างกล้องแทน",
       "description": "รัฐ Colorado เปลี่ยนระบบกล้องตรวจจับความเร็วรถ มาใช้ค่าเฉลี่ยความเร็วระหว่างกล้องแทน Body Waze แอปแนะนำเส้นทางจราจรซึ่งมีกูเกิลเป็นเจ้าของ",

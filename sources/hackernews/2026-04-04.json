@@ -69,6 +69,17 @@
       "tags": []
     },
     {
+      "id": "hw6med",
+      "title": "Linux extreme performance H1 load generator",
+      "description": "Score: 11 | Comments: 4 | Posted by MDA2AV",
+      "url": "https://www.gcannon.org/",
+      "publishedAt": "2026-04-04T19:00:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "MDA2AV",
+      "tags": []
+    },
+    {
       "id": "em0lpk",
       "title": "Sopwith – 1984 Game (2000)",
       "description": "Score: 91 | Comments: 39 | Posted by elvis70",
@@ -77,6 +88,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "elvis70",
+      "tags": []
+    },
+    {
+      "id": "5hg0qc",
+      "title": "Apollo Guidance Computer restoration videos",
+      "description": "Score: 23 | Comments: 3 | Posted by mariuz",
+      "url": "https://www.curiousmarc.com/space/apollo-guidance-computer",
+      "publishedAt": "2026-04-04T17:58:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mariuz",
       "tags": []
     },
     {
@@ -256,6 +278,17 @@
       "tags": []
     },
     {
+      "id": "3tthcp",
+      "title": "Show HN: Tusk for macOS and Gnome",
+      "description": "Score: 73 | Comments: 18 | Posted by factorialboy",
+      "url": "https://shapemachine.xyz/tusk/",
+      "publishedAt": "2026-04-04T10:39:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "factorialboy",
+      "tags": []
+    },
+    {
       "id": "2wka0l",
       "title": "Embarrassingly simple self-distillation improves code generation",
       "description": "Score: 583 | Comments: 169 | Posted by Anon84",
@@ -311,6 +344,28 @@
       "tags": []
     },
     {
+      "id": "yhp4xm",
+      "title": "The Last Quiet Thing",
+      "description": "Score: 200 | Comments: 113 | Posted by coinfused",
+      "url": "https://www.terrygodier.com/the-last-quiet-thing",
+      "publishedAt": "2026-04-04T08:14:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "coinfused",
+      "tags": []
+    },
+    {
+      "id": "vdinfs",
+      "title": "Eighteen Years of Greytrapping – Is the Weirdness Finally Paying Off?",
+      "description": "Score: 65 | Comments: 5 | Posted by jruohonen",
+      "url": "https://nxdomain.no/~peter/eighteen_years_of_greytrapping.html",
+      "publishedAt": "2026-04-04T08:01:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jruohonen",
+      "tags": []
+    },
+    {
       "id": "mkm3o8",
       "title": "Endian wars and anti-portability: this again?",
       "description": "Score: 43 | Comments: 49 | Posted by awilfox",
@@ -319,6 +374,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "awilfox",
+      "tags": []
+    },
+    {
+      "id": "nlah8n",
+      "title": "Show HN: Anos – a hand-written ~100KiB microkernel for x86-64 and RISC-V",
+      "description": "Score: 52 | Comments: 18 | Posted by noone_youknow",
+      "url": "https://github.com/roscopeco/anos",
+      "publishedAt": "2026-04-04T06:58:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "noone_youknow",
       "tags": []
     },
     {

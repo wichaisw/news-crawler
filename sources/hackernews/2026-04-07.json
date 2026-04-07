@@ -1,0 +1,39 @@
+{
+  "date": "2026-04-07",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "7mmneu",
+      "title": "Claude Is Not Your Architect. Stop Letting It Pretend",
+      "description": "Score: 7 | Comments: 2 | Posted by gpi",
+      "url": "https://www.hollandtech.net/claude-is-not-your-architect/",
+      "publishedAt": "2026-04-07T03:35:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gpi",
+      "tags": []
+    },
+    {
+      "id": "iij7dv",
+      "title": "Dear Heroku: Uhh What's Going On?",
+      "description": "Score: 47 | Comments: 12 | Posted by crcastle",
+      "url": "https://judoscale.com/blog/heroku-whats-going-on",
+      "publishedAt": "2026-04-07T01:42:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "crcastle",
+      "tags": []
+    },
+    {
+      "id": "bmfyx3",
+      "title": "Solod – A subset of Go that translates to C",
+      "description": "Score: 94 | Comments: 22 | Posted by TheWiggles",
+      "url": "https://github.com/solod-dev/solod",
+      "publishedAt": "2026-04-07T00:48:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "TheWiggles",
+      "tags": []
+    }
+  ]
+}
