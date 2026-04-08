@@ -1,0 +1,17 @@
+{
+  "date": "2026-04-08",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3109710",
+      "title": "Google quietly launched an AI dictation app that works offline",
+      "description": "Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow.",
+      "url": "https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
+      "publishedAt": "2026-04-08T05:40:19.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Ivan Mehta",
+      "tags": []
+    }
+  ]
+}

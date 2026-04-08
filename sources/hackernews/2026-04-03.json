@@ -300,6 +300,17 @@
       "tags": []
     },
     {
+      "id": "jc6bah",
+      "title": "Running out of disk space in production",
+      "description": "Score: 184 | Comments: 94 | Posted by romes",
+      "url": "https://alt-romes.github.io/posts/2026-04-01-running-out-of-disk-space-on-launch.html",
+      "publishedAt": "2026-04-03T14:42:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "romes",
+      "tags": []
+    },
+    {
       "id": "ihx33r",
       "title": "Show HN: ctx – an Agentic Development Environment (ADE)",
       "description": "Score: 40 | Comments: 51 | Posted by luca-ctx",
@@ -366,6 +377,17 @@
       "tags": []
     },
     {
+      "id": "qimalr",
+      "title": "A database of analog cameras that can be 3D printed",
+      "description": "Score: 86 | Comments: 9 | Posted by thomasjb",
+      "url": "https://printed.analogcamera.space/",
+      "publishedAt": "2026-04-03T09:02:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thomasjb",
+      "tags": []
+    },
+    {
       "id": "jp7s50",
       "title": "Show HN: Minimal Brain Teaser Web Game (Handcrafted, No AI)",
       "description": "Score: 4 | Comments: 0 | Posted by arttaboi",
@@ -385,6 +407,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "lazydogbrownfox",
+      "tags": []
+    },
+    {
+      "id": "rt4ed7",
+      "title": "Slightly safer vibecoding by adopting old hacker habits",
+      "description": "Score: 77 | Comments: 31 | Posted by transpute",
+      "url": "http://addxorrol.blogspot.com/2026/03/slightly-safer-vibecoding-by-adopting.html",
+      "publishedAt": "2026-04-03T01:53:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "transpute",
       "tags": []
     },
     {

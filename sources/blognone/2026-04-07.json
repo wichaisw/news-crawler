@@ -3,6 +3,61 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "150214 at https://www.blognone.com",
+      "title": "พนักงานท่านหนึ่ง - Z.ai ออกโมเดล GLM-5.1 ทำงานต่อเนื่องได้นาน 8 ชั่วโมง",
+      "description": "พนักงานท่านหนึ่ง - Z.ai ออกโมเดล GLM-5.1 ทำงานต่อเนื่องได้นาน 8 ชั่วโมง Body Z.ai เผยแพร่โมเดล AI โอเพนซอร์สเรือธงรุ่นใหม่ GLM-5.1",
+      "url": "https://www.blognone.com/node/150214",
+      "publishedAt": "2026-04-07T23:44:58.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150213 at https://www.blognone.com",
+      "title": "ผู้สร้างดูแลแพ็กเกจ Crypto ในภาษา Go ชี้ภัยคอมพิวเตอร์ควอนตัมใกล้มาถึง จากนี้จะสอน RSA, ECDSA, ECDH ในฐานะอัลกอริทึมเก่า",
+      "description": "ผู้สร้างดูแลแพ็กเกจ Crypto ในภาษา Go ชี้ภัยคอมพิวเตอร์ควอนตัมใกล้มาถึง จากนี้จะสอน RSA, ECDSA, ECDH ในฐานะอัลกอริทึมเก่า Body Filippo Valsorda",
+      "url": "https://www.blognone.com/node/150213",
+      "publishedAt": "2026-04-07T15:30:10.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150212 at https://www.blognone.com",
+      "title": "Intel ประกาศร่วมโครงการสร้างโรงงานผลิตชิป Terafab ของ Elon Musk",
+      "description": "Intel ประกาศร่วมโครงการสร้างโรงงานผลิตชิป Terafab ของ Elon Musk Body อินเทลประกาศว่าบริษัทจะเข้าร่วมในโครงการสร้าง โรงงานผลิตชิปขนาดยักษ์ Terafab ของ",
+      "url": "https://www.blognone.com/node/150212",
+      "publishedAt": "2026-04-07T14:15:31.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150211 at https://www.blognone.com",
+      "title": "Yoshihisa Kishimoto ผู้สร้างเกม Kunio-kun เสียชีวิตแล้ว",
+      "description": "Yoshihisa Kishimoto ผู้สร้างเกม Kunio-kun เสียชีวิตแล้ว Body Yoshihisa Kishimoto ผู้สร้างเกม Double Dragon และซีรีส์เกม Kunio-kun (ชื่อเกม Renegade",
+      "url": "https://www.blognone.com/node/150211",
+      "publishedAt": "2026-04-07T13:45:51.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150210 at https://www.blognone.com",
+      "title": "X เพิ่มฟีเจอร์แปลภาษาในโพสต์ให้อัตโนมัติด้วยโมเดล Grok",
+      "description": "X เพิ่มฟีเจอร์แปลภาษาในโพสต์ให้อัตโนมัติด้วยโมเดล Grok Body Nikita Bier หัวหน้าฝ่ายผลิตภัณฑ์ของ X บอกว่า",
+      "url": "https://www.blognone.com/node/150210",
+      "publishedAt": "2026-04-07T13:42:26.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "150208 at https://www.blognone.com",
       "title": "Google AI Edge Eloquent แอปใหม่ถอดเสียงเป็นข้อความ พร้อมปรับแต่งให้สวยงาม ทำงานออฟไลน์ได้",
       "description": "Google AI Edge Eloquent แอปใหม่ถอดเสียงเป็นข้อความ พร้อมปรับแต่งให้สวยงาม ทำงานออฟไลน์ได้ Body กูเกิลออกแอปใหม่บน iOS ชื่อ Google AI Edge Eloquent",

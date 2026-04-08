@@ -1,0 +1,39 @@
+{
+  "date": "2026-04-08",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "150217 at https://www.blognone.com",
+      "title": "Anthropic เปิดตัว Claude Mythos โมเดลสุดฉลาด หาช่องโหว่ซอฟต์แวร์ได้แล้วนับพันรายการ ไม่ขายคนทั่วไป",
+      "description": "Anthropic เปิดตัว Claude Mythos โมเดลสุดฉลาด หาช่องโหว่ซอฟต์แวร์ได้แล้วนับพันรายการ ไม่ขายคนทั่วไป Body Anthropic เปิดตัวโมเดลรุ่นใหญ่สุดในชื่อ",
+      "url": "https://www.blognone.com/node/150217",
+      "publishedAt": "2026-04-08T02:58:52.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150216 at https://www.blognone.com",
+      "title": "MacBook Neo ขายดีเกินไป อาจสร้างปัญหาให้ Apple เพราะชิป A18 Pro ในสต็อกใกล้หมด",
+      "description": "MacBook Neo ขายดีเกินไป อาจสร้างปัญหาให้ Apple เพราะชิป A18 Pro ในสต็อกใกล้หมด Body Tim Culpan",
+      "url": "https://www.blognone.com/node/150216",
+      "publishedAt": "2026-04-08T01:01:06.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150215 at https://www.blognone.com",
+      "title": "สิ้นสุดการรอคอย Chrome เพิ่มแท็บแนวตั้ง Vertical Tabs แล้ว, ปรับปรุง Reading Mode แบบเต็มจอ",
+      "description": "สิ้นสุดการรอคอย Chrome เพิ่มแท็บแนวตั้ง Vertical Tabs แล้ว, ปรับปรุง Reading Mode แบบเต็มจอ Body กูเกิลอัปเดตความสามารถใหม่ในเบราว์เซอร์ Chrome",
+      "url": "https://www.blognone.com/node/150215",
+      "publishedAt": "2026-04-08T00:06:54.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}

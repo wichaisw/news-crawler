@@ -1,0 +1,72 @@
+{
+  "date": "2026-04-08",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "n86wjs",
+      "title": "How the Vision Pro Rollout Inflamed Tensions at Apple",
+      "description": "Score: 6 | Comments: 0 | Posted by f_allwein",
+      "url": "https://www.wired.com/story/book-excerpt-mutiny-noam-scheiber-apple-vision-pro/",
+      "publishedAt": "2026-04-08T05:30:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "f_allwein",
+      "tags": []
+    },
+    {
+      "id": "53hmiu",
+      "title": "Who Is Satoshi Nakamoto? My Quest to Unmask Bitcoin's Creator",
+      "description": "Score: 28 | Comments: 8 | Posted by jfirebaugh",
+      "url": "https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html",
+      "publishedAt": "2026-04-08T04:37:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jfirebaugh",
+      "tags": []
+    },
+    {
+      "id": "wfty7l",
+      "title": "Protect your shed",
+      "description": "Score: 92 | Comments: 18 | Posted by baely",
+      "url": "https://dylanbutler.dev/blog/protect-your-shed/",
+      "publishedAt": "2026-04-08T03:03:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "baely",
+      "tags": []
+    },
+    {
+      "id": "8hnncu",
+      "title": "LLM scraper bots are overloading acme.com's HTTPS server",
+      "description": "Score: 40 | Comments: 38 | Posted by mjyut",
+      "url": "http://acme.com/updates/archive/229.html",
+      "publishedAt": "2026-04-08T03:02:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mjyut",
+      "tags": []
+    },
+    {
+      "id": "fi60kb",
+      "title": "OpenAI says its new model GPT-2 is too dangerous to release (2019)",
+      "description": "Score: 283 | Comments: 81 | Posted by surprisetalk",
+      "url": "https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html",
+      "publishedAt": "2026-04-08T02:41:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
+      "id": "jwixg0",
+      "title": "JSIR: A High-Level IR for JavaScript",
+      "description": "Score: 39 | Comments: 9 | Posted by nnx",
+      "url": "https://discourse.llvm.org/t/rfc-jsir-a-high-level-ir-for-javascript/90456",
+      "publishedAt": "2026-04-08T00:59:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nnx",
+      "tags": []
+    }
+  ]
+}

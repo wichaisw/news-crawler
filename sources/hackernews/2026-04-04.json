@@ -47,6 +47,17 @@
       "tags": []
     },
     {
+      "id": "k7qqd6",
+      "title": "ACE on a USB-HDMI Adapter",
+      "description": "Score: 10 | Comments: 1 | Posted by theblazehen",
+      "url": "https://blazelight.dev/blog/ms2160.mdx",
+      "publishedAt": "2026-04-04T21:44:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "theblazehen",
+      "tags": []
+    },
+    {
       "id": "u8ixwg",
       "title": "Show HN: M. C. Escher spiral in WebGL inspired by 3Blue1Brown",
       "description": "Score: 53 | Comments: 10 | Posted by laszlokorte",
@@ -300,6 +311,17 @@
       "tags": []
     },
     {
+      "id": "t7hbhn",
+      "title": "The Clock",
+      "description": "Score: 52 | Comments: 10 | Posted by senko",
+      "url": "https://blog.senko.net/the-clock",
+      "publishedAt": "2026-04-04T10:08:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "senko",
+      "tags": []
+    },
+    {
       "id": "qcq5zh",
       "title": "LÖVE: 2D Game Framework for Lua",
       "description": "Score: 270 | Comments: 105 | Posted by cl3misch",
@@ -308,6 +330,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "cl3misch",
+      "tags": []
+    },
+    {
+      "id": "1gw9hy",
+      "title": "SQLite in Production: Lessons from Running a Store on a Single File",
+      "description": "Score: 188 | Comments: 115 | Posted by thunderbong",
+      "url": "https://ultrathink.art/blog/sqlite-in-production-lessons",
+      "publishedAt": "2026-04-04T09:15:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thunderbong",
       "tags": []
     },
     {
@@ -484,6 +517,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "carabiner",
+      "tags": []
+    },
+    {
+      "id": "mr0a6o",
+      "title": "Native Americans had dice 12k years ago",
+      "description": "Score: 43 | Comments: 9 | Posted by delichon",
+      "url": "https://www.nbcnews.com/science/science-news/native-americans-dice-games-probability-study-rcna266426",
+      "publishedAt": "2026-04-04T00:59:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "delichon",
       "tags": []
     }
   ]
