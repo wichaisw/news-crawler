@@ -289,6 +289,28 @@
       "tags": []
     },
     {
+      "id": "s4k7sw",
+      "title": "I imported the full Linux kernel git history into pgit",
+      "description": "Score: 104 | Comments: 13 | Posted by ImGajeed76",
+      "url": "https://oseifert.ch/blog/linux-kernel-pgit",
+      "publishedAt": "2026-04-05T12:08:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ImGajeed76",
+      "tags": []
+    },
+    {
+      "id": "5m1j2v",
+      "title": "Virtual Mars Traverse: Every inch of Curiosity rover's path since 2012 landing",
+      "description": "Score: 42 | Comments: 16 | Posted by bookofjoe",
+      "url": "https://www.rovers.land/",
+      "publishedAt": "2026-04-05T11:28:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bookofjoe",
+      "tags": []
+    },
+    {
       "id": "5c4wht",
       "title": "Friendica – A Decentralized Social Network",
       "description": "Score: 143 | Comments: 51 | Posted by janandonly",
@@ -352,6 +374,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jonnonz",
+      "tags": []
+    },
+    {
+      "id": "59ryht",
+      "title": "Union types in C# 15",
+      "description": "Score: 182 | Comments: 158 | Posted by 0x00C0FFEE",
+      "url": "https://devblogs.microsoft.com/dotnet/csharp-15-union-types/",
+      "publishedAt": "2026-04-05T02:53:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "0x00C0FFEE",
       "tags": []
     },
     {

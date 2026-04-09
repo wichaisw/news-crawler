@@ -1,0 +1,72 @@
+{
+  "date": "2026-04-09",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "4x9r0y",
+      "title": "Open Source Security at Astral",
+      "description": "Score: 96 | Comments: 12 | Posted by vinhnx",
+      "url": "https://astral.sh/blog/open-source-security-at-astral",
+      "publishedAt": "2026-04-09T04:11:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vinhnx",
+      "tags": []
+    },
+    {
+      "id": "azss9j",
+      "title": "'There's a lot of desperation': older workers turn to AI training to stay afloat",
+      "description": "Score: 18 | Comments: 2 | Posted by Stratoscope",
+      "url": "https://www.theguardian.com/technology/ng-interactive/2026/apr/07/ai-training-work-jobs",
+      "publishedAt": "2026-04-09T03:52:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Stratoscope",
+      "tags": []
+    },
+    {
+      "id": "f060ys",
+      "title": "No Taco: This Is Complete US Strategic Failure",
+      "description": "Score: 25 | Comments: 9 | Posted by JumpCrisscross",
+      "url": "https://phillipspobrien.substack.com/p/midweek-update-5-this-is-no-taco",
+      "publishedAt": "2026-04-09T03:06:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "JumpCrisscross",
+      "tags": []
+    },
+    {
+      "id": "fze5z0",
+      "title": "Newly created Polymarket accounts win big on well-timed Iran ceasefire bets",
+      "description": "Score: 113 | Comments: 82 | Posted by mitchbob",
+      "url": "https://www.theguardian.com/business/2026/apr/08/polymarket-trump-us-iran-ceasefire",
+      "publishedAt": "2026-04-09T00:55:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mitchbob",
+      "tags": []
+    },
+    {
+      "id": "aczyuc",
+      "title": "LittleSnitch for Linuxobdev.at",
+      "description": "Score: 469 | Comments: 148 | Posted by pluc",
+      "url": "https://obdev.at/products/littlesnitch-linux/index.html",
+      "publishedAt": "2026-04-09T00:39:13.653Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pluc",
+      "tags": []
+    },
+    {
+      "id": "aczyuc",
+      "title": "LittleSnitch for Linux",
+      "description": "Score: 470 | Comments: 149 | Posted by pluc",
+      "url": "https://obdev.at/products/littlesnitch-linux/index.html",
+      "publishedAt": "2026-04-09T00:26:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pluc",
+      "tags": []
+    }
+  ]
+}

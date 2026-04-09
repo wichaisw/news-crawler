@@ -1,0 +1,30 @@
+{
+  "date": "2026-04-09",
+  "source": "theverge",
+  "articles": [
+    {
+      "id": "z00w3p",
+      "title": "Gemini gets notebooks to help you organize projects",
+      "description": "Google's Gemini is getting a feature called \"notebooks\" to help you organize things about certain topics in a single place while using the AI chatbot, the company announced on Wednesday. You can pull in things like files, past conversations, and custom instructions into notebooks that Gemini can then use as context while you're talking with [&#8230;]",
+      "url": "https://www.theverge.com/tech/909031/google-gemini-notebooks-notebooklm",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-04-09T00:06:12.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Jay Peters",
+      "tags": []
+    },
+    {
+      "id": "d9hf2c",
+      "title": "Dyson made a handheld version of its iconic fans",
+      "description": "Nearly 17 years after Dyson first announced its Air Multiplier fans - one of its first big consumer products after vacuums - the company has miniaturized their design to create a handheld personal cooler called the HushJet Mini Cool. Like Dyson's larger Air Multipliers, humidifiers, air purifiers, and heaters, the HushJet Mini Cool doesn't have [&#8230;]",
+      "url": "https://www.theverge.com/tech/907802/dyson-hushjet-mini-cool-handheld-personal-fan-specs-availability",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/dyson_hushjet3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-04-09T00:01:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Andrew Liszewski",
+      "tags": []
+    }
+  ]
+}

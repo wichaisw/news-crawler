@@ -1,0 +1,83 @@
+{
+  "date": "2026-04-09",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "150227 at https://www.blognone.com",
+      "title": "Gemini เพิ่มฟีเจอร์ Notebook รวมข้อมูลแยกเป็น Project ไว้ถามตอบข้อมูลเฉพาะเรื่อง",
+      "description": "Gemini เพิ่มฟีเจอร์ Notebook รวมข้อมูลแยกเป็น Project ไว้ถามตอบข้อมูลเฉพาะเรื่อง Body กูเกิลเพิ่มความสามารถใหม่ของ Gemini หลังจากเพิ่มการเชื่อมต่อกับ",
+      "url": "https://www.blognone.com/node/150227",
+      "publishedAt": "2026-04-09T05:57:01.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150226 at https://www.blognone.com",
+      "title": "Google Photos บน Android เพิ่มปุ่ม AI Enhance แก้ไขรูปภาพ, ปุ่มปรับความเร็วตัวเล่นวิดีโอ",
+      "description": "Google Photos บน Android เพิ่มปุ่ม AI Enhance แก้ไขรูปภาพ, ปุ่มปรับความเร็วตัวเล่นวิดีโอ Body กูเกิลเพิ่มสองฟีเจอร์ใหม่ให้ Google Photos บน Android",
+      "url": "https://www.blognone.com/node/150226",
+      "publishedAt": "2026-04-09T05:54:05.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150225 at https://www.blognone.com",
+      "title": "AWS เปิดตัว S3 Files อ่านเขียนไฟล์ประสิทธิภาพสูงโดยไม่ต้องยิง S3 API",
+      "description": "AWS เปิดตัว S3 Files อ่านเขียนไฟล์ประสิทธิภาพสูงโดยไม่ต้องยิง S3 API Body AWS เปิดบริการ Amazon S3 Files",
+      "url": "https://www.blognone.com/node/150225",
+      "publishedAt": "2026-04-09T01:17:05.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150222 at https://www.blognone.com",
+      "title": "กรีซออกกฎหมายห้ามเด็กต่ำกว่า 15 ปี ใช้โซเชียลมีเดีย มีผลบังคับใช้ปีหน้า และเตรียมเสนอให้ควบคุมทั้งยุโรป",
+      "description": "กรีซออกกฎหมายห้ามเด็กต่ำกว่า 15 ปี ใช้โซเชียลมีเดีย มีผลบังคับใช้ปีหน้า และเตรียมเสนอให้ควบคุมทั้งยุโรป Body",
+      "url": "https://www.blognone.com/node/150222",
+      "publishedAt": "2026-04-09T01:13:00.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150221 at https://www.blognone.com",
+      "title": "Amazon แจ้งหยุดซัพพอร์ต Kindle รุ่นปี 2012 และเก่ากว่าทั้งหมด",
+      "description": "Amazon แจ้งหยุดซัพพอร์ต Kindle รุ่นปี 2012 และเก่ากว่าทั้งหมด Body Amazon ส่งอีเมลแจ้งลูกค้าที่ใช้งาน Kindle รุ่นเก่า ว่าอุปกรณ์จะหยุดการสนับสนุน",
+      "url": "https://www.blognone.com/node/150221",
+      "publishedAt": "2026-04-09T00:49:00.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150224 at https://www.blognone.com",
+      "title": "เหมือนเป็นเกมใหม่ Pillars of Eternity ภาคแรก อัพเดตเพิ่ม Turn-Based Mode",
+      "description": "เหมือนเป็นเกมใหม่ Pillars of Eternity ภาคแรก อัพเดตเพิ่ม Turn-Based Mode Body Obsidian Entertainment ออกอัพเดตให้ Pillars of Eternity เกม RPG อายุ 11",
+      "url": "https://www.blognone.com/node/150224",
+      "publishedAt": "2026-04-09T00:24:41.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150223 at https://www.blognone.com",
+      "title": "Apple อัปเดต iOS 26.4.1 แก้ไขบั๊กข้อมูลแอปบน iCloud ไม่ซิงก์",
+      "description": "Apple อัปเดต iOS 26.4.1 แก้ไขบั๊กข้อมูลแอปบน iCloud ไม่ซิงก์ Body แอปเปิลออกอัปเดตย่อยระบบปฏิบัติการ iOS 26.4.1 และ iPadOS 26.4.1",
+      "url": "https://www.blognone.com/node/150223",
+      "publishedAt": "2026-04-09T00:22:44.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}
