@@ -1,0 +1,226 @@
+{
+  "date": "2026-04-09",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3111194",
+      "title": "Florida AG to probe OpenAI, alleging possible connection to FSU shooting",
+      "description": "Florida Attorney General James Uthmeier plans to investigate OpenAI for its alleged harm to minors, potential to threaten national security, and its",
+      "url": "https://techcrunch.com/2026/04/09/florida-ag-to-probe-openai-alleging-possible-connection-to-fsu-shooting/",
+      "publishedAt": "2026-04-09T22:13:26.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Amanda Silberling",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3111133",
+      "title": "ChatGPT finally offers $100/month Pro plan",
+      "description": "OpenAI announced on Thursday something that power users have been asking for: a $100/month plan. Previously, subscriptions jumped from $20 to $200",
+      "url": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
+      "publishedAt": "2026-04-09T21:29:11.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Julie Bort",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3111114",
+      "title": "EFF is the latest organization to leave X",
+      "description": "The EFF follows the departure of various news organizations and others who no longer find X a viable source of traffic.",
+      "url": "https://techcrunch.com/2026/04/09/eff-is-the-latest-organization-to-leave-x/",
+      "publishedAt": "2026-04-09T21:26:18.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sarah Perez",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3111154",
+      "title": "What founders can learn from Anjuna’s layoffs and recovery",
+      "description": "In 2021, Anjuna Security was growing fast, hiring aggressively, and chasing a market that seemed limitless. By the end of that year, the",
+      "url": "https://techcrunch.com/2026/04/09/what-founders-can-learn-from-anjunas-layoffs-and-recovery/",
+      "publishedAt": "2026-04-09T21:17:30.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Maggie Nye, Isabelle Johannessen",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3110991",
+      "title": "Volkswagen drops all-electric ID.4 in the US in pivot back to gas SUVs",
+      "description": "All resources at its U.S. factory are aimed at the upcoming Atlas SUV.",
+      "url": "https://techcrunch.com/2026/04/09/volkswagen-drops-all-electric-id-4-in-the-us-in-pivot-back-to-gas-suvs/",
+      "publishedAt": "2026-04-09T21:01:36.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Kirsten Korosec",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3110924",
+      "title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
+      "description": "ChatGPT had reportedly been used to plan the attack that killed two and injured five at Florida State University last April. The family of one victim",
+      "url": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
+      "publishedAt": "2026-04-09T20:11:55.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lucas Ropek",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3111079",
+      "title": "StubHub to pay $10M to settle FTC allegations over ‘deceptive’ ticket pricing",
+      "description": "The consumer protection agency says the company violated the FTC Act and its Rule on Unfair or Deceptive Fees by \"deceptively\" advertising ticket",
+      "url": "https://techcrunch.com/2026/04/09/stubhub-to-pay-10m-to-settle-ftc-allegations-over-deceptive-ticket-pricing/",
+      "publishedAt": "2026-04-09T20:04:12.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Aisha Malik",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3110877",
+      "title": "After data breach, $10B-valued startup Mercor is having a month",
+      "description": "After falling victim to a hacker, Mercor is facing lawsuits and reportedly losing big-name customers.",
+      "url": "https://techcrunch.com/2026/04/09/after-data-breach-10b-valued-startup-mercor-is-having-a-month/",
+      "publishedAt": "2026-04-09T19:33:54.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Julie Bort",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3110997",
+      "title": "Meta AI app climbs to No. 5 on the App Store after Muse Spark launch",
+      "description": "The app was ranking No. 57 on the App Store just before Meta AI's new model launched. Now it's No. 5 — and rising.",
+      "url": "https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/",
+      "publishedAt": "2026-04-09T19:10:07.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sarah Perez",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3110914",
+      "title": "Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?",
+      "description": "Anthropic said this week that it limited the release of its newest model, dubbed Mythos, because it is too capable of finding security exploits in",
+      "url": "https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/",
+      "publishedAt": "2026-04-09T18:50:05.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Tim Fernholz",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3110988",
+      "title": "Google and Intel deepen AI infrastructure partnership",
+      "description": "The two tech giants are looking to co-develop custom chips, at a time when demand for CPUs is high due to a growing global shortage.",
+      "url": "https://techcrunch.com/2026/04/09/google-and-intel-deepen-ai-infrastructure-partnership/",
+      "publishedAt": "2026-04-09T18:27:47.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Rebecca Szkutak",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3110945",
+      "title": "How to make the Startup Battlefield Top 20 — and what every company gets regardless",
+      "description": "Every founder who applies to Startup Battlefield wants the same thing: the Disrupt Main Stage. Here’s how to get there and why the opportunity starts",
+      "url": "https://techcrunch.com/2026/04/09/how-to-make-the-startup-battlefield-top-20-and-what-every-company-gets-regardless/",
+      "publishedAt": "2026-04-09T18:01:48.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Isabelle Johannessen",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3110974",
+      "title": "You can now edit your Instagram comments",
+      "description": "Instagram users can now edit comments, which is a long-awaited fix for anyone who’s ever had to delete and re-post a comment just to fix a typo.",
+      "url": "https://techcrunch.com/2026/04/09/you-can-now-edit-your-instagram-comments/",
+      "publishedAt": "2026-04-09T17:49:57.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lauren Forristal",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3110892",
+      "title": "Sierra’s Bret Taylor says the era of clicking buttons is over",
+      "description": "Last month, Sierra launched Ghostwriter, an agent designed to build other agents. With this “agent as a service” tool, the startup intends to replace",
+      "url": "https://techcrunch.com/2026/04/09/sierras-bret-taylor-says-the-era-of-clicking-buttons-is-over/",
+      "publishedAt": "2026-04-09T17:20:50.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Marina Temkin",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3110834",
+      "title": "Avec’s Tinder-style email app allows you to swipe through your inbox",
+      "description": "Users can use the in-built voice transcription tool to reply to emails",
+      "url": "https://techcrunch.com/2026/04/09/avecs-tinder-styled-email-app-allows-you-to-swipe-through-your-inbox/",
+      "publishedAt": "2026-04-09T15:58:22.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Ivan Mehta",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3110872",
+      "title": "X brings back Voice Notes to X Chat",
+      "description": "X Chat brings back Voice Notes to DMs and group chats after removing the option during the upgrade.",
+      "url": "https://techcrunch.com/2026/04/09/x-brings-back-voice-notes-to-x-chat/",
+      "publishedAt": "2026-04-09T15:46:28.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sarah Perez",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3110879",
+      "title": "Hacker stole £700,000 from UK energy company by redirecting payment",
+      "description": "The U.K. energy company said a redirected payment meant for a contractor instead landed in a hacker's bank account.",
+      "url": "https://techcrunch.com/2026/04/09/hacker-stole-700000-from-u-k-energy-company-by-redirecting-payment/",
+      "publishedAt": "2026-04-09T15:31:10.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Zack Whittaker",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3110724",
+      "title": "Amazon CEO takes aim at Nvidia, Intel, Starlink, more in annual shareholder letter",
+      "description": "Andy Jassy's annual shareholder letter reads something like a diss track to a wide range of competitors as he defends spending $200 billion in capex.",
+      "url": "https://techcrunch.com/2026/04/09/amazon-ceo-takes-aim-at-nvidia-intel-starlink-more-in-annual-shareholder-letter/",
+      "publishedAt": "2026-04-09T14:27:57.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Julie Bort",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3110805",
+      "title": "Final 2 days to save up to $500 on your TechCrunch Disrupt 2026 ticket",
+      "description": "Ticket discounts of up to $500 will end tomorrow, April 10, at 11:59 p.m. PT. After that, prices for TechCrunch Disrupt 2026 go up again. Miss this,",
+      "url": "https://techcrunch.com/2026/04/09/final-2-days-to-save-up-to-500-on-your-techcrunch-disrupt-2026-ticket/",
+      "publishedAt": "2026-04-09T14:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "TechCrunch Events",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3110856",
+      "title": "Spotify now lets everyone turn off videos in its app",
+      "description": "The controls can be used to choose an audio-first experience on the app or a video-enhanced one, Spotify says.",
+      "url": "https://techcrunch.com/2026/04/09/spotify-now-lets-everyone-turn-off-all-videos-in-its-app/",
+      "publishedAt": "2026-04-09T13:49:56.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Aisha Malik",
+      "tags": []
+    }
+  ]
+}

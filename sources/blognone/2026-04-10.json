@@ -1,0 +1,50 @@
+{
+  "date": "2026-04-10",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "150231 at https://www.blognone.com",
+      "title": "YouTube Premium ประเทศไทย ขึ้นราคา แบบบุคคล 199 บาท ครอบครัวเป็น 399 บาท",
+      "description": "YouTube Premium ประเทศไทย ขึ้นราคา แบบบุคคล 199 บาท ครอบครัวเป็น 399 บาท Body YouTube ประกาศขึ้นราคาสมาชิก YouTube Premium อีกครั้ง",
+      "url": "https://www.blognone.com/node/150231",
+      "publishedAt": "2026-04-10T06:25:00.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150230 at https://www.blognone.com",
+      "title": "OpenAI บอกนักลงทุน - เรามี AI หาช่องโหว่ความปลอดภัยเหมือนกัน, กำลังประมวลผล Anthropic น้อยกว่ามาก",
+      "description": "OpenAI บอกนักลงทุน - เรามี AI หาช่องโหว่ความปลอดภัยเหมือนกัน, กำลังประมวลผล Anthropic น้อยกว่ามาก Body หลังการเปิดตัว Claude Mythos โมเดล AI ใหม่ของ",
+      "url": "https://www.blognone.com/node/150230",
+      "publishedAt": "2026-04-10T01:50:00.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150228 at https://www.blognone.com",
+      "title": "EFF ประกาศหยุดโพสต์บน X บอกแพลตฟอร์มกดรีชและข้อเสนอต่าง ๆ ไม่ได้รับการตอบสนอง",
+      "description": "EFF ประกาศหยุดโพสต์บน X บอกแพลตฟอร์มกดรีชและข้อเสนอต่าง ๆ ไม่ได้รับการตอบสนอง Body EFF (Electronic Frontier Foundation)",
+      "url": "https://www.blognone.com/node/150228",
+      "publishedAt": "2026-04-10T01:15:00.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150229 at https://www.blognone.com",
+      "title": "OpenAI ออกแพ็กเกจใหม่ \"ChatGPT Pro $100\" - ถูกกว่า Pro เดิมครึ่งหนึ่ง เน้นคนใช้งาน Codex",
+      "description": "OpenAI ออกแพ็กเกจใหม่ \"ChatGPT Pro $100\" - ถูกกว่า Pro เดิมครึ่งหนึ่ง เน้นคนใช้งาน Codex Body OpenAI ประกาศออกแพ็กเกจสมัครใช้งานตัวใหม่ ChatGPT Pro",
+      "url": "https://www.blognone.com/node/150229",
+      "publishedAt": "2026-04-10T00:38:49.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}

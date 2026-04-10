@@ -36,6 +36,17 @@
       "tags": []
     },
     {
+      "id": "spdk2d",
+      "title": "Show HN: Druids – Build your own software factory",
+      "description": "Score: 47 | Comments: 9 | Posted by etherio",
+      "url": "https://github.com/fulcrumresearch/druids",
+      "publishedAt": "2026-04-08T20:12:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "etherio",
+      "tags": []
+    },
+    {
       "id": "dj0yoc",
       "title": "USB for Software Developers: An introduction to writing userspace USB drivers",
       "description": "Score: 259 | Comments: 31 | Posted by WerWolv",
@@ -165,6 +176,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "pabs3",
+      "tags": []
+    },
+    {
+      "id": "d80wvq",
+      "title": "LLM plays an 8-bit Commander X16 game using structured \"smart senses\"",
+      "description": "Score: 20 | Comments: 2 | Posted by russellharper",
+      "url": "https://pvp-ai.russell-harper.com",
+      "publishedAt": "2026-04-08T12:56:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "russellharper",
       "tags": []
     },
     {
@@ -308,6 +330,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "nnx",
+      "tags": []
+    },
+    {
+      "id": "ifpno8",
+      "title": "VFX HQ: Visual Effects Headquarters (2000)",
+      "description": "Score: 4 | Comments: 0 | Posted by exvi",
+      "url": "https://www.vfxhq.com/index.html",
+      "publishedAt": "2026-04-08T00:17:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "exvi",
       "tags": []
     }
   ]

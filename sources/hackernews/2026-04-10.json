@@ -1,0 +1,105 @@
+{
+  "date": "2026-04-10",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "gymwtp",
+      "title": "YouTube locked my accounts and I can't cancel my subscription",
+      "description": "Score: 7 | Comments: 1 | Posted by digitalhigh",
+      "url": "https://pocketables.com/2026/04/ai-music-corporate-control-and-the-creator-who-cant-even-leave.html",
+      "publishedAt": "2026-04-10T05:03:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "digitalhigh",
+      "tags": []
+    },
+    {
+      "id": "u8t58c",
+      "title": "First man convicted under Take It Down Act kept making AI nudes after arrest",
+      "description": "Score: 9 | Comments: 0 | Posted by tzs",
+      "url": "https://arstechnica.com/tech-policy/2026/04/first-man-convicted-under-take-it-down-act-kept-making-ai-nudes-after-arrest/",
+      "publishedAt": "2026-04-10T04:40:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tzs",
+      "tags": []
+    },
+    {
+      "id": "bkoxvo",
+      "title": "Afrika Bambaataa, hip-hop pioneer, has died",
+      "description": "Score: 71 | Comments: 9 | Posted by mellosouls",
+      "url": "https://www.bbc.co.uk/news/articles/c2evppm30p7o",
+      "publishedAt": "2026-04-10T04:17:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mellosouls",
+      "tags": []
+    },
+    {
+      "id": "iwqyey",
+      "title": "Installing OpenBSD on the Pomera DM250{,XY?}",
+      "description": "Score: 9 | Comments: 0 | Posted by jandeboevrie",
+      "url": "https://jcs.org/2026/04/09/openbsd-dm250",
+      "publishedAt": "2026-04-10T03:29:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jandeboevrie",
+      "tags": []
+    },
+    {
+      "id": "9tppl9",
+      "title": "The Raft Consensus Algorithm Explained Through \"Mean Girls\"",
+      "description": "Score: 62 | Comments: 16 | Posted by vermilingua",
+      "url": "https://www.cockroachlabs.com/blog/raft-is-so-fetch/",
+      "publishedAt": "2026-04-10T03:03:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vermilingua",
+      "tags": []
+    },
+    {
+      "id": "81fl0f",
+      "title": "I still prefer MCP over skills",
+      "description": "Score: 62 | Comments: 66 | Posted by gmays",
+      "url": "https://david.coffee/i-still-prefer-mcp-over-skills/",
+      "publishedAt": "2026-04-10T02:01:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gmays",
+      "tags": []
+    },
+    {
+      "id": "lhb3l2",
+      "title": "We've raised $17M to build what comes after Git",
+      "description": "Score: 56 | Comments: 79 | Posted by ellieh",
+      "url": "https://blog.gitbutler.com/series-a",
+      "publishedAt": "2026-04-10T01:52:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ellieh",
+      "tags": []
+    },
+    {
+      "id": "p2koli",
+      "title": "Microsoft PhotoDNA scanning problem",
+      "description": "Score: 95 | Comments: 43 | Posted by darkzek",
+      "url": "https://www.elevenforum.com/t/microsoft-photodna-scanning-problem-it-is-comical-now.45961/",
+      "publishedAt": "2026-04-10T01:09:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "darkzek",
+      "tags": []
+    },
+    {
+      "id": "5rapnl",
+      "title": "New iPhone age and identity checks restrict internet freedom in the UK",
+      "description": "Score: 175 | Comments: 84 | Posted by josephcsible",
+      "url": "https://bigbrotherwatch.org.uk/blog/apples-new-iphone-update-is-restricting-internet-freedom-in-the-uk/",
+      "publishedAt": "2026-04-10T00:50:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "josephcsible",
+      "tags": []
+    }
+  ]
+}
