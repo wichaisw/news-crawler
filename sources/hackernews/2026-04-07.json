@@ -245,6 +245,17 @@
       "tags": []
     },
     {
+      "id": "axlc48",
+      "title": "Mysteries of Dropbox: Testing of a Distributed Sync Service (2016) [pdf]",
+      "description": "Score: 103 | Comments: 23 | Posted by JackeJR",
+      "url": "https://www.cis.upenn.edu/~bcpierce/papers/mysteriesofdropbox.pdf",
+      "publishedAt": "2026-04-07T14:41:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "JackeJR",
+      "tags": []
+    },
+    {
       "id": "d2235i",
       "title": "Generative art over the years",
       "description": "Score: 95 | Comments: 24 | Posted by evakhoury",
@@ -388,6 +399,17 @@
       "tags": []
     },
     {
+      "id": "yoddo5",
+      "title": "Static code analysis in Kotlin – tools overview",
+      "description": "Score: 3 | Comments: 0 | Posted by karmazyn",
+      "url": "https://blog.allegro.tech/2026/03/static-code-analysis-kotlin.html",
+      "publishedAt": "2026-04-07T10:03:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "karmazyn",
+      "tags": []
+    },
+    {
       "id": "hp8zyx",
       "title": "Every GPU That Mattered",
       "description": "Score: 311 | Comments: 195 | Posted by jonbaer",
@@ -429,6 +451,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "JMill",
+      "tags": []
+    },
+    {
+      "id": "bf7b82",
+      "title": "Clojure on Fennel Part One: Persistent Data Structures",
+      "description": "Score: 146 | Comments: 13 | Posted by roxolotl",
+      "url": "https://andreyor.st/posts/2026-04-07-clojure-on-fennel-part-one-persistent-data-structures/",
+      "publishedAt": "2026-04-07T02:09:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "roxolotl",
       "tags": []
     },
     {

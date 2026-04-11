@@ -212,6 +212,17 @@
       "tags": []
     },
     {
+      "id": "rh7r3l",
+      "title": "The best seat in town",
+      "description": "Score: 39 | Comments: 13 | Posted by NaOH",
+      "url": "https://www.torched.la/the-best-seat-in-town/",
+      "publishedAt": "2026-04-09T15:43:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "NaOH",
+      "tags": []
+    },
+    {
       "id": "6xolpw",
       "title": "How NASA built Artemis II’s fault-tolerant computer",
       "description": "Score: 267 | Comments: 87 | Posted by speckx",
@@ -220,6 +231,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "speckx",
+      "tags": []
+    },
+    {
+      "id": "od27dl",
+      "title": "PGLite Evangelism",
+      "description": "Score: 53 | Comments: 9 | Posted by surprisetalk",
+      "url": "https://substack.com/home/post/p-193415720",
+      "publishedAt": "2026-04-09T13:53:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
       "tags": []
     },
     {
@@ -278,6 +300,17 @@
       "tags": []
     },
     {
+      "id": "kn18o8",
+      "title": "The Bra-and-Girdle Maker That Fashioned the Impossible for NASA",
+      "description": "Score: 75 | Comments: 4 | Posted by sohkamyung",
+      "url": "https://thereader.mitpress.mit.edu/the-bra-and-girdle-maker-that-fashioned-the-impossible-for-nasa/",
+      "publishedAt": "2026-04-09T10:28:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sohkamyung",
+      "tags": []
+    },
+    {
       "id": "dk1owb",
       "title": "Top laptops to use with FreeBSD",
       "description": "Score: 309 | Comments: 174 | Posted by fork-bomber",
@@ -311,6 +344,17 @@
       "tags": []
     },
     {
+      "id": "34rrnv",
+      "title": "A practical guide for setting up Zettelkasten method in Obsidian",
+      "description": "Score: 32 | Comments: 12 | Posted by rkrizanovskis",
+      "url": "https://desktopcommander.app/blog/zettelkasten-obsidian/",
+      "publishedAt": "2026-04-09T07:58:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rkrizanovskis",
+      "tags": []
+    },
+    {
       "id": "4x9r0y",
       "title": "Open Source Security at Astral",
       "description": "Score: 96 | Comments: 12 | Posted by vinhnx",
@@ -341,6 +385,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "JumpCrisscross",
+      "tags": []
+    },
+    {
+      "id": "euxtja",
+      "title": "Starfling: A one-tap endless orbital slingshot game in a single HTML file",
+      "description": "Score: 36 | Comments: 15 | Posted by iceberger2001",
+      "url": "https://playstarfling.com",
+      "publishedAt": "2026-04-09T01:52:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "iceberger2001",
+      "tags": []
+    },
+    {
+      "id": "ctimo4",
+      "title": "Bevy game development tutorials and in-depth resources",
+      "description": "Score: 61 | Comments: 8 | Posted by GenericCanadian",
+      "url": "https://taintedcoders.com/",
+      "publishedAt": "2026-04-09T00:58:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "GenericCanadian",
       "tags": []
     },
     {

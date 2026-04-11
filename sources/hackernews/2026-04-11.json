@@ -1,0 +1,72 @@
+{
+  "date": "2026-04-11",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "aeu5gs",
+      "title": "20 Years on AWS and Never Not My Jobdaemonology.net",
+      "description": "Score: 51 | Comments: 3 | Posted by cperciva",
+      "url": "https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html",
+      "publishedAt": "2026-04-11T05:32:17.086Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cperciva",
+      "tags": []
+    },
+    {
+      "id": "aeu5gs",
+      "title": "20 Years on AWS and Never Not My Job",
+      "description": "Score: 51 | Comments: 3 | Posted by cperciva",
+      "url": "https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html",
+      "publishedAt": "2026-04-11T05:31:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cperciva",
+      "tags": []
+    },
+    {
+      "id": "8io7yt",
+      "title": "Great at gaming? US air traffic control wants you to apply",
+      "description": "Score: 4 | Comments: 1 | Posted by 1659447091",
+      "url": "https://www.bbc.com/news/articles/ce84rvx0e6do",
+      "publishedAt": "2026-04-11T05:04:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "1659447091",
+      "tags": []
+    },
+    {
+      "id": "r7cgnm",
+      "title": "The Seasons Are Wrong",
+      "description": "Score: 3 | Comments: 6 | Posted by NikxDa",
+      "url": "https://kentwalters.com/posts/seasons/",
+      "publishedAt": "2026-04-11T04:25:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "NikxDa",
+      "tags": []
+    },
+    {
+      "id": "4uf65x",
+      "title": "Quien – A better WHOIS lookup tool",
+      "description": "Score: 18 | Comments: 4 | Posted by bretthopper",
+      "url": "https://github.com/retlehs/quien/",
+      "publishedAt": "2026-04-11T03:31:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bretthopper",
+      "tags": []
+    },
+    {
+      "id": "agb1cr",
+      "title": "Artemis II safely splashes down",
+      "description": "Score: 738 | Comments: 253 | Posted by areoform",
+      "url": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/",
+      "publishedAt": "2026-04-11T00:10:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "areoform",
+      "tags": []
+    }
+  ]
+}

@@ -36,6 +36,17 @@
       "tags": []
     },
     {
+      "id": "2h8vgg",
+      "title": "Simulating a 2D Quadcopter from Scratch",
+      "description": "Score: 22 | Comments: 8 | Posted by daww",
+      "url": "https://mrandri19.github.io/2026/04/03/2d-quadcopter-simulation.html",
+      "publishedAt": "2026-04-08T20:25:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "daww",
+      "tags": []
+    },
+    {
       "id": "spdk2d",
       "title": "Show HN: Druids – Build your own software factory",
       "description": "Score: 47 | Comments: 9 | Posted by etherio",
@@ -146,6 +157,28 @@
       "tags": []
     },
     {
+      "id": "48c1oy",
+      "title": "What is RISC-V and why it matters to Canonical",
+      "description": "Score: 119 | Comments: 75 | Posted by fork-bomber",
+      "url": "https://ubuntu.com/blog/risc-v-101-what-is-it-and-what-does-it-mean-for-canonical",
+      "publishedAt": "2026-04-08T15:26:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fork-bomber",
+      "tags": []
+    },
+    {
+      "id": "7ftqam",
+      "title": "Vinyl Cache and Varnish Cache",
+      "description": "Score: 39 | Comments: 7 | Posted by Foxboron",
+      "url": "https://vinyl-cache.org/organization/on_vinyl_cache_and_varnish_cache.html",
+      "publishedAt": "2026-04-08T15:20:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Foxboron",
+      "tags": []
+    },
+    {
       "id": "7j9lcv",
       "title": "Microsoft terminates VeraCrypt account, halting Windows updates",
       "description": "Score: 513 | Comments: 190 | Posted by donohoe",
@@ -165,6 +198,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "rvitorper",
+      "tags": []
+    },
+    {
+      "id": "z2z3nw",
+      "title": "A security scanner as fast as a linter – written in Rust",
+      "description": "Score: 50 | Comments: 11 | Posted by peaktwilight",
+      "url": "https://github.com/peaktwilight/foxguard",
+      "publishedAt": "2026-04-08T14:05:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "peaktwilight",
       "tags": []
     },
     {
@@ -264,6 +308,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "super256",
+      "tags": []
+    },
+    {
+      "id": "pyizcm",
+      "title": "Investigating Split Locks on x86-64",
+      "description": "Score: 46 | Comments: 10 | Posted by ingve",
+      "url": "https://chipsandcheese.com/p/investigating-split-locks-on-x86",
+      "publishedAt": "2026-04-08T06:06:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingve",
       "tags": []
     },
     {
