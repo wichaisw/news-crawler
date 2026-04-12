@@ -377,6 +377,28 @@
       "tags": []
     },
     {
+      "id": "nffnpv",
+      "title": "The Soul of an Old Machine",
+      "description": "Score: 45 | Comments: 10 | Posted by mskalski",
+      "url": "https://skalski.dev/the-soul-of-an-old-machine/",
+      "publishedAt": "2026-04-07T12:30:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mskalski",
+      "tags": []
+    },
+    {
+      "id": "9ujbu8",
+      "title": "What is a property?",
+      "description": "Score: 67 | Comments: 19 | Posted by alpaylan",
+      "url": "https://alperenkeles.com/posts/what-is-a-property/",
+      "publishedAt": "2026-04-07T12:16:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "alpaylan",
+      "tags": []
+    },
+    {
       "id": "642ctn",
       "title": "Show HN: Brutalist Concrete Laptop Stand (2024)",
       "description": "Score: 745 | Comments: 227 | Posted by sam-bee",
@@ -385,6 +407,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "sam-bee",
+      "tags": []
+    },
+    {
+      "id": "j4i8su",
+      "title": "How Complex is my Code?",
+      "description": "Score: 84 | Comments: 15 | Posted by speckx",
+      "url": "https://philodev.one/posts/2026-04-code-complexity/",
+      "publishedAt": "2026-04-07T10:44:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
+      "tags": []
+    },
+    {
+      "id": "f01pls",
+      "title": "Pijul a FOSS distributed version control system",
+      "description": "Score: 119 | Comments: 22 | Posted by kouosi",
+      "url": "https://pijul.org/",
+      "publishedAt": "2026-04-07T10:16:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kouosi",
       "tags": []
     },
     {
@@ -410,6 +454,28 @@
       "tags": []
     },
     {
+      "id": "xk8bpq",
+      "title": "Tofolli gates are all you need",
+      "description": "Score: 9 | Comments: 0 | Posted by ibobev",
+      "url": "https://www.johndcook.com/blog/2026/04/06/tofolli-gates/",
+      "publishedAt": "2026-04-07T09:40:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
+      "tags": []
+    },
+    {
+      "id": "hks0s4",
+      "title": "Simplest Hash Functions",
+      "description": "Score: 18 | Comments: 8 | Posted by ibobev",
+      "url": "https://purplesyringa.moe/blog/simplest-hash-functions/",
+      "publishedAt": "2026-04-07T09:40:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
+      "tags": []
+    },
+    {
       "id": "hp8zyx",
       "title": "Every GPU That Mattered",
       "description": "Score: 311 | Comments: 195 | Posted by jonbaer",
@@ -418,6 +484,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jonbaer",
+      "tags": []
+    },
+    {
+      "id": "g9eup",
+      "title": "Building Slogbox",
+      "description": "Score: 12 | Comments: 1 | Posted by zimpenfish",
+      "url": "https://alexrios.me/blog/slogbox-devlog/",
+      "publishedAt": "2026-04-07T08:23:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zimpenfish",
       "tags": []
     },
     {

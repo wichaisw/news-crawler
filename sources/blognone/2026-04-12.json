@@ -1,0 +1,50 @@
+{
+  "date": "2026-04-12",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "150246 at https://www.blognone.com",
+      "title": "OpenAI ซื้อ Cirrus Labs ผู้สร้างระบบ CI/CD บน Apple Silicon เลิกขายซอฟต์แวร์ทั้งหมดแล้วแจกฟรี",
+      "description": "OpenAI ซื้อ Cirrus Labs ผู้สร้างระบบ CI/CD บน Apple Silicon เลิกขายซอฟต์แวร์ทั้งหมดแล้วแจกฟรี Body OpenAI เข้าซื้อบริษัท Cirrus Labs ผู้สร้างระบบ",
+      "url": "https://www.blognone.com/node/150246",
+      "publishedAt": "2026-04-12T06:08:29.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150245 at https://www.blognone.com",
+      "title": "MiniMax-M2.7 เปิดโมเดลให้ดาวน์โหลด แต่เปลี่ยนไลเซนส์ห้ามใช้เพื่อการค้า",
+      "description": "MiniMax-M2.7 เปิดโมเดลให้ดาวน์โหลด แต่เปลี่ยนไลเซนส์ห้ามใช้เพื่อการค้า Body MiniMax บริษัทพัฒนาปัญญาประดิษฐ์จากจีน ปล่อยโมเดล MiniMax-M2.7",
+      "url": "https://www.blognone.com/node/150245",
+      "publishedAt": "2026-04-12T05:40:45.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150244 at https://www.blognone.com",
+      "title": "Z.ai ขึ้นราคาแพ็กเกจรายเดือน หลังเปิดตัว GLM-5.1 นับจากช่วงเปิดตัวขึ้นมาแล้ว 6 เท่าตัว",
+      "description": "Z.ai ขึ้นราคาแพ็กเกจรายเดือน หลังเปิดตัว GLM-5.1 นับจากช่วงเปิดตัวขึ้นมาแล้ว 6 เท่าตัว Body Z.ai ผู้พัฒนาโมเดลปัญญาประดิษฐ์ตระกูล GLM",
+      "url": "https://www.blognone.com/node/150244",
+      "publishedAt": "2026-04-12T05:16:40.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150243 at https://www.blognone.com",
+      "title": "Gmail เพิ่มการเข้ารหัส E2EE สำหรับบัญชี Workspace ในแอป Android, iOS แล้ว",
+      "description": "Gmail เพิ่มการเข้ารหัส E2EE สำหรับบัญชี Workspace ในแอป Android, iOS แล้ว Body กูเกิลประกาศเพิ่มการเข้ารหัสแบบ End-to-end (E2EE) สำหรับคนใช้งาน Gmail",
+      "url": "https://www.blognone.com/node/150243",
+      "publishedAt": "2026-04-12T03:41:10.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}

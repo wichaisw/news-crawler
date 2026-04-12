@@ -1,0 +1,105 @@
+{
+  "date": "2026-04-12",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "3fkrtp",
+      "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
+      "description": "Score: 63 | Comments: 33 | Posted by Jimmc414",
+      "url": "https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional",
+      "publishedAt": "2026-04-12T05:08:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Jimmc414",
+      "tags": []
+    },
+    {
+      "id": "91k3gq",
+      "title": "Method to reverse cellular ageing is about to be tested in humans",
+      "description": "Score: 14 | Comments: 0 | Posted by jawiggins",
+      "url": "https://www.nature.com/articles/d41586-026-01024-7",
+      "publishedAt": "2026-04-12T05:06:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jawiggins",
+      "tags": []
+    },
+    {
+      "id": "qpehgw",
+      "title": "Emergency Prices: How Private Equity Captured the Ambulance Market",
+      "description": "Score: 5 | Comments: 0 | Posted by walterbell",
+      "url": "https://www.thebignewsletter.com/p/code-red-why-your-city-cant-affordor",
+      "publishedAt": "2026-04-12T04:42:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "walterbell",
+      "tags": []
+    },
+    {
+      "id": "d4c335",
+      "title": "Why meaningful days look like nothing while you are living them",
+      "description": "Score: 13 | Comments: 3 | Posted by momentmaker",
+      "url": "https://pilgrima.ge/p/the-grand-line",
+      "publishedAt": "2026-04-12T03:04:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "momentmaker",
+      "tags": []
+    },
+    {
+      "id": "34h23g",
+      "title": "Building a Z-Machine in the worst possible language – Whitebeard's Realm",
+      "description": "Score: 15 | Comments: 0 | Posted by techbelly",
+      "url": "https://whitebeard.blog/posts/building-a-z-machine-in-elm/",
+      "publishedAt": "2026-04-12T02:57:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "techbelly",
+      "tags": []
+    },
+    {
+      "id": "jcnftb",
+      "title": "The End of Eleventybrennan.day",
+      "description": "Score: 120 | Comments: 68 | Posted by ValentineC",
+      "url": "https://brennan.day/the-end-of-eleventy/",
+      "publishedAt": "2026-04-12T02:38:39.612Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ValentineC",
+      "tags": []
+    },
+    {
+      "id": "truqe2",
+      "title": "How a dancer with ALS used brainwaves to perform live",
+      "description": "Score: 25 | Comments: 1 | Posted by 1659447091",
+      "url": "https://www.electronicspecifier.com/products/sensors/how-a-dancer-with-als-used-brainwaves-to-perform-live/",
+      "publishedAt": "2026-04-12T02:09:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "1659447091",
+      "tags": []
+    },
+    {
+      "id": "jcnftb",
+      "title": "The End of Eleventy",
+      "description": "Score: 120 | Comments: 68 | Posted by ValentineC",
+      "url": "https://brennan.day/the-end-of-eleventy/",
+      "publishedAt": "2026-04-12T01:55:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ValentineC",
+      "tags": []
+    },
+    {
+      "id": "p3jjvs",
+      "title": "Software Preservation Group: C++ History Collection",
+      "description": "Score: 15 | Comments: 1 | Posted by quuxplusone",
+      "url": "https://softwarepreservation.computerhistory.org/c_plus_plus/",
+      "publishedAt": "2026-04-12T01:24:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "quuxplusone",
+      "tags": []
+    }
+  ]
+}

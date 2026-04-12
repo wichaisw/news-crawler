@@ -58,6 +58,17 @@
       "tags": []
     },
     {
+      "id": "xu3f22",
+      "title": "Optimal Strategy for Connect 4",
+      "description": "Score: 281 | Comments: 31 | Posted by marvinborner",
+      "url": "https://2swap.github.io/WeakC4/explanation/",
+      "publishedAt": "2026-04-08T19:37:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "marvinborner",
+      "tags": []
+    },
+    {
       "id": "dj0yoc",
       "title": "USB for Software Developers: An introduction to writing userspace USB drivers",
       "description": "Score: 259 | Comments: 31 | Posted by WerWolv",
@@ -77,6 +88,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "frizlab",
+      "tags": []
+    },
+    {
+      "id": "nrfnn9",
+      "title": "Every plane you see in the sky – you can now follow it from the cockpit in 3D",
+      "description": "Score: 307 | Comments: 58 | Posted by coolwulf",
+      "url": "https://flight-viz.com/cockpit.html?lat=40.64&lon=-73.78&alt=3000&hdg=220&spd=130&cs=DAL123",
+      "publishedAt": "2026-04-08T18:10:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "coolwulf",
       "tags": []
     },
     {
@@ -110,6 +132,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "gmays",
+      "tags": []
+    },
+    {
+      "id": "ximwmn",
+      "title": "Surelock: Deadlock-Free Mutexes for Rust",
+      "description": "Score: 201 | Comments: 66 | Posted by codetheweb",
+      "url": "https://notes.brooklynzelenka.com/Blog/Surelock",
+      "publishedAt": "2026-04-08T17:36:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "codetheweb",
       "tags": []
     },
     {
@@ -212,6 +245,17 @@
       "tags": []
     },
     {
+      "id": "z6g4xw",
+      "title": "How much linear memory access is enough?",
+      "description": "Score: 75 | Comments: 13 | Posted by PhilipTrettner",
+      "url": "https://solidean.com/blog/2026/how-much-linear-memory-access-is-enough/",
+      "publishedAt": "2026-04-08T13:16:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "PhilipTrettner",
+      "tags": []
+    },
+    {
       "id": "hka0z4",
       "title": "ML promises to be profoundly weird",
       "description": "Score: 458 | Comments: 464 | Posted by pabs3",
@@ -275,6 +319,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "surprisetalk",
+      "tags": []
+    },
+    {
+      "id": "f5jhiu",
+      "title": "Volunteers turn a fan's recordings of 10K concerts into an online treasure trove",
+      "description": "Score: 358 | Comments: 72 | Posted by geox",
+      "url": "https://apnews.com/article/aadam-jacobs-collection-concerts-internet-archive-chicago-b1c9c4466a2db409a83523ad84b79d62",
+      "publishedAt": "2026-04-08T09:11:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "geox",
       "tags": []
     },
     {

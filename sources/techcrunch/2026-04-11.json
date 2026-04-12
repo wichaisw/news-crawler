@@ -3,6 +3,50 @@
   "source": "techcrunch",
   "articles": [
     {
+      "id": "https://techcrunch.com/?p=3111689",
+      "title": "Kalshi wins temporary pause in Arizona criminal case",
+      "description": "The Commodity Futures Trading Commission announced Friday that it has won a temporary restraining order preventing Arizona from pursuing its criminal",
+      "url": "https://techcrunch.com/2026/04/11/kalshi-wins-temporary-pause-in-arizona-criminal-case/",
+      "publishedAt": "2026-04-11T21:20:24.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3111686",
+      "title": "AMC will stream ‘The Audacity’ premiere in 21 parts on TikTok",
+      "description": "Is this a smart way to build buzz, or just an odd attempt to recreate Quibi?",
+      "url": "https://techcrunch.com/2026/04/11/amc-will-stream-the-audacity-premiere-in-21-parts-on-tiktok/",
+      "publishedAt": "2026-04-11T20:32:23.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3111667",
+      "title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
+      "description": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his",
+      "url": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
+      "publishedAt": "2026-04-11T17:18:22.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3111572",
+      "title": "Nvidia-backed SiFive hits $3.65 billion valuation for open AI chips",
+      "description": "The deal is interesting for a number of reasons, including that SiFive's chip designs are based on RISC-V, not x86 or ARM.",
+      "url": "https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-3-65-billion-valuation-for-open-ai-chips/",
+      "publishedAt": "2026-04-11T14:03:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Julie Bort",
+      "tags": []
+    },
+    {
       "id": "https://techcrunch.com/?p=3111631",
       "title": "NASA Artemis II splashes down in Pacific Ocean in ‘perfect’ landing for Moon mission",
       "description": "The Integrity craft splashed down in the Pacific Ocean off the coast of San Diego just after 5:07 p.m. Pacific Time.",
