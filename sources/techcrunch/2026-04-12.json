@@ -3,6 +3,83 @@
   "source": "techcrunch",
   "articles": [
     {
+      "id": "https://techcrunch.com/?p=3111711",
+      "title": "Trump officials may be encouraging banks to test Anthropic’s Mythos model",
+      "description": "The report is particularly surprising since the Department of Defense recently declared Anthropic a supply-chain risk.",
+      "url": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
+      "publishedAt": "2026-04-12T21:14:38.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3111709",
+      "title": "Apple reportedly testing four designs for upcoming smart glasses",
+      "description": "These glasses are a step back from an ambitious plan that once called for Apple to launch a variety of mixed and augmented reality devices.",
+      "url": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/",
+      "publishedAt": "2026-04-12T19:58:42.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3111704",
+      "title": "X says it’s reducing payments to clickbait accounts",
+      "description": "X is cutting back on payments to accounts that are “flooding the timeline” with clickbait and rapid-fire news aggregation, according to its head of",
+      "url": "https://techcrunch.com/2026/04/12/x-says-its-reducing-payments-to-clickbait-accounts/",
+      "publishedAt": "2026-04-12T17:02:20.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3111457",
+      "title": "TechCrunch Mobility: Who is poaching all the self-driving vehicle talent?",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+      "url": "https://techcrunch.com/2026/04/12/techcrunch-mobility-who-is-poaching-all-the-self-driving-vehicle-talent/",
+      "publishedAt": "2026-04-12T16:06:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Kirsten Korosec",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=2973217",
+      "title": "From LLMs to hallucinations, here’s a simple guide to common AI terms",
+      "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases",
+      "url": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "publishedAt": "2026-04-12T15:07:08.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Natasha Lomas, Romain Dillet, Kyle Wiggers, Lucas Ropek",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3111422",
+      "title": "At the HumanX conference, everyone was talking about Claude",
+      "description": "Anthropic was the star of the show at San Francisco's AI-centric conference.",
+      "url": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
+      "publishedAt": "2026-04-12T15:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lucas Ropek",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3026383",
+      "title": "Slate Auto: Everything you need to know about the Bezos-backed EV startup",
+      "description": "Slate auto burst onto the scene in April 2025. Here is a timeline that covers its origins, backers, product, and other new details.",
+      "url": "https://techcrunch.com/2026/04/12/slate-auto-everything-you-need-to-know-about-the-bezos-backed-ev-startup/",
+      "publishedAt": "2026-04-12T14:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sean O'Kane",
+      "tags": []
+    },
+    {
       "id": "https://techcrunch.com/?p=3111566",
       "title": "Walmart-owned Flipkart, Amazon are squeezing India’s quick commerce startups",
       "description": "Flipkart's ongoing expansion beyond major cities and heavy discounting is raising risks for India's quick commerce startups, analysts say.",

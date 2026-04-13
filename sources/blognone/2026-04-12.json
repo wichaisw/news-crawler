@@ -3,6 +3,39 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "150249 at https://www.blognone.com",
+      "title": "Apple อัปเดต macOS Tahoe 26.4.1 แก้ไขปัญหาเชื่อมต่อ Wi-Fi ของ MacBook Air, Pro รุ่น M5",
+      "description": "Apple อัปเดต macOS Tahoe 26.4.1 แก้ไขปัญหาเชื่อมต่อ Wi-Fi ของ MacBook Air, Pro รุ่น M5 Body แอปเปิลออกอัปเดต macOS Tahoe 26.4.1 หนึ่งวันหลังจากออก",
+      "url": "https://www.blognone.com/node/150249",
+      "publishedAt": "2026-04-12T10:48:00.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150250 at https://www.blognone.com",
+      "title": "Instagram สามารถแก้ไขข้อความในคอมเมนต์ได้แล้ว ต้องทำภายใน 15 นาที",
+      "description": "Instagram สามารถแก้ไขข้อความในคอมเมนต์ได้แล้ว ต้องทำภายใน 15 นาที Body Instagram ประกาศเพิ่มฟีเจอร์ที่ผู้ใช้งานเรียกร้องเข้ามามากตัวหนึ่ง",
+      "url": "https://www.blognone.com/node/150250",
+      "publishedAt": "2026-04-12T10:45:41.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150247 at https://www.blognone.com",
+      "title": "โครงการ Linux Kernel ประกาศให้ส่งโค้ดที่เขียนด้วย AI เข้ามาได้ แต่ต้องมีมนุษย์รับผิดชอบในโค้ดนั้น",
+      "description": "โครงการ Linux Kernel ประกาศให้ส่งโค้ดที่เขียนด้วย AI เข้ามาได้ แต่ต้องมีมนุษย์รับผิดชอบในโค้ดนั้น Body โครงการพัฒนาเคอร์เนล Linux บน GitHub เพิ่มเติม",
+      "url": "https://www.blognone.com/node/150247",
+      "publishedAt": "2026-04-12T09:39:28.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "150246 at https://www.blognone.com",
       "title": "OpenAI ซื้อ Cirrus Labs ผู้สร้างระบบ CI/CD บน Apple Silicon เลิกขายซอฟต์แวร์ทั้งหมดแล้วแจกฟรี",
       "description": "OpenAI ซื้อ Cirrus Labs ผู้สร้างระบบ CI/CD บน Apple Silicon เลิกขายซอฟต์แวร์ทั้งหมดแล้วแจกฟรี Body OpenAI เข้าซื้อบริษัท Cirrus Labs ผู้สร้างระบบ",

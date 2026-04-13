@@ -1,0 +1,127 @@
+{
+  "date": "2026-04-13",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "bqqyhk",
+      "title": "The AI Layoff Trap",
+      "description": "Score: 36 | Comments: 27 | Posted by armcat",
+      "url": "https://arxiv.org/abs/2603.20617",
+      "publishedAt": "2026-04-13T05:56:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "armcat",
+      "tags": []
+    },
+    {
+      "id": "6itov8",
+      "title": "The Economics of Software Teams: Why Most Engineering Orgs Are Flying Blindviktorcessan.com",
+      "description": "Score: 21 | Comments: 0 | Posted by kiyanwang",
+      "url": "https://www.viktorcessan.com/the-economics-of-software-teams/",
+      "publishedAt": "2026-04-13T05:52:15.822Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kiyanwang",
+      "tags": []
+    },
+    {
+      "id": "6itov8",
+      "title": "The Economics of Software Teams: Why Most Engineering Orgs Are Flying Blind",
+      "description": "Score: 21 | Comments: 0 | Posted by kiyanwang",
+      "url": "https://www.viktorcessan.com/the-economics-of-software-teams/",
+      "publishedAt": "2026-04-13T05:45:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kiyanwang",
+      "tags": []
+    },
+    {
+      "id": "jjecfe",
+      "title": "X Randomly Banning Users for \"Inauthentic Behavior\"",
+      "description": "Score: 15 | Comments: 6 | Posted by crmrc114",
+      "url": "https://old.reddit.com/r/LinusTechTips/comments/1rsdk7i/anybody_here_talking_about_the_massive/",
+      "publishedAt": "2026-04-13T05:39:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "crmrc114",
+      "tags": []
+    },
+    {
+      "id": "f7vfxh",
+      "title": "Code Review Is the New Bottleneck for Engineering Teams",
+      "description": "Score: 5 | Comments: 0 | Posted by gpi",
+      "url": "https://newsletter.eng-leadership.com/p/code-review-is-the-new-bottleneck",
+      "publishedAt": "2026-04-13T04:31:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gpi",
+      "tags": []
+    },
+    {
+      "id": "2wmwsf",
+      "title": "A Canonical Generalization of OBDD",
+      "description": "Score: 5 | Comments: 1 | Posted by luu",
+      "url": "https://arxiv.org/abs/2604.05537",
+      "publishedAt": "2026-04-13T04:26:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "luu",
+      "tags": []
+    },
+    {
+      "id": "xrgr7i",
+      "title": "Haunt, the 70s text adventure game, is now playable on a website",
+      "description": "Score: 46 | Comments: 11 | Posted by jscalo",
+      "url": "https://haunt.madebywindmill.com",
+      "publishedAt": "2026-04-13T03:31:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jscalo",
+      "tags": []
+    },
+    {
+      "id": "f5ccyk",
+      "title": "Apple's accidental moat: How the \"AI Loser\" may end up winning",
+      "description": "Score: 124 | Comments: 118 | Posted by walterbell",
+      "url": "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end",
+      "publishedAt": "2026-04-13T02:53:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "walterbell",
+      "tags": []
+    },
+    {
+      "id": "bqq9xc",
+      "title": "All elementary functions from a single binary operatorarxiv.org",
+      "description": "Score: 240 | Comments: 78 | Posted by pizza",
+      "url": "https://arxiv.org/abs/2603.21852",
+      "publishedAt": "2026-04-13T01:52:15.820Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pizza",
+      "tags": []
+    },
+    {
+      "id": "bqq9xc",
+      "title": "All elementary functions from a single binary operator",
+      "description": "Score: 240 | Comments: 78 | Posted by pizza",
+      "url": "https://arxiv.org/abs/2603.21852",
+      "publishedAt": "2026-04-13T01:49:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pizza",
+      "tags": []
+    },
+    {
+      "id": "cqum9a",
+      "title": "State of Homelab 2026",
+      "description": "Score: 69 | Comments: 61 | Posted by swq115",
+      "url": "https://mrlokans.work/posts/state-of-homelab-2026/",
+      "publishedAt": "2026-04-13T01:42:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "swq115",
+      "tags": []
+    }
+  ]
+}
