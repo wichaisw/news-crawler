@@ -1,0 +1,160 @@
+{
+  "date": "2026-04-14",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "f3gbl6",
+      "title": "Can Claude Fly a Plane?",
+      "description": "Score: 8 | Comments: 0 | Posted by casi",
+      "url": "https://so.long.thanks.fish/can-claude-fly-a-plane/",
+      "publishedAt": "2026-04-14T06:32:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "casi",
+      "tags": []
+    },
+    {
+      "id": "tgdvfh",
+      "title": "Distributed DuckDB Instance",
+      "description": "Score: 4 | Comments: 1 | Posted by citguru",
+      "url": "https://github.com/citguru/openduck",
+      "publishedAt": "2026-04-14T06:31:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "citguru",
+      "tags": []
+    },
+    {
+      "id": "206vmx",
+      "title": "Roblox devs now need a subscription to share their games freely",
+      "description": "Score: 5 | Comments: 1 | Posted by hallole",
+      "url": "https://devforum.roblox.com/t/new-publishing-requirements-evaluation-process-for-games/4573166",
+      "publishedAt": "2026-04-14T06:04:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hallole",
+      "tags": []
+    },
+    {
+      "id": "37dy6x",
+      "title": "Multi-Agentic Software Development Is a Distributed Systems Problem",
+      "description": "Score: 9 | Comments: 1 | Posted by tie-in",
+      "url": "https://kirancodes.me/posts/log-distributed-llms.html",
+      "publishedAt": "2026-04-14T05:32:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tie-in",
+      "tags": []
+    },
+    {
+      "id": "exvdts",
+      "title": "UpDown: Efficient Manycore based on Many Threading & Scalable Memory Parallelism",
+      "description": "Score: 4 | Comments: 0 | Posted by matt_d",
+      "url": "https://people.cs.uchicago.edu/~aachien/lssg/research/10x10/ics26-single-chip-updown.pdf",
+      "publishedAt": "2026-04-14T05:29:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "matt_d",
+      "tags": []
+    },
+    {
+      "id": "x6yyut",
+      "title": "TanStack Start Now Support React Server Components",
+      "description": "Score: 23 | Comments: 20 | Posted by polywock",
+      "url": "https://tanstack.com/blog/react-server-components",
+      "publishedAt": "2026-04-14T05:28:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "polywock",
+      "tags": []
+    },
+    {
+      "id": "onf2vo",
+      "title": "Math Is Still Catching Up to the Mysterious Genius of Srinivasa Ramanujan (2024)",
+      "description": "Score: 38 | Comments: 0 | Posted by paulpauper",
+      "url": "https://www.quantamagazine.org/srinivasa-ramanujan-was-a-genius-math-is-still-catching-up-20241021/",
+      "publishedAt": "2026-04-14T04:39:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "paulpauper",
+      "tags": []
+    },
+    {
+      "id": "ofkf6z",
+      "title": "Google has a secret reference desk",
+      "description": "Score: 11 | Comments: 2 | Posted by maxutility",
+      "url": "https://cardcatalogforlife.substack.com/p/google-has-a-secret-reference-desk",
+      "publishedAt": "2026-04-14T04:05:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "maxutility",
+      "tags": []
+    },
+    {
+      "id": "sr90kl",
+      "title": "Hacker compromises A16Z-backed phone farm, calling them the 'antichrist'",
+      "description": "Score: 125 | Comments: 32 | Posted by wibbily",
+      "url": "https://www.404media.co/hacker-compromises-a16z-backed-phone-farm-tries-to-post-memes-calling-a16z-the-antichrist/",
+      "publishedAt": "2026-04-14T03:32:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wibbily",
+      "tags": []
+    },
+    {
+      "id": "djrbgc",
+      "title": "A new spam policy for \"back button hijacking\"",
+      "description": "Score: 201 | Comments: 105 | Posted by zdw",
+      "url": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
+      "publishedAt": "2026-04-14T03:06:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "ekfbb5",
+      "title": "Sometimes powerful people just do dumb shit",
+      "description": "Score: 104 | Comments: 30 | Posted by zdw",
+      "url": "https://www.joanwestenberg.com/sometimes-powerful-people-just-do-dumb-shit/",
+      "publishedAt": "2026-04-14T03:04:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "be5i6k",
+      "title": "DaVinci Resolve releases Photo Editor",
+      "description": "Score: 339 | Comments: 77 | Posted by thebiblelover7",
+      "url": "https://www.blackmagicdesign.com/products/davinciresolve/photo",
+      "publishedAt": "2026-04-14T02:25:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thebiblelover7",
+      "tags": []
+    },
+    {
+      "id": "i23qmz",
+      "title": "The Journal of C Language Translation",
+      "description": "Score: 13 | Comments: 1 | Posted by kristianp",
+      "url": "http://jclt.iecc.com/",
+      "publishedAt": "2026-04-14T01:12:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kristianp",
+      "tags": []
+    },
+    {
+      "id": "g5xwrp",
+      "title": "Lean proved this program correct; then I found a bug",
+      "description": "Score: 206 | Comments: 107 | Posted by bumbledraven",
+      "url": "https://kirancodes.me/posts/log-who-watches-the-watchers.html",
+      "publishedAt": "2026-04-14T00:25:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bumbledraven",
+      "tags": []
+    }
+  ]
+}

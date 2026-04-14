@@ -1,0 +1,28 @@
+{
+  "date": "2026-04-14",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3112039",
+      "title": "An Amazon warehouse worker died on the job at Oregon facility",
+      "description": "Though Amazon has faced issues with warehouse safety, the company said that the death was not work related.",
+      "url": "https://techcrunch.com/2026/04/13/an-amazon-warehouse-worker-died-on-the-job-at-oregon-facility/",
+      "publishedAt": "2026-04-14T00:26:18.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Amanda Silberling",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3112057",
+      "title": "OpenAI has bought AI personal finance startup Hiro",
+      "description": "The acquisition indicates a capability that OpenAI is building into ChatGPT: financial planning.",
+      "url": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
+      "publishedAt": "2026-04-14T00:23:33.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Julie Bort",
+      "tags": []
+    }
+  ]
+}

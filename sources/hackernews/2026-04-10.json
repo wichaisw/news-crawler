@@ -278,6 +278,17 @@
       "tags": []
     },
     {
+      "id": "bq5e46",
+      "title": "Design and implementation of DuckDB internals",
+      "description": "Score: 95 | Comments: 8 | Posted by mpweiher",
+      "url": "https://duckdb.org/library/design-and-implementation-of-duckdb-internals/",
+      "publishedAt": "2026-04-10T13:59:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mpweiher",
+      "tags": []
+    },
+    {
       "id": "a7d6mg",
       "title": "CPU-Z and HWMonitor compromised",
       "description": "Score: 303 | Comments: 87 | Posted by pashadee",
@@ -311,6 +322,17 @@
       "tags": []
     },
     {
+      "id": "m1fqtu",
+      "title": "Anastasia (1997) live action reference material",
+      "description": "Score: 15 | Comments: 2 | Posted by hyperific",
+      "url": "https://lostmediawiki.com/Anastasia_(partially_found_live-action_reference_material_for_Don_Bluth_animated_film;_1997)",
+      "publishedAt": "2026-04-10T12:03:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hyperific",
+      "tags": []
+    },
+    {
       "id": "ww6njf",
       "title": "FBI used iPhone notification data to retrieve deleted Signal messages",
       "description": "Score: 579 | Comments: 288 | Posted by 01-_-",
@@ -319,6 +341,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "01-_-",
+      "tags": []
+    },
+    {
+      "id": "jy41kz",
+      "title": "I shipped a transaction bug, so I built a linter",
+      "description": "Score: 28 | Comments: 3 | Posted by leonhfr",
+      "url": "https://leonh.fr/posts/go-transaction-linter/",
+      "publishedAt": "2026-04-10T09:01:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "leonhfr",
+      "tags": []
+    },
+    {
+      "id": "333kbv",
+      "title": "Tool to explore regularly sampled time series",
+      "description": "Score: 12 | Comments: 0 | Posted by rsva",
+      "url": "https://github.com/rajivsam/tseda",
+      "publishedAt": "2026-04-10T08:39:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rsva",
       "tags": []
     },
     {

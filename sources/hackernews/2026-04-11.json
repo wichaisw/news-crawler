@@ -212,6 +212,17 @@
       "tags": []
     },
     {
+      "id": "ai8oy3",
+      "title": "Introduction to Obsidian",
+      "description": "Score: 167 | Comments: 123 | Posted by bryanhogan",
+      "url": "https://bryanhogan.com/blog/obsidian-introduction",
+      "publishedAt": "2026-04-11T11:35:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bryanhogan",
+      "tags": []
+    },
+    {
       "id": "bs7x4j",
       "title": "Now is the best time to write code by hand",
       "description": "Score: 62 | Comments: 24 | Posted by nickgreg",
@@ -220,6 +231,39 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "nickgreg",
+      "tags": []
+    },
+    {
+      "id": "q4rrjf",
+      "title": "I just want simple S3",
+      "description": "Score: 145 | Comments: 80 | Posted by g0xA52A2A",
+      "url": "https://blog.feld.me/posts/2026/04/i-just-want-simple-s3/",
+      "publishedAt": "2026-04-11T10:36:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "g0xA52A2A",
+      "tags": []
+    },
+    {
+      "id": "ohbfp9",
+      "title": "Air Powered Segment Display? [video]",
+      "description": "Score: 89 | Comments: 11 | Posted by ProfDreamer",
+      "url": "https://www.youtube.com/watch?v=E1BLGpE5zH0",
+      "publishedAt": "2026-04-11T09:32:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ProfDreamer",
+      "tags": []
+    },
+    {
+      "id": "umllsu",
+      "title": "Write less code, be more responsible",
+      "description": "Score: 66 | Comments: 36 | Posted by orhunp_",
+      "url": "https://blog.orhun.dev/code-responsibly/",
+      "publishedAt": "2026-04-11T09:20:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "orhunp_",
       "tags": []
     },
     {
@@ -234,6 +278,17 @@
       "tags": []
     },
     {
+      "id": "tuu357",
+      "title": "What we learned building a Rust runtime for TypeScript",
+      "description": "Score: 61 | Comments: 12 | Posted by vinhnx",
+      "url": "https://encore.dev/blog/rust-runtime",
+      "publishedAt": "2026-04-11T08:53:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vinhnx",
+      "tags": []
+    },
+    {
       "id": "5mtyu",
       "title": "France's government is ditching Windows for Linux, says US tech a strategic risk",
       "description": "Score: 434 | Comments: 245 | Posted by pabs3",
@@ -242,6 +297,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "pabs3",
+      "tags": []
+    },
+    {
+      "id": "98ahvy",
+      "title": "If you started a company two years ago, many assumptions are no longer true",
+      "description": "Score: 179 | Comments: 133 | Posted by tie-in",
+      "url": "https://steveblank.com/2026/03/17/your-startup-is-probably-dead-on-arrival/",
+      "publishedAt": "2026-04-11T06:58:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tie-in",
       "tags": []
     },
     {
