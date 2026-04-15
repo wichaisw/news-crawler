@@ -190,6 +190,17 @@
       "tags": []
     },
     {
+      "id": "blsl0e",
+      "title": "Guide.world: A compendium of travel guides",
+      "description": "Score: 97 | Comments: 17 | Posted by firloop",
+      "url": "https://guide.world/",
+      "publishedAt": "2026-04-09T18:17:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "firloop",
+      "tags": []
+    },
+    {
       "id": "iluy8m",
       "title": "A Tour of Oodi",
       "description": "Score: 128 | Comments: 41 | Posted by zdw",
@@ -275,6 +286,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "speckx",
+      "tags": []
+    },
+    {
+      "id": "b0onju",
+      "title": "The M×N problem of tool calling and open-source models",
+      "description": "Score: 147 | Comments: 44 | Posted by remilouf",
+      "url": "https://www.thetypicalset.com/blog/grammar-parser-maintenance-contract",
+      "publishedAt": "2026-04-09T15:07:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "remilouf",
       "tags": []
     },
     {

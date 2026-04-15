@@ -102,6 +102,17 @@
       "tags": []
     },
     {
+      "id": "fhdnx7",
+      "title": "The Orange Pi 6 Plus",
+      "description": "Score: 170 | Comments: 121 | Posted by rcarmo",
+      "url": "https://taoofmac.com/space/reviews/2026/04/11/1900",
+      "publishedAt": "2026-04-11T17:48:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rcarmo",
+      "tags": []
+    },
+    {
       "id": "zbhqjd",
       "title": "The APL programming language source code (2012)",
       "description": "Score: 62 | Comments: 18 | Posted by tosh",
@@ -289,6 +300,17 @@
       "tags": []
     },
     {
+      "id": "65hypa",
+      "title": "Picasso’s Guernica (Gigapixel)",
+      "description": "Score: 98 | Comments: 22 | Posted by guigar",
+      "url": "https://guernica.museoreinasofia.es/gigapixel/#3/63.11/-120.59",
+      "publishedAt": "2026-04-11T08:27:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "guigar",
+      "tags": []
+    },
+    {
       "id": "5mtyu",
       "title": "France's government is ditching Windows for Linux, says US tech a strategic risk",
       "description": "Score: 434 | Comments: 245 | Posted by pabs3",
@@ -374,6 +396,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "bretthopper",
+      "tags": []
+    },
+    {
+      "id": "iwqyey",
+      "title": "Installing OpenBSD on the Pomera DM250 Writerdeck",
+      "description": "Score: 29 | Comments: 6 | Posted by djfergus",
+      "url": "https://jcs.org/2026/04/09/openbsd-dm250",
+      "publishedAt": "2026-04-11T00:47:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "djfergus",
       "tags": []
     },
     {

@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "xnjlp",
+      "title": "The dangers of California's legislation to censor 3D printing",
+      "description": "Score: 344 | Comments: 337 | Posted by salkahfi",
+      "url": "https://www.eff.org/deeplinks/2026/04/dangers-californias-legislation-censor-3d-printing",
+      "publishedAt": "2026-04-13T23:44:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "salkahfi",
+      "tags": []
+    },
+    {
       "id": "ppv9p",
       "title": "Why it’s impossible to measure England’s coastline",
       "description": "Score: 27 | Comments: 21 | Posted by BiraIgnacio",
@@ -33,6 +44,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "sonabinu",
+      "tags": []
+    },
+    {
+      "id": "j43d06",
+      "title": "Let's talk space toilets",
+      "description": "Score: 169 | Comments: 48 | Posted by zdw",
+      "url": "https://mceglowski.substack.com/p/lets-talk-space-toilets",
+      "publishedAt": "2026-04-13T22:41:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
       "tags": []
     },
     {

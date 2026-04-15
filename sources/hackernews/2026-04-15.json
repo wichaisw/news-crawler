@@ -1,0 +1,105 @@
+{
+  "date": "2026-04-15",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "wwgq0x",
+      "title": "Amazon to acquire Globalstar and expand Amazon Leo satellite network",
+      "description": "Score: 24 | Comments: 1 | Posted by homarp",
+      "url": "https://www.businesswire.com/news/home/20260414237496/en/Amazon-to-Acquire-Globalstar-and-Expand-Amazon-Leo-Satellite-Network",
+      "publishedAt": "2026-04-15T05:54:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "homarp",
+      "tags": []
+    },
+    {
+      "id": "q1jv75",
+      "title": "Fixing a 20-year-old bug in Enlightenment E16iczelia.net",
+      "description": "Score: 43 | Comments: 10 | Posted by snoofydude",
+      "url": "https://iczelia.net/posts/e16-20-year-old-bug/",
+      "publishedAt": "2026-04-15T05:44:03.254Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "snoofydude",
+      "tags": []
+    },
+    {
+      "id": "q1jv75",
+      "title": "Fixing a 20-year-old bug in Enlightenment E16",
+      "description": "Score: 43 | Comments: 10 | Posted by snoofydude",
+      "url": "https://iczelia.net/posts/e16-20-year-old-bug/",
+      "publishedAt": "2026-04-15T04:47:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "snoofydude",
+      "tags": []
+    },
+    {
+      "id": "74c9hz",
+      "title": "Saying goodbye to Agile",
+      "description": "Score: 97 | Comments: 83 | Posted by matrixhelix",
+      "url": "https://lewiscampbell.tech/blog/260414.html",
+      "publishedAt": "2026-04-15T04:45:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "matrixhelix",
+      "tags": []
+    },
+    {
+      "id": "a0xepj",
+      "title": "GPT-5.4 Pro solves Erdős Problem #1196",
+      "description": "Score: 18 | Comments: 7 | Posted by fratellobigio",
+      "url": "https://twitter.com/i/status/2044051379916882067",
+      "publishedAt": "2026-04-15T03:48:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fratellobigio",
+      "tags": []
+    },
+    {
+      "id": "u2fjta",
+      "title": "Police officer uses Flock database to track mistress",
+      "description": "Score: 19 | Comments: 1 | Posted by hentrep",
+      "url": "https://ktla.com/news/orange-county/former-orange-county-officer-pleaded-guilty-to-using-police-database-to-track-mistress-harassing-her-with-thousands-of-texts-and-phone-calls/",
+      "publishedAt": "2026-04-15T03:33:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hentrep",
+      "tags": []
+    },
+    {
+      "id": "qalaiu",
+      "title": "Dependency cooldowns turn you into a free-rider",
+      "description": "Score: 75 | Comments: 40 | Posted by pabs3",
+      "url": "https://calpaterson.com/deps.html",
+      "publishedAt": "2026-04-15T02:03:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pabs3",
+      "tags": []
+    },
+    {
+      "id": "h2964q",
+      "title": "Not all elementary functions can be expressed with exp-minus-log",
+      "description": "Score: 62 | Comments: 34 | Posted by mmastrac",
+      "url": "https://www.stylewarning.com/posts/not-all-elementary/",
+      "publishedAt": "2026-04-15T01:59:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mmastrac",
+      "tags": []
+    },
+    {
+      "id": "azpwir",
+      "title": "Don't feel like exercising? Maybe it's the wrong time of day for you",
+      "description": "Score: 48 | Comments: 26 | Posted by tagawa",
+      "url": "https://www.bbc.com/news/articles/cd6lzpxwx50o",
+      "publishedAt": "2026-04-15T00:20:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tagawa",
+      "tags": []
+    }
+  ]
+}

@@ -223,6 +223,17 @@
       "tags": []
     },
     {
+      "id": "3pcush",
+      "title": "My adventure in designing API keys",
+      "description": "Score: 10 | Comments: 2 | Posted by vjay15",
+      "url": "https://vjay15.github.io/blog/apikeys/",
+      "publishedAt": "2026-04-12T13:17:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vjay15",
+      "tags": []
+    },
+    {
       "id": "a5r0wj",
       "title": "Pro Max 5x quota exhausted in 1.5 hours despite moderate usage",
       "description": "Score: 589 | Comments: 536 | Posted by cmaster11",
@@ -253,6 +264,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "em-bee",
+      "tags": []
+    },
+    {
+      "id": "ma8zfv",
+      "title": "Troubleshooting Email Delivery to Microsoft Users",
+      "description": "Score: 62 | Comments: 15 | Posted by rozumem",
+      "url": "https://rozumem.xyz/posts/14",
+      "publishedAt": "2026-04-12T12:40:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rozumem",
       "tags": []
     },
     {
