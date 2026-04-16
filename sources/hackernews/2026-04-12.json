@@ -300,6 +300,17 @@
       "tags": []
     },
     {
+      "id": "d0dci3",
+      "title": "Fast and Easy Levenshtein distance using a Trie",
+      "description": "Score: 27 | Comments: 1 | Posted by sebg",
+      "url": "https://stevehanov.ca/blog/fast-and-easy-levenshtein-distance-using-a-trie",
+      "publishedAt": "2026-04-12T12:00:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sebg",
+      "tags": []
+    },
+    {
       "id": "csud4v",
       "title": "The Physics of GPS",
       "description": "Score: 125 | Comments: 34 | Posted by maouida",
@@ -322,6 +333,17 @@
       "tags": []
     },
     {
+      "id": "ed541m",
+      "title": "Fixing a monitor that goes black, off or blinks due to static electricity (2023)",
+      "description": "Score: 125 | Comments: 68 | Posted by cyclopeanutopia",
+      "url": "https://aalonso.dev/blog/2023/how-to-fix-monitor-that-goes-black-off-due-to-static-electricity-in-chair/",
+      "publishedAt": "2026-04-12T10:27:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cyclopeanutopia",
+      "tags": []
+    },
+    {
       "id": "e5zwa0",
       "title": "Doom, Played over Curl",
       "description": "Score: 105 | Comments: 24 | Posted by creaktive",
@@ -330,6 +352,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "creaktive",
+      "tags": []
+    },
+    {
+      "id": "rzx2mw",
+      "title": "Intel Xpress Resurrection: Reviving a Forgotten EISA Beast",
+      "description": "Score: 43 | Comments: 3 | Posted by ankitg12",
+      "url": "https://x86.fr/intel-xpress-resurrection-reviving-a-forgotten-eisa-beast/",
+      "publishedAt": "2026-04-12T09:32:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ankitg12",
       "tags": []
     },
     {

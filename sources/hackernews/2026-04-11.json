@@ -25,6 +25,17 @@
       "tags": []
     },
     {
+      "id": "xaltt",
+      "title": "PBS Nova: Terror in Space (1998)",
+      "description": "Score: 33 | Comments: 10 | Posted by opengrass",
+      "url": "https://www.pbs.org/wgbh/nova/mir/",
+      "publishedAt": "2026-04-11T23:17:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "opengrass",
+      "tags": []
+    },
+    {
       "id": "r5fgre",
       "title": "Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)",
       "description": "Score: 179 | Comments: 128 | Posted by krackers",
@@ -176,6 +187,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "aphyr",
+      "tags": []
+    },
+    {
+      "id": "8yjgg6",
+      "title": "Rewriting a 20-year-old Python library",
+      "description": "Score: 5 | Comments: 0 | Posted by PaulHoule",
+      "url": "https://www.b-list.org/weblog/2026/mar/23/20-year-library/",
+      "publishedAt": "2026-04-11T14:12:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "PaulHoule",
       "tags": []
     },
     {

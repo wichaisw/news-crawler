@@ -1,0 +1,204 @@
+{
+  "date": "2026-04-16",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "2gutvt",
+      "title": "Sal Khan's AI revolution hasn't happened yetchalkbeat.org",
+      "description": "Score: 32 | Comments: 28 | Posted by the-mitr",
+      "url": "https://www.chalkbeat.org/2026/04/09/sal-khan-reflects-on-ai-in-schools-and-khanmigo/",
+      "publishedAt": "2026-04-16T05:45:04.696Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "the-mitr",
+      "tags": []
+    },
+    {
+      "id": "2gutvt",
+      "title": "Sal Khan's AI revolution hasn't happened yet",
+      "description": "Score: 33 | Comments: 31 | Posted by the-mitr",
+      "url": "https://www.chalkbeat.org/2026/04/09/sal-khan-reflects-on-ai-in-schools-and-khanmigo/",
+      "publishedAt": "2026-04-16T05:05:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "the-mitr",
+      "tags": []
+    },
+    {
+      "id": "4s1owl",
+      "title": "Moving a large-scale metrics pipeline from StatsD to OpenTelemetry / Prometheus",
+      "description": "Score: 22 | Comments: 3 | Posted by jmarbach",
+      "url": "https://medium.com/airbnb-engineering/building-a-high-volume-metrics-pipeline-with-opentelemetry-and-vmagent-c714d6910b45",
+      "publishedAt": "2026-04-16T05:01:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jmarbach",
+      "tags": []
+    },
+    {
+      "id": "j796o9",
+      "title": "FSF trying to contact Google about spammer sending 10k+ mails from Gmail accountdaedal.io",
+      "description": "Score: 88 | Comments: 36 | Posted by pabs3",
+      "url": "https://daedal.io/@thomzane/116410863009847575",
+      "publishedAt": "2026-04-16T04:45:04.696Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pabs3",
+      "tags": []
+    },
+    {
+      "id": "ot3lhh",
+      "title": "Darkbloom – Private inference on idle Macsdarkbloom.dev",
+      "description": "Score: 124 | Comments: 65 | Posted by twapi",
+      "url": "https://darkbloom.dev",
+      "publishedAt": "2026-04-16T04:45:04.695Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "twapi",
+      "tags": []
+    },
+    {
+      "id": "4bdo5w",
+      "title": "A Look into NaviDial, Japan's Legacy Phone Service",
+      "description": "Score: 25 | Comments: 3 | Posted by pwim",
+      "url": "https://www.tokyodev.com/articles/a-look-into-navidial-japan-s-legacy-phone-service",
+      "publishedAt": "2026-04-16T04:22:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pwim",
+      "tags": []
+    },
+    {
+      "id": "ot3lhh",
+      "title": "Darkbloom – Private inference on idle Macs",
+      "description": "Score: 124 | Comments: 67 | Posted by twapi",
+      "url": "https://darkbloom.dev",
+      "publishedAt": "2026-04-16T04:06:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "twapi",
+      "tags": []
+    },
+    {
+      "id": "2s7m3f",
+      "title": "RedSun: System user access on Win 11/10 and Server with the April 2026 Update",
+      "description": "Score: 50 | Comments: 7 | Posted by airhangerf15",
+      "url": "https://github.com/Nightmare-Eclipse/RedSun",
+      "publishedAt": "2026-04-16T03:54:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "airhangerf15",
+      "tags": []
+    },
+    {
+      "id": "j796o9",
+      "title": "FSF trying to contact Google about spammer sending 10k+ mails from Gmail account",
+      "description": "Score: 88 | Comments: 36 | Posted by pabs3",
+      "url": "https://daedal.io/@thomzane/116410863009847575",
+      "publishedAt": "2026-04-16T03:44:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pabs3",
+      "tags": []
+    },
+    {
+      "id": "54lvc3",
+      "title": "North American English Dialects",
+      "description": "Score: 9 | Comments: 1 | Posted by skogstokig",
+      "url": "https://aschmann.net/AmEng/",
+      "publishedAt": "2026-04-16T03:38:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "skogstokig",
+      "tags": []
+    },
+    {
+      "id": "h79iqj",
+      "title": "Stop Using Ollama",
+      "description": "Score: 89 | Comments: 20 | Posted by Zetaphor",
+      "url": "https://sleepingrobots.com/dreams/stop-using-ollama/",
+      "publishedAt": "2026-04-16T03:35:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Zetaphor",
+      "tags": []
+    },
+    {
+      "id": "wzmha0",
+      "title": "Florida surgeon charged with killing man after removing liver instead of spleen",
+      "description": "Score: 25 | Comments: 6 | Posted by canucker2016",
+      "url": "https://arstechnica.com/health/2026/04/florida-surgeon-charged-with-killing-man-after-removing-liver-instead-of-spleen/",
+      "publishedAt": "2026-04-16T03:14:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "canucker2016",
+      "tags": []
+    },
+    {
+      "id": "sk44ka",
+      "title": "C++26: Structured Bindings in Conditions",
+      "description": "Score: 5 | Comments: 2 | Posted by jandeboevrie",
+      "url": "https://www.sandordargo.com/blog/2026/04/15/cpp26-structured-bindings-condition",
+      "publishedAt": "2026-04-16T03:06:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jandeboevrie",
+      "tags": []
+    },
+    {
+      "id": "9ywwmd",
+      "title": "Tailscale-rs: Official Rust library for embedding Tailscale",
+      "description": "Score: 11 | Comments: 1 | Posted by phantomathkg",
+      "url": "https://tailscale.com/blog/tailscale-rs-rust-tsnet-library-preview",
+      "publishedAt": "2026-04-16T02:30:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "phantomathkg",
+      "tags": []
+    },
+    {
+      "id": "dcpk2u",
+      "title": "Show HN: Hiraeth – AWS Emulator",
+      "description": "Score: 19 | Comments: 5 | Posted by ozarkerD",
+      "url": "https://github.com/SethPyle376/hiraeth",
+      "publishedAt": "2026-04-16T02:28:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ozarkerD",
+      "tags": []
+    },
+    {
+      "id": "q085aq",
+      "title": "Stealth signals are bypassing Iran’s internet blackout",
+      "description": "Score: 82 | Comments: 24 | Posted by WaitWaitWha",
+      "url": "https://spectrum.ieee.org/iran-internet-blackout-satellite-tv",
+      "publishedAt": "2026-04-16T02:16:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "WaitWaitWha",
+      "tags": []
+    },
+    {
+      "id": "j1k8a9",
+      "title": "A Better Ludum Dare; Or, How to Ruin a Legacy",
+      "description": "Score: 32 | Comments: 5 | Posted by raincole",
+      "url": "https://ldjam.com/events/ludum-dare/59/$425291/$425292",
+      "publishedAt": "2026-04-16T01:25:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "raincole",
+      "tags": []
+    },
+    {
+      "id": "fzc5vh",
+      "title": "Agent - Native Mac OS X coding ide/harness",
+      "description": "Score: 37 | Comments: 7 | Posted by jv22222",
+      "url": "https://github.com/macOS26/Agent",
+      "publishedAt": "2026-04-16T00:19:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jv22222",
+      "tags": []
+    }
+  ]
+}
