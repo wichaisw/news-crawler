@@ -1,0 +1,72 @@
+{
+  "date": "2026-04-17",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "p4wd3x",
+      "title": "FCC exempts Netgear from ban on foreign routers, doesn't explain why",
+      "description": "Score: 21 | Comments: 4 | Posted by rawgabbit",
+      "url": "https://arstechnica.com/tech-policy/2026/04/fcc-exempts-netgear-from-ban-on-foreign-routers-doesnt-explain-why/",
+      "publishedAt": "2026-04-17T04:13:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rawgabbit",
+      "tags": []
+    },
+    {
+      "id": "dqgwlu",
+      "title": "Bluesky has been dealing with a DDoS attack for nearly a full day",
+      "description": "Score: 38 | Comments: 19 | Posted by dotmanish",
+      "url": "https://www.theverge.com/tech/913638/bluesky-has-been-dealing-with-a-ddos-attack-for-nearly-a-full-day",
+      "publishedAt": "2026-04-17T03:59:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dotmanish",
+      "tags": []
+    },
+    {
+      "id": "1v9yon",
+      "title": "Human Accelerated Region 1",
+      "description": "Score: 22 | Comments: 1 | Posted by apollinaire",
+      "url": "https://en.wikipedia.org/wiki/Human_accelerated_region_1",
+      "publishedAt": "2026-04-17T03:55:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "apollinaire",
+      "tags": []
+    },
+    {
+      "id": "plb32s",
+      "title": "Discourse Is Not Going Closed Source",
+      "description": "Score: 73 | Comments: 28 | Posted by sams99",
+      "url": "https://blog.discourse.org/2026/04/discourse-is-not-going-closed-source/",
+      "publishedAt": "2026-04-17T03:36:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sams99",
+      "tags": []
+    },
+    {
+      "id": "el0y3u",
+      "title": "US Bill Mandates On-Device Age Verification",
+      "description": "Score: 81 | Comments: 31 | Posted by ronsor",
+      "url": "https://reclaimthenet.org/us-bill-mandates-on-device-age-verification",
+      "publishedAt": "2026-04-17T02:50:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ronsor",
+      "tags": []
+    },
+    {
+      "id": "nnulzr",
+      "title": "Show HN: SPICE simulation → oscilloscope → verification with Claude Code",
+      "description": "Score: 59 | Comments: 12 | Posted by _fizz_buzz_",
+      "url": "https://lucasgerads.com/blog/lecroy-mcp-spice-demo/",
+      "publishedAt": "2026-04-17T00:37:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "_fizz_buzz_",
+      "tags": []
+    }
+  ]
+}

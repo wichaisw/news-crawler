@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "208ibt",
+      "title": "30 Years of HPC: many hardware advances, little adoption of new languages",
+      "description": "Score: 13 | Comments: 0 | Posted by matt_d",
+      "url": "https://chapel-lang.org/blog/posts/30years/",
+      "publishedAt": "2026-04-13T23:45:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "matt_d",
+      "tags": []
+    },
+    {
       "id": "xnjlp",
       "title": "The dangers of California's legislation to censor 3D printing",
       "description": "Score: 344 | Comments: 337 | Posted by salkahfi",
@@ -44,6 +55,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "sonabinu",
+      "tags": []
+    },
+    {
+      "id": "j8779p",
+      "title": "Show HN: CodeBurn – Analyze Claude Code token usage by task",
+      "description": "Score: 88 | Comments: 18 | Posted by agentseal",
+      "url": "https://github.com/AgentSeal/codeburn",
+      "publishedAt": "2026-04-13T22:57:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "agentseal",
       "tags": []
     },
     {
@@ -157,6 +179,17 @@
       "tags": []
     },
     {
+      "id": "jfr4fo",
+      "title": "A Python Interpreter Written in Python",
+      "description": "Score: 28 | Comments: 8 | Posted by xk3",
+      "url": "https://aosabook.org/en/500L/a-python-interpreter-written-in-python.html",
+      "publishedAt": "2026-04-13T17:25:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "xk3",
+      "tags": []
+    },
+    {
       "id": "b8b6vq",
       "title": "B-trees and database indexes (2024)",
       "description": "Score: 98 | Comments: 40 | Posted by tosh",
@@ -165,6 +198,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "tosh",
+      "tags": []
+    },
+    {
+      "id": "o26q82",
+      "title": "Circuit Transformations, Loop Fusion, and Inductive Proof",
+      "description": "Score: 41 | Comments: 2 | Posted by matt_d",
+      "url": "https://natetyoung.github.io/carry_save_fusion/",
+      "publishedAt": "2026-04-13T16:23:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "matt_d",
       "tags": []
     },
     {
@@ -278,6 +322,17 @@
       "tags": []
     },
     {
+      "id": "27b900",
+      "title": "ReBot-DevArm: open-source Robotic Arm",
+      "description": "Score: 37 | Comments: 2 | Posted by rickcarlino",
+      "url": "https://github.com/Seeed-Projects/reBot-DevArm",
+      "publishedAt": "2026-04-13T11:39:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rickcarlino",
+      "tags": []
+    },
+    {
       "id": "lzish9",
       "title": "Too much discussion of the XOR swap trick",
       "description": "Score: 15 | Comments: 4 | Posted by CJefferson",
@@ -289,6 +344,17 @@
       "tags": []
     },
     {
+      "id": "5fqo0m",
+      "title": "Six Characters",
+      "description": "Score: 94 | Comments: 14 | Posted by Airplanepasta",
+      "url": "https://ajitem.com/blog/iron-core-part-2-six-characters/",
+      "publishedAt": "2026-04-13T09:24:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Airplanepasta",
+      "tags": []
+    },
+    {
       "id": "wi4eo0",
       "title": "Introduction to spherical harmonics for graphics programmers",
       "description": "Score: 73 | Comments: 7 | Posted by luu",
@@ -297,6 +363,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "luu",
+      "tags": []
+    },
+    {
+      "id": "uh61gc",
+      "title": "A Git helper tool that breaks large merges into parallelizable tasks",
+      "description": "Score: 17 | Comments: 3 | Posted by schusterfredl",
+      "url": "https://github.com/mwallner/mergetopus",
+      "publishedAt": "2026-04-13T07:12:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "schusterfredl",
       "tags": []
     },
     {
@@ -374,6 +451,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "luu",
+      "tags": []
+    },
+    {
+      "id": "4i2b9g",
+      "title": "IBM AP-101 general-purpose computer [pdf]",
+      "description": "Score: 30 | Comments: 4 | Posted by __patchbit__",
+      "url": "https://gandalfddi.z19.web.core.windows.net/Shuttle/IBM%20AP-101S%20General%20Purpose%20Computer%20With%20Shuttle%20Instruction%20Set.pdf",
+      "publishedAt": "2026-04-13T03:56:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "__patchbit__",
       "tags": []
     },
     {
