@@ -1,0 +1,83 @@
+{
+  "date": "2026-04-18",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "1v3dls",
+      "title": "\"Liberation Day\" at OpenAI as multiple senior executives announce leaving",
+      "description": "Score: 3 | Comments: 0 | Posted by riffraff",
+      "url": "https://mas.to/@carnage4life/116422881496195720",
+      "publishedAt": "2026-04-18T05:41:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "riffraff",
+      "tags": []
+    },
+    {
+      "id": "xn4wsx",
+      "title": "Show HN: I made a calculator that works over disjoint sets of intervalsvictorpoughon.github.io",
+      "description": "Score: 74 | Comments: 5 | Posted by fouronnes3",
+      "url": "https://victorpoughon.github.io/interval-calculator/",
+      "publishedAt": "2026-04-18T04:32:36.184Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fouronnes3",
+      "tags": []
+    },
+    {
+      "id": "rn5f9s",
+      "title": "The FBI Director Is MIA",
+      "description": "Score: 26 | Comments: 1 | Posted by osnium123",
+      "url": "https://www.theatlantic.com/politics/2026/04/kash-patel-fbi-director-drinking-absences/686839/",
+      "publishedAt": "2026-04-18T03:53:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "osnium123",
+      "tags": []
+    },
+    {
+      "id": "k5f6qh",
+      "title": "Traders place $760M bet on falling oil ahead of Hormuz announcement",
+      "description": "Score: 37 | Comments: 6 | Posted by Jimmc414",
+      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/traders-place-760-million-bet-falling-oil-ahead-hormuz-announcement-2026-04-17/",
+      "publishedAt": "2026-04-18T01:23:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Jimmc414",
+      "tags": []
+    },
+    {
+      "id": "xn4wsx",
+      "title": "Show HN: I made a calculator that works over disjoint sets of intervals",
+      "description": "Score: 74 | Comments: 5 | Posted by fouronnes3",
+      "url": "https://victorpoughon.github.io/interval-calculator/",
+      "publishedAt": "2026-04-18T01:15:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fouronnes3",
+      "tags": []
+    },
+    {
+      "id": "cf7qjq",
+      "title": "Casus Belli Engineering",
+      "description": "Score: 27 | Comments: 5 | Posted by b-man",
+      "url": "https://marcosmagueta.com/blog/casus-belli-engineering/",
+      "publishedAt": "2026-04-18T01:14:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "b-man",
+      "tags": []
+    },
+    {
+      "id": "g068an",
+      "title": "Reflecting on my own strange year at Uber",
+      "description": "Score: 39 | Comments: 8 | Posted by anon-ex-uber",
+      "url": "https://anon-ex-uber.medium.com/reflecting-on-my-own-strange-year-at-uber-e73165422245",
+      "publishedAt": "2026-04-18T00:51:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "anon-ex-uber",
+      "tags": []
+    }
+  ]
+}

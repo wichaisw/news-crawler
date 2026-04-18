@@ -91,6 +91,17 @@
       "tags": []
     },
     {
+      "id": "xy0p5y",
+      "title": "Generating a color spectrum for an image",
+      "description": "Score: 37 | Comments: 5 | Posted by evakhoury",
+      "url": "https://amandahinton.com/blog/generating-a-color-spectrum-for-an-image",
+      "publishedAt": "2026-04-15T18:20:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "evakhoury",
+      "tags": []
+    },
+    {
       "id": "lo711r",
       "title": "Google broke its promise to me – now ICE has my data",
       "description": "Score: 1342 | Comments: 576 | Posted by Brajeshwar",
@@ -110,6 +121,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "thm",
+      "tags": []
+    },
+    {
+      "id": "7jzuou",
+      "title": "Introducing: ShaderPad",
+      "description": "Score: 72 | Comments: 13 | Posted by evakhoury",
+      "url": "https://rileyjshaw.com/blog/introducing-shaderpad/",
+      "publishedAt": "2026-04-15T16:59:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "evakhoury",
       "tags": []
     },
     {
@@ -157,6 +179,50 @@
       "tags": []
     },
     {
+      "id": "b1o1op",
+      "title": "Making Wax Sealed Letters at Scale",
+      "description": "Score: 5 | Comments: 8 | Posted by hjconstas",
+      "url": "https://waxletter.com/",
+      "publishedAt": "2026-04-15T14:14:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hjconstas",
+      "tags": []
+    },
+    {
+      "id": "7xd7z4",
+      "title": "I built a 3D printing business and ran it for 8 months",
+      "description": "Score: 104 | Comments: 92 | Posted by wespiser_2018",
+      "url": "https://www.wespiser.com/posts/2026-04-12-3D-Printing-Biz.html",
+      "publishedAt": "2026-04-15T13:59:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wespiser_2018",
+      "tags": []
+    },
+    {
+      "id": "hsyh6w",
+      "title": "Towards trust in Emacs",
+      "description": "Score: 78 | Comments: 8 | Posted by eshelyaron",
+      "url": "https://eshelyaron.com/posts/2026-04-15-towards-trust-in-emacs.html",
+      "publishedAt": "2026-04-15T13:49:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "eshelyaron",
+      "tags": []
+    },
+    {
+      "id": "l08xv2",
+      "title": "Are the costs of AI agents also rising exponentially? (2025)",
+      "description": "Score: 171 | Comments: 41 | Posted by louiereederson",
+      "url": "https://www.tobyord.com/writing/hourly-costs-for-ai-agents",
+      "publishedAt": "2026-04-15T13:47:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "louiereederson",
+      "tags": []
+    },
+    {
       "id": "qalq25",
       "title": "US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]",
       "description": "Score: 118 | Comments: 92 | Posted by 1vuio0pswjnm7",
@@ -165,6 +231,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "1vuio0pswjnm7",
+      "tags": []
+    },
+    {
+      "id": "zgblwi",
+      "title": "Designing the Transport Typeface",
+      "description": "Score: 72 | Comments: 7 | Posted by speckx",
+      "url": "https://www.thamesandhudson.com/blogs/all-news-features/designing-the-transport-typeface-margaret-calvert-on-the-making-of-britain-s-road-signs",
+      "publishedAt": "2026-04-15T13:13:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
       "tags": []
     },
     {
@@ -231,6 +308,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "birdculture",
+      "tags": []
+    },
+    {
+      "id": "s254kg",
+      "title": "Connie Converse was a folk-music genius. Then she vanished",
+      "description": "Score: 88 | Comments: 20 | Posted by mellosouls",
+      "url": "https://www.bbc.com/culture/article/20260413-the-mystery-of-a-missing-folk-music-pioneer",
+      "publishedAt": "2026-04-15T09:24:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mellosouls",
       "tags": []
     },
     {
@@ -330,6 +418,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mmastrac",
+      "tags": []
+    },
+    {
+      "id": "j9eowv",
+      "title": "The GNU libc atanh is correctly rounded",
+      "description": "Score: 77 | Comments: 17 | Posted by matt_d",
+      "url": "https://inria.hal.science/hal-05591661",
+      "publishedAt": "2026-04-15T01:47:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "matt_d",
       "tags": []
     },
     {
