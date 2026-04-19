@@ -1,0 +1,39 @@
+{
+  "date": "2026-04-19",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "qwe1ng",
+      "title": "Bipartisan Bill to Tighten Controls on Sensitive Chipmaking Equipment",
+      "description": "Score: 16 | Comments: 9 | Posted by num42",
+      "url": "https://baumgartner.house.gov/2026/04/02/baumgartner-introduces-bipartisan-bill-to-tighten-controls-on-sensitive-chipmaking-equipment/",
+      "publishedAt": "2026-04-19T03:33:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "num42",
+      "tags": []
+    },
+    {
+      "id": "p2iyay",
+      "title": "Bluetooth tracker hidden in postcard and mailed to warship exposed its location",
+      "description": "Score: 19 | Comments: 5 | Posted by thunderbong",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/bluetooth-tracker-hidden-in-a-postcard-and-mailed-to-a-warship-exposed-its-location-a-eur5-gadget-put-a-eur500-million-dutch-ship-at-risk-for-24-hours",
+      "publishedAt": "2026-04-19T01:49:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thunderbong",
+      "tags": []
+    },
+    {
+      "id": "ih47k8",
+      "title": "Global freedom declined for the 20th consecutive year in 2025",
+      "description": "Score: 18 | Comments: 9 | Posted by Cider9986",
+      "url": "https://freedomhouse.org/report/freedom-world/2026/growing-shadow-autocracy",
+      "publishedAt": "2026-04-19T01:42:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Cider9986",
+      "tags": []
+    }
+  ]
+}

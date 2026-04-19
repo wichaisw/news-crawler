@@ -3,6 +3,61 @@
   "source": "techcrunch",
   "articles": [
     {
+      "id": "https://techcrunch.com/?p=3113986",
+      "title": "Tesla brings its robotaxi service to Dallas and Houston",
+      "description": "The company now offers robotaxi service in three cities, all of them in Texas, after launching in Austin last year and starting to offer rides",
+      "url": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
+      "publishedAt": "2026-04-18T21:37:15.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3113983",
+      "title": "VC Ron Conway says he has a ‘rare form of cancer’",
+      "description": "Conway wrote that he “will be stepping back from some of my usual activities,” but he will “continue to support” founders backed by his firm SV Angel.",
+      "url": "https://techcrunch.com/2026/04/18/vc-ron-conway-says-he-has-a-rare-form-of-cancer/",
+      "publishedAt": "2026-04-18T20:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3113979",
+      "title": "AI chip startup Cerebras files for IPO",
+      "description": "In recent months, the company announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers, as well as a deal with",
+      "url": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
+      "publishedAt": "2026-04-18T19:19:11.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3113969",
+      "title": "Anthropic’s relationship with the Trump administration seems to be thawing",
+      "description": "Despite recently being designated a supply-chain risk by the Pentagon, Anthropic is still talking to high-level members of the Trump administration.",
+      "url": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
+      "publishedAt": "2026-04-18T14:56:48.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3113812",
+      "title": "The App Store is booming again, and AI may be why",
+      "description": "New data from Appfigures shows a swell of new app launches in 2026, suggesting AI tools could be fueling a mobile software boom.",
+      "url": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
+      "publishedAt": "2026-04-18T13:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sarah Perez",
+      "tags": []
+    },
+    {
       "id": "https://techcrunch.com/?p=3113962",
       "title": "Once close enough for an acquisition, Stripe and Airwallex are now going after each other",
       "description": "For most of its life, Airwallex and Stripe have mostly operated in different geographies, selling to different buyers. That's changing.",

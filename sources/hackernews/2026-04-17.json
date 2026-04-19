@@ -58,6 +58,17 @@
       "tags": []
     },
     {
+      "id": "cjfzg6",
+      "title": "Show HN: AI Subroutines – Run automation scripts inside your browser tab",
+      "description": "Score: 39 | Comments: 9 | Posted by arjunchint",
+      "url": "https://www.rtrvr.ai/blog/ai-subroutines-zero-token-deterministic-automation",
+      "publishedAt": "2026-04-17T21:03:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "arjunchint",
+      "tags": []
+    },
+    {
       "id": "z9op0c",
       "title": "\"cat readme.txt\" is not safe if you use iTerm2",
       "description": "Score: 156 | Comments: 84 | Posted by arkadiyt",
@@ -245,6 +256,17 @@
       "tags": []
     },
     {
+      "id": "zdarxk",
+      "title": "What Are Skiplists Good For?",
+      "description": "Score: 32 | Comments: 6 | Posted by mfiguiere",
+      "url": "https://antithesis.com/blog/2026/skiptrees/",
+      "publishedAt": "2026-04-17T13:57:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mfiguiere",
+      "tags": []
+    },
+    {
       "id": "dq6icg",
       "title": "Isaac Asimov: The Last Question (1956)",
       "description": "Score: 691 | Comments: 273 | Posted by ColinWright",
@@ -253,6 +275,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ColinWright",
+      "tags": []
+    },
+    {
+      "id": "ybp0nj",
+      "title": "Floating Point Fun on Cortex-M Processors",
+      "description": "Score: 48 | Comments: 5 | Posted by hasheddan",
+      "url": "https://danielmangum.com/posts/floating-point-cortex-m/",
+      "publishedAt": "2026-04-17T10:32:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hasheddan",
       "tags": []
     },
     {
@@ -286,6 +319,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "Mr_Minderbinder",
+      "tags": []
+    },
+    {
+      "id": "qib6yy",
+      "title": "Does your DSL little language need operator precedence?",
+      "description": "Score: 12 | Comments: 6 | Posted by ingve",
+      "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/LittleLanguagesVsOpPrecedence",
+      "publishedAt": "2026-04-17T06:12:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingve",
       "tags": []
     },
     {
