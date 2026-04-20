@@ -1,0 +1,83 @@
+{
+  "date": "2026-04-20",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "kjhqpz",
+      "title": "Stripe's Payment APIs: the first 10 years (2020)",
+      "description": "Score: 4 | Comments: 0 | Posted by tibbar",
+      "url": "https://stripe.dev/blog/payment-api-design",
+      "publishedAt": "2026-04-20T05:05:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tibbar",
+      "tags": []
+    },
+    {
+      "id": "ohww1t",
+      "title": "They Went Abroad to Save Money. Moving Back Seems Unaffordable",
+      "description": "Score: 10 | Comments: 1 | Posted by toomanyrichies",
+      "url": "https://www.nytimes.com/2026/04/19/business/americans-abroad-cheaper-living-costs.html",
+      "publishedAt": "2026-04-20T03:41:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "toomanyrichies",
+      "tags": []
+    },
+    {
+      "id": "xo1ygf",
+      "title": "A cache-friendly IPv6 LPM with AVX-512 (linearized B+-tree, real BGP benchmarks)",
+      "description": "Score: 22 | Comments: 4 | Posted by debugga",
+      "url": "https://github.com/esutcu/planb-lpm",
+      "publishedAt": "2026-04-20T03:24:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "debugga",
+      "tags": []
+    },
+    {
+      "id": "3u6wlv",
+      "title": "Mac Mini and Mac Studio Supply Shortages",
+      "description": "Score: 18 | Comments: 3 | Posted by Brajeshwar",
+      "url": "https://www.wsj.com/tech/personal-tech/apple-mac-mini-supply-3e7a7509",
+      "publishedAt": "2026-04-20T02:50:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Brajeshwar",
+      "tags": []
+    },
+    {
+      "id": "pq3e2q",
+      "title": "Claude Token Counter, now with model comparisons",
+      "description": "Score: 61 | Comments: 21 | Posted by twapi",
+      "url": "https://simonwillison.net/2026/Apr/20/claude-token-counts/",
+      "publishedAt": "2026-04-20T00:56:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "twapi",
+      "tags": []
+    },
+    {
+      "id": "ok322z",
+      "title": "Show HN: A lightweight way to make agents talk without paying for API usage",
+      "description": "Score: 27 | Comments: 6 | Posted by juanpabloaj",
+      "url": "https://juanpabloaj.com/2026/04/16/a-lightweight-way-to-make-agents-talk-without-paying-for-api-usage/",
+      "publishedAt": "2026-04-20T00:21:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "juanpabloaj",
+      "tags": []
+    },
+    {
+      "id": "h2oz7k",
+      "title": "Show HN: Run TRELLIS.2 Image-to-3D generation natively on Apple Silicon",
+      "description": "Score: 139 | Comments: 22 | Posted by shivampkumar",
+      "url": "https://github.com/shivampkumar/trellis-mac",
+      "publishedAt": "2026-04-20T00:07:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "shivampkumar",
+      "tags": []
+    }
+  ]
+}

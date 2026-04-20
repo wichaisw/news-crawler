@@ -1,0 +1,78 @@
+{
+  "date": "2026-04-19",
+  "source": "theverge",
+  "articles": [
+    {
+      "id": "m9lbne",
+      "title": "Blue Origin successfully reused its New Glenn rocket",
+      "description": "Today's launch of AST SpaceMobile's BlueBird 7 satellite aboard Blue Origin's reusable New Glenn rocket was a partial success. The New Glenn touched down on its landing pad without incident, making it the second launch and landing for the first stage booster, and officially giving Jeff Bezos a reusable launch vehicle. Unfortunately for AST SpaceMobile, [&#8230;]",
+      "url": "https://www.theverge.com/science/914729/blue-origin-successfully-reused-its-new-glenn-rocket",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2271539021.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-04-19T20:28:52.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Terrence O’Brien",
+      "tags": []
+    },
+    {
+      "id": "m7wrtm",
+      "title": "Cloud development platform Vercel was hacked",
+      "description": "Vercel, a major development platform that hosts and deploys web apps, was compromised, and the hackers are attempting to sell stolen data. A person claiming to be a member of ShinyHunters, which was behind the recent hack of Rockstar Games, posted some data online, including employee names, email addresses, and activity time stamps. Vercel confirmed [&#8230;]",
+      "url": "https://www.theverge.com/tech/914723/vercel-hacked",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Screenshot-2026-04-19-at-3.53.46PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-04-19T19:54:52.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Terrence O’Brien",
+      "tags": []
+    },
+    {
+      "id": "q5lxic",
+      "title": "Nothing’s modular CMF Headphone Pro are down to their lowest price to date",
+      "description": "Over the past several years, Nothing’s budget-centric subsidiary, CMF, has built a reputation for producing attractive, inexpensive products with features often reserved for gadgets that cost twice the price. The CMF Headphone Pro — the company’s first pair of over-ear wireless headphones — fit precisely in that lane, especially now that they’re on sale at [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/913989/nothing-cmf-noise-canceling-headphone-pro-spring-sale-deal",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/CMF-Headphone-Pro-Deal-Image.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-04-19T14:30:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Brandon Widder",
+      "tags": []
+    },
+    {
+      "id": "pp20gd",
+      "title": "The Stars My Destination is classic proto-cyberpunk",
+      "description": "This might feel like a somewhat obvious recommendation to some, but it flew under my radar until now. Alfred Bester's The Stars My Destination (originally published as Tiger! Tiger! in the UK) is a 1956 sci-fi novel that some have cited as a precursor to cyberpunk. It's a work I admit I have some conflicted [&#8230;]",
+      "url": "https://www.theverge.com/entertainment/914680/the-stars-my-destination-alfred-bester-review-cyberpunk",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/The-Stars-My-Destination.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-04-19T14:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Terrence O’Brien",
+      "tags": []
+    },
+    {
+      "id": "vca3z3",
+      "title": "Marathon battery life makes Keychron’s Ultra 8K keyboards its best yet",
+      "description": "Keychron's expansive keyboard catalog covers everything from basic full-size mechanical boards to niche layouts like southpaw Alice or a one-handed half-keyboard for gaming. Its Q and V series are among our go-to recommendations for off-the-shelf keyboards, and the latest iterations - the Q and V Ultra models - are a straightforward upgrade to the lineup, [&#8230;]",
+      "url": "https://www.theverge.com/tech/914085/keychron-q1-v5-ultra-8k-zmk-mechanical-keyboards-review",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268472_Keychron_V5_Q1_Ultra_8K_keyboards_ADiBenedetto_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-04-19T12:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Antonio G. Di Benedetto",
+      "tags": []
+    },
+    {
+      "id": "u19ejs",
+      "title": "The future of local TV news has taken a Trumpian turn",
+      "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more stories on Big Tech versus politics in Washington, DC, follow Tina Nguyen and read Regulator. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started A long time [&#8230;]",
+      "url": "https://www.theverge.com/column/914674/nexstar-tegna-merger-trump-local-news",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268461_The_Stepback-_Tegna_nexstar_merger_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-04-19T12:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Tina Nguyen",
+      "tags": []
+    }
+  ]
+}

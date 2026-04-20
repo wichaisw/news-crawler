@@ -69,6 +69,17 @@
       "tags": []
     },
     {
+      "id": "yoyutp",
+      "title": "A Common MVP Evolution: Service to System Integration to Product (2017)",
+      "description": "Score: 10 | Comments: 2 | Posted by skmurphy",
+      "url": "https://www.skmurphy.com/blog/2017/08/07/a-common-evolution-service-to-system-integration-to-product/",
+      "publishedAt": "2026-04-17T20:15:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "skmurphy",
+      "tags": []
+    },
+    {
       "id": "z9op0c",
       "title": "\"cat readme.txt\" is not safe if you use iTerm2",
       "description": "Score: 156 | Comments: 84 | Posted by arkadiyt",
@@ -77,6 +88,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "arkadiyt",
+      "tags": []
+    },
+    {
+      "id": "nj0dlc",
+      "title": "Show HN: A working reference implementation of context engineering",
+      "description": "Score: 42 | Comments: 11 | Posted by linsys",
+      "url": "https://github.com/outcomeops/context-engineering",
+      "publishedAt": "2026-04-17T18:20:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "linsys",
       "tags": []
     },
     {
@@ -99,6 +121,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "binsquare",
+      "tags": []
+    },
+    {
+      "id": "mmah78",
+      "title": "Reading Input from an USB RFID Card Reader",
+      "description": "Score: 37 | Comments: 8 | Posted by kevwedotse",
+      "url": "https://kevwe.com/blog/usb-rfid-reader",
+      "publishedAt": "2026-04-17T17:14:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kevwedotse",
       "tags": []
     },
     {
@@ -256,6 +289,17 @@
       "tags": []
     },
     {
+      "id": "nj4e0n",
+      "title": "Archive of BYTE magazine, starting with issue #1 in 1975",
+      "description": "Score: 565 | Comments: 147 | Posted by DamnInteresting",
+      "url": "https://archive.org/details/byte-magazine-1975-09",
+      "publishedAt": "2026-04-17T14:07:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "DamnInteresting",
+      "tags": []
+    },
+    {
       "id": "zdarxk",
       "title": "What Are Skiplists Good For?",
       "description": "Score: 32 | Comments: 6 | Posted by mfiguiere",
@@ -264,6 +308,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mfiguiere",
+      "tags": []
+    },
+    {
+      "id": "kdwevs",
+      "title": "PopOS Linux: Creating a Bootable Backup USB With Encryption",
+      "description": "Score: 16 | Comments: 3 | Posted by fxtentacle",
+      "url": "https://hajo.me/blog/2026/02/16/popos-linux-creating-bootable-backup-USB-with-encryption/",
+      "publishedAt": "2026-04-17T12:32:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fxtentacle",
       "tags": []
     },
     {
@@ -286,6 +341,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "hasheddan",
+      "tags": []
+    },
+    {
+      "id": "k9vdo3",
+      "title": "Monumental ship burial beneath ancient Norwegian mound predates the Viking Age",
+      "description": "Score: 29 | Comments: 5 | Posted by pseudolus",
+      "url": "https://phys.org/news/2026-04-monumental-ship-burial-beneath-ancient.html",
+      "publishedAt": "2026-04-17T09:50:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pseudolus",
       "tags": []
     },
     {
@@ -407,6 +473,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "_fizz_buzz_",
+      "tags": []
+    },
+    {
+      "id": "1f8dzk",
+      "title": "Zero-copy protobuf and ConnectRPC for Rust",
+      "description": "Score: 19 | Comments: 7 | Posted by PaulHoule",
+      "url": "https://medium.com/@iainmcgin/zero-copy-protobuf-and-connectrpc-for-rust-69bda8ac0f02",
+      "publishedAt": "2026-04-17T00:29:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "PaulHoule",
       "tags": []
     }
   ]
