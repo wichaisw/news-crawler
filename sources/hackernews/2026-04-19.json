@@ -80,6 +80,17 @@
       "tags": []
     },
     {
+      "id": "52tkxx",
+      "title": "10 years ago, someone wrote a test for Servo that included an expiry in 2026",
+      "description": "Score: 210 | Comments: 117 | Posted by luu",
+      "url": "https://mastodon.social/@jdm_/116429380667467307",
+      "publishedAt": "2026-04-19T19:19:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "luu",
+      "tags": []
+    },
+    {
       "id": "vjc4ev",
       "title": "Scientific datasets are riddled with copy-paste errors",
       "description": "Score: 82 | Comments: 19 | Posted by jruohonen",
@@ -179,6 +190,17 @@
       "tags": []
     },
     {
+      "id": "jsudhd",
+      "title": "Real-Time Visualization of Human Finger Joint Cavitation (2015)",
+      "description": "Score: 12 | Comments: 3 | Posted by bookofjoe",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0119470",
+      "publishedAt": "2026-04-19T12:22:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bookofjoe",
+      "tags": []
+    },
+    {
       "id": "4j9cm5",
       "title": "Show HN: Prompt-to-Excalidraw demo with Gemma 4 E2B in the browser (3.1GB)",
       "description": "Score: 112 | Comments: 46 | Posted by teamchong",
@@ -198,6 +220,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "pretext",
+      "tags": []
+    },
+    {
+      "id": "3sjwjl",
+      "title": "Tim Davis – Probabilistic engineering and the 24-7 employee",
+      "description": "Score: 12 | Comments: 3 | Posted by kiyanwang",
+      "url": "https://www.timdavis.com/blog/probabilistic-engineering-and-the-24-7-employee",
+      "publishedAt": "2026-04-19T10:03:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kiyanwang",
       "tags": []
     },
     {
@@ -223,6 +256,17 @@
       "tags": []
     },
     {
+      "id": "tkyg9d",
+      "title": "Modern Rendering Culling Techniques",
+      "description": "Score: 129 | Comments: 30 | Posted by krupitskas",
+      "url": "https://krupitskas.com/posts/modern_culling_techniques/",
+      "publishedAt": "2026-04-19T07:54:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "krupitskas",
+      "tags": []
+    },
+    {
       "id": "12w8il",
       "title": "The seven programming ur-languages (2022)",
       "description": "Score: 323 | Comments: 127 | Posted by helloplanets",
@@ -242,6 +286,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "omer_k",
+      "tags": []
+    },
+    {
+      "id": "ffzq6b",
+      "title": "Bullshit About Bullshit Machines [pdf]",
+      "description": "Score: 5 | Comments: 1 | Posted by hedayet",
+      "url": "https://aphyr.com/data/posts/411/the-future-of-everything-is-lies.pdf",
+      "publishedAt": "2026-04-19T07:09:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hedayet",
       "tags": []
     },
     {

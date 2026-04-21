@@ -1,0 +1,61 @@
+{
+  "date": "2026-04-21",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "150314 at https://www.blognone.com",
+      "title": "Deezer เผยสถิติเพลงสร้างจาก AI อัปโหลดเข้ามาคิดเป็น 44% แล้ว แต่มีคนฟังน้อยมาก",
+      "description": "Deezer เผยสถิติเพลงสร้างจาก AI อัปโหลดเข้ามาคิดเป็น 44% แล้ว แต่มีคนฟังน้อยมาก Body Deezer แพลตฟอร์มฟังเพลงสตรีมมิ่ง เปิดเผยสถิติเพลงที่สร้างด้วย AI",
+      "url": "https://www.blognone.com/node/150314",
+      "publishedAt": "2026-04-21T04:55:11.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150313 at https://www.blognone.com",
+      "title": "พอแล้ว รันไม่ไหวแล้ว ไมโครซอฟท์หยุดรับลูกค้า GitHub Copilot ใหม่ชั่วคราว",
+      "description": "พอแล้ว รันไม่ไหวแล้ว ไมโครซอฟท์หยุดรับลูกค้า GitHub Copilot ใหม่ชั่วคราว Body ไมโครซอฟท์ประกาศปิดรับสมัครลูกค้าใหม่ของ GitHub Copilot แพ็กเกจ Pro,",
+      "url": "https://www.blognone.com/node/150313",
+      "publishedAt": "2026-04-21T02:55:12.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150312 at https://www.blognone.com",
+      "title": "Johny Srouji จะเป็นหัวหน้าฝ่ายฮาร์ดแวร์คนใหม่ของ Apple ขยายความรับผิดชอบของว่าที่ซีอีโอ John Ternus",
+      "description": "Johny Srouji จะเป็นหัวหน้าฝ่ายฮาร์ดแวร์คนใหม่ของ Apple ขยายความรับผิดชอบของว่าที่ซีอีโอ John Ternus Body ต่อจากข่าวแอปเปิลแต่งตั้ง John Ternus",
+      "url": "https://www.blognone.com/node/150312",
+      "publishedAt": "2026-04-21T02:21:55.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150310 at https://www.blognone.com",
+      "title": "Amazon ประกาศลงทุนใน Anthropic เพิ่มอีก 5 พันล้านดอลลาร์ แลกกับข้อตกลงใช้ AWS 1 แสนล้านดอลลาร์",
+      "description": "Amazon ประกาศลงทุนใน Anthropic เพิ่มอีก 5 พันล้านดอลลาร์ แลกกับข้อตกลงใช้ AWS 1 แสนล้านดอลลาร์ Body Amazon ประกาศข้อตกลงเพื่อลงทุนใน Anthropic",
+      "url": "https://www.blognone.com/node/150310",
+      "publishedAt": "2026-04-21T01:29:39.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150311 at https://www.blognone.com",
+      "title": "Alibaba Cloud เปิดตัว Qwen3.6-Max ขึ้นแซงหน้า Z.ai GLM-5.1",
+      "description": "Alibaba Cloud เปิดตัว Qwen3.6-Max ขึ้นแซงหน้า Z.ai GLM-5.1 Body Alibaba Cloud เปิดตัว Qwen3.6-Max โมเดลปัญญาประดิษฐ์แบบปิดรุ่นสูงสุดของทีม Qwen",
+      "url": "https://www.blognone.com/node/150311",
+      "publishedAt": "2026-04-21T01:27:46.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}

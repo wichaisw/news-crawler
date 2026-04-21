@@ -146,6 +146,28 @@
       "tags": []
     },
     {
+      "id": "dn2ewf",
+      "title": "How a subsea cable is repaired",
+      "description": "Score: 40 | Comments: 8 | Posted by slicktux",
+      "url": "https://www.onesteppower.com/post/subsea-cable-repair",
+      "publishedAt": "2026-04-16T18:25:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "slicktux",
+      "tags": []
+    },
+    {
+      "id": "5c5qz8",
+      "title": "I Made the \"Next-Level\" Camera and I love it",
+      "description": "Score: 244 | Comments: 69 | Posted by ndr",
+      "url": "https://thelibre.news/i-made-the-next-level-camera-and-i-love-it/",
+      "publishedAt": "2026-04-16T18:19:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ndr",
+      "tags": []
+    },
+    {
       "id": "rpv3",
       "title": "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
       "description": "Score: 371 | Comments: 77 | Posted by simonw",
@@ -418,6 +440,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "fanf2",
+      "tags": []
+    },
+    {
+      "id": "d3wej8",
+      "title": "I learned Unity the wrong way",
+      "description": "Score: 151 | Comments: 97 | Posted by lelanthran",
+      "url": "https://darkounity.com/blog/how-i-learned-unity-the-wrong-way",
+      "publishedAt": "2026-04-16T07:59:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lelanthran",
+      "tags": []
+    },
+    {
+      "id": "ecdy8c",
+      "title": "Zero-Copy Pages in Rust: Or How I Learned to Stop Worrying and Love Lifetimes",
+      "description": "Score: 69 | Comments: 6 | Posted by ingve",
+      "url": "https://redixhumayun.github.io/databases/2026/04/14/zero-copy-pages-in-rust.html",
+      "publishedAt": "2026-04-16T06:11:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingve",
       "tags": []
     },
     {

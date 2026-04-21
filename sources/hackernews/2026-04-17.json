@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "c1xi4q",
+      "title": "Japan's cherry blossom database, 1,200 years old, has a new keeper",
+      "description": "Score: 69 | Comments: 7 | Posted by caycep",
+      "url": "https://www.nytimes.com/2026/04/17/climate/japan-cherry-blossom-database-scientist.html",
+      "publishedAt": "2026-04-17T23:22:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "caycep",
+      "tags": []
+    },
+    {
       "id": "cv4bat",
       "title": "How to Host a Blog on a Subdirectory Instead of a Subdomain (2025)",
       "description": "Score: 24 | Comments: 16 | Posted by taikon",
@@ -22,6 +33,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "unsuspecting",
+      "tags": []
+    },
+    {
+      "id": "6uyjg6",
+      "title": "Kefir C17/C23 Compiler",
+      "description": "Score: 144 | Comments: 12 | Posted by conductor",
+      "url": "https://sr.ht/~jprotopopov/kefir/",
+      "publishedAt": "2026-04-17T22:12:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "conductor",
       "tags": []
     },
     {
@@ -69,6 +91,17 @@
       "tags": []
     },
     {
+      "id": "8snx4k",
+      "title": "Focused microwaves allow 3D printers to fuse circuits onto almost anything",
+      "description": "Score: 156 | Comments: 24 | Posted by breve",
+      "url": "https://newatlas.com/electronics/meta-nfc-focused-microwaves-circuits/",
+      "publishedAt": "2026-04-17T21:03:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "breve",
+      "tags": []
+    },
+    {
       "id": "yoyutp",
       "title": "A Common MVP Evolution: Service to System Integration to Product (2017)",
       "description": "Score: 10 | Comments: 2 | Posted by skmurphy",
@@ -77,6 +110,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "skmurphy",
+      "tags": []
+    },
+    {
+      "id": "tdxvn0",
+      "title": "Up to 8M Bees Are Living in an Underground Network Beneath This Cemetery",
+      "description": "Score: 168 | Comments: 28 | Posted by janandonly",
+      "url": "https://www.discovermagazine.com/up-to-8-million-bees-are-living-in-an-underground-network-beneath-this-cemetery-48977",
+      "publishedAt": "2026-04-17T20:14:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "janandonly",
+      "tags": []
+    },
+    {
+      "id": "8xqedu",
+      "title": "Year of the IPv6 Overlay Network",
+      "description": "Score: 39 | Comments: 8 | Posted by stock_toaster",
+      "url": "https://www.defined.net/blog/year-of-the-ipv6-overlay-network/",
+      "publishedAt": "2026-04-17T18:58:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "stock_toaster",
       "tags": []
     },
     {
@@ -154,6 +209,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "nowflux",
+      "tags": []
+    },
+    {
+      "id": "y4dlce",
+      "title": "Writing string.h functions using string instructions in asm x86-64 (2025)",
+      "description": "Score: 61 | Comments: 6 | Posted by thaisstein",
+      "url": "https://pmasschelier.github.io/x86_64_strings/",
+      "publishedAt": "2026-04-17T16:22:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thaisstein",
       "tags": []
     },
     {

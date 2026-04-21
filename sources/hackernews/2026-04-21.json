@@ -1,0 +1,61 @@
+{
+  "date": "2026-04-21",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "h10phj",
+      "title": "The Beauty of Bonsai Styles",
+      "description": "Score: 20 | Comments: 3 | Posted by lagniappe",
+      "url": "https://longwoodgardens.org/blog/2023-05-17/beauty-bonsai-styles",
+      "publishedAt": "2026-04-21T04:31:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lagniappe",
+      "tags": []
+    },
+    {
+      "id": "g2fwch",
+      "title": "A Roblox cheat and one AI tool brought down Vercel's platform",
+      "description": "Score: 90 | Comments: 33 | Posted by bishwasbh",
+      "url": "https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform",
+      "publishedAt": "2026-04-21T04:12:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bishwasbh",
+      "tags": []
+    },
+    {
+      "id": "pg6i55",
+      "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
+      "description": "Score: 78 | Comments: 31 | Posted by jmsflknr",
+      "url": "https://docs.openclaw.ai/providers/anthropic",
+      "publishedAt": "2026-04-21T03:43:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jmsflknr",
+      "tags": []
+    },
+    {
+      "id": "yl5pkd",
+      "title": "Prediction markets are breaking the news and becoming their own beat",
+      "description": "Score: 22 | Comments: 5 | Posted by gnabgib",
+      "url": "https://www.niemanlab.org/2026/04/prediction-markets-are-breaking-the-news-and-becoming-their-own-beat/",
+      "publishedAt": "2026-04-21T01:46:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gnabgib",
+      "tags": []
+    },
+    {
+      "id": "i2svhx",
+      "title": "How to make a fast dynamic language interpreter",
+      "description": "Score: 128 | Comments: 17 | Posted by pizlonator",
+      "url": "https://zef-lang.dev/implementation",
+      "publishedAt": "2026-04-21T00:48:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pizlonator",
+      "tags": []
+    }
+  ]
+}

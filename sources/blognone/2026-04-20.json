@@ -3,6 +3,62 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "150309 at https://www.blognone.com",
+      "title": "Apple แต่งตั้ง John Ternus เป็นซีอีโอคนถัดไป มีผล 1 กันยายนนี้ Tim Cook ไปเป็นประธานบอร์ด",
+      "description": "Apple แต่งตั้ง John Ternus เป็นซีอีโอคนถัดไป มีผล 1 กันยายนนี้ Tim Cook ไปเป็นประธานบอร์ด Body แอปเปิลประกาศว่า John Ternus",
+      "url": "https://www.blognone.com/node/150309",
+      "imageUrl": "https://www.apple.com/newsroom/images/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/article/Apple-John-Ternus_inline.jpg.large_2x.jpg",
+      "publishedAt": "2026-04-20T21:27:37.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150308 at https://www.blognone.com",
+      "title": "กูเกิลเปิดฟีเจอร์ Gemini in Chrome ในไทย",
+      "description": "กูเกิลเปิดฟีเจอร์ Gemini in Chrome ในไทย Body กูเกิลปล่อยบริการ Gemini in Chrome ในประเทศไทยแล้ว หลังจากขยายบริการขึ้นมาเรื่อยๆ ในช่วงปีที่ผ่านมา และ",
+      "url": "https://www.blognone.com/node/150308",
+      "publishedAt": "2026-04-20T18:13:25.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150307 at https://www.blognone.com",
+      "title": "พลังงานยาน Voyager เริ่มหมด ทีมงานเตรียมปรับไปใช้โหมดประหยัดพลังงาน",
+      "description": "พลังงานยาน Voyager เริ่มหมด ทีมงานเตรียมปรับไปใช้โหมดประหยัดพลังงาน Body นาซ่ารายงานถึงสถานการณ์พลังงานของยาน Voyager ทั้งสองลำว่ากำลังลดต่ำลงเรื่อยๆ",
+      "url": "https://www.blognone.com/node/150307",
+      "publishedAt": "2026-04-20T15:52:48.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150306 at https://www.blognone.com",
+      "title": "SK Hynix เริ่มสายการผลิตหลักหน่วยความจำ 192GB SOCAMM2 สำหรับเซิร์ฟเวอร์ AI",
+      "description": "SK Hynix เริ่มสายการผลิตหลักหน่วยความจำ 192GB SOCAMM2 สำหรับเซิร์ฟเวอร์ AI Body SK Hynix ประกาศเริ่มสายการผลิตหลักหน่วยความจำ 192GB แบบโมดูล SOCAMM2",
+      "url": "https://www.blognone.com/node/150306",
+      "publishedAt": "2026-04-20T11:17:08.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150305 at https://www.blognone.com",
+      "title": "[ลือ] Apple ปรับอินเทอร์เฟซ Siri ใหม่ใน iOS 27 เป็นไฟสว่างเมื่อเรียกใช้งาน",
+      "description": "[ลือ] Apple ปรับอินเทอร์เฟซ Siri ใหม่ใน iOS 27 เป็นไฟสว่างเมื่อเรียกใช้งาน Body รวมข่าวลือแอปเปิลประจำสัปดาห์โดย Mark Gurman คนเดิม คราวนี้มีทั้ง iOS",
+      "url": "https://www.blognone.com/node/150305",
+      "publishedAt": "2026-04-20T07:43:03.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "150304 at https://www.blognone.com",
       "title": "Vercel ถูกแฮกผ่านระบบซัพพอร์ต คนร้ายขโมยรหัสผ่านลูกค้าได้บางส่วน",
       "description": "Vercel ถูกแฮกผ่านระบบซัพพอร์ต คนร้ายขโมยรหัสผ่านลูกค้าได้บางส่วน Body Vercel ผู้สร้างเฟรมเวิร์ค Next.js",
