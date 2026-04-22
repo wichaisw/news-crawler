@@ -1,0 +1,72 @@
+{
+  "date": "2026-04-22",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "dqx6yk",
+      "title": "Global energy markets are on the verge of a disaster",
+      "description": "Score: 10 | Comments: 2 | Posted by petethomas",
+      "url": "https://www.economist.com/finance-and-economics/2026/04/21/global-energy-markets-are-on-the-verge-of-a-disaster",
+      "publishedAt": "2026-04-22T03:59:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "petethomas",
+      "tags": []
+    },
+    {
+      "id": "i9u9rd",
+      "title": "FBI looks into dead or missing scientists tied to NASA, Blue Origin, SpaceX",
+      "description": "Score: 98 | Comments: 23 | Posted by ineedasername",
+      "url": "https://fortune.com/2026/04/21/scientists-disappear-die-nasa-space-blue-origin-spacex/",
+      "publishedAt": "2026-04-22T02:49:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ineedasername",
+      "tags": []
+    },
+    {
+      "id": "c6qv3u",
+      "title": "Making RAM at Home [video]youtube.com",
+      "description": "Score: 200 | Comments: 42 | Posted by kaipereira",
+      "url": "https://www.youtube.com/watch?v=h6GWikWlAQA",
+      "publishedAt": "2026-04-22T02:44:57.334Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kaipereira",
+      "tags": []
+    },
+    {
+      "id": "7hcnlm",
+      "title": "Kuri – Zig based agent-browser alternative",
+      "description": "Score: 11 | Comments: 1 | Posted by sorcercode",
+      "url": "https://github.com/justrach/kuri",
+      "publishedAt": "2026-04-22T02:15:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sorcercode",
+      "tags": []
+    },
+    {
+      "id": "so12uv",
+      "title": "Global growth in solar \"the largest ever observed for any source\"",
+      "description": "Score: 67 | Comments: 5 | Posted by tambourine_man",
+      "url": "https://arstechnica.com/science/2026/04/global-growth-in-solar-the-largest-ever-observed-for-any-source/",
+      "publishedAt": "2026-04-22T01:25:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tambourine_man",
+      "tags": []
+    },
+    {
+      "id": "jrz1xo",
+      "title": "San Diego rents declined following surge in supply",
+      "description": "Score: 173 | Comments: 138 | Posted by littlexsparkee",
+      "url": "https://www.kpbs.org/news/economy/2026/03/27/san-diego-rents-declined-more-than-19-of-nations-top-20-markets-following-surge-in-supply",
+      "publishedAt": "2026-04-22T01:21:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "littlexsparkee",
+      "tags": []
+    }
+  ]
+}

@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "c6qv3u",
+      "title": "Making RAM at Home [video]",
+      "description": "Score: 200 | Comments: 42 | Posted by kaipereira",
+      "url": "https://www.youtube.com/watch?v=h6GWikWlAQA",
+      "publishedAt": "2026-04-20T23:35:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kaipereira",
+      "tags": []
+    },
+    {
       "id": "6o96gr",
       "title": "Linux PTP mainline development war story and new features",
       "description": "Score: 12 | Comments: 0 | Posted by ahlCVA",
@@ -124,6 +135,17 @@
       "tags": []
     },
     {
+      "id": "yi2kqz",
+      "title": "Changes to GitHub Copilot individual plans",
+      "description": "Score: 399 | Comments: 156 | Posted by zorrn",
+      "url": "https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/",
+      "publishedAt": "2026-04-20T18:24:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zorrn",
+      "tags": []
+    },
+    {
       "id": "h46kn7",
       "title": "Quantum Computers Are Not a Threat to 128-Bit Symmetric Keys",
       "description": "Score: 195 | Comments: 72 | Posted by hasheddan",
@@ -132,6 +154,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "hasheddan",
+      "tags": []
+    },
+    {
+      "id": "17k1cx",
+      "title": "Show HN: Ctx – a /resume that works across Claude Code and Codex",
+      "description": "Score: 60 | Comments: 25 | Posted by dchu17",
+      "url": "https://github.com/dchu917/ctx",
+      "publishedAt": "2026-04-20T16:35:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dchu17",
       "tags": []
     },
     {
@@ -157,6 +190,17 @@
       "tags": []
     },
     {
+      "id": "u98sa4",
+      "title": "A printing press for biological data",
+      "description": "Score: 20 | Comments: 0 | Posted by crescit_eundo",
+      "url": "https://www.owlposting.com/p/the-printing-press-for-biological",
+      "publishedAt": "2026-04-20T15:34:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "crescit_eundo",
+      "tags": []
+    },
+    {
       "id": "lv9yb2",
       "title": "Kimi K2.6: Advancing open-source coding",
       "description": "Score: 631 | Comments: 329 | Posted by meetpateltech",
@@ -165,6 +209,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "meetpateltech",
+      "tags": []
+    },
+    {
+      "id": "dzmv3l",
+      "title": "My practitioner view of program analysis",
+      "description": "Score: 44 | Comments: 5 | Posted by evakhoury",
+      "url": "https://sawyer.dev/posts/practitioner-program-analysis/",
+      "publishedAt": "2026-04-20T15:27:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "evakhoury",
+      "tags": []
+    },
+    {
+      "id": "bwpnaa",
+      "title": "Acetaminophen vs. ibuprofen",
+      "description": "Score: 256 | Comments: 105 | Posted by nkurz",
+      "url": "https://asteriskmag.com/issues/14/the-mystery-in-the-medicine-cabinet",
+      "publishedAt": "2026-04-20T15:21:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nkurz",
       "tags": []
     },
     {
@@ -300,6 +366,17 @@
       "tags": []
     },
     {
+      "id": "km4alw",
+      "title": "Fields Medal Video: Maryna Viazovska (2022)",
+      "description": "Score: 27 | Comments: 8 | Posted by ganitam",
+      "url": "https://www.simonsfoundation.org/2022/07/05/fields-medal-video-maryna-viazovska/",
+      "publishedAt": "2026-04-20T05:30:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ganitam",
+      "tags": []
+    },
+    {
       "id": "kjhqpz",
       "title": "Stripe's Payment APIs: the first 10 years (2020)",
       "description": "Score: 4 | Comments: 0 | Posted by tibbar",
@@ -308,6 +385,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "tibbar",
+      "tags": []
+    },
+    {
+      "id": "ebj8eg",
+      "title": "Theseus, a Static Windows Emulator",
+      "description": "Score: 96 | Comments: 13 | Posted by zdw",
+      "url": "https://neugierig.org/software/blog/2026/04/theseus.html",
+      "publishedAt": "2026-04-20T04:14:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
       "tags": []
     },
     {

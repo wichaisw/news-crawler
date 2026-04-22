@@ -36,6 +36,17 @@
       "tags": []
     },
     {
+      "id": "7viipd",
+      "title": "20000 Gates and 20 MIPS [pdf]",
+      "description": "Score: 7 | Comments: 3 | Posted by ingve",
+      "url": "https://bitsavers.org/pdf/amdahl/history/20000_Gates_and_20_MIPS_199011.pdf",
+      "publishedAt": "2026-04-18T22:08:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingve",
+      "tags": []
+    },
+    {
       "id": "r40471",
       "title": "My first impressions on ROCm and Strix Halo",
       "description": "Score: 33 | Comments: 25 | Posted by random_",
@@ -223,6 +234,17 @@
       "tags": []
     },
     {
+      "id": "llg4o3",
+      "title": "Optimizing Tail Sampling in OpenTelemetry with Retroactive Sampling",
+      "description": "Score: 13 | Comments: 0 | Posted by valyala",
+      "url": "https://victoriametrics.com/blog/kubecon-eu-2026-sampling/index.html",
+      "publishedAt": "2026-04-18T14:45:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "valyala",
+      "tags": []
+    },
+    {
       "id": "hp8dq8",
       "title": "Reverse Engineering ME2's USB with a Heat Gun and a Knife",
       "description": "Score: 61 | Comments: 8 | Posted by Bawoosette",
@@ -242,6 +264,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "yusufusta",
+      "tags": []
+    },
+    {
+      "id": "a6ltth",
+      "title": "Running a Minecraft Server and more on a 1960s UNIVAC Computer",
+      "description": "Score: 210 | Comments: 33 | Posted by brilee",
+      "url": "https://farlow.dev/2026/04/17/running-a-minecraft-server-and-more-on-a-1960s-univac-computer",
+      "publishedAt": "2026-04-18T12:41:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "brilee",
       "tags": []
     },
     {
@@ -275,6 +308,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "f_r_d",
+      "tags": []
+    },
+    {
+      "id": "n3grjs",
+      "title": "Stephen's Sausage Roll remains one of the most influential puzzle games",
+      "description": "Score: 174 | Comments: 83 | Posted by tobr",
+      "url": "https://thinkygames.com/features/10-years-of-grilling-stephens-sausage-roll-remains-one-of-the-most-influential-puzzle-games-ever-created/",
+      "publishedAt": "2026-04-18T10:53:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tobr",
       "tags": []
     },
     {

@@ -36,6 +36,17 @@
       "tags": []
     },
     {
+      "id": "57o37t",
+      "title": "Hunting a 34 year old pointer bug in EtherSlip",
+      "description": "Score: 24 | Comments: 2 | Posted by mbbrutman",
+      "url": "https://www.brutman.com/Adventures_In_Code/EtherSlip_ARP/EtherSlip_ARP.html",
+      "publishedAt": "2026-04-19T21:57:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mbbrutman",
+      "tags": []
+    },
+    {
       "id": "igzo1h",
       "title": "Show HN: Newsmaps.io a map of how news topics are covered by different countries",
       "description": "Score: 10 | Comments: 4 | Posted by mkoh",
@@ -102,6 +113,17 @@
       "tags": []
     },
     {
+      "id": "6g03vw",
+      "title": "Clarus, Moofo, and Lackey",
+      "description": "Score: 5 | Comments: 0 | Posted by xk3",
+      "url": "https://www.storybytes.com/view-moof/articles/mim.html",
+      "publishedAt": "2026-04-19T19:10:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "xk3",
+      "tags": []
+    },
+    {
       "id": "e4843a",
       "title": "Six Levels of Dark Mode (2024)",
       "description": "Score: 71 | Comments: 34 | Posted by Akcium",
@@ -132,6 +154,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "crescit_eundo",
+      "tags": []
+    },
+    {
+      "id": "bempgu",
+      "title": "Some secret management belongs in your HTTP proxy",
+      "description": "Score: 15 | Comments: 2 | Posted by tosh",
+      "url": "https://blog.exe.dev/http-proxy-secrets",
+      "publishedAt": "2026-04-19T17:19:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tosh",
       "tags": []
     },
     {
@@ -223,6 +256,17 @@
       "tags": []
     },
     {
+      "id": "tyljxy",
+      "title": "In the UK, EVs are cheaper than petrol cars, thanks to Chinese competition",
+      "description": "Score: 170 | Comments: 159 | Posted by breve",
+      "url": "https://electrek.co/2026/04/18/in-the-uk-evs-are-cheaper-than-petrol-cars-thanks-to-chinese-competition/",
+      "publishedAt": "2026-04-19T10:15:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "breve",
+      "tags": []
+    },
+    {
       "id": "3sjwjl",
       "title": "Tim Davis – Probabilistic engineering and the 24-7 employee",
       "description": "Score: 12 | Comments: 3 | Posted by kiyanwang",
@@ -231,6 +275,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "kiyanwang",
+      "tags": []
+    },
+    {
+      "id": "ho6pxw",
+      "title": "Edit store price tags using Flipper Zero",
+      "description": "Score: 325 | Comments: 296 | Posted by trueduke",
+      "url": "https://github.com/i12bp8/TagTinker",
+      "publishedAt": "2026-04-19T09:26:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "trueduke",
       "tags": []
     },
     {
@@ -297,6 +352,39 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "hedayet",
+      "tags": []
+    },
+    {
+      "id": "q7hxs6",
+      "title": "Show HN: Backlit Keyboard API for Python",
+      "description": "Score: 25 | Comments: 4 | Posted by itsmeadarsh",
+      "url": "https://github.com/itsmeadarsh2008/backlit-kbd",
+      "publishedAt": "2026-04-19T06:52:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "itsmeadarsh",
+      "tags": []
+    },
+    {
+      "id": "zyjno",
+      "title": "Garbage Collection Without Unsafe Code",
+      "description": "Score: 10 | Comments: 1 | Posted by foota",
+      "url": "https://fitzgen.com/2024/02/06/safe-gc.html",
+      "publishedAt": "2026-04-19T04:41:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "foota",
+      "tags": []
+    },
+    {
+      "id": "e1fe0e",
+      "title": "Windows Server 2025 Runs Better on ARM",
+      "description": "Score: 102 | Comments: 82 | Posted by jasoneckert",
+      "url": "https://jasoneckert.github.io/myblog/server-2025-arm64/",
+      "publishedAt": "2026-04-19T04:28:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jasoneckert",
       "tags": []
     },
     {
