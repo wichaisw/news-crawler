@@ -1,0 +1,127 @@
+{
+  "date": "2026-04-23",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "ms8ujz",
+      "title": "Ars Technica: Our newsroom AI policy",
+      "description": "Score: 11 | Comments: 1 | Posted by zdw",
+      "url": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
+      "publishedAt": "2026-04-23T05:14:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "ovhgrh",
+      "title": "I am building a cloud",
+      "description": "Score: 135 | Comments: 35 | Posted by bumbledraven",
+      "url": "https://crawshaw.io/blog/building-a-cloud",
+      "publishedAt": "2026-04-23T04:44:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bumbledraven",
+      "tags": []
+    },
+    {
+      "id": "u3cv7i",
+      "title": "Show HN: Real-Real-Time Chat",
+      "description": "Score: 3 | Comments: 1 | Posted by levmiseri",
+      "url": "https://kraa.io/kraa/trees",
+      "publishedAt": "2026-04-23T03:50:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "levmiseri",
+      "tags": []
+    },
+    {
+      "id": "nncz5a",
+      "title": "Tasteful Tokenmaxxing",
+      "description": "Score: 5 | Comments: 0 | Posted by omer_k",
+      "url": "https://www.latent.space/p/ainews-tasteful-tokenmaxxing",
+      "publishedAt": "2026-04-23T03:13:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "omer_k",
+      "tags": []
+    },
+    {
+      "id": "o1tae3",
+      "title": "Borrow-checking without type-checking",
+      "description": "Score: 44 | Comments: 6 | Posted by jamii",
+      "url": "https://www.scattered-thoughts.net/writing/borrow-checking-without-type-checking/",
+      "publishedAt": "2026-04-23T02:55:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jamii",
+      "tags": []
+    },
+    {
+      "id": "5wcby9",
+      "title": "Flow Map Learning via Nongradient Vector Flow [pdf]",
+      "description": "Score: 20 | Comments: 0 | Posted by E-Reverance",
+      "url": "https://openreview.net/pdf?id=C1bkDPqvDW",
+      "publishedAt": "2026-04-23T02:52:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "E-Reverance",
+      "tags": []
+    },
+    {
+      "id": "iuvu0i",
+      "title": "Arch Linux Now Has a Bit-for-Bit Reproducible Docker Image",
+      "description": "Score: 12 | Comments: 0 | Posted by maxloh",
+      "url": "https://antiz.fr/blog/archlinux-now-has-a-reproducible-docker-image/",
+      "publishedAt": "2026-04-23T01:59:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "maxloh",
+      "tags": []
+    },
+    {
+      "id": "khtghh",
+      "title": "Tempest vs. Tempest: The Making and Remaking of Atari's Iconic Video Game",
+      "description": "Score: 55 | Comments: 19 | Posted by mwenge",
+      "url": "https://tempest.homemade.systems",
+      "publishedAt": "2026-04-23T01:02:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mwenge",
+      "tags": []
+    },
+    {
+      "id": "s7friq",
+      "title": "OpenAI's response to the Axios developer tool compromise",
+      "description": "Score: 60 | Comments: 26 | Posted by shpat",
+      "url": "https://openai.com/index/axios-developer-tool-compromise/",
+      "publishedAt": "2026-04-23T00:45:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "shpat",
+      "tags": []
+    },
+    {
+      "id": "nhbyyx",
+      "title": "An MCP Server for Fastmail – National Email Day",
+      "description": "Score: 17 | Comments: 2 | Posted by nmjenkins",
+      "url": "https://www.fastmail.com/blog/an-mcp-server-for-fastmail/",
+      "publishedAt": "2026-04-23T00:29:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nmjenkins",
+      "tags": []
+    },
+    {
+      "id": "1bozs0",
+      "title": "OpenAI model for masking personally identifiable information (PII) in text",
+      "description": "Score: 19 | Comments: 6 | Posted by tanelpoder",
+      "url": "https://openai.com/index/introducing-openai-privacy-filter/",
+      "publishedAt": "2026-04-23T00:14:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tanelpoder",
+      "tags": []
+    }
+  ]
+}

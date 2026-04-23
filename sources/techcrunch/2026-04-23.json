@@ -1,0 +1,28 @@
+{
+  "date": "2026-04-23",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3115545",
+      "title": "India’s app market is booming — but global platforms are capturing most of the gains",
+      "description": "Non-gaming apps, led by streaming and AI, are driving growth, even as India's spending per user lags global peers.",
+      "url": "https://techcrunch.com/2026/04/22/indias-app-market-is-booming-but-global-platforms-are-capturing-most-of-the-gains/",
+      "publishedAt": "2026-04-23T04:38:45.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Jagmeet Singh",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3113615",
+      "title": "Shade lands $14M to let creative teams search their video libraries in plain English",
+      "description": "Shade has its own filesystem that lets you \"stream\" files directly to your local drive",
+      "url": "https://techcrunch.com/2026/04/22/shade-lands-14m-to-let-creative-teams-search-their-video-libraries-in-plain-english/",
+      "publishedAt": "2026-04-23T04:17:52.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Ivan Mehta",
+      "tags": []
+    }
+  ]
+}

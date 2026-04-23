@@ -69,6 +69,17 @@
       "tags": []
     },
     {
+      "id": "8casip",
+      "title": "What killed the Florida orange?",
+      "description": "Score: 144 | Comments: 135 | Posted by danso",
+      "url": "https://slate.com/business/2026/04/florida-state-orange-food-houses-real-estate.html",
+      "publishedAt": "2026-04-20T21:00:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "danso",
+      "tags": []
+    },
+    {
       "id": "xoupyc",
       "title": "John Ternus to become Apple CEOapple.com",
       "description": "Score: 1589 | Comments: 784 | Posted by schappim",
@@ -77,6 +88,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "schappim",
+      "tags": []
+    },
+    {
+      "id": "ij5wqk",
+      "title": "Verus is a tool for verifying the correctness of code written in Rust",
+      "description": "Score: 45 | Comments: 7 | Posted by fanf2",
+      "url": "https://verus-lang.github.io/verus/guide/",
+      "publishedAt": "2026-04-20T20:42:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fanf2",
       "tags": []
     },
     {
@@ -179,6 +201,17 @@
       "tags": []
     },
     {
+      "id": "rfh7gj",
+      "title": "Effectful Recursion Schemes",
+      "description": "Score: 25 | Comments: 1 | Posted by marvinborner",
+      "url": "https://effekt-lang.org/blog/recursion-schemes/",
+      "publishedAt": "2026-04-20T15:48:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "marvinborner",
+      "tags": []
+    },
+    {
       "id": "gxzi7w",
       "title": "Deezer says 44% of songs uploaded to its platform daily are AI-generated",
       "description": "Score: 335 | Comments: 331 | Posted by FiddlerClamp",
@@ -242,6 +275,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "sanity",
+      "tags": []
+    },
+    {
+      "id": "sqspcl",
+      "title": "How does Shazam work?",
+      "description": "Score: 152 | Comments: 32 | Posted by datadrivenangel",
+      "url": "https://perthirtysix.com/how-the-heck-does-shazam-work",
+      "publishedAt": "2026-04-20T15:04:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "datadrivenangel",
+      "tags": []
+    },
+    {
+      "id": "44x59t",
+      "title": "Rip language. Compiles to ES2022. Built-in reactivity",
+      "description": "Score: 20 | Comments: 5 | Posted by perfunctory",
+      "url": "https://github.com/shreeve/rip-lang",
+      "publishedAt": "2026-04-20T14:29:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "perfunctory",
       "tags": []
     },
     {
@@ -363,6 +418,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "feigewalnuss",
+      "tags": []
+    },
+    {
+      "id": "cbmcp0",
+      "title": "The great Scouse pasty war",
+      "description": "Score: 48 | Comments: 11 | Posted by DamonHD",
+      "url": "https://www.livpost.co.uk/the-great-scouse-pasty-war/",
+      "publishedAt": "2026-04-20T06:45:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "DamonHD",
       "tags": []
     },
     {

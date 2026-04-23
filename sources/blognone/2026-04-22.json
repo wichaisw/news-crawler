@@ -3,6 +3,83 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "150329 at https://www.blognone.com",
+      "title": "Apple อัปเดต iOS 26.4.2 และ iOS 18.7.8 แก้ไขบั๊กและช่องโหว่ความปลอดภัย",
+      "description": "Apple อัปเดต iOS 26.4.2 และ iOS 18.7.8 แก้ไขบั๊กและช่องโหว่ความปลอดภัย Body แอปเปิลออกอัปเดตย่อย iOS 26.4.2 และ iPadOS 26.4.2 ระบบปฏิบัติการของ",
+      "url": "https://www.blognone.com/node/150329",
+      "publishedAt": "2026-04-22T23:48:47.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150328 at https://www.blognone.com",
+      "title": "X ออกฟีเจอร์ Custom Timeline แสดงเฉพาะโพสต์ตามหัวข้อที่สนใจ",
+      "description": "X ออกฟีเจอร์ Custom Timeline แสดงเฉพาะโพสต์ตามหัวข้อที่สนใจ Body Nikita Bier หัวหน้าฝ่ายผลิตภัณฑ์ของ X เปิดตัวฟีเจอร์ใหม่ Custom Timeline",
+      "url": "https://www.blognone.com/node/150328",
+      "publishedAt": "2026-04-22T22:41:56.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150327 at https://www.blognone.com",
+      "title": "Tesla ไตรมาส 1/2026 รายได้รวมโต 16% จำนวนรถส่งมอบเพิ่มขึ้น 6%",
+      "description": "Tesla ไตรมาส 1/2026 รายได้รวมโต 16% จำนวนรถส่งมอบเพิ่มขึ้น 6% Body Tesla รายงานผลประกอบการของไตรมาสที่ 1 ปี 2026 มีรายได้รวม 22,387 ล้านดอลลาร์",
+      "url": "https://www.blognone.com/node/150327",
+      "publishedAt": "2026-04-22T22:40:52.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150326 at https://www.blognone.com",
+      "title": "IBM ไตรมาส 1/2026 รายได้รวมโต 9% จากปีก่อน",
+      "description": "IBM ไตรมาส 1/2026 รายได้รวมโต 9% จากปีก่อน Body ไอบีเอ็มรายงานผลประกอบการของไตรมาสที่ 1 ปี 2026 มีรายได้รวม 15,917 ล้านดอลลาร์ เพิ่มขึ้น 9%",
+      "url": "https://www.blognone.com/node/150326",
+      "publishedAt": "2026-04-22T22:09:55.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150325 at https://www.blognone.com",
+      "title": "กูเกิลเปิดตัว TPU รุ่นที่ 8 แยกชิปฝึกโมเดลออกจากชิปรัน",
+      "description": "กูเกิลเปิดตัว TPU รุ่นที่ 8 แยกชิปฝึกโมเดลออกจากชิปรัน Body กูเกิลเปิดตัวชิป TPU รุ่นที่ 8 แยกเป็น TPU 8t สำหรับฝึกโมเดลปัญญาประดิษฐ์และ TPU 8i",
+      "url": "https://www.blognone.com/node/150325",
+      "publishedAt": "2026-04-22T17:36:13.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150324 at https://www.blognone.com",
+      "title": "ทุกอย่างล้วน Gemini กูเกิลรวบบริการ LLM ฝั่งองค์กรทั้งหมดเป็นชื่อ Gemini Enterprise",
+      "description": "ทุกอย่างล้วน Gemini กูเกิลรวบบริการ LLM ฝั่งองค์กรทั้งหมดเป็นชื่อ Gemini Enterprise Body กูเกิลจัดชื่อบริการฝั่งปัญญาประดิษฐ์ LLM ด้วยการใช้ชื่อ",
+      "url": "https://www.blognone.com/node/150324",
+      "publishedAt": "2026-04-22T16:57:45.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150322 at https://www.blognone.com",
+      "title": "Firefox 150 แก้ไขช่องโหว่ความปลอดภัยถึง 271 รายการ เพราะการตรวจสอบด้วย Claude Mythos",
+      "description": "Firefox 150 แก้ไขช่องโหว่ความปลอดภัยถึง 271 รายการ เพราะการตรวจสอบด้วย Claude Mythos Body Mozilla เปิดเผยว่าหลังความร่วมมือกับ Anthropic ในการใช้งาน",
+      "url": "https://www.blognone.com/node/150322",
+      "publishedAt": "2026-04-22T06:33:32.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "150321 at https://www.blognone.com",
       "title": "John Ternus ว่าที่ซีอีโอ Apple บอกพนักงาน แผนผลิตภัณฑ์จากนี้น่าตื่นเต้นที่สุดตั้งแต่เขาทำงานมา",
       "description": "John Ternus ว่าที่ซีอีโอ Apple บอกพนักงาน แผนผลิตภัณฑ์จากนี้น่าตื่นเต้นที่สุดตั้งแต่เขาทำงานมา Body Mark Gurman",
