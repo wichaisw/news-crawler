@@ -1,0 +1,116 @@
+{
+  "date": "2026-04-24",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "r87lus",
+      "title": "Familiarity is the enemy: On why Enterprise systems have failed for 60 years",
+      "description": "Score: 16 | Comments: 3 | Posted by adityaathalye",
+      "url": "https://felixbarbalet.com/familiarity-is-the-enemy/",
+      "publishedAt": "2026-04-24T04:48:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "adityaathalye",
+      "tags": []
+    },
+    {
+      "id": "jg1z5w",
+      "title": "Ubuntu 26.04",
+      "description": "Score: 113 | Comments: 50 | Posted by lxst",
+      "url": "https://lwn.net/Articles/1069399/",
+      "publishedAt": "2026-04-24T04:38:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lxst",
+      "tags": []
+    },
+    {
+      "id": "6izfq5",
+      "title": "Habitual coffee intake shapes the microbiome, modifies physiology and cognition",
+      "description": "Score: 94 | Comments: 35 | Posted by scubakid",
+      "url": "https://www.nature.com/articles/s41467-026-71264-8",
+      "publishedAt": "2026-04-24T04:04:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "scubakid",
+      "tags": []
+    },
+    {
+      "id": "3sc8lx",
+      "title": "AI run store in SF can't stop ordering candies and paying women less.",
+      "description": "Score: 9 | Comments: 3 | Posted by fragmede",
+      "url": "https://sfist.com/2026/04/21/ai-store-manager-paying-female-employees-less-cant-stop-ordering-candles/",
+      "publishedAt": "2026-04-24T03:57:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fragmede",
+      "tags": []
+    },
+    {
+      "id": "voxknb",
+      "title": "DeepSeek v4deepseek.com",
+      "description": "Score: 569 | Comments: 270 | Posted by impact_sy",
+      "url": "https://api-docs.deepseek.com/",
+      "publishedAt": "2026-04-24T03:46:29.564Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "impact_sy",
+      "tags": []
+    },
+    {
+      "id": "bh038j",
+      "title": "Equity for Europeans",
+      "description": "Score: 11 | Comments: 0 | Posted by Tomte",
+      "url": "https://lucumr.pocoo.org/2026/4/23/equity-for-europeans/",
+      "publishedAt": "2026-04-24T03:33:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Tomte",
+      "tags": []
+    },
+    {
+      "id": "3pfi74",
+      "title": "A quick look at Mythos run on Firefox: too much hype?",
+      "description": "Score: 59 | Comments: 18 | Posted by leonidasv",
+      "url": "https://xark.es/b/mythos-firefox-150",
+      "publishedAt": "2026-04-24T03:12:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "leonidasv",
+      "tags": []
+    },
+    {
+      "id": "voxknb",
+      "title": "DeepSeek v4",
+      "description": "Score: 572 | Comments: 271 | Posted by impact_sy",
+      "url": "https://api-docs.deepseek.com/",
+      "publishedAt": "2026-04-24T03:01:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "impact_sy",
+      "tags": []
+    },
+    {
+      "id": "ocnh8a",
+      "title": "Nev – keyboard focused GUI and terminal text editor",
+      "description": "Score: 8 | Comments: 0 | Posted by archargelod",
+      "url": "https://github.com/Nimaoth/Nev",
+      "publishedAt": "2026-04-24T02:45:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "archargelod",
+      "tags": []
+    },
+    {
+      "id": "g9u528",
+      "title": "Why I Write (1946)",
+      "description": "Score: 121 | Comments: 25 | Posted by RyanShook",
+      "url": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/",
+      "publishedAt": "2026-04-24T02:26:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "RyanShook",
+      "tags": []
+    }
+  ]
+}
