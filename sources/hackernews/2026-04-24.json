@@ -3,6 +3,270 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "il0ssr",
+      "title": "FusionCore: ROS 2 sensor fusion (IMU and GPS and encoders)",
+      "description": "Score: 15 | Comments: 8 | Posted by kharwarm",
+      "url": "https://github.com/manankharwar/fusioncore",
+      "publishedAt": "2026-04-24T22:36:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kharwarm",
+      "tags": []
+    },
+    {
+      "id": "qjweql",
+      "title": "$8800 house design helps prevent fatal diseases in African children",
+      "description": "Score: 21 | Comments: 2 | Posted by gmays",
+      "url": "https://www.science.org/content/article/simple-house-may-help-prevent-multiple-fatal-diseases-african-children",
+      "publishedAt": "2026-04-24T22:35:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gmays",
+      "tags": []
+    },
+    {
+      "id": "a2xo9y",
+      "title": "Show HN: I've built a nice home server OS",
+      "description": "Score: 101 | Comments: 39 | Posted by Zta77",
+      "url": "https://lightwhale.asklandd.dk/",
+      "publishedAt": "2026-04-24T21:42:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Zta77",
+      "tags": []
+    },
+    {
+      "id": "gl2jpc",
+      "title": "My audio interface has SSH enabled by default",
+      "description": "Score: 212 | Comments: 71 | Posted by hhh",
+      "url": "https://hhh.hn/rodecaster-duo-fw/",
+      "publishedAt": "2026-04-24T19:30:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hhh",
+      "tags": []
+    },
+    {
+      "id": "wcrzx9",
+      "title": "The Classic American Diner",
+      "description": "Score: 199 | Comments: 120 | Posted by NaOH",
+      "url": "https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/",
+      "publishedAt": "2026-04-24T19:01:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "NaOH",
+      "tags": []
+    },
+    {
+      "id": "uovzyh",
+      "title": "MiniZinc, constraint modelling language solve discrete optimisation problems",
+      "description": "Score: 28 | Comments: 0 | Posted by Alifatisk",
+      "url": "https://www.minizinc.org",
+      "publishedAt": "2026-04-24T18:47:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Alifatisk",
+      "tags": []
+    },
+    {
+      "id": "x843b0",
+      "title": "SFO Quiet Airport (2025)",
+      "description": "Score: 142 | Comments: 82 | Posted by CaliforniaKarl",
+      "url": "https://viewfromthewing.com/san-francisco-airport-removed-90-minutes-of-daily-noise-travelers-say-it-changed-everything/",
+      "publishedAt": "2026-04-24T18:29:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "CaliforniaKarl",
+      "tags": []
+    },
+    {
+      "id": "1ke2zt",
+      "title": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API",
+      "description": "Score: 230 | Comments: 125 | Posted by arabicalories",
+      "url": "https://developers.openai.com/api/docs/changelog",
+      "publishedAt": "2026-04-24T18:23:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "arabicalories",
+      "tags": []
+    },
+    {
+      "id": "2xnywq",
+      "title": "There Will Be a Scientific Theory of Deep Learning",
+      "description": "Score: 199 | Comments: 77 | Posted by jamie-simon",
+      "url": "https://arxiv.org/abs/2604.21691",
+      "publishedAt": "2026-04-24T18:06:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jamie-simon",
+      "tags": []
+    },
+    {
+      "id": "ikpc4i",
+      "title": "CC-Canary: Detect early signs of regressions in Claude Code",
+      "description": "Score: 52 | Comments: 24 | Posted by tejpalv",
+      "url": "https://github.com/delta-hq/cc-canary",
+      "publishedAt": "2026-04-24T17:53:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tejpalv",
+      "tags": []
+    },
+    {
+      "id": "ctji61",
+      "title": "CSS as a Query Language",
+      "description": "Score: 68 | Comments: 23 | Posted by evnc",
+      "url": "https://evdc.me/blog/css-query",
+      "publishedAt": "2026-04-24T17:39:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "evnc",
+      "tags": []
+    },
+    {
+      "id": "iys4ob",
+      "title": "Redesigning the Recurse Center application to inspire curious programmers",
+      "description": "Score: 64 | Comments: 10 | Posted by nicholasjbs",
+      "url": "https://www.recurse.com/blog/192-redesigning-the-recurse-center-application",
+      "publishedAt": "2026-04-24T16:45:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nicholasjbs",
+      "tags": []
+    },
+    {
+      "id": "b6v633",
+      "title": "SDL Now Supports DOS",
+      "description": "Score: 245 | Comments: 100 | Posted by Jayschwa",
+      "url": "https://github.com/libsdl-org/SDL/pull/15377",
+      "publishedAt": "2026-04-24T16:20:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Jayschwa",
+      "tags": []
+    },
+    {
+      "id": "cbxpdp",
+      "title": "Diatec, known for its mechanical keyboard brand FILCO, has ceased operations",
+      "description": "Score: 111 | Comments: 40 | Posted by gslin",
+      "url": "https://gigazine.net/gsc_news/en/20260424-filco-diatec/",
+      "publishedAt": "2026-04-24T16:16:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gslin",
+      "tags": []
+    },
+    {
+      "id": "xuv896",
+      "title": "Google plans to invest up to $40B in Anthropic",
+      "description": "Score: 500 | Comments: 492 | Posted by elffjs",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
+      "publishedAt": "2026-04-24T16:04:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "elffjs",
+      "tags": []
+    },
+    {
+      "id": "8dt2db",
+      "title": "I cancelled Claude: Token issues, declining quality, and poor support",
+      "description": "Score: 853 | Comments: 502 | Posted by y42",
+      "url": "https://nickyreinert.de/en/2026/2026-04-24-claude-critics/",
+      "publishedAt": "2026-04-24T15:59:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "y42",
+      "tags": []
+    },
+    {
+      "id": "nxemls",
+      "title": "I'm done making desktop applications (2009)",
+      "description": "Score: 164 | Comments: 182 | Posted by claxo",
+      "url": "https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/",
+      "publishedAt": "2026-04-24T15:44:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "claxo",
+      "tags": []
+    },
+    {
+      "id": "2xnd7v",
+      "title": "Different language models learn similar number representations",
+      "description": "Score: 95 | Comments: 38 | Posted by Anon84",
+      "url": "https://arxiv.org/abs/2604.20817",
+      "publishedAt": "2026-04-24T14:34:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Anon84",
+      "tags": []
+    },
+    {
+      "id": "jdp6gc",
+      "title": "Show HN: Browser Harness – Gives LLM freedom to complete any browser task",
+      "description": "Score: 97 | Comments: 50 | Posted by gregpr07",
+      "url": "https://github.com/browser-use/browser-harness",
+      "publishedAt": "2026-04-24T14:31:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gregpr07",
+      "tags": []
+    },
+    {
+      "id": "ox349s",
+      "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
+      "description": "Score: 399 | Comments: 104 | Posted by alcazar",
+      "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
+      "publishedAt": "2026-04-24T14:28:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "alcazar",
+      "tags": []
+    },
+    {
+      "id": "2x8nyz",
+      "title": "ML supports existence of unrecognized transient astronomical phenomena",
+      "description": "Score: 65 | Comments: 53 | Posted by solarist",
+      "url": "https://arxiv.org/abs/2604.18799",
+      "publishedAt": "2026-04-24T14:01:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "solarist",
+      "tags": []
+    },
+    {
+      "id": "jxn57n",
+      "title": "Hear your agent suffer through your code",
+      "description": "Score: 186 | Comments: 84 | Posted by AndrewVos",
+      "url": "https://github.com/AndrewVos/endless-toil",
+      "publishedAt": "2026-04-24T10:58:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "AndrewVos",
+      "tags": []
+    },
+    {
+      "id": "j1tefx",
+      "title": "How to be anti-social – a guide to incoherent and isolating social experiences",
+      "description": "Score: 339 | Comments: 312 | Posted by calcifer",
+      "url": "https://nate.leaflet.pub/3mk4xkaxobc2p",
+      "publishedAt": "2026-04-24T10:48:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "calcifer",
+      "tags": []
+    },
+    {
+      "id": "6gl3zb",
+      "title": "Mounting tar archives as a filesystem in WebAssembly",
+      "description": "Score: 116 | Comments: 38 | Posted by datajeroen",
+      "url": "https://jeroen.github.io/notes/webassembly-tar/",
+      "publishedAt": "2026-04-24T10:13:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "datajeroen",
+      "tags": []
+    },
+    {
       "id": "r87lus",
       "title": "Familiarity is the enemy: On why Enterprise systems have failed for 60 years",
       "description": "Score: 16 | Comments: 3 | Posted by adityaathalye",
@@ -91,6 +355,17 @@
       "tags": []
     },
     {
+      "id": "pcs2q6",
+      "title": "DeepSeek v4",
+      "description": "Score: 1873 | Comments: 1455 | Posted by impact_sy",
+      "url": "https://api-docs.deepseek.com/news/news260424",
+      "publishedAt": "2026-04-24T03:01:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "impact_sy",
+      "tags": []
+    },
+    {
       "id": "ocnh8a",
       "title": "Nev – keyboard focused GUI and terminal text editor",
       "description": "Score: 8 | Comments: 0 | Posted by archargelod",
@@ -110,6 +385,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "RyanShook",
+      "tags": []
+    },
+    {
+      "id": "7lfyqa",
+      "title": "Physicists revive 1990s laser concept to propose a next-generation atomic clock",
+      "description": "Score: 57 | Comments: 10 | Posted by wglb",
+      "url": "https://phys.org/news/2026-04-physicists-revive-1990s-laser-concept.html",
+      "publishedAt": "2026-04-24T00:57:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wglb",
       "tags": []
     }
   ]

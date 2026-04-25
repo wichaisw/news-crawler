@@ -1,0 +1,116 @@
+{
+  "date": "2026-04-25",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "wlmjng",
+      "title": "Oxford All Souls College General Examination (2025) [pdf]",
+      "description": "Score: 35 | Comments: 22 | Posted by gregsadetsky",
+      "url": "https://www.asc.ox.ac.uk/sites/default/files/2025-10/General%202025.pdf",
+      "publishedAt": "2026-04-25T04:36:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gregsadetsky",
+      "tags": []
+    },
+    {
+      "id": "31ugn8",
+      "title": "Turbo Vision 2.0 – a modern port",
+      "description": "Score: 73 | Comments: 10 | Posted by andsoitis",
+      "url": "https://github.com/magiblot/tvision",
+      "publishedAt": "2026-04-25T04:18:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andsoitis",
+      "tags": []
+    },
+    {
+      "id": "yiqxnr",
+      "title": "Show HN: VT Code – Rust TUI coding agent with multi-provider support",
+      "description": "Score: 5 | Comments: 0 | Posted by vinhnx",
+      "url": "https://github.com/vinhnx/VTCode",
+      "publishedAt": "2026-04-25T03:17:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vinhnx",
+      "tags": []
+    },
+    {
+      "id": "o45oyo",
+      "title": "Devin for Terminal",
+      "description": "Score: 4 | Comments: 0 | Posted by nickzana",
+      "url": "https://devin.ai/terminal",
+      "publishedAt": "2026-04-25T02:00:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nickzana",
+      "tags": []
+    },
+    {
+      "id": "nvb8q9",
+      "title": "Firefox Has Integrated Brave's Adblock Engine",
+      "description": "Score: 142 | Comments: 57 | Posted by nreece",
+      "url": "https://itsfoss.com/news/firefox-ships-brave-adblock-engine/",
+      "publishedAt": "2026-04-25T01:47:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nreece",
+      "tags": []
+    },
+    {
+      "id": "6ywwno",
+      "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
+      "description": "Score: 11 | Comments: 1 | Posted by alash3al",
+      "url": "https://alash3al.github.io/stash?_v01",
+      "publishedAt": "2026-04-25T01:24:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "alash3al",
+      "tags": []
+    },
+    {
+      "id": "z10blu",
+      "title": "(Blender) Cosmology with Geometry Nodes",
+      "description": "Score: 27 | Comments: 0 | Posted by shankysingh",
+      "url": "https://www.blender.org/user-stories/cosmology-with-geometry-nodes/",
+      "publishedAt": "2026-04-25T01:08:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "shankysingh",
+      "tags": []
+    },
+    {
+      "id": "rtqy6s",
+      "title": "\"Plain text has been around for decades and it's here to stay.\" – Unsung",
+      "description": "Score: 51 | Comments: 5 | Posted by rbanffy",
+      "url": "https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/",
+      "publishedAt": "2026-04-25T01:03:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rbanffy",
+      "tags": []
+    },
+    {
+      "id": "9tykgf",
+      "title": "Replace IBM Quantum back end with /dev/urandom",
+      "description": "Score: 107 | Comments: 15 | Posted by pigeons",
+      "url": "https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md",
+      "publishedAt": "2026-04-25T00:58:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pigeons",
+      "tags": []
+    },
+    {
+      "id": "wzsnkh",
+      "title": "Education must go beyond the mere production of words",
+      "description": "Score: 51 | Comments: 13 | Posted by signor_bosco",
+      "url": "https://www.ncregister.com/commentaries/schnell-repairing-the-ruins",
+      "publishedAt": "2026-04-25T00:11:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "signor_bosco",
+      "tags": []
+    }
+  ]
+}

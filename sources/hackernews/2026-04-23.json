@@ -267,11 +267,33 @@
       "tags": []
     },
     {
+      "id": "h6n254",
+      "title": "Email could have been X.400 times better",
+      "description": "Score: 159 | Comments: 147 | Posted by maguay",
+      "url": "https://buttondown.com/blog/x400-vs-smtp-email",
+      "publishedAt": "2026-04-23T08:10:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "maguay",
+      "tags": []
+    },
+    {
       "id": "ms8ujz",
       "title": "Ars Technica: Our newsroom AI policy",
       "description": "Score: 11 | Comments: 1 | Posted by zdw",
       "url": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
       "publishedAt": "2026-04-23T05:14:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "tt4s7q",
+      "title": "A disabled kea parrot is the alpha male of his circus",
+      "description": "Score: 26 | Comments: 5 | Posted by zdw",
+      "url": "https://www.cell.com/current-biology/fulltext/S0960-9822(26)00259-9",
+      "publishedAt": "2026-04-23T05:07:51.000Z",
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "zdw",
@@ -286,6 +308,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "bumbledraven",
+      "tags": []
+    },
+    {
+      "id": "n75iy6",
+      "title": "MacBook Neo and how the iPad should be",
+      "description": "Score: 249 | Comments: 139 | Posted by jen729w",
+      "url": "https://craigmod.com/essays/ipad_neo/",
+      "publishedAt": "2026-04-23T04:40:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jen729w",
       "tags": []
     },
     {
