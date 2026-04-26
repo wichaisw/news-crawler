@@ -3,6 +3,105 @@
   "source": "techcrunch",
   "articles": [
     {
+      "id": "https://techcrunch.com/?p=3116468",
+      "title": "Anthropic created a test marketplace for agent-on-agent commerce",
+      "description": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real",
+      "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+      "publishedAt": "2026-04-25T21:43:37.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3116464",
+      "title": "Maine’s governor vetoes data center moratorium",
+      "description": "L.D. 307 would have imposed the country’s first statewide moratorium on new data centers — lasting, in this case, until November 1, 2027.",
+      "url": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
+      "publishedAt": "2026-04-25T20:57:08.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3116460",
+      "title": "OpenAI CEO apologizes to Tumbler Ridge community",
+      "description": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law",
+      "url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
+      "publishedAt": "2026-04-25T17:17:56.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3116224",
+      "title": "The climate tech IPO window could finally be cracking open",
+      "description": "Nuclear startup X-energy went public, geothermal startup Fervo is about to. Could this be the moment that climate tech investors have been waiting",
+      "url": "https://techcrunch.com/2026/04/25/the-climate-tech-ipo-window-could-finally-be-cracking-open/",
+      "publishedAt": "2026-04-25T16:33:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Tim De Chant",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3116411",
+      "title": "Why Cohere is merging with Aleph Alpha",
+      "description": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl’s owner, Schwarz Group. With the blessing of their",
+      "url": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
+      "publishedAt": "2026-04-25T16:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anna Heim",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3115295",
+      "title": "Why Tokyo is the most important tech destination of 2026",
+      "description": "SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions",
+      "url": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
+      "publishedAt": "2026-04-25T15:03:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Cindy Zackney",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3102406",
+      "title": "Apps to distract you from the endless cycle of doomscrolling",
+      "description": "It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and",
+      "url": "https://techcrunch.com/2026/04/25/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/",
+      "publishedAt": "2026-04-25T15:00:07.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Aisha Malik",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3116183",
+      "title": "Apple under Ternus: what comes next for the tech giant’s hardware strategy",
+      "description": "John Ternus, Apple's incoming CEO, is a hardware guy, signaling Apple may be putting devices back at the center of its strategy.",
+      "url": "https://techcrunch.com/2026/04/25/apple-under-ternus-what-comes-next-for-the-tech-giants-hardware-strategy/",
+      "publishedAt": "2026-04-25T15:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lauren Forristal",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3116412",
+      "title": "India’s Snabbit seeks fresh funding at a $400M valuation, sources say",
+      "description": "Snabbit has scaled rapidly, crossing one million jobs in March, amid growing investor interest.",
+      "url": "https://techcrunch.com/2026/04/25/indias-snabbit-seeks-fresh-funding-at-a-400m-valuation-sources-say/",
+      "publishedAt": "2026-04-25T14:57:26.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Jagmeet Singh",
+      "tags": []
+    },
+    {
       "id": "https://techcrunch.com/?p=3116351",
       "title": "Lachy Groom to back India startup Pronto at a $200M valuation, sources say",
       "description": "This round, should it occur, would double the house-help startup's valuation in a matter of weeks.",

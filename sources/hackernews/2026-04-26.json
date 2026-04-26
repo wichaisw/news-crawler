@@ -1,0 +1,116 @@
+{
+  "date": "2026-04-26",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "ey2pub",
+      "title": "AGPLv3§74 Empowers Users to Thwart Badgeware Like OnlyOffice",
+      "description": "Score: 40 | Comments: 3 | Posted by pabs3",
+      "url": "https://sfconservancy.org/blog/2026/apr/16/badgeware-onlyoffice-nextcloud-affero-gpl/",
+      "publishedAt": "2026-04-26T05:06:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pabs3",
+      "tags": []
+    },
+    {
+      "id": "70ghlg",
+      "title": "Show HN: Browse GitHub repos in Emacs without cloning",
+      "description": "Score: 7 | Comments: 5 | Posted by iLemming",
+      "url": "https://github.com/agzam/remoto.el",
+      "publishedAt": "2026-04-26T04:36:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "iLemming",
+      "tags": []
+    },
+    {
+      "id": "lbyie3",
+      "title": "Godot 4.7 Beta with HDR Output, Ray-Tracing Improvements and Editor Enhancements",
+      "description": "Score: 12 | Comments: 1 | Posted by shpat",
+      "url": "https://www.phoronix.com/news/Godot-4.7-Beta",
+      "publishedAt": "2026-04-26T04:29:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "shpat",
+      "tags": []
+    },
+    {
+      "id": "qkylr8",
+      "title": "What the FCC router ban means for FOSS",
+      "description": "Score: 22 | Comments: 7 | Posted by pabs3",
+      "url": "https://sfconservancy.org/blog/2026/apr/02/fcc-router-ban/",
+      "publishedAt": "2026-04-26T04:12:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pabs3",
+      "tags": []
+    },
+    {
+      "id": "se8yo0",
+      "title": "EU Age Control: The trojan horse for digital IDs",
+      "description": "Score: 84 | Comments: 23 | Posted by gasull",
+      "url": "https://juraj.bednar.io/en/blog-en/2026/04/17/eu-age-control-the-trojan-horse-for-digital-ids/",
+      "publishedAt": "2026-04-26T03:44:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gasull",
+      "tags": []
+    },
+    {
+      "id": "nogdv6",
+      "title": "GnuPG – post-quantum crypto landing in mainline",
+      "description": "Score: 24 | Comments: 4 | Posted by zdkaster",
+      "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q2/000504.html",
+      "publishedAt": "2026-04-26T03:25:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdkaster",
+      "tags": []
+    },
+    {
+      "id": "qa648v",
+      "title": "Reviving BrowserID in 2026",
+      "description": "Score: 20 | Comments: 4 | Posted by wakamoleguy",
+      "url": "https://wakamoleguy.com/p/reviving-browserid-in-2026",
+      "publishedAt": "2026-04-26T02:38:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wakamoleguy",
+      "tags": []
+    },
+    {
+      "id": "jlfypl",
+      "title": "Amateur armed with ChatGPT solves an Erdős problemscientificamerican.com",
+      "description": "Score: 270 | Comments: 175 | Posted by pr337h4m",
+      "url": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
+      "publishedAt": "2026-04-26T01:44:43.201Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pr337h4m",
+      "tags": []
+    },
+    {
+      "id": "1kguey",
+      "title": "The Super Nintendo Cartridges (2024)",
+      "description": "Score: 37 | Comments: 4 | Posted by offbyone42",
+      "url": "https://fabiensanglard.net/snes_carts/",
+      "publishedAt": "2026-04-26T00:38:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "offbyone42",
+      "tags": []
+    },
+    {
+      "id": "g9zyl1",
+      "title": "Why has there been so little progress on Alzheimer's disease?",
+      "description": "Score: 186 | Comments: 86 | Posted by chiefalchemist",
+      "url": "https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/",
+      "publishedAt": "2026-04-26T00:12:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "chiefalchemist",
+      "tags": []
+    }
+  ]
+}

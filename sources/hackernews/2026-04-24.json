@@ -135,6 +135,17 @@
       "tags": []
     },
     {
+      "id": "kmtopv",
+      "title": "Which one is more important: more parameters or more computation? (2021)",
+      "description": "Score: 56 | Comments: 12 | Posted by jxmorris12",
+      "url": "https://parl.ai/projects/params_vs_compute/",
+      "publishedAt": "2026-04-24T16:44:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jxmorris12",
+      "tags": []
+    },
+    {
       "id": "b6v633",
       "title": "SDL Now Supports DOS",
       "description": "Score: 245 | Comments: 100 | Posted by Jayschwa",
@@ -322,6 +333,17 @@
       "tags": []
     },
     {
+      "id": "3aucz3",
+      "title": "Mahjong: A Visual Guide",
+      "description": "Score: 54 | Comments: 14 | Posted by iamwil",
+      "url": "https://themahjong.guide/",
+      "publishedAt": "2026-04-24T03:41:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "iamwil",
+      "tags": []
+    },
+    {
       "id": "bh038j",
       "title": "Equity for Europeans",
       "description": "Score: 11 | Comments: 0 | Posted by Tomte",
@@ -385,6 +407,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "RyanShook",
+      "tags": []
+    },
+    {
+      "id": "qcj1kh",
+      "title": "The George Business, by Roger Zelazny (1980)",
+      "description": "Score: 24 | Comments: 1 | Posted by xeonmc",
+      "url": "https://www.eternal-flame.org/library/oldlibrary/georgebusiness.html",
+      "publishedAt": "2026-04-24T02:07:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "xeonmc",
+      "tags": []
+    },
+    {
+      "id": "hq1qa5",
+      "title": "How Hard Is It to Open a File?",
+      "description": "Score: 75 | Comments: 11 | Posted by ffin",
+      "url": "https://blog.sebastianwick.net/posts/how-hard-is-it-to-open-a-file/",
+      "publishedAt": "2026-04-24T02:01:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ffin",
       "tags": []
     },
     {
