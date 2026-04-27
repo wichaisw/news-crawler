@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "4br64b",
+      "title": "Agentic AI systems violate the implicit assumptions of database design",
+      "description": "Score: 98 | Comments: 100 | Posted by mooreds",
+      "url": "https://arpitbhayani.me/blogs/defensive-databases/",
+      "publishedAt": "2026-04-24T23:41:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mooreds",
+      "tags": []
+    },
+    {
       "id": "il0ssr",
       "title": "FusionCore: ROS 2 sensor fusion (IMU and GPS and encoders)",
       "description": "Score: 15 | Comments: 8 | Posted by kharwarm",
@@ -278,6 +289,17 @@
       "tags": []
     },
     {
+      "id": "3t3w",
+      "title": "Running Bare-Metal Rust Alongside ESP-IDF on the ESP32-S3's Second Core",
+      "description": "Score: 61 | Comments: 10 | Posted by MrBuddyCasino",
+      "url": "https://tingouw.com/blog/embedded/esp32/run_rust_on_app_core",
+      "publishedAt": "2026-04-24T04:57:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "MrBuddyCasino",
+      "tags": []
+    },
+    {
       "id": "r87lus",
       "title": "Familiarity is the enemy: On why Enterprise systems have failed for 60 years",
       "description": "Score: 16 | Comments: 3 | Posted by adityaathalye",
@@ -366,6 +388,17 @@
       "tags": []
     },
     {
+      "id": "dnhohq",
+      "title": "Dear friend, you have built a Kubernetes (2024)",
+      "description": "Score: 99 | Comments: 134 | Posted by Wingy",
+      "url": "https://www.macchaffee.com/blog/2024/you-have-built-a-kubernetes/",
+      "publishedAt": "2026-04-24T03:07:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Wingy",
+      "tags": []
+    },
+    {
       "id": "voxknb",
       "title": "DeepSeek v4",
       "description": "Score: 572 | Comments: 271 | Posted by impact_sy",
@@ -396,6 +429,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "archargelod",
+      "tags": []
+    },
+    {
+      "id": "2dacan",
+      "title": "XOXO Festival Archive",
+      "description": "Score: 51 | Comments: 10 | Posted by surprisetalk",
+      "url": "https://xoxofest.com/",
+      "publishedAt": "2026-04-24T02:40:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
       "tags": []
     },
     {
@@ -440,6 +484,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "wglb",
+      "tags": []
+    },
+    {
+      "id": "nwp0iz",
+      "title": "Magic: The Gathering took me from N2 to Japanese fluency",
+      "description": "Score: 123 | Comments: 44 | Posted by pwim",
+      "url": "https://www.tokyodev.com/articles/how-magic-the-gathering-took-me-from-n2-to-japanese-fluency",
+      "publishedAt": "2026-04-24T00:03:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pwim",
       "tags": []
     }
   ]

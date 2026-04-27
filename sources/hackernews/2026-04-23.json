@@ -157,6 +157,17 @@
       "tags": []
     },
     {
+      "id": "ao7a9v",
+      "title": "Box to save memory in Rust",
+      "description": "Score: 109 | Comments: 21 | Posted by emschwartz",
+      "url": "https://dystroy.org/blog/box-to-save-memory/",
+      "publishedAt": "2026-04-23T17:02:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "emschwartz",
+      "tags": []
+    },
+    {
       "id": "na5yni",
       "title": "MeshCore development team splits over trademark dispute and AI-generated code",
       "description": "Score: 203 | Comments: 105 | Posted by wielebny",
@@ -234,6 +245,17 @@
       "tags": []
     },
     {
+      "id": "wtpse3",
+      "title": "Show HN: Turning a Gaussian Splat into a videogame",
+      "description": "Score: 211 | Comments: 52 | Posted by yak32",
+      "url": "https://blog.playcanvas.com/turning-a-gaussian-splat-into-a-videogame/",
+      "publishedAt": "2026-04-23T14:18:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "yak32",
+      "tags": []
+    },
+    {
       "id": "enp89n",
       "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
       "description": "Score: 724 | Comments: 354 | Posted by tosh",
@@ -253,6 +275,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "Cynddl",
+      "tags": []
+    },
+    {
+      "id": "q3y331",
+      "title": "Flipdiscs",
+      "description": "Score: 130 | Comments: 24 | Posted by skogstokig",
+      "url": "https://flipdisc.io",
+      "publishedAt": "2026-04-23T13:54:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "skogstokig",
       "tags": []
     },
     {
@@ -396,6 +429,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "omer_k",
+      "tags": []
+    },
+    {
+      "id": "bj1k5s",
+      "title": "Orinoco: Young Generation Garbage Collection",
+      "description": "Score: 38 | Comments: 7 | Posted by plow-tycoon",
+      "url": "https://v8.dev/blog/orinoco-parallel-scavenger",
+      "publishedAt": "2026-04-23T03:05:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "plow-tycoon",
       "tags": []
     },
     {

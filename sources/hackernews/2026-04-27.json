@@ -1,0 +1,105 @@
+{
+  "date": "2026-04-27",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "7r45qf",
+      "title": "AI can cost more than human workers now",
+      "description": "Score: 52 | Comments: 26 | Posted by nreece",
+      "url": "https://www.axios.com/2026/04/26/ai-cost-human-workers",
+      "publishedAt": "2026-04-27T05:28:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nreece",
+      "tags": []
+    },
+    {
+      "id": "q3y331",
+      "title": "Flipdiscsflipdisc.io",
+      "description": "Score: 130 | Comments: 24 | Posted by skogstokig",
+      "url": "https://flipdisc.io",
+      "publishedAt": "2026-04-27T04:01:44.132Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "skogstokig",
+      "tags": []
+    },
+    {
+      "id": "ony5a2",
+      "title": "Low-Dose Aspirin Usage for Primary Prevention Has Fallen by >50% Since 2018",
+      "description": "Score: 12 | Comments: 1 | Posted by salkahfi",
+      "url": "https://www.epicresearch.org/articles/low-dose-aspirin-usage-for-primary-prevention-of-cardiovascular-disease-has-fallen-by-more-than-half-since-2018",
+      "publishedAt": "2026-04-27T03:27:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "salkahfi",
+      "tags": []
+    },
+    {
+      "id": "4yxva5",
+      "title": "Framework's new Linux laptop is selling faster than its Windows one",
+      "description": "Score: 25 | Comments: 6 | Posted by Garbage",
+      "url": "https://www.pcworld.com/article/3123900/framework-new-linux-laptop-is-selling-faster-than-its-windows-one.html",
+      "publishedAt": "2026-04-27T03:26:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Garbage",
+      "tags": []
+    },
+    {
+      "id": "zi619p",
+      "title": "The Prompt API",
+      "description": "Score: 76 | Comments: 55 | Posted by gslin",
+      "url": "https://developer.chrome.com/docs/ai/prompt-api",
+      "publishedAt": "2026-04-27T02:18:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gslin",
+      "tags": []
+    },
+    {
+      "id": "kydfkm",
+      "title": "EvanFlow – A TDD driven feedback loop for Claude Code",
+      "description": "Score: 53 | Comments: 22 | Posted by evanklem2004",
+      "url": "https://github.com/evanklem/evanflow",
+      "publishedAt": "2026-04-27T01:56:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "evanklem2004",
+      "tags": []
+    },
+    {
+      "id": "z9s33f",
+      "title": "TurboQuant: A first-principles walkthrough",
+      "description": "Score: 99 | Comments: 13 | Posted by kweezar",
+      "url": "https://arkaung.github.io/interactive-turboquant/",
+      "publishedAt": "2026-04-27T01:54:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kweezar",
+      "tags": []
+    },
+    {
+      "id": "ha0cic",
+      "title": "Show HN: The Unix Magic poster, annotated (updated)",
+      "description": "Score: 29 | Comments: 1 | Posted by drio",
+      "url": "https://github.com/drio/unixmagic",
+      "publishedAt": "2026-04-27T01:32:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "drio",
+      "tags": []
+    },
+    {
+      "id": "eruryk",
+      "title": "Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft",
+      "description": "Score: 94 | Comments: 78 | Posted by donsupreme",
+      "url": "https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c",
+      "publishedAt": "2026-04-27T00:34:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "donsupreme",
+      "tags": []
+    }
+  ]
+}
