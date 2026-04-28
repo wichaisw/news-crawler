@@ -1,0 +1,90 @@
+{
+  "date": "2026-04-27",
+  "source": "theverge",
+  "articles": [
+    {
+      "id": "3hihl1",
+      "title": "Canonical lays out a plan for AI in Ubuntu Linux",
+      "description": "One of the most popular Linux distributions is about to get an influx of AI features. As reported by Phoronix, Jon Seager, VP of engineering at Ubuntu developer Canonical, shared a blog post on Monday detailing plans to add AI features to the Linux distro over the next year. As the post states, the AI [&#8230;]",
+      "url": "https://www.theverge.com/tech/919411/canonical-ubuntu-linux-ai-features",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-04-27T20:47:45.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Stevie Bonifield",
+      "tags": []
+    },
+    {
+      "id": "vp2l9a",
+      "title": "Trump demands ABC fire Jimmy Kimmel",
+      "description": "President Donald Trump is calling for Disney to fire Jimmy Kimmel. On Thursday, Kimmel joked that Melania Trump had looked like an \"expectant widow\" in a skit about the upcoming White House Correspondents' Dinner. The skit aired days before an armed gunman made an assassination attempt at the event, which President Trump and Melania Trump [&#8230;]",
+      "url": "https://www.theverge.com/policy/919337/president-trump-jimmy-kimmel-fire-abc",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257959_jimmy_kimmel_censorship_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-04-27T18:18:17.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Jay Peters",
+      "tags": []
+    },
+    {
+      "id": "gk8cu9",
+      "title": "Google employees ask Sundar Pichai to say no to classified military AI use",
+      "description": "Over 600 Google employees signed a letter to CEO Sundar Pichai demanding that Google block the Pentagon from using its AI models for classified purposes, reports the The Washington Post. Its organizers claim many of the signers work in Google's DeepMind AI lab, and include more than 20 principals, directors, and vice presidents. According to [&#8230;]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/919326/google-ai-pentagon-classified-letter",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2194442232.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-04-27T18:17:12.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Stevie Bonifield",
+      "tags": []
+    },
+    {
+      "id": "iub01u",
+      "title": "Conspiracy theories are swirling about the White House Correspondents’ Dinner shooting",
+      "description": "On Saturday evening, a room full of journalists, media personalities, and senior members of Donald Trump's administration descended into chaos as gunshots rang out at the White House Correspondents' Dinner. Nobody was hurt, and the suspect was taken into custody - but it didn't take long for a narrative of doubt to take hold online. [&#8230;]",
+      "url": "https://www.theverge.com/news/919244/whcd-shooting-trump-social-media-conspiracy-theories",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2272595362.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-04-27T17:11:44.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Mia Sato",
+      "tags": []
+    },
+    {
+      "id": "fak4ss",
+      "title": "Why the Steam Controller is (and isn’t) a big deal",
+      "description": "Most PC gamers already have a controller they love using with Steam - a Sony DualSense, a 8BitDo Ultimate, a Nintendo Switch Pro, or something else. Part of that love comes from Steam treating them like \"native\" controllers. They can do the things that made the first Steam Controller worth buying. Namely, they offer a [&#8230;]",
+      "url": "https://www.theverge.com/tech/918115/steam-controller-2026-pc-deck-machine-hands-on-features",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268455_Steam_Controller_AKrales_0042.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-04-27T17:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Cameron Faulkner",
+      "tags": []
+    },
+    {
+      "id": "429jmf",
+      "title": "Valve’s new Steam Controller isn’t perfect, but I’m buying one anyway",
+      "description": "After my brief hands-on last year with Valve's new Steam Controller, I said it might be my dream controller. I've been looking for a controller with the customization and sheer function available on Valve's Steam Deck while I'm playing games on the TV. You, me, and a lot of other people have been waiting for [&#8230;]",
+      "url": "https://www.theverge.com/games/918610/valve-steam-controller-review",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268455_Steam_Controller_AKrales_0187.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-04-27T17:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Jay Peters",
+      "tags": []
+    },
+    {
+      "id": "e2nul9",
+      "title": "Valve launches the Steam Controller without the Steam Machine",
+      "description": "Last November, Valve introduced the world to its new vision of living room gaming: the Steam Machine and Steam Controller. Then, RAMageddon. Memory shortages forced Valve to delay all its hardware and reset expectations. Now, Valve is releasing the Steam Controller without the Steam Machine. The Steam Controller is officially going on sale May 4th [&#8230;]",
+      "url": "https://www.theverge.com/games/918622/valve-steam-controller-price-release-date-steam-machine-delay",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268455_Steam_Controller_AKrales_0141.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-04-27T17:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Sean Hollister",
+      "tags": []
+    }
+  ]
+}

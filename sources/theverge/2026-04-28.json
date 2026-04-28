@@ -1,0 +1,42 @@
+{
+  "date": "2026-04-28",
+  "source": "theverge",
+  "articles": [
+    {
+      "id": "xicsfu",
+      "title": "Microsoft Office can now be controlled with Logitech’s MX Creative Console",
+      "description": "Logitech has announced a new suite of Productivity Plugins for its entire MX line of accessories, including its Stream Deck alternative, the MX Creative Console. Since the console launched in September 2024, Logitech has been expanding its capabilities with plug-ins that support creativity-focused apps such as Final Cut Pro, Adobe Lightroom, and Figma. That is [&#8230;]",
+      "url": "https://www.theverge.com/tech/919165/logitech-mx-ecosystem-creative-console-productivity-plugins-microsoft-office-slack-notion",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/logitech_plugins1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-04-28T07:01:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Andrew Liszewski",
+      "tags": []
+    },
+    {
+      "id": "41gs49",
+      "title": "Jury selection in Musk v. Altman: ‘People don’t like him’",
+      "description": "On Monday, the courtroom battle between Elon Musk and Sam Altman over alleged broken promises at OpenAI started, as usual, with jury selection. The only tricky part? A lot of the prospective jurors already have an opinion about Elon Musk, and it's not a good one. The Verge reporter Elizabeth Lopatto, who was there at [&#8230;]",
+      "url": "https://www.theverge.com/tech/919469/elon-musk-dont-like",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23906796/VRG_Illo_STK022_K_Radtke_Musk_Scales_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-04-28T03:39:33.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Richard Lawler",
+      "tags": []
+    },
+    {
+      "id": "hvaoxn",
+      "title": "Google is testing AI chatbot search for YouTube",
+      "description": "Google is trying out an AI Mode-like search experience for YouTube. The company is now testing \"a new way to search on YouTube that feels more like a conversation,\" with results pulling in things like longform videos, YouTube Shorts, and text about what you're searching for. The \"experiment\" is now available if you're a YouTube [&#8230;]",
+      "url": "https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Screenshot-2026-04-27-at-4.55.32PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-04-28T00:01:54.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Jay Peters",
+      "tags": []
+    }
+  ]
+}

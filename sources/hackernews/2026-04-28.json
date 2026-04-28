@@ -1,0 +1,83 @@
+{
+  "date": "2026-04-28",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "a4j30o",
+      "title": "GTFOBins",
+      "description": "Score: 39 | Comments: 2 | Posted by StefanBatory",
+      "url": "https://gtfobins.org/",
+      "publishedAt": "2026-04-28T06:27:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "StefanBatory",
+      "tags": []
+    },
+    {
+      "id": "39cnuo",
+      "title": "San Francisco, AI capital of the world, is an economic laggard",
+      "description": "Score: 39 | Comments: 37 | Posted by 1vuio0pswjnm7",
+      "url": "https://www.economist.com/finance-and-economics/2026/04/26/san-francisco-ai-capital-of-the-world-is-an-economic-laggard",
+      "publishedAt": "2026-04-28T04:32:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "1vuio0pswjnm7",
+      "tags": []
+    },
+    {
+      "id": "en1gfa",
+      "title": "Cheapest GPUs in the World",
+      "description": "Score: 5 | Comments: 0 | Posted by anujsharmax",
+      "url": "https://timlig.com/posts/cheapest-gpus-in-the-world/",
+      "publishedAt": "2026-04-28T03:48:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "anujsharmax",
+      "tags": []
+    },
+    {
+      "id": "17puqm",
+      "title": "LingBot-Map: Streaming 3D reconstruction with geometric context transformer",
+      "description": "Score: 21 | Comments: 1 | Posted by nateb2022",
+      "url": "https://technology.robbyant.com/lingbot-map",
+      "publishedAt": "2026-04-28T03:27:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nateb2022",
+      "tags": []
+    },
+    {
+      "id": "c4bvgd",
+      "title": "Try Contra Dancing",
+      "description": "Score: 4 | Comments: 1 | Posted by jefftk",
+      "url": "https://www.benkuhn.net/contra/",
+      "publishedAt": "2026-04-28T02:57:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jefftk",
+      "tags": []
+    },
+    {
+      "id": "g8cyzr",
+      "title": "Show HN: AgentSwift – Open-source iOS builder agent",
+      "description": "Score: 32 | Comments: 7 | Posted by hpen",
+      "url": "https://github.com/hpennington/agentswift",
+      "publishedAt": "2026-04-28T01:14:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hpen",
+      "tags": []
+    },
+    {
+      "id": "vmlms0",
+      "title": "High Performance Git",
+      "description": "Score: 96 | Comments: 11 | Posted by gnabgib",
+      "url": "https://gitperf.com/",
+      "publishedAt": "2026-04-28T00:32:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gnabgib",
+      "tags": []
+    }
+  ]
+}
