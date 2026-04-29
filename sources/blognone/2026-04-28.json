@@ -3,6 +3,72 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "150371 at https://www.blognone.com",
+      "title": "Claude เพิ่ม Connectors ไปยังแอปครีเอทีฟทั้ง Adobe, Affinity, Blender และอื่น ๆ",
+      "description": "Claude เพิ่ม Connectors ไปยังแอปครีเอทีฟทั้ง Adobe, Affinity, Blender และอื่น ๆ Body Anthropic",
+      "url": "https://www.blognone.com/node/150371",
+      "publishedAt": "2026-04-28T23:58:30.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150370 at https://www.blognone.com",
+      "title": "OpenAI เปิดขาย GPT-5.5 บน AWS แต่ยังจำกัดลูกค้า",
+      "description": "OpenAI เปิดขาย GPT-5.5 บน AWS แต่ยังจำกัดลูกค้า Body OpenAI เปิดขาย GPT-5.5 บน AWS Bedrock เป็นที่เรียบร้อยหลังจาก ปรับสัญญากับไมโครซอฟท์เพียงสองวัน",
+      "url": "https://www.blognone.com/node/150370",
+      "publishedAt": "2026-04-28T18:13:20.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150369 at https://www.blognone.com",
+      "title": "[ไม่ยืนยัน] ผู้บริหาร OpenAI บอกบริษัทพลาดเป้ารายได้-ผู้ใช้งานในช่วงที่ผ่านมา และอาจกระทบไอพีโอ",
+      "description": "[ไม่ยืนยัน] ผู้บริหาร OpenAI บอกบริษัทพลาดเป้ารายได้-ผู้ใช้งานในช่วงที่ผ่านมา และอาจกระทบไอพีโอ Body The Wall Street Journal",
+      "url": "https://www.blognone.com/node/150369",
+      "publishedAt": "2026-04-28T13:45:23.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150368 at https://www.blognone.com",
+      "title": "App Store เพิ่มตัวเลือก Subscription แบบใหม่ ตกลงจ่ายเงินเป็นรายเดือน ต่อเนื่อง 12 เดือน",
+      "description": "App Store เพิ่มตัวเลือก Subscription แบบใหม่ ตกลงจ่ายเงินเป็นรายเดือน ต่อเนื่อง 12 เดือน Body แอปเปิลประกาศเพิ่มทางเลือกให้นักพัฒนาแอปบน App Store",
+      "url": "https://www.blognone.com/node/150368",
+      "publishedAt": "2026-04-28T13:11:32.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150367 at https://www.blognone.com",
+      "title": "YouTube ทดสอบระบบค้นหาวิดีโอแนวใหม่สไตล์ AI Mode ใน Google",
+      "description": "YouTube ทดสอบระบบค้นหาวิดีโอแนวใหม่สไตล์ AI Mode ใน Google Body YouTube ทดสอบฟีเจอร์ใหม่ให้เฉพาะลูกค้าพรีเมียมในสหรัฐอเมริกาก่อน เป็นระบบค้นหาด้วย AI",
+      "url": "https://www.blognone.com/node/150367",
+      "publishedAt": "2026-04-28T12:09:07.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150366 at https://www.blognone.com",
+      "title": "Spotify รายงานผลการดำเนินงาน สมาชิกพรีเมียมเพิ่มเป็น 293 ล้านบัญชีทั่วโลก",
+      "description": "Spotify รายงานผลการดำเนินงาน สมาชิกพรีเมียมเพิ่มเป็น 293 ล้านบัญชีทั่วโลก Body Spotify รายงานผลประกอบการของไตรมาสที่ 1 ปี 2026 รายได้เพิ่มขึ้น 10%",
+      "url": "https://www.blognone.com/node/150366",
+      "publishedAt": "2026-04-28T11:57:29.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "150364 at https://www.blognone.com",
       "title": "ต้านไม่ไหวแล้ว GitHub Copilot เปลี่ยนวิธีคิดเงินมานับตามปริมาณ Token",
       "description": "ต้านไม่ไหวแล้ว GitHub Copilot เปลี่ยนวิธีคิดเงินมานับตามปริมาณ Token Body หลังจากสัญญาณมาเมื่อสัปดาห์ที่แล้ว ตั้งแต่ข่าว ไมโครซอฟท์หยุดรับลูกค้า",

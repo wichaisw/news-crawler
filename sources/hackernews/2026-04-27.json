@@ -80,6 +80,17 @@
       "tags": []
     },
     {
+      "id": "uuloqx",
+      "title": "Withnail's Coat and I",
+      "description": "Score: 21 | Comments: 0 | Posted by apollinaire",
+      "url": "https://ontherow.substack.com/p/withnails-coat-and-i",
+      "publishedAt": "2026-04-27T19:27:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "apollinaire",
+      "tags": []
+    },
+    {
       "id": "yjvrxk",
       "title": "Super ZSNES – GPU Powered SNES Emulator",
       "description": "Score: 281 | Comments: 81 | Posted by haunter",
@@ -168,6 +179,17 @@
       "tags": []
     },
     {
+      "id": "kititz",
+      "title": "Nonlinearity Affects a Pendulum",
+      "description": "Score: 25 | Comments: 4 | Posted by ibobev",
+      "url": "https://www.johndcook.com/blog/2026/04/24/nonlinear-pendulum/",
+      "publishedAt": "2026-04-27T14:56:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
+      "tags": []
+    },
+    {
       "id": "jjlnkk",
       "title": "“Why not just use Lean?”",
       "description": "Score: 274 | Comments: 192 | Posted by ibobev",
@@ -187,6 +209,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ManyaGhobadi",
+      "tags": []
+    },
+    {
+      "id": "bl96ti",
+      "title": "Behavioral timescale synaptic plasticity rewires the brain after an experience",
+      "description": "Score: 89 | Comments: 1 | Posted by ibobev",
+      "url": "https://www.quantamagazine.org/a-new-type-of-neuroplasticity-rewires-the-brain-after-a-single-experience-20260424/",
+      "publishedAt": "2026-04-27T13:54:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
+      "tags": []
+    },
+    {
+      "id": "g1f7qi",
+      "title": "Building a Hamiltonian Path Puzzle",
+      "description": "Score: 9 | Comments: 2 | Posted by ibobev",
+      "url": "https://www.4rknova.com//blog/2026/04/24/number-trail",
+      "publishedAt": "2026-04-27T13:22:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
       "tags": []
     },
     {
@@ -212,6 +256,17 @@
       "tags": []
     },
     {
+      "id": "lm068n",
+      "title": "We still don't have a more precise value for \"Big G\"",
+      "description": "Score: 35 | Comments: 15 | Posted by rbanffy",
+      "url": "https://arstechnica.com/science/2026/04/we-still-dont-have-a-more-precise-value-for-big-g/",
+      "publishedAt": "2026-04-27T12:17:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rbanffy",
+      "tags": []
+    },
+    {
       "id": "faruk5",
       "title": "China blocks Meta's acquisition of AI startup Manus",
       "description": "Score: 361 | Comments: 257 | Posted by yakkomajuri",
@@ -220,6 +275,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "yakkomajuri",
+      "tags": []
+    },
+    {
+      "id": "8ll4v8",
+      "title": "Gallium oxide electronics withstand extreme cold",
+      "description": "Score: 11 | Comments: 0 | Posted by giuliomagnifico",
+      "url": "https://discovery.kaust.edu.sa/en/article/26858/gallium-oxide-electronics-withstand-extreme-cold/",
+      "publishedAt": "2026-04-27T11:31:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "giuliomagnifico",
       "tags": []
     },
     {
@@ -278,6 +344,17 @@
       "tags": []
     },
     {
+      "id": "fdy8dh",
+      "title": "Can You Find the Comet?",
+      "description": "Score: 145 | Comments: 91 | Posted by ColinWright",
+      "url": "https://apod.nasa.gov/apod/ap260427.html",
+      "publishedAt": "2026-04-27T07:59:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ColinWright",
+      "tags": []
+    },
+    {
       "id": "7r45qf",
       "title": "AI can cost more than human workers now",
       "description": "Score: 52 | Comments: 26 | Posted by nreece",
@@ -319,6 +396,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "Garbage",
+      "tags": []
+    },
+    {
+      "id": "5b15mh",
+      "title": "Patch applies fake diffs from commit messages",
+      "description": "Score: 94 | Comments: 30 | Posted by reconquestio",
+      "url": "https://samizdat.dev/phantom-patch/",
+      "publishedAt": "2026-04-27T03:00:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "reconquestio",
       "tags": []
     },
     {

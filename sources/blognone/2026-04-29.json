@@ -1,0 +1,39 @@
+{
+  "date": "2026-04-29",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "150374 at https://www.blognone.com",
+      "title": "Gemini เพิ่มบริการค้นเว็บผ่าน Exa และ Parallel Web",
+      "description": "Gemini เพิ่มบริการค้นเว็บผ่าน Exa และ Parallel Web Body บริการ Gemini API บน Vertex AI (หรือชื่อใหม่ Gemini Enterprise Platform) ประกาศเพิ่มตัวเลือก",
+      "url": "https://www.blognone.com/node/150374",
+      "publishedAt": "2026-04-29T03:13:32.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150373 at https://www.blognone.com",
+      "title": "[ลือ] iOS 27 เพิ่มเครื่องมือแก้ไขรูปภาพพลัง Apple Intelligence ขยายพื้นที่, ปรับมุมมอง",
+      "description": "[ลือ] iOS 27 เพิ่มเครื่องมือแก้ไขรูปภาพพลัง Apple Intelligence ขยายพื้นที่, ปรับมุมมอง Body อีกประมาณหนึ่งเดือนจะถึงเวลาของงานสัมมนาประจำปีแอปเปิล",
+      "url": "https://www.blognone.com/node/150373",
+      "publishedAt": "2026-04-29T00:50:07.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150372 at https://www.blognone.com",
+      "title": "FIDO ประกาศตั้งทีมพัฒนามาตรฐานการทำธุรกรรมออนไลน์ผ่าน AI Agent - Google ส่งมอบ AP2 ให้โครงการไปดูแลต่อ",
+      "description": "FIDO ประกาศตั้งทีมพัฒนามาตรฐานการทำธุรกรรมออนไลน์ผ่าน AI Agent - Google ส่งมอบ AP2 ให้โครงการไปดูแลต่อ Body FIDO Alliance",
+      "url": "https://www.blognone.com/node/150372",
+      "publishedAt": "2026-04-29T00:38:46.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}
