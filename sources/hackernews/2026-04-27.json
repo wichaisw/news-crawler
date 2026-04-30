@@ -47,6 +47,17 @@
       "tags": []
     },
     {
+      "id": "so6u5j",
+      "title": "Noctua releases official 3D CAD models for its cooling fans",
+      "description": "Score: 118 | Comments: 19 | Posted by embedding-shape",
+      "url": "https://www.noctua.at/en/3d-cad-models",
+      "publishedAt": "2026-04-27T21:35:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "embedding-shape",
+      "tags": []
+    },
+    {
       "id": "j7073f",
       "title": "Three men are facing charges in Toronto SMS Blaster arrests",
       "description": "Score: 146 | Comments: 66 | Posted by gnabgib",
@@ -113,6 +124,17 @@
       "tags": []
     },
     {
+      "id": "mjkx45",
+      "title": "Who Is That Knocking at My (SSH) Door?",
+      "description": "Score: 16 | Comments: 0 | Posted by speckx",
+      "url": "https://sheep.horse/2026/4/who_is_that_knocking_at_my_%28ssh%29_door.html",
+      "publishedAt": "2026-04-27T17:28:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
+      "tags": []
+    },
+    {
       "id": "2zrhmh",
       "title": "Decoupled DiLoCo: Resilient, Distributed AI Training at Scale",
       "description": "Score: 45 | Comments: 5 | Posted by metadat",
@@ -132,6 +154,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "frizlab",
+      "tags": []
+    },
+    {
+      "id": "7w1i80",
+      "title": "Show HN: Qumulator – quantum circuit simulator, 1000 qubits, no GPU",
+      "description": "Score: 11 | Comments: 3 | Posted by nnoorbakhsh",
+      "url": "https://github.com/qumulator/qumulator-sdk",
+      "publishedAt": "2026-04-27T15:56:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nnoorbakhsh",
       "tags": []
     },
     {
@@ -198,6 +231,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ibobev",
+      "tags": []
+    },
+    {
+      "id": "2q5fdm",
+      "title": "Postgres's lateral joins allow for quite the good eDSL",
+      "description": "Score: 82 | Comments: 17 | Posted by nitros",
+      "url": "https://bensimms.moe/postgres-lateral-makes-quite-a-good-dsl/",
+      "publishedAt": "2026-04-27T14:07:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nitros",
       "tags": []
     },
     {

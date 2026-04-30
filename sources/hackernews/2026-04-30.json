@@ -1,0 +1,204 @@
+{
+  "date": "2026-04-30",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "lu0tkx",
+      "title": "Scott Aaronson on quantum: \"Will you heed my warnings NOW?\"",
+      "description": "Score: 3 | Comments: 0 | Posted by bwesterb",
+      "url": "https://scottaaronson.blog/?p=9718",
+      "publishedAt": "2026-04-30T06:30:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bwesterb",
+      "tags": []
+    },
+    {
+      "id": "o8q7xr",
+      "title": "Monad Tutorials Timeline",
+      "description": "Score: 14 | Comments: 3 | Posted by brudgers",
+      "url": "https://wiki.haskell.org/Monad_tutorials_timeline",
+      "publishedAt": "2026-04-30T04:28:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "brudgers",
+      "tags": []
+    },
+    {
+      "id": "b05kdq",
+      "title": "Lessons from Building an OTel Normalizer for GenAI",
+      "description": "Score: 4 | Comments: 0 | Posted by thebitofmyheart",
+      "url": "https://www.groundcover.com/blog/otel-normalizer-genai-part-1",
+      "publishedAt": "2026-04-30T04:23:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thebitofmyheart",
+      "tags": []
+    },
+    {
+      "id": "amajkp",
+      "title": "Where the goblins came fromopenai.com",
+      "description": "Score: 396 | Comments: 198 | Posted by ilreb",
+      "url": "https://openai.com/index/where-the-goblins-came-from/",
+      "publishedAt": "2026-04-30T03:59:39.091Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ilreb",
+      "tags": []
+    },
+    {
+      "id": "r3uvrs",
+      "title": "Biology is a Burrito: A text- and visual-based journey through a living cell",
+      "description": "Score: 64 | Comments: 9 | Posted by the-mitr",
+      "url": "https://burrito.bio/essays/biology-is-a-burrito",
+      "publishedAt": "2026-04-30T03:24:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "the-mitr",
+      "tags": []
+    },
+    {
+      "id": "amajkp",
+      "title": "Where the goblins came from",
+      "description": "Score: 396 | Comments: 198 | Posted by ilreb",
+      "url": "https://openai.com/index/where-the-goblins-came-from/",
+      "publishedAt": "2026-04-30T03:21:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ilreb",
+      "tags": []
+    },
+    {
+      "id": "36qv2n",
+      "title": "Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs",
+      "description": "Score: 98 | Comments: 55 | Posted by reconnecting",
+      "url": "https://github.com/cauchy221/Alignment-Whack-a-Mole-Code",
+      "publishedAt": "2026-04-30T03:11:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "reconnecting",
+      "tags": []
+    },
+    {
+      "id": "9xgli3",
+      "title": "Functional programmers need to take a look at Zig",
+      "description": "Score: 72 | Comments: 45 | Posted by xngbuilds",
+      "url": "https://pure-systems.org/posts/2026-04-29-functional-programmers-need-to-take-a-look-at-zig.html",
+      "publishedAt": "2026-04-30T03:11:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "xngbuilds",
+      "tags": []
+    },
+    {
+      "id": "45foyq",
+      "title": "Microsoft open sources DOS 1.00 on 45th anniversary",
+      "description": "Score: 45 | Comments: 9 | Posted by hackthemack",
+      "url": "https://opensource.microsoft.com/blog/2026/04/28/continuing-the-story-of-early-dos-development/",
+      "publishedAt": "2026-04-30T02:52:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hackthemack",
+      "tags": []
+    },
+    {
+      "id": "hg0u2g",
+      "title": "The Zig project's rationale for their firm anti-AI contribution policy",
+      "description": "Score: 150 | Comments: 63 | Posted by lumpa",
+      "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
+      "publishedAt": "2026-04-30T02:15:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lumpa",
+      "tags": []
+    },
+    {
+      "id": "x684mh",
+      "title": "Zulip 12.0 Released",
+      "description": "Score: 43 | Comments: 3 | Posted by tabbott",
+      "url": "https://blog.zulip.com/2026/04/27/zulip-12-0-released/",
+      "publishedAt": "2026-04-30T02:00:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tabbott",
+      "tags": []
+    },
+    {
+      "id": "a2gj6m",
+      "title": "Craig Venter has diedjcvi.org",
+      "description": "Score: 202 | Comments: 35 | Posted by rdl",
+      "url": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79",
+      "publishedAt": "2026-04-30T01:59:39.092Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rdl",
+      "tags": []
+    },
+    {
+      "id": "tm4f9v",
+      "title": "Show HN: Agent that refuses to run commands without human approval",
+      "description": "Score: 8 | Comments: 0 | Posted by hexer303",
+      "url": "https://github.com/few-sh/fewshell",
+      "publishedAt": "2026-04-30T01:49:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hexer303",
+      "tags": []
+    },
+    {
+      "id": "315tba",
+      "title": "A grounded conceptual model for ownership types in Rust",
+      "description": "Score: 27 | Comments: 1 | Posted by tkhattra",
+      "url": "https://cacm.acm.org/research-highlights/a-grounded-conceptual-model-for-ownership-types-in-rust/",
+      "publishedAt": "2026-04-30T01:47:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tkhattra",
+      "tags": []
+    },
+    {
+      "id": "a2gj6m",
+      "title": "Craig Venter has died",
+      "description": "Score: 202 | Comments: 35 | Posted by rdl",
+      "url": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79",
+      "publishedAt": "2026-04-30T01:44:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rdl",
+      "tags": []
+    },
+    {
+      "id": "j7mn79",
+      "title": "Claude.ai and API unavailable [fixed]",
+      "description": "Score: 113 | Comments: 107 | Posted by rob",
+      "url": "https://status.claude.com/incidents/2gf1jpyty350",
+      "publishedAt": "2026-04-30T01:21:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rob",
+      "tags": []
+    },
+    {
+      "id": "xoixsq",
+      "title": "Joby kicks off NYC electric air taxi demos with historic JFK flight",
+      "description": "Score: 39 | Comments: 89 | Posted by Jblx2",
+      "url": "https://www.flyingmag.com/joby-nyc-electric-air-taxi-jfk-airport/",
+      "publishedAt": "2026-04-30T01:01:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Jblx2",
+      "tags": []
+    },
+    {
+      "id": "90y2du",
+      "title": "Mike: open-source legal AI",
+      "description": "Score: 69 | Comments: 22 | Posted by noleary",
+      "url": "https://mikeoss.com/",
+      "publishedAt": "2026-04-30T00:56:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "noleary",
+      "tags": []
+    }
+  ]
+}
