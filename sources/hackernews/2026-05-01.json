@@ -1,0 +1,83 @@
+{
+  "date": "2026-05-01",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "o1ho69",
+      "title": "Apple Says Mac Studio and Mac Mini Will Be in Short Supply for Months",
+      "description": "Score: 23 | Comments: 4 | Posted by tosh",
+      "url": "https://www.macrumors.com/2026/04/30/mac-studio-mac-mini-constrained-months/",
+      "publishedAt": "2026-05-01T06:20:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tosh",
+      "tags": []
+    },
+    {
+      "id": "llbhi",
+      "title": "U.S. Aims to Penalize Disabled Adults Who Live with Their Families",
+      "description": "Score: 20 | Comments: 1 | Posted by petethomas",
+      "url": "https://www.propublica.org/article/trump-social-security-ssi-disability-benefits-cuts-parents-children",
+      "publishedAt": "2026-05-01T05:02:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "petethomas",
+      "tags": []
+    },
+    {
+      "id": "2xr80t",
+      "title": "C8s: A Confidential Kubernetes Architecture",
+      "description": "Score: 3 | Comments: 0 | Posted by badcryptobitch",
+      "url": "https://arxiv.org/abs/2604.26974",
+      "publishedAt": "2026-05-01T04:28:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "badcryptobitch",
+      "tags": []
+    },
+    {
+      "id": "51fcf1",
+      "title": "Show HN: Winpodx – run Windows apps on Linux as native windows",
+      "description": "Score: 66 | Comments: 32 | Posted by kernalix7",
+      "url": "https://github.com/kernalix7/winpodx",
+      "publishedAt": "2026-05-01T02:23:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kernalix7",
+      "tags": []
+    },
+    {
+      "id": "k8m9s5",
+      "title": "OpenWarp",
+      "description": "Score: 72 | Comments: 60 | Posted by zero-lab",
+      "url": "https://openwarp.zerx.dev",
+      "publishedAt": "2026-05-01T02:10:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zero-lab",
+      "tags": []
+    },
+    {
+      "id": "iexq1o",
+      "title": "The Hearts of the Super Nintendo",
+      "description": "Score: 23 | Comments: 3 | Posted by droppedasbaby",
+      "url": "https://fabiensanglard.net/snes_hearts/",
+      "publishedAt": "2026-05-01T02:02:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "droppedasbaby",
+      "tags": []
+    },
+    {
+      "id": "sjqsuq",
+      "title": "$500M for Virtual Biology Initiative, Funded by Zuckerbergs",
+      "description": "Score: 32 | Comments: 15 | Posted by warbaker",
+      "url": "https://biohub.org/news/virtual-biology-initiative/",
+      "publishedAt": "2026-05-01T00:20:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "warbaker",
+      "tags": []
+    }
+  ]
+}

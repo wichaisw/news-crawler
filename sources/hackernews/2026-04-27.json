@@ -69,6 +69,17 @@
       "tags": []
     },
     {
+      "id": "bspwtz",
+      "title": "Softmax, can you derive the Jacobian? And should you care?",
+      "description": "Score: 13 | Comments: 0 | Posted by smaddrellmander",
+      "url": "https://idlemachines.co.uk/essays/softmax",
+      "publishedAt": "2026-04-27T20:38:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "smaddrellmander",
+      "tags": []
+    },
+    {
       "id": "whqmb8",
       "title": "Is my blue your blue?",
       "description": "Score: 467 | Comments: 313 | Posted by theogravity",
@@ -99,6 +110,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "apollinaire",
+      "tags": []
+    },
+    {
+      "id": "7if6r7",
+      "title": "My Stratum-0 Atomic Clock",
+      "description": "Score: 79 | Comments: 24 | Posted by g0xA52A2A",
+      "url": "https://coverclock.blogspot.com/2017/05/my-stratum-0-atomic-clock_9.html",
+      "publishedAt": "2026-04-27T19:02:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "g0xA52A2A",
+      "tags": []
+    },
+    {
+      "id": "ckp9ac",
+      "title": "You can beat the binary search",
+      "description": "Score: 298 | Comments: 134 | Posted by vok",
+      "url": "https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/",
+      "publishedAt": "2026-04-27T17:52:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vok",
       "tags": []
     },
     {

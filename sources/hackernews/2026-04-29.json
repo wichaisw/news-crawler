@@ -80,6 +80,17 @@
       "tags": []
     },
     {
+      "id": "uz5p02",
+      "title": "Opus 4.7 knows the real Kelsey",
+      "description": "Score: 295 | Comments: 154 | Posted by ilamont",
+      "url": "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously",
+      "publishedAt": "2026-04-29T17:09:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ilamont",
+      "tags": []
+    },
+    {
       "id": "jgr3z2",
       "title": "Laws of UX",
       "description": "Score: 240 | Comments: 35 | Posted by bobbiechen",
@@ -157,6 +168,17 @@
       "tags": []
     },
     {
+      "id": "m8qe22",
+      "title": "What can we gain by losing infinity?",
+      "description": "Score: 106 | Comments: 116 | Posted by Tomte",
+      "url": "https://www.quantamagazine.org/what-can-we-gain-by-losing-infinity-20260429/",
+      "publishedAt": "2026-04-29T15:16:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Tomte",
+      "tags": []
+    },
+    {
       "id": "8fb8ow",
       "title": "Making AI chatbots friendly leads to mistakes and support of conspiracy theories",
       "description": "Score: 84 | Comments: 65 | Posted by Cynddl",
@@ -209,6 +231,50 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "icy",
+      "tags": []
+    },
+    {
+      "id": "grr2on",
+      "title": "Roboticist-Turned-Teacher Built a Life-Size Replica of Eniac",
+      "description": "Score: 21 | Comments: 5 | Posted by oldnetguy",
+      "url": "https://spectrum.ieee.org/roboticist-turned-teacher-eniac-replica",
+      "publishedAt": "2026-04-29T13:28:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "oldnetguy",
+      "tags": []
+    },
+    {
+      "id": "e98q67",
+      "title": "10Gb/s Ethernet: what I did to get it working in my home",
+      "description": "Score: 186 | Comments: 132 | Posted by gpjt",
+      "url": "https://www.gilesthomas.com/2026/04/10g-ethernet-what-i-did",
+      "publishedAt": "2026-04-29T13:15:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gpjt",
+      "tags": []
+    },
+    {
+      "id": "thzsme",
+      "title": "Compositing and Blending – Exploring the math and intuition behind blend modes",
+      "description": "Score: 26 | Comments: 3 | Posted by OuterVale",
+      "url": "https://nik.digital/posts/compositing-blending",
+      "publishedAt": "2026-04-29T11:46:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "OuterVale",
+      "tags": []
+    },
+    {
+      "id": "fy23py",
+      "title": "New copy of earliest poem in English, written 1,3k years ago, discovered in Rome",
+      "description": "Score: 26 | Comments: 1 | Posted by giuliomagnifico",
+      "url": "https://www.tcd.ie/news_events/articles/2026/caedmons-hymn-discovery/",
+      "publishedAt": "2026-04-29T11:35:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "giuliomagnifico",
       "tags": []
     },
     {
@@ -297,6 +363,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "shad42",
+      "tags": []
+    },
+    {
+      "id": "frxrf0",
+      "title": "Maladaptive Frugality",
+      "description": "Score: 75 | Comments: 51 | Posted by herbertl",
+      "url": "https://herbertlui.net/maladaptive-frugality/",
+      "publishedAt": "2026-04-29T00:50:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "herbertl",
       "tags": []
     }
   ]
