@@ -3,6 +3,94 @@
   "source": "techcrunch",
   "articles": [
     {
+      "id": "https://techcrunch.com/?p=3118564",
+      "title": "Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell",
+      "description": "At TechCrunch's sold-out StrictlyVC event in San Francisco on Thursday night, we covered a lot of ground in a short time, beginning with the question",
+      "url": "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/",
+      "publishedAt": "2026-05-01T23:06:50.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Connie Loizos",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3118531",
+      "title": "Musely secures $360M from General Catalyst without giving up equity",
+      "description": "The DTC skin, hair, and menopause care brand will use the non-dilutive capital to super-charge customer acquisition.",
+      "url": "https://techcrunch.com/2026/05/01/musely-secures-360m-from-general-catalyst-without-giving-up-equity/",
+      "publishedAt": "2026-05-01T22:39:05.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Marina Temkin",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3118513",
+      "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
+      "description": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
+      "url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
+      "publishedAt": "2026-05-01T22:13:27.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Julie Bort",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3118467",
+      "title": "Coatue has a plan to buy up land for data centers, possibly for Anthropic",
+      "description": "Coatue, one of the biggest names in venture capital, has a new venture that is reportedly buying land near large power sources.",
+      "url": "https://techcrunch.com/2026/05/01/coatue-has-a-plan-to-buy-up-land-for-data-centers-possibly-for-anthropic/",
+      "publishedAt": "2026-05-01T18:23:04.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Julie Bort",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3118436",
+      "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+      "description": "The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over",
+      "url": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
+      "publishedAt": "2026-05-01T16:02:36.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Ram Iyer",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3118437",
+      "title": "Ubuntu services hit by outages after DDoS attack",
+      "description": "A group of hacktivists have claimed responsibility for a distributed denial-of-service attack, which has affected several Ubuntu and Canonical",
+      "url": "https://techcrunch.com/2026/05/01/ubuntu-services-hit-by-outages-after-ddos-attack/",
+      "publishedAt": "2026-05-01T15:00:14.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lorenzo Franceschi-Bicchierai",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?post_type=tc_video&p=3118470",
+      "title": "Musk v. Altman is just getting started",
+      "description": "Elon Musk spent the better part of three days&#160;on the witness stand&#160;this week&#160;in his lawsuit against OpenAI, and&#160;it's&#160;already",
+      "url": "https://techcrunch.com/video/musk-v-altman-is-just-getting-started/",
+      "publishedAt": "2026-05-01T14:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Theresa Loconsolo",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3118420",
+      "title": "People are finally using Reddit’s search",
+      "description": "The company saw a 30% year-on-year jump in the number of people using search every week, CEO Steve Huffman said on Thursday.",
+      "url": "https://techcrunch.com/2026/05/01/people-are-finally-using-reddits-search/",
+      "publishedAt": "2026-05-01T12:00:11.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Ivan Mehta",
+      "tags": []
+    },
+    {
       "id": "https://techcrunch.com/?p=3118178",
       "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
       "description": "Users in India are embracing ChatGPT Images 2.0 for creative, personal visuals — from avatars to cinematic portraits.",

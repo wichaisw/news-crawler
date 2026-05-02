@@ -245,6 +245,17 @@
       "tags": []
     },
     {
+      "id": "ijx6v8",
+      "title": "Chasing a SharedKey signature mismatch: fix azurerm_storage_table_entity",
+      "description": "Score: 10 | Comments: 4 | Posted by kamilmrzyglod",
+      "url": "https://topaz.thecloudtheory.com/blog/debugging-table-entity-auth/",
+      "publishedAt": "2026-04-30T08:56:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kamilmrzyglod",
+      "tags": []
+    },
+    {
       "id": "jnudv9",
       "title": "Mozilla's opposition to Chrome's Prompt API",
       "description": "Score: 610 | Comments: 222 | Posted by jaffathecake",
@@ -319,6 +330,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ilreb",
+      "tags": []
+    },
+    {
+      "id": "jbbrd4",
+      "title": "LFM2-24B-A2B: Scaling Up the LFM2 Architecture",
+      "description": "Score: 19 | Comments: 3 | Posted by nateb2022",
+      "url": "https://www.liquid.ai/blog/lfm2-24b-a2b",
+      "publishedAt": "2026-04-30T03:15:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nateb2022",
       "tags": []
     },
     {
@@ -451,6 +473,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "noleary",
+      "tags": []
+    },
+    {
+      "id": "mzurqs",
+      "title": "Integer Overflow Checking Cost",
+      "description": "Score: 10 | Comments: 2 | Posted by iwsk",
+      "url": "https://danluu.com/integer-overflow/",
+      "publishedAt": "2026-04-30T00:48:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "iwsk",
       "tags": []
     }
   ]

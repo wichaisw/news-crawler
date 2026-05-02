@@ -1,0 +1,149 @@
+{
+  "date": "2026-05-02",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "uq9pm1",
+      "title": "Ask.com has closedask.com",
+      "description": "Score: 192 | Comments: 98 | Posted by supermdguy",
+      "url": "https://www.ask.com/",
+      "publishedAt": "2026-05-02T04:45:53.994Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "supermdguy",
+      "tags": []
+    },
+    {
+      "id": "pf61ge",
+      "title": "Why does it take so long to release black fan versions?noctua.at",
+      "description": "Score: 45 | Comments: 13 | Posted by buildbot",
+      "url": "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions",
+      "publishedAt": "2026-05-02T04:45:53.993Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "buildbot",
+      "tags": []
+    },
+    {
+      "id": "pf61ge",
+      "title": "Why does it take so long to release black fan versions?",
+      "description": "Score: 46 | Comments: 13 | Posted by buildbot",
+      "url": "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions",
+      "publishedAt": "2026-05-02T04:38:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "buildbot",
+      "tags": []
+    },
+    {
+      "id": "uq9pm1",
+      "title": "Ask.com has closed",
+      "description": "Score: 193 | Comments: 98 | Posted by supermdguy",
+      "url": "https://www.ask.com/",
+      "publishedAt": "2026-05-02T04:12:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "supermdguy",
+      "tags": []
+    },
+    {
+      "id": "z1qnq3",
+      "title": "K3k: Kubernetes in Kubernetes",
+      "description": "Score: 21 | Comments: 9 | Posted by jzebedee",
+      "url": "https://github.com/rancher/k3k",
+      "publishedAt": "2026-05-02T04:00:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jzebedee",
+      "tags": []
+    },
+    {
+      "id": "3wmy6r",
+      "title": "Job Postings for Software Engineers Are Rapidly Risingcitadelsecurities.com",
+      "description": "Score: 117 | Comments: 53 | Posted by delichon",
+      "url": "https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/",
+      "publishedAt": "2026-05-02T02:45:53.994Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "delichon",
+      "tags": []
+    },
+    {
+      "id": "ri4i3n",
+      "title": "Create an MP4 video of a web page scrolling at a steady speed",
+      "description": "Score: 14 | Comments: 4 | Posted by shawnzam",
+      "url": "https://github.com/upenn/web-scroll-video",
+      "publishedAt": "2026-05-02T02:26:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "shawnzam",
+      "tags": []
+    },
+    {
+      "id": "9yabg4",
+      "title": "Governor – a Claude Code plugin to reduce token/context waste",
+      "description": "Score: 16 | Comments: 2 | Posted by mantiscore",
+      "url": "https://github.com/0xhimanshu/governor",
+      "publishedAt": "2026-05-02T02:19:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mantiscore",
+      "tags": []
+    },
+    {
+      "id": "tud4a3",
+      "title": "I built the Playwright for desktop apps. 80% token savings",
+      "description": "Score: 43 | Comments: 13 | Posted by lahfir",
+      "url": "https://github.com/lahfir/agent-desktop",
+      "publishedAt": "2026-05-02T02:18:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lahfir",
+      "tags": []
+    },
+    {
+      "id": "kbzqmm",
+      "title": "Hermit – uniform tooling for Linux and Mac",
+      "description": "Score: 4 | Comments: 1 | Posted by zikani_03",
+      "url": "https://github.com/cashapp/hermit",
+      "publishedAt": "2026-05-02T01:49:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zikani_03",
+      "tags": []
+    },
+    {
+      "id": "3wmy6r",
+      "title": "Job Postings for Software Engineers Are Rapidly Rising",
+      "description": "Score: 117 | Comments: 54 | Posted by delichon",
+      "url": "https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/",
+      "publishedAt": "2026-05-02T01:46:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "delichon",
+      "tags": []
+    },
+    {
+      "id": "82m1ma",
+      "title": "Good developers learn to program. Most courses teach a language",
+      "description": "Score: 92 | Comments: 56 | Posted by andsoitis",
+      "url": "https://evilgeniuslabs.ca/blog/good-developers-learn-to-program-not-a-language",
+      "publishedAt": "2026-05-02T00:14:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andsoitis",
+      "tags": []
+    },
+    {
+      "id": "h0qze9",
+      "title": "Notes on a non-profit indicted for bank fraud",
+      "description": "Score: 12 | Comments: 3 | Posted by Redoubts",
+      "url": "https://www.bitsaboutmoney.com/archive/nonprofit-indicted-bank-fraud/",
+      "publishedAt": "2026-05-02T00:04:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Redoubts",
+      "tags": []
+    }
+  ]
+}

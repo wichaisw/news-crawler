@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "454pco",
+      "title": "Eka’s robotic claw feels like we're approaching a ChatGPT moment",
+      "description": "Score: 124 | Comments: 158 | Posted by zdw",
+      "url": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/",
+      "publishedAt": "2026-04-29T22:56:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
       "id": "ld0may",
       "title": "Vera: a programming language designed for machines to write",
       "description": "Score: 78 | Comments: 64 | Posted by unignorant",
@@ -22,6 +33,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "fishgoesblub",
+      "tags": []
+    },
+    {
+      "id": "ek72a6",
+      "title": "Artemis II Photo Timeline",
+      "description": "Score: 159 | Comments: 12 | Posted by geerlingguy",
+      "url": "https://artemistimeline.com/#artemis-ii-walkout-nhq202604010003",
+      "publishedAt": "2026-04-29T20:48:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "geerlingguy",
       "tags": []
     },
     {
@@ -47,6 +69,17 @@
       "tags": []
     },
     {
+      "id": "6hekev",
+      "title": "Direct electrochemical black coffee quality appraisal using cyclic voltammetry",
+      "description": "Score: 42 | Comments: 12 | Posted by bookofjoe",
+      "url": "https://www.nature.com/articles/s41467-026-71526-5",
+      "publishedAt": "2026-04-29T18:58:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bookofjoe",
+      "tags": []
+    },
+    {
       "id": "a69fu4",
       "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
       "description": "Score: 1087 | Comments: 459 | Posted by homebrewer",
@@ -66,6 +99,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "unsnap_biceps",
+      "tags": []
+    },
+    {
+      "id": "38rcgv",
+      "title": "Historic Tennessee hotel is also home to the greatest duck tradition (2016)",
+      "description": "Score: 31 | Comments: 2 | Posted by NaOH",
+      "url": "https://www.audubon.org/magazine/tennessees-most-historic-hotel-also-home-greatest-duck-tradition",
+      "publishedAt": "2026-04-29T18:06:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "NaOH",
       "tags": []
     },
     {
@@ -157,6 +201,17 @@
       "tags": []
     },
     {
+      "id": "miy5zy",
+      "title": "The smelly baby problem",
+      "description": "Score: 159 | Comments: 100 | Posted by dionysou",
+      "url": "https://www.worksinprogress.news/p/how-disposable-diapers-conquered",
+      "publishedAt": "2026-04-29T15:48:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dionysou",
+      "tags": []
+    },
+    {
       "id": "i2chz0",
       "title": "Cursor Camp",
       "description": "Score: 843 | Comments: 136 | Posted by bpierre",
@@ -165,6 +220,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "bpierre",
+      "tags": []
+    },
+    {
+      "id": "163iww",
+      "title": "To Restore an Island Paradise, Add Fungi",
+      "description": "Score: 44 | Comments: 4 | Posted by Brajeshwar",
+      "url": "https://e360.yale.edu/digest/atoll-islands-sea-level-rise-fungi",
+      "publishedAt": "2026-04-29T15:28:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Brajeshwar",
       "tags": []
     },
     {
@@ -308,6 +374,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jjba23",
+      "tags": []
+    },
+    {
+      "id": "vmwj7k",
+      "title": "Tvheadend: Self-Hosted IPTV Server",
+      "description": "Score: 26 | Comments: 9 | Posted by hyperific",
+      "url": "https://tvheadend.org",
+      "publishedAt": "2026-04-29T05:13:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hyperific",
       "tags": []
     },
     {
