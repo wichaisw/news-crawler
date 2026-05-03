@@ -1,0 +1,28 @@
+{
+  "date": "2026-05-03",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "150422 at https://www.blognone.com",
+      "title": "Ask.com หนึ่งในผู้บุกเบิกเว็บค้นหาข้อมูลอินเทอร์เน็ต ประกาศปิดให้บริการแล้ว",
+      "description": "Ask.com หนึ่งในผู้บุกเบิกเว็บค้นหาข้อมูลอินเทอร์เน็ต ประกาศปิดให้บริการแล้ว Body Ask.com เว็บค้นหาข้อมูลแนวถาม-ตอบ",
+      "url": "https://www.blognone.com/node/150422",
+      "publishedAt": "2026-05-03T04:10:59.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150421 at https://www.blognone.com",
+      "title": "OpenAI จัดปาร์ตี้ฉลอง ChatGPT 5.5, Sam บอกถ้า Elon อยากมาก็ยินดี โลกต้องการความรัก",
+      "description": "OpenAI จัดปาร์ตี้ฉลอง ChatGPT 5.5, Sam บอกถ้า Elon อยากมาก็ยินดี โลกต้องการความรัก Body OpenAI ประกาศจัดปาร์ตี้ฉลองการออก ChatGPT 5.5 ในวันที่ 5",
+      "url": "https://www.blognone.com/node/150421",
+      "publishedAt": "2026-05-03T03:43:12.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}

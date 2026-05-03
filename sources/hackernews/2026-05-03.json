@@ -1,0 +1,105 @@
+{
+  "date": "2026-05-03",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "6nsl7n",
+      "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
+      "description": "Score: 190 | Comments: 88 | Posted by bazlightyear",
+      "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
+      "publishedAt": "2026-05-03T04:05:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bazlightyear",
+      "tags": []
+    },
+    {
+      "id": "f5528v",
+      "title": "Windows API Is Successful Cross-Platform API",
+      "description": "Score: 63 | Comments: 47 | Posted by phendrenad2",
+      "url": "https://retrocoding.net/windows-api-is-successful-cross-platform-api",
+      "publishedAt": "2026-05-03T02:53:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "phendrenad2",
+      "tags": []
+    },
+    {
+      "id": "ug0tir",
+      "title": "AI, Intimacy, and the Data You Never Meant to Share",
+      "description": "Score: 11 | Comments: 0 | Posted by victorkulla",
+      "url": "https://fshot.org/techzone/the-algorithm-knows.php",
+      "publishedAt": "2026-05-03T02:42:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "victorkulla",
+      "tags": []
+    },
+    {
+      "id": "9nh7yl",
+      "title": "Open source does not imply open community",
+      "description": "Score: 127 | Comments: 28 | Posted by RohanAdwankar",
+      "url": "https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/",
+      "publishedAt": "2026-05-03T02:36:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "RohanAdwankar",
+      "tags": []
+    },
+    {
+      "id": "teq4jb",
+      "title": "Care Homes and Hotels in Japan Shut as Expansion Strategy Unravels",
+      "description": "Score: 25 | Comments: 2 | Posted by mikhael",
+      "url": "https://www.newsonjapan.com/article/149075.php",
+      "publishedAt": "2026-05-03T01:38:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mikhael",
+      "tags": []
+    },
+    {
+      "id": "8uh63f",
+      "title": "Maryland Is First to Ban A.I.-Driven Price Increases in Grocery Stores",
+      "description": "Score: 121 | Comments: 63 | Posted by doener",
+      "url": "https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html",
+      "publishedAt": "2026-05-03T01:24:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "doener",
+      "tags": []
+    },
+    {
+      "id": "hzents",
+      "title": "Clandestine network smuggling Starlink tech into Iran to beat internet blackout",
+      "description": "Score: 150 | Comments: 75 | Posted by 1659447091",
+      "url": "https://www.bbc.com/news/articles/cvgzk91leweo",
+      "publishedAt": "2026-05-03T01:22:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "1659447091",
+      "tags": []
+    },
+    {
+      "id": "b4uu4h",
+      "title": "Am I the only one who hates delivery robots?",
+      "description": "Score: 56 | Comments: 48 | Posted by robotlaunch",
+      "url": "https://www.latimes.com/entertainment-arts/story/2026-04-14/delivery-robots-creating-problems-glendale-ban",
+      "publishedAt": "2026-05-03T00:31:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "robotlaunch",
+      "tags": []
+    },
+    {
+      "id": "3npszh",
+      "title": "A Couple Million Lines of Haskell: Production Engineering at Mercury",
+      "description": "Score: 150 | Comments: 57 | Posted by unignorant",
+      "url": "https://blog.haskell.org/a-couple-million-lines-of-haskell/",
+      "publishedAt": "2026-05-03T00:01:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "unignorant",
+      "tags": []
+    }
+  ]
+}

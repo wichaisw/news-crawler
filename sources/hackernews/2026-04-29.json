@@ -168,6 +168,17 @@
       "tags": []
     },
     {
+      "id": "xut1vk",
+      "title": "The USB Situation",
+      "description": "Score: 118 | Comments: 130 | Posted by herbertl",
+      "url": "https://randsinrepose.com/archives/the-usb-situation/",
+      "publishedAt": "2026-04-29T16:49:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "herbertl",
+      "tags": []
+    },
+    {
       "id": "p8txre",
       "title": "At Protocol: Building the Social Internet",
       "description": "Score: 80 | Comments: 36 | Posted by resiros",
@@ -267,6 +278,17 @@
       "tags": []
     },
     {
+      "id": "1vl3ym",
+      "title": "Show HN: DAC – open-source dashboard as code tool for agents and humans",
+      "description": "Score: 101 | Comments: 32 | Posted by karakanb",
+      "url": "https://github.com/bruin-data/dac",
+      "publishedAt": "2026-04-29T14:37:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "karakanb",
+      "tags": []
+    },
+    {
       "id": "5xj5bl",
       "title": "Zed 1.0",
       "description": "Score: 1743 | Comments: 561 | Posted by salkahfi",
@@ -297,6 +319,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "icy",
+      "tags": []
+    },
+    {
+      "id": "pa67v7",
+      "title": "Barman – Backup and Recovery Manager for PostgreSQL",
+      "description": "Score: 152 | Comments: 23 | Posted by nateb2022",
+      "url": "https://github.com/EnterpriseDB/barman",
+      "publishedAt": "2026-04-29T13:54:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nateb2022",
       "tags": []
     },
     {

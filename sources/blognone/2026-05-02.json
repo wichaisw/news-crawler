@@ -3,6 +3,61 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "150417 at https://www.blognone.com",
+      "title": "GameStop สนใจซื้อกิจการ eBay แม้บริษัทจะใหญ่กว่าถึง 4 เท่า",
+      "description": "GameStop สนใจซื้อกิจการ eBay แม้บริษัทจะใหญ่กว่าถึง 4 เท่า Body The Wall Street Journal อ้างแหล่งข่าวที่เกี่ยวข้องระบุว่า GameStop",
+      "url": "https://www.blognone.com/node/150417",
+      "publishedAt": "2026-05-02T16:32:00.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150420 at https://www.blognone.com",
+      "title": "Windows 11 เพิ่ม Run Dialog แบบใหม่ หน้าตาโฉบเฉี่ยว ทำงานเร็วขึ้น",
+      "description": "Windows 11 เพิ่ม Run Dialog แบบใหม่ หน้าตาโฉบเฉี่ยว ทำงานเร็วขึ้น Body Windows 11 เปิดตัว Run dialog โฉมใหม่ เขียนขึ้นใหม่ทั้งหมดด้วย C#/WinUI 3",
+      "url": "https://www.blognone.com/node/150420",
+      "publishedAt": "2026-05-02T13:03:56.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150419 at https://www.blognone.com",
+      "title": "[ลือ] Apple หยุดโครงการพัฒนา Vision Pro ทั้งหมดแล้ว",
+      "description": "[ลือ] Apple หยุดโครงการพัฒนา Vision Pro ทั้งหมดแล้ว Body ข่าวลือนี้มาจาก MacRumors อ้างข้อมูลที่ทราบมาว่าตอนนี้แอปเปิลได้หยุดโครงการพัฒนาเฮดเซต",
+      "url": "https://www.blognone.com/node/150419",
+      "publishedAt": "2026-05-02T11:43:00.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150418 at https://www.blognone.com",
+      "title": "เลิกยัดเยียด ไมโครซอฟท์ถอดปุ่ม Copilot ออกจาก Snipping Tools, Photos, Notepad",
+      "description": "เลิกยัดเยียด ไมโครซอฟท์ถอดปุ่ม Copilot ออกจาก Snipping Tools, Photos, Notepad Body ไมโครซอฟท์ถอดปุ่ม Copilot ออกจากแอพบางตัวของ Windows 11",
+      "url": "https://www.blognone.com/node/150418",
+      "publishedAt": "2026-05-02T09:11:54.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150416 at https://www.blognone.com",
+      "title": "Windows 11 ปรับปรุงหน้า Widgets ตัดฟีดข่าวรกๆ ออกไปแล้ว ไม่แจ้งเตือนพร่ำเพรื่อ",
+      "description": "Windows 11 ปรับปรุงหน้า Widgets ตัดฟีดข่าวรกๆ ออกไปแล้ว ไม่แจ้งเตือนพร่ำเพรื่อ Body ไมโครซอฟท์ออก Windows 11 Insider Experimental Preview Build",
+      "url": "https://www.blognone.com/node/150416",
+      "publishedAt": "2026-05-02T08:44:19.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "150413 at https://www.blognone.com",
       "title": "Meta ซื้อกิจการ Assured Robot Intelligence สตาร์ทอัปหุ่นยนต์ Humanoid มาเสริมทีม Superintelligence Labs",
       "description": "Meta ซื้อกิจการ Assured Robot Intelligence สตาร์ทอัปหุ่นยนต์ Humanoid มาเสริมทีม Superintelligence Labs Body Meta ประกาศซื้อกิจการ Assured Robot",

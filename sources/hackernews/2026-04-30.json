@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "npq76",
+      "title": "Simple and Correct Snapshot Isolation",
+      "description": "Score: 16 | Comments: 1 | Posted by remywang",
+      "url": "https://remy.wang/blog/si.html",
+      "publishedAt": "2026-04-30T23:54:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "remywang",
+      "tags": []
+    },
+    {
       "id": "lr13yn",
       "title": "Universal patterns emerge across 22 languages, mapping how vocabularies evolve",
       "description": "Score: 19 | Comments: 1 | Posted by wglb",
@@ -22,6 +33,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "zikani_03",
+      "tags": []
+    },
+    {
+      "id": "o2er8o",
+      "title": "San Francisco streets with confusingly similar names",
+      "description": "Score: 15 | Comments: 16 | Posted by SeenNotHeard",
+      "url": "https://j-nelson.net/san-francisco-streets-with-similar-names/",
+      "publishedAt": "2026-04-30T22:25:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "SeenNotHeard",
       "tags": []
     },
     {
@@ -135,6 +157,17 @@
       "tags": []
     },
     {
+      "id": "owr245",
+      "title": "Dotcl: Common Lisp Implementation on .NET",
+      "description": "Score: 167 | Comments: 42 | Posted by reikonomusha",
+      "url": "https://github.com/dotcl/dotcl",
+      "publishedAt": "2026-04-30T16:33:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "reikonomusha",
+      "tags": []
+    },
+    {
       "id": "cjcbvg",
       "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
       "description": "Score: 379 | Comments: 128 | Posted by j12y",
@@ -190,6 +223,28 @@
       "tags": []
     },
     {
+      "id": "3na26b",
+      "title": "Little Magazines Are Back",
+      "description": "Score: 84 | Comments: 32 | Posted by prismatic",
+      "url": "https://wsjfreeexpression.substack.com/p/little-magazines-are-back",
+      "publishedAt": "2026-04-30T14:03:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "prismatic",
+      "tags": []
+    },
+    {
+      "id": "onkhnk",
+      "title": "The IBM Granite 4.1 family of models",
+      "description": "Score: 50 | Comments: 5 | Posted by wglb",
+      "url": "https://research.ibm.com/blog/granite-4-1-ai-foundation-models",
+      "publishedAt": "2026-04-30T14:01:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wglb",
+      "tags": []
+    },
+    {
       "id": "8lujml",
       "title": "How an oil refinery works",
       "description": "Score: 392 | Comments: 119 | Posted by chmaynard",
@@ -198,6 +253,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "chmaynard",
+      "tags": []
+    },
+    {
+      "id": "r6g4n5",
+      "title": "Show HN: Pollen – distributed WASM runtime, no control plane, single binary",
+      "description": "Score: 112 | Comments: 52 | Posted by sambigeara",
+      "url": "https://github.com/sambigeara/pollen",
+      "publishedAt": "2026-04-30T13:15:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sambigeara",
       "tags": []
     },
     {
@@ -242,6 +308,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "steveharing1",
+      "tags": []
+    },
+    {
+      "id": "hmtorb",
+      "title": "Inventions for battery reuse and recycling increase seven-fold in last decade",
+      "description": "Score: 185 | Comments: 11 | Posted by JeanKage",
+      "url": "https://www.epo.org/en/news-events/news/inventions-battery-reuse-and-recycling-increase-more-seven-fold-last-decade",
+      "publishedAt": "2026-04-30T09:12:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "JeanKage",
       "tags": []
     },
     {

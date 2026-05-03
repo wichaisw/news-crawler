@@ -3,6 +3,61 @@
   "source": "techcrunch",
   "articles": [
     {
+      "id": "https://techcrunch.com/?p=3118619",
+      "title": "AI-generated actors and scripts are now ineligible for Oscars",
+      "description": "Bad news for Tilly Norwood.",
+      "url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
+      "publishedAt": "2026-05-02T21:54:58.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3118614",
+      "title": "Farewell, Jeeves: Ask.com shuts down",
+      "description": "Owner IAC says it's discontinuing its search business.",
+      "url": "https://techcrunch.com/2026/05/02/farewell-jeeves-ask-com-shuts-down/",
+      "publishedAt": "2026-05-02T21:11:28.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3118609",
+      "title": "Netflix delays Greta Gerwig’s ‘Narnia’ movie for big theatrical push in 2027",
+      "description": "\"The Magician's Nephew\" looks like a big next step in Netflix's thawing relationship with movie theaters.",
+      "url": "https://techcrunch.com/2026/05/02/netflix-delays-greta-gerwigs-narnia-movie-for-big-theatrical-push-in-2027/",
+      "publishedAt": "2026-05-02T17:05:41.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3076350",
+      "title": "The best AI dictation apps, tested and ranked",
+      "description": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice",
+      "url": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
+      "publishedAt": "2026-05-02T16:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Ivan Mehta",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3117874",
+      "title": "Beyond Lovable and Mistral: 21 European startups to watch",
+      "description": "It is not that European startups never get attention — Lovable and Mistral AI are proof of that. But there are many more that insiders are tracking.",
+      "url": "https://techcrunch.com/2026/05/02/beyond-lovable-and-mistral-21-european-startups-to-watch/",
+      "publishedAt": "2026-05-02T14:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anna Heim",
+      "tags": []
+    },
+    {
       "id": "https://techcrunch.com/?p=3118602",
       "title": "Uber wants to turn its millions of drivers into a sensor grid for self-driving companies",
       "description": "Praveen Neppalli Naga, Uber's chief technology officer, revealed the plan in an interview at TechCrunch's StrictlyVC event in San Francisco on",
