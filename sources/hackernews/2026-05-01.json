@@ -91,6 +91,17 @@
       "tags": []
     },
     {
+      "id": "ap1977",
+      "title": "Using \"underdrawings\" for accurate text and numbers",
+      "description": "Score: 157 | Comments: 41 | Posted by samcollins",
+      "url": "https://samcollins.blog/underdrawings/",
+      "publishedAt": "2026-05-01T18:07:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "samcollins",
+      "tags": []
+    },
+    {
       "id": "tftqs",
       "title": "New research suggests people can communicate and practice skills while dreaming",
       "description": "Score: 307 | Comments: 173 | Posted by XzetaU8",
@@ -110,6 +121,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "zachdive",
+      "tags": []
+    },
+    {
+      "id": "hzx6mt",
+      "title": "Roger Sweet, Creator of the He-Man Action Figure, Dies at 91",
+      "description": "Score: 38 | Comments: 6 | Posted by ChrisArchitect",
+      "url": "https://www.nytimes.com/2026/04/29/arts/roger-sweet-dead-he-man.html",
+      "publishedAt": "2026-05-01T17:29:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ChrisArchitect",
       "tags": []
     },
     {
@@ -190,6 +212,17 @@
       "tags": []
     },
     {
+      "id": "xmw134",
+      "title": "A Treasure Trove of Fossils Rewrites the Story of Early Life",
+      "description": "Score: 10 | Comments: 0 | Posted by worldvoyageur",
+      "url": "https://www.quantamagazine.org/a-treasure-trove-of-cambrian-fossils-rewrites-the-story-of-early-life-20260501/",
+      "publishedAt": "2026-05-01T15:42:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "worldvoyageur",
+      "tags": []
+    },
+    {
       "id": "lvhwxi",
       "title": "An open letter asking NHS England to keep its code open",
       "description": "Score: 231 | Comments: 13 | Posted by tvararu",
@@ -223,6 +256,50 @@
       "tags": []
     },
     {
+      "id": "a0ooz9",
+      "title": "Automatic Brightness in Plasma",
+      "description": "Score: 19 | Comments: 4 | Posted by speckx",
+      "url": "https://zamundaaa.github.io/wayland,display/2026/04/24/automatic-brightness.html",
+      "publishedAt": "2026-05-01T14:39:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
+      "tags": []
+    },
+    {
+      "id": "wchgq6",
+      "title": "Fun with polynomials and linear algebra; or, slight abstract nonsense",
+      "description": "Score: 4 | Comments: 0 | Posted by LolWolf",
+      "url": "https://guille.site/posts/abstract-nonsense/",
+      "publishedAt": "2026-05-01T14:24:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "LolWolf",
+      "tags": []
+    },
+    {
+      "id": "3amnnm",
+      "title": "K3sup – bootstrap K3s over SSH in < 60s",
+      "description": "Score: 45 | Comments: 13 | Posted by rickcarlino",
+      "url": "https://github.com/alexellis/k3sup",
+      "publishedAt": "2026-05-01T14:16:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rickcarlino",
+      "tags": []
+    },
+    {
+      "id": "9crepr",
+      "title": "US–Indian space mission maps extreme subsidence in Mexico City",
+      "description": "Score: 142 | Comments: 58 | Posted by leopoldj",
+      "url": "https://phys.org/news/2026-04-usindian-space-mission-extreme-subsidence.html",
+      "publishedAt": "2026-05-01T13:38:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "leopoldj",
+      "tags": []
+    },
+    {
       "id": "5zii27",
       "title": "Running Adobe's 1991 PostScript Interpreter in the Browser",
       "description": "Score: 135 | Comments: 29 | Posted by ingve",
@@ -253,6 +330,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "beardyw",
+      "tags": []
+    },
+    {
+      "id": "ooirm",
+      "title": "What is Z-Angle Memory and why is Intel developing it?",
+      "description": "Score: 105 | Comments: 36 | Posted by rbanffy",
+      "url": "https://www.hpcwire.com/2026/02/05/what-is-z-angle-memory-and-why-is-intel-developing-it/",
+      "publishedAt": "2026-05-01T09:56:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rbanffy",
       "tags": []
     },
     {
@@ -374,6 +462,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "droppedasbaby",
+      "tags": []
+    },
+    {
+      "id": "aix9n5",
+      "title": "Text-to-CAD",
+      "description": "Score: 103 | Comments: 29 | Posted by softservo",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "publishedAt": "2026-05-01T01:48:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "softservo",
       "tags": []
     },
     {

@@ -1,0 +1,28 @@
+{
+  "date": "2026-05-04",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "b87b60",
+      "title": "Stitch Together Lots of Little HTML Pages with Navigations for Interactions",
+      "description": "Score: 24 | Comments: 12 | Posted by OuterVale",
+      "url": "https://blog.jim-nielsen.com/2026/small-html-pages/",
+      "publishedAt": "2026-05-04T04:43:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "OuterVale",
+      "tags": []
+    },
+    {
+      "id": "suls6k",
+      "title": "Humanoid Robot Actuators",
+      "description": "Score: 83 | Comments: 9 | Posted by ofrzeta",
+      "url": "https://www.firgelli.com/pages/humanoid-robot-actuators",
+      "publishedAt": "2026-05-04T03:42:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ofrzeta",
+      "tags": []
+    }
+  ]
+}
