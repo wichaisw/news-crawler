@@ -3,6 +3,28 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "uej0y6",
+      "title": "Buffon's needle problem visualized",
+      "description": "Score: 19 | Comments: 3 | Posted by IvanLudvig",
+      "url": "https://ivanludvig.dev/pi-needle/",
+      "publishedAt": "2026-05-02T23:34:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "IvanLudvig",
+      "tags": []
+    },
+    {
+      "id": "xyhcz3",
+      "title": "Nocturnal migratory birds follow rhythm of the moon",
+      "description": "Score: 5 | Comments: 0 | Posted by hhs",
+      "url": "https://www.lunduniversity.lu.se/article/nocturnal-migratory-birds-follow-rhythm-moon",
+      "publishedAt": "2026-05-02T22:57:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hhs",
+      "tags": []
+    },
+    {
       "id": "6apmvz",
       "title": "Tesla owner won $10k in court for Tesla's FSD lies. Tesla is still fighting him",
       "description": "Score: 217 | Comments: 95 | Posted by breve",
@@ -69,6 +91,17 @@
       "tags": []
     },
     {
+      "id": "va0eut",
+      "title": "Show HN: I Built a Museum Exhibit",
+      "description": "Score: 27 | Comments: 1 | Posted by kn81198",
+      "url": "https://knhash.in/built-an-exhibit/",
+      "publishedAt": "2026-05-02T21:07:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kn81198",
+      "tags": []
+    },
+    {
       "id": "3xqhet",
       "title": "This Month in Ladybird - April 2026",
       "description": "Score: 258 | Comments: 45 | Posted by richardboegli",
@@ -99,6 +132,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "indrora",
+      "tags": []
+    },
+    {
+      "id": "57mv7i",
+      "title": "Jonathan Swift's Last Joke",
+      "description": "Score: 40 | Comments: 8 | Posted by samizdis",
+      "url": "https://www.newyorker.com/culture/the-weekend-essay/jonathan-swifts-last-joke",
+      "publishedAt": "2026-05-02T19:27:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "samizdis",
       "tags": []
     },
     {
@@ -179,6 +223,17 @@
       "tags": []
     },
     {
+      "id": "4km2jo",
+      "title": "pgxbackup: Continuity Support for pgBackRest",
+      "description": "Score: 33 | Comments: 4 | Posted by Wingy",
+      "url": "https://thebuild.com/blog/2026/05/01/pgxbackup-continuity-support-for-pgbackrest/",
+      "publishedAt": "2026-05-02T17:25:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Wingy",
+      "tags": []
+    },
+    {
       "id": "uegyiw",
       "title": "Roblox shares plummet 18% as child safety measures weigh on bookings",
       "description": "Score: 221 | Comments: 134 | Posted by 1vuio0pswjnm7",
@@ -190,6 +245,17 @@
       "tags": []
     },
     {
+      "id": "sw36sn",
+      "title": "A little comparison between R and Kap",
+      "description": "Score: 28 | Comments: 6 | Posted by tosh",
+      "url": "https://blog.dhsdevelopments.com/a-little-comparison-between-r-and-kap",
+      "publishedAt": "2026-05-02T16:58:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tosh",
+      "tags": []
+    },
+    {
       "id": "kn3lhw",
       "title": "Modern C++ Programming: Busato",
       "description": "Score: 74 | Comments: 16 | Posted by KnuthIsGod",
@@ -198,6 +264,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "KnuthIsGod",
+      "tags": []
+    },
+    {
+      "id": "oma3vk",
+      "title": "18th-century mechanical volcano roars to life 250 years later",
+      "description": "Score: 7 | Comments: 1 | Posted by samizdis",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260502015359.htm",
+      "publishedAt": "2026-05-02T16:21:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "samizdis",
       "tags": []
     },
     {
@@ -220,6 +297,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "fagnerbrack",
+      "tags": []
+    },
+    {
+      "id": "qmk2pk",
+      "title": "Show HN: nfsdiag – A NFS diagnostic application",
+      "description": "Score: 66 | Comments: 4 | Posted by lsferreira42",
+      "url": "https://github.com/lsferreira42/nfsdiag",
+      "publishedAt": "2026-05-02T12:48:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lsferreira42",
       "tags": []
     },
     {
@@ -278,6 +366,17 @@
       "tags": []
     },
     {
+      "id": "su4u8h",
+      "title": "Why are neural networks and cryptographic ciphers so similar? (2025)",
+      "description": "Score: 132 | Comments: 47 | Posted by jxmorris12",
+      "url": "https://reiner.org/neural-net-ciphers",
+      "publishedAt": "2026-05-02T05:00:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jxmorris12",
+      "tags": []
+    },
+    {
       "id": "uq9pm1",
       "title": "Ask.com has closedask.com",
       "description": "Score: 192 | Comments: 98 | Posted by supermdguy",
@@ -308,6 +407,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "buildbot",
+      "tags": []
+    },
+    {
+      "id": "vdy1gu",
+      "title": "Texico: Learn the principles of programming without even touching a computer",
+      "description": "Score: 195 | Comments: 16 | Posted by o4c",
+      "url": "https://www3.nhk.or.jp/nhkworld/en/shows/texico/",
+      "publishedAt": "2026-05-02T04:34:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "o4c",
       "tags": []
     },
     {

@@ -1,0 +1,73 @@
+{
+  "date": "2026-05-04",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "150430 at https://www.blognone.com",
+      "title": "IBM เปิดตัวโมเดล Granite 4.1 มาเป็นชุดพร้อมโมเดลเฉพาะทางขนาดเล็ก",
+      "description": "IBM เปิดตัวโมเดล Granite 4.1 มาเป็นชุดพร้อมโมเดลเฉพาะทางขนาดเล็ก Body IBM เปิดตัวโมเดลปัญญาประดิษฐ์แบบ LLM ในกลุ่ม Granite 4.1",
+      "url": "https://www.blognone.com/node/150430",
+      "publishedAt": "2026-05-04T16:42:32.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150425 at https://www.blognone.com",
+      "title": "Cerebras เตรียมขายหุ้นไอพีโออีกครั้ง ตั้งเป้ามูลค่ากิจการ 4 หมื่นล้านดอลลาร์",
+      "description": "Cerebras เตรียมขายหุ้นไอพีโออีกครั้ง ตั้งเป้ามูลค่ากิจการ 4 หมื่นล้านดอลลาร์ Body มีรายงานว่า Cerebras Systems",
+      "url": "https://www.blognone.com/node/150425",
+      "publishedAt": "2026-05-04T14:18:00.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150429 at https://www.blognone.com",
+      "title": "@evleaks นักปล่อยข่าวหลุดแก็ดเจ็ทชื่อดัง ประกาศยุติบทบาท เตรียมปิดบัญชี",
+      "description": "@evleaks นักปล่อยข่าวหลุดแก็ดเจ็ทชื่อดัง ประกาศยุติบทบาท เตรียมปิดบัญชี Body Evan Blass หรือที่รู้จักกันในนาม @evleaks",
+      "url": "https://www.blognone.com/node/150429",
+      "publishedAt": "2026-05-04T13:58:42.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150428 at https://www.blognone.com",
+      "title": "กูเกิลอัพเกรด Gemini ให้ระบบปฏิบัติการรถยนต์ Android Automotive",
+      "description": "กูเกิลอัพเกรด Gemini ให้ระบบปฏิบัติการรถยนต์ Android Automotive Body แผนการอัพเกรด Google Assistant เป็น Gemini บนแพลตฟอร์ม Android",
+      "url": "https://www.blognone.com/node/150428",
+      "publishedAt": "2026-05-04T13:31:35.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150426 at https://www.blognone.com",
+      "title": "Jensen Huang บอกส่วนแบ่งตลาดชิป AI ของ NVIDIA ในจีน เหลือศูนย์เปอร์เซ็นต์แล้ว",
+      "description": "Jensen Huang บอกส่วนแบ่งตลาดชิป AI ของ NVIDIA ในจีน เหลือศูนย์เปอร์เซ็นต์แล้ว Body Jensen Huang ซีอีโอ NVIDIA",
+      "url": "https://www.blognone.com/node/150426",
+      "publishedAt": "2026-05-04T12:31:00.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150427 at https://www.blognone.com",
+      "title": "Amazon เปิดตัวบริการซัพพลายเชน ให้ธุรกิจใช้เครือข่ายโลจิสติกส์ของ Amazon",
+      "description": "Amazon เปิดตัวบริการซัพพลายเชน ให้ธุรกิจใช้เครือข่ายโลจิสติกส์ของ Amazon Body Amazon เปิดตัว Amazon Supply Chain Services",
+      "url": "https://www.blognone.com/node/150427",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2026/2026-04/download.jpg",
+      "publishedAt": "2026-05-04T10:58:06.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}

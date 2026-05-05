@@ -1,0 +1,160 @@
+{
+  "date": "2026-05-05",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "pqge2j",
+      "title": "Kids bypass age verification with fake moustaches",
+      "description": "Score: 38 | Comments: 16 | Posted by dreadsword",
+      "url": "https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/",
+      "publishedAt": "2026-05-05T04:36:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dreadsword",
+      "tags": []
+    },
+    {
+      "id": "y27hq",
+      "title": "About 10% of AMC movie showings sell zero tickets. This site finds them",
+      "description": "Score: 107 | Comments: 82 | Posted by MrBuddyCasino",
+      "url": "https://walzr.com/empty-screenings",
+      "publishedAt": "2026-05-05T04:33:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "MrBuddyCasino",
+      "tags": []
+    },
+    {
+      "id": "ucuxcw",
+      "title": "2-D Mathematical Curves",
+      "description": "Score: 9 | Comments: 0 | Posted by the-mitr",
+      "url": "https://www.2dcurves.com/",
+      "publishedAt": "2026-05-05T04:27:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "the-mitr",
+      "tags": []
+    },
+    {
+      "id": "kdvx7s",
+      "title": "Train Your Own LLM from Scratch",
+      "description": "Score: 102 | Comments: 12 | Posted by kristianpaul",
+      "url": "https://github.com/angelos-p/llm-from-scratch",
+      "publishedAt": "2026-05-05T04:09:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kristianpaul",
+      "tags": []
+    },
+    {
+      "id": "m5teww",
+      "title": "Hand Drawn QR Codes",
+      "description": "Score: 35 | Comments: 1 | Posted by jollyjerry",
+      "url": "https://sethmlarson.dev/hand-drawn-qr-codes",
+      "publishedAt": "2026-05-05T04:02:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jollyjerry",
+      "tags": []
+    },
+    {
+      "id": "3587zo",
+      "title": "CVE-2026-31431: Copy Fail vs. rootless containers",
+      "description": "Score: 70 | Comments: 20 | Posted by averi",
+      "url": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
+      "publishedAt": "2026-05-05T03:43:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "averi",
+      "tags": []
+    },
+    {
+      "id": "e9ps57",
+      "title": "Apple Explores Using Intel and Samsung to Build Main Device Chips in the US",
+      "description": "Score: 23 | Comments: 5 | Posted by tambourine_man",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-05/apple-explores-using-intel-and-samsung-to-build-main-device-chips-in-the-us",
+      "publishedAt": "2026-05-05T03:22:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tambourine_man",
+      "tags": []
+    },
+    {
+      "id": "3huraq",
+      "title": "Biscuit",
+      "description": "Score: 8 | Comments: 0 | Posted by unixfg",
+      "url": "https://github.com/yattsu/biscuit",
+      "publishedAt": "2026-05-05T03:09:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "unixfg",
+      "tags": []
+    },
+    {
+      "id": "1o602u",
+      "title": "Pulitzer Prize Winner in International Reporting",
+      "description": "Score: 78 | Comments: 4 | Posted by jay_kyburz",
+      "url": "https://www.pulitzer.org/winners/dake-kang-garance-burke-byron-tau-aniruddha-ghosal-and-yael-grauer-contributor-associated",
+      "publishedAt": "2026-05-05T02:22:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jay_kyburz",
+      "tags": []
+    },
+    {
+      "id": "lwowd2",
+      "title": "Why AI Agents Need Proof Chains, Not Just Logs",
+      "description": "Score: 7 | Comments: 0 | Posted by astra_omnia",
+      "url": "https://github.com/rodriguezaa22ar-boop/atlas-trust-infrastructure",
+      "publishedAt": "2026-05-05T02:17:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "astra_omnia",
+      "tags": []
+    },
+    {
+      "id": "mqzf08",
+      "title": "What I'm Hearing About Cognitive Debt (So Far)",
+      "description": "Score: 180 | Comments: 97 | Posted by raphaelcosta",
+      "url": "https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/",
+      "publishedAt": "2026-05-05T02:08:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "raphaelcosta",
+      "tags": []
+    },
+    {
+      "id": "ap0alq",
+      "title": "The Car That Watches You Back: The Advertising Infrastructure of Modern Cars",
+      "description": "Score: 59 | Comments: 43 | Posted by cadito",
+      "url": "https://nobodyaskedforthis.lol/posts/connected-car/",
+      "publishedAt": "2026-05-05T02:01:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cadito",
+      "tags": []
+    },
+    {
+      "id": "8a9gry",
+      "title": "Bun is being ported from Zig to Rust",
+      "description": "Score: 408 | Comments: 267 | Posted by SergeAx",
+      "url": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
+      "publishedAt": "2026-05-05T01:08:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "SergeAx",
+      "tags": []
+    },
+    {
+      "id": "w31g0j",
+      "title": "Y Combinator's Stake in OpenAI (0.6%?)",
+      "description": "Score: 268 | Comments: 34 | Posted by gyomu",
+      "url": "https://daringfireball.net/2026/05/y_combinators_stake_in_openai",
+      "publishedAt": "2026-05-05T00:09:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gyomu",
+      "tags": []
+    }
+  ]
+}
