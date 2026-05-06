@@ -102,6 +102,17 @@
       "tags": []
     },
     {
+      "id": "f1inhm",
+      "title": "Farewell to a Giant of Botany",
+      "description": "Score: 100 | Comments: 6 | Posted by Brajeshwar",
+      "url": "https://nautil.us/farewell-to-a-giant-of-botany-1280409",
+      "publishedAt": "2026-05-02T21:03:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Brajeshwar",
+      "tags": []
+    },
+    {
       "id": "3xqhet",
       "title": "This Month in Ladybird - April 2026",
       "description": "Score: 258 | Comments: 45 | Posted by richardboegli",
@@ -286,6 +297,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "nickvec",
+      "tags": []
+    },
+    {
+      "id": "mhqc24",
+      "title": "Docker 29 has changed its default image store for new installs",
+      "description": "Score: 120 | Comments: 78 | Posted by neitsab",
+      "url": "https://docs.docker.com/engine/storage/containerd",
+      "publishedAt": "2026-05-02T13:41:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "neitsab",
       "tags": []
     },
     {

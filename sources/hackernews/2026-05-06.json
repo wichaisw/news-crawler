@@ -1,0 +1,127 @@
+{
+  "date": "2026-05-06",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "602akx",
+      "title": "CARA 2.0 – \"I Built a Better Robot Dog\"aaedmusa.com",
+      "description": "Score: 48 | Comments: 0 | Posted by hakonjdjohnsen",
+      "url": "https://www.aaedmusa.com/projects/cara2",
+      "publishedAt": "2026-05-06T05:02:26.373Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hakonjdjohnsen",
+      "tags": []
+    },
+    {
+      "id": "5nvna8",
+      "title": "Apple agrees to pay iPhone owners $250M for not delivering AI Siri",
+      "description": "Score: 13 | Comments: 0 | Posted by Garbage",
+      "url": "https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement",
+      "publishedAt": "2026-05-06T04:28:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Garbage",
+      "tags": []
+    },
+    {
+      "id": "bknck2",
+      "title": "Agents can now create Cloudflare accounts, buy domains, and deploycloudflare.com",
+      "description": "Score: 206 | Comments: 111 | Posted by rolph",
+      "url": "https://blog.cloudflare.com/agents-stripe-projects/",
+      "publishedAt": "2026-05-06T04:02:26.373Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rolph",
+      "tags": []
+    },
+    {
+      "id": "vnk3gb",
+      "title": "245TB Micron 6600 ION Data Center SSD Now Shipping",
+      "description": "Score: 42 | Comments: 33 | Posted by neilfrndes",
+      "url": "https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now",
+      "publishedAt": "2026-05-06T03:37:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "neilfrndes",
+      "tags": []
+    },
+    {
+      "id": "g8spdh",
+      "title": "Ombudsman column: The Pentagon is trying to silence me",
+      "description": "Score: 156 | Comments: 21 | Posted by petethomas",
+      "url": "https://www.stripes.com/opinion/2026-04-23/stripes-former-ombudsman-pentagon-trying-to-silence-21465037.html",
+      "publishedAt": "2026-05-06T03:24:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "petethomas",
+      "tags": []
+    },
+    {
+      "id": "hou3hk",
+      "title": "Update on \"Co-authored-by: Copilot\" in commit messages",
+      "description": "Score: 76 | Comments: 52 | Posted by extesy",
+      "url": "https://github.com/microsoft/vscode/issues/314311",
+      "publishedAt": "2026-05-06T03:15:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "extesy",
+      "tags": []
+    },
+    {
+      "id": "bknck2",
+      "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
+      "description": "Score: 206 | Comments: 112 | Posted by rolph",
+      "url": "https://blog.cloudflare.com/agents-stripe-projects/",
+      "publishedAt": "2026-05-06T03:10:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rolph",
+      "tags": []
+    },
+    {
+      "id": "tbwg7p",
+      "title": "Why is southern Italy poorer than northern Italy?",
+      "description": "Score: 19 | Comments: 5 | Posted by paulpauper",
+      "url": "https://statsandsociety.substack.com/p/fully-explaining-the-italian-south",
+      "publishedAt": "2026-05-06T02:55:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "paulpauper",
+      "tags": []
+    },
+    {
+      "id": "xidev4",
+      "title": "StarFighter 16-Inch",
+      "description": "Score: 214 | Comments: 124 | Posted by signa11",
+      "url": "https://us.starlabs.systems/pages/starfighter",
+      "publishedAt": "2026-05-06T02:03:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "signa11",
+      "tags": []
+    },
+    {
+      "id": "fs1c08",
+      "title": "Telus Uses AI to Alter Call-Agent Accents",
+      "description": "Score: 116 | Comments: 73 | Posted by debo_",
+      "url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
+      "publishedAt": "2026-05-06T01:38:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "debo_",
+      "tags": []
+    },
+    {
+      "id": "6v7cfd",
+      "title": "YouTube, your RSS feeds are broken",
+      "description": "Score: 76 | Comments: 27 | Posted by veeti",
+      "url": "https://openrss.org/blog/youtube-your-feeds-are-broken",
+      "publishedAt": "2026-05-06T01:15:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "veeti",
+      "tags": []
+    }
+  ]
+}

@@ -278,6 +278,17 @@
       "tags": []
     },
     {
+      "id": "pfob1l",
+      "title": "Should I run plain Docker Compose in production in 2026?",
+      "description": "Score: 389 | Comments: 273 | Posted by pmig",
+      "url": "https://distr.sh/blog/running-docker-in-production/",
+      "publishedAt": "2026-04-30T13:21:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pmig",
+      "tags": []
+    },
+    {
       "id": "r6g4n5",
       "title": "Show HN: Pollen – distributed WASM runtime, no control plane, single binary",
       "description": "Score: 112 | Comments: 52 | Posted by sambigeara",

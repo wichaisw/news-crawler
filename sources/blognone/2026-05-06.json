@@ -1,0 +1,51 @@
+{
+  "date": "2026-05-06",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "150450 at https://www.blognone.com",
+      "title": "AWS เปิดตัว Rex ระบบรันสคริปต์แบบจำกัดสิทธิ์อย่างละเอียด สำหรับรันโค้ดจาก AI",
+      "description": "AWS เปิดตัว Rex ระบบรันสคริปต์แบบจำกัดสิทธิ์อย่างละเอียด สำหรับรันโค้ดจาก AI Body AWS เปิดตัว Trusted Remote Execution (เรียกชื่อย่อว่า Rex)",
+      "url": "https://www.blognone.com/node/150450",
+      "publishedAt": "2026-05-06T03:50:38.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150449 at https://www.blognone.com",
+      "title": "DENIC คอนฟิก DNSSEC ผิดพลาด ทำโดเมน .de ดับ 2 ชั่วโมง",
+      "description": "DENIC คอนฟิก DNSSEC ผิดพลาด ทำโดเมน .de ดับ 2 ชั่วโมง Body เมื่อช่วงรุ่งเช้าที่ผ่านมา DENIC ผู้ให้บริการโดเมน .de ของเยอรมนีคอนฟิก DNSSEC ผิดพลาด",
+      "url": "https://www.blognone.com/node/150449",
+      "publishedAt": "2026-05-06T01:12:00.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150448 at https://www.blognone.com",
+      "title": "OpenAI อัปเดต GPT-5.5 Instant โมเดลสำหรับงานทั่วไป ตอบคำถามแม่นยำขึ้น แนะนำตรงประเด็น คงความอบอุ่นในถ้อยคำ",
+      "description": "OpenAI อัปเดต GPT-5.5 Instant โมเดลสำหรับงานทั่วไป ตอบคำถามแม่นยำขึ้น แนะนำตรงประเด็น คงความอบอุ่นในถ้อยคำ Body OpenAI อัปเดตโมเดล AI",
+      "url": "https://www.blognone.com/node/150448",
+      "publishedAt": "2026-05-06T01:04:02.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150447 at https://www.blognone.com",
+      "title": "AMD รายงานผลประกอบการไตรมาส รายได้โต 38% เฉพาะกลุ่มเซิร์ฟเวอร์โตถึง 57%",
+      "description": "AMD รายงานผลประกอบการไตรมาส รายได้โต 38% เฉพาะกลุ่มเซิร์ฟเวอร์โตถึง 57% Body AMD รายงานผลประกอบการของไตรมาสที่ 1 ปี 2026 รายได้รวม 10,253 ล้านดอลลาร์",
+      "url": "https://www.blognone.com/node/150447",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2026/2026-04/amd1.jpg",
+      "publishedAt": "2026-05-06T00:51:04.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}
