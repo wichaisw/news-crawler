@@ -3,6 +3,72 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "150456 at https://www.blognone.com",
+      "title": "NVIDIA ลงทุนใน Corning เพื่อสร้างโรงงานใยแก้วนำแสงสำหรับ AI Data Center",
+      "description": "NVIDIA ลงทุนใน Corning เพื่อสร้างโรงงานใยแก้วนำแสงสำหรับ AI Data Center Body NVIDIA ประกาศความร่วมมือระยะยาวกับ Corning",
+      "url": "https://www.blognone.com/node/150456",
+      "publishedAt": "2026-05-06T23:26:00.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150457 at https://www.blognone.com",
+      "title": "Anthropic ทำข้อตกลงเช่าศูนย์ข้อมูล Colossus 1 ของ SpaceX - Claude เพิ่มโควต้าการใช้งาน",
+      "description": "Anthropic ทำข้อตกลงเช่าศูนย์ข้อมูล Colossus 1 ของ SpaceX - Claude เพิ่มโควต้าการใช้งาน Body Anthropic และ SpaceX",
+      "url": "https://www.blognone.com/node/150457",
+      "publishedAt": "2026-05-06T20:34:40.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150455 at https://www.blognone.com",
+      "title": "เลิกขายคอนซูเมอร์ Micron เปิดตัว SSD ใหญ่ที่สุดในโลก ขนาด 245TB",
+      "description": "เลิกขายคอนซูเมอร์ Micron เปิดตัว SSD ใหญ่ที่สุดในโลก ขนาด 245TB Body ไมครอนเปิดตัว Micron 6600 ION SSD สตอเรจแบบ SSD ความจุ 245TB",
+      "url": "https://www.blognone.com/node/150455",
+      "publishedAt": "2026-05-06T14:28:17.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150454 at https://www.blognone.com",
+      "title": "[ลือ] iOS 27 จะเปิดให้เลือกโมเดล AI ที่ต้องการได้ ไม่จำกัดที่ Gemini, มีฟีเจอร์สร้างบัตรคัสตอมใน Wallet",
+      "description": "[ลือ] iOS 27 จะเปิดให้เลือกโมเดล AI ที่ต้องการได้ ไม่จำกัดที่ Gemini, มีฟีเจอร์สร้างบัตรคัสตอมใน Wallet Body ข่าวลือฟีเจอร์ใหม่ ๆ ของ iOS 27",
+      "url": "https://www.blognone.com/node/150454",
+      "publishedAt": "2026-05-06T13:10:23.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150453 at https://www.blognone.com",
+      "title": "ขาดแคลนจริงจัง Mac mini, Mac Studio ตัดตัวเลือกเพิ่มแรมขนาดใหญ่ออกไป",
+      "description": "ขาดแคลนจริงจัง Mac mini, Mac Studio ตัดตัวเลือกเพิ่มแรมขนาดใหญ่ออกไป Body สถานการณ์ของ Mac mini และ Mac Studio ขาดตลาดดูจะตึงยิ่งขึ้นกว่าเดิม",
+      "url": "https://www.blognone.com/node/150453",
+      "publishedAt": "2026-05-06T11:17:45.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150452 at https://www.blognone.com",
+      "title": "PayPal ไตรมาส 1/2026 รายได้โต 7% มอง AI เป็นโอกาสเสริมการเติบโตครั้งใหญ่",
+      "description": "PayPal ไตรมาส 1/2026 รายได้โต 7% มอง AI เป็นโอกาสเสริมการเติบโตครั้งใหญ่ Body PayPal รายงานผลประกอบการของไตรมาสที่ 1 ปี 2026 รายได้รวม 8,353",
+      "url": "https://www.blognone.com/node/150452",
+      "publishedAt": "2026-05-06T10:12:43.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "150450 at https://www.blognone.com",
       "title": "AWS เปิดตัว Rex ระบบรันสคริปต์แบบจำกัดสิทธิ์อย่างละเอียด สำหรับรันโค้ดจาก AI",
       "description": "AWS เปิดตัว Rex ระบบรันสคริปต์แบบจำกัดสิทธิ์อย่างละเอียด สำหรับรันโค้ดจาก AI Body AWS เปิดตัว Trusted Remote Execution (เรียกชื่อย่อว่า Rex)",

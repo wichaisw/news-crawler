@@ -47,6 +47,17 @@
       "tags": []
     },
     {
+      "id": "1tzmy5",
+      "title": "A Theory of Deep Learning",
+      "description": "Score: 172 | Comments: 37 | Posted by elonlit",
+      "url": "https://elonlit.com/scrivings/a-theory-of-deep-learning/",
+      "publishedAt": "2026-05-05T19:38:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "elonlit",
+      "tags": []
+    },
+    {
       "id": "pe21cb",
       "title": "While the King Lives: An Old C Programming Prank in GNU Hello from 1993",
       "description": "Score: 25 | Comments: 1 | Posted by bananamogul",
@@ -55,6 +66,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "bananamogul",
+      "tags": []
+    },
+    {
+      "id": "b8snj8",
+      "title": "What makes a good smartphone camera?",
+      "description": "Score: 94 | Comments: 59 | Posted by zdw",
+      "url": "https://cadence.moe/blog/2026-05-05-what-makes-a-good-smartphone-camera",
+      "publishedAt": "2026-05-05T18:49:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
       "tags": []
     },
     {
@@ -113,6 +135,17 @@
       "tags": []
     },
     {
+      "id": "wccbgw",
+      "title": "Building my own Vi text editor in BASIC",
+      "description": "Score: 49 | Comments: 22 | Posted by zeech",
+      "url": "https://leetusman.com/nosebook/yvi",
+      "publishedAt": "2026-05-05T17:18:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zeech",
+      "tags": []
+    },
+    {
       "id": "uqht83",
       "title": "Computer Use is 45x more expensive than structured APIs",
       "description": "Score: 379 | Comments: 215 | Posted by palashawas",
@@ -143,6 +176,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "kuberwastaken",
+      "tags": []
+    },
+    {
+      "id": "ws0ra2",
+      "title": "Finding the differences in a series of power supplies",
+      "description": "Score: 40 | Comments: 2 | Posted by LabsLucas",
+      "url": "https://www.lttlabs.com/articles/2026/05/05/testing-psu-series",
+      "publishedAt": "2026-05-05T15:50:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "LabsLucas",
       "tags": []
     },
     {
@@ -179,6 +223,17 @@
       "tags": []
     },
     {
+      "id": "1ciiqv",
+      "title": "Community firmware for the Xteink X4 e-paper reader",
+      "description": "Score: 85 | Comments: 21 | Posted by dmos62",
+      "url": "https://github.com/crosspoint-reader/crosspoint-reader",
+      "publishedAt": "2026-05-05T12:56:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dmos62",
+      "tags": []
+    },
+    {
       "id": "rny2n3",
       "title": "iOS 27 is adding a 'Create a Pass' button to Apple Wallet",
       "description": "Score: 401 | Comments: 300 | Posted by alentodorov",
@@ -212,6 +267,17 @@
       "tags": []
     },
     {
+      "id": "h6ngc2",
+      "title": "The Mathematical Dance Inside Plant Cells",
+      "description": "Score: 24 | Comments: 2 | Posted by isaacfrond",
+      "url": "https://www.quantamagazine.org/the-hidden-mathematical-dance-inside-plant-cells-20260504/",
+      "publishedAt": "2026-05-05T08:09:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "isaacfrond",
+      "tags": []
+    },
+    {
       "id": "syqkg7",
       "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
       "description": "Score: 1385 | Comments: 923 | Posted by john-doe",
@@ -242,6 +308,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ingve",
+      "tags": []
+    },
+    {
+      "id": "7lwmwf",
+      "title": "How do I inform Windows that I'm writing a binary file?",
+      "description": "Score: 59 | Comments: 47 | Posted by ingve",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260504-00/?p=112296",
+      "publishedAt": "2026-05-05T06:14:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingve",
+      "tags": []
+    },
+    {
+      "id": "inwipr",
+      "title": "Wolfgang Koeppen's Structural Musicality",
+      "description": "Score: 6 | Comments: 0 | Posted by prismatic",
+      "url": "https://www.theparisreview.org/blog/2026/05/04/wolfgang-koeppens-structural-musicality/",
+      "publishedAt": "2026-05-05T05:13:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "prismatic",
       "tags": []
     },
     {

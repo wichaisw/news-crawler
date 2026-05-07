@@ -1,0 +1,94 @@
+{
+  "date": "2026-05-07",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "uki0ap",
+      "title": "Building the TD4 4-Bit CPU",
+      "description": "Score: 10 | Comments: 6 | Posted by zdw",
+      "url": "https://jayakody2000lk.blogspot.com/2026/05/building-td4-4-bit-cpu.html",
+      "publishedAt": "2026-05-07T04:25:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "hkzx28",
+      "title": "ProgramBench: Can Language Models Rebuild Programs from Scratch?",
+      "description": "Score: 20 | Comments: 16 | Posted by jonbaer",
+      "url": "https://arxiv.org/abs/2605.03546",
+      "publishedAt": "2026-05-07T03:46:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jonbaer",
+      "tags": []
+    },
+    {
+      "id": "e5vvjd",
+      "title": "We programmed a program to program new programs (2011)",
+      "description": "Score: 26 | Comments: 1 | Posted by Georgelemental",
+      "url": "https://www.smbc-comics.com/comic/2011-09-08",
+      "publishedAt": "2026-05-07T03:21:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Georgelemental",
+      "tags": []
+    },
+    {
+      "id": "a4h0fv",
+      "title": "Diskless Linux boot using ZFS, iSCSI and PXE",
+      "description": "Score: 60 | Comments: 19 | Posted by stereo-highway",
+      "url": "https://aniket.foo/posts/20260505-netboot/",
+      "publishedAt": "2026-05-07T03:13:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "stereo-highway",
+      "tags": []
+    },
+    {
+      "id": "101mhd",
+      "title": "TogetherLoop – Social media minus the nonsense",
+      "description": "Score: 5 | Comments: 2 | Posted by DoctorOW",
+      "url": "https://togetherloop.com/",
+      "publishedAt": "2026-05-07T03:12:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "DoctorOW",
+      "tags": []
+    },
+    {
+      "id": "1cyjiu",
+      "title": "Permacomputing Principles",
+      "description": "Score: 97 | Comments: 29 | Posted by andsoitis",
+      "url": "https://permacomputing.net/principles/",
+      "publishedAt": "2026-05-07T02:18:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andsoitis",
+      "tags": []
+    },
+    {
+      "id": "l6kj6b",
+      "title": "The Vatican's Website in Latin",
+      "description": "Score: 119 | Comments: 67 | Posted by ks2048",
+      "url": "https://www.vatican.va/latin/latin_index.html",
+      "publishedAt": "2026-05-07T01:26:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ks2048",
+      "tags": []
+    },
+    {
+      "id": "2yy0gl",
+      "title": "RSS Feeds Send Me More Traffic Than Google",
+      "description": "Score: 54 | Comments: 11 | Posted by SpyCoder77",
+      "url": "https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/",
+      "publishedAt": "2026-05-07T00:40:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "SpyCoder77",
+      "tags": []
+    }
+  ]
+}
