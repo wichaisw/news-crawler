@@ -69,6 +69,28 @@
       "tags": []
     },
     {
+      "id": "1lovig",
+      "title": "The Traveling Salesdog Problem",
+      "description": "Score: 22 | Comments: 5 | Posted by wespiser_2018",
+      "url": "https://www.wespiser.com/posts/2026-05-04-traveling-salesdog.html",
+      "publishedAt": "2026-05-05T19:30:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wespiser_2018",
+      "tags": []
+    },
+    {
+      "id": "c0oub4",
+      "title": "Tools in the Grass: Raising the next generation of crafts person",
+      "description": "Score: 42 | Comments: 3 | Posted by NaOH",
+      "url": "https://www.popularwoodworking.com/editors-blog/tools-in-the-grass/",
+      "publishedAt": "2026-05-05T19:24:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "NaOH",
+      "tags": []
+    },
+    {
       "id": "b8snj8",
       "title": "What makes a good smartphone camera?",
       "description": "Score: 94 | Comments: 59 | Posted by zdw",
@@ -77,6 +99,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "r5j5ax",
+      "title": "PySimpleGUI 6",
+      "description": "Score: 96 | Comments: 50 | Posted by geophph",
+      "url": "https://github.com/PySimpleGUI/PySimpleGUI",
+      "publishedAt": "2026-05-05T18:18:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "geophph",
       "tags": []
     },
     {
@@ -253,6 +286,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "adrianmsmith",
+      "tags": []
+    },
+    {
+      "id": "unhgz2",
+      "title": "Rolling the Root Key",
+      "description": "Score: 35 | Comments: 2 | Posted by jandeboevrie",
+      "url": "https://blog.apnic.net/2026/05/05/rolling-the-root-key/",
+      "publishedAt": "2026-05-05T11:56:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jandeboevrie",
+      "tags": []
+    },
+    {
+      "id": "c4bdrt",
+      "title": "A polynomial autoencoder beats PCA on transformer embeddings",
+      "description": "Score: 12 | Comments: 2 | Posted by timvisee",
+      "url": "https://ivanpleshkov.dev/blog/polynomial-autoencoder/",
+      "publishedAt": "2026-05-05T11:31:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "timvisee",
       "tags": []
     },
     {

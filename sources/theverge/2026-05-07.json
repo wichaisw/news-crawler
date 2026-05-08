@@ -1,0 +1,126 @@
+{
+  "date": "2026-05-07",
+  "source": "theverge",
+  "articles": [
+    {
+      "id": "1u2tvb",
+      "title": "Canvas is down as ShinyHunters threatens to leak schools’ data",
+      "description": "The Instructure-owned learning management platform, Canvas, is down after recently confirming a massive data breach that impacted student names, email addresses, ID numbers, and messages. Students attempting to access the system on Thursday saw a message from the hacking group ShinyHunters, which claimed responsibility for the attack: ShinyHunters has breached Instructure (again). Instead of contacting [&#8230;]",
+      "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25332725/STK419_DEEPFAKE_CVIRGINIA_L.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-05-07T21:29:27.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Emma Roth",
+      "tags": []
+    },
+    {
+      "id": "8acgol",
+      "title": "Mira Murati’s deposition pulled back the curtain on Sam Altman’s ouster",
+      "description": "The week leading up to Thanksgiving 2023 was the AI industry's biggest soap opera moment. OpenAI CEO Sam Altman was abruptly ousted from his role at the ChatGPT maker. The explanation? That Altman was \"not consistently candid in his communications with the board.\" Now, via witness testimony and trial exhibits in Musk v. Altman, the [&#8230;]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRG_Illo_mira-murati_stock_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-05-07T19:55:22.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Hayden Field",
+      "tags": []
+    },
+    {
+      "id": "o2mrxs",
+      "title": "Apple's AirPods with cameras for AI are apparently close to production",
+      "description": "Apple's rumored AirPods with cameras are nearing a stage where the company will test early mass production, Bloomberg's Mark Gurman reports. Currently, Apple testers are \"actively using\" prototypes that are in the design validation test stage, which is one step before the production validation test stage. The AirPods' cameras \"aren't designed\" to snap photos or [&#8230;]",
+      "url": "https://www.theverge.com/tech/926376/apple-airpods-cameras-ai-production",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257943_Airpods_Pro3_AKrales_0145.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-05-07T19:39:22.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Jay Peters",
+      "tags": []
+    },
+    {
+      "id": "wdlm4b",
+      "title": "SpaceX has a $55 billion plan to build AI chips in Texas",
+      "description": "Elon Musk's plans to get into the AI chip manufacturing business are going to be costly. As the New York Times and CNBC report, SpaceX is planning to invest at least $55 billion into its \"Terafab\" chip plant in Austin, Texas. That's according to the details of a public hearing notice filed in Grimes County, [&#8230;]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/926356/spacex-terafab-plant-cost-ai-chips",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2269580650.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-05-07T19:26:16.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Stevie Bonifield",
+      "tags": []
+    },
+    {
+      "id": "gp4l1o",
+      "title": "Peak Design is taking up to 50 percent off some of our favorite camera bags",
+      "description": "To celebrate founder Peter Dering’s birthday, Peak Design is taking up to 50 percent off a host of bags and accessories through May 8. The sale includes steep discounts on many of the company’s most popular backpacks and bags, as well as a couple of other items, including camera accessories. Many Verge staffers are fans [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/925427/peak-design-peter-dering-birthday-sale-2026-camera-backpack-sling-deal",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/peakdesigneverydaybagzipp.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-05-07T19:04:30.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Sheena Vasani",
+      "tags": []
+    },
+    {
+      "id": "ychx38",
+      "title": "Valve is fighting Steam Controller scalpers with a new reservations system",
+      "description": "Valve's new Steam Controller sold out quickly when it went on sale on Monday, and the company is going to open a \"reservations queue\" on Friday at 1PM ET for anyone who missed that initial run. When the controller initially went on sale, many potential buyers experienced difficulties checking out before the controller went out [&#8230;]",
+      "url": "https://www.theverge.com/games/926286/valve-steam-controller-reservations-queue-scalpers",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268455_Steam_Controller_AKrales_0082.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-05-07T18:06:01.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Jay Peters",
+      "tags": []
+    },
+    {
+      "id": "fwdvwq",
+      "title": "ChatGPT's 'Trusted Contact' will alert loved ones of safety concerns",
+      "description": "OpenAI is launching an optional safety feature for ChatGPT that allows adult users to assign an emergency contact for mental health and safety concerns. Friends, family members, or caregivers designated as a \"Trusted Contact\" will be notified if OpenAI detects that a person may have discussed topics like self-harm or suicide with the chatbot. \"Trusted [&#8230;]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/925874/chatgpt-trusted-contact-emergency-self-harm-notification",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462005/STK155_OPEN_AI_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-05-07T18:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Jess Weatherbed",
+      "tags": []
+    },
+    {
+      "id": "929q66",
+      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+      "description": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. Elon Musk, his financial [&#8230;]",
+      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-05-07T17:40:50.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Elizabeth LopattoHayden Field",
+      "tags": []
+    },
+    {
+      "id": "2xx6b",
+      "title": "Did Microsoft just tease a new Xbox UI?",
+      "description": "Microsoft showed off a \"consistent\" Xbox UI across handhelds, consoles, and cloud gaming during its Xbox keynote at the Game Developers Conference in March. At the time it was difficult to see if there was anything new about the UI from the videos and photos captured during the event, but Microsoft has now given us [&#8230;]",
+      "url": "https://www.theverge.com/news/926170/new-xbox-ui-dashboard-console-handheld-cloud",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/xboxuiteaser.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-05-07T17:29:36.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Tom Warren",
+      "tags": []
+    },
+    {
+      "id": "hfv7ry",
+      "title": "A hacker ran me over with a robot lawn mower",
+      "description": "I'm lying in the dirt. It's coming for me. Then, with a lurch, it's climbing up my chest. If Andreas Makris doesn't stop the 200-pound robot lawn mower in time, it could drag its blades across my body. Makris certainly can't reach over and hit the emergency stop button - he's nearly 6,000 miles away, [&#8230;]",
+      "url": "https://www.theverge.com/tech/925696/yarbo-robot-lawn-mower-hack-remote-control-camera-access-mqtt",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/yarbo-lawnmower.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-05-07T16:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Sean Hollister",
+      "tags": []
+    }
+  ]
+}

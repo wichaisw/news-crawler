@@ -1,0 +1,105 @@
+{
+  "date": "2026-05-08",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "h7i61v",
+      "title": "Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE",
+      "description": "Score: 18 | Comments: 1 | Posted by peter_d_sherman",
+      "url": "https://github.com/graemeg/blaise",
+      "publishedAt": "2026-05-08T04:44:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "peter_d_sherman",
+      "tags": []
+    },
+    {
+      "id": "bhjsc6",
+      "title": "US will start revoking passports for parents who owe child support",
+      "description": "Score: 31 | Comments: 6 | Posted by OutOfHere",
+      "url": "https://apnews.com/article/passports-unpaid-child-support-penalty-state-department-42d90cfa8a06ee349bb9145f668919b6",
+      "publishedAt": "2026-05-08T03:52:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "OutOfHere",
+      "tags": []
+    },
+    {
+      "id": "jef2ex",
+      "title": "Digging into Drama at the Document Foundation",
+      "description": "Score: 9 | Comments: 0 | Posted by signa11",
+      "url": "https://lwn.net/Articles/1066418/",
+      "publishedAt": "2026-05-08T03:51:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "signa11",
+      "tags": []
+    },
+    {
+      "id": "bfo6ot",
+      "title": "Evaluating Geekbench 6",
+      "description": "Score: 4 | Comments: 0 | Posted by wmf",
+      "url": "https://chipsandcheese.com/p/evaluating-geekbench-6",
+      "publishedAt": "2026-05-08T03:10:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wmf",
+      "tags": []
+    },
+    {
+      "id": "ql77x1",
+      "title": "Mojo 1.0 Beta",
+      "description": "Score: 53 | Comments: 27 | Posted by sbt567",
+      "url": "https://mojolang.org/",
+      "publishedAt": "2026-05-08T02:49:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sbt567",
+      "tags": []
+    },
+    {
+      "id": "qmm72x",
+      "title": "Claude Code CVE-2026-39861:sandbox escape via symlink",
+      "description": "Score: 8 | Comments: 1 | Posted by Armor1AI",
+      "url": "https://github.com/advisories/GHSA-vp62-r36r-9xqp",
+      "publishedAt": "2026-05-08T02:39:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Armor1AI",
+      "tags": []
+    },
+    {
+      "id": "wvs6kk",
+      "title": "GPT-5.5 Price Increase: What It Costs",
+      "description": "Score: 7 | Comments: 0 | Posted by gmays",
+      "url": "https://openrouter.ai/announcements/gpt55-cost-analysis",
+      "publishedAt": "2026-05-08T01:02:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gmays",
+      "tags": []
+    },
+    {
+      "id": "6pfqx8",
+      "title": "Komai: a fine Matrix chat app you can get to love",
+      "description": "Score: 45 | Comments: 20 | Posted by anotherevan",
+      "url": "https://etke.cc/blog/introducing-komai",
+      "publishedAt": "2026-05-08T00:10:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "anotherevan",
+      "tags": []
+    },
+    {
+      "id": "wxw024",
+      "title": "GNU IFUNC is the real culprit behind CVE-2024-3094",
+      "description": "Score: 63 | Comments: 28 | Posted by foltik",
+      "url": "https://github.com/robertdfrench/ifuncd-up",
+      "publishedAt": "2026-05-08T00:03:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "foltik",
+      "tags": []
+    }
+  ]
+}

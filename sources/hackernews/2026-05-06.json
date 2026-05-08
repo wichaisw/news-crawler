@@ -58,6 +58,17 @@
       "tags": []
     },
     {
+      "id": "6zijjz",
+      "title": "OpenBSD Stories: The closest thing to cute kittens (OpenBSD/zaurus)",
+      "description": "Score: 71 | Comments: 8 | Posted by zdw",
+      "url": "http://miod.online.fr/software/openbsd/stories/zaurus1.html",
+      "publishedAt": "2026-05-06T19:21:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
       "id": "x46j15",
       "title": "Programming Still Sucks",
       "description": "Score: 292 | Comments: 121 | Posted by jeromechoo",
@@ -223,6 +234,28 @@
       "tags": []
     },
     {
+      "id": "2jmahe",
+      "title": "How to make SSE token streams resumable, cancellable, and multi-device",
+      "description": "Score: 16 | Comments: 0 | Posted by zknill",
+      "url": "https://zknill.io/posts/everyone-said-sse-token-streaming-was-easy/",
+      "publishedAt": "2026-05-06T14:31:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zknill",
+      "tags": []
+    },
+    {
+      "id": "xb5qfo",
+      "title": "Los Alamos and the long path to detecting neutrinos",
+      "description": "Score: 24 | Comments: 3 | Posted by LAsteNERD",
+      "url": "https://www.lanl.gov/media/publications/1663/from-ghost-particle-to-cosmic-messenger",
+      "publishedAt": "2026-05-06T14:21:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "LAsteNERD",
+      "tags": []
+    },
+    {
       "id": "tx55ra",
       "title": "What I Learned Making an App for My Family",
       "description": "Score: 33 | Comments: 5 | Posted by chabad360",
@@ -234,6 +267,17 @@
       "tags": []
     },
     {
+      "id": "lhozsg",
+      "title": "Pinocchio is weirder than you remembered",
+      "description": "Score: 100 | Comments: 32 | Posted by cemsakarya",
+      "url": "https://storica.club/blog/pinocchio-in-italian/",
+      "publishedAt": "2026-05-06T12:27:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cemsakarya",
+      "tags": []
+    },
+    {
       "id": "5a914d",
       "title": "Setting up a Sun Ray server on OpenIndiana Hipster 2025.10",
       "description": "Score: 134 | Comments: 47 | Posted by jandeboevrie",
@@ -242,6 +286,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jandeboevrie",
+      "tags": []
+    },
+    {
+      "id": "gxcr4e",
+      "title": "Singapore introduces caning for boys who bully others at school",
+      "description": "Score: 139 | Comments: 154 | Posted by rustoo",
+      "url": "https://www.theguardian.com/world/2026/may/06/singapore-caning-school-bullies",
+      "publishedAt": "2026-05-06T06:29:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rustoo",
       "tags": []
     },
     {
