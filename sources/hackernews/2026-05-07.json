@@ -179,6 +179,17 @@
       "tags": []
     },
     {
+      "id": "gbkugc",
+      "title": "OpenAI's WebRTC problem",
+      "description": "Score: 247 | Comments: 63 | Posted by atgctg",
+      "url": "https://moq.dev/blog/webrtc-is-the-problem/",
+      "publishedAt": "2026-05-07T17:11:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "atgctg",
+      "tags": []
+    },
+    {
       "id": "deglaa",
       "title": "Agents need control flow, not more prompts",
       "description": "Score: 423 | Comments: 210 | Posted by bsuh",
@@ -278,6 +289,17 @@
       "tags": []
     },
     {
+      "id": "ybvzwc",
+      "title": "Looking at the data behind prediction markets",
+      "description": "Score: 86 | Comments: 36 | Posted by kqr",
+      "url": "https://asteriskmag.com/issues/14/are-prediction-markets-good-for-anything",
+      "publishedAt": "2026-05-07T13:12:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kqr",
+      "tags": []
+    },
+    {
       "id": "jckmcr",
       "title": "ZAYA1-8B matches DeepSeek-R1 on math with less than 1B active parameters",
       "description": "Score: 102 | Comments: 54 | Posted by steveharing1",
@@ -286,6 +308,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "steveharing1",
+      "tags": []
+    },
+    {
+      "id": "9fg0gl",
+      "title": "Mythical Man Month",
+      "description": "Score: 110 | Comments: 83 | Posted by ingve",
+      "url": "https://martinfowler.com/bliki/MythicalManMonth.html",
+      "publishedAt": "2026-05-07T07:20:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingve",
       "tags": []
     },
     {

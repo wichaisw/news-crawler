@@ -25,6 +25,17 @@
       "tags": []
     },
     {
+      "id": "vz9wta",
+      "title": "The Disappearance of the Public Bench",
+      "description": "Score: 136 | Comments: 173 | Posted by cainxinth",
+      "url": "https://placesjournal.org/article/the-disappearance-of-the-public-bench/",
+      "publishedAt": "2026-05-06T22:36:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cainxinth",
+      "tags": []
+    },
+    {
       "id": "3wl62e",
       "title": "SQLite Is a Library of Congress Recommended Storage Format",
       "description": "Score: 166 | Comments: 35 | Posted by whatisabcdefgh",
@@ -58,11 +69,33 @@
       "tags": []
     },
     {
+      "id": "3biebh",
+      "title": "Light without electricity? Glowing algae could make it possible",
+      "description": "Score: 53 | Comments: 17 | Posted by geox",
+      "url": "https://www.colorado.edu/today/2026/05/06/light-without-electricity-glowing-algae-could-make-it-possible",
+      "publishedAt": "2026-05-06T19:21:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "geox",
+      "tags": []
+    },
+    {
       "id": "6zijjz",
       "title": "OpenBSD Stories: The closest thing to cute kittens (OpenBSD/zaurus)",
       "description": "Score: 71 | Comments: 8 | Posted by zdw",
       "url": "http://miod.online.fr/software/openbsd/stories/zaurus1.html",
       "publishedAt": "2026-05-06T19:21:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "pcksg8",
+      "title": "Bitter Lessons from the ISSpresso",
+      "description": "Score: 80 | Comments: 21 | Posted by zdw",
+      "url": "https://mceglowski.substack.com/p/bitter-lessons-from-the-isspresso",
+      "publishedAt": "2026-05-06T19:09:29.000Z",
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "zdw",
@@ -102,6 +135,17 @@
       "tags": []
     },
     {
+      "id": "gk76vp",
+      "title": "Boosting multimodal inference performance by >10% with a single Python dict",
+      "description": "Score: 10 | Comments: 0 | Posted by jxmorris12",
+      "url": "https://modal.com/blog/boosting-multimodal-inference-performance-by-greater-than-10-with-a-single-python-dictionary",
+      "publishedAt": "2026-05-06T17:45:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jxmorris12",
+      "tags": []
+    },
+    {
       "id": "8noc5m",
       "title": "Going Full Time on Open Source",
       "description": "Score: 182 | Comments: 39 | Posted by thunderbong",
@@ -132,6 +176,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jonbaer",
+      "tags": []
+    },
+    {
+      "id": "jm35ag",
+      "title": "PortalVR Motion – use any VR content in 2D with 3D tracked Joy-Cons",
+      "description": "Score: 11 | Comments: 1 | Posted by gfodor",
+      "url": "https://portalvr.io/motion",
+      "publishedAt": "2026-05-06T16:42:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gfodor",
       "tags": []
     },
     {
@@ -190,6 +245,17 @@
       "tags": []
     },
     {
+      "id": "1hulpl",
+      "title": "Wi is Fi: Understanding Wi-Fi 4/5/6/6E/7/8 (802.11 n/AC/ax/be/bn)",
+      "description": "Score: 173 | Comments: 49 | Posted by homebrewer",
+      "url": "https://www.wiisfi.com/",
+      "publishedAt": "2026-05-06T16:01:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "homebrewer",
+      "tags": []
+    },
+    {
       "id": "a3gnx3",
       "title": "Show HN: Tilde.run – Agent sandbox with a transactional, versioned filesystem",
       "description": "Score: 153 | Comments: 105 | Posted by ozkatz",
@@ -201,6 +267,17 @@
       "tags": []
     },
     {
+      "id": "yw0obh",
+      "title": "All means are fair except solving the problem",
+      "description": "Score: 47 | Comments: 43 | Posted by akkartik",
+      "url": "https://yosefk.com/blog/all-means-are-fair-except-solving-the-problem.html",
+      "publishedAt": "2026-05-06T15:52:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "akkartik",
+      "tags": []
+    },
+    {
       "id": "irpi5s",
       "title": "Valve releases Steam Controller CAD files under Creative Commons license",
       "description": "Score: 1309 | Comments: 400 | Posted by haunter",
@@ -209,6 +286,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "haunter",
+      "tags": []
+    },
+    {
+      "id": "jfejfy",
+      "title": "What Causes Lightning? The Answer Keeps Getting More Interesting",
+      "description": "Score: 12 | Comments: 0 | Posted by Tomte",
+      "url": "https://www.quantamagazine.org/what-causes-lightning-the-answer-keeps-getting-more-interesting-20260506/",
+      "publishedAt": "2026-05-06T15:41:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Tomte",
       "tags": []
     },
     {
@@ -363,6 +451,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "rolph",
+      "tags": []
+    },
+    {
+      "id": "6d9b1s",
+      "title": "The Soul of Maintaining a New Machine",
+      "description": "Score: 38 | Comments: 4 | Posted by akkartik",
+      "url": "https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/3",
+      "publishedAt": "2026-05-06T04:01:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "akkartik",
       "tags": []
     },
     {

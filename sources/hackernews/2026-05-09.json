@@ -1,0 +1,116 @@
+{
+  "date": "2026-05-09",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "es4tjq",
+      "title": "I Will Never Use AI to Codeantman-does-software.com",
+      "description": "Score: 21 | Comments: 2 | Posted by ishanz",
+      "url": "https://antman-does-software.com/i-will-never-use-ai-to-code-or-write",
+      "publishedAt": "2026-05-09T06:15:52.895Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ishanz",
+      "tags": []
+    },
+    {
+      "id": "es4tjq",
+      "title": "I Will Never Use AI to Code",
+      "description": "Score: 21 | Comments: 4 | Posted by ishanz",
+      "url": "https://antman-does-software.com/i-will-never-use-ai-to-code-or-write",
+      "publishedAt": "2026-05-09T06:14:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ishanz",
+      "tags": []
+    },
+    {
+      "id": "w7ssfz",
+      "title": "Poka-Yoke",
+      "description": "Score: 5 | Comments: 0 | Posted by the-mitr",
+      "url": "https://en.wikipedia.org/wiki/Poka-yoke",
+      "publishedAt": "2026-05-09T06:13:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "the-mitr",
+      "tags": []
+    },
+    {
+      "id": "k2dukh",
+      "title": "EU calls VPNs \"a loophole that needs closing\" in age verification push",
+      "description": "Score: 33 | Comments: 13 | Posted by muse900",
+      "url": "https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/",
+      "publishedAt": "2026-05-09T05:52:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "muse900",
+      "tags": []
+    },
+    {
+      "id": "vzb61s",
+      "title": "Using Claude Code: The unreasonable effectiveness of HTMLtwitter.com/trq212",
+      "description": "Score: 67 | Comments: 25 | Posted by pretext",
+      "url": "https://twitter.com/trq212/status/2052809885763747935",
+      "publishedAt": "2026-05-09T05:49:52.894Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pretext",
+      "tags": []
+    },
+    {
+      "id": "f9rvoc",
+      "title": "The Making of Steven Spielberg's Jurassic Park (2012)",
+      "description": "Score: 3 | Comments: 0 | Posted by susam",
+      "url": "https://www.blu-ray.com/news/?id=8186",
+      "publishedAt": "2026-05-09T05:05:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "susam",
+      "tags": []
+    },
+    {
+      "id": "vzb61s",
+      "title": "Using Claude Code: The unreasonable effectiveness of HTML",
+      "description": "Score: 67 | Comments: 26 | Posted by pretext",
+      "url": "https://twitter.com/trq212/status/2052809885763747935",
+      "publishedAt": "2026-05-09T04:53:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pretext",
+      "tags": []
+    },
+    {
+      "id": "d8ph2h",
+      "title": "A recent experience with ChatGPT 5.5 Progowers.wordpress.com",
+      "description": "Score: 152 | Comments: 57 | Posted by _alternator_",
+      "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
+      "publishedAt": "2026-05-09T03:49:52.891Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "_alternator_",
+      "tags": []
+    },
+    {
+      "id": "v7b3jo",
+      "title": "Over 97% of the 'Linux' Foundation's Budget Goes Not to Linux",
+      "description": "Score: 87 | Comments: 38 | Posted by esaym",
+      "url": "https://techrights.org/n/2026/05/08/Over_97_of_the_Linux_Foundation_s_Budget_Goes_Not_to_Linux.shtml",
+      "publishedAt": "2026-05-09T03:21:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "esaym",
+      "tags": []
+    },
+    {
+      "id": "d8ph2h",
+      "title": "A recent experience with ChatGPT 5.5 Pro",
+      "description": "Score: 154 | Comments: 59 | Posted by _alternator_",
+      "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
+      "publishedAt": "2026-05-09T02:41:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "_alternator_",
+      "tags": []
+    }
+  ]
+}
