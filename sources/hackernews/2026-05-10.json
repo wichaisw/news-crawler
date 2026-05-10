@@ -1,0 +1,83 @@
+{
+  "date": "2026-05-10",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "u6tu19",
+      "title": "Debian must ship reproducible packages",
+      "description": "Score: 44 | Comments: 9 | Posted by robalni",
+      "url": "https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html",
+      "publishedAt": "2026-05-10T05:26:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "robalni",
+      "tags": []
+    },
+    {
+      "id": "rkr028",
+      "title": "Scouting's Real Crisis Is Not Marketing. It Is Decades of Neglect.",
+      "description": "Score: 7 | Comments: 1 | Posted by AuthorizedCust",
+      "url": "https://www.untendedfire.org/2026/05/09/scoutings-real-crisis-is-not-marketing-it-is-decades-of-neglect/",
+      "publishedAt": "2026-05-10T04:47:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "AuthorizedCust",
+      "tags": []
+    },
+    {
+      "id": "e104j6",
+      "title": "Gemini API File Search is now multimodal",
+      "description": "Score: 55 | Comments: 5 | Posted by gmays",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
+      "publishedAt": "2026-05-10T03:22:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gmays",
+      "tags": []
+    },
+    {
+      "id": "r2gtdg",
+      "title": "MCP for sandboxed, reproducible envs for agentic-first coding workflows",
+      "description": "Score: 5 | Comments: 0 | Posted by anionyt",
+      "url": "https://github.com/aniongithub/devcontainer-mcp",
+      "publishedAt": "2026-05-10T03:15:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "anionyt",
+      "tags": []
+    },
+    {
+      "id": "jarqg9",
+      "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
+      "description": "Score: 181 | Comments: 73 | Posted by imtomt",
+      "url": "https://github.com/imtomt/ymawky",
+      "publishedAt": "2026-05-10T03:01:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "imtomt",
+      "tags": []
+    },
+    {
+      "id": "hl1urj",
+      "title": "Superintelligent Retrieval Agent: The Next Frontier of Information Retrieval",
+      "description": "Score: 7 | Comments: 0 | Posted by CharlesW",
+      "url": "https://arxiv.org/abs/2605.06647",
+      "publishedAt": "2026-05-10T02:16:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "CharlesW",
+      "tags": []
+    },
+    {
+      "id": "fezayz",
+      "title": "Sparse Cholesky Elimination Tree",
+      "description": "Score: 20 | Comments: 0 | Posted by selimthegrim",
+      "url": "https://www.reidatcheson.com/sparse/linear/cholesky/2026/04/09/etree.html",
+      "publishedAt": "2026-05-10T01:52:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "selimthegrim",
+      "tags": []
+    }
+  ]
+}

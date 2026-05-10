@@ -1,0 +1,61 @@
+{
+  "date": "2026-05-09",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=2973217",
+      "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
+      "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases",
+      "url": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "publishedAt": "2026-05-09T21:45:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Natasha Lomas, Romain Dillet, Kyle Wiggers, Lucas Ropek",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3121044",
+      "title": "Fintech startup Parker files for bankruptcy",
+      "description": "Parker, a well-funded startup offering corporate credit cards and banking services, has filed for bankruptcy and is widely reported to have shut down.",
+      "url": "https://techcrunch.com/2026/05/09/fintech-startup-parker-files-for-bankruptcy/",
+      "publishedAt": "2026-05-09T20:32:17.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3121041",
+      "title": "GM agrees to pay $12.75M in California driver privacy settlement",
+      "description": "General Motors has reached a privacy-related settlement with a group of law enforcement agencies led by California Attorney General Rob Bonta.",
+      "url": "https://techcrunch.com/2026/05/09/gm-agrees-to-pay-12-75m-in-california-driver-privacy-settlement/",
+      "publishedAt": "2026-05-09T19:05:30.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3120223",
+      "title": "The Instax Wide 400 builds on instant photography’s simplicity and stretches it, literally",
+      "description": "In an AI and digital world, analog instant film and retro-style cameras continue to remain popular, fueled by a mix of both nostalgia and novelty.",
+      "url": "https://techcrunch.com/2026/05/09/the-instax-wide-400-builds-on-instant-photographys-simplicity-and-stretches-it-literally/",
+      "publishedAt": "2026-05-09T15:45:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Aisha Malik",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3121025",
+      "title": "Nvidia has already committed $40B to equity AI deals this year",
+      "description": "Nvidia continues to be a big investor in the AI ecosystem.",
+      "url": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
+      "publishedAt": "2026-05-09T14:43:30.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    }
+  ]
+}

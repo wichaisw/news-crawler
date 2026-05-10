@@ -146,6 +146,17 @@
       "tags": []
     },
     {
+      "id": "kuf3eh",
+      "title": "A construction of the Hat tilings by a Markov partition",
+      "description": "Score: 4 | Comments: 1 | Posted by robinhouston",
+      "url": "https://www.mathstat.dal.ca/~selinger/hat-partition/",
+      "publishedAt": "2026-05-07T18:03:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "robinhouston",
+      "tags": []
+    },
+    {
       "id": "hxtz15",
       "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
       "description": "Score: 250 | Comments: 84 | Posted by instagraham",
@@ -256,6 +267,28 @@
       "tags": []
     },
     {
+      "id": "c45rgz",
+      "title": "The ROKR wooden typewriter: a closer look",
+      "description": "Score: 30 | Comments: 3 | Posted by speckx",
+      "url": "http://writingball.blogspot.com/2026/05/the-rokr-wooden-typewriter-closer-look.html",
+      "publishedAt": "2026-05-07T14:25:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
+      "tags": []
+    },
+    {
+      "id": "a9y8zw",
+      "title": "The Serial TTL connector we deserve",
+      "description": "Score: 80 | Comments: 55 | Posted by kohlschuetter",
+      "url": "https://kohlschuetter.github.io/blog/posts/2026/05/07/serial-ttl-connector/",
+      "publishedAt": "2026-05-07T14:19:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kohlschuetter",
+      "tags": []
+    },
+    {
       "id": "jjei9i",
       "title": "The Self-Cancelling Subscription",
       "description": "Score: 166 | Comments: 70 | Posted by surprisetalk",
@@ -297,6 +330,50 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "kqr",
+      "tags": []
+    },
+    {
+      "id": "bcua9c",
+      "title": "Making your own programming language is easier than you think (but also harder)",
+      "description": "Score: 84 | Comments: 37 | Posted by ibobev",
+      "url": "https://lisyarus.github.io/blog/posts/making-your-own-programming-language.html",
+      "publishedAt": "2026-05-07T13:01:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
+      "tags": []
+    },
+    {
+      "id": "g7cq31",
+      "title": "The One Dollar Counterfeiter",
+      "description": "Score: 62 | Comments: 17 | Posted by cainxinth",
+      "url": "https://www.amusingplanet.com/2026/05/emerich-juettner-one-dollar.html",
+      "publishedAt": "2026-05-07T12:40:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cainxinth",
+      "tags": []
+    },
+    {
+      "id": "ax2i6r",
+      "title": "How LEDs are made (2014)",
+      "description": "Score: 130 | Comments: 21 | Posted by smig0",
+      "url": "https://learn.sparkfun.com/tutorials/how-leds-are-made/all",
+      "publishedAt": "2026-05-07T12:39:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "smig0",
+      "tags": []
+    },
+    {
+      "id": "8srx5b",
+      "title": "Casio S100X Japanese Lacquer Edition (JP Page Only)",
+      "description": "Score: 87 | Comments: 31 | Posted by dr_kiszonka",
+      "url": "https://www.casio.com/jp/basic-calculators/premium/en-s100x-jc1-u/",
+      "publishedAt": "2026-05-07T12:09:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dr_kiszonka",
       "tags": []
     },
     {
