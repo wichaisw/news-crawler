@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "2oxrln",
+      "title": "The people preserving the scientific practice of bird banding",
+      "description": "Score: 49 | Comments: 0 | Posted by bookofjoe",
+      "url": "https://thenarwhal.ca/bird-banding-ontario/",
+      "publishedAt": "2026-05-07T23:49:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bookofjoe",
+      "tags": []
+    },
+    {
       "id": "wig6oq",
       "title": "Gambling ads on social media reach more than twice as many men as women: study",
       "description": "Score: 49 | Comments: 39 | Posted by hhs",
@@ -245,6 +256,17 @@
       "tags": []
     },
     {
+      "id": "gbl22",
+      "title": "First tunnel element of the Fehmarnbelt Tunnel immersed",
+      "description": "Score: 83 | Comments: 17 | Posted by robin_reala",
+      "url": "https://www.arup.com/en-us/news/first-fehmarnbelt-tunnel-element-lowered/",
+      "publishedAt": "2026-05-07T15:34:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "robin_reala",
+      "tags": []
+    },
+    {
       "id": "w8qr7o",
       "title": "I want to live like Costco people",
       "description": "Score: 280 | Comments: 583 | Posted by speckx",
@@ -311,6 +333,17 @@
       "tags": []
     },
     {
+      "id": "otpd60",
+      "title": "Gode Cookery – Authentic Medieval Recipes",
+      "description": "Score: 10 | Comments: 0 | Posted by Mr_Minderbinder",
+      "url": "http://www.godecookery.com/godeboke/godeboke.htm",
+      "publishedAt": "2026-05-07T13:51:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Mr_Minderbinder",
+      "tags": []
+    },
+    {
       "id": "8ocy9b",
       "title": "Child marriages plunged when girls stayed in school in Nigeria",
       "description": "Score: 352 | Comments: 280 | Posted by surprisetalk",
@@ -374,6 +407,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "dr_kiszonka",
+      "tags": []
+    },
+    {
+      "id": "fysmew",
+      "title": "Idempotency is easy until the second request is different",
+      "description": "Score: 301 | Comments: 181 | Posted by ludovicianul",
+      "url": "https://blog.dochia.dev/blog/idempotency/",
+      "publishedAt": "2026-05-07T11:02:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ludovicianul",
       "tags": []
     },
     {

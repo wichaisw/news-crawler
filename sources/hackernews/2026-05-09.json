@@ -113,6 +113,17 @@
       "tags": []
     },
     {
+      "id": "pkx2bq",
+      "title": "Shelf Source: Tom MacWright",
+      "description": "Score: 12 | Comments: 0 | Posted by tobr",
+      "url": "https://roadlessread.com/views/ss-macwright",
+      "publishedAt": "2026-05-09T17:28:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tobr",
+      "tags": []
+    },
+    {
       "id": "v8h0jb",
       "title": "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
       "description": "Score: 120 | Comments: 66 | Posted by ggallas",
@@ -143,6 +154,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "msephton",
+      "tags": []
+    },
+    {
+      "id": "nl43gh",
+      "title": "Walking slower? Your ears, not your knees, might be the problem",
+      "description": "Score: 111 | Comments: 70 | Posted by marc__1",
+      "url": "https://www.wsj.com/health/wellness/hearing-loss-walking-speed-iphone-study-c53c482a",
+      "publishedAt": "2026-05-09T14:49:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "marc__1",
       "tags": []
     },
     {
@@ -220,6 +242,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "rbanffy",
+      "tags": []
+    },
+    {
+      "id": "bdhwme",
+      "title": "I returned to AWS and was reminded why I left",
+      "description": "Score: 733 | Comments: 523 | Posted by andrewstuart",
+      "url": "http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html",
+      "publishedAt": "2026-05-09T08:37:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andrewstuart",
       "tags": []
     },
     {
@@ -330,6 +363,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "_alternator_",
+      "tags": []
+    },
+    {
+      "id": "xssl9d",
+      "title": "James Schuyler's Genius",
+      "description": "Score: 10 | Comments: 0 | Posted by Thevet",
+      "url": "https://yalereview.org/article/james-schuylers-genius",
+      "publishedAt": "2026-05-09T00:23:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Thevet",
       "tags": []
     }
   ]

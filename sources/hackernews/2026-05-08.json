@@ -69,6 +69,17 @@
       "tags": []
     },
     {
+      "id": "ubasa0",
+      "title": "Guy Goma's Accidental BBC Interview Lives on After 20 Years",
+      "description": "Score: 99 | Comments: 21 | Posted by nxobject",
+      "url": "https://www.nytimes.com/2026/05/06/business/media/bbc-guy-goma-interview.html",
+      "publishedAt": "2026-05-08T19:36:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nxobject",
+      "tags": []
+    },
+    {
       "id": "t547zk",
       "title": "My first in-prod corrupted hard drive problem",
       "description": "Score: 41 | Comments: 28 | Posted by r1chk1t",
@@ -91,6 +102,17 @@
       "tags": []
     },
     {
+      "id": "kal7yu",
+      "title": "Ice Cream Blending (1965) [pdf]",
+      "description": "Score: 3 | Comments: 0 | Posted by ok123456",
+      "url": "https://bitsavers.org/pdf/ibm/generalInfo/E20-0156-0_Linear_Programming_-_Ice_Cream_Blending.pdf",
+      "publishedAt": "2026-05-08T18:21:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ok123456",
+      "tags": []
+    },
+    {
       "id": "k4h1mj",
       "title": "Teaching Claude Why",
       "description": "Score: 141 | Comments: 69 | Posted by pretext",
@@ -110,6 +132,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "speckx",
+      "tags": []
+    },
+    {
+      "id": "4pvi61",
+      "title": "Conway's Law and Cross-Hatching",
+      "description": "Score: 7 | Comments: 0 | Posted by weatherreport",
+      "url": "https://willmanning.com/writing/conways-law-and-cross-hatching",
+      "publishedAt": "2026-05-08T17:15:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "weatherreport",
       "tags": []
     },
     {
@@ -165,6 +198,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "nezaj",
+      "tags": []
+    },
+    {
+      "id": "ozgxfw",
+      "title": "Lakebase architecture delivers faster Postgres writes",
+      "description": "Score: 111 | Comments: 33 | Posted by sp_from_db",
+      "url": "https://www.databricks.com/blog/how-lakebase-architecture-delivers-5x-faster-postgres-writes",
+      "publishedAt": "2026-05-08T15:46:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sp_from_db",
       "tags": []
     },
     {
@@ -234,6 +278,17 @@
       "tags": []
     },
     {
+      "id": "xjpztf",
+      "title": "Stop MitM on the first SSH connection, on any VPS or cloud provider",
+      "description": "Score: 108 | Comments: 61 | Posted by JoachimSchipper",
+      "url": "https://www.joachimschipper.nl/Stop%20MITM%20on%20the%20first%20SSH%20connection,%20on%20any%20VPS%20or%20cloud%20provider.html",
+      "publishedAt": "2026-05-08T11:26:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "JoachimSchipper",
+      "tags": []
+    },
+    {
       "id": "73u1m2",
       "title": "An Introduction to Meshtastic",
       "description": "Score: 411 | Comments: 155 | Posted by ColinWright",
@@ -242,6 +297,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ColinWright",
+      "tags": []
+    },
+    {
+      "id": "n78nva",
+      "title": "Eight More '8-Bit Era' Microprocessors",
+      "description": "Score: 69 | Comments: 22 | Posted by klelatti",
+      "url": "https://thechipletter.substack.com/p/eight-more-8-bit-era-microprocessors",
+      "publishedAt": "2026-05-08T11:21:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "klelatti",
       "tags": []
     },
     {
@@ -264,6 +330,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "Borkdude",
+      "tags": []
+    },
+    {
+      "id": "x82e2n",
+      "title": "dBase: 1979-2026",
+      "description": "Score: 60 | Comments: 16 | Posted by deeaceofbase",
+      "url": "https://delphinightmares.substack.com/p/dbase-1979-2026",
+      "publishedAt": "2026-05-08T05:00:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "deeaceofbase",
       "tags": []
     },
     {
@@ -352,6 +429,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "gmays",
+      "tags": []
+    },
+    {
+      "id": "gcvlp3",
+      "title": "Seeing Birdsong",
+      "description": "Score: 14 | Comments: 1 | Posted by carabiner",
+      "url": "https://www.lucioarese.net/seeing-birdsong/",
+      "publishedAt": "2026-05-08T00:55:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "carabiner",
       "tags": []
     },
     {

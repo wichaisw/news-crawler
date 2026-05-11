@@ -3,6 +3,72 @@
   "source": "techcrunch",
   "articles": [
     {
+      "id": "https://techcrunch.com/?p=3121099",
+      "title": "Get ready for the whisper-filled office of the future",
+      "description": "How will work setups change if we spend more and more time talking to our computers?",
+      "url": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
+      "publishedAt": "2026-05-10T21:15:30.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3121096",
+      "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
+      "description": "Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.",
+      "url": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
+      "publishedAt": "2026-05-10T20:40:41.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3121083",
+      "title": "Uber has always wanted to be more than a ride; now it has reason to hurry",
+      "description": "The company has been trying to embed itself inside the AV industry — as a data provider, an investor, and a distribution platform — but the",
+      "url": "https://techcrunch.com/2026/05/10/uber-has-always-wanted-to-be-more-than-a-ride-now-it-has-reason-to-hurry/",
+      "publishedAt": "2026-05-10T18:08:54.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Connie Loizos",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3120994",
+      "title": "TechCrunch Mobility: Lime’s IPO gamble",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+      "url": "https://techcrunch.com/2026/05/10/techcrunch-mobility-limes-ipo-gamble/",
+      "publishedAt": "2026-05-10T16:05:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Kirsten Korosec",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3121081",
+      "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
+      "description": "On the latest episode of the Equity podcast, we discussed what xAI's deal with Anthropic might mean for parent company SpaceX.",
+      "url": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
+      "publishedAt": "2026-05-10T15:34:25.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3120972",
+      "title": "The hottest place for startups to strike a deal? The F1 paddock",
+      "description": "F1 Grands Prix have emerged as a new place to see and be seen if you are a founder or investor.",
+      "url": "https://techcrunch.com/2026/05/10/the-hottest-place-for-startups-to-strike-a-deal-the-f1-paddock/",
+      "publishedAt": "2026-05-10T15:13:07.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "tags": []
+    },
+    {
       "id": "https://techcrunch.com/?p=3121027",
       "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
       "description": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",

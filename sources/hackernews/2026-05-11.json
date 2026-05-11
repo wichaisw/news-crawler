@@ -1,0 +1,72 @@
+{
+  "date": "2026-05-11",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "7t8th5",
+      "title": "Mythos Finds a Curl Vulnerability",
+      "description": "Score: 6 | Comments: 0 | Posted by TangerineDream",
+      "url": "https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/",
+      "publishedAt": "2026-05-11T06:39:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "TangerineDream",
+      "tags": []
+    },
+    {
+      "id": "skr2cl",
+      "title": "Iran mulls taking control of all 7 cables passing through Strait of Hormuz",
+      "description": "Score: 16 | Comments: 5 | Posted by jonah",
+      "url": "https://www.wionews.com/world/iran-to-take-full-control-of-all-7-undersea-internet-cables-passing-through-strait-of-hormuz-1778361695047",
+      "publishedAt": "2026-05-11T04:59:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jonah",
+      "tags": []
+    },
+    {
+      "id": "67tts7",
+      "title": "7 lines of code, 3 minutes: Implement a programming language (2010)",
+      "description": "Score: 33 | Comments: 6 | Posted by azhenley",
+      "url": "https://matt.might.net/articles/implementing-a-programming-language/",
+      "publishedAt": "2026-05-11T04:34:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "azhenley",
+      "tags": []
+    },
+    {
+      "id": "3oopvr",
+      "title": "The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene (2024)",
+      "description": "Score: 120 | Comments: 40 | Posted by susam",
+      "url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
+      "publishedAt": "2026-05-11T02:43:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "susam",
+      "tags": []
+    },
+    {
+      "id": "wzyjx0",
+      "title": "Show HN: adamsreview – better multi-agent PR reviews for Claude Code",
+      "description": "Score: 21 | Comments: 5 | Posted by adamthegoalie",
+      "url": "https://github.com/adamjgmiller/adamsreview",
+      "publishedAt": "2026-05-11T02:06:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "adamthegoalie",
+      "tags": []
+    },
+    {
+      "id": "ccjagd",
+      "title": "I'm going back to writing code by hand",
+      "description": "Score: 265 | Comments: 108 | Posted by dropbox_miner",
+      "url": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
+      "publishedAt": "2026-05-11T01:23:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dropbox_miner",
+      "tags": []
+    }
+  ]
+}
