@@ -3,6 +3,39 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "150501 at https://www.blognone.com",
+      "title": "ผู้สร้าง curl ระบุ Claude Mythos ดีกว่าโมเดลอื่นไม่มาก เจอเพียงช่องโหว่ระดับต่ำช่องเดียว",
+      "description": "ผู้สร้าง curl ระบุ Claude Mythos ดีกว่าโมเดลอื่นไม่มาก เจอเพียงช่องโหว่ระดับต่ำช่องเดียว Body หลัง Anthropic เปิดตัว Claude Mythos",
+      "url": "https://www.blognone.com/node/150501",
+      "publishedAt": "2026-05-11T15:48:18.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150500 at https://www.blognone.com",
+      "title": "พบฟีเจอร์ใหม่ Windows 11 บูสต์คล็อคซีพียูสั้นๆ ตอนเปิดแอพหรือเปิด Start Menu",
+      "description": "พบฟีเจอร์ใหม่ Windows 11 บูสต์คล็อคซีพียูสั้นๆ ตอนเปิดแอพหรือเปิด Start Menu Body เว็บไซต์ Windows Central",
+      "url": "https://www.blognone.com/node/150500",
+      "publishedAt": "2026-05-11T13:27:12.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150499 at https://www.blognone.com",
+      "title": "Gemini ทุกหนทุกแห่ง ซัมซุงปล่อยอัพเดตตู้เย็น Bespoke ใช้ Gemini แยกแยะวัตถุในตู้",
+      "description": "Gemini ทุกหนทุกแห่ง ซัมซุงปล่อยอัพเดตตู้เย็น Bespoke ใช้ Gemini แยกแยะวัตถุในตู้ Body Gemini อยู่ทุกหนทุกแห่ง ล่าสุดซัมซุงเริ่มอัพเกรด",
+      "url": "https://www.blognone.com/node/150499",
+      "publishedAt": "2026-05-11T13:16:18.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "150497 at https://www.blognone.com",
       "title": "[ลือ] macOS 27 จะปรับปรุงแสงเงาของอินเทอร์เฟซ Liquid Glass ใหม่ ให้อ่านข้อความได้ง่ายขึ้น",
       "description": "[ลือ] macOS 27 จะปรับปรุงแสงเงาของอินเทอร์เฟซ Liquid Glass ใหม่ ให้อ่านข้อความได้ง่ายขึ้น Body ข่าวลือแอปเปิลประจำสัปดาห์จาก Mark Gurman แห่ง",

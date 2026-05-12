@@ -1,0 +1,94 @@
+{
+  "date": "2026-05-12",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "7c1nm8",
+      "title": "Screenshots of Old Desktop OSes",
+      "description": "Score: 34 | Comments: 9 | Posted by adunk",
+      "url": "http://www.typewritten.org/Media/",
+      "publishedAt": "2026-05-12T05:11:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "adunk",
+      "tags": []
+    },
+    {
+      "id": "9rzjmr",
+      "title": "Supercomputer networking to accelerate large scale AI training",
+      "description": "Score: 7 | Comments: 0 | Posted by gmays",
+      "url": "https://openai.com/index/mrc-supercomputer-networking/",
+      "publishedAt": "2026-05-12T04:46:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gmays",
+      "tags": []
+    },
+    {
+      "id": "eb3ow2",
+      "title": "Arcadia, CA, Mayor Federally Charged with Acting as Illegal Agent of PRC, Pleads",
+      "description": "Score: 14 | Comments: 6 | Posted by 737min",
+      "url": "https://www.justice.gov/usao-cdca/pr/arcadia-mayor-federally-charged-acting-illegal-agent-peoples-republic-china",
+      "publishedAt": "2026-05-12T03:59:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "737min",
+      "tags": []
+    },
+    {
+      "id": "hd6wlj",
+      "title": "Extremely Low Frequencies",
+      "description": "Score: 31 | Comments: 0 | Posted by pinewurst",
+      "url": "https://computer.rip/2026-05-09-extremely-low-frequencies.html",
+      "publishedAt": "2026-05-12T03:59:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pinewurst",
+      "tags": []
+    },
+    {
+      "id": "8ae9fj",
+      "title": "Software Internals Book Club",
+      "description": "Score: 68 | Comments: 13 | Posted by aragonite",
+      "url": "https://eatonphil.com/bookclub.html",
+      "publishedAt": "2026-05-12T02:28:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "aragonite",
+      "tags": []
+    },
+    {
+      "id": "45b4mi",
+      "title": "A consistent pattern of lying': trial exposes what insiders think of Sam Altman",
+      "description": "Score: 33 | Comments: 3 | Posted by andsoitis",
+      "url": "https://www.theguardian.com/us-news/2026/may/11/musk-v-openai-altman-trial",
+      "publishedAt": "2026-05-12T02:17:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andsoitis",
+      "tags": []
+    },
+    {
+      "id": "kpos08",
+      "title": "Claude Platform on AWS",
+      "description": "Score: 116 | Comments: 51 | Posted by matrixhelix",
+      "url": "https://claude.com/blog/claude-platform-on-aws",
+      "publishedAt": "2026-05-12T01:24:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "matrixhelix",
+      "tags": []
+    },
+    {
+      "id": "c6lwts",
+      "title": "They Live (1988) inspired Adblocker",
+      "description": "Score: 152 | Comments: 33 | Posted by tokenburner",
+      "url": "https://github.com/davmlaw/they_live_adblocker",
+      "publishedAt": "2026-05-12T00:37:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tokenburner",
+      "tags": []
+    }
+  ]
+}

@@ -102,6 +102,17 @@
       "tags": []
     },
     {
+      "id": "1mfvje",
+      "title": "VGA Memory Access Is Complicated",
+      "description": "Score: 48 | Comments: 6 | Posted by ingve",
+      "url": "https://www.os2museum.com/wp/learn-something-old-every-day-part-xxi-vga-memory-access-is-complicated/",
+      "publishedAt": "2026-05-09T17:49:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingve",
+      "tags": []
+    },
+    {
       "id": "mdlb3b",
       "title": "Zed Editor Theme-Builder",
       "description": "Score: 198 | Comments: 57 | Posted by cuechan",
@@ -201,6 +212,28 @@
       "tags": []
     },
     {
+      "id": "42qucy",
+      "title": "Show HN: A modern Music Player Daemon based on Rockbox firmware",
+      "description": "Score: 65 | Comments: 10 | Posted by tsiry",
+      "url": "https://github.com/tsirysndr/rockbox-zig",
+      "publishedAt": "2026-05-09T13:03:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tsiry",
+      "tags": []
+    },
+    {
+      "id": "quuvci",
+      "title": "Boriel BASIC",
+      "description": "Score: 20 | Comments: 4 | Posted by AlexeyBrin",
+      "url": "https://zxbasic.readthedocs.io/en/docs/",
+      "publishedAt": "2026-05-09T12:49:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "AlexeyBrin",
+      "tags": []
+    },
+    {
       "id": "ip4975",
       "title": "Internet Archive Switzerland",
       "description": "Score: 590 | Comments: 89 | Posted by hggh",
@@ -253,6 +286,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "andrewstuart",
+      "tags": []
+    },
+    {
+      "id": "5rvt25",
+      "title": "Counting Fast in Erlang with:counters and:atomics",
+      "description": "Score: 79 | Comments: 4 | Posted by malmz",
+      "url": "https://andrealeopardi.com/posts/erlang-counters-and-atomics/",
+      "publishedAt": "2026-05-09T08:26:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "malmz",
       "tags": []
     },
     {

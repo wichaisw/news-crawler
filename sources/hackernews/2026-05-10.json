@@ -157,6 +157,17 @@
       "tags": []
     },
     {
+      "id": "mvyika",
+      "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
+      "description": "Score: 233 | Comments: 12 | Posted by zdw",
+      "url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
+      "publishedAt": "2026-05-10T17:05:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
       "id": "x082zh",
       "title": "Spain has become one of Europe’s cheapest power markets",
       "description": "Score: 159 | Comments: 135 | Posted by marc__1",
@@ -256,6 +267,17 @@
       "tags": []
     },
     {
+      "id": "o98vet",
+      "title": "High-precision HDC reference instrument for the Sol Star System",
+      "description": "Score: 9 | Comments: 0 | Posted by lemonforest",
+      "url": "https://pypi.org/project/ephemerides-spectral/",
+      "publishedAt": "2026-05-10T06:59:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lemonforest",
+      "tags": []
+    },
+    {
       "id": "sllrk1",
       "title": "Task Paralysis and AI",
       "description": "Score: 228 | Comments: 113 | Posted by MrGilbert",
@@ -333,6 +355,17 @@
       "tags": []
     },
     {
+      "id": "mleugb",
+      "title": "Silverback Imfura took a chance, and ended up alone",
+      "description": "Score: 56 | Comments: 17 | Posted by alex000kim",
+      "url": "https://gorillafund.org/mountain-gorillas/silverback-imfura-took-a-chance-and-ended-up-alone/",
+      "publishedAt": "2026-05-10T02:06:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "alex000kim",
+      "tags": []
+    },
+    {
       "id": "fezayz",
       "title": "Sparse Cholesky Elimination Tree",
       "description": "Score: 20 | Comments: 0 | Posted by selimthegrim",
@@ -341,6 +374,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "selimthegrim",
+      "tags": []
+    },
+    {
+      "id": "4jllii",
+      "title": "Abstract Machines for Logic Programs",
+      "description": "Score: 35 | Comments: 1 | Posted by surprisetalk",
+      "url": "https://chrisistyping.bearblog.dev/abstract-machines-for-logic-programs/",
+      "publishedAt": "2026-05-10T01:49:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
       "tags": []
     }
   ]

@@ -1,0 +1,114 @@
+{
+  "date": "2026-05-11",
+  "source": "theverge",
+  "articles": [
+    {
+      "id": "7569ln",
+      "title": "OpenAI just released its answer to Claude Mythos",
+      "description": "OpenAI is launching Daybreak, an AI initiative focused on detecting and patching vulnerabilities before attackers find them. Daybreak uses the Codex Security AI agent that launched in March to create a threat model based on an organization's code and focus on possible attack paths, validate likely vulnerabilities, and then automate the detection of the higher [&#8230;]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-05-11T23:05:01.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Stevie Bonifield",
+      "tags": []
+    },
+    {
+      "id": "81r7kd",
+      "title": "Yarbo says it will remove the intentional backdoor from its robot lawn mower",
+      "description": "The company behind the robot lawn mower that ran me over has changed its tune. Yarbo now plans to completely remove the remote backdoor access that could have let bad actors reprogram the robot over the internet. Yarbo customers will be able to decide whether that feature even gets installed in the first place, co-founder [&#8230;]",
+      "url": "https://www.theverge.com/tech/928289/yarbo-remove-robot-lawn-mower-backdoor",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Yarbo-M1-8.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-05-11T22:40:20.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Sean Hollister",
+      "tags": []
+    },
+    {
+      "id": "l7n2hq",
+      "title": "Here's what Mira Murati's AI company is up to",
+      "description": "Thinking Machines, the AI company founded by former OpenAI CTO Mira Murati, announced Monday that it's working on something called \"interaction models.\" The idea behind interaction models, according to Thinking Machines, is that they will let people \"collaborate with AI the way we naturally collaborate with each other - they continuously take in audio, video, [&#8230;]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRG_Illo_mira-murati_stock_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-05-11T22:19:15.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Jay Peters",
+      "tags": []
+    },
+    {
+      "id": "t889cx",
+      "title": "Govee’s new portable smart lamp is on sale for the first time",
+      "description": "If you’ve always liked the idea of the Philips Hue Go portable lamp but couldn’t justify the $100+ price tag, Govee recently released a much cheaper alternative, the Govee Table Lamp Classic, and it’s already receiving its first discount. Right now, you can pick the rechargeable smart lamp up at Amazon for $63.99 ($16 off), [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/928249/govee-table-lamp-classic-deal-sale",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/goveelamp.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-05-11T19:56:28.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Sheena Vasani",
+      "tags": []
+    },
+    {
+      "id": "mp23y6",
+      "title": "Palantir's true believers are wearing this jacket",
+      "description": "In late April, Palantir - the software company that, in recent years, has perhaps become best known for its defense industry contracts and work with Immigration and Customs Enforcement - announced that it would be adding new products to its merch store. The latest offering was a cotton chore coat. At $239 and in bright [&#8230;]",
+      "url": "https://www.theverge.com/report/928026/palantir-chore-coat",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268519_Why_would_Palantir_make_a_chore_coat__CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-05-11T18:26:04.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Mia Sato",
+      "tags": []
+    },
+    {
+      "id": "ydnw42",
+      "title": "Apple brings encrypted RCS chats to iPhone",
+      "description": "Apple now lets you have encrypted RCS conversations with Android users through the Messages app on iOS. As part of iOS 26.5, which was released on Monday, Apple added support for end-to-end encrypted RCS messaging in beta, meaning that Apple and Google can't see your messages while they're sent. With iOS 26.5, you'll see a [&#8230;]",
+      "url": "https://www.theverge.com/tech/928141/apple-ios-26-5-rcs-messages-iphone-google-android",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Apple-RCS-messaging-beta_quick-read-16x9.jpg.medium_2x.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-05-11T17:57:56.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Jay Peters",
+      "tags": []
+    },
+    {
+      "id": "lwhy7e",
+      "title": "Texas sues Netflix for advertising 'bait and switch' and spying",
+      "description": "Texas Attorney General Ken Paxton has filed a lawsuit against Netflix, accusing the company of turning its back on its promise to remain ad-free and safe for kids. The lawsuit, filed on Monday, claims Netflix has \"opened Texans' data for inspection by the same Big Ad Tech community it once criticized for exploiting users in [&#8230;]",
+      "url": "https://www.theverge.com/streaming/928071/texas-netflix-lawsuit-privacy",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK072-05.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-05-11T17:04:22.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Emma Roth",
+      "tags": []
+    },
+    {
+      "id": "tvwtkm",
+      "title": "Google stopped a zero-day hack that it says was developed with AI",
+      "description": "For the first time, Google says it has spotted and stopped a zero-day exploit developed with AI. According to a report from Google Threat Intelligence Group (GTIG), \"prominent cyber crime threat actors\" were planning to use the vulnerability for a \"mass exploitation event\" that would have allowed them to bypass two-factor authentication on an unnamed [&#8230;]",
+      "url": "https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-05-11T16:09:42.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Stevie Bonifield",
+      "tags": []
+    },
+    {
+      "id": "q1ash2",
+      "title": "A million baby monitors and security cameras were easily viewable by hackers",
+      "description": "A baby's eyes peer directly into the camera lens. A kid with a striped shirt looks up, then away. A boy in a policeman's costume, a gold star on his chest. A messy bedroom that reminds me of my own daughters, with an unmade bunk bed, a little girl's hat and headband, and Hello Kitty [&#8230;]",
+      "url": "https://www.theverge.com/tech/926487/meari-technology-hack-baby-monitor-security-camera",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/meari-baby-monitor-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-05-11T16:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Sean Hollister",
+      "tags": []
+    }
+  ]
+}
