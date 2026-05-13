@@ -1,0 +1,50 @@
+{
+  "date": "2026-05-13",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "150519 at https://www.blognone.com",
+      "title": "กูเกิลอัปเกรด Android Auto ดูวิดีโอได้ในตัว",
+      "description": "กูเกิลอัปเกรด Android Auto ดูวิดีโอได้ในตัว Body กูเกิลประกาศฟีเจอร์ใหม่ของ Android Auto และ Google built-in อัพเกรดฟีเจอร์การใช้งานทั้งด้าน UI",
+      "url": "https://www.blognone.com/node/150519",
+      "publishedAt": "2026-05-13T01:41:22.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150516 at https://www.blognone.com",
+      "title": "Android 17 เพิ่ม Pause Point ระบบเตือนให้ตั้งสติทุกครั้ง ก่อนเปิดใช้แอปโซเชียลที่รบกวนสมาธิและเวลาแต่ละวัน",
+      "description": "Android 17 เพิ่ม Pause Point ระบบเตือนให้ตั้งสติทุกครั้ง ก่อนเปิดใช้แอปโซเชียลที่รบกวนสมาธิและเวลาแต่ละวัน Body กูเกิลประกาศเพิ่มฟีเจอร์ใหม่ใน",
+      "url": "https://www.blognone.com/node/150516",
+      "publishedAt": "2026-05-13T01:12:00.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150517 at https://www.blognone.com",
+      "title": "Threads ปรับโลโก้ใหม่ ตัวหนังสือเอียงเล็กน้อย สื่อถึงการก้าวไปข้างหน้า",
+      "description": "Threads ปรับโลโก้ใหม่ ตัวหนังสือเอียงเล็กน้อย สื่อถึงการก้าวไปข้างหน้า Body Threads ประกาศปรับโลโก้และฟอนต์ที่ใช้ของแบรนด์ใหม่",
+      "url": "https://www.blognone.com/node/150517",
+      "publishedAt": "2026-05-13T00:32:54.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150518 at https://www.blognone.com",
+      "title": "JetBrains ประกาศแนวทางพัฒนา IDE รองรับทั้งมนุษย์เขียนโค้ดแบบเดิม และใช้ AI ช่วย ไม่ขัดแย้งกัน",
+      "description": "JetBrains ประกาศแนวทางพัฒนา IDE รองรับทั้งมนุษย์เขียนโค้ดแบบเดิม และใช้ AI ช่วย ไม่ขัดแย้งกัน Body JetBrains เจ้าพ่อของวงการ IDE",
+      "url": "https://www.blognone.com/node/150518",
+      "publishedAt": "2026-05-13T00:24:18.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}

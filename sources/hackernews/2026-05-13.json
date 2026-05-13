@@ -1,0 +1,72 @@
+{
+  "date": "2026-05-13",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "hl336o",
+      "title": "Deterministic Fully-Static Whole-Binary Translation Without Heuristicsarxiv.org",
+      "description": "Score: 105 | Comments: 17 | Posted by matt_d",
+      "url": "https://arxiv.org/abs/2605.08419",
+      "publishedAt": "2026-05-13T05:10:58.830Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "matt_d",
+      "tags": []
+    },
+    {
+      "id": "hl336o",
+      "title": "Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
+      "description": "Score: 105 | Comments: 17 | Posted by matt_d",
+      "url": "https://arxiv.org/abs/2605.08419",
+      "publishedAt": "2026-05-13T04:25:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "matt_d",
+      "tags": []
+    },
+    {
+      "id": "7sacra",
+      "title": "DMARC Fail: 7 Causes and How to Fix Each",
+      "description": "Score: 10 | Comments: 2 | Posted by meysamazad",
+      "url": "https://dmarcguard.io/blog/dmarc-failed-how-to-fix/",
+      "publishedAt": "2026-05-13T02:16:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "meysamazad",
+      "tags": []
+    },
+    {
+      "id": "nkwib0",
+      "title": "Zero-native – Build native desktop apps with web UI",
+      "description": "Score: 35 | Comments: 27 | Posted by gedy",
+      "url": "https://zero-native.dev",
+      "publishedAt": "2026-05-13T01:45:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gedy",
+      "tags": []
+    },
+    {
+      "id": "mto2zl",
+      "title": "Starship V3",
+      "description": "Score: 190 | Comments: 240 | Posted by fprog",
+      "url": "https://www.spacex.com/updates#starship-v3",
+      "publishedAt": "2026-05-13T01:29:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fprog",
+      "tags": []
+    },
+    {
+      "id": "wbk62e",
+      "title": "My graduation cap runs Rust",
+      "description": "Score: 140 | Comments: 38 | Posted by ericswpark",
+      "url": "https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/",
+      "publishedAt": "2026-05-13T00:04:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ericswpark",
+      "tags": []
+    }
+  ]
+}

@@ -25,6 +25,17 @@
       "tags": []
     },
     {
+      "id": "vhujjr",
+      "title": "Riding the D in Los Angeles: city hopes new subway stations will be game changer",
+      "description": "Score: 77 | Comments: 40 | Posted by raybb",
+      "url": "https://www.theguardian.com/us-news/2026/may/09/los-angeles-subway-public-transportation",
+      "publishedAt": "2026-05-10T23:09:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "raybb",
+      "tags": []
+    },
+    {
       "id": "lz91gj",
       "title": "Running local models on an M4 with 24GB memory",
       "description": "Score: 256 | Comments: 79 | Posted by shintoist",
@@ -77,6 +88,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "nunobrito",
+      "tags": []
+    },
+    {
+      "id": "dskkxr",
+      "title": "Referer Reality",
+      "description": "Score: 32 | Comments: 7 | Posted by tobr",
+      "url": "https://www.robinsloan.com/lab/referer/",
+      "publishedAt": "2026-05-10T20:31:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tobr",
       "tags": []
     },
     {
@@ -212,6 +234,17 @@
       "tags": []
     },
     {
+      "id": "r9u53z",
+      "title": "I made rust's cargo copy but for CPP",
+      "description": "Score: 3 | Comments: 1 | Posted by anybodyy",
+      "url": "https://github.com/user-with-username/crow",
+      "publishedAt": "2026-05-10T14:44:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "anybodyy",
+      "tags": []
+    },
+    {
       "id": "groy7c",
       "title": "Show HN: An index of indie web/blog indexes",
       "description": "Score: 113 | Comments: 37 | Posted by rocketpastsix",
@@ -242,6 +275,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jandeboevrie",
+      "tags": []
+    },
+    {
+      "id": "tmubuy",
+      "title": "Israel's AI targeting system: how data from a phone become a death sentence",
+      "description": "Score: 129 | Comments: 41 | Posted by YeGoblynQueenne",
+      "url": "https://www.latimes.com/world-nation/story/2026-05-04/inside-israels-ai-targeting-system-how-data-from-phone-become-death-sentence",
+      "publishedAt": "2026-05-10T10:51:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "YeGoblynQueenne",
+      "tags": []
+    },
+    {
+      "id": "qs7511",
+      "title": "Fc, a lossless compressor for floating-point streams",
+      "description": "Score: 50 | Comments: 11 | Posted by enduku",
+      "url": "https://github.com/xtellect/fc",
+      "publishedAt": "2026-05-10T10:14:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "enduku",
       "tags": []
     },
     {
