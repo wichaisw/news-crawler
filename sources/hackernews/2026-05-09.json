@@ -69,6 +69,17 @@
       "tags": []
     },
     {
+      "id": "2flmuf",
+      "title": "Reverting the incremental GC in Python 3.14 and 3.15",
+      "description": "Score: 218 | Comments: 86 | Posted by curiousgal",
+      "url": "https://discuss.python.org/t/reverting-the-incremental-gc-in-python-3-14-and-3-15/107014",
+      "publishedAt": "2026-05-09T20:25:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "curiousgal",
+      "tags": []
+    },
+    {
       "id": "k5q1ii",
       "title": "Surfel-based global illumination on the web",
       "description": "Score: 47 | Comments: 4 | Posted by vmg12",
@@ -99,6 +110,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "JumpCrisscross",
+      "tags": []
+    },
+    {
+      "id": "u3enzp",
+      "title": "'A Four-Eyed World' Review: The Story of Spectacles",
+      "description": "Score: 7 | Comments: 0 | Posted by Hooke",
+      "url": "https://www.wsj.com/arts-culture/books/a-four-eyed-world-review-the-story-of-spectacles-504334ac",
+      "publishedAt": "2026-05-09T18:02:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Hooke",
       "tags": []
     },
     {
@@ -264,6 +286,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "wrxd",
+      "tags": []
+    },
+    {
+      "id": "d53vpf",
+      "title": "A History of IDEs at Google",
+      "description": "Score: 345 | Comments: 236 | Posted by laurentlb",
+      "url": "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google",
+      "publishedAt": "2026-05-09T11:14:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "laurentlb",
       "tags": []
     },
     {
