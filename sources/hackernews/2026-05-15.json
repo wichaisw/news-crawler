@@ -1,0 +1,127 @@
+{
+  "date": "2026-05-15",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "vimay7",
+      "title": "How Claude Code works in large codebases",
+      "description": "Score: 130 | Comments: 84 | Posted by shenli3514",
+      "url": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
+      "publishedAt": "2026-05-15T04:15:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "shenli3514",
+      "tags": []
+    },
+    {
+      "id": "dkb409",
+      "title": "Solar-based sleep patterns compared to modern norms",
+      "description": "Score: 22 | Comments: 9 | Posted by James72689",
+      "url": "https://dylan.gr/1775146616",
+      "publishedAt": "2026-05-15T04:15:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "James72689",
+      "tags": []
+    },
+    {
+      "id": "d02ohj",
+      "title": "Coldkey – Post-quantum age key generation and paper backup tool",
+      "description": "Score: 9 | Comments: 0 | Posted by pike00",
+      "url": "https://github.com/pike00/coldkey",
+      "publishedAt": "2026-05-15T04:02:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pike00",
+      "tags": []
+    },
+    {
+      "id": "dccj5z",
+      "title": "Details of the Daring Airdrop at Tristan Da Cunha",
+      "description": "Score: 57 | Comments: 8 | Posted by kspacewalk2",
+      "url": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php",
+      "publishedAt": "2026-05-15T03:56:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kspacewalk2",
+      "tags": []
+    },
+    {
+      "id": "yskauw",
+      "title": "Mullvad exit IPs are surprisingly identifyingtmctmt.com",
+      "description": "Score: 295 | Comments: 148 | Posted by RGBCube",
+      "url": "https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/",
+      "publishedAt": "2026-05-15T03:16:06.645Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "RGBCube",
+      "tags": []
+    },
+    {
+      "id": "fm8dfu",
+      "title": "reCAPTCHA Mobile Verification Is Bringing the Play Integrity API to Desktops",
+      "description": "Score: 33 | Comments: 23 | Posted by Cider9986",
+      "url": "https://discuss.grapheneos.org/d/35428-recaptcha-mobile-verification-is-bringing-the-play-integrity-api-to-desktops",
+      "publishedAt": "2026-05-15T02:51:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Cider9986",
+      "tags": []
+    },
+    {
+      "id": "yskauw",
+      "title": "Mullvad exit IPs are surprisingly identifying",
+      "description": "Score: 295 | Comments: 147 | Posted by RGBCube",
+      "url": "https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/",
+      "publishedAt": "2026-05-15T02:35:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "RGBCube",
+      "tags": []
+    },
+    {
+      "id": "f6f9of",
+      "title": "Find vendors used by any company",
+      "description": "Score: 6 | Comments: 3 | Posted by chatmasta",
+      "url": "https://sub-processors.com/subprocessor/elasticsearch",
+      "publishedAt": "2026-05-15T01:55:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "chatmasta",
+      "tags": []
+    },
+    {
+      "id": "i1qw2g",
+      "title": "Access to frontier AI will soon be limited by economic and security constraints",
+      "description": "Score: 97 | Comments: 55 | Posted by thoughtpeddler",
+      "url": "https://writing.antonleicht.me/p/cut-off",
+      "publishedAt": "2026-05-15T01:08:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thoughtpeddler",
+      "tags": []
+    },
+    {
+      "id": "3dxmah",
+      "title": "UFerris a Versatile Learner Board for Rust Embedded Beginners",
+      "description": "Score: 20 | Comments: 3 | Posted by stmw",
+      "url": "https://www.theembeddedrustacean.com/uferris",
+      "publishedAt": "2026-05-15T01:04:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "stmw",
+      "tags": []
+    },
+    {
+      "id": "gns9w3",
+      "title": "Velonus – Open-source AppSec scanner that deduplicates SAST noise",
+      "description": "Score: 12 | Comments: 3 | Posted by AliAmmar15",
+      "url": "https://github.com/AliAmmar15/Velonus",
+      "publishedAt": "2026-05-15T01:02:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "AliAmmar15",
+      "tags": []
+    }
+  ]
+}

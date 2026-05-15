@@ -157,6 +157,17 @@
       "tags": []
     },
     {
+      "id": "butnth",
+      "title": "The Founding Story Behind the House of Suntory",
+      "description": "Score: 8 | Comments: 0 | Posted by NaOH",
+      "url": "https://www.townandcountrymag.com/leisure/drinks/a71219491/japanese-whisky-house-of-suntory-history-facts/",
+      "publishedAt": "2026-05-12T18:05:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "NaOH",
+      "tags": []
+    },
+    {
       "id": "d3upvh",
       "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
       "description": "Score: 403 | Comments: 141 | Posted by HenryNdubuaku",
@@ -289,6 +300,17 @@
       "tags": []
     },
     {
+      "id": "9zrxaw",
+      "title": "Bare-metal STM32: vector table, linker script, and startup code from scratch",
+      "description": "Score: 18 | Comments: 2 | Posted by lmilz",
+      "url": "https://lmilz.dev/blog/2026/04/19/Embedded-Hello-World.html",
+      "publishedAt": "2026-05-12T14:57:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lmilz",
+      "tags": []
+    },
+    {
       "id": "u6msv0",
       "title": "Bambu Lab is abusing the open source social contract",
       "description": "Score: 1203 | Comments: 383 | Posted by rubenbe",
@@ -311,6 +333,17 @@
       "tags": []
     },
     {
+      "id": "haqsiz",
+      "title": "Int a = 5; a = a++ + ++a; a =? (2011)",
+      "description": "Score: 120 | Comments: 190 | Posted by e-topy",
+      "url": "https://gynvael.coldwind.pl/?id=372",
+      "publishedAt": "2026-05-12T14:14:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "e-topy",
+      "tags": []
+    },
+    {
       "id": "osu01t",
       "title": "Rendering the Sky, Sunsets, and Planets",
       "description": "Score: 458 | Comments: 38 | Posted by ibobev",
@@ -319,6 +352,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ibobev",
+      "tags": []
+    },
+    {
+      "id": "56y1qd",
+      "title": "Gyroflow: Video stabilization using gyroscope data",
+      "description": "Score: 67 | Comments: 10 | Posted by nateb2022",
+      "url": "https://github.com/gyroflow/gyroflow",
+      "publishedAt": "2026-05-12T13:11:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nateb2022",
       "tags": []
     },
     {
@@ -352,6 +396,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "surprisetalk",
+      "tags": []
+    },
+    {
+      "id": "4dpgr3",
+      "title": "CSS Rhythmic Sizing Module Level 1",
+      "description": "Score: 10 | Comments: 4 | Posted by gudzpoz",
+      "url": "https://www.w3.org/TR/css-rhythm-1/",
+      "publishedAt": "2026-05-12T07:46:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gudzpoz",
       "tags": []
     },
     {

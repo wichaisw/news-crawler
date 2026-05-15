@@ -256,6 +256,17 @@
       "tags": []
     },
     {
+      "id": "zfuznq",
+      "title": "Leaving the Physical World",
+      "description": "Score: 203 | Comments: 87 | Posted by andsoitis",
+      "url": "https://www.eff.org/pages/leaving-physical-world",
+      "publishedAt": "2026-05-10T13:54:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andsoitis",
+      "tags": []
+    },
+    {
       "id": "l3hncy",
       "title": "Comparing a 1980s memory map to the Raspi Pico",
       "description": "Score: 27 | Comments: 0 | Posted by Schlagbohrer",
@@ -473,6 +484,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "surprisetalk",
+      "tags": []
+    },
+    {
+      "id": "crp77k",
+      "title": "60fps Video on a CGA? – The GlyphBlaster",
+      "description": "Score: 81 | Comments: 9 | Posted by tambourine_man",
+      "url": "https://martypc.blogspot.com/2026/05/60fps-video-on-cga-glyphblaster.html",
+      "publishedAt": "2026-05-10T01:01:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tambourine_man",
       "tags": []
     }
   ]
