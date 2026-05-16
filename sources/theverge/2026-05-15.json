@@ -1,0 +1,126 @@
+{
+  "date": "2026-05-15",
+  "source": "theverge",
+  "articles": [
+    {
+      "id": "pp2hff",
+      "title": "Xbox is now XBOX",
+      "description": "Xbox just allcapsmaxxed: Meet XBOX. This isn't a joke; Microsoft appears to be actually rebranding Xbox to XBOX. Asha Sharma, Xbox CEO, ran a poll on X earlier this week, asking fans whether Microsoft should use Xbox or XBOX. The results were in favor of XBOX, and the company has now renamed its X account. [&#8230;]",
+      "url": "https://www.theverge.com/news/931918/microsoft-xbox-rebrand-caps",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832862/STK048_XBOX_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-05-15T23:10:13.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Tom Warren",
+      "tags": []
+    },
+    {
+      "id": "287x3v",
+      "title": "YouTube is expanding its AI deepfake detection tool to all adult users",
+      "description": "YouTube is expanding its AI likeness detection program to all users over the age of 18 - meaning just about anyone can have the platform hunt for potential deepfakes of themselves. The likeness detection feature uses a selfie-style scan of a person's face to monitor YouTube for lookalikes. If there is a match, YouTube alerts [&#8230;]",
+      "url": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-05-15T22:25:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Mia Sato",
+      "tags": []
+    },
+    {
+      "id": "bbl8kp",
+      "title": "Windows 11 tests an adjustable taskbar and resizable Start menu",
+      "description": "Microsoft's latest Windows 11 test will allow you to reposition the taskbar and change the size of the Start menu. The update, which is rolling out to Windows 11 Insiders in the Experimental channel, lets you place the taskbar on the bottom, top, left, or right side of the screen. Microsoft first teased its movable [&#8230;]",
+      "url": "https://www.theverge.com/tech/931817/windows-11-movable-taskbar-start-button",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/windows-11-taskbar-top.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-05-15T21:14:45.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Emma Roth",
+      "tags": []
+    },
+    {
+      "id": "yxil5k",
+      "title": "ArXiv will ban researchers who upload papers full of AI slop",
+      "description": "ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop. If a paper has \"incontrovertible evidence that the authors did not check the results of LLM generation,\" such as hallucinated references or \"meta-comments\" left by an LLM, authors will be [&#8230;]",
+      "url": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKS511_AI_SLOP_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-05-15T20:38:19.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Jay Peters",
+      "tags": []
+    },
+    {
+      "id": "uhscx2",
+      "title": "The Analogue 3D is finally getting save states",
+      "description": "Analogue has released a new firmware update for its Analogue 3D console that adds the Memories save state feature. Memories, which was first introduced with its handheld Analogue Pocket, allows you to save at any moment and resume from that exact spot later on, rather than having to reach a specific point in a game [&#8230;]",
+      "url": "https://www.theverge.com/tech/931615/analogue-3d-nintendo-64-console-memories-save-state",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257891_Analogue_3D_AKrales_0240.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-05-15T18:43:43.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Andrew Liszewski",
+      "tags": []
+    },
+    {
+      "id": "o53tdl",
+      "title": "OpenAI keeps shuffling its executives in bid to win AI agent battle",
+      "description": "OpenAI announced yet another reorganization Friday, consolidating certain areas and making company president Greg Brockman the official lead of all things product. In a memo viewed by The Verge, Brockman wrote that since OpenAI's product strategy for this year is to go all-in on AI agents, the company is combining its products to \"invest in [&#8230;]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-05-15T18:21:35.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Hayden Field",
+      "tags": []
+    },
+    {
+      "id": "rjrspl",
+      "title": "One of Intel’s fastest desktop CPUs is $50 off",
+      "description": "The Intel Core Ultra 7 270K Plus was billed by the company in late March as one of its “fastest gaming desktop processor ever.” That hype was evidently accurate, as benchmarks done by Gamers Nexus show the processor giving AMD’s pricier X3D cache-equipped Ryzen 9000-series CPUs a run for their money. The Ultra 7 270K [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/931495/intel-ultra-7-270k-plus-cpu-deal-sale",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25817865/core_ultra_series2_hx_hero_00.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-05-15T17:46:20.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Cameron Faulkner",
+      "tags": []
+    },
+    {
+      "id": "am3whs",
+      "title": "AI radio hosts demonstrate why AI can’t be trusted alone",
+      "description": "Andon Labs has been running a series of experiments in which AI agents run businesses without human intervention. Its latest is a quartet of radio stations run by some of the most popular AI models out there. \"Thinking Frequencies\" is run by Claude, \"OpenAIR\" by ChatGPT, \"Backlink Broadcast\" by Google's Gemini, and \"Grok and Roll [&#8230;]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258090_EOY_2025_CVirginia_PODCASTS.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-05-15T17:09:16.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Terrence O’Brien",
+      "tags": []
+    },
+    {
+      "id": "vcltuq",
+      "title": "Does Trump Mobile know how many stripes are on the American flag?",
+      "description": "Where's the Trump phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump phone's whereabouts. This week, despite our best hopes, we still don't have our phone - but we do have some fresh doubts about the company's patriotic credentials. This has been a momentous [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/931347/trump-mobile-t1-phone-logo-flag-stars-stripes",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/trump-mobile-t1-phone-video-packing-flag-stripes.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-05-15T16:47:16.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Dominic Preston",
+      "tags": []
+    },
+    {
+      "id": "7j22uc",
+      "title": "Google updates its spam rules to include attempts to ‘manipulate’ AI",
+      "description": "Google updated its spam policy to mark attempts to \"manipulate\" its AI model in search results as spam, including results in AI Overview or AI Mode in Search, as Search Engine Land reports: \"In the context of Google Search, spam refers to techniques used to deceive users or manipulate our Search systems into featuring content [&#8230;]",
+      "url": "https://www.theverge.com/tech/931416/google-ai-search-spam-policy",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK093_GOOGLE_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-05-15T16:42:59.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Stevie Bonifield",
+      "tags": []
+    }
+  ]
+}

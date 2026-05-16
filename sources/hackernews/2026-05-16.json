@@ -1,0 +1,72 @@
+{
+  "date": "2026-05-16",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "pp2hff",
+      "title": "Xbox Is Now XBOX",
+      "description": "Score: 7 | Comments: 0 | Posted by namiwang",
+      "url": "https://www.theverge.com/news/931918/microsoft-xbox-rebrand-caps",
+      "publishedAt": "2026-05-16T05:13:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "namiwang",
+      "tags": []
+    },
+    {
+      "id": "150b62",
+      "title": "California's Battery Array Is as Powerful as 12 Nuclear Power Plants",
+      "description": "Score: 3 | Comments: 0 | Posted by zingerlio",
+      "url": "https://zolairenergy.com/californias-battery-array-is-as-powerful-as-12-nuclear-power-plants-heres-whats-on-the-horizon/",
+      "publishedAt": "2026-05-16T03:42:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zingerlio",
+      "tags": []
+    },
+    {
+      "id": "v473rn",
+      "title": "Ploopy Bean: a trackpoint for every computerploopy.co",
+      "description": "Score: 70 | Comments: 28 | Posted by jibcage",
+      "url": "https://ploopy.co/shop/bean-pointing-stick/",
+      "publishedAt": "2026-05-16T01:54:01.611Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jibcage",
+      "tags": []
+    },
+    {
+      "id": "opfq44",
+      "title": "'No way to prevent this,' says only package manager where this regularly happens",
+      "description": "Score: 303 | Comments: 141 | Posted by alligatorplum",
+      "url": "https://kevinpatel.xyz/posts/no-way-to-prevent-this/",
+      "publishedAt": "2026-05-16T00:36:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "alligatorplum",
+      "tags": []
+    },
+    {
+      "id": "jqx06h",
+      "title": "Show HN: Epiq – Distributed Git based issue tracker TUI",
+      "description": "Score: 44 | Comments: 13 | Posted by jolaflow",
+      "url": "https://ljtn.github.io/epiq/",
+      "publishedAt": "2026-05-16T00:18:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jolaflow",
+      "tags": []
+    },
+    {
+      "id": "1rs5z9",
+      "title": "NYT and vaping: How to lie by saying only true things (2022)",
+      "description": "Score: 78 | Comments: 32 | Posted by Ariarule",
+      "url": "https://gwern.net/vaping",
+      "publishedAt": "2026-05-16T00:15:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Ariarule",
+      "tags": []
+    }
+  ]
+}
