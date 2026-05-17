@@ -1,0 +1,83 @@
+{
+  "date": "2026-05-17",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "o2uf2d",
+      "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
+      "description": "Score: 4 | Comments: 0 | Posted by WithinReason",
+      "url": "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/",
+      "publishedAt": "2026-05-17T06:17:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "WithinReason",
+      "tags": []
+    },
+    {
+      "id": "nn7z52",
+      "title": "Show HN: Codiff, a local diff review tool",
+      "description": "Score: 16 | Comments: 7 | Posted by cpojer",
+      "url": "https://github.com/nkzw-tech/codiff/releases",
+      "publishedAt": "2026-05-17T05:30:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cpojer",
+      "tags": []
+    },
+    {
+      "id": "g8cbcf",
+      "title": "Tesla Solar Roof is on life support as it pivot to panels",
+      "description": "Score: 52 | Comments: 33 | Posted by celsoazevedo",
+      "url": "https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels/",
+      "publishedAt": "2026-05-17T04:09:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "celsoazevedo",
+      "tags": []
+    },
+    {
+      "id": "h1hj16",
+      "title": "Grafana Labs internal source code accessed",
+      "description": "Score: 35 | Comments: 9 | Posted by jschorr",
+      "url": "https://twitter.com/grafana/status/2055827123236171827",
+      "publishedAt": "2026-05-17T03:48:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jschorr",
+      "tags": []
+    },
+    {
+      "id": "pktuik",
+      "title": "The latest X algorithm has been published to GitHub",
+      "description": "Score: 11 | Comments: 0 | Posted by guiambros",
+      "url": "https://twitter.com/elonmusk/status/2055277918633562153",
+      "publishedAt": "2026-05-17T03:31:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "guiambros",
+      "tags": []
+    },
+    {
+      "id": "j1bjl9",
+      "title": "Hosting a website on an 8-bit microcontroller",
+      "description": "Score: 102 | Comments: 5 | Posted by zdw",
+      "url": "https://maurycyz.com/projects/mcusite/",
+      "publishedAt": "2026-05-17T01:25:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "tx6j06",
+      "title": "Self-Distillation Enables Continual Learning [pdf]",
+      "description": "Score: 46 | Comments: 13 | Posted by teleforce",
+      "url": "https://arxiv.org/abs/2601.19897",
+      "publishedAt": "2026-05-17T01:19:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "teleforce",
+      "tags": []
+    }
+  ]
+}

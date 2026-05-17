@@ -1,0 +1,50 @@
+{
+  "date": "2026-05-17",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "150570 at https://www.blognone.com",
+      "title": "พบ EY Canada ใช้ LLM เขียนรายงานภัยไซเบอร์ อ้างรายงานที่ไม่มีจริง ล่าสุดถอนรายงานออกแล้ว",
+      "description": "พบ EY Canada ใช้ LLM เขียนรายงานภัยไซเบอร์ อ้างรายงานที่ไม่มีจริง ล่าสุดถอนรายงานออกแล้ว Body GPTZero บริการตรวจบทความที่ใช้ LLM",
+      "url": "https://www.blognone.com/node/150570",
+      "publishedAt": "2026-05-17T06:22:11.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150569 at https://www.blognone.com",
+      "title": "Android เพิ่มฟีเจอร์ล็อคเครื่อง 2 ชั้นจากระยะไกล โจรต้องใช้ทั้ง PIN และ Biometric ปลดล็อค",
+      "description": "Android เพิ่มฟีเจอร์ล็อคเครื่อง 2 ชั้นจากระยะไกล โจรต้องใช้ทั้ง PIN และ Biometric ปลดล็อค Body Android มีฟีเจอร์ช่วยป้องกันการโจรกรรมเครื่อง หรือ",
+      "url": "https://www.blognone.com/node/150569",
+      "publishedAt": "2026-05-17T05:51:22.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150568 at https://www.blognone.com",
+      "title": "มุ่งสู่เนทีฟ ไมโครซอฟท์โชว์ WinUI 3 ประสิทธิภาพดีขึ้นจาก WinUI 2 มาก",
+      "description": "มุ่งสู่เนทีฟ ไมโครซอฟท์โชว์ WinUI 3 ประสิทธิภาพดีขึ้นจาก WinUI 2 มาก Body จากที่ ไมโครซอฟท์ประกาศปรับปรุงคุณภาพ Windows 11 ครั้งใหญ่",
+      "url": "https://www.blognone.com/node/150568",
+      "publishedAt": "2026-05-17T02:38:19.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150567 at https://www.blognone.com",
+      "title": "Windows Update เพิ่มฟีเจอร์ Rollback ไดรเวอร์ที่มีปัญหา กลับเป็นเวอร์ชันเดิมอัตโนมัติ",
+      "description": "Windows Update เพิ่มฟีเจอร์ Rollback ไดรเวอร์ที่มีปัญหา กลับเป็นเวอร์ชันเดิมอัตโนมัติ Body Windows 11 เพิ่มความสามารถใหม่ที่ช่วย rollback",
+      "url": "https://www.blognone.com/node/150567",
+      "publishedAt": "2026-05-17T02:10:40.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}

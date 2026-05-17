@@ -47,6 +47,17 @@
       "tags": []
     },
     {
+      "id": "39hcxr",
+      "title": "Colossus: The Forbin Project",
+      "description": "Score: 75 | Comments: 8 | Posted by doener",
+      "url": "https://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project",
+      "publishedAt": "2026-05-14T22:30:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "doener",
+      "tags": []
+    },
+    {
       "id": "k5tgbe",
       "title": "A few words on DS4",
       "description": "Score: 267 | Comments: 100 | Posted by caust1c",
@@ -143,6 +154,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mikeevans",
+      "tags": []
+    },
+    {
+      "id": "3pppr0",
+      "title": "Illusions of Understanding in the Sciences",
+      "description": "Score: 27 | Comments: 7 | Posted by sebg",
+      "url": "https://link.springer.com/article/10.1007/s42113-026-00271-1",
+      "publishedAt": "2026-05-14T19:49:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sebg",
+      "tags": []
+    },
+    {
+      "id": "nw8k9d",
+      "title": "Why did Clovis toolmakers choose difficult quartz crystal?",
+      "description": "Score: 14 | Comments: 5 | Posted by PaulHoule",
+      "url": "https://phys.org/news/2026-04-clovis-toolmakers-difficult-quartz-crystal.html",
+      "publishedAt": "2026-05-14T18:43:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "PaulHoule",
       "tags": []
     },
     {
@@ -300,6 +333,28 @@
       "tags": []
     },
     {
+      "id": "j4l5zw",
+      "title": "The Third Hard Problem",
+      "description": "Score: 58 | Comments: 37 | Posted by surprisetalk",
+      "url": "https://mmapped.blog/posts/48-the-third-hard-problem",
+      "publishedAt": "2026-05-14T13:00:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
+      "id": "9xtplj",
+      "title": "Points are a weird and inconsistent unit of measure",
+      "description": "Score: 75 | Comments: 81 | Posted by danborn26",
+      "url": "https://buttondown.com/hillelwayne/archive/points-are-a-weird-and-inconsistent-unit-of/",
+      "publishedAt": "2026-05-14T12:32:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "danborn26",
+      "tags": []
+    },
+    {
       "id": "v88e1f",
       "title": "Research on mildew contamination affecting the sound quality of analog tapes",
       "description": "Score: 11 | Comments: 0 | Posted by crousto",
@@ -319,6 +374,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "Chaoses",
+      "tags": []
+    },
+    {
+      "id": "xgu5eo",
+      "title": "After 8 years, I rewrote my open-source PyTorch curvature library",
+      "description": "Score: 78 | Comments: 3 | Posted by noahgolmant",
+      "url": "https://github.com/noahgolmant/pytorch-hessian-eigenthings",
+      "publishedAt": "2026-05-14T07:36:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "noahgolmant",
       "tags": []
     },
     {
@@ -495,6 +561,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "meshko",
+      "tags": []
+    },
+    {
+      "id": "mswa4",
+      "title": "Fame! A Misunderstanding: A new translation of Albert Camus's complete notebooks",
+      "description": "Score: 47 | Comments: 10 | Posted by Caiero",
+      "url": "https://lareviewofbooks.org/article/albert-camus-complete-notebooks-ryan-bloom-existentialism-absurd/",
+      "publishedAt": "2026-05-14T00:30:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Caiero",
       "tags": []
     },
     {
