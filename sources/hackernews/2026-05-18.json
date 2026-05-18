@@ -1,0 +1,50 @@
+{
+  "date": "2026-05-18",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "jkouni",
+      "title": "Étienne Ghys: The Shape of Letters: From Leonardo da Vinci to Donald Knuth",
+      "description": "Score: 20 | Comments: 3 | Posted by tzury",
+      "url": "https://www.youtube.com/watch?v=1OIxzewWilc",
+      "publishedAt": "2026-05-18T04:38:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tzury",
+      "tags": []
+    },
+    {
+      "id": "x4y86k",
+      "title": "America's Most-Spoken Languages After English and Spanish",
+      "description": "Score: 40 | Comments: 6 | Posted by RyeCombinator",
+      "url": "https://www.visualcapitalist.com/mapped-americas-most-spoken-languages-after-english-and-spanish/",
+      "publishedAt": "2026-05-18T03:41:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "RyeCombinator",
+      "tags": []
+    },
+    {
+      "id": "lzcid",
+      "title": "It is time to give up the dualism introduced by the debate on consciousness",
+      "description": "Score: 32 | Comments: 101 | Posted by ahalbert4",
+      "url": "https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/",
+      "publishedAt": "2026-05-18T02:59:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ahalbert4",
+      "tags": []
+    },
+    {
+      "id": "i65w0z",
+      "title": "Reverse engineering Android malware from popular Chinese projectors",
+      "description": "Score: 32 | Comments: 5 | Posted by 3abiton",
+      "url": "https://zanestjohn.com/blog/reing-with-claude-code",
+      "publishedAt": "2026-05-18T00:36:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "3abiton",
+      "tags": []
+    }
+  ]
+}

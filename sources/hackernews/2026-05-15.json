@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "f04hj6",
+      "title": "Crystals found inside wreckage from the first nuclear bomb test",
+      "description": "Score: 34 | Comments: 6 | Posted by jumploops",
+      "url": "https://www.scientificamerican.com/article/strange-crystals-found-inside-wreckage-from-the-first-nuclear-bomb-test/",
+      "publishedAt": "2026-05-15T23:54:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jumploops",
+      "tags": []
+    },
+    {
       "id": "2t52eu",
       "title": "The main thing about P2P meth is that there's so much of it (2021)",
       "description": "Score: 105 | Comments: 98 | Posted by tomjakubowski",
@@ -33,6 +44,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "redbell",
+      "tags": []
+    },
+    {
+      "id": "wy19a3",
+      "title": "How diamonds are made",
+      "description": "Score: 91 | Comments: 59 | Posted by lemonberry",
+      "url": "https://diamond.jaydip.me/",
+      "publishedAt": "2026-05-15T23:18:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lemonberry",
       "tags": []
     },
     {
@@ -99,6 +121,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "Lihh27",
+      "tags": []
+    },
+    {
+      "id": "vt8x6c",
+      "title": "Ask an Astronaut: 333 hours of Q&A footage with astronauts",
+      "description": "Score: 116 | Comments: 9 | Posted by gaws",
+      "url": "https://askanastronaut.issinrealtime.org/",
+      "publishedAt": "2026-05-15T19:25:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gaws",
       "tags": []
     },
     {
@@ -190,6 +223,17 @@
       "tags": []
     },
     {
+      "id": "o7r9oa",
+      "title": "Jank now has its own custom IR",
+      "description": "Score: 110 | Comments: 10 | Posted by DASD",
+      "url": "https://jank-lang.org/blog/2026-05-08-optimization/",
+      "publishedAt": "2026-05-15T17:17:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "DASD",
+      "tags": []
+    },
+    {
       "id": "cz9w26",
       "title": "I designed a nibble-oriented CPU in Verilog to build a scientific calculator",
       "description": "Score: 99 | Comments: 33 | Posted by gdevic",
@@ -245,6 +289,17 @@
       "tags": []
     },
     {
+      "id": "e18swx",
+      "title": "Show HN: Mezz, a curl-able WiFi sandbox for IoT pentesting",
+      "description": "Score: 18 | Comments: 2 | Posted by ABGEO",
+      "url": "https://github.com/ABGEO/mezz",
+      "publishedAt": "2026-05-15T14:53:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ABGEO",
+      "tags": []
+    },
+    {
       "id": "hrwrjz",
       "title": "Additive Blending on the Nintendo 64",
       "description": "Score: 84 | Comments: 7 | Posted by ibobev",
@@ -253,6 +308,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ibobev",
+      "tags": []
+    },
+    {
+      "id": "wv6gm3",
+      "title": "The SGI Buyer's Guide (2003)",
+      "description": "Score: 21 | Comments: 9 | Posted by uticus",
+      "url": "https://hardware.majix.org/computers/sgi/buyers-guide.shtml",
+      "publishedAt": "2026-05-15T14:05:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "uticus",
       "tags": []
     },
     {
@@ -311,6 +377,17 @@
       "tags": []
     },
     {
+      "id": "8mmi29",
+      "title": "Mercurial, 20 years and counting: how are we still alive and kicking? [video]",
+      "description": "Score: 188 | Comments: 193 | Posted by ibobev",
+      "url": "https://fosdem.org/2026/schedule/event/AGWUVH-mercurial-aint-you-dead-yet/",
+      "publishedAt": "2026-05-15T11:39:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
+      "tags": []
+    },
+    {
       "id": "xaq5v5",
       "title": "Welcome to the Strip Mining Era of OSS Security",
       "description": "Score: 112 | Comments: 79 | Posted by salsakran",
@@ -319,6 +396,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "salsakran",
+      "tags": []
+    },
+    {
+      "id": "xlan8e",
+      "title": "Prolog Basics Explained with Pokémon",
+      "description": "Score: 249 | Comments: 38 | Posted by birdculture",
+      "url": "https://unplannedobsolescence.com/blog/prolog-basics-pokemon/",
+      "publishedAt": "2026-05-15T11:02:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "birdculture",
       "tags": []
     },
     {
