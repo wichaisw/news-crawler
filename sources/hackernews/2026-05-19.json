@@ -1,0 +1,138 @@
+{
+  "date": "2026-05-19",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "e6gq4",
+      "title": "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
+      "description": "Score: 11 | Comments: 0 | Posted by theanonymousone",
+      "url": "https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/",
+      "publishedAt": "2026-05-19T05:04:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "theanonymousone",
+      "tags": []
+    },
+    {
+      "id": "x2ip6w",
+      "title": "Mug Shots: A Small Town Noir (2014)",
+      "description": "Score: 3 | Comments: 0 | Posted by samclemens",
+      "url": "https://theappendix.net/issues/2014/4/mug-shots-a-small-town-noir",
+      "publishedAt": "2026-05-19T04:39:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "samclemens",
+      "tags": []
+    },
+    {
+      "id": "nl892l",
+      "title": "PyTorch Landscape",
+      "description": "Score: 23 | Comments: 1 | Posted by salamo",
+      "url": "https://pytorch.landscape2.io",
+      "publishedAt": "2026-05-19T04:29:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "salamo",
+      "tags": []
+    },
+    {
+      "id": "atx07h",
+      "title": "Codex-maxxing",
+      "description": "Score: 56 | Comments: 34 | Posted by dnw",
+      "url": "https://jxnl.co/writing/2026/05/10/codex-maxxing/",
+      "publishedAt": "2026-05-19T04:24:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dnw",
+      "tags": []
+    },
+    {
+      "id": "tposdg",
+      "title": "Show HN: Hsrs – Type-Safe Haskell Bindings Generator for Rust",
+      "description": "Score: 15 | Comments: 0 | Posted by suis_siva",
+      "url": "https://github.com/harmont-dev/hsrs",
+      "publishedAt": "2026-05-19T04:06:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "suis_siva",
+      "tags": []
+    },
+    {
+      "id": "b0dmt2",
+      "title": "Apple Silicon costs less than OpenRouter",
+      "description": "Score: 39 | Comments: 17 | Posted by rohansood15",
+      "url": "https://twitter.com/rohan_sood15/status/2056585919805714777",
+      "publishedAt": "2026-05-19T04:01:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rohansood15",
+      "tags": []
+    },
+    {
+      "id": "3xqs9m",
+      "title": "LLMCap – A proxy that hard-stops LLM API calls when you hit a dollar cap",
+      "description": "Score: 7 | Comments: 4 | Posted by cfaruk",
+      "url": "https://www.llmcap.io/",
+      "publishedAt": "2026-05-19T03:56:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cfaruk",
+      "tags": []
+    },
+    {
+      "id": "l2uabj",
+      "title": "Peter Neumann has died",
+      "description": "Score: 36 | Comments: 1 | Posted by pabs3",
+      "url": "https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html",
+      "publishedAt": "2026-05-19T03:17:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pabs3",
+      "tags": []
+    },
+    {
+      "id": "m80h3a",
+      "title": "Show HN: Clark-Browser – Stealth Chromium",
+      "description": "Score: 7 | Comments: 2 | Posted by stan_kirdey",
+      "url": "https://github.com/clark-labs-inc/clark-browser",
+      "publishedAt": "2026-05-19T03:09:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "stan_kirdey",
+      "tags": []
+    },
+    {
+      "id": "vc6zzb",
+      "title": "Sieve – scans Cursor/Claude chat history for leaked API keys",
+      "description": "Score: 12 | Comments: 1 | Posted by helpful_human",
+      "url": "https://apps.apple.com/us/app/sieve-secret-scanner/id6767409365?mt=12",
+      "publishedAt": "2026-05-19T03:06:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "helpful_human",
+      "tags": []
+    },
+    {
+      "id": "a6sz92",
+      "title": "Peter Salus has died",
+      "description": "Score: 111 | Comments: 8 | Posted by speckx",
+      "url": "https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html",
+      "publishedAt": "2026-05-19T02:56:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
+      "tags": []
+    },
+    {
+      "id": "aaxk4q",
+      "title": "The last six months in LLMs in five minutes",
+      "description": "Score: 288 | Comments: 172 | Posted by yakkomajuri",
+      "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
+      "publishedAt": "2026-05-19T01:30:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "yakkomajuri",
+      "tags": []
+    }
+  ]
+}

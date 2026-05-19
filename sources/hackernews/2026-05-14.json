@@ -344,6 +344,17 @@
       "tags": []
     },
     {
+      "id": "c2lvq2",
+      "title": "Regex Chess: A 2-ply minimax chess engine in 84,688 regular expressions",
+      "description": "Score: 96 | Comments: 19 | Posted by surprisetalk",
+      "url": "https://nicholas.carlini.com/writing/2025/regex-chess.html",
+      "publishedAt": "2026-05-14T15:30:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
       "id": "nupdqn",
       "title": "Naturally Occurring Quasicrystals",
       "description": "Score: 89 | Comments: 8 | Posted by lukeplato",

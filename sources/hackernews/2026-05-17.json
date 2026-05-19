@@ -146,6 +146,17 @@
       "tags": []
     },
     {
+      "id": "gh6z9q",
+      "title": "Coding on Paper",
+      "description": "Score: 68 | Comments: 19 | Posted by owickstrom",
+      "url": "https://wickstrom.tech/2026-05-16-coding-on-paper.html",
+      "publishedAt": "2026-05-17T13:29:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "owickstrom",
+      "tags": []
+    },
+    {
       "id": "qc0zvy",
       "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
       "description": "Score: 332 | Comments: 148 | Posted by tech4bot",
@@ -223,6 +234,28 @@
       "tags": []
     },
     {
+      "id": "97c5j0",
+      "title": "When can the C++ compiler devirtualize a call?",
+      "description": "Score: 52 | Comments: 12 | Posted by lionkor",
+      "url": "https://quuxplusone.github.io/blog/2021/02/15/devirtualization/",
+      "publishedAt": "2026-05-17T08:58:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lionkor",
+      "tags": []
+    },
+    {
+      "id": "903lmm",
+      "title": "Polypad",
+      "description": "Score: 6 | Comments: 1 | Posted by ivank",
+      "url": "https://polypad.amplify.com/",
+      "publishedAt": "2026-05-17T07:20:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ivank",
+      "tags": []
+    },
+    {
       "id": "o2uf2d",
       "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
       "description": "Score: 4 | Comments: 0 | Posted by WithinReason",
@@ -253,6 +286,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "celsoazevedo",
+      "tags": []
+    },
+    {
+      "id": "cr9i3z",
+      "title": "Anyone on the Internet Can Ring Your Doorbell",
+      "description": "Score: 82 | Comments: 45 | Posted by jrdres",
+      "url": "https://www.abgeo.dev/blog/anyone-can-ring-your-doorbell",
+      "publishedAt": "2026-05-17T03:59:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jrdres",
       "tags": []
     },
     {
@@ -289,6 +333,17 @@
       "tags": []
     },
     {
+      "id": "e94uvl",
+      "title": "The lasting influence of Netscape Time",
+      "description": "Score: 4 | Comments: 0 | Posted by zdw",
+      "url": "https://thehistoryoftheweb.com/the-lasting-influence-of-netscape-time/",
+      "publishedAt": "2026-05-17T01:22:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
       "id": "tx6j06",
       "title": "Self-Distillation Enables Continual Learning [pdf]",
       "description": "Score: 46 | Comments: 13 | Posted by teleforce",
@@ -297,6 +352,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "teleforce",
+      "tags": []
+    },
+    {
+      "id": "sojvn4",
+      "title": "Make ZIP files smaller with ZIP Shrinker",
+      "description": "Score: 9 | Comments: 1 | Posted by zdw",
+      "url": "https://evanhahn.com/make-zip-files-smaller-with-zip-shrinker/",
+      "publishedAt": "2026-05-17T00:26:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
       "tags": []
     }
   ]

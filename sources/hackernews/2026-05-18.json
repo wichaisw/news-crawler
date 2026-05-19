@@ -3,6 +3,237 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "edj93f",
+      "title": "Pope Leo XIV’s first encyclical Magnifica humanitas to be published May 25",
+      "description": "Score: 197 | Comments: 110 | Posted by cucho",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html",
+      "publishedAt": "2026-05-18T23:18:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cucho",
+      "tags": []
+    },
+    {
+      "id": "5afvx8",
+      "title": "Click (2016)",
+      "description": "Score: 275 | Comments: 68 | Posted by andrewzeno",
+      "url": "https://clickclickclick.click/",
+      "publishedAt": "2026-05-18T23:03:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andrewzeno",
+      "tags": []
+    },
+    {
+      "id": "tx0mus",
+      "title": "Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment",
+      "description": "Score: 48 | Comments: 18 | Posted by anigbrowl",
+      "url": "https://arxiv.org/abs/2601.10160",
+      "publishedAt": "2026-05-18T21:29:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "anigbrowl",
+      "tags": []
+    },
+    {
+      "id": "4o54oe",
+      "title": "The FBI Wants to Buy Nationwide Access to License Plate Readers",
+      "description": "Score: 274 | Comments: 109 | Posted by cdrnsf",
+      "url": "https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-readers/",
+      "publishedAt": "2026-05-18T19:28:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cdrnsf",
+      "tags": []
+    },
+    {
+      "id": "pr9334",
+      "title": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
+      "description": "Score: 151 | Comments: 35 | Posted by veqq",
+      "url": "https://hyperpolyglot.org/lisp",
+      "publishedAt": "2026-05-18T19:27:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "veqq",
+      "tags": []
+    },
+    {
+      "id": "dj7d9r",
+      "title": "Loopmaster – Livecoding Music IDE",
+      "description": "Score: 95 | Comments: 25 | Posted by stagas",
+      "url": "https://loopmaster.xyz/",
+      "publishedAt": "2026-05-18T18:44:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "stagas",
+      "tags": []
+    },
+    {
+      "id": "c07b6o",
+      "title": "Agora-1: The Multi-Agent World Model",
+      "description": "Score: 102 | Comments: 18 | Posted by olivercameron",
+      "url": "https://odyssey.ml/introducing-agora-1",
+      "publishedAt": "2026-05-18T18:43:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "olivercameron",
+      "tags": []
+    },
+    {
+      "id": "h9xx0k",
+      "title": "We let AIs run radio stations",
+      "description": "Score: 235 | Comments: 197 | Posted by lukaspetersson",
+      "url": "https://andonlabs.com/blog/andon-fm",
+      "publishedAt": "2026-05-18T18:12:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lukaspetersson",
+      "tags": []
+    },
+    {
+      "id": "903r34",
+      "title": "Cutting inference cold starts by 40x with LP, FUSE, C/R, and CUDA-checkpoint",
+      "description": "Score: 81 | Comments: 18 | Posted by charles_irl",
+      "url": "https://modal.com/blog/truly-serverless-gpus",
+      "publishedAt": "2026-05-18T17:56:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "charles_irl",
+      "tags": []
+    },
+    {
+      "id": "f6khf1",
+      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+      "description": "Score: 914 | Comments: 452 | Posted by nycdatasci",
+      "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+      "publishedAt": "2026-05-18T17:38:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nycdatasci",
+      "tags": []
+    },
+    {
+      "id": "iyd41c",
+      "title": "Iran starts Bitcoin-backed ship insurance for Hormuz strait",
+      "description": "Score: 306 | Comments: 524 | Posted by srameshc",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait",
+      "publishedAt": "2026-05-18T17:25:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "srameshc",
+      "tags": []
+    },
+    {
+      "id": "gwdz31",
+      "title": "Cursor Introduces Composer 2.5",
+      "description": "Score: 106 | Comments: 61 | Posted by asar",
+      "url": "https://cursor.com/blog/composer-2-5",
+      "publishedAt": "2026-05-18T17:20:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "asar",
+      "tags": []
+    },
+    {
+      "id": "ra9wiz",
+      "title": "Anthropic acquires Stainless",
+      "description": "Score: 426 | Comments: 289 | Posted by tomeraberbach",
+      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+      "publishedAt": "2026-05-18T17:01:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tomeraberbach",
+      "tags": []
+    },
+    {
+      "id": "rw3cn9",
+      "title": "Show HN: InsForge – Open-source Heroku for coding agents",
+      "description": "Score: 44 | Comments: 6 | Posted by mrcoldbrew",
+      "url": "https://github.com/InsForge/InsForge",
+      "publishedAt": "2026-05-18T15:40:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mrcoldbrew",
+      "tags": []
+    },
+    {
+      "id": "hl2078",
+      "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
+      "description": "Score: 460 | Comments: 216 | Posted by ildari",
+      "url": "https://archestra.ai/blog/only-responsible-ai",
+      "publishedAt": "2026-05-18T15:24:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ildari",
+      "tags": []
+    },
+    {
+      "id": "cvttrc",
+      "title": "1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries",
+      "description": "Score: 136 | Comments: 81 | Posted by exploraz",
+      "url": "https://github.com/2b2tplace/1m_release",
+      "publishedAt": "2026-05-18T14:13:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "exploraz",
+      "tags": []
+    },
+    {
+      "id": "kju5wh",
+      "title": "Project Glasswing: what Mythos showed us",
+      "description": "Score: 323 | Comments: 125 | Posted by Fysi",
+      "url": "https://blog.cloudflare.com/cyber-frontier-models/",
+      "publishedAt": "2026-05-18T13:37:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Fysi",
+      "tags": []
+    },
+    {
+      "id": "7x316u",
+      "title": "Show HN: Files.md – Open-source alternative to Obsidian",
+      "description": "Score: 619 | Comments: 303 | Posted by zakirullin",
+      "url": "https://github.com/zakirullin/files.md",
+      "publishedAt": "2026-05-18T13:33:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zakirullin",
+      "tags": []
+    },
+    {
+      "id": "t0nnes",
+      "title": "AI eats the world (Spring 26) [pdf]",
+      "description": "Score: 204 | Comments: 113 | Posted by topherjaynes",
+      "url": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf",
+      "publishedAt": "2026-05-18T12:49:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "topherjaynes",
+      "tags": []
+    },
+    {
+      "id": "apdwe1",
+      "title": "Voice AI Systems Are Vulnerable to Hidden Audio Attacks",
+      "description": "Score: 117 | Comments: 30 | Posted by SVI",
+      "url": "https://spectrum.ieee.org/voice-ai-audio-attacks",
+      "publishedAt": "2026-05-18T11:51:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "SVI",
+      "tags": []
+    },
+    {
+      "id": "7yyzcm",
+      "title": "Earth's Radio Bubble: Every signal we've ever sent into space",
+      "description": "Score: 65 | Comments: 34 | Posted by jonbaer",
+      "url": "https://www.thescientificdrop.com/2026/05/earths-radio-bubble-every-signal-weve.html",
+      "publishedAt": "2026-05-18T08:36:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jonbaer",
+      "tags": []
+    },
+    {
       "id": "jkouni",
       "title": "Étienne Ghys: The Shape of Letters: From Leonardo da Vinci to Donald Knuth",
       "description": "Score: 20 | Comments: 3 | Posted by tzury",
@@ -44,6 +275,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "3abiton",
+      "tags": []
+    },
+    {
+      "id": "l1hanm",
+      "title": "Designing an FPGA Calculator from Scratch",
+      "description": "Score: 62 | Comments: 5 | Posted by zdw",
+      "url": "https://baltazarstudios.com/calculator/",
+      "publishedAt": "2026-05-18T00:26:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
       "tags": []
     }
   ]
