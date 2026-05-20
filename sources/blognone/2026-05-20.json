@@ -1,0 +1,84 @@
+{
+  "date": "2026-05-20",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "150618 at https://www.blognone.com",
+      "title": "Sony เปิดตัวหูฟังรุ่นพิเศษ 1000X The Collexion ฉลองครบรอบสิบปีซีรีส์ 1000X",
+      "description": "Sony เปิดตัวหูฟังรุ่นพิเศษ 1000X The Collexion ฉลองครบรอบสิบปีซีรีส์ 1000X Body Sony เปิดตัวหูฟังเฮดโฟนไร้สายรุ่นพิเศษฉลองครบรอบ 10 ปี เฮดโฟนตระกูล",
+      "url": "https://www.blognone.com/node/150618",
+      "publishedAt": "2026-05-20T06:22:54.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150617 at https://www.blognone.com",
+      "title": "Andrej Karpathy ผู้ร่วมก่อตั้ง OpenAI ประกาศเข้าทำงานกับ Anthropic",
+      "description": "Andrej Karpathy ผู้ร่วมก่อตั้ง OpenAI ประกาศเข้าทำงานกับ Anthropic Body Andrej Karpathy หนึ่งในผู้ร่วมก่อตั้ง OpenAI และโด่งดังจากการเป็น ผู้คิดคำว่า",
+      "url": "https://www.blognone.com/node/150617",
+      "publishedAt": "2026-05-20T02:48:00.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150610 at https://www.blognone.com",
+      "title": "NVIDIA ส่งมอบซีพียู Vera ชุดแรกให้ลูกค้าบริษัท AI แบบถึงมือแล้ว",
+      "description": "NVIDIA ส่งมอบซีพียู Vera ชุดแรกให้ลูกค้าบริษัท AI แบบถึงมือแล้ว Body NVIDIA เริ่มส่งมอบ ซีพียู Vera ชุดแรกให้กับลูกค้ารายสำคัญแบบส่งกับมือถึงที่",
+      "url": "https://www.blognone.com/node/150610",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2026/2026-05/dsc05066-960x540.jpg",
+      "publishedAt": "2026-05-20T01:04:02.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150616 at https://www.blognone.com",
+      "title": "Google Workspace ออกแอปใหม่ Google Pics ไว้สร้างรูปภาพจาก AI ที่แก้ไขเพิ่มเติมง่ายขึ้น",
+      "description": "Google Workspace ออกแอปใหม่ Google Pics ไว้สร้างรูปภาพจาก AI ที่แก้ไขเพิ่มเติมง่ายขึ้น Body กูเกิลเปิดตัวแอปใหม่สำหรับลูกค้า Workspace",
+      "url": "https://www.blognone.com/node/150616",
+      "publishedAt": "2026-05-20T01:02:01.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150615 at https://www.blognone.com",
+      "title": "Gemini ปรับดีไซน์แอปใหม่ให้ลื่นไหลมีชีวิตชีวามากขึ้น, รวมหน้าแชทและ Gemini Live ในที่เดียว",
+      "description": "Gemini ปรับดีไซน์แอปใหม่ให้ลื่นไหลมีชีวิตชีวามากขึ้น, รวมหน้าแชทและ Gemini Live ในที่เดียว Body กูเกิลประกาศปรับปรุงแอป Gemini ครั้งใหญ่",
+      "url": "https://www.blognone.com/node/150615",
+      "publishedAt": "2026-05-20T00:50:09.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150614 at https://www.blognone.com",
+      "title": "Gemini เปลี่ยนวิธีคำนวณลิมิตใช้งานเป็น compute-based ตามความซับซ้อนของ prompt",
+      "description": "Gemini เปลี่ยนวิธีคำนวณลิมิตใช้งานเป็น compute-based ตามความซับซ้อนของ prompt Body นอกจากประกาศเพิ่มแพ็คเกจใหม่ Google AI Ultra ราคา 100 ดอลลาร์ แล้ว",
+      "url": "https://www.blognone.com/node/150614",
+      "publishedAt": "2026-05-20T00:27:30.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150613 at https://www.blognone.com",
+      "title": "Gemini Omni โมเดลใหม่ล่าสุด สร้างวิดีโอและผลลัพธ์อื่นจากอินพุทผสมผสาน ควบคุมได้มากขึ้น",
+      "description": "Gemini Omni โมเดลใหม่ล่าสุด สร้างวิดีโอและผลลัพธ์อื่นจากอินพุทผสมผสาน ควบคุมได้มากขึ้น Body กูเกิลเปิดตัว Gemini Omni",
+      "url": "https://www.blognone.com/node/150613",
+      "publishedAt": "2026-05-20T00:02:09.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}
