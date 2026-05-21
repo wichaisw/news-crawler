@@ -1,0 +1,50 @@
+{
+  "date": "2026-05-21",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "o7cp86",
+      "title": "OpenAI to confidentially file for IPO as soon as Friday",
+      "description": "Score: 121 | Comments: 64 | Posted by doppp",
+      "url": "https://www.cnbc.com/2026/05/20/openai-ipo-filing.html",
+      "publishedAt": "2026-05-21T02:24:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "doppp",
+      "tags": []
+    },
+    {
+      "id": "mxklhl",
+      "title": "Haskell Foundation 2026 Update",
+      "description": "Score: 86 | Comments: 14 | Posted by azhenley",
+      "url": "https://discourse.haskell.org/t/haskell-foundation-2026-update/14136",
+      "publishedAt": "2026-05-21T02:13:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "azhenley",
+      "tags": []
+    },
+    {
+      "id": "tug4tv",
+      "title": "What is a Demand Coop",
+      "description": "Score: 52 | Comments: 54 | Posted by DeonRob",
+      "url": "https://cahootzcoops.com/blog/what-is-a-demand-coop",
+      "publishedAt": "2026-05-21T01:20:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "DeonRob",
+      "tags": []
+    },
+    {
+      "id": "c50yur",
+      "title": "Intuit to lay off over 3k employees to refocus on AI",
+      "description": "Score: 170 | Comments: 111 | Posted by wapasta",
+      "url": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
+      "publishedAt": "2026-05-21T00:36:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wapasta",
+      "tags": []
+    }
+  ]
+}

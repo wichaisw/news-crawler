@@ -25,6 +25,17 @@
       "tags": []
     },
     {
+      "id": "tlbu6f",
+      "title": "LoRA and Weight Decay (2023)",
+      "description": "Score: 37 | Comments: 1 | Posted by jxmorris12",
+      "url": "https://irhum.github.io/blog/lorawd/",
+      "publishedAt": "2026-05-18T22:33:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jxmorris12",
+      "tags": []
+    },
+    {
       "id": "tx0mus",
       "title": "Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment",
       "description": "Score: 48 | Comments: 18 | Posted by anigbrowl",
@@ -44,6 +55,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "surprisetalk",
+      "tags": []
+    },
+    {
+      "id": "byzc7q",
+      "title": "Recreate famous water profiles using supermarket bottled water",
+      "description": "Score: 29 | Comments: 13 | Posted by smugglerFlynn",
+      "url": "https://www.waterdictionary.net",
+      "publishedAt": "2026-05-18T19:51:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "smugglerFlynn",
       "tags": []
     },
     {
@@ -91,6 +113,28 @@
       "tags": []
     },
     {
+      "id": "jb8r6t",
+      "title": "A Markdown-based test suite",
+      "description": "Score: 29 | Comments: 7 | Posted by zdw",
+      "url": "https://blogsystem5.substack.com/p/markdown-based-test-suite",
+      "publishedAt": "2026-05-18T18:38:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "yzhdtt",
+      "title": "Simulating Infinity in Conway's Game of Life with Modern C++",
+      "description": "Score: 19 | Comments: 1 | Posted by HeliumHydride",
+      "url": "https://ryanjk5.github.io/posts/GOLDE/",
+      "publishedAt": "2026-05-18T18:29:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "HeliumHydride",
+      "tags": []
+    },
+    {
       "id": "h9xx0k",
       "title": "We let AIs run radio stations",
       "description": "Score: 235 | Comments: 197 | Posted by lukaspetersson",
@@ -99,6 +143,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "lukaspetersson",
+      "tags": []
+    },
+    {
+      "id": "huq00c",
+      "title": "Your Most Improbable Life",
+      "description": "Score: 91 | Comments: 64 | Posted by jger15",
+      "url": "https://kevinkelly.substack.com/p/your-most-improbable-life",
+      "publishedAt": "2026-05-18T18:04:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jger15",
       "tags": []
     },
     {
@@ -190,6 +245,17 @@
       "tags": []
     },
     {
+      "id": "dc60gc",
+      "title": "Show HN: I made a tactical map-based WWII submarine simulator (public beta)",
+      "description": "Score: 13 | Comments: 10 | Posted by epaga",
+      "url": "https://silentshark.app/alpha/",
+      "publishedAt": "2026-05-18T15:08:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "epaga",
+      "tags": []
+    },
+    {
       "id": "cvttrc",
       "title": "1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries",
       "description": "Score: 136 | Comments: 81 | Posted by exploraz",
@@ -198,6 +264,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "exploraz",
+      "tags": []
+    },
+    {
+      "id": "smv7al",
+      "title": "Sharla Boehm, the programmer whose code underpins the Internet",
+      "description": "Score: 123 | Comments: 28 | Posted by dxs",
+      "url": "https://www.scientificamerican.com/article/the-programmer-whose-code-underpins-the-internet/",
+      "publishedAt": "2026-05-18T14:10:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dxs",
       "tags": []
     },
     {
@@ -289,6 +366,17 @@
       "tags": []
     },
     {
+      "id": "voqtjn",
+      "title": "Reviving old scanners with an in-browser Linux VM bridged to WebUSB over USB/IP",
+      "description": "Score: 53 | Comments: 17 | Posted by gmac",
+      "url": "https://yes-we-scan.app/details",
+      "publishedAt": "2026-05-18T10:08:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gmac",
+      "tags": []
+    },
+    {
       "id": "7yyzcm",
       "title": "Earth's Radio Bubble: Every signal we've ever sent into space",
       "description": "Score: 65 | Comments: 34 | Posted by jonbaer",
@@ -308,6 +396,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "Antibabelic",
+      "tags": []
+    },
+    {
+      "id": "ublnui",
+      "title": "Nobody understands the point of hybrid cars [video]",
+      "description": "Score: 176 | Comments: 177 | Posted by CHB0403085482",
+      "url": "https://www.youtube.com/watch?v=KnUFH5GX_fI",
+      "publishedAt": "2026-05-18T06:27:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "CHB0403085482",
       "tags": []
     },
     {
@@ -352,6 +451,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ahalbert4",
+      "tags": []
+    },
+    {
+      "id": "7ukdgu",
+      "title": "How fast is N tokens per second really?",
+      "description": "Score: 383 | Comments: 77 | Posted by hexagr",
+      "url": "https://mikeveerman.github.io/tokenspeed/",
+      "publishedAt": "2026-05-18T02:04:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hexagr",
       "tags": []
     },
     {
