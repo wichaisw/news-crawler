@@ -3,6 +3,50 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "150639 at https://www.blognone.com",
+      "title": "สิ้นยุค Firefox ปิดการทำงาน asm.js เตรียมถอดโค้ดออกทั้งหมด",
+      "description": "สิ้นยุค Firefox ปิดการทำงาน asm.js เตรียมถอดโค้ดออกทั้งหมด Body Ryan Hunt จากโครงการ SpiderMonkey เอนจินจาวาสคริปต์ของ Mozilla เขียนถึง Firefox 148",
+      "url": "https://www.blognone.com/node/150639",
+      "publishedAt": "2026-05-21T15:51:50.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150638 at https://www.blognone.com",
+      "title": "Waymo หยุดให้บริการรถแท็กซี่อัตโนมัติใน 2 เมือง หลังเจอปัญหารถหยุดเมื่อเจอน้ำท่วม",
+      "description": "Waymo หยุดให้บริการรถแท็กซี่อัตโนมัติใน 2 เมือง หลังเจอปัญหารถหยุดเมื่อเจอน้ำท่วม Body Waymo ประกาศหยุดให้บริการรถแท็กซี่อัตโนมัติใน 2",
+      "url": "https://www.blognone.com/node/150638",
+      "publishedAt": "2026-05-21T15:30:46.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150637 at https://www.blognone.com",
+      "title": "กูเกิลเปิดตัวโฆษณาในหน้า AI Mode ของ Search อีก 2 แบบ ชวนคุยพร้อมแนะนำสินค้า",
+      "description": "กูเกิลเปิดตัวโฆษณาในหน้า AI Mode ของ Search อีก 2 แบบ ชวนคุยพร้อมแนะนำสินค้า Body ในยุคที่ AI ตอบคำถามแทน search",
+      "url": "https://www.blognone.com/node/150637",
+      "publishedAt": "2026-05-21T15:17:07.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150635 at https://www.blognone.com",
+      "title": "OpenAI ประกาศลงทุน 300 ล้านดอลลาร์สิงคโปร์ เพื่อส่งเสริมนวัตกรรม AI ในสิงคโปร์",
+      "description": "OpenAI ประกาศลงทุน 300 ล้านดอลลาร์สิงคโปร์ เพื่อส่งเสริมนวัตกรรม AI ในสิงคโปร์ Body OpenAI ประกาศโครงการ \"OpenAI for Singapore\"",
+      "url": "https://www.blognone.com/node/150635",
+      "publishedAt": "2026-05-21T15:05:53.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "150631 at https://www.blognone.com",
       "title": "[ไม่ยืนยัน] OpenAI เตรียมยื่นไฟลิ่งเพื่อนำบริษัทไอพีโอเข้าตลาดหุ้น ภายในสัปดาห์นี้",
       "description": "[ไม่ยืนยัน] OpenAI เตรียมยื่นไฟลิ่งเพื่อนำบริษัทไอพีโอเข้าตลาดหุ้น ภายในสัปดาห์นี้ Body The Wall Street Journal อ้างแหล่งข่าวที่เกี่ยวข้องระบุว่า",

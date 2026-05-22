@@ -25,6 +25,17 @@
       "tags": []
     },
     {
+      "id": "zhdp6x",
+      "title": "What Is Happening to Publishing?",
+      "description": "Score: 75 | Comments: 56 | Posted by benbreen",
+      "url": "https://resobscura.substack.com/p/what-is-happening-to-publishing",
+      "publishedAt": "2026-05-19T20:23:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "benbreen",
+      "tags": []
+    },
+    {
       "id": "xzhro4",
       "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
       "description": "Score: 262 | Comments: 134 | Posted by smooke",
@@ -99,6 +110,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "berkeleyjunk",
+      "tags": []
+    },
+    {
+      "id": "g5q7it",
+      "title": "Deciphering the Hashihara Castle Town Map",
+      "description": "Score: 41 | Comments: 0 | Posted by 1970-01-01",
+      "url": "https://www.obayashi.co.jp/en/kikan_obayashi/detail/kikan_64_project.html",
+      "publishedAt": "2026-05-19T18:04:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "1970-01-01",
       "tags": []
     },
     {
@@ -212,6 +234,28 @@
       "tags": []
     },
     {
+      "id": "1sniua",
+      "title": "Tristan Davey's Punch Card Archive",
+      "description": "Score: 25 | Comments: 4 | Posted by ohjeez",
+      "url": "https://punchcards.tristandavey.com/",
+      "publishedAt": "2026-05-19T14:39:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ohjeez",
+      "tags": []
+    },
+    {
+      "id": "vtw649",
+      "title": "The <Noscript> Element as a Trap",
+      "description": "Score: 13 | Comments: 7 | Posted by speckx",
+      "url": "https://hacktivis.me/articles/no-noscript-element",
+      "publishedAt": "2026-05-19T13:48:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
+      "tags": []
+    },
+    {
       "id": "gx6zep",
       "title": "OpenBSD 7.9",
       "description": "Score: 387 | Comments: 281 | Posted by bradley_taunt",
@@ -220,6 +264,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "bradley_taunt",
+      "tags": []
+    },
+    {
+      "id": "a58sil",
+      "title": "The death of the brick and mortar toy store",
+      "description": "Score: 69 | Comments: 61 | Posted by speckx",
+      "url": "https://brainbaking.com/post/2026/05/the-death-of-the-brick-and-mortar-toy-store/",
+      "publishedAt": "2026-05-19T12:48:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
       "tags": []
     },
     {
@@ -264,6 +319,39 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "LelouBil",
+      "tags": []
+    },
+    {
+      "id": "5r8bc5",
+      "title": "Mounting git commits as folders with NFS (2023)",
+      "description": "Score: 101 | Comments: 46 | Posted by pvtmert",
+      "url": "https://jvns.ca/blog/2023/12/04/mounting-git-commits-as-folders-with-nfs/",
+      "publishedAt": "2026-05-19T07:32:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pvtmert",
+      "tags": []
+    },
+    {
+      "id": "dol9me",
+      "title": "Thoughts on People and Blogs",
+      "description": "Score: 36 | Comments: 6 | Posted by meysamazad",
+      "url": "https://afranca.com.br/thoughts-on-people-and-blogs/",
+      "publishedAt": "2026-05-19T07:17:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "meysamazad",
+      "tags": []
+    },
+    {
+      "id": "82f5rw",
+      "title": "Fender escalates legal campaign against S-style guitars",
+      "description": "Score: 112 | Comments: 108 | Posted by rectang",
+      "url": "https://www.guitarworld.com/gear/electric-guitars/fender-cease-and-desist-lsl-instruments",
+      "publishedAt": "2026-05-19T05:28:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rectang",
       "tags": []
     },
     {
