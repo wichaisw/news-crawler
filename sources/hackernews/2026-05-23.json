@@ -1,0 +1,50 @@
+{
+  "date": "2026-05-23",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "js11p1",
+      "title": "Nvidia Removes Gaming Revenue Category from Financial Reports",
+      "description": "Score: 4 | Comments: 1 | Posted by theanonymousone",
+      "url": "https://www.guru3d.com/story/nvidia-removes-gaming-revenue-category-from-financial-reports/",
+      "publishedAt": "2026-05-23T05:50:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "theanonymousone",
+      "tags": []
+    },
+    {
+      "id": "fxpjp7",
+      "title": "White House ordering agencies to place its new app on all employees' govt phones",
+      "description": "Score: 11 | Comments: 4 | Posted by mikhael",
+      "url": "https://www.govexec.com/management/2026/05/white-house-ordering-agencies-place-its-new-app-all-employees-government-phones/413738/",
+      "publishedAt": "2026-05-23T05:28:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mikhael",
+      "tags": []
+    },
+    {
+      "id": "rjg77d",
+      "title": "The Making of Indian Statistics",
+      "description": "Score: 12 | Comments: 0 | Posted by trojanalert",
+      "url": "https://altermag.com/articles/the-making-of-indian-statistics",
+      "publishedAt": "2026-05-23T03:48:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "trojanalert",
+      "tags": []
+    },
+    {
+      "id": "x7qmrd",
+      "title": "FBI director's Based Apparel site has been spotted hosting a 'ClickFix' attack",
+      "description": "Score: 120 | Comments: 35 | Posted by bilalq",
+      "url": "https://www.pcmag.com/news/kash-patels-apparel-site-is-trying-to-trick-visitors-into-installing-malware",
+      "publishedAt": "2026-05-23T00:34:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bilalq",
+      "tags": []
+    }
+  ]
+}
