@@ -1,0 +1,127 @@
+{
+  "date": "2026-05-24",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "eqcy3n",
+      "title": "Local LLMs perform better when you teach them to ask before they answer",
+      "description": "Score: 5 | Comments: 3 | Posted by froh",
+      "url": "https://www.xda-developers.com/local-llm-clarifying-questions-system-prompt/",
+      "publishedAt": "2026-05-24T06:40:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "froh",
+      "tags": []
+    },
+    {
+      "id": "cqw31d",
+      "title": "Limerick",
+      "description": "Score: 6 | Comments: 1 | Posted by jruohonen",
+      "url": "https://www.worldwidewords.org/surprise.html",
+      "publishedAt": "2026-05-24T05:29:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jruohonen",
+      "tags": []
+    },
+    {
+      "id": "vgg19n",
+      "title": "Amazon Web Services – Four Years and Out",
+      "description": "Score: 144 | Comments: 22 | Posted by RyeCombinator",
+      "url": "https://www.adventuresinoss.com/aws-four-years/",
+      "publishedAt": "2026-05-24T04:51:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "RyeCombinator",
+      "tags": []
+    },
+    {
+      "id": "uh6fwq",
+      "title": "'Fuck you, Bambu': How one private message could change the face of 3D printing",
+      "description": "Score: 77 | Comments: 37 | Posted by tambourine_man",
+      "url": "https://www.theverge.com/tech/931532/bambu-agpl-pawel-jarczak-open-source-threat-dmca-github",
+      "publishedAt": "2026-05-24T04:22:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tambourine_man",
+      "tags": []
+    },
+    {
+      "id": "dj1bpy",
+      "title": "Why Is Vivado 2026.1 Dropping Linux Support for Free Tier?",
+      "description": "Score: 80 | Comments: 14 | Posted by zdw",
+      "url": "https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US",
+      "publishedAt": "2026-05-24T04:14:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "bc2xf6",
+      "title": "The C64 Dead Test Font",
+      "description": "Score: 16 | Comments: 2 | Posted by masswerk",
+      "url": "https://www.masswerk.at/nowgobang/2026/c64-dead-test-font",
+      "publishedAt": "2026-05-24T03:57:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "masswerk",
+      "tags": []
+    },
+    {
+      "id": "ptqh6a",
+      "title": "Alexander Grothendieck Revolutionized 20th-Century Mathematics",
+      "description": "Score: 38 | Comments: 6 | Posted by anujbans",
+      "url": "https://www.quantamagazine.org/how-alexander-grothendieck-revolutionized-20th-century-mathematics-20260520/",
+      "publishedAt": "2026-05-24T03:19:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "anujbans",
+      "tags": []
+    },
+    {
+      "id": "m70m58",
+      "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
+      "description": "Score: 182 | Comments: 37 | Posted by DamnInteresting",
+      "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
+      "publishedAt": "2026-05-24T01:21:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "DamnInteresting",
+      "tags": []
+    },
+    {
+      "id": "7ezpiq",
+      "title": "Scammers are abusing an internal Microsoft account to send spam links",
+      "description": "Score: 114 | Comments: 30 | Posted by spike021",
+      "url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
+      "publishedAt": "2026-05-24T00:51:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "spike021",
+      "tags": []
+    },
+    {
+      "id": "96l5nf",
+      "title": "Wake up! 16b",
+      "description": "Score: 166 | Comments: 11 | Posted by MaximilianEmel",
+      "url": "https://hellmood.111mb.de/wake_up_16b_writeup.html",
+      "publishedAt": "2026-05-24T00:30:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "MaximilianEmel",
+      "tags": []
+    },
+    {
+      "id": "nrdut9",
+      "title": "API proposed by Chrome: Declarative partial updates",
+      "description": "Score: 28 | Comments: 14 | Posted by theanonymousone",
+      "url": "https://developer.chrome.com/blog/declarative-partial-updates",
+      "publishedAt": "2026-05-24T00:16:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "theanonymousone",
+      "tags": []
+    }
+  ]
+}

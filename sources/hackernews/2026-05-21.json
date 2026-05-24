@@ -47,6 +47,17 @@
       "tags": []
     },
     {
+      "id": "2x8ev7",
+      "title": "Show HN: Anyone interested in a tool helps to explore C++ ASTs",
+      "description": "Score: 37 | Comments: 3 | Posted by leomicv",
+      "url": "https://uvic-aurora.github.io/acav-manual/index.html",
+      "publishedAt": "2026-05-21T19:53:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "leomicv",
+      "tags": []
+    },
+    {
       "id": "hlj1yx",
       "title": "Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O",
       "description": "Score: 100 | Comments: 10 | Posted by atomicthumbs",
@@ -55,6 +66,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "atomicthumbs",
+      "tags": []
+    },
+    {
+      "id": "ogbcia",
+      "title": "Schlitz Is Gone, but First It's Getting One Last Hurrah",
+      "description": "Score: 23 | Comments: 10 | Posted by NaOH",
+      "url": "https://www.milwaukeemag.com/schlitz-is-gone/",
+      "publishedAt": "2026-05-21T19:32:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "NaOH",
       "tags": []
     },
     {
@@ -146,6 +168,17 @@
       "tags": []
     },
     {
+      "id": "weka6j",
+      "title": "Improving C# Memory Safety",
+      "description": "Score: 152 | Comments: 31 | Posted by soheilpro",
+      "url": "https://devblogs.microsoft.com/dotnet/improving-csharp-memory-safety/",
+      "publishedAt": "2026-05-21T16:54:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "soheilpro",
+      "tags": []
+    },
+    {
       "id": "vx81nu",
       "title": "Waymo pauses Atlanta service as its robotaxis keep driving into floods",
       "description": "Score: 299 | Comments: 372 | Posted by mattas",
@@ -234,6 +267,17 @@
       "tags": []
     },
     {
+      "id": "evj8o8",
+      "title": "Highest Random Weight in Elixir",
+      "description": "Score: 68 | Comments: 5 | Posted by shintoist",
+      "url": "https://jola.dev/posts/highest-random-weight-in-elixir",
+      "publishedAt": "2026-05-21T13:48:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "shintoist",
+      "tags": []
+    },
+    {
       "id": "9a9ihm",
       "title": "Who wins and who loses in prediction markets? Evidence from Polymarket",
       "description": "Score: 142 | Comments: 139 | Posted by vcf",
@@ -242,6 +286,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "vcf",
+      "tags": []
+    },
+    {
+      "id": "jq46tl",
+      "title": "Show HN: Twixt – transform one word into another in four moves",
+      "description": "Score: 13 | Comments: 6 | Posted by unseen_forms",
+      "url": "https://twixt.games/",
+      "publishedAt": "2026-05-21T12:29:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "unseen_forms",
       "tags": []
     },
     {

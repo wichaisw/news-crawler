@@ -25,6 +25,17 @@
       "tags": []
     },
     {
+      "id": "xn6nzm",
+      "title": "PHP's Oddities",
+      "description": "Score: 113 | Comments: 138 | Posted by thejoeflow",
+      "url": "https://flowtwo.io/post/php%27s-oddities",
+      "publishedAt": "2026-05-19T20:41:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thejoeflow",
+      "tags": []
+    },
+    {
       "id": "zhdp6x",
       "title": "What Is Happening to Publishing?",
       "description": "Score: 75 | Comments: 56 | Posted by benbreen",
@@ -198,6 +209,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "andreww591",
+      "tags": []
+    },
+    {
+      "id": "ihmb9c",
+      "title": "Converting an Integer to a Decimal String in Under Two Nanoseconds",
+      "description": "Score: 4 | Comments: 1 | Posted by mpweiher",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/spe.70079",
+      "publishedAt": "2026-05-19T15:43:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mpweiher",
+      "tags": []
+    },
+    {
+      "id": "uuf8ng",
+      "title": "Kindle loyalists scramble as Amazon turns page on old e-readers",
+      "description": "Score: 154 | Comments: 170 | Posted by cf100clunk",
+      "url": "https://www.reuters.com/business/retail-consumer/kindle-loyalists-scramble-amazon-turns-page-old-e-readers-2026-05-19/",
+      "publishedAt": "2026-05-19T15:30:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cf100clunk",
       "tags": []
     },
     {

@@ -25,6 +25,17 @@
       "tags": []
     },
     {
+      "id": "rnva6d",
+      "title": "SpaceX launches Starship v3 rocket",
+      "description": "Score: 398 | Comments: 276 | Posted by busymom0",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-v3-megarocket-first-test-flight",
+      "publishedAt": "2026-05-22T23:41:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "busymom0",
+      "tags": []
+    },
+    {
       "id": "8clu7q",
       "title": "Why We've Filed a Referendum",
       "description": "Score: 52 | Comments: 29 | Posted by mrwaffle",
@@ -77,6 +88,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "lexandstuff",
+      "tags": []
+    },
+    {
+      "id": "qgq2x8",
+      "title": "Green card seekers must leave U.S. to apply, Trump administration says",
+      "description": "Score: 808 | Comments: 1368 | Posted by tlhunter",
+      "url": "https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html",
+      "publishedAt": "2026-05-22T21:27:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tlhunter",
+      "tags": []
+    },
+    {
+      "id": "reu619",
+      "title": "Hengefinder: Finding when the sun aligns with your street",
+      "description": "Score: 135 | Comments: 31 | Posted by evakhoury",
+      "url": "https://victoriaritvo.com/blog/hengefinder/",
+      "publishedAt": "2026-05-22T20:39:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "evakhoury",
       "tags": []
     },
     {
@@ -154,6 +187,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "vitriapp",
+      "tags": []
+    },
+    {
+      "id": "1opfw4",
+      "title": "A scoping review of bicycling interventions’ impacts on well-being",
+      "description": "Score: 83 | Comments: 98 | Posted by gnabgib",
+      "url": "https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2026.1807791/full",
+      "publishedAt": "2026-05-22T18:12:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gnabgib",
       "tags": []
     },
     {
@@ -300,6 +344,17 @@
       "tags": []
     },
     {
+      "id": "wzqscu",
+      "title": "Neoclassical C++: segmented iterators revisited",
+      "description": "Score: 17 | Comments: 0 | Posted by ibobev",
+      "url": "https://boostedcpp.net/2026/05/18/neoclassical-c-segmented-iterators-revisited-1/",
+      "publishedAt": "2026-05-22T14:06:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
+      "tags": []
+    },
+    {
       "id": "6mchzg",
       "title": "AI has a multiplying effect on existing technical skills",
       "description": "Score: 302 | Comments: 285 | Posted by moebrowne",
@@ -308,6 +363,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "moebrowne",
+      "tags": []
+    },
+    {
+      "id": "e16i7j",
+      "title": ".NET (OK, C#) finally gets union types",
+      "description": "Score: 180 | Comments: 170 | Posted by ingve",
+      "url": "https://andrewlock.net/exploring-the-dotnet-11-preview-2-dotnet-gets-union-types/",
+      "publishedAt": "2026-05-22T12:28:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingve",
       "tags": []
     },
     {
@@ -363,6 +429,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jetter",
+      "tags": []
+    },
+    {
+      "id": "yonavv",
+      "title": "Buildcraft Is a Compiler Problem",
+      "description": "Score: 13 | Comments: 2 | Posted by mitander",
+      "url": "https://mitander.xyz/posts/buildcraft-is-a-compiler-problem/",
+      "publishedAt": "2026-05-22T09:50:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mitander",
+      "tags": []
+    },
+    {
+      "id": "dj9ndv",
+      "title": "Sales and Dungeons: Thermal printer TTRPG utility",
+      "description": "Score: 83 | Comments: 28 | Posted by hyperific",
+      "url": "https://sales-and-dungeons.app/",
+      "publishedAt": "2026-05-22T06:36:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hyperific",
       "tags": []
     },
     {
