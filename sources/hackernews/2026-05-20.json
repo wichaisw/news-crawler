@@ -157,6 +157,17 @@
       "tags": []
     },
     {
+      "id": "yd2bvh",
+      "title": "Gorilla: A fast, scalable, in-memory time series database (2016)",
+      "description": "Score: 4 | Comments: 1 | Posted by xnorswap",
+      "url": "https://blog.acolyer.org/2016/05/03/gorilla-a-fast-scalable-in-memory-time-series-database/",
+      "publishedAt": "2026-05-20T20:36:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "xnorswap",
+      "tags": []
+    },
+    {
       "id": "r24lse",
       "title": "Colorado Amended SB051 (Age Verification Bill) to Exclude Open Source Projects",
       "description": "Score: 200 | Comments: 64 | Posted by ki4jgt",
@@ -223,6 +234,17 @@
       "tags": []
     },
     {
+      "id": "4w4rlh",
+      "title": "Curly braces: An evolution of Unix and C",
+      "description": "Score: 58 | Comments: 21 | Posted by thaliaarchi",
+      "url": "https://thalia.dev/blog/unix-braces/",
+      "publishedAt": "2026-05-20T17:49:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thaliaarchi",
+      "tags": []
+    },
+    {
       "id": "x68tad",
       "title": "Qian Xuesen: The missile genius America lost and China gained (2025)",
       "description": "Score: 162 | Comments: 85 | Posted by thnaks",
@@ -242,6 +264,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "speckx",
+      "tags": []
+    },
+    {
+      "id": "rojqn2",
+      "title": "Silk: Open-source cooperative fiber scheduler",
+      "description": "Score: 111 | Comments: 17 | Posted by animetyan",
+      "url": "https://github.com/ClickHouse/silk",
+      "publishedAt": "2026-05-20T17:15:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "animetyan",
       "tags": []
     },
     {
@@ -341,6 +374,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ceejayoz",
+      "tags": []
+    },
+    {
+      "id": "e8hkih",
+      "title": "Swap tables, flash-friendly swap, swap_ops, and more",
+      "description": "Score: 81 | Comments: 2 | Posted by mkesper",
+      "url": "https://lwn.net/SubscriberLink/1072657/394b87abd7cc215e/",
+      "publishedAt": "2026-05-20T14:16:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mkesper",
       "tags": []
     },
     {

@@ -1,0 +1,50 @@
+{
+  "date": "2026-05-25",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "ex7oja",
+      "title": "Jira Is Turing-Completeseriot.ch",
+      "description": "Score: 115 | Comments: 38 | Posted by vinhnx",
+      "url": "https://seriot.ch/computation/jira.html",
+      "publishedAt": "2026-05-25T04:43:39.647Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vinhnx",
+      "tags": []
+    },
+    {
+      "id": "gcx746",
+      "title": "Companies Are Just a Graph of Algorithms",
+      "description": "Score: 23 | Comments: 13 | Posted by samuel246",
+      "url": "https://danielmiessler.com/blog/companies-graph-of-algorithms",
+      "publishedAt": "2026-05-25T04:00:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "samuel246",
+      "tags": []
+    },
+    {
+      "id": "ex7oja",
+      "title": "Jira Is Turing-Complete",
+      "description": "Score: 115 | Comments: 38 | Posted by vinhnx",
+      "url": "https://seriot.ch/computation/jira.html",
+      "publishedAt": "2026-05-25T03:54:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vinhnx",
+      "tags": []
+    },
+    {
+      "id": "fsrabz",
+      "title": "The Eternal Sloptember",
+      "description": "Score: 278 | Comments: 206 | Posted by razin",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html",
+      "publishedAt": "2026-05-25T03:47:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "razin",
+      "tags": []
+    }
+  ]
+}

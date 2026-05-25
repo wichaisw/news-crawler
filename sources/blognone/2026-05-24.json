@@ -3,6 +3,74 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "150681 at https://www.blognone.com",
+      "title": "Microsoft ให้ผู้ใช้งาน Office ย้ายปุ่ม Copilot ที่มุมล่างขวา ไปที่อื่นได้แล้ว",
+      "description": "Microsoft ให้ผู้ใช้งาน Office ย้ายปุ่ม Copilot ที่มุมล่างขวา ไปที่อื่นได้แล้ว Body ไมโครซอฟท์ยอมถอยการผลักดัน Copilot อีกหนึ่งก้าว",
+      "url": "https://www.blognone.com/node/150681",
+      "publishedAt": "2026-05-24T13:28:00.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150683 at https://www.blognone.com",
+      "title": "Start Menu ปรับปรุงใหม่ แสดงเฉพาะแอพปักหมุดได้, ปรับขนาดให้เล็กลงได้",
+      "description": "Start Menu ปรับปรุงใหม่ แสดงเฉพาะแอพปักหมุดได้, ปรับขนาดให้เล็กลงได้ Body พร้อมๆ กับ Taskbar ใหม่จัดชิดขอบบน ซ้าย ขวา ได้แล้ว ไมโครซอฟท์ยังปรับ Start",
+      "url": "https://www.blognone.com/node/150683",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2026/2026-05/start-settings.webp",
+      "publishedAt": "2026-05-24T13:12:38.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150682 at https://www.blognone.com",
+      "title": "ถอยสุดซอย Windows 11 ยอมให้จัด Taskbar ชิดขอบบน ซ้าย ขวา ได้แล้ว",
+      "description": "ถอยสุดซอย Windows 11 ยอมให้จัด Taskbar ชิดขอบบน ซ้าย ขวา ได้แล้ว Body ไมโครซอฟท์เริ่มปล่อย Taskbar เวอร์ชันใหม่ ปรับแต่งตำแหน่งได้ (alternate",
+      "url": "https://www.blognone.com/node/150682",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2026/2026-05/taskbar-side.webp",
+      "publishedAt": "2026-05-24T12:13:35.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150680 at https://www.blognone.com",
+      "title": "DeepSeek ลดราคา API โมเดล DeepSeek-V4-Pro ลง 75% แบบถาวร อยู่ที่ $0.435/$0.87 ต่อ 1 ล้านโทเค็น",
+      "description": "DeepSeek ลดราคา API โมเดล DeepSeek-V4-Pro ลง 75% แบบถาวร อยู่ที่ $0.435/$0.87 ต่อ 1 ล้านโทเค็น Body DeepSeek ออกโมเดลเวอร์ชัน 4 คือ DeepSeek-V4-Pro",
+      "url": "https://www.blognone.com/node/150680",
+      "publishedAt": "2026-05-24T11:15:00.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150679 at https://www.blognone.com",
+      "title": "Google ยื่นอุทธรณ์คดีผูกขาด Search Engine แล้ว",
+      "description": "Google ยื่นอุทธรณ์คดีผูกขาด Search Engine แล้ว Body กูเกิลได้ยื่นอุทธรณ์ต่อศาลรัฐบาลกลางในกรุงวอชิงตัน ต่อ",
+      "url": "https://www.blognone.com/node/150679",
+      "publishedAt": "2026-05-24T07:37:32.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150678 at https://www.blognone.com",
+      "title": "Apple จดซับโดเมนเนม Gen AI คาดเกี่ยวกับบริการปัญญาประดิษฐ์ที่จะเปิดตัวเดือนหน้า",
+      "description": "Apple จดซับโดเมนเนม Gen AI คาดเกี่ยวกับบริการปัญญาประดิษฐ์ที่จะเปิดตัวเดือนหน้า Body แอปเปิลได้จดซับโดเมนเนม genai.apple.com",
+      "url": "https://www.blognone.com/node/150678",
+      "publishedAt": "2026-05-24T07:15:12.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "150677 at https://www.blognone.com",
       "title": "Uber เสนอซื้อกิจการทั้งหมด Delivery Hero บริษัทเดลิเวอรีรายใหญ่ของเยอรมนี",
       "description": "Uber เสนอซื้อกิจการทั้งหมด Delivery Hero บริษัทเดลิเวอรีรายใหญ่ของเยอรมนี Body Delivery Hero บริษัทให้บริการเดลิเวอรีจากเยอรมนี",

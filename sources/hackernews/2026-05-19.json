@@ -190,6 +190,17 @@
       "tags": []
     },
     {
+      "id": "v7mjww",
+      "title": "Using HTTP/2 Cleartext for a server in Go 1.24",
+      "description": "Score: 80 | Comments: 8 | Posted by dan_sbl",
+      "url": "https://www.clarityboss.com/blog/go-http2-cleartext-h2c-cloud-run",
+      "publishedAt": "2026-05-19T16:40:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dan_sbl",
+      "tags": []
+    },
+    {
       "id": "d7cqm4",
       "title": "Show HN: Superlog (YC P26) – Observability that installs itself and fixes bugs",
       "description": "Score: 65 | Comments: 43 | Posted by Magnanten",

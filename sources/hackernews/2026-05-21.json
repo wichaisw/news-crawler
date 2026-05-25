@@ -36,6 +36,17 @@
       "tags": []
     },
     {
+      "id": "y7re59",
+      "title": "C constructs that still don't work in C++",
+      "description": "Score: 45 | Comments: 30 | Posted by jalospinoso",
+      "url": "https://lospino.so/blog/c-constructs-that-still-dont-work-in-cpp/",
+      "publishedAt": "2026-05-21T20:40:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jalospinoso",
+      "tags": []
+    },
+    {
       "id": "sujjgk",
       "title": "Show HN: Open-source .docx editor library for building document apps",
       "description": "Score: 68 | Comments: 10 | Posted by thisisjedr",
@@ -121,6 +132,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "Kaibeezy",
+      "tags": []
+    },
+    {
+      "id": "fx2kya",
+      "title": "Getting an old Computer online with Android Ethernet tethering",
+      "description": "Score: 56 | Comments: 21 | Posted by speckx",
+      "url": "https://82mhz.net/posts/2026/05/getting-an-old-computer-online-with-android-ethernet-tethering/",
+      "publishedAt": "2026-05-21T18:03:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
       "tags": []
     },
     {
@@ -234,6 +256,17 @@
       "tags": []
     },
     {
+      "id": "e9ahmr",
+      "title": "I spent 50 hours drawing a line graph",
+      "description": "Score: 514 | Comments: 91 | Posted by dougdude3339",
+      "url": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
+      "publishedAt": "2026-05-21T15:05:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dougdude3339",
+      "tags": []
+    },
+    {
       "id": "9i465z",
       "title": "Show HN: Freenet, a peer-to-peer platform for decentralized apps",
       "description": "Score: 267 | Comments: 162 | Posted by sanity",
@@ -242,6 +275,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "sanity",
+      "tags": []
+    },
+    {
+      "id": "rvdj9y",
+      "title": "Book Review: On the Calculation of Volume",
+      "description": "Score: 44 | Comments: 11 | Posted by ibobev",
+      "url": "https://www.stephendiehl.com/posts/calculation_of_volume/",
+      "publishedAt": "2026-05-21T14:24:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
       "tags": []
     },
     {
@@ -407,6 +451,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "wapasta",
+      "tags": []
+    },
+    {
+      "id": "gq2xdg",
+      "title": "LAN-LOK: The Antarctic DOS Sabotage Game Lost for 34 Years",
+      "description": "Score: 64 | Comments: 13 | Posted by miffe",
+      "url": "https://alphapixeldev.com/lan-lok-the-antarctic-dos-sabotage-game-lost-for-34-years-part-1/",
+      "publishedAt": "2026-05-21T00:15:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "miffe",
       "tags": []
     }
   ]

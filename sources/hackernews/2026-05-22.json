@@ -47,6 +47,17 @@
       "tags": []
     },
     {
+      "id": "etcawp",
+      "title": "Bug 1950764: Work Around Crash on Intel Raptor Lake CPU",
+      "description": "Score: 73 | Comments: 21 | Posted by luu",
+      "url": "https://phabricator.services.mozilla.com/D301917",
+      "publishedAt": "2026-05-22T22:43:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "luu",
+      "tags": []
+    },
+    {
       "id": "ilkihf",
       "title": "Ontology vs. Semantic Layer",
       "description": "Score: 15 | Comments: 0 | Posted by mryagerr",
@@ -154,6 +165,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "Vaslo",
+      "tags": []
+    },
+    {
+      "id": "u92m2h",
+      "title": "I love my Bluetooth keyboard",
+      "description": "Score: 47 | Comments: 27 | Posted by evakhoury",
+      "url": "https://liquidbrain.net/blog/i-love-my-bluetooth-keyboard/",
+      "publishedAt": "2026-05-22T19:04:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "evakhoury",
       "tags": []
     },
     {
@@ -311,6 +333,17 @@
       "tags": []
     },
     {
+      "id": "erm5cn",
+      "title": "Selling SaaS in Germany",
+      "description": "Score: 33 | Comments: 3 | Posted by ewf",
+      "url": "https://embedworkflow.com/blog/selling-saas-in-germany-austria-and-switzerland-dach/",
+      "publishedAt": "2026-05-22T15:05:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ewf",
+      "tags": []
+    },
+    {
       "id": "9f1ohr",
       "title": "A Forth-inspired language for writing websites",
       "description": "Score: 142 | Comments: 14 | Posted by speckx",
@@ -319,6 +352,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "speckx",
+      "tags": []
+    },
+    {
+      "id": "8k9deg",
+      "title": "Noroboto: Lying Fonts and Mitigation in Rust",
+      "description": "Score: 74 | Comments: 31 | Posted by piker",
+      "url": "https://tritium.legal/blog/noroboto",
+      "publishedAt": "2026-05-22T14:55:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "piker",
       "tags": []
     },
     {
@@ -374,6 +418,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ingve",
+      "tags": []
+    },
+    {
+      "id": "yyon8m",
+      "title": "Scientists solve 200-year-old puzzle of how tobacco plants make nicotine",
+      "description": "Score: 84 | Comments: 27 | Posted by sohkamyung",
+      "url": "https://www.york.ac.uk/news-and-events/news/2026/research/200-year-old-puzzle-tobacco-plants-nicotine/",
+      "publishedAt": "2026-05-22T12:16:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sohkamyung",
       "tags": []
     },
     {
@@ -440,6 +495,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mitander",
+      "tags": []
+    },
+    {
+      "id": "kypwm2",
+      "title": "I keep bouncing off the Scheme language",
+      "description": "Score: 147 | Comments: 70 | Posted by ingve",
+      "url": "https://www.sicpers.info/2026/05/i-keep-bouncing-off-the-scheme-language/",
+      "publishedAt": "2026-05-22T08:32:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingve",
       "tags": []
     },
     {
@@ -517,6 +583,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "xoxxala",
+      "tags": []
+    },
+    {
+      "id": "tqdp4l",
+      "title": "Build Adafruit projects right from Firefox",
+      "description": "Score: 159 | Comments: 49 | Posted by mch82",
+      "url": "https://www.firefox.com/en-US/landing/adafruit/",
+      "publishedAt": "2026-05-22T03:13:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mch82",
       "tags": []
     },
     {
