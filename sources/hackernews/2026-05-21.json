@@ -223,6 +223,17 @@
       "tags": []
     },
     {
+      "id": "1pca1c",
+      "title": "Show HN: Write your BPF programs in Go, not C",
+      "description": "Score: 81 | Comments: 34 | Posted by boratanrikulu",
+      "url": "https://github.com/boratanrikulu/gobee",
+      "publishedAt": "2026-05-21T16:25:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "boratanrikulu",
+      "tags": []
+    },
+    {
       "id": "u80tbg",
       "title": "Project Hail Mary – Stellar Navigation Chart",
       "description": "Score: 820 | Comments: 180 | Posted by speleo",
@@ -322,6 +333,17 @@
       "tags": []
     },
     {
+      "id": "r0js0o",
+      "title": "Micropatching Brings the Abandoned Equation Editor Back to Life (2018)",
+      "description": "Score: 9 | Comments: 2 | Posted by bariumbitmap",
+      "url": "https://blog.0patch.com/2018/01/bringing-abandoned-equation-editor-back.html",
+      "publishedAt": "2026-05-21T13:31:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bariumbitmap",
+      "tags": []
+    },
+    {
       "id": "9a9ihm",
       "title": "Who wins and who loses in prediction markets? Evidence from Polymarket",
       "description": "Score: 142 | Comments: 139 | Posted by vcf",
@@ -352,6 +374,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "WhyNotHugo",
+      "tags": []
+    },
+    {
+      "id": "hlmbxz",
+      "title": "CPPL: A Circuit Prompt Programming Language",
+      "description": "Score: 39 | Comments: 6 | Posted by chrsw",
+      "url": "https://arxiv.org/abs/2605.17892",
+      "publishedAt": "2026-05-21T11:50:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "chrsw",
       "tags": []
     },
     {
