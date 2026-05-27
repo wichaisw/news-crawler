@@ -1,0 +1,127 @@
+{
+  "date": "2026-05-27",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "u98zok",
+      "title": "The Structural Barriers to AI Lawyersdiffuseai.pub",
+      "description": "Score: 12 | Comments: 2 | Posted by benbreen",
+      "url": "https://www.diffuseai.pub/p/the-structural-barriers-to-ai-lawyers",
+      "publishedAt": "2026-05-27T06:34:57.227Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "benbreen",
+      "tags": []
+    },
+    {
+      "id": "ix0z5x",
+      "title": "Show HN: Posthorn, self-hosted mail without the mail server",
+      "description": "Score: 10 | Comments: 5 | Posted by craigmccaskill",
+      "url": "https://github.com/craigmccaskill/posthorn",
+      "publishedAt": "2026-05-27T04:26:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "craigmccaskill",
+      "tags": []
+    },
+    {
+      "id": "ch9mav",
+      "title": "The just-say-no engineer was a ZIRP phenomenon",
+      "description": "Score: 132 | Comments: 107 | Posted by jxmorris12",
+      "url": "https://www.seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/",
+      "publishedAt": "2026-05-27T03:56:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jxmorris12",
+      "tags": []
+    },
+    {
+      "id": "d6yvhq",
+      "title": "Power bills more than 250 per cent higher near data centres",
+      "description": "Score: 17 | Comments: 2 | Posted by cdrnsf",
+      "url": "https://www.theglobeandmail.com/investing/investment-ideas/article-market-factors-power-bills-more-than-250-per-cent-higher-near-data/",
+      "publishedAt": "2026-05-27T03:26:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cdrnsf",
+      "tags": []
+    },
+    {
+      "id": "60536m",
+      "title": "TSDuck: Open-source toolkit for MPEG-TS analysis and manipulation",
+      "description": "Score: 16 | Comments: 1 | Posted by phantomathkg",
+      "url": "https://tsduck.io/",
+      "publishedAt": "2026-05-27T02:22:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "phantomathkg",
+      "tags": []
+    },
+    {
+      "id": "2m9yus",
+      "title": "Where does next-token prediction leave us?",
+      "description": "Score: 174 | Comments: 118 | Posted by 0x5FC3",
+      "url": "https://pop.rdi.sh/where-does-next-token-prediction-leave-us/",
+      "publishedAt": "2026-05-27T01:10:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "0x5FC3",
+      "tags": []
+    },
+    {
+      "id": "r5c941",
+      "title": "Tunecat: Simple Internet Radio",
+      "description": "Score: 46 | Comments: 2 | Posted by croottree",
+      "url": "https://codeberg.org/lindenii/tunecat/",
+      "publishedAt": "2026-05-27T01:08:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "croottree",
+      "tags": []
+    },
+    {
+      "id": "qal0tm",
+      "title": "Stripe is friendly to “friendly fraud”",
+      "description": "Score: 246 | Comments: 154 | Posted by gingerlime",
+      "url": "https://www.gingerlime.com/2026/stripe-seem-friendly-to-friendly-fraud/",
+      "publishedAt": "2026-05-27T00:40:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gingerlime",
+      "tags": []
+    },
+    {
+      "id": "f9j6ib",
+      "title": "Erin Brockovich made a map to track data centers around the country",
+      "description": "Score: 207 | Comments: 194 | Posted by cratermoon",
+      "url": "https://www.niemanlab.org/2026/05/erin-brockovich-made-a-map-to-track-data-centers-around-the-country/",
+      "publishedAt": "2026-05-27T00:36:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cratermoon",
+      "tags": []
+    },
+    {
+      "id": "2faad7",
+      "title": "The Best Engineers Write Less Code",
+      "description": "Score: 16 | Comments: 8 | Posted by funnyenough",
+      "url": "https://shvetsm.github.io/posts/the-best-engineers-write-less-code/",
+      "publishedAt": "2026-05-27T00:33:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "funnyenough",
+      "tags": []
+    },
+    {
+      "id": "ptj3sq",
+      "title": "Sonny Rollins, jazz saxophonist, has died",
+      "description": "Score: 103 | Comments: 14 | Posted by boarsofcanada",
+      "url": "https://www.rollingstone.com/music/music-news/sonny-rollins-jazz-legend-saxophone-colossus-dead-obit-1234715446/",
+      "publishedAt": "2026-05-27T00:03:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "boarsofcanada",
+      "tags": []
+    }
+  ]
+}

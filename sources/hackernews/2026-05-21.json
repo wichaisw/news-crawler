@@ -14,6 +14,17 @@
       "tags": []
     },
     {
+      "id": "ufhsg3",
+      "title": "Are we self-sovereign PKI yet?",
+      "description": "Score: 88 | Comments: 55 | Posted by ca98am79",
+      "url": "https://buffrr.dev/blog/are-we-self-sovereign-pki-yet/",
+      "publishedAt": "2026-05-21T22:49:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ca98am79",
+      "tags": []
+    },
+    {
       "id": "ha8kzu",
       "title": "The memory shortage is causing a repricing of consumer electronics",
       "description": "Score: 139 | Comments: 147 | Posted by d0ks",
@@ -33,6 +44,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "nchagnet",
+      "tags": []
+    },
+    {
+      "id": "u98zok",
+      "title": "The Structural Barriers to AI Lawyers",
+      "description": "Score: 12 | Comments: 2 | Posted by benbreen",
+      "url": "https://www.diffuseai.pub/p/the-structural-barriers-to-ai-lawyers",
+      "publishedAt": "2026-05-21T20:51:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "benbreen",
       "tags": []
     },
     {
@@ -308,6 +330,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "asenna",
+      "tags": []
+    },
+    {
+      "id": "co2nq2",
+      "title": "Rosalind: A genomics toolkit in Rust running whole-genome pipelines on a laptop",
+      "description": "Score: 152 | Comments: 37 | Posted by samuell",
+      "url": "https://github.com/logannye/rosalind",
+      "publishedAt": "2026-05-21T13:55:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "samuell",
       "tags": []
     },
     {

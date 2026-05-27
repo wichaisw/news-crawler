@@ -3,6 +3,28 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "9l7ut9",
+      "title": "IBM Confidential: System/360 File Organization [video]",
+      "description": "Score: 34 | Comments: 9 | Posted by DaiPlusPlus",
+      "url": "https://www.youtube.com/watch?v=zokKqP0plrM",
+      "publishedAt": "2026-05-24T21:21:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "DaiPlusPlus",
+      "tags": []
+    },
+    {
+      "id": "4dc9t2",
+      "title": "A history of obituaries in American newspapers",
+      "description": "Score: 18 | Comments: 0 | Posted by NaOH",
+      "url": "https://blogs.loc.gov/headlinesandheroes/2026/05/mourn-not-a-history-of-obituaries-in-american-newspapers/",
+      "publishedAt": "2026-05-24T19:22:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "NaOH",
+      "tags": []
+    },
+    {
       "id": "pnfavq",
       "title": "CBP Directive 3340-049B: Border Search of Electronic Devices",
       "description": "Score: 149 | Comments: 104 | Posted by Ember_Wipe",
@@ -69,6 +91,17 @@
       "tags": []
     },
     {
+      "id": "px6xgz",
+      "title": "What Gets Kept",
+      "description": "Score: 6 | Comments: 1 | Posted by lermontov",
+      "url": "https://www.newyorker.com/culture/the-weekend-essay/what-jack-kerouac-left-behind",
+      "publishedAt": "2026-05-24T16:46:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lermontov",
+      "tags": []
+    },
+    {
       "id": "iixwrg",
       "title": "Memory has grown to nearly two-thirds of AI chip component costs",
       "description": "Score: 371 | Comments: 378 | Posted by intelkishan",
@@ -77,6 +110,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "intelkishan",
+      "tags": []
+    },
+    {
+      "id": "1xax9a",
+      "title": "Liverpool and Manchester Railway",
+      "description": "Score: 23 | Comments: 12 | Posted by daverol",
+      "url": "https://en.wikipedia.org/wiki/Liverpool_and_Manchester_Railway",
+      "publishedAt": "2026-05-24T15:56:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "daverol",
       "tags": []
     },
     {
@@ -187,6 +231,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "tosh",
+      "tags": []
+    },
+    {
+      "id": "f182v6",
+      "title": "What I've Learned (So Far) Building Online Mini Games with Elixir and Swift",
+      "description": "Score: 38 | Comments: 17 | Posted by calflegal",
+      "url": "https://calvinflegal.com/2026/05/24/what-ive-learned-so-far-building-online-mini-games-with-elixir-and-swift.html",
+      "publishedAt": "2026-05-24T10:17:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "calflegal",
       "tags": []
     },
     {
