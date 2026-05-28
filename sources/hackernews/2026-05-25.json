@@ -58,6 +58,17 @@
       "tags": []
     },
     {
+      "id": "b9y1iq",
+      "title": "What Is a Direct Attach Copper (DAC) Cable? (2021)",
+      "description": "Score: 102 | Comments: 84 | Posted by teleforce",
+      "url": "https://www.servethehome.com/what-is-a-direct-attach-copper-dac-cable/",
+      "publishedAt": "2026-05-25T22:43:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "teleforce",
+      "tags": []
+    },
+    {
       "id": "wi2am8",
       "title": "How Shamir's Secret Sharing Works",
       "description": "Score: 166 | Comments: 21 | Posted by subract",
@@ -234,6 +245,17 @@
       "tags": []
     },
     {
+      "id": "e8bj0d",
+      "title": "My new obsession: A horse-racing board game of pure luck",
+      "description": "Score: 74 | Comments: 45 | Posted by surprisetalk",
+      "url": "https://alexanderbjoy.com/horse-race-board-game/",
+      "publishedAt": "2026-05-25T15:45:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
       "id": "4o56ao",
       "title": "Launch HN: Chert (YC P26) – Twilio for iMessage",
       "description": "Score: 56 | Comments: 181 | Posted by garygao",
@@ -242,6 +264,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "garygao",
+      "tags": []
+    },
+    {
+      "id": "lf4kzo",
+      "title": "The Ask",
+      "description": "Score: 53 | Comments: 30 | Posted by digitallogic",
+      "url": "https://randsinrepose.com/archives/the-ask/",
+      "publishedAt": "2026-05-25T14:51:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "digitallogic",
+      "tags": []
+    },
+    {
+      "id": "itkqud",
+      "title": "Why Ctrl+V won't paste images in Claude Code on WSL, with a fix",
+      "description": "Score: 48 | Comments: 54 | Posted by rajveerb",
+      "url": "https://rajveerbachkaniwala.com/blog/2026/05/24/on-the-difficulty-of-pasting-a-picture/",
+      "publishedAt": "2026-05-25T14:41:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rajveerb",
       "tags": []
     },
     {
@@ -311,6 +355,17 @@
       "tags": []
     },
     {
+      "id": "59rpvo",
+      "title": "Our 2D game character grew 3% taller every time he walked",
+      "description": "Score: 11 | Comments: 6 | Posted by parisidau",
+      "url": "https://hey.paris/posts/leo-sprite-alignment/",
+      "publishedAt": "2026-05-25T07:07:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "parisidau",
+      "tags": []
+    },
+    {
       "id": "ht1g71",
       "title": "C array types are weird",
       "description": "Score: 76 | Comments: 71 | Posted by signa11",
@@ -374,6 +429,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "Tomte",
+      "tags": []
+    },
+    {
+      "id": "ik2tn5",
+      "title": "Freediving, Embodiment and Humanity",
+      "description": "Score: 30 | Comments: 17 | Posted by transpute",
+      "url": "https://tracesofhumanity.org/freediving-embodiment-and-humanity/",
+      "publishedAt": "2026-05-25T01:41:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "transpute",
       "tags": []
     }
   ]

@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "tx4kia",
+      "title": "The Green Side of the Lua",
+      "description": "Score: 34 | Comments: 15 | Posted by radiator",
+      "url": "https://arxiv.org/abs/2601.16670",
+      "publishedAt": "2026-05-24T23:44:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "radiator",
+      "tags": []
+    },
+    {
       "id": "9l7ut9",
       "title": "IBM Confidential: System/360 File Organization [video]",
       "description": "Score: 34 | Comments: 9 | Posted by DaiPlusPlus",
@@ -11,6 +22,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "DaiPlusPlus",
+      "tags": []
+    },
+    {
+      "id": "9phxyi",
+      "title": "I am not a black belt",
+      "description": "Score: 19 | Comments: 18 | Posted by rodolphoarruda",
+      "url": "https://rodolphoarruda.pro.br/i-am-not-a-black-belt/",
+      "publishedAt": "2026-05-24T19:31:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rodolphoarruda",
       "tags": []
     },
     {
@@ -308,6 +330,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "tambourine_man",
+      "tags": []
+    },
+    {
+      "id": "v4akgk",
+      "title": "Human Bottlenecks",
+      "description": "Score: 120 | Comments: 36 | Posted by zdw",
+      "url": "https://borretti.me/article/human-bottlenecks",
+      "publishedAt": "2026-05-24T04:19:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
       "tags": []
     },
     {

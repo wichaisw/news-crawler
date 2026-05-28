@@ -179,6 +179,17 @@
       "tags": []
     },
     {
+      "id": "aluv1p",
+      "title": "Matrix Multiplications on GPUs Run Faster When Given “Predictable” Data (2024)",
+      "description": "Score: 162 | Comments: 47 | Posted by tosh",
+      "url": "https://www.thonking.ai/p/strangely-matrix-multiplications",
+      "publishedAt": "2026-05-23T12:11:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tosh",
+      "tags": []
+    },
+    {
       "id": "a6s4wg",
       "title": "80386 microcode disassembled",
       "description": "Score: 242 | Comments: 46 | Posted by nand2mario",

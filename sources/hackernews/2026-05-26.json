@@ -124,11 +124,33 @@
       "tags": []
     },
     {
+      "id": "59eb8k",
+      "title": "Interleaved Deltas",
+      "description": "Score: 59 | Comments: 1 | Posted by surprisetalk",
+      "url": "https://mmapped.blog/posts/51-interleaved-deltas",
+      "publishedAt": "2026-05-26T14:30:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
       "id": "yhifm6",
       "title": "C64 Basic: Game Map Overhead “Camera View”",
       "description": "Score: 85 | Comments: 12 | Posted by ibobev",
       "url": "https://retrogamecoders.com/overhead-camera-view/",
       "publishedAt": "2026-05-26T13:47:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
+      "tags": []
+    },
+    {
+      "id": "sfycd2",
+      "title": "Zero Lines Maze: What the 8-Bit Guy's One-Liner Can Still Teach Us",
+      "description": "Score: 38 | Comments: 13 | Posted by ibobev",
+      "url": "https://retrogamecoders.com/zero-lines-maze/",
+      "publishedAt": "2026-05-26T13:22:36.000Z",
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ibobev",
@@ -179,6 +201,17 @@
       "tags": []
     },
     {
+      "id": "7b7l9t",
+      "title": "Raft Consensus with a Minority of Nodes",
+      "description": "Score: 130 | Comments: 18 | Posted by moarbugs",
+      "url": "https://padhye.org/raft-minority/",
+      "publishedAt": "2026-05-26T10:30:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "moarbugs",
+      "tags": []
+    },
+    {
       "id": "es4mrf",
       "title": "BadHost – CVE-2026-48710: Starlette Host-Header Auth Bypass",
       "description": "Score: 22 | Comments: 4 | Posted by ylk",
@@ -187,6 +220,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ylk",
+      "tags": []
+    },
+    {
+      "id": "2wrprp",
+      "title": "Investigating how prompt politeness affects LLM accuracy (2025)",
+      "description": "Score: 64 | Comments: 62 | Posted by KnuthIsGod",
+      "url": "https://arxiv.org/abs/2510.04950",
+      "publishedAt": "2026-05-26T07:43:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "KnuthIsGod",
       "tags": []
     },
     {
@@ -220,6 +264,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "downbad_",
+      "tags": []
+    },
+    {
+      "id": "iads1v",
+      "title": "A New Typst Template for Pandoc (2025)",
+      "description": "Score: 65 | Comments: 11 | Posted by ankitg12",
+      "url": "https://imaginarytext.ca/posts/2025/typst-templates-for-pandoc/",
+      "publishedAt": "2026-05-26T05:08:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ankitg12",
       "tags": []
     },
     {

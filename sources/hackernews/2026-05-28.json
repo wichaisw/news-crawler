@@ -1,0 +1,105 @@
+{
+  "date": "2026-05-28",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "8o39ao",
+      "title": "A Eureka machine that thinks like nature and explores what AI cannot",
+      "description": "Score: 8 | Comments: 0 | Posted by kunalsin9h",
+      "url": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/",
+      "publishedAt": "2026-05-28T06:40:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kunalsin9h",
+      "tags": []
+    },
+    {
+      "id": "l98auy",
+      "title": "Rust Will Save Linux from AI, Says Greg Kroah-Hartman",
+      "description": "Score: 6 | Comments: 1 | Posted by signa11",
+      "url": "https://www.zdnet.com/article/rust-will-save-linux-from-ai-says-greg-kroah-hartman/",
+      "publishedAt": "2026-05-28T05:50:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "signa11",
+      "tags": []
+    },
+    {
+      "id": "y44km7",
+      "title": "MIT president: Why so many optimistic scientists are losing heart",
+      "description": "Score: 22 | Comments: 1 | Posted by andrewl",
+      "url": "https://www.bostonglobe.com/2026/05/26/opinion/science-funding-cuts-mit/",
+      "publishedAt": "2026-05-28T04:08:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andrewl",
+      "tags": []
+    },
+    {
+      "id": "qwlyjm",
+      "title": "Hallucinate – Massively Multiplayer Online Rave",
+      "description": "Score: 141 | Comments: 54 | Posted by stagas",
+      "url": "https://hallucinate.site",
+      "publishedAt": "2026-05-28T03:50:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "stagas",
+      "tags": []
+    },
+    {
+      "id": "4jdf8f",
+      "title": "Biff is a command line datetime Swiss army knife",
+      "description": "Score: 10 | Comments: 2 | Posted by burntsushi",
+      "url": "https://github.com/BurntSushi/biff",
+      "publishedAt": "2026-05-28T02:58:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "burntsushi",
+      "tags": []
+    },
+    {
+      "id": "7oeva9",
+      "title": "Zig 2026: No-AI Policy, $670K Foundation, Left GitHub and Why Zig Isn't 1.0 [video]",
+      "description": "Score: 40 | Comments: 3 | Posted by doppp",
+      "url": "https://www.youtube.com/watch?v=iqddnwKF8HQ",
+      "publishedAt": "2026-05-28T01:40:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "doppp",
+      "tags": []
+    },
+    {
+      "id": "pdpbc6",
+      "title": "Google employee charged with $1M Polymarket insider trading bet on search term",
+      "description": "Score: 147 | Comments: 72 | Posted by pseudolus",
+      "url": "https://www.cnbc.com/2026/05/27/google-employee-polymarket-insider-trading.html",
+      "publishedAt": "2026-05-28T00:49:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pseudolus",
+      "tags": []
+    },
+    {
+      "id": "gw06aw",
+      "title": "Can we have the day off?",
+      "description": "Score: 958 | Comments: 575 | Posted by mlsu",
+      "url": "https://mlsu.io/posts/day-off/",
+      "publishedAt": "2026-05-28T00:40:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mlsu",
+      "tags": []
+    },
+    {
+      "id": "ec26ie",
+      "title": "StumbleTV: Chat Roulette but for Exposed Webcams",
+      "description": "Score: 15 | Comments: 7 | Posted by arm32",
+      "url": "https://stumbletv.alectrocute.workers.dev/c/2e6ff336f1235cc1",
+      "publishedAt": "2026-05-28T00:22:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "arm32",
+      "tags": []
+    }
+  ]
+}
