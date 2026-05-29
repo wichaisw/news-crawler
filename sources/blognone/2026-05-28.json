@@ -3,6 +3,95 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "150718 at https://www.blognone.com",
+      "title": "Dell รายงานผลประกอบการไตรมาส รายได้รวมโต 88% เฉพาะเซิร์ฟเวอร์ AI เพิ่มขึ้นถึง 181%",
+      "description": "Dell รายงานผลประกอบการไตรมาส รายได้รวมโต 88% เฉพาะเซิร์ฟเวอร์ AI เพิ่มขึ้นถึง 181% Body Dell Technologies รายงานผลประกอบการประจำไตรมาสที่ 1",
+      "url": "https://www.blognone.com/node/150718",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2026/2026-05/dell_ai_servers.jpg",
+      "publishedAt": "2026-05-28T23:09:00.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150716 at https://www.blognone.com",
+      "title": "Anthropic เปิดตัว Claude Opus 4.8 เก่งขึ้น ซื่อสัตย์ขึ้น ไม่แถ",
+      "description": "Anthropic เปิดตัว Claude Opus 4.8 เก่งขึ้น ซื่อสัตย์ขึ้น ไม่แถ Body Anthropic เปิดตัว Claude Opus 4.8 ที่อัปเกรดจาก Opus 4.7 ในทุกด้าน",
+      "url": "https://www.blognone.com/node/150716",
+      "publishedAt": "2026-05-28T17:35:11.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150714 at https://www.blognone.com",
+      "title": "YouTube เริ่มตรวจจับวิดีโอใช้ AI แปะป้ายแจ้งเตือนให้เอง",
+      "description": "YouTube เริ่มตรวจจับวิดีโอใช้ AI แปะป้ายแจ้งเตือนให้เอง Body YouTube ประกาศมาตรการการใช้ AI ในวิดีโออย่างโปร่งใส พร้อมเปิดระบบตรวจจับการใช้ AI",
+      "url": "https://www.blognone.com/node/150714",
+      "publishedAt": "2026-05-28T16:36:51.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150712 at https://www.blognone.com",
+      "title": "Salesforce รายงานผลประกอบการ เติบโตทำสถิติใหม่อีกไตรมาสจากการผลักดัน Agentforce",
+      "description": "Salesforce รายงานผลประกอบการ เติบโตทำสถิติใหม่อีกไตรมาสจากการผลักดัน Agentforce Body Salesforce รายงานผลประกอบการของไตรมาสที่ 1 ตามปีการเงินบริษัท",
+      "url": "https://www.blognone.com/node/150712",
+      "publishedAt": "2026-05-28T13:59:00.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150713 at https://www.blognone.com",
+      "title": "ข้อมูลเพิ่มเติมดีล Amazon-Globalstar ตั้งบริษัทใหม่ Grapefruit มาซื้อหุ้น 20% คืนจาก Apple",
+      "description": "ข้อมูลเพิ่มเติมดีล Amazon-Globalstar ตั้งบริษัทใหม่ Grapefruit มาซื้อหุ้น 20% คืนจาก Apple Body มีข้อมูลใหม่ของดีลที่ Amazon ซื้อกิจการ Globalstar",
+      "url": "https://www.blognone.com/node/150713",
+      "publishedAt": "2026-05-28T12:21:50.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150711 at https://www.blognone.com",
+      "title": "HP รายงานผลประกอบการไตรมาส รายได้โต 9% ท่ามกลางความท้าทายของต้นทุนชิ้นส่วนที่สูงขึ้น",
+      "description": "HP รายงานผลประกอบการไตรมาส รายได้โต 9% ท่ามกลางความท้าทายของต้นทุนชิ้นส่วนที่สูงขึ้น Body HP รายงานผลประกอบการของไตรมาสที่ 2 ตามปีการเงินบริษัท 2026",
+      "url": "https://www.blognone.com/node/150711",
+      "publishedAt": "2026-05-28T11:55:00.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150710 at https://www.blognone.com",
+      "title": "Steam Deck OLED ประกาศขึ้นราคาประมาณ 45% สาเหตุปัญหาแรมแพง",
+      "description": "Steam Deck OLED ประกาศขึ้นราคาประมาณ 45% สาเหตุปัญหาแรมแพง Body Steam Deck เป็นเครื่องเล่นเกมพกพาล่าสุดที่หนีไม่พ้นจากผลกระทบแรมแพง โดย Valve",
+      "url": "https://www.blognone.com/node/150710",
+      "publishedAt": "2026-05-28T11:17:28.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150709 at https://www.blognone.com",
+      "title": "Dragon Quest XII: Beyond Dreams เปิดตัวเทรลเลอร์แรก หายไปนานเพราะรีเซ็ตโครงการใหม่",
+      "description": "Dragon Quest XII: Beyond Dreams เปิดตัวเทรลเลอร์แรก หายไปนานเพราะรีเซ็ตโครงการใหม่ Body Square Enix เปิดตัวเทรลเลอร์แรกของเกม Dragon Quest XII",
+      "url": "https://www.blognone.com/node/150709",
+      "publishedAt": "2026-05-28T09:00:22.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "150708 at https://www.blognone.com",
       "title": "Facebook, Instagram ออกแพ็คเกจ Subscription ชุดใหม่ มีทั้ง Plus สำหรับ User ทั่วไป และ One สำหรับคนใช้งาน AI, ครีเอเตอร์, ลูกค้าธุรกิจ",
       "description": "Facebook, Instagram ออกแพ็คเกจ Subscription ชุดใหม่ มีทั้ง Plus สำหรับ User ทั่วไป และ One สำหรับคนใช้งาน AI, ครีเอเตอร์, ลูกค้าธุรกิจ Body Naomi",

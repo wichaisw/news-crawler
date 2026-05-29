@@ -1,0 +1,39 @@
+{
+  "date": "2026-05-29",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3127620",
+      "title": "Blue Origin’s New Glenn rocket explodes during testing in Florida",
+      "description": "The explosion is likely a major setback for Jeff Bezos' spaceflight company, and its attempt to compete with SpaceX.",
+      "url": "https://techcrunch.com/2026/05/28/blue-origins-new-glenn-rocket-explodes-during-testing-in-florida/",
+      "publishedAt": "2026-05-29T01:22:16.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sean O'Kane",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3127613",
+      "title": "Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point",
+      "description": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category.",
+      "url": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
+      "publishedAt": "2026-05-29T00:44:37.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Marina Temkin",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3127585",
+      "title": "Waymo dominates autonomous vehicle registrations as Tesla trails behind",
+      "description": "A new law and AV tracker tool gives the clearest accounting yet of how many robotaxis and self-driving trucks are in Texas.",
+      "url": "https://techcrunch.com/2026/05/28/waymo-dominates-texas-autonomous-vehicle-registrations-as-tesla-trails-behind/",
+      "publishedAt": "2026-05-29T00:14:35.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Kirsten Korosec",
+      "tags": []
+    }
+  ]
+}
