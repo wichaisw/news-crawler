@@ -1,0 +1,50 @@
+{
+  "date": "2026-05-30",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "hsz6kf",
+      "title": "Perry Compiles TypeScript directly to executables using SWC and LLVM",
+      "description": "Score: 64 | Comments: 48 | Posted by 0x1997",
+      "url": "https://www.perryts.com/",
+      "publishedAt": "2026-05-30T03:14:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "0x1997",
+      "tags": []
+    },
+    {
+      "id": "yiqxnr",
+      "title": "Show HN: VT Code – open-source terminal coding agent in Rust",
+      "description": "Score: 10 | Comments: 4 | Posted by vinhnx",
+      "url": "https://github.com/vinhnx/VTCode",
+      "publishedAt": "2026-05-30T03:07:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vinhnx",
+      "tags": []
+    },
+    {
+      "id": "srs9e5",
+      "title": "Naphtha shortages in Japan",
+      "description": "Score: 95 | Comments: 50 | Posted by takakaze",
+      "url": "https://www.nippon.com/en/japan-data/h02783/",
+      "publishedAt": "2026-05-30T02:20:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "takakaze",
+      "tags": []
+    },
+    {
+      "id": "nw1b11",
+      "title": "WH proposes rules giving political appointees final approval on research grants",
+      "description": "Score: 134 | Comments: 113 | Posted by jordanpg",
+      "url": "https://www.scientificamerican.com/article/white-house-proposes-new-rules-giving-political-appointees-final-say-on-research-grants/",
+      "publishedAt": "2026-05-30T01:39:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jordanpg",
+      "tags": []
+    }
+  ]
+}

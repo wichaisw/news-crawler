@@ -157,6 +157,17 @@
       "tags": []
     },
     {
+      "id": "qrxzgv",
+      "title": "A new register allocator for ZJIT",
+      "description": "Score: 18 | Comments: 0 | Posted by tenderlove",
+      "url": "https://railsatscale.com/2026-05-27-a-new-register-allocator-for-zjit/",
+      "publishedAt": "2026-05-27T16:50:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tenderlove",
+      "tags": []
+    },
+    {
       "id": "78ncu8",
       "title": "I think Anthropic and OpenAI have found product-market fit",
       "description": "Score: 813 | Comments: 951 | Posted by simonw",
@@ -220,6 +231,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "nathanstitt",
+      "tags": []
+    },
+    {
+      "id": "sahzs9",
+      "title": "Math-to-Manim",
+      "description": "Score: 42 | Comments: 5 | Posted by georgewsinger",
+      "url": "https://github.com/HarleyCoops/Math-To-Manim",
+      "publishedAt": "2026-05-27T12:18:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "georgewsinger",
       "tags": []
     },
     {

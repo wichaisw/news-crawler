@@ -190,6 +190,17 @@
       "tags": []
     },
     {
+      "id": "geb08m",
+      "title": "Dynamic Workflows in Claude Code",
+      "description": "Score: 169 | Comments: 129 | Posted by mil22",
+      "url": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
+      "publishedAt": "2026-05-28T16:52:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mil22",
+      "tags": []
+    },
+    {
       "id": "u1i0fu",
       "title": "Claude Opus 4.8",
       "description": "Score: 1441 | Comments: 1146 | Posted by craigmart",
@@ -242,6 +253,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jjp",
+      "tags": []
+    },
+    {
+      "id": "lf89vi",
+      "title": "Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM",
+      "description": "Score: 558 | Comments: 756 | Posted by brandonb",
+      "url": "https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions",
+      "publishedAt": "2026-05-28T14:13:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "brandonb",
       "tags": []
     },
     {
@@ -322,6 +344,17 @@
       "tags": []
     },
     {
+      "id": "6q41zz",
+      "title": "What It Takes to Preserve Floppy Disks",
+      "description": "Score: 27 | Comments: 4 | Posted by pseudolus",
+      "url": "https://spectrum.ieee.org/floppy-disk-data-preservation-archives",
+      "publishedAt": "2026-05-28T02:23:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pseudolus",
+      "tags": []
+    },
+    {
       "id": "7oeva9",
       "title": "Zig 2026: No-AI Policy, $670K Foundation, Left GitHub and Why Zig Isn't 1.0 [video]",
       "description": "Score: 40 | Comments: 3 | Posted by doppp",
@@ -330,6 +363,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "doppp",
+      "tags": []
+    },
+    {
+      "id": "2gkc0b",
+      "title": "Finding Miscompiles for Fun, Not Profit",
+      "description": "Score: 32 | Comments: 7 | Posted by tmoertel",
+      "url": "https://newsletter.semianalysis.com/p/finding-miscompiles-for-fun-not-profit",
+      "publishedAt": "2026-05-28T01:10:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tmoertel",
       "tags": []
     },
     {
