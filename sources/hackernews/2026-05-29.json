@@ -289,6 +289,17 @@
       "tags": []
     },
     {
+      "id": "k5l0ld",
+      "title": "Stateless Actors",
+      "description": "Score: 38 | Comments: 12 | Posted by frizlab",
+      "url": "https://www.massicotte.org/stateless-actors/",
+      "publishedAt": "2026-05-29T13:28:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "frizlab",
+      "tags": []
+    },
+    {
       "id": "si2mvp",
       "title": "Someone used my open source project to phish people",
       "description": "Score: 98 | Comments: 49 | Posted by andrejsshell",
@@ -341,6 +352,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "xyzal",
+      "tags": []
+    },
+    {
+      "id": "tdm3ks",
+      "title": "Evolving FSQ Open Source Places (2025)",
+      "description": "Score: 3 | Comments: 0 | Posted by altilunium",
+      "url": "https://foursquare.com/resources/blog/data/evolving-fsq-open-source-places/",
+      "publishedAt": "2026-05-29T10:12:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "altilunium",
       "tags": []
     },
     {
@@ -399,6 +421,17 @@
       "tags": []
     },
     {
+      "id": "x10y5q",
+      "title": "A Gentle Introduction to Lattice-Based Cryptography [pdf]",
+      "description": "Score: 62 | Comments: 1 | Posted by jayhoon",
+      "url": "https://cryptography101.ca/wp-content/uploads/lattice-based-cryptography.pdf",
+      "publishedAt": "2026-05-29T03:22:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jayhoon",
+      "tags": []
+    },
+    {
       "id": "ugy1dx",
       "title": "Let's compile Quake like it's 1997",
       "description": "Score: 208 | Comments: 67 | Posted by goranmoomin",
@@ -418,6 +451,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "1vuio0pswjnm7",
+      "tags": []
+    },
+    {
+      "id": "4dxb6l",
+      "title": "I found a seashell in the middle of the desert",
+      "description": "Score: 298 | Comments: 76 | Posted by Hawzen",
+      "url": "https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert#i-found-a-seashell-in-the-middle-of-the-desert",
+      "publishedAt": "2026-05-29T02:49:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Hawzen",
       "tags": []
     },
     {

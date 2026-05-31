@@ -1,0 +1,94 @@
+{
+  "date": "2026-05-31",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "uj3do2",
+      "title": "The Website Specificationspecification.website",
+      "description": "Score: 13 | Comments: 1 | Posted by k1m",
+      "url": "https://specification.website/",
+      "publishedAt": "2026-05-31T07:11:46.166Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "k1m",
+      "tags": []
+    },
+    {
+      "id": "uj3do2",
+      "title": "The Website Specification",
+      "description": "Score: 15 | Comments: 1 | Posted by k1m",
+      "url": "https://specification.website/",
+      "publishedAt": "2026-05-31T07:09:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "k1m",
+      "tags": []
+    },
+    {
+      "id": "7j1r4n",
+      "title": "Avian Visitors",
+      "description": "Score: 13 | Comments: 0 | Posted by fdb",
+      "url": "https://theodore.net/projects/AvianVisitors/",
+      "publishedAt": "2026-05-31T06:13:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fdb",
+      "tags": []
+    },
+    {
+      "id": "ldjvpl",
+      "title": "A pictorial introduction to differential geometry (2017)",
+      "description": "Score: 11 | Comments: 0 | Posted by ricudis",
+      "url": "https://arxiv.org/abs/1709.08492",
+      "publishedAt": "2026-05-31T05:30:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ricudis",
+      "tags": []
+    },
+    {
+      "id": "omx3wi",
+      "title": "Show HN: Komi-learn – continuous memory and self-improvement for coding agents",
+      "description": "Score: 8 | Comments: 1 | Posted by rainxchzed",
+      "url": "https://github.com/kurikomi-labs/komi-learn",
+      "publishedAt": "2026-05-31T05:11:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rainxchzed",
+      "tags": []
+    },
+    {
+      "id": "w8n5p",
+      "title": "Ahoy, DECmate II the little PDP-8 that could",
+      "description": "Score: 25 | Comments: 1 | Posted by TMWNN",
+      "url": "http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html",
+      "publishedAt": "2026-05-31T04:42:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "TMWNN",
+      "tags": []
+    },
+    {
+      "id": "yliilc",
+      "title": "UA flight – 'turn Bluetooth off or we're turning around'",
+      "description": "Score: 58 | Comments: 17 | Posted by slackpad",
+      "url": "https://old.reddit.com/r/unitedairlines/comments/1tse6mq/ua_flight_turn_bluetooth_off_or_were_turning/",
+      "publishedAt": "2026-05-31T01:08:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "slackpad",
+      "tags": []
+    },
+    {
+      "id": "1y5egw",
+      "title": "Mechanical Pencil: An illustrated celebration of the engineering around us",
+      "description": "Score: 48 | Comments: 6 | Posted by Muhammad523",
+      "url": "https://mechanical-pencil.com/",
+      "publishedAt": "2026-05-31T00:25:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Muhammad523",
+      "tags": []
+    }
+  ]
+}

@@ -25,6 +25,17 @@
       "tags": []
     },
     {
+      "id": "ap3u4x",
+      "title": "Gustav Klimt and Egon Schiele in Conversation (2018)",
+      "description": "Score: 35 | Comments: 4 | Posted by rballpug",
+      "url": "https://www.theparisreview.org/blog/2018/01/31/the-drawings-of-klimt-and-schiele/",
+      "publishedAt": "2026-05-28T22:29:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rballpug",
+      "tags": []
+    },
+    {
       "id": "bjay4x",
       "title": "GitHub bans security researcher who posted zero-day Windows exploits",
       "description": "Score: 336 | Comments: 149 | Posted by possibilistic",
@@ -44,6 +55,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "SVI",
+      "tags": []
+    },
+    {
+      "id": "b2k7wq",
+      "title": "Show HN: Open Envelope – an open schema for defining AI agent teams",
+      "description": "Score: 41 | Comments: 5 | Posted by ashconway",
+      "url": "https://openenvelope.org/docs/schema/",
+      "publishedAt": "2026-05-28T20:30:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ashconway",
       "tags": []
     },
     {
@@ -110,6 +132,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "bookofjoe",
+      "tags": []
+    },
+    {
+      "id": "vfukso",
+      "title": "Associative learning turns DEET from aversive to appetitive in Aedes aegypti",
+      "description": "Score: 24 | Comments: 7 | Posted by croes",
+      "url": "https://journals.biologists.com/jeb/article/229/10/jeb251935/371741/Associative-learning-switches-DEET-valence-from",
+      "publishedAt": "2026-05-28T19:11:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "croes",
       "tags": []
     },
     {
@@ -275,6 +308,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "Wirbelwind",
+      "tags": []
+    },
+    {
+      "id": "vd9t4h",
+      "title": "Tsplat – Run Gaussian splatting in your terminal",
+      "description": "Score: 32 | Comments: 8 | Posted by martianvoid",
+      "url": "https://github.com/darshanmakwana412/tsplat",
+      "publishedAt": "2026-05-28T12:15:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "martianvoid",
+      "tags": []
+    },
+    {
+      "id": "aql07c",
+      "title": "Racket v9.2 is now available",
+      "description": "Score: 96 | Comments: 14 | Posted by spdegabrielle",
+      "url": "https://blog.racket-lang.org/2026/05/racket-v9-2.html",
+      "publishedAt": "2026-05-28T09:42:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "spdegabrielle",
       "tags": []
     },
     {
