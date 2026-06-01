@@ -1,0 +1,42 @@
+{
+  "date": "2026-06-01",
+  "source": "theverge",
+  "articles": [
+    {
+      "id": "5zqja1",
+      "title": "This is the Microsoft Surface Laptop Ultra with Nvidia RTX Spark",
+      "description": "Once upon a time, Microsoft had to write off $900 million betting an Arm-based Nvidia chip could power its first flagship Windows portable, the original Microsoft Surface. But today, it's trying again. Microsoft and Nvidia have just announced the Surface Laptop Ultra, a computer with a new Arm-based Nvidia chip at its core. There's a [&#8230;]",
+      "url": "https://www.theverge.com/tech/940584/microsoft-surface-laptop-ultra-nvidia-rtx-spark-pictures",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Surface-Laptop-Ultra-Image-3-crop.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-06-01T04:36:41.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Sean Hollister",
+      "tags": []
+    },
+    {
+      "id": "obpemx",
+      "title": "Nvidia announces RTX Spark as ‘the most efficient PC chip ever built’",
+      "description": "This fall, Nvidia will officially become a consumer PC chipmaker like Intel, AMD, Apple, and Qualcomm, putting a complete computing chip - not just graphics - into the very heart of laptops and mini-PCs. After many months of leaks, it's finally announcing the RTX Spark, the first in a family of chips that will meet [&#8230;]",
+      "url": "https://www.theverge.com/tech/940589/nvidia-rtx-spark-n1-n1x-laptop-desktop-pc-cpu-gpu-ai-release-date",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/spark.jpg?quality=90&#038;strip=all&#038;crop=13.2,5.6371712237898,86.8,94.36282877621",
+      "publishedAt": "2026-06-01T04:28:53.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Sean Hollister",
+      "tags": []
+    },
+    {
+      "id": "jephlw",
+      "title": "AMD’s new pitch: our old tech is so good you should just keep using it",
+      "description": "Computex 2026 is underway in Taiwan, and we're expecting all manner of flashy computers with jaw-dropping prices (or no prices at all) as the entire industry navigates RAMageddon. But for desktop PC gamers, AMD has a different pitch. It's relaunching three old components alongside a big new promise: you won't need to buy a new [&#8230;]",
+      "url": "https://www.theverge.com/tech/940524/amd-computex-am5-promise-2029-rx9070gre-7700x3d-5800x3d",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/1505974-dr-lisa-su-ryzen.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-06-01T00:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Sean Hollister",
+      "tags": []
+    }
+  ]
+}

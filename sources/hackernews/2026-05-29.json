@@ -25,6 +25,17 @@
       "tags": []
     },
     {
+      "id": "fn9x7y",
+      "title": "Bias Compounds, Variance Washes Out",
+      "description": "Score: 16 | Comments: 4 | Posted by jxmorris12",
+      "url": "https://convergentthinking.sh/posts/bias-compounds-variance-washes-out/",
+      "publishedAt": "2026-05-29T23:26:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jxmorris12",
+      "tags": []
+    },
+    {
       "id": "4y0dts",
       "title": "MCP is dead?",
       "description": "Score: 175 | Comments: 159 | Posted by nadis",
@@ -124,6 +135,17 @@
       "tags": []
     },
     {
+      "id": "a69hsl",
+      "title": "Decades of Effort Restore Steelhead and Salmon Passage on Alameda Creek",
+      "description": "Score: 106 | Comments: 9 | Posted by rawgabbit",
+      "url": "https://www.fisheries.noaa.gov/feature-story/decades-effort-restore-steelhead-and-salmon-passage-californias-alameda-creek",
+      "publishedAt": "2026-05-29T18:37:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rawgabbit",
+      "tags": []
+    },
+    {
       "id": "r94b7w",
       "title": "Rothko for your current weather conditions",
       "description": "Score: 137 | Comments: 13 | Posted by jxmorris12",
@@ -154,6 +176,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "tomasol",
+      "tags": []
+    },
+    {
+      "id": "2omynj",
+      "title": "What if remote working, not AI, is to blame for weak junior hiring?",
+      "description": "Score: 155 | Comments: 214 | Posted by uxhacker",
+      "url": "https://www.ft.com/content/2205e2d0-50dc-4e80-9bf7-78d0272276c0",
+      "publishedAt": "2026-05-29T17:50:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "uxhacker",
       "tags": []
     },
     {
@@ -245,6 +278,17 @@
       "tags": []
     },
     {
+      "id": "h53gzi",
+      "title": "Unix in East Germany (GDR) (1990)",
+      "description": "Score: 63 | Comments: 11 | Posted by downbad_",
+      "url": "https://groups.google.com/g/comp.unix.wizards/c/QX_dxElrVNs",
+      "publishedAt": "2026-05-29T15:21:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "downbad_",
+      "tags": []
+    },
+    {
       "id": "c4a6ns",
       "title": "Bijou64: A variable-length integer encoding",
       "description": "Score: 219 | Comments: 77 | Posted by justinweiss",
@@ -275,6 +319,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "PinkG",
+      "tags": []
+    },
+    {
+      "id": "dl27p1",
+      "title": "One year of Roto, a compiled scripting language for Rust",
+      "description": "Score: 122 | Comments: 29 | Posted by Hasnep",
+      "url": "https://blog.nlnetlabs.nl/one-year-of-roto-the-compiled-scripting-language-for-rust/",
+      "publishedAt": "2026-05-29T14:07:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Hasnep",
+      "tags": []
+    },
+    {
+      "id": "67v2l9",
+      "title": "New Beam Spring Keyboards",
+      "description": "Score: 90 | Comments: 67 | Posted by recursivedoubts",
+      "url": "https://www.modelfkeyboards.com/product/beam-spring-b104-keyboard/",
+      "publishedAt": "2026-05-29T13:39:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "recursivedoubts",
       "tags": []
     },
     {
@@ -333,6 +399,17 @@
       "tags": []
     },
     {
+      "id": "34bb5n",
+      "title": "Finding success in industry as a chip designer",
+      "description": "Score: 29 | Comments: 3 | Posted by jnord",
+      "url": "https://spectrum.ieee.org/chip-design-academic-vs-industry",
+      "publishedAt": "2026-05-29T12:15:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jnord",
+      "tags": []
+    },
+    {
       "id": "i89e5g",
       "title": "We should be more tired than the model",
       "description": "Score: 171 | Comments: 135 | Posted by tosh",
@@ -341,6 +418,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "tosh",
+      "tags": []
+    },
+    {
+      "id": "hagkpn",
+      "title": "Linux/M68k",
+      "description": "Score: 99 | Comments: 25 | Posted by doener",
+      "url": "http://www.linux-m68k.org/",
+      "publishedAt": "2026-05-29T11:46:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "doener",
       "tags": []
     },
     {
@@ -363,6 +451,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "altilunium",
+      "tags": []
+    },
+    {
+      "id": "cgfd17",
+      "title": "Security Envelope Pattern collection – S.E.C.R.E.T",
+      "description": "Score: 92 | Comments: 9 | Posted by ColinWright",
+      "url": "https://secret-archive.org/",
+      "publishedAt": "2026-05-29T09:49:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ColinWright",
       "tags": []
     },
     {

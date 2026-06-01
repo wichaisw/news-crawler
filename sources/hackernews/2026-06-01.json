@@ -1,0 +1,94 @@
+{
+  "date": "2026-06-01",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "evpqp9",
+      "title": "Malaysia enforces ban on social media accounts for children younger than 16",
+      "description": "Score: 41 | Comments: 13 | Posted by 01-_-",
+      "url": "https://apnews.com/article/malaysia-social-media-ban-16-bfaa7b01163b61b5d53c4ecfa870d133",
+      "publishedAt": "2026-06-01T07:05:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "01-_-",
+      "tags": []
+    },
+    {
+      "id": "bpjowp",
+      "title": "A 10 year old Xeon is all you need (for 26B-A4B MTP Drafters without GPU)",
+      "description": "Score: 6 | Comments: 8 | Posted by cafkafk",
+      "url": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
+      "publishedAt": "2026-06-01T06:38:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cafkafk",
+      "tags": []
+    },
+    {
+      "id": "4485ni",
+      "title": "A powerful new chapter for Windows PCs, accelerated by Nvidia RTX Spark",
+      "description": "Score: 8 | Comments: 0 | Posted by WalterSobchak",
+      "url": "https://blogs.windows.com/windowsexperience/2026/05/31/introducing-a-powerful-new-chapter-for-windows-pcs-accelerated-by-nvidia-rtx-spark/",
+      "publishedAt": "2026-06-01T04:45:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "WalterSobchak",
+      "tags": []
+    },
+    {
+      "id": "gvh0x",
+      "title": "Surface Laptop Ultra: Made for World Makers",
+      "description": "Score: 20 | Comments: 15 | Posted by berlianta",
+      "url": "https://blogs.windows.com/devices/2026/05/31/introducing-surface-laptop-ultra-made-for-world-makers/",
+      "publishedAt": "2026-06-01T04:32:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "berlianta",
+      "tags": []
+    },
+    {
+      "id": "7jdivx",
+      "title": "Rubin Tracks Skyscraper-Size Asteroids and Failed Supernovas",
+      "description": "Score: 19 | Comments: 3 | Posted by adm4",
+      "url": "https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/",
+      "publishedAt": "2026-06-01T04:08:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "adm4",
+      "tags": []
+    },
+    {
+      "id": "1mtier",
+      "title": "The Totalisator",
+      "description": "Score: 3 | Comments: 0 | Posted by pinewurst",
+      "url": "https://computer.rip/2026-05-31-totalisator.html",
+      "publishedAt": "2026-06-01T03:37:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pinewurst",
+      "tags": []
+    },
+    {
+      "id": "rxeh2l",
+      "title": "Weekend trivia: your process' memory is a file",
+      "description": "Score: 6 | Comments: 0 | Posted by surprisetalk",
+      "url": "https://lcamtuf.substack.com/p/weekend-trivia-your-process-memory",
+      "publishedAt": "2026-06-01T03:15:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
+      "id": "2wbs0t",
+      "title": "Shift from a leader-follower to a leader-leader approach",
+      "description": "Score: 68 | Comments: 37 | Posted by Alupis",
+      "url": "https://www.practicalengineering.management/p/shift-from-a-leader-follower-to-a",
+      "publishedAt": "2026-06-01T02:03:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Alupis",
+      "tags": []
+    }
+  ]
+}

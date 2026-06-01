@@ -102,6 +102,17 @@
       "tags": []
     },
     {
+      "id": "hdn49i",
+      "title": "Show HN: Breathe CLI – Paced resonance breathing in the macOS terminal",
+      "description": "Score: 120 | Comments: 36 | Posted by marekkowalczyk",
+      "url": "https://github.com/marekkowalczyk/breathe-cli",
+      "publishedAt": "2026-05-30T20:30:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "marekkowalczyk",
+      "tags": []
+    },
+    {
       "id": "ucv8yv",
       "title": "Dusklight – GC Twilight Princess Decompiled",
       "description": "Score: 92 | Comments: 11 | Posted by shepherdjerred",
@@ -231,6 +242,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "davikr",
+      "tags": []
+    },
+    {
+      "id": "97s1mp",
+      "title": "Using safe-area-inset to build mobile-safe layouts",
+      "description": "Score: 31 | Comments: 2 | Posted by eustoria",
+      "url": "https://polypane.app/blog/using-safe-area-inset-to-build-mobile-safe-layouts/",
+      "publishedAt": "2026-05-30T13:43:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "eustoria",
       "tags": []
     },
     {
