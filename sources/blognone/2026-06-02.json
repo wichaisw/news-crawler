@@ -1,0 +1,73 @@
+{
+  "date": "2026-06-02",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "150772 at https://www.blognone.com",
+      "title": "NVIDIA เปิดตัวเครื่องเดสก์ท็อป DGX Station ชิป GB300 เวอร์ชันรัน Windows",
+      "description": "NVIDIA เปิดตัวเครื่องเดสก์ท็อป DGX Station ชิป GB300 เวอร์ชันรัน Windows Body NVIDIA เปิดตัว คอมพิวเตอร์เดสก์ท็อป DGX Spark เวอร์ชันรัน Windows",
+      "url": "https://www.blognone.com/node/150772",
+      "publishedAt": "2026-06-02T06:39:15.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150771 at https://www.blognone.com",
+      "title": "อินเทลเปิดตัวชิป Intel Arc G3 และ G3 Extreme สำหรับเครื่องเกมพีซีพกพา",
+      "description": "อินเทลเปิดตัวชิป Intel Arc G3 และ G3 Extreme สำหรับเครื่องเกมพีซีพกพา Body อินเทลเปิดตัวหน่วยประมวลผล Intel Arc G Series สำหรับเครื่องเล่นเกมพีซีพกพา",
+      "url": "https://www.blognone.com/node/150771",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2026/2026-05/intel-arc-g3.jpg",
+      "publishedAt": "2026-06-02T06:10:06.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150769 at https://www.blognone.com",
+      "title": "NVIDIA เริ่มวางขาย Vera ซีพียูเซิร์ฟเวอร์รุ่นที่สอง ต่อจาก Grace",
+      "description": "NVIDIA เริ่มวางขาย Vera ซีพียูเซิร์ฟเวอร์รุ่นที่สอง ต่อจาก Grace Body หลังจาก เปิดตัวครั้งแรกในปี 2024 และออกข่าวเรื่อยมา ในที่สุด NVIDIA",
+      "url": "https://www.blognone.com/node/150769",
+      "publishedAt": "2026-06-02T03:45:29.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150768 at https://www.blognone.com",
+      "title": "Anthropic ยื่นไฟลิ่งซึ่งเป็นขั้นตอนแรกก่อนไอพีโอเข้าตลาดหุ้นแล้ว คาดเริ่มซื้อขายปลายปีนี้",
+      "description": "Anthropic ยื่นไฟลิ่งซึ่งเป็นขั้นตอนแรกก่อนไอพีโอเข้าตลาดหุ้นแล้ว คาดเริ่มซื้อขายปลายปีนี้ Body Anthropic ยื่นเอกสารไฟลิ่ง S-1 แบบ confidential ให้กับ",
+      "url": "https://www.blognone.com/node/150768",
+      "publishedAt": "2026-06-02T01:05:26.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150767 at https://www.blognone.com",
+      "title": "Google Store เตรียมเปิดร้านสาขาแรกนอกอเมริกาในย่าน Omotesando โตเกียว ประเทศญี่ปุ่น",
+      "description": "Google Store เตรียมเปิดร้านสาขาแรกนอกอเมริกาในย่าน Omotesando โตเกียว ประเทศญี่ปุ่น Body กูเกิลประกาศเตรียมเปิดร้าน Google Store",
+      "url": "https://www.blognone.com/node/150767",
+      "publishedAt": "2026-06-02T00:44:38.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150766 at https://www.blognone.com",
+      "title": "แฮกเกอร์เจาะบัญชี Instagram โดยใช้ซัพพอร์ต AI ของ Meta ช่วยเปลี่ยนอีเมลของบัญชี",
+      "description": "แฮกเกอร์เจาะบัญชี Instagram โดยใช้ซัพพอร์ต AI ของ Meta ช่วยเปลี่ยนอีเมลของบัญชี Body มีรายงานเกี่ยวกับการแฮกบัญชีผู้ใช้งาน Instagram จำนวนมาก",
+      "url": "https://www.blognone.com/node/150766",
+      "publishedAt": "2026-06-02T00:36:10.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}

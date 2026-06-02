@@ -36,6 +36,17 @@
       "tags": []
     },
     {
+      "id": "4nonil",
+      "title": "A new way to build chips: Sequentially stacking silicon to extend Moore's Law",
+      "description": "Score: 43 | Comments: 21 | Posted by hhs",
+      "url": "https://matse.illinois.edu/news/85775",
+      "publishedAt": "2026-05-30T22:38:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hhs",
+      "tags": []
+    },
+    {
       "id": "nersg8",
       "title": "Shantell Sans (2023)",
       "description": "Score: 204 | Comments: 16 | Posted by aleda145",
@@ -168,6 +179,17 @@
       "tags": []
     },
     {
+      "id": "j5vw2x",
+      "title": "Stealing from Biologists to Compile Haskell Faster",
+      "description": "Score: 114 | Comments: 4 | Posted by mooreds",
+      "url": "https://www.iankduncan.com/engineering/2026-05-30-stealing-from-biologists-to-compile-haskell-faster/",
+      "publishedAt": "2026-05-30T17:50:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mooreds",
+      "tags": []
+    },
+    {
       "id": "34vk8e",
       "title": "Zig ELF Linker Improvements Devlog",
       "description": "Score: 197 | Comments: 61 | Posted by kristoff_it",
@@ -223,6 +245,17 @@
       "tags": []
     },
     {
+      "id": "6xrzs8",
+      "title": "KL Zero: KL divergence intuition game",
+      "description": "Score: 26 | Comments: 8 | Posted by psarna",
+      "url": "https://klzero.sarna.dev",
+      "publishedAt": "2026-05-30T15:04:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "psarna",
+      "tags": []
+    },
+    {
       "id": "a8cunv",
       "title": "AI job grief: A psychological crisis hitting tech workers",
       "description": "Score: 142 | Comments: 135 | Posted by LilBytes",
@@ -253,6 +286,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "eustoria",
+      "tags": []
+    },
+    {
+      "id": "vz9snn",
+      "title": "Handmade Hawaiian Islands Map",
+      "description": "Score: 63 | Comments: 20 | Posted by bovermyer",
+      "url": "https://www.notesfromtheroad.com/roam/hawaiian-islands-map.html",
+      "publishedAt": "2026-05-30T13:02:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bovermyer",
+      "tags": []
+    },
+    {
+      "id": "r0v2n9",
+      "title": "CQL: Categorical Databases",
+      "description": "Score: 9 | Comments: 0 | Posted by noworriesnate",
+      "url": "https://categoricaldata.net/",
+      "publishedAt": "2026-05-30T11:18:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "noworriesnate",
       "tags": []
     },
     {

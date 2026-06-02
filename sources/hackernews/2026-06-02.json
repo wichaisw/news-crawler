@@ -1,0 +1,72 @@
+{
+  "date": "2026-06-02",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "5wiqxa",
+      "title": "Strace-ui, Bonsai_term, and the TUI renaissance",
+      "description": "Score: 23 | Comments: 3 | Posted by matt_d",
+      "url": "https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance/",
+      "publishedAt": "2026-06-02T04:05:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "matt_d",
+      "tags": []
+    },
+    {
+      "id": "rlhryw",
+      "title": "macOS needs its grid backhopefullyuseful.com",
+      "description": "Score: 209 | Comments: 118 | Posted by ranebo",
+      "url": "https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/",
+      "publishedAt": "2026-06-02T01:47:39.234Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ranebo",
+      "tags": []
+    },
+    {
+      "id": "rlhryw",
+      "title": "macOS needs its grid back",
+      "description": "Score: 211 | Comments: 118 | Posted by ranebo",
+      "url": "https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/",
+      "publishedAt": "2026-06-02T01:28:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ranebo",
+      "tags": []
+    },
+    {
+      "id": "2f17q7",
+      "title": "Crystal Nights (2008)",
+      "description": "Score: 38 | Comments: 4 | Posted by rorylawless",
+      "url": "https://www.gregegan.net/MISC/CRYSTAL/Crystal.html",
+      "publishedAt": "2026-06-02T01:22:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rorylawless",
+      "tags": []
+    },
+    {
+      "id": "wfhhfm",
+      "title": "How is Groq raising more money?",
+      "description": "Score: 94 | Comments: 41 | Posted by hasheddan",
+      "url": "https://www.zach.be/p/how-the-hell-is-groq-raising-more",
+      "publishedAt": "2026-06-02T01:05:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hasheddan",
+      "tags": []
+    },
+    {
+      "id": "ba8oly",
+      "title": "Book Dedications",
+      "description": "Score: 18 | Comments: 4 | Posted by walz",
+      "url": "https://walzr.com/dedications",
+      "publishedAt": "2026-06-02T00:36:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "walz",
+      "tags": []
+    }
+  ]
+}

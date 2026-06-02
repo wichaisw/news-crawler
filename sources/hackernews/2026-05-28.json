@@ -256,6 +256,17 @@
       "tags": []
     },
     {
+      "id": "gewph",
+      "title": "I made my phone slow on purpose",
+      "description": "Score: 196 | Comments: 170 | Posted by gcampos",
+      "url": "https://vinewallapp.com/notes/i-made-my-phone-slow-on-purpose/",
+      "publishedAt": "2026-05-28T17:30:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gcampos",
+      "tags": []
+    },
+    {
       "id": "geb08m",
       "title": "Dynamic Workflows in Claude Code",
       "description": "Score: 169 | Comments: 129 | Posted by mil22",
@@ -275,6 +286,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "craigmart",
+      "tags": []
+    },
+    {
+      "id": "tkd7wc",
+      "title": "Tracing HTTP Requests with Go's net/HTTP/httptrace",
+      "description": "Score: 175 | Comments: 10 | Posted by speckx",
+      "url": "https://blainsmith.com/articles/httptrace-with-go/",
+      "publishedAt": "2026-05-28T16:46:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
       "tags": []
     },
     {
