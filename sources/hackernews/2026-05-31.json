@@ -80,6 +80,17 @@
       "tags": []
     },
     {
+      "id": "vnmc41",
+      "title": "Words of Type",
+      "description": "Score: 51 | Comments: 6 | Posted by tobr",
+      "url": "https://wiki.wordsoftype.com/",
+      "publishedAt": "2026-05-31T18:28:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tobr",
+      "tags": []
+    },
+    {
       "id": "9rakk0",
       "title": "Re: [PATCH] OOM_pardon, a.k.a. don't kill my xlock (2004)",
       "description": "Score: 78 | Comments: 70 | Posted by luu",
@@ -121,6 +132,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mooreds",
+      "tags": []
+    },
+    {
+      "id": "sdz0sw",
+      "title": "Loading Sega Games Off a Vinyl Record [video]",
+      "description": "Score: 32 | Comments: 8 | Posted by zdw",
+      "url": "https://www.youtube.com/watch?v=c744iD0_fWU",
+      "publishedAt": "2026-05-31T15:58:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
       "tags": []
     },
     {
@@ -179,6 +201,17 @@
       "tags": []
     },
     {
+      "id": "18xxuw",
+      "title": "DIY Bipedal Robot Used Pneumatic \"Air-Muscles\" Instead of Motors",
+      "description": "Score: 6 | Comments: 1 | Posted by sohkamyung",
+      "url": "https://spectrum.ieee.org/shadow-walker-biped-humanoid-robot",
+      "publishedAt": "2026-05-31T13:11:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sohkamyung",
+      "tags": []
+    },
+    {
       "id": "mpcam4",
       "title": "United Airlines 767 returns to Newark after Bluetooth name sparks alert",
       "description": "Score: 335 | Comments: 629 | Posted by Eridanus2",
@@ -223,6 +256,17 @@
       "tags": []
     },
     {
+      "id": "anb4at",
+      "title": "Show HN: I reverse-engineered the world maps of Test Drive III (1990 DOS game)",
+      "description": "Score: 58 | Comments: 10 | Posted by s-macke",
+      "url": "https://github.com/s-macke/Test-Drive-3-Maps",
+      "publishedAt": "2026-05-31T09:45:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "s-macke",
+      "tags": []
+    },
+    {
       "id": "ielz97",
       "title": "Palindromes by Eric Harshbarger",
       "description": "Score: 14 | Comments: 6 | Posted by jruohonen",
@@ -231,6 +275,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jruohonen",
+      "tags": []
+    },
+    {
+      "id": "h0ovne",
+      "title": "Multicore suppport for DOS is real – partly",
+      "description": "Score: 83 | Comments: 15 | Posted by beebix",
+      "url": "https://www.vogons.org/viewtopic.php?t=111336",
+      "publishedAt": "2026-05-31T08:06:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "beebix",
       "tags": []
     },
     {
@@ -308,6 +363,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "TMWNN",
+      "tags": []
+    },
+    {
+      "id": "6s1977",
+      "title": "Muxcard, a DIY credit card size computer",
+      "description": "Score: 250 | Comments: 85 | Posted by sargstuff",
+      "url": "https://github.com/krauseler/muxcard",
+      "publishedAt": "2026-05-31T01:59:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sargstuff",
       "tags": []
     },
     {

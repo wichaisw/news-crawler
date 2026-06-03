@@ -1,0 +1,127 @@
+{
+  "date": "2026-06-03",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "w51la7",
+      "title": "Microsoft Doubles Down on Controversial Quantum Computing Claims",
+      "description": "Score: 13 | Comments: 6 | Posted by igortru",
+      "url": "https://www.science.org/content/article/doubling-down-controversial-claims-microsoft-accelerates-quantum-computing-plans",
+      "publishedAt": "2026-06-03T06:04:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "igortru",
+      "tags": []
+    },
+    {
+      "id": "swegci",
+      "title": "Missing worker at Los Alamos National Laboratory found dead in remote forest",
+      "description": "Score: 8 | Comments: 1 | Posted by sizzle",
+      "url": "https://www.latimes.com/world-nation/story/2026-06-02/missing-worker-at-high-security-lab-in-n-m-found-dead-in-remote-forest",
+      "publishedAt": "2026-06-03T06:04:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sizzle",
+      "tags": []
+    },
+    {
+      "id": "anb4at",
+      "title": "Show HN: I reverse-engineered the world maps of Test Drive III (1990 DOS game)github.com/s-macke",
+      "description": "Score: 58 | Comments: 10 | Posted by s-macke",
+      "url": "https://github.com/s-macke/Test-Drive-3-Maps",
+      "publishedAt": "2026-06-03T04:51:15.497Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "s-macke",
+      "tags": []
+    },
+    {
+      "id": "qs2m16",
+      "title": "Americans Are Leaving the U.S. in Record Numbers",
+      "description": "Score: 31 | Comments: 23 | Posted by KnuthIsGod",
+      "url": "https://www.wsj.com/podcasts/the-journal/americans-are-leaving-the-us-in-record-numbers/f2ae7db5-db04-4394-84db-7536e5b681ec",
+      "publishedAt": "2026-06-03T04:33:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "KnuthIsGod",
+      "tags": []
+    },
+    {
+      "id": "kie7mn",
+      "title": "The Unreasonable Redundancy of Nature's Protein Folds",
+      "description": "Score: 72 | Comments: 13 | Posted by ray__",
+      "url": "https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/",
+      "publishedAt": "2026-06-03T03:47:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ray__",
+      "tags": []
+    },
+    {
+      "id": "offie7",
+      "title": "U of T researchers demonstrate AI worm could target any online device",
+      "description": "Score: 19 | Comments: 5 | Posted by shscs911",
+      "url": "https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device",
+      "publishedAt": "2026-06-03T03:47:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "shscs911",
+      "tags": []
+    },
+    {
+      "id": "szopau",
+      "title": "Rsync and outrage",
+      "description": "Score: 70 | Comments: 12 | Posted by st3fan",
+      "url": "https://medium.com/@tridge60/rsync-and-outrage-d9849599e5a0",
+      "publishedAt": "2026-06-03T03:16:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "st3fan",
+      "tags": []
+    },
+    {
+      "id": "4wmil7",
+      "title": "Agentic Mfw",
+      "description": "Score: 171 | Comments: 53 | Posted by elmerland",
+      "url": "https://agenticmotherfucking.website",
+      "publishedAt": "2026-06-03T02:32:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "elmerland",
+      "tags": []
+    },
+    {
+      "id": "d30ber",
+      "title": "Capstone – multi-platform, multi-architecture disassembly framework",
+      "description": "Score: 43 | Comments: 1 | Posted by gregsadetsky",
+      "url": "https://www.capstone-engine.org/",
+      "publishedAt": "2026-06-03T01:59:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gregsadetsky",
+      "tags": []
+    },
+    {
+      "id": "72yrmt",
+      "title": "1-Click GitHub Token Stealing via a VSCode Bugammaraskar.com",
+      "description": "Score: 323 | Comments: 44 | Posted by ammar2",
+      "url": "https://blog.ammaraskar.com/github-token-stealing/",
+      "publishedAt": "2026-06-03T01:51:15.494Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ammar2",
+      "tags": []
+    },
+    {
+      "id": "2sndhc",
+      "title": "Roku LT Operating System open source distribution",
+      "description": "Score: 69 | Comments: 21 | Posted by dpmdpm",
+      "url": "https://blog.roku.com/developer/roku-lt-os",
+      "publishedAt": "2026-06-03T01:13:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dpmdpm",
+      "tags": []
+    }
+  ]
+}
