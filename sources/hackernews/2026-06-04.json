@@ -1,0 +1,72 @@
+{
+  "date": "2026-06-04",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "8tf4s1",
+      "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
+      "description": "Score: 174 | Comments: 70 | Posted by jc4p",
+      "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
+      "publishedAt": "2026-06-04T00:56:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jc4p",
+      "tags": []
+    },
+    {
+      "id": "vcl6i6",
+      "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classesdailycal.org",
+      "description": "Score: 222 | Comments: 162 | Posted by littlexsparkee",
+      "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
+      "publishedAt": "2026-06-04T00:46:06.172Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "littlexsparkee",
+      "tags": []
+    },
+    {
+      "id": "d8ah5f",
+      "title": "U.S. to dismantle system tracking Atlantic currents that are at risk of collapse",
+      "description": "Score: 433 | Comments: 288 | Posted by rguiscard",
+      "url": "https://e360.yale.edu/digest/trump-ooi-amoc",
+      "publishedAt": "2026-06-04T00:44:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rguiscard",
+      "tags": []
+    },
+    {
+      "id": "dd5d6e",
+      "title": "Dumbphone 2",
+      "description": "Score: 33 | Comments: 27 | Posted by skogstokig",
+      "url": "https://dumb.co/",
+      "publishedAt": "2026-06-04T00:41:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "skogstokig",
+      "tags": []
+    },
+    {
+      "id": "dkkiex",
+      "title": "The ways we contain Claude across products",
+      "description": "Score: 107 | Comments: 47 | Posted by jbredeche",
+      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+      "publishedAt": "2026-06-04T00:27:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jbredeche",
+      "tags": []
+    },
+    {
+      "id": "vcl6i6",
+      "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+      "description": "Score: 224 | Comments: 163 | Posted by littlexsparkee",
+      "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
+      "publishedAt": "2026-06-04T00:18:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "littlexsparkee",
+      "tags": []
+    }
+  ]
+}

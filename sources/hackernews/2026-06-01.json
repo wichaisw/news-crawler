@@ -113,6 +113,17 @@
       "tags": []
     },
     {
+      "id": "z8amnv",
+      "title": "Meteor Explodes over Massachusetts",
+      "description": "Score: 98 | Comments: 51 | Posted by 1970-01-01",
+      "url": "https://www.nbcboston.com/news/local/meteor-explodes-over-massachusetts-what-we-know-and-where-it-landed/3957663/",
+      "publishedAt": "2026-06-01T20:31:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "1970-01-01",
+      "tags": []
+    },
+    {
       "id": "1isgse",
       "title": "GitHub and the crime against software",
       "description": "Score: 215 | Comments: 103 | Posted by pplanu",
@@ -121,6 +132,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "pplanu",
+      "tags": []
+    },
+    {
+      "id": "kx1g5o",
+      "title": "When does fragmentation occur in the CUDA caching allocator?",
+      "description": "Score: 10 | Comments: 1 | Posted by matt_d",
+      "url": "https://docs.pytorch.org/devlogs/eager/2026-06-01-cuda-caching-allocator/",
+      "publishedAt": "2026-06-01T18:43:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "matt_d",
       "tags": []
     },
     {
@@ -333,6 +355,17 @@
       "tags": []
     },
     {
+      "id": "pji6ur",
+      "title": "Stop Killing Games",
+      "description": "Score: 208 | Comments: 215 | Posted by amcclure",
+      "url": "https://jxself.org/stop-killing-games.shtml",
+      "publishedAt": "2026-06-01T13:16:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "amcclure",
+      "tags": []
+    },
+    {
       "id": "79jrhd",
       "title": "Announcing Zstandard in Rust",
       "description": "Score: 46 | Comments: 3 | Posted by jmillikin",
@@ -341,6 +374,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jmillikin",
+      "tags": []
+    },
+    {
+      "id": "5e6kfk",
+      "title": "Algorithmic Theming Engines",
+      "description": "Score: 12 | Comments: 1 | Posted by mooreds",
+      "url": "https://www.smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/",
+      "publishedAt": "2026-06-01T12:29:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mooreds",
       "tags": []
     },
     {
@@ -363,6 +407,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "01-_-",
+      "tags": []
+    },
+    {
+      "id": "ppgsum",
+      "title": "How turkey hacked the hair-transplant industry",
+      "description": "Score: 113 | Comments: 177 | Posted by joozio",
+      "url": "https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/",
+      "publishedAt": "2026-06-01T07:02:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "joozio",
       "tags": []
     },
     {
@@ -410,6 +465,17 @@
       "tags": []
     },
     {
+      "id": "ph0p4z",
+      "title": "The Capacity of HotHands to Facilitate High-Altitude Research (2023) [pdf]",
+      "description": "Score: 4 | Comments: 0 | Posted by radeeyate",
+      "url": "https://www.colorado.edu/center/spacegrant/sites/default/files/attached-files/B3_RRCC_BringingTheHeatTo100%2C000Feet.pdf",
+      "publishedAt": "2026-06-01T04:12:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "radeeyate",
+      "tags": []
+    },
+    {
       "id": "7jdivx",
       "title": "Rubin Tracks Skyscraper-Size Asteroids and Failed Supernovas",
       "description": "Score: 19 | Comments: 3 | Posted by adm4",
@@ -451,6 +517,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "Alupis",
+      "tags": []
+    },
+    {
+      "id": "i8nuvc",
+      "title": "Nabokov's pale fire: the lost 'father of all hypertext demos'? (2011)",
+      "description": "Score: 121 | Comments: 29 | Posted by aragonite",
+      "url": "https://dl.acm.org/doi/pdf/10.1145/1995966.1996008",
+      "publishedAt": "2026-06-01T01:18:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "aragonite",
       "tags": []
     },
     {
