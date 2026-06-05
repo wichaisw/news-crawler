@@ -58,6 +58,28 @@
       "tags": []
     },
     {
+      "id": "1rvybv",
+      "title": "Pass the Cherries: Review of Twilight of the Dons",
+      "description": "Score: 3 | Comments: 0 | Posted by Petiver",
+      "url": "https://literaryreview.co.uk/pass-the-cherries",
+      "publishedAt": "2026-06-02T22:02:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Petiver",
+      "tags": []
+    },
+    {
+      "id": "rzbmpi",
+      "title": "I'm skeptical about efforts to revolutionize schooling",
+      "description": "Score: 151 | Comments: 229 | Posted by andrewstuart",
+      "url": "https://www.scotthyoung.com/blog/2026/05/27/revolutionize-schooling/",
+      "publishedAt": "2026-06-02T20:43:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andrewstuart",
+      "tags": []
+    },
+    {
       "id": "rp53rr",
       "title": "CT scans of BYD car parts",
       "description": "Score: 353 | Comments: 173 | Posted by viasfo",
@@ -66,6 +88,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "viasfo",
+      "tags": []
+    },
+    {
+      "id": "ngm8ny",
+      "title": "Branchless Quicksort faster than std:sort and pdqsort with C and C++ API",
+      "description": "Score: 162 | Comments: 36 | Posted by birdculture",
+      "url": "https://tiki.li/blog/blqsort",
+      "publishedAt": "2026-06-02T20:00:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "birdculture",
       "tags": []
     },
     {
@@ -99,6 +132,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "cassepipe",
+      "tags": []
+    },
+    {
+      "id": "83q360",
+      "title": "JLink JTAG Access on the Pinecil",
+      "description": "Score: 55 | Comments: 10 | Posted by hasheddan",
+      "url": "https://danielmangum.com/posts/jlink-jtag-pinecil/",
+      "publishedAt": "2026-06-02T19:30:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hasheddan",
       "tags": []
     },
     {
@@ -143,6 +187,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "EvanZhouDev",
+      "tags": []
+    },
+    {
+      "id": "xxjyx8",
+      "title": "Watching a Z80 from an RP2350",
+      "description": "Score: 10 | Comments: 0 | Posted by ibobev",
+      "url": "https://emalliab.wordpress.com/2026/05/26/watching-a-z80-from-an-rp2350/",
+      "publishedAt": "2026-06-02T18:18:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
       "tags": []
     },
     {
@@ -223,6 +278,17 @@
       "tags": []
     },
     {
+      "id": "b00j77",
+      "title": "WiFi Time",
+      "description": "Score: 50 | Comments: 3 | Posted by surprisetalk",
+      "url": "https://mitxela.com/projects/wifi_time",
+      "publishedAt": "2026-06-02T14:30:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
       "id": "glhuot",
       "title": "Preparing for KDE Plasma's Last X11-Supported Release",
       "description": "Score: 179 | Comments: 216 | Posted by jandeboevrie",
@@ -231,6 +297,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jandeboevrie",
+      "tags": []
+    },
+    {
+      "id": "mn5k52",
+      "title": "3D-printed book turns its own G-code into raised lettering",
+      "description": "Score: 79 | Comments: 28 | Posted by surprisetalk",
+      "url": "https://www.designboom.com/design/3d-printed-book-manual-darius-ou-benson-chong/",
+      "publishedAt": "2026-06-02T14:15:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
       "tags": []
     },
     {
@@ -253,6 +330,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "eustoria",
+      "tags": []
+    },
+    {
+      "id": "4alvra",
+      "title": "Under Notre Dame, a 'dig of the century' unearths 1,700 years of history",
+      "description": "Score: 163 | Comments: 41 | Posted by cobbzilla",
+      "url": "https://apnews.com/article/notre-dame-dig-treasures-paris-archaeology-roman-dae41f792c1402faf32a87c154cc9a77",
+      "publishedAt": "2026-06-02T11:20:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cobbzilla",
+      "tags": []
+    },
+    {
+      "id": "w2bt0g",
+      "title": "Reverse-Engineered Userspace Driver for Asus ZenVision Lid OLED on Linux\"",
+      "description": "Score: 48 | Comments: 10 | Posted by berlianta",
+      "url": "https://github.com/tarpediem/zenvision-linux",
+      "publishedAt": "2026-06-02T10:29:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "berlianta",
       "tags": []
     },
     {
@@ -297,6 +396,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mrroryflint",
+      "tags": []
+    },
+    {
+      "id": "4xy6q3",
+      "title": "Samurai City",
+      "description": "Score: 151 | Comments: 29 | Posted by zdw",
+      "url": "https://worksinprogress.co/issue/samurai-city/",
+      "publishedAt": "2026-06-02T04:32:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
       "tags": []
     },
     {

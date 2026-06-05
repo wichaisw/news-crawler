@@ -1,0 +1,193 @@
+{
+  "date": "2026-06-05",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "3ti4oh",
+      "title": "ZEC drops 30% after Anthropic AI finds Zcash counterfeit vulnerability",
+      "description": "Score: 5 | Comments: 0 | Posted by olalonde",
+      "url": "https://www.tradingview.com/news/cointelegraph:52f56f35b094b:0-zec-drops-30-after-anthropic-ai-finds-zcash-counterfeit-vulnerability/",
+      "publishedAt": "2026-06-05T06:52:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "olalonde",
+      "tags": []
+    },
+    {
+      "id": "9my3oy",
+      "title": "Amazon's New Stargate Series Is Officially Dead",
+      "description": "Score: 7 | Comments: 0 | Posted by benkan",
+      "url": "https://screenrant.com/stargate-amazon-new-series-canceled/",
+      "publishedAt": "2026-06-05T06:31:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "benkan",
+      "tags": []
+    },
+    {
+      "id": "yne9dj",
+      "title": "Satya Nadella 'Not Sure' Who Said Microsoft Wanted to Make Addictive AI",
+      "description": "Score: 11 | Comments: 1 | Posted by dr_hooo",
+      "url": "https://www.404media.co/satya-nadella-not-sure-who-said-microsoft-wanted-to-make-addictive-ai-is-looking-for-guy-who-did-this/",
+      "publishedAt": "2026-06-05T06:05:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dr_hooo",
+      "tags": []
+    },
+    {
+      "id": "eb04ev",
+      "title": "Fine-tuning an LLM to write docs like it's 1995",
+      "description": "Score: 27 | Comments: 6 | Posted by taubek",
+      "url": "https://passo.uno/fine-tuning-docs-llm/",
+      "publishedAt": "2026-06-05T05:46:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "taubek",
+      "tags": []
+    },
+    {
+      "id": "d5s790",
+      "title": "The IsUpMap lets you check the status of over 100 major sites at once",
+      "description": "Score: 20 | Comments: 9 | Posted by mikelgan",
+      "url": "https://isupmap.com/",
+      "publishedAt": "2026-06-05T04:44:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mikelgan",
+      "tags": []
+    },
+    {
+      "id": "mczsw5",
+      "title": "The Pentagon is running an AI propaganda mill targeting Latin America",
+      "description": "Score: 57 | Comments: 42 | Posted by Fricken",
+      "url": "https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon/",
+      "publishedAt": "2026-06-05T04:38:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Fricken",
+      "tags": []
+    },
+    {
+      "id": "ngkkbq",
+      "title": "C++: The Documentaryherbsutter.com",
+      "description": "Score: 73 | Comments: 11 | Posted by ingve",
+      "url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
+      "publishedAt": "2026-06-05T04:38:08.029Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingve",
+      "tags": []
+    },
+    {
+      "id": "ngkkbq",
+      "title": "C++: The Documentary",
+      "description": "Score: 73 | Comments: 11 | Posted by ingve",
+      "url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
+      "publishedAt": "2026-06-05T04:37:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingve",
+      "tags": []
+    },
+    {
+      "id": "gxtmsd",
+      "title": "Magenta RealTime 2: Open and Local Live Music Models",
+      "description": "Score: 22 | Comments: 5 | Posted by selvan",
+      "url": "https://magenta.withgoogle.com/magenta-realtime-2",
+      "publishedAt": "2026-06-05T04:09:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "selvan",
+      "tags": []
+    },
+    {
+      "id": "wotz2x",
+      "title": "Linear Cosine Palettes(2025)",
+      "description": "Score: 12 | Comments: 0 | Posted by num42",
+      "url": "https://blog.djnavarro.net/posts/2025-09-14_cosine-palettes/",
+      "publishedAt": "2026-06-05T03:40:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "num42",
+      "tags": []
+    },
+    {
+      "id": "sdl3sc",
+      "title": "Azure Linux 4.0 is Microsoft's first general-purpose Linux",
+      "description": "Score: 98 | Comments: 67 | Posted by haydenbarnes",
+      "url": "https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/",
+      "publishedAt": "2026-06-05T03:14:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "haydenbarnes",
+      "tags": []
+    },
+    {
+      "id": "bsm8bm",
+      "title": "The Causes of Long Covid",
+      "description": "Score: 103 | Comments: 59 | Posted by maxall4",
+      "url": "https://www.science.org/content/blog-post/causes-long-covid",
+      "publishedAt": "2026-06-05T03:04:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "maxall4",
+      "tags": []
+    },
+    {
+      "id": "67pcnq",
+      "title": "Delacroix's Entry of the Crusaders into Constantinople Restored",
+      "description": "Score: 18 | Comments: 4 | Posted by rawgabbit",
+      "url": "https://www.louvre.fr/en/explore/life-at-the-museum/delacroix-s-entry-of-the-crusaders-into-constantinople-restored-to-its-original-glory",
+      "publishedAt": "2026-06-05T02:48:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rawgabbit",
+      "tags": []
+    },
+    {
+      "id": "j8doo",
+      "title": "Meta enables ADB on deprecated Portal devices [video]fb.watch",
+      "description": "Score: 200 | Comments: 61 | Posted by jenders",
+      "url": "https://fb.watch/HxPu0fSyeH/",
+      "publishedAt": "2026-06-05T01:38:08.030Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jenders",
+      "tags": []
+    },
+    {
+      "id": "803vmo",
+      "title": "The Kyle Kingsbury Podcast Podcast – Episode 1 – Alex Dripchak",
+      "description": "Score: 11 | Comments: 0 | Posted by yurivish",
+      "url": "https://aphyr.com/posts/422-the-kyle-kingsbury-podcast-podcast-episode-1-alex-dripchak",
+      "publishedAt": "2026-06-05T01:05:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "yurivish",
+      "tags": []
+    },
+    {
+      "id": "j8doo",
+      "title": "Meta enables ADB on deprecated Portal devices [video]",
+      "description": "Score: 200 | Comments: 61 | Posted by jenders",
+      "url": "https://fb.watch/HxPu0fSyeH/",
+      "publishedAt": "2026-06-05T00:44:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jenders",
+      "tags": []
+    },
+    {
+      "id": "d81ory",
+      "title": "Open Code Review – An AI-powered code review CLI tool",
+      "description": "Score: 157 | Comments: 32 | Posted by geoffbp",
+      "url": "https://github.com/alibaba/open-code-review",
+      "publishedAt": "2026-06-05T00:04:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "geoffbp",
+      "tags": []
+    }
+  ]
+}

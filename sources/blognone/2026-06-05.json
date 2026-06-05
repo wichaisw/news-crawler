@@ -1,0 +1,39 @@
+{
+  "date": "2026-06-05",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "150793 at https://www.blognone.com",
+      "title": "ไมโครซอฟท์เปิดตัว Majorana 2 ชิปประมวลผลควอนตัมรุ่นที่สอง คิวบิตเสถียรกว่ารุ่นแรกมาก",
+      "description": "ไมโครซอฟท์เปิดตัว Majorana 2 ชิปประมวลผลควอนตัมรุ่นที่สอง คิวบิตเสถียรกว่ารุ่นแรกมาก Body งาน Build 2026 ปีนี้",
+      "url": "https://www.blognone.com/node/150793",
+      "publishedAt": "2026-06-05T07:09:28.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150792 at https://www.blognone.com",
+      "title": "Cloudflare: ทราฟิกบนอินเทอร์เน็ตตอนนี้มาจากบอตมากกว่ามนุษย์แล้ว เร็วกว่าคาดไว้ 1 ปี",
+      "description": "Cloudflare: ทราฟิกบนอินเทอร์เน็ตตอนนี้มาจากบอตมากกว่ามนุษย์แล้ว เร็วกว่าคาดไว้ 1 ปี Body Matthew Prince ซีอีโอและผู้ร่วมก่อตั้ง Cloudflare",
+      "url": "https://www.blognone.com/node/150792",
+      "publishedAt": "2026-06-05T06:02:39.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150791 at https://www.blognone.com",
+      "title": "Google ออก Gemma 4 12B โมเดลแบบเปิด รันโลคอลได้ด้วยแรม 16GB รองรับอินพุทผสมผสาน",
+      "description": "Google ออก Gemma 4 12B โมเดลแบบเปิด รันโลคอลได้ด้วยแรม 16GB รองรับอินพุทผสมผสาน Body กูเกิลออกโมเดลปัญญาประดิษฐ์ LLM แบบเปิดตระกูล Gemma 4 รุ่นใหม่",
+      "url": "https://www.blognone.com/node/150791",
+      "publishedAt": "2026-06-05T01:39:00.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}
