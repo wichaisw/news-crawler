@@ -69,6 +69,17 @@
       "tags": []
     },
     {
+      "id": "qr8cfj",
+      "title": "How LLMs work",
+      "description": "Score: 192 | Comments: 50 | Posted by 0xkato",
+      "url": "https://www.0xkato.xyz/how-llms-actually-work/",
+      "publishedAt": "2026-06-03T20:15:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "0xkato",
+      "tags": []
+    },
+    {
       "id": "q8em6i",
       "title": "A Man Who Reads Books for a Living",
       "description": "Score: 110 | Comments: 82 | Posted by gmays",
@@ -256,6 +267,28 @@
       "tags": []
     },
     {
+      "id": "bopkot",
+      "title": "Nine Ways to Do Inheritance in Rust, a Language Without Inheritance",
+      "description": "Score: 30 | Comments: 4 | Posted by pjmlp",
+      "url": "https://medium.com/@carlmkadie/nine-ways-to-do-inheritance-in-rust-a-language-without-inheritance-14825bf1e215",
+      "publishedAt": "2026-06-03T13:29:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pjmlp",
+      "tags": []
+    },
+    {
+      "id": "678h5",
+      "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows",
+      "description": "Score: 513 | Comments: 212 | Posted by riddley",
+      "url": "https://mouseless.click",
+      "publishedAt": "2026-06-03T13:22:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "riddley",
+      "tags": []
+    },
+    {
       "id": "2936b7",
       "title": "32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building",
       "description": "Score: 392 | Comments: 357 | Posted by papersail",
@@ -355,6 +388,28 @@
       "tags": []
     },
     {
+      "id": "sz09rz",
+      "title": "Redis 8.8: New array data structure, rate limiter, performance improvements",
+      "description": "Score: 209 | Comments: 93 | Posted by ksec",
+      "url": "https://redis.io/blog/announcing-redis-8-8/",
+      "publishedAt": "2026-06-03T10:05:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ksec",
+      "tags": []
+    },
+    {
+      "id": "u6xwzy",
+      "title": "Ten Years of Franz",
+      "description": "Score: 19 | Comments: 6 | Posted by tosh",
+      "url": "https://meetfranz.com/blog/ten-years-of-franz",
+      "publishedAt": "2026-06-03T07:17:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tosh",
+      "tags": []
+    },
+    {
       "id": "w51la7",
       "title": "Microsoft Doubles Down on Controversial Quantum Computing Claims",
       "description": "Score: 13 | Comments: 6 | Posted by igortru",
@@ -374,6 +429,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "sizzle",
+      "tags": []
+    },
+    {
+      "id": "1sk91h",
+      "title": "Cooldown Support for Ruby Bundler",
+      "description": "Score: 156 | Comments: 42 | Posted by calyhre",
+      "url": "https://blog.rubygems.org/2026/06/03/cooldown-let-new-gems-be-vetted.html",
+      "publishedAt": "2026-06-03T05:15:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "calyhre",
       "tags": []
     },
     {

@@ -1,0 +1,116 @@
+{
+  "date": "2026-06-06",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "kmnz74",
+      "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropicarstechnica.com",
+      "description": "Score: 198 | Comments: 52 | Posted by maltalex",
+      "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+      "publishedAt": "2026-06-06T05:11:37.486Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "maltalex",
+      "tags": []
+    },
+    {
+      "id": "kmnz74",
+      "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+      "description": "Score: 201 | Comments: 52 | Posted by maltalex",
+      "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+      "publishedAt": "2026-06-06T04:38:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "maltalex",
+      "tags": []
+    },
+    {
+      "id": "n2caho",
+      "title": "Pre-Modern Armies for Worldbuilders, Part I: Why They Fightacoup.blog",
+      "description": "Score: 44 | Comments: 7 | Posted by gostsamo",
+      "url": "https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/",
+      "publishedAt": "2026-06-06T04:11:37.485Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gostsamo",
+      "tags": []
+    },
+    {
+      "id": "n2caho",
+      "title": "Pre-Modern Armies for Worldbuilders, Part I: Why They Fight",
+      "description": "Score: 44 | Comments: 7 | Posted by gostsamo",
+      "url": "https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/",
+      "publishedAt": "2026-06-06T03:41:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gostsamo",
+      "tags": []
+    },
+    {
+      "id": "ec3fqy",
+      "title": "Lockdown Mode",
+      "description": "Score: 41 | Comments: 18 | Posted by berlianta",
+      "url": "https://help.openai.com/en/articles/20001061-lockdown-mode",
+      "publishedAt": "2026-06-06T03:36:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "berlianta",
+      "tags": []
+    },
+    {
+      "id": "gwe51o",
+      "title": "The back cover of C++: The Language raises questions not answered by front cover",
+      "description": "Score: 68 | Comments: 12 | Posted by paulmooreparks",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391",
+      "publishedAt": "2026-06-06T03:23:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "paulmooreparks",
+      "tags": []
+    },
+    {
+      "id": "qr8cfj",
+      "title": "How LLMs work0xkato.xyz",
+      "description": "Score: 189 | Comments: 49 | Posted by 0xkato",
+      "url": "https://www.0xkato.xyz/how-llms-actually-work/",
+      "publishedAt": "2026-06-06T02:11:37.484Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "0xkato",
+      "tags": []
+    },
+    {
+      "id": "p76k9w",
+      "title": "Show HN: ABC Classic 100 Rankings visualised",
+      "description": "Score: 26 | Comments: 17 | Posted by gotski",
+      "url": "https://classic100.gotski.workers.dev/",
+      "publishedAt": "2026-06-06T01:32:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gotski",
+      "tags": []
+    },
+    {
+      "id": "h92qns",
+      "title": "The intracies of modern camera lens repair (2024)salvagedcircuitry.com",
+      "description": "Score: 142 | Comments: 46 | Posted by transistor-man",
+      "url": "https://salvagedcircuitry.com/sigma-45mm.html",
+      "publishedAt": "2026-06-06T01:11:37.485Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "transistor-man",
+      "tags": []
+    },
+    {
+      "id": "h92qns",
+      "title": "The intracies of modern camera lens repair (2024)",
+      "description": "Score: 142 | Comments: 46 | Posted by transistor-man",
+      "url": "https://salvagedcircuitry.com/sigma-45mm.html",
+      "publishedAt": "2026-06-06T00:33:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "transistor-man",
+      "tags": []
+    }
+  ]
+}

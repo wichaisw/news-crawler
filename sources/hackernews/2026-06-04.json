@@ -47,6 +47,17 @@
       "tags": []
     },
     {
+      "id": "ou10uo",
+      "title": "Show HN: Formally verified polygon intersection – Opus 4.8 oneshots, prev failed",
+      "description": "Score: 72 | Comments: 14 | Posted by permute",
+      "url": "https://github.com/schildep/verified-polygon-intersection",
+      "publishedAt": "2026-06-04T22:06:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "permute",
+      "tags": []
+    },
+    {
       "id": "7hv63c",
       "title": "IPv6 zones in URLs are a mistake",
       "description": "Score: 118 | Comments: 89 | Posted by xena",
@@ -124,6 +135,17 @@
       "tags": []
     },
     {
+      "id": "yfi616",
+      "title": "\"Maybe later\" was a feature",
+      "description": "Score: 90 | Comments: 30 | Posted by arnorhs",
+      "url": "https://arnorhs.dev/posts/2026-06-04/maybe-later-was-a-feature/",
+      "publishedAt": "2026-06-04T18:31:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "arnorhs",
+      "tags": []
+    },
+    {
       "id": "3c3pls",
       "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
       "description": "Score: 435 | Comments: 577 | Posted by meetpateltech",
@@ -154,6 +176,39 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "theanonymousone",
+      "tags": []
+    },
+    {
+      "id": "jketkg",
+      "title": "My Agent Skill for Test-Driven Development",
+      "description": "Score: 163 | Comments: 66 | Posted by laxmena",
+      "url": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
+      "publishedAt": "2026-06-04T14:10:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "laxmena",
+      "tags": []
+    },
+    {
+      "id": "zfxpkh",
+      "title": "Inside FAISS: Billion-Scale Similarity Search",
+      "description": "Score: 58 | Comments: 4 | Posted by tohms",
+      "url": "https://fremaconsulting.ch/blog/faiss",
+      "publishedAt": "2026-06-04T13:54:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tohms",
+      "tags": []
+    },
+    {
+      "id": "r9gaki",
+      "title": "Europe's largest Copper Age tomb: children's bones show ancient health crisis",
+      "description": "Score: 27 | Comments: 5 | Posted by gmays",
+      "url": "https://phys.org/news/2026-05-europe-largest-copper-age-tomb.html",
+      "publishedAt": "2026-06-04T13:17:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gmays",
       "tags": []
     },
     {
