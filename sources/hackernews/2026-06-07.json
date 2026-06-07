@@ -1,0 +1,171 @@
+{
+  "date": "2026-06-07",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "vjhbqs",
+      "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winnersioccc.org",
+      "description": "Score: 63 | Comments: 8 | Posted by matt_d",
+      "url": "https://www.ioccc.org/2025/",
+      "publishedAt": "2026-06-07T06:31:14.483Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "matt_d",
+      "tags": []
+    },
+    {
+      "id": "vjhbqs",
+      "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
+      "description": "Score: 64 | Comments: 8 | Posted by matt_d",
+      "url": "https://www.ioccc.org/2025/",
+      "publishedAt": "2026-06-07T05:47:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "matt_d",
+      "tags": []
+    },
+    {
+      "id": "yg05w8",
+      "title": "I design with Claude more than Figma nowjanestreet.com",
+      "description": "Score: 82 | Comments: 49 | Posted by MrBuddyCasino",
+      "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
+      "publishedAt": "2026-06-07T05:31:14.483Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "MrBuddyCasino",
+      "tags": []
+    },
+    {
+      "id": "yg05w8",
+      "title": "I design with Claude more than Figma now",
+      "description": "Score: 82 | Comments: 51 | Posted by MrBuddyCasino",
+      "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
+      "publishedAt": "2026-06-07T05:04:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "MrBuddyCasino",
+      "tags": []
+    },
+    {
+      "id": "8rhiw",
+      "title": "The circus freaks of open source",
+      "description": "Score: 53 | Comments: 13 | Posted by keyle",
+      "url": "https://drewdevault.com/blog/Circus-freaks-of-FOSS/",
+      "publishedAt": "2026-06-07T04:57:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "keyle",
+      "tags": []
+    },
+    {
+      "id": "upbxe4",
+      "title": "Valve P2P networking broken for more than 2 monthsgithub.com/valvesoftware",
+      "description": "Score: 112 | Comments: 51 | Posted by babuskov",
+      "url": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398",
+      "publishedAt": "2026-06-07T03:31:14.483Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "babuskov",
+      "tags": []
+    },
+    {
+      "id": "upbxe4",
+      "title": "Valve P2P networking broken for more than 2 months",
+      "description": "Score: 112 | Comments: 52 | Posted by babuskov",
+      "url": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398",
+      "publishedAt": "2026-06-07T03:21:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "babuskov",
+      "tags": []
+    },
+    {
+      "id": "8rrt7p",
+      "title": "Field of clones: How horse replicas came to dominate polo",
+      "description": "Score: 69 | Comments: 34 | Posted by gscott",
+      "url": "https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses",
+      "publishedAt": "2026-06-07T02:46:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gscott",
+      "tags": []
+    },
+    {
+      "id": "aogv4k",
+      "title": "Show HN: TakoVM – Isolated model and tool execution used by enterprises",
+      "description": "Score: 19 | Comments: 5 | Posted by sakuraiben",
+      "url": "https://github.com/las7/TakoVM",
+      "publishedAt": "2026-06-07T02:42:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sakuraiben",
+      "tags": []
+    },
+    {
+      "id": "dyvvce",
+      "title": "How Liminalism Became the Defining Aesthetic of Our Time",
+      "description": "Score: 45 | Comments: 31 | Posted by zeech",
+      "url": "https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/",
+      "publishedAt": "2026-06-07T02:12:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zeech",
+      "tags": []
+    },
+    {
+      "id": "5jg016",
+      "title": "Show HN: Oproxy – inspect and modify network traffic from the browser",
+      "description": "Score: 35 | Comments: 6 | Posted by sauravrao637",
+      "url": "https://github.com/sauravrao637/oproxy",
+      "publishedAt": "2026-06-07T02:11:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sauravrao637",
+      "tags": []
+    },
+    {
+      "id": "tx391u",
+      "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
+      "description": "Score: 85 | Comments: 23 | Posted by Anon84",
+      "url": "https://arxiv.org/abs/2601.14470",
+      "publishedAt": "2026-06-07T01:37:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Anon84",
+      "tags": []
+    },
+    {
+      "id": "pquyu2",
+      "title": "HateArena – A free and open source arena shooter",
+      "description": "Score: 15 | Comments: 3 | Posted by death_eternal",
+      "url": "https://github.com/hatearena/hate",
+      "publishedAt": "2026-06-07T01:26:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "death_eternal",
+      "tags": []
+    },
+    {
+      "id": "2o8fg3",
+      "title": "An Ohio Valley 100k-Watt FM Signal Is Severed in Broad Daylight – Radio World",
+      "description": "Score: 96 | Comments: 92 | Posted by pkaeding",
+      "url": "https://www.radioworld.com/news-and-business/headlines/an-ohio-valley-100000-watt-fm-signal-is-severed-in-broad-daylight",
+      "publishedAt": "2026-06-07T01:24:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pkaeding",
+      "tags": []
+    },
+    {
+      "id": "up6njj",
+      "title": "Public Domain Image Archive",
+      "description": "Score: 93 | Comments: 16 | Posted by davidbarker",
+      "url": "https://pdimagearchive.org/",
+      "publishedAt": "2026-06-07T00:22:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "davidbarker",
+      "tags": []
+    }
+  ]
+}

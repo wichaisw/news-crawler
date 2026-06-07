@@ -69,6 +69,17 @@
       "tags": []
     },
     {
+      "id": "imv0nb",
+      "title": "My Software North Star",
+      "description": "Score: 35 | Comments: 8 | Posted by kristoff_it",
+      "url": "https://kristoff.it/blog/north-star/",
+      "publishedAt": "2026-06-03T20:16:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kristoff_it",
+      "tags": []
+    },
+    {
       "id": "qr8cfj",
       "title": "How LLMs work",
       "description": "Score: 192 | Comments: 50 | Posted by 0xkato",
@@ -88,6 +99,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "gmays",
+      "tags": []
+    },
+    {
+      "id": "953ofc",
+      "title": "PaceVer (an alternative to SemVer, for mobile apps)",
+      "description": "Score: 9 | Comments: 5 | Posted by maxloh",
+      "url": "https://pacever.org/",
+      "publishedAt": "2026-06-03T19:56:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "maxloh",
       "tags": []
     },
     {

@@ -3,6 +3,75 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "150818 at https://www.blognone.com",
+      "title": "ไมโครซอฟท์เปิดตัว Web IQ หรือ Bing ร่างใหม่สำหรับ AI ใช้งาน ใช้ Token น้อยกว่าคู่แข่ง",
+      "description": "ไมโครซอฟท์เปิดตัว Web IQ หรือ Bing ร่างใหม่สำหรับ AI ใช้งาน ใช้ Token น้อยกว่าคู่แข่ง Body ไมโครซอฟท์มีผลิตภัณฑ์ (ที่ไม่ค่อยดังนัก) ชื่อ Microsoft IQ",
+      "url": "https://www.blognone.com/node/150818",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2026/2026-05/webiq_tokenefficiency3.png",
+      "publishedAt": "2026-06-06T13:09:18.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150817 at https://www.blognone.com",
+      "title": "เปิดตัว Gundam Rogue Orbit เกมขับหุ่น Gundam ภาคใหม่ เนื้อเรื่องออริจินัล",
+      "description": "เปิดตัว Gundam Rogue Orbit เกมขับหุ่น Gundam ภาคใหม่ เนื้อเรื่องออริจินัล Body Bandai Namco เปิดตัวเกม Gundam Rogue Orbit",
+      "url": "https://www.blognone.com/node/150817",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2026/2026-05/gundam-rogue-pilot.webp",
+      "publishedAt": "2026-06-06T12:53:03.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150807 at https://www.blognone.com",
+      "title": "SoftBank ขึ้นเป็นบริษัทมูลค่าสูงสุดในตลาดหุ้นญี่ปุ่น แซง Toyota ที่ครองแชมป์มานาน 25 ปี",
+      "description": "SoftBank ขึ้นเป็นบริษัทมูลค่าสูงสุดในตลาดหุ้นญี่ปุ่น แซง Toyota ที่ครองแชมป์มานาน 25 ปี Body เมื่อสัปดาห์ที่ผ่านมา SoftBank",
+      "url": "https://www.blognone.com/node/150807",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2026/2026-06/softbank1_.jpg",
+      "publishedAt": "2026-06-06T11:35:59.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150806 at https://www.blognone.com",
+      "title": "[ไม่ยืนยัน] Meta สนใจออกหุ้นเพิ่มทุน เพื่อระดมเงินสำหรับการลงทุนด้าน AI เช่นกัน",
+      "description": "[ไม่ยืนยัน] Meta สนใจออกหุ้นเพิ่มทุน เพื่อระดมเงินสำหรับการลงทุนด้าน AI เช่นกัน Body ข่าวก่อนหน้านี้คือ Alphabet ออกหุ้นเพิ่มทุน",
+      "url": "https://www.blognone.com/node/150806",
+      "publishedAt": "2026-06-06T10:36:00.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150816 at https://www.blognone.com",
+      "title": "[ไม่ยืนยัน] Muse Spark ของ Meta เลื่อนเปิดใช้งาน API ไม่มีกำหนด เพราะเจอบั๊กที่ต้องใช้เวลาแก้ไขนาน",
+      "description": "[ไม่ยืนยัน] Muse Spark ของ Meta เลื่อนเปิดใช้งาน API ไม่มีกำหนด เพราะเจอบั๊กที่ต้องใช้เวลาแก้ไขนาน Body Meta เปิดตัวโมเดลปัญญาประดิษฐ์ LLM ใหม่ Muse",
+      "url": "https://www.blognone.com/node/150816",
+      "publishedAt": "2026-06-06T09:56:51.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150814 at https://www.blognone.com",
+      "title": "ไมโครซอฟท์เปิดโครงการ pg_durable รัน SQL ระยะยาวโดยไม่ต้องเขียนโปรแกรมแยก",
+      "description": "ไมโครซอฟท์เปิดโครงการ pg_durable รัน SQL ระยะยาวโดยไม่ต้องเขียนโปรแกรมแยก Body ไมโครซอฟท์เปิดตัวโครงการ pg_durable ส่วนขยายสำหรับ PostgreSQL",
+      "url": "https://www.blognone.com/node/150814",
+      "publishedAt": "2026-06-06T09:16:43.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "150805 at https://www.blognone.com",
       "title": "Alphabet บริษัทแม่ Google ขายหุ้นเพิ่มทุน 8 หมื่นล้านดอลลาร์ เพื่อลงทุนด้าน AI - มี Berkshire ร่วมด้วย 1 หมื่นล้าน",
       "description": "Alphabet บริษัทแม่ Google ขายหุ้นเพิ่มทุน 8 หมื่นล้านดอลลาร์ เพื่อลงทุนด้าน AI - มี Berkshire ร่วมด้วย 1 หมื่นล้าน Body",
