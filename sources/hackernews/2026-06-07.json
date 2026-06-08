@@ -3,6 +3,127 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "bhbj6l",
+      "title": "Firefox Merges Support for Vulkan Video Decoding",
+      "description": "Score: 103 | Comments: 17 | Posted by Bender",
+      "url": "https://www.phoronix.com/news/Firefox-Vulkan-Video-Merged",
+      "publishedAt": "2026-06-07T22:41:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Bender",
+      "tags": []
+    },
+    {
+      "id": "bxvxi4",
+      "title": "How's Linear so fast? A technical breakdown",
+      "description": "Score: 388 | Comments: 177 | Posted by howToTestFE",
+      "url": "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown",
+      "publishedAt": "2026-06-07T19:01:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "howToTestFE",
+      "tags": []
+    },
+    {
+      "id": "eefbes",
+      "title": "Building from zero after addiction, prison, and a felony",
+      "description": "Score: 592 | Comments: 265 | Posted by gavinray",
+      "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
+      "publishedAt": "2026-06-07T18:33:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gavinray",
+      "tags": []
+    },
+    {
+      "id": "eudybu",
+      "title": "My automated doubt development process",
+      "description": "Score: 80 | Comments: 22 | Posted by aself101",
+      "url": "https://www.alexself.dev/blog/automated-doubt",
+      "publishedAt": "2026-06-07T18:17:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "aself101",
+      "tags": []
+    },
+    {
+      "id": "oe13yi",
+      "title": "Making peace with your unlived dreams (2023)",
+      "description": "Score: 212 | Comments: 111 | Posted by herbertl",
+      "url": "https://nik.art/making-peace-with-your-unlived-dreams/",
+      "publishedAt": "2026-06-07T18:15:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "herbertl",
+      "tags": []
+    },
+    {
+      "id": "lfyuw3",
+      "title": "Office-open-xml-viewer: Office XML document viewer that renders to HTML Canvas",
+      "description": "Score: 128 | Comments: 52 | Posted by maxloh",
+      "url": "https://github.com/yukiyokotani/office-open-xml-viewer",
+      "publishedAt": "2026-06-07T17:22:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "maxloh",
+      "tags": []
+    },
+    {
+      "id": "8lh887",
+      "title": "Powering up a module from the IBM 604: an electronic calculator from 1948",
+      "description": "Score: 85 | Comments: 24 | Posted by elpocko",
+      "url": "https://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html",
+      "publishedAt": "2026-06-07T17:18:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "elpocko",
+      "tags": []
+    },
+    {
+      "id": "4wwi3",
+      "title": "Podman 6: machine usability improvements (2025)",
+      "description": "Score: 112 | Comments: 6 | Posted by daesorin",
+      "url": "https://blog.podman.io/2025/10/podman-6-machine-usability-improvements/",
+      "publishedAt": "2026-06-07T14:01:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "daesorin",
+      "tags": []
+    },
+    {
+      "id": "a6ulg1",
+      "title": "Anthropic, please ship an official Claude Desktop for Linux",
+      "description": "Score: 489 | Comments: 279 | Posted by predkambrij",
+      "url": "https://github.com/anthropics/claude-code/issues/65697",
+      "publishedAt": "2026-06-07T13:06:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "predkambrij",
+      "tags": []
+    },
+    {
+      "id": "vkv22j",
+      "title": "LLMs are eroding my software engineering career and I don't know what to do",
+      "description": "Score: 927 | Comments: 890 | Posted by poisonfountain",
+      "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+      "publishedAt": "2026-06-07T12:49:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "poisonfountain",
+      "tags": []
+    },
+    {
+      "id": "deh7ru",
+      "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
+      "description": "Score: 298 | Comments: 55 | Posted by devenjarvis",
+      "url": "https://github.com/devenjarvis/lathe",
+      "publishedAt": "2026-06-07T11:16:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "devenjarvis",
+      "tags": []
+    },
+    {
       "id": "vjhbqs",
       "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winnersioccc.org",
       "description": "Score: 63 | Comments: 8 | Posted by matt_d",
@@ -55,6 +176,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "keyle",
+      "tags": []
+    },
+    {
+      "id": "1gi7kf",
+      "title": "Trusted Computing Frequently Asked Questions (2003)",
+      "description": "Score: 6 | Comments: 0 | Posted by userbinator",
+      "url": "https://www.cl.cam.ac.uk/archive/rja14/tcpa-faq-1.0.html",
+      "publishedAt": "2026-06-07T04:45:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "userbinator",
       "tags": []
     },
     {

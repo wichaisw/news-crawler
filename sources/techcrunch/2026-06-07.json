@@ -1,0 +1,61 @@
+{
+  "date": "2026-06-07",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3130284",
+      "title": "Is this the dawn of the Tokenpocalypse?",
+      "description": "We're likely to see more price increases as the big AI companies plan to go public.",
+      "url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
+      "publishedAt": "2026-06-07T20:26:13.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3130281",
+      "title": "Notion restores access to Anthropic after service disruption",
+      "description": "Notion's head of product said he was \"astonished\" at “the amount of people RT-ing this.\"",
+      "url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
+      "publishedAt": "2026-06-07T17:56:22.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3130278",
+      "title": "OpenAI is still working on that ‘super app’",
+      "description": "\"Chat is dead\" — at least, according to a senior OpenAI employee.",
+      "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
+      "publishedAt": "2026-06-07T16:23:22.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3130243",
+      "title": "TechCrunch Mobility: Inside GM’s $900M EV battery gamble",
+      "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "url": "https://techcrunch.com/2026/06/07/inside-gms-900m-ev-battery-gamble/",
+      "publishedAt": "2026-06-07T16:05:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Kirsten Korosec",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3129047",
+      "title": "Hacked, leaked, and held for ransom: the worst breaches of 2026 so far",
+      "description": "From a massive DOGE data breach and the hacking of critical energy and water systems to the hack of an FBI surveillance system, here are the most",
+      "url": "https://techcrunch.com/2026/06/07/the-worst-hacks-and-breaches-of-2026-so-far/",
+      "publishedAt": "2026-06-07T14:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Zack Whittaker",
+      "tags": []
+    }
+  ]
+}

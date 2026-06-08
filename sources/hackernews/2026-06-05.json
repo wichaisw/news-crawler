@@ -91,6 +91,17 @@
       "tags": []
     },
     {
+      "id": "8dpx0l",
+      "title": "Tiny hackable CUDA language model implementation",
+      "description": "Score: 20 | Comments: 1 | Posted by markusheimerl",
+      "url": "https://github.com/markusheimerl/gpt",
+      "publishedAt": "2026-06-05T17:41:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "markusheimerl",
+      "tags": []
+    },
+    {
       "id": "ek7zd7",
       "title": "Symbolica 2.0: Programmable Symbols for Python and Rust",
       "description": "Score: 63 | Comments: 6 | Posted by mmastrac",
@@ -179,6 +190,17 @@
       "tags": []
     },
     {
+      "id": "48hx52",
+      "title": "Playing with Vision Embeddings",
+      "description": "Score: 23 | Comments: 1 | Posted by prestoj",
+      "url": "https://prestonbjensen.com/posts/playing-with-vision-embeddings",
+      "publishedAt": "2026-06-05T14:54:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "prestoj",
+      "tags": []
+    },
+    {
       "id": "ixs4uw",
       "title": "India's surprise baby bust",
       "description": "Score: 167 | Comments: 725 | Posted by hakonbogen",
@@ -201,6 +223,17 @@
       "tags": []
     },
     {
+      "id": "rvvr9j",
+      "title": "A visual introduction to kernel functions",
+      "description": "Score: 43 | Comments: 11 | Posted by Kelvinidan",
+      "url": "https://kelvinpaschal.com/blog/kernel-functions/",
+      "publishedAt": "2026-06-05T14:11:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Kelvinidan",
+      "tags": []
+    },
+    {
       "id": "y3sm5g",
       "title": "The Quiet Numbers Station: Decoding Nineteen Years of GPS Cryptography",
       "description": "Score: 81 | Comments: 69 | Posted by lordgilman",
@@ -220,6 +253,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "logicprog",
+      "tags": []
+    },
+    {
+      "id": "7f1pkt",
+      "title": "Win16 Memory Management",
+      "description": "Score: 138 | Comments: 73 | Posted by supermatou",
+      "url": "http://www.os2museum.com/wp/win16-memory-management/",
+      "publishedAt": "2026-06-05T11:16:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "supermatou",
       "tags": []
     },
     {
@@ -267,6 +311,17 @@
       "tags": []
     },
     {
+      "id": "3lv4wk",
+      "title": "What is the purpose of the lost+found folder in Linux and Unix? (2014)",
+      "description": "Score: 184 | Comments: 61 | Posted by tosh",
+      "url": "https://unix.stackexchange.com/questions/18154/what-is-the-purpose-of-the-lostfound-folder-in-linux-and-unix",
+      "publishedAt": "2026-06-05T08:08:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tosh",
+      "tags": []
+    },
+    {
       "id": "rpmioi",
       "title": "ESP32 Bit Pirate, a Hardware Hacking Tool with WebCLI That Speaks Every Protocol",
       "description": "Score: 186 | Comments: 43 | Posted by geotp",
@@ -308,6 +363,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "olalonde",
+      "tags": []
+    },
+    {
+      "id": "a5zuga",
+      "title": "Show HN: I Derived a Pancake",
+      "description": "Score: 219 | Comments: 82 | Posted by bkazez",
+      "url": "https://www.absurdlyoptimized.com/recipes/pancakes/",
+      "publishedAt": "2026-06-05T06:42:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bkazez",
       "tags": []
     },
     {

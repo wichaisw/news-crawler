@@ -25,6 +25,17 @@
       "tags": []
     },
     {
+      "id": "wqp5aa",
+      "title": "Man-Computer Symbiosis J. C. R. Licklider (1960)",
+      "description": "Score: 33 | Comments: 2 | Posted by rballpug",
+      "url": "https://groups.csail.mit.edu/medg/people/psz/Licklider.html",
+      "publishedAt": "2026-06-04T23:07:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rballpug",
+      "tags": []
+    },
+    {
       "id": "2xpxbu",
       "title": "Latent Agents: A Post-Training Procedure for Internalized Multi-Agent Debate",
       "description": "Score: 26 | Comments: 0 | Posted by PaulHoule",
@@ -264,6 +275,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "evolabs",
+      "tags": []
+    },
+    {
+      "id": "7ov9d6",
+      "title": "A discovery about GCC's unidirectional rotation algorithm",
+      "description": "Score: 19 | Comments: 8 | Posted by soheilpro",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260603-00/?p=112378",
+      "publishedAt": "2026-06-04T05:59:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "soheilpro",
       "tags": []
     },
     {
