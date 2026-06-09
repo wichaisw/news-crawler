@@ -14,6 +14,17 @@
       "tags": []
     },
     {
+      "id": "80w055",
+      "title": "How much do amd64 microarchitecture levels help in Go?",
+      "description": "Score: 43 | Comments: 19 | Posted by zdw",
+      "url": "https://lemire.me/blog/2026/06/06/how-much-do-amd64-microarchitecture-levels-help-in-go/",
+      "publishedAt": "2026-06-07T21:10:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
       "id": "bxvxi4",
       "title": "How's Linear so fast? A technical breakdown",
       "description": "Score: 388 | Comments: 177 | Posted by howToTestFE",
@@ -110,6 +121,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "poisonfountain",
+      "tags": []
+    },
+    {
+      "id": "jfp44a",
+      "title": "The Grate Cheese Robbery",
+      "description": "Score: 19 | Comments: 0 | Posted by RickJWagner",
+      "url": "https://longreads.com/2026/05/28/the-cheese-theft-food-crime/",
+      "publishedAt": "2026-06-07T11:45:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "RickJWagner",
       "tags": []
     },
     {
@@ -286,6 +308,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "pkaeding",
+      "tags": []
+    },
+    {
+      "id": "m3lh3g",
+      "title": "Passing DBs through continuations",
+      "description": "Score: 43 | Comments: 5 | Posted by remywang",
+      "url": "https://remy.wang/blog/cps.html",
+      "publishedAt": "2026-06-07T01:17:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "remywang",
       "tags": []
     },
     {

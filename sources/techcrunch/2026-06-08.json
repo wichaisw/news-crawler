@@ -1,0 +1,193 @@
+{
+  "date": "2026-06-08",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3130875",
+      "title": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says",
+      "description": "Tools for Humanity, Sam Altman's identity verification company, is reportedly struggling to generate revenue and will downsize its staff.",
+      "url": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
+      "publishedAt": "2026-06-08T22:41:45.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Amanda Silberling",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3130680",
+      "title": "Apple’s WWDC AI demos looked more real after $250M false ad settlement",
+      "description": "The vibe of Apple's 2026 WWDC keynote felt like a spouse proudly listing all the honey-do-list items tackled. One subtle example: the many AI demos",
+      "url": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
+      "publishedAt": "2026-06-08T22:39:57.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Julie Bort",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3129100",
+      "title": "OpenAI files confidentially for IPO, following Anthropic",
+      "description": "The filing comes a little more than a week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms.",
+      "url": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
+      "publishedAt": "2026-06-08T21:29:57.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Rebecca Bellan",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3130496",
+      "title": "Apple plays catch-up at WWDC",
+      "description": "Apple spent much of its WWDC keynote highlighting fixes, performance improvements, and long-requested features before unveiling its upgraded",
+      "url": "https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/",
+      "publishedAt": "2026-06-08T21:15:42.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sarah Perez",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3130751",
+      "title": "Apple bets cheaper AI will woo small developers",
+      "description": "As AI experimentation grows more expensive, Apple is waiving cloud API costs for developers with fewer than 2 million first-time App Store downloads.",
+      "url": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
+      "publishedAt": "2026-06-08T20:53:55.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sarah Perez",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3130758",
+      "title": "Waymo bought Apple’s self-driving car proving ground for $220M",
+      "description": "Waymo has acquired a massive 5,500-acre proving ground in Arizona owned by Route 14 Investment Partners LLC, a Delaware shell company associated with",
+      "url": "https://techcrunch.com/2026/06/08/waymo-bought-apples-self-driving-car-proving-ground-for-220m/",
+      "publishedAt": "2026-06-08T20:50:55.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Kirsten Korosec, Sean O'Kane",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3130725",
+      "title": "Microsoft’s open source tools were hacked to steal passwords of AI developers",
+      "description": "Microsoft shut down dozens of GitHub code repositories for Azure and AI coding tools after a reported hack.",
+      "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+      "publishedAt": "2026-06-08T20:03:44.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Zack Whittaker",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3130429",
+      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
+      "description": "Apple primarily made the case for an improved experience with its longstanding Siri assistant, which like most other announcements had a hefty",
+      "url": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+      "publishedAt": "2026-06-08T19:41:32.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Morgan Little, Aisha Malik",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3130519",
+      "title": "Pentagon says Alibaba, Baidu, BYD, and Unitree support China’s military",
+      "description": "The Trump administration released the updated version of the list four months ago and then quickly pulled it without explaining why",
+      "url": "https://techcrunch.com/2026/06/08/pentagon-says-alibaba-baidu-byd-and-unitree-support-chinas-military/",
+      "publishedAt": "2026-06-08T18:57:49.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sean O'Kane",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3130551",
+      "title": "Apple just taught your iPhone to finish your sentences, your photos, and your workflows",
+      "description": "Apple is adding new AI-powered features to Safari, Shortcuts, and Password apps.",
+      "url": "https://techcrunch.com/2026/06/08/apple-just-taught-your-iphone-to-finish-your-sentences-your-photos-and-your-workflows/",
+      "publishedAt": "2026-06-08T18:48:45.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Ivan Mehta",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3130591",
+      "title": "Apple will let you build workflows using AI in its new Shortcuts app",
+      "description": "Shortcuts gets an AI upgrade, letting you describe the workflow you want in a prompt.",
+      "url": "https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/",
+      "publishedAt": "2026-06-08T18:45:12.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sarah Perez",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3130579",
+      "title": "Apple’s Image Playground doesn’t suck anymore",
+      "description": "Apple's AI image generator is getting a makeover that could make it more competitive.",
+      "url": "https://techcrunch.com/2026/06/08/apples-image-playground-doesnt-suck-anymore/",
+      "publishedAt": "2026-06-08T18:38:07.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Amanda Silberling",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3130585",
+      "title": "Apple’s Photos app is getting new AI editing features",
+      "description": "A new spatial \"Reframe\" feature will let users use AI to adjust perspectives.",
+      "url": "https://techcrunch.com/2026/06/08/apples-photos-app-is-getting-new-ai-editing-features/",
+      "publishedAt": "2026-06-08T18:36:04.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Aisha Malik",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3130410",
+      "title": "Apple gives Siri its own dedicated app",
+      "description": "Siri is finally getting its own app.",
+      "url": "https://techcrunch.com/2026/06/08/apple-gives-siri-its-own-dedicated-app/",
+      "publishedAt": "2026-06-08T18:33:42.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lucas Ropek",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3130462",
+      "title": "Apple is fixing the headache of splitting the bill with its new Siri in Camera feature",
+      "description": "\"If you're grabbing a bite with friends and point your iPhone at the bill, then [you can] select what you ordered to split the tab with Apple Cash,\"",
+      "url": "https://techcrunch.com/2026/06/08/apple-is-fixing-the-headache-of-splitting-the-bill-with-its-new-siri-in-camera-feature/",
+      "publishedAt": "2026-06-08T18:23:04.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Amanda Silberling",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3130504",
+      "title": "Apple puts parents back in control of kids’ iPhone use",
+      "description": "Apple is putting control back into the hands of parents with more granular screen time features.",
+      "url": "https://techcrunch.com/2026/06/08/apple-puts-parents-back-in-control-of-kids-iphone-use/",
+      "publishedAt": "2026-06-08T18:07:32.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sarah Perez",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3130506",
+      "title": "Apple’s Health app can now tell you if you’re in perimenopause",
+      "description": "Cycle tracker will now notify women when their cycle patterns are suggestive of perimenopause.",
+      "url": "https://techcrunch.com/2026/06/08/apples-health-app-can-now-tell-you-if-youre-in-perimenopause/",
+      "publishedAt": "2026-06-08T18:03:05.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Kirsten Korosec",
+      "tags": []
+    }
+  ]
+}

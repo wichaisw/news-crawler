@@ -190,6 +190,28 @@
       "tags": []
     },
     {
+      "id": "wf2h3a",
+      "title": "Fooling Go's X.509 Certificate Verification",
+      "description": "Score: 54 | Comments: 28 | Posted by hasheddan",
+      "url": "https://danielmangum.com/posts/fooling-go-x509-certificate-verification/",
+      "publishedAt": "2026-06-06T13:52:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hasheddan",
+      "tags": []
+    },
+    {
+      "id": "jr0liv",
+      "title": "120k Lines of Rust: Inside the Nosdesk Backend",
+      "description": "Score: 40 | Comments: 2 | Posted by kylephillipsau",
+      "url": "https://kyle.au/blog/nosdesk-backend-rust",
+      "publishedAt": "2026-06-06T13:34:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kylephillipsau",
+      "tags": []
+    },
+    {
       "id": "hkxzab",
       "title": "Trees to Flows and Back: Unifying Decision Trees and Diffusion Models",
       "description": "Score: 45 | Comments: 10 | Posted by rsn243",
@@ -212,6 +234,17 @@
       "tags": []
     },
     {
+      "id": "8kimmj",
+      "title": "Life is too short for a slow terminal",
+      "description": "Score: 101 | Comments: 74 | Posted by emschwartz",
+      "url": "https://mijndertstuij.nl/posts/life-is-too-short-for-a-slow-terminal/",
+      "publishedAt": "2026-06-06T12:44:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "emschwartz",
+      "tags": []
+    },
+    {
       "id": "gfqrhw",
       "title": "The new bibliomaniacs",
       "description": "Score: 74 | Comments: 71 | Posted by RickJWagner",
@@ -231,6 +264,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "tripplyons",
+      "tags": []
+    },
+    {
+      "id": "mu0gm5",
+      "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
+      "description": "Score: 30 | Comments: 5 | Posted by ternaus",
+      "url": "https://opencv.org/opencv-5/",
+      "publishedAt": "2026-06-06T06:02:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ternaus",
       "tags": []
     },
     {

@@ -1,0 +1,126 @@
+{
+  "date": "2026-06-08",
+  "source": "theverge",
+  "articles": [
+    {
+      "id": "xu2kxw",
+      "title": "Instagram is finally letting everyone reorganize their profile grid",
+      "description": "Nearly a year after it was announced, Instagram says it's delivering the ability to rearrange the posts in your profile grid. It had been available to some people in test groups, but as of June 8th, it's rolling out widely via the Android and iPhone mobile apps. Until now, the posts on your Instagram profile [&#8230;]",
+      "url": "https://www.theverge.com/tech/946458/instagram-is-finally-letting-everyone-reorganize-their-grid",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Square-DualScreen.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-06-08T23:58:30.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Richard Lawler",
+      "tags": []
+    },
+    {
+      "id": "cbktsf",
+      "title": "Apple’s Screen Time updates are too little, too late",
+      "description": "Apple spending a big chunk of its WWDC keynote on parental controls was surprising for several reasons. But the biggest is that, despite all the airtime, it didn't announce much new beyond a redesigned interface. Almost all the features touted already exist or are upgrades to current options. Why Apple chose to do this isn't [&#8230;]",
+      "url": "https://www.theverge.com/tech/946446/apples-screen-time-updates-are-too-little-too-late",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Screentime-2.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-06-08T23:41:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Jennifer Pattison Tuohy",
+      "tags": []
+    },
+    {
+      "id": "sqhmnt",
+      "title": "5 things I already love from the iOS 27 beta",
+      "description": "iOS 27 has only been out for a few hours, and I've been messing around with the developer beta on my iPhone 16 Pro. I was most interested in trying out the new Siri AI, but unfortunately, I'm still on Apple's waitlist for that. In the meantime, I've been poking around a bunch of features [&#8230;]",
+      "url": "https://www.theverge.com/tech/946391/apple-ios-27-developer-beta-1-wwdc-2026-5-things",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_560765.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-06-08T23:30:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Jay Peters",
+      "tags": []
+    },
+    {
+      "id": "f66kja",
+      "title": "Apple is using AI to fix Safari’s extension problem",
+      "description": "Apple is trying to solve one of Safari's biggest weaknesses with AI. Safari has long lacked the robust library of extensions that its rivals have, mainly due to the stringent development requirements from Apple. But now, Apple is inviting users to essentially vibe-code their own extensions. In a demo shared by Apple, the company showed [&#8230;]",
+      "url": "https://www.theverge.com/tech/946345/apple-safari-ai-update-extensions",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/describe-extension-safari.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-06-08T22:14:17.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Emma Roth",
+      "tags": []
+    },
+    {
+      "id": "hy4e5n",
+      "title": "Where was tvOS 27 at WWDC?",
+      "description": "Every year, Apple's Worldwide Developers Conference gives us a first look at what's coming next to the company's many operating systems. But missing from today's keynote, apart from a single graphic listing all current Apple OSes next to a big \"27,\" was any mention of tvOS. The whole structure of this year's WWDC was different, [&#8230;]",
+      "url": "https://www.theverge.com/tech/946329/tvos-27-absent-wwdc",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22541100/DSCF3875_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-06-08T22:04:42.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "John.Higgins",
+      "tags": []
+    },
+    {
+      "id": "6m2vnj",
+      "title": "Apple’s new parental controls are for keeping Apple out of trouble",
+      "description": "When Apple put child safety front and center at WWDC on Monday, its stated goal was helping parents fine-tune their kids' online experiences and avoid excessive screen time. But amid a global debate over internet regulation, its latest updates also looked like a defensive move in a brewing fight against Meta and other app developers. [&#8230;]",
+      "url": "https://www.theverge.com/policy/946331/apple-parental-controls-child-accounts-wwdc",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKS526_SOCIAL_MEDIA_TRIAL_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-06-08T21:48:08.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Lauren Feiner",
+      "tags": []
+    },
+    {
+      "id": "v61ug5",
+      "title": "OpenAI files for IPO, following Anthropic",
+      "description": "OpenAI on Monday checked off a preliminary step in the IPO race that it and rival Anthropic have been competing in for the better part of a year: The company announced it has confidentially submitted a Form S-1 with the US Securities and Exchange Commission, following Anthropic's decision to do the same on June 1st. [&#8230;]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/946335/openai-ipo-s-1-confidential",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-06-08T21:38:29.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Hayden Field",
+      "tags": []
+    },
+    {
+      "id": "yrhnas",
+      "title": "44 things coming to your Apple devices that you might have missed",
+      "description": "This year's WWDC keynote was all about AI. But with all the attention on Apple Intelligence and Siri AI, the company breezed by - or neglected to mention - a bunch of cool, smaller features across its new updates. I've rounded up a bunch of them right here. The new operating systems are available in [&#8230;]",
+      "url": "https://www.theverge.com/tech/946260/apple-wwdc-2026-ios-ipados-macos-watchos-visionos-27-features-missed",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_470238.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-06-08T20:26:52.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Jay Peters",
+      "tags": []
+    },
+    {
+      "id": "ndh5o3",
+      "title": "Apple drops support for a long list of Apple Watches with latest OS updates",
+      "description": "I hope you have a modern Apple Watch or iPad, because otherwise watchOS 27 and iPadOS 27 won't run on your device. Apple often drops support for older devices with its latest software updates, but this year it's culling even more device generations than ever before. Apple is dropping support for at least three generations [&#8230;]",
+      "url": "https://www.theverge.com/news/946147/apple-watchos-27-ipados-27-supported-devices-dropped",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24023358/226266_APPLE_WATCH_8_SE_PHO_akrales_0350.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-06-08T19:45:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Tom Warren",
+      "tags": []
+    },
+    {
+      "id": "i20jf9",
+      "title": "Apple announces watchOS 27, now with Siri AI",
+      "description": "Apple just announced watchOS 27, the next version of its Apple Watch operating system, introducing support for Siri AI, a redesigned \"dynamic\" app grid, and improvements to health and fitness tracking. The watchOS 27 update will be available \"this fall,\" according to Apple, though support is notably limited - the new OS will only be [&#8230;]",
+      "url": "https://www.theverge.com/tech/943145/apple-watch-watchos-27-wwdc-2026",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Apple-Watch-watchOS-27-Siri-AI.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-06-08T19:34:10.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Jess Weatherbed",
+      "tags": []
+    }
+  ]
+}

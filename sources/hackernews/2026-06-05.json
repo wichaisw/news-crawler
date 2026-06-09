@@ -14,6 +14,17 @@
       "tags": []
     },
     {
+      "id": "mvqtib",
+      "title": "Games Between Programs: The Ruliology of Competition",
+      "description": "Score: 26 | Comments: 3 | Posted by andromaton",
+      "url": "https://writings.stephenwolfram.com/2026/06/games-between-programs-the-ruliology-of-competition/",
+      "publishedAt": "2026-06-05T23:36:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andromaton",
+      "tags": []
+    },
+    {
       "id": "5cp928",
       "title": "The perils of UUID primary keys in SQLite",
       "description": "Score: 62 | Comments: 35 | Posted by emschwartz",
@@ -168,6 +179,17 @@
       "tags": []
     },
     {
+      "id": "wdh31d",
+      "title": "Looking Forward to Postgres 19: Query Hints",
+      "description": "Score: 130 | Comments: 16 | Posted by jjgreen",
+      "url": "https://www.pgedge.com/blog/looking-forward-to-postgres-19-query-hints",
+      "publishedAt": "2026-06-05T15:15:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jjgreen",
+      "tags": []
+    },
+    {
       "id": "h6l1wq",
       "title": "New method turns ocean water into drinking water, without waste",
       "description": "Score: 332 | Comments: 146 | Posted by speckx",
@@ -220,6 +242,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "vquemener",
+      "tags": []
+    },
+    {
+      "id": "m6s9m",
+      "title": "Doing something that’s never been done before (2025)",
+      "description": "Score: 33 | Comments: 28 | Posted by surprisetalk",
+      "url": "https://talglobus.com/p/doing-something-thats-never-been-done-before/",
+      "publishedAt": "2026-06-05T14:30:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
       "tags": []
     },
     {

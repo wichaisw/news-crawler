@@ -168,6 +168,17 @@
       "tags": []
     },
     {
+      "id": "c6ulho",
+      "title": "OCaml Onboarding: Introduction to the Dune build system",
+      "description": "Score: 155 | Comments: 25 | Posted by andrewstetsenko",
+      "url": "https://ocamlpro.com/blog/2025_07_29_ocaml_onboarding_introduction_to_dune/",
+      "publishedAt": "2026-06-04T17:52:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andrewstetsenko",
+      "tags": []
+    },
+    {
       "id": "3c3pls",
       "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
       "description": "Score: 435 | Comments: 577 | Posted by meetpateltech",
@@ -245,6 +256,17 @@
       "tags": []
     },
     {
+      "id": "shygbz",
+      "title": "A Survey of Inlining Heuristics",
+      "description": "Score: 23 | Comments: 2 | Posted by ibobev",
+      "url": "https://bernsteinbear.com/blog/inlining-heuristics/",
+      "publishedAt": "2026-06-04T12:27:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
+      "tags": []
+    },
+    {
       "id": "wyvbrs",
       "title": "Ian's Secure Shoelace Knot",
       "description": "Score: 545 | Comments: 207 | Posted by mooreds",
@@ -275,6 +297,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "evolabs",
+      "tags": []
+    },
+    {
+      "id": "fl09da",
+      "title": "Zig Structs of Arrays (2024)",
+      "description": "Score: 120 | Comments: 45 | Posted by Tomte",
+      "url": "https://andreashohmann.com/zig-struct-of-arrays/",
+      "publishedAt": "2026-06-04T06:28:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Tomte",
       "tags": []
     },
     {
