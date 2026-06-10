@@ -36,6 +36,17 @@
       "tags": []
     },
     {
+      "id": "8u8r2p",
+      "title": "Computer Lessons",
+      "description": "Score: 7 | Comments: 0 | Posted by cfmcdonald",
+      "url": "https://technicshistory.com/2026/06/06/computer-lessons/",
+      "publishedAt": "2026-06-08T22:02:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cfmcdonald",
+      "tags": []
+    },
+    {
       "id": "nr27qw",
       "title": "Confidential submission of draft S-1 to the SEC",
       "description": "Score: 334 | Comments: 264 | Posted by hackerBanana",
@@ -55,6 +66,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jbernardo95",
+      "tags": []
+    },
+    {
+      "id": "dagobw",
+      "title": "A giant star may have destroyed itself in one of the rarest explosions",
+      "description": "Score: 183 | Comments: 26 | Posted by wglb",
+      "url": "https://phys.org/news/2026-05-giant-star-destroyed-universe-rarest.html",
+      "publishedAt": "2026-06-08T21:00:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wglb",
       "tags": []
     },
     {
@@ -143,6 +165,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "hmokiguess",
+      "tags": []
+    },
+    {
+      "id": "ikyqv2",
+      "title": "Experience using AI software to prove Euler sum results [pdf]",
+      "description": "Score: 7 | Comments: 0 | Posted by cpp_frog",
+      "url": "https://www.davidhbailey.com/dhbpapers/Chatbots.pdf",
+      "publishedAt": "2026-06-08T18:42:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cpp_frog",
       "tags": []
     },
     {
@@ -278,6 +311,17 @@
       "tags": []
     },
     {
+      "id": "cn3lx0",
+      "title": "Lies we tell ourselves about email addresses",
+      "description": "Score: 101 | Comments: 69 | Posted by theanonymousone",
+      "url": "https://gitpush--force.com/commits/2026/06/lies-we-tell-ourselves-about-email/",
+      "publishedAt": "2026-06-08T14:24:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "theanonymousone",
+      "tags": []
+    },
+    {
       "id": "czs4hd",
       "title": "Show HN: Performative-UI – A react component library of design tropes",
       "description": "Score: 918 | Comments: 168 | Posted by lizhang",
@@ -300,6 +344,28 @@
       "tags": []
     },
     {
+      "id": "6vuwe3",
+      "title": "Bit Propagation over a Noisy Grid",
+      "description": "Score: 6 | Comments: 1 | Posted by jfantl",
+      "url": "https://jasonfantl.com/posts/Propagating-Bit-on-Grid/",
+      "publishedAt": "2026-06-08T13:22:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jfantl",
+      "tags": []
+    },
+    {
+      "id": "smw3qq",
+      "title": "Value Numbering",
+      "description": "Score: 22 | Comments: 0 | Posted by surprisetalk",
+      "url": "https://bernsteinbear.com/blog/value-numbering/",
+      "publishedAt": "2026-06-08T12:45:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
       "id": "derbk9",
       "title": "Are you expected to run five Python type-checkers now?",
       "description": "Score: 145 | Comments: 165 | Posted by ocamoss",
@@ -319,6 +385,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "1vuio0pswjnm7",
+      "tags": []
+    },
+    {
+      "id": "obnvtj",
+      "title": "Premature Optimization Is Fun Sometimes",
+      "description": "Score: 18 | Comments: 5 | Posted by throawayonthe",
+      "url": "https://invlpg.com/posts/2025-06-19-premature-optimization.html",
+      "publishedAt": "2026-06-08T10:01:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "throawayonthe",
       "tags": []
     },
     {

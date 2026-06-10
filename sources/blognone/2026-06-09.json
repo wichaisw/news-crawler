@@ -3,6 +3,74 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "150868 at https://www.blognone.com",
+      "title": "OpenAI ยื่นไฟลิ่งแบบ confidential เพื่อนำบริษัทไอพีโอเข้าตลาดหุ้นแล้ว แต่ยังไม่มีกำหนดช่วงเวลา",
+      "description": "OpenAI ยื่นไฟลิ่งแบบ confidential เพื่อนำบริษัทไอพีโอเข้าตลาดหุ้นแล้ว แต่ยังไม่มีกำหนดช่วงเวลา Body OpenAI บอกว่าบริษัทได้ยื่นเอกสารไฟลิ่ง S-1",
+      "url": "https://www.blognone.com/node/150868",
+      "publishedAt": "2026-06-09T15:59:48.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150867 at https://www.blognone.com",
+      "title": "Kingdom Hearts 4 ออกเทรลเลอร์ใหม่ ประกาศลงทุกแพลตฟอร์ม แต่ยังไม่บอกวันขาย",
+      "description": "Kingdom Hearts 4 ออกเทรลเลอร์ใหม่ ประกาศลงทุกแพลตฟอร์ม แต่ยังไม่บอกวันขาย Body Square Enix เปิดตัว Kingdom Hearts IV ตั้งแต่ปี 2022",
+      "url": "https://www.blognone.com/node/150867",
+      "publishedAt": "2026-06-09T15:38:56.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150866 at https://www.blognone.com",
+      "title": "เปิดตัว Final Fantasy Resonance ใช้กราฟิกย้อนยุคแบบ HD-2D",
+      "description": "เปิดตัว Final Fantasy Resonance ใช้กราฟิกย้อนยุคแบบ HD-2D Body Square Enix เปิดตัวเกม Final Fantasy Resonance เกมแรกของ Final Fantasy ที่ใช้กราฟิกแบบ",
+      "url": "https://www.blognone.com/node/150866",
+      "publishedAt": "2026-06-09T15:20:25.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150863 at https://www.blognone.com",
+      "title": "Apple อธิบายรายละเอียด Apple Intelligence รุ่นใหม่ - Gemini ทำงานเฉพาะฝั่งเซิร์ฟเวอร์ ใช้ชิป NVIDIA คัสตอมให้มี Privacy ขั้นสูง",
+      "description": "Apple อธิบายรายละเอียด Apple Intelligence รุ่นใหม่ - Gemini ทำงานเฉพาะฝั่งเซิร์ฟเวอร์ ใช้ชิป NVIDIA คัสตอมให้มี Privacy ขั้นสูง Body ในคีย์โน้ตของงาน",
+      "url": "https://www.blognone.com/node/150863",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2026/2026-06/untitled-design_0.png",
+      "publishedAt": "2026-06-09T11:05:44.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150862 at https://www.blognone.com",
+      "title": "iOS 27 รองรับ iPhone ไปถึง iPhone 11 ส่วน watchOS 27 รุ่นที่ออกมาไม่ถึง 4 ปี ก็หยุดซัพพอร์ตแล้ว",
+      "description": "iOS 27 รองรับ iPhone ไปถึง iPhone 11 ส่วน watchOS 27 รุ่นที่ออกมาไม่ถึง 4 ปี ก็หยุดซัพพอร์ตแล้ว Body หนึ่งในไฮไลท์ที่แอปเปิลประกาศในงาน WWDC",
+      "url": "https://www.blognone.com/node/150862",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2026/2026-06/untitled-design.png",
+      "publishedAt": "2026-06-09T09:01:51.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150861 at https://www.blognone.com",
+      "title": "watchOS 27 ปรับปรุงระบบ Workout Buddy, นับก้าวแม่นยำขึ้นทั้งในและนอกอาคาร",
+      "description": "watchOS 27 ปรับปรุงระบบ Workout Buddy, นับก้าวแม่นยำขึ้นทั้งในและนอกอาคาร Body แอปเปิลอัปเดตระบบปฏิบัติการ watchOS 27 ประจำปีนี้สำหรับ Apple Watch",
+      "url": "https://www.blognone.com/node/150861",
+      "publishedAt": "2026-06-09T07:29:33.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "150860 at https://www.blognone.com",
       "title": "iPadOS 27 เน้นการปรับปรุงปลีกย่อย - Messages ซิงก์ข้อความดีขึ้น, Photos ปรับแต่งวิธีเล่นสไลด์ชุดรูปภาพได้มากขึ้น",
       "description": "iPadOS 27 เน้นการปรับปรุงปลีกย่อย - Messages ซิงก์ข้อความดีขึ้น, Photos ปรับแต่งวิธีเล่นสไลด์ชุดรูปภาพได้มากขึ้น Body",
