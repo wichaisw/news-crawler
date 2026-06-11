@@ -157,6 +157,17 @@
       "tags": []
     },
     {
+      "id": "pm4iwk",
+      "title": "Klondike Solitaire game for curses in 5k of C",
+      "description": "Score: 68 | Comments: 6 | Posted by nanochess",
+      "url": "https://nanochess.org/klondike_in_c.html",
+      "publishedAt": "2026-06-08T19:08:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nanochess",
+      "tags": []
+    },
+    {
       "id": "z8iepq",
       "title": "Apple Core AI Framework",
       "description": "Score: 267 | Comments: 68 | Posted by hmokiguess",
@@ -220,6 +231,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "nextstep",
+      "tags": []
+    },
+    {
+      "id": "yu55u3",
+      "title": "The Road to the WASM Component Model 1.0",
+      "description": "Score: 71 | Comments: 44 | Posted by emschwartz",
+      "url": "https://bytecodealliance.org/articles/the-road-to-component-model-1-0",
+      "publishedAt": "2026-06-08T17:12:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "emschwartz",
       "tags": []
     },
     {
@@ -300,6 +322,17 @@
       "tags": []
     },
     {
+      "id": "x8k5yg",
+      "title": "World Capitals Voronoi",
+      "description": "Score: 76 | Comments: 35 | Posted by vincnetas",
+      "url": "https://www.jasondavies.com/maps/voronoi/capitals/",
+      "publishedAt": "2026-06-08T15:20:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vincnetas",
+      "tags": []
+    },
+    {
       "id": "wd7omj",
       "title": "xAI is looking more like a datacentre REIT than a frontier lab",
       "description": "Score: 523 | Comments: 407 | Posted by martinald",
@@ -319,6 +352,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "theanonymousone",
+      "tags": []
+    },
+    {
+      "id": "rx0lhm",
+      "title": "Who Runs Your Rust Future? Hands-On Intro to Async Rust",
+      "description": "Score: 103 | Comments: 30 | Posted by febin",
+      "url": "https://aibodh.com/posts/async-rust-chapter-1-hands-on-intro-to-async-rust/",
+      "publishedAt": "2026-06-08T14:15:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "febin",
       "tags": []
     },
     {
@@ -388,6 +432,17 @@
       "tags": []
     },
     {
+      "id": "ntiirm",
+      "title": "Reviving Papers with Code",
+      "description": "Score: 193 | Comments: 44 | Posted by nielz_r",
+      "url": "https://paperswithcode.co/",
+      "publishedAt": "2026-06-08T10:44:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nielz_r",
+      "tags": []
+    },
+    {
       "id": "obnvtj",
       "title": "Premature Optimization Is Fun Sometimes",
       "description": "Score: 18 | Comments: 5 | Posted by throawayonthe",
@@ -407,6 +462,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "omblivion",
+      "tags": []
+    },
+    {
+      "id": "rtx4qi",
+      "title": "Buy a train, bridge or tracks from the Swiss Railway",
+      "description": "Score: 170 | Comments: 98 | Posted by kisamoto",
+      "url": "https://sbbresale.ch/",
+      "publishedAt": "2026-06-08T09:05:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kisamoto",
       "tags": []
     },
     {

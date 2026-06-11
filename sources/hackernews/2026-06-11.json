@@ -1,0 +1,116 @@
+{
+  "date": "2026-06-11",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "d3qd5u",
+      "title": "Cheap Iranian drone downed $25M US Army helicopter–maybe by chance",
+      "description": "Score: 9 | Comments: 0 | Posted by rbanffy",
+      "url": "https://arstechnica.com/gadgets/2026/06/cheap-iranian-drone-downed-25-million-us-army-helicopter-maybe-by-chance/",
+      "publishedAt": "2026-06-11T06:57:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rbanffy",
+      "tags": []
+    },
+    {
+      "id": "6xtjou",
+      "title": "Pokémon Go Scans Trained the Navigation Tech for Military Dronesdronexl.co",
+      "description": "Score: 87 | Comments: 28 | Posted by vrganj",
+      "url": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/",
+      "publishedAt": "2026-06-11T06:50:17.719Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vrganj",
+      "tags": []
+    },
+    {
+      "id": "6xtjou",
+      "title": "Pokémon Go Scans Trained the Navigation Tech for Military Drones",
+      "description": "Score: 87 | Comments: 28 | Posted by vrganj",
+      "url": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/",
+      "publishedAt": "2026-06-11T06:42:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vrganj",
+      "tags": []
+    },
+    {
+      "id": "hz3mo6",
+      "title": "Macaroni – a single HTML file messenger",
+      "description": "Score: 18 | Comments: 10 | Posted by snowflaxxx",
+      "url": "https://github.com/vanyapr/makaroshki",
+      "publishedAt": "2026-06-11T06:32:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "snowflaxxx",
+      "tags": []
+    },
+    {
+      "id": "ugrwr0",
+      "title": "Validation, Docs, tests, and database schemas from one source of truth",
+      "description": "Score: 4 | Comments: 2 | Posted by justhamade",
+      "url": "https://github.com/justhamade/triadjs",
+      "publishedAt": "2026-06-11T05:35:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "justhamade",
+      "tags": []
+    },
+    {
+      "id": "5luamr",
+      "title": "It blocked us at 'hello ' Anthropic Fable 5 refusing innocuous prompts",
+      "description": "Score: 18 | Comments: 2 | Posted by abliterationai",
+      "url": "https://www.theregister.com/ai-and-ml/2026/06/10/anthropic-claude-fable-5-refuses-innocuous-prompts/5253754",
+      "publishedAt": "2026-06-11T04:54:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "abliterationai",
+      "tags": []
+    },
+    {
+      "id": "nw2ic8",
+      "title": "Anthropic Walks Back Policy That Could Have 'Sabotaged' Researchers Using Claude",
+      "description": "Score: 39 | Comments: 18 | Posted by ericflo",
+      "url": "https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/",
+      "publishedAt": "2026-06-11T03:41:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ericflo",
+      "tags": []
+    },
+    {
+      "id": "lhourt",
+      "title": "Are insecure code completions in PyCharm a vulnerability?",
+      "description": "Score: 28 | Comments: 12 | Posted by 12_throw_away",
+      "url": "https://sethmlarson.dev/are-insecure-code-completions-a-vulnerability",
+      "publishedAt": "2026-06-11T01:26:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "12_throw_away",
+      "tags": []
+    },
+    {
+      "id": "o3pr6p",
+      "title": "AI agent runs amok in Fedora and elsewherelwn.net",
+      "description": "Score: 359 | Comments: 122 | Posted by tanelpoder",
+      "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
+      "publishedAt": "2026-06-11T00:50:17.720Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tanelpoder",
+      "tags": []
+    },
+    {
+      "id": "o3pr6p",
+      "title": "AI agent runs amok in Fedora and elsewhere",
+      "description": "Score: 359 | Comments: 122 | Posted by tanelpoder",
+      "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
+      "publishedAt": "2026-06-11T00:10:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tanelpoder",
+      "tags": []
+    }
+  ]
+}

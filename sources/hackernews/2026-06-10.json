@@ -3,6 +3,237 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "5iqxe4",
+      "title": "Deficient executive control in transformer attention",
+      "description": "Score: 33 | Comments: 11 | Posted by derbOac",
+      "url": "https://academic.oup.com/pnasnexus/article/5/6/pgag149/8698838",
+      "publishedAt": "2026-06-10T23:35:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "derbOac",
+      "tags": []
+    },
+    {
+      "id": "reozs1",
+      "title": "Unix GC Remastered",
+      "description": "Score: 34 | Comments: 2 | Posted by mananaysiempre",
+      "url": "https://mohandacherir.github.io/Qdiv7/posts/unix_new_gc/",
+      "publishedAt": "2026-06-10T22:48:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mananaysiempre",
+      "tags": []
+    },
+    {
+      "id": "l223vh",
+      "title": "Sequoyah’s syllabary created a written language for the Cherokee",
+      "description": "Score: 146 | Comments: 91 | Posted by grahambargeron",
+      "url": "https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/",
+      "publishedAt": "2026-06-10T22:07:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "grahambargeron",
+      "tags": []
+    },
+    {
+      "id": "8drxhv",
+      "title": "What is it like to be a bat? (1974) [pdf]",
+      "description": "Score: 85 | Comments: 89 | Posted by shadow28",
+      "url": "https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf",
+      "publishedAt": "2026-06-10T20:35:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "shadow28",
+      "tags": []
+    },
+    {
+      "id": "gir4hj",
+      "title": "Raspberry Pi 5 – 16GB RAM",
+      "description": "Score: 242 | Comments: 247 | Posted by akman",
+      "url": "https://www.adafruit.com/product/6125?src=raspberrypi",
+      "publishedAt": "2026-06-10T20:05:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "akman",
+      "tags": []
+    },
+    {
+      "id": "ritx5h",
+      "title": "πFS",
+      "description": "Score: 706 | Comments: 162 | Posted by helterskelter",
+      "url": "https://github.com/philipl/pifs",
+      "publishedAt": "2026-06-10T18:54:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "helterskelter",
+      "tags": []
+    },
+    {
+      "id": "v1mxyp",
+      "title": "Anthropic's model naming, extrapolated",
+      "description": "Score: 301 | Comments: 90 | Posted by sammycdubs",
+      "url": "https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated",
+      "publishedAt": "2026-06-10T18:45:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sammycdubs",
+      "tags": []
+    },
+    {
+      "id": "xgj625",
+      "title": "Policy on the AI Exponential",
+      "description": "Score: 150 | Comments: 209 | Posted by yjp20",
+      "url": "https://darioamodei.com/post/policy-on-the-ai-exponential",
+      "publishedAt": "2026-06-10T18:36:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "yjp20",
+      "tags": []
+    },
+    {
+      "id": "qkyo6",
+      "title": "GeoLibre 1.0",
+      "description": "Score: 225 | Comments: 18 | Posted by jonbaer",
+      "url": "https://geolibre.app/",
+      "publishedAt": "2026-06-10T17:39:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jonbaer",
+      "tags": []
+    },
+    {
+      "id": "kpqj9x",
+      "title": "How JPL keeps the 13-year-old Curiosity rover doing science",
+      "description": "Score: 218 | Comments: 59 | Posted by pseudolus",
+      "url": "https://spectrum.ieee.org/curiosity-rover-jpl-mars-science",
+      "publishedAt": "2026-06-10T17:30:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pseudolus",
+      "tags": []
+    },
+    {
+      "id": "a4pug6",
+      "title": "Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use",
+      "description": "Score: 397 | Comments: 281 | Posted by tonyrice",
+      "url": "https://github.com/anthropics/claude-code/issues/29045",
+      "publishedAt": "2026-06-10T17:11:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tonyrice",
+      "tags": []
+    },
+    {
+      "id": "fu14f8",
+      "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+      "description": "Score: 392 | Comments: 352 | Posted by speckx",
+      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+      "publishedAt": "2026-06-10T16:42:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
+      "tags": []
+    },
+    {
+      "id": "9brpot",
+      "title": "Show HN: Extend UI – open-source UI kit for modern document apps",
+      "description": "Score: 201 | Comments: 47 | Posted by kbyatnal",
+      "url": "https://www.extend.ai/ui",
+      "publishedAt": "2026-06-10T16:09:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kbyatnal",
+      "tags": []
+    },
+    {
+      "id": "hj7rb9",
+      "title": "Show HN: HelixDB – A graph database built on object storage",
+      "description": "Score: 119 | Comments: 34 | Posted by GeorgeCurtis",
+      "url": "https://github.com/HelixDB/helix-db/tree/main",
+      "publishedAt": "2026-06-10T15:47:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "GeorgeCurtis",
+      "tags": []
+    },
+    {
+      "id": "5jr8cm",
+      "title": "Authentication issues related to API requests",
+      "description": "Score: 158 | Comments: 32 | Posted by Multicomp",
+      "url": "https://www.githubstatus.com/incidents/fcj3088jg1wx",
+      "publishedAt": "2026-06-10T15:29:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Multicomp",
+      "tags": []
+    },
+    {
+      "id": "u3de3j",
+      "title": "Apache Burr: Build reliable AI agents and applications",
+      "description": "Score: 206 | Comments: 99 | Posted by anhldbk",
+      "url": "https://burr.apache.org/",
+      "publishedAt": "2026-06-10T15:01:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "anhldbk",
+      "tags": []
+    },
+    {
+      "id": "ug42lp",
+      "title": "PgDog is funded and coming to a database near you",
+      "description": "Score: 440 | Comments: 218 | Posted by levkk",
+      "url": "https://pgdog.dev/blog/our-funding-announcement",
+      "publishedAt": "2026-06-10T14:02:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "levkk",
+      "tags": []
+    },
+    {
+      "id": "p4akg2",
+      "title": "A €0.01 bank transfer could compromise a banking AI agent",
+      "description": "Score: 178 | Comments: 169 | Posted by tvissers",
+      "url": "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/",
+      "publishedAt": "2026-06-10T13:39:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tvissers",
+      "tags": []
+    },
+    {
+      "id": "yxxvd6",
+      "title": "Building an HTML-first site doubled our users overnight",
+      "description": "Score: 1093 | Comments: 496 | Posted by edent",
+      "url": "https://mohkohn.co.uk/writing/html-first/",
+      "publishedAt": "2026-06-10T12:45:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "edent",
+      "tags": []
+    },
+    {
+      "id": "b6u6ax",
+      "title": "All 9,300 Japanese train station, animated by the year it opened (1872–2026)",
+      "description": "Score: 235 | Comments: 76 | Posted by momentmaker",
+      "url": "https://jivx.com/eki",
+      "publishedAt": "2026-06-10T12:11:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "momentmaker",
+      "tags": []
+    },
+    {
+      "id": "y9xjty",
+      "title": "Mercedes‑Benz starts large‑scale production of electric axial flux motor",
+      "description": "Score: 528 | Comments: 334 | Posted by raffael_de",
+      "url": "https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf",
+      "publishedAt": "2026-06-10T07:44:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "raffael_de",
+      "tags": []
+    },
+    {
       "id": "fvfn39",
       "title": "Google Chrome is killing all uBlock Origin bypasses, Edge, Opera to follow",
       "description": "Score: 143 | Comments: 105 | Posted by d3Xt3r",
@@ -36,6 +267,17 @@
       "tags": []
     },
     {
+      "id": "hhf7q3",
+      "title": "Vacuum-Form Signage",
+      "description": "Score: 58 | Comments: 11 | Posted by benbreen",
+      "url": "https://bethmathews.substack.com/p/the-history-behind-the-signs-lighting",
+      "publishedAt": "2026-06-10T02:48:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "benbreen",
+      "tags": []
+    },
+    {
       "id": "orn6zl",
       "title": "Rich Sutton on AI creativity and discovery",
       "description": "Score: 90 | Comments: 49 | Posted by yimby",
@@ -44,6 +286,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "yimby",
+      "tags": []
+    },
+    {
+      "id": "tlmgnn",
+      "title": "Smudging the game disc to make speedrunning 'SpongeBob' faster",
+      "description": "Score: 87 | Comments: 52 | Posted by pncnmnp",
+      "url": "https://www.inverse.com/input/gaming/the-dirty-secret-that-makes-speedrunning-on-spongebob-a-lot-faster",
+      "publishedAt": "2026-06-10T02:25:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pncnmnp",
       "tags": []
     },
     {

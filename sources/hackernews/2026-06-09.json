@@ -124,6 +124,17 @@
       "tags": []
     },
     {
+      "id": "e5f6ed",
+      "title": "Who's the smartest corvid?",
+      "description": "Score: 97 | Comments: 85 | Posted by NaOH",
+      "url": "https://thetyee.ca/Culture/2026/06/05/Whos-the-Smartest-Corvid/",
+      "publishedAt": "2026-06-09T17:37:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "NaOH",
+      "tags": []
+    },
+    {
       "id": "8l0uli",
       "title": "The LD_DEBUG environment variable (2012)",
       "description": "Score: 73 | Comments: 7 | Posted by tanelpoder",
@@ -132,6 +143,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "tanelpoder",
+      "tags": []
+    },
+    {
+      "id": "yrv6ol",
+      "title": "Anthropic requires 30 day data retention for Fable and Mythos",
+      "description": "Score: 381 | Comments: 177 | Posted by lebovic",
+      "url": "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
+      "publishedAt": "2026-06-09T17:23:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lebovic",
       "tags": []
     },
     {
@@ -190,6 +212,17 @@
       "tags": []
     },
     {
+      "id": "2q9wgt",
+      "title": "The Conductor Rewrite: What They Changed to Make It Fast",
+      "description": "Score: 5 | Comments: 4 | Posted by Charlieholtz",
+      "url": "https://performance.dev/the-conductor-rewrite",
+      "publishedAt": "2026-06-09T15:01:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Charlieholtz",
+      "tags": []
+    },
+    {
       "id": "bqoegv",
       "title": "Can LLMs Beat Classical Hyperparameter Optimization Algorithms?",
       "description": "Score: 112 | Comments: 15 | Posted by galsapir",
@@ -231,6 +264,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "qunabu",
+      "tags": []
+    },
+    {
+      "id": "gu9dtm",
+      "title": "CSS: Unavoidable Bad Parts",
+      "description": "Score: 63 | Comments: 18 | Posted by surprisetalk",
+      "url": "https://matklad.github.io/2026/06/04/css-unavoidable-bad-parts.html",
+      "publishedAt": "2026-06-09T11:30:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
       "tags": []
     },
     {
@@ -300,6 +344,17 @@
       "tags": []
     },
     {
+      "id": "lokkrx",
+      "title": "L'Affaire Siloxane",
+      "description": "Score: 211 | Comments: 33 | Posted by idlewords",
+      "url": "https://mceglowski.substack.com/p/laffaire-siloxane",
+      "publishedAt": "2026-06-09T05:21:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "idlewords",
+      "tags": []
+    },
+    {
       "id": "jsjezl",
       "title": "CRDTs merge concurrent edits. Why not concurrent creation?",
       "description": "Score: 10 | Comments: 1 | Posted by czx111331",
@@ -363,6 +418,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "abnercoimbre",
+      "tags": []
+    },
+    {
+      "id": "y9uiy1",
+      "title": "Starfish by Peter Watts (1999)",
+      "description": "Score: 25 | Comments: 5 | Posted by zetalyrae",
+      "url": "https://www.rifters.com/real/STARFISH.htm#prelude",
+      "publishedAt": "2026-06-09T01:45:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zetalyrae",
       "tags": []
     },
     {
