@@ -1,0 +1,105 @@
+{
+  "date": "2026-06-12",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "egu79x",
+      "title": "Digital Sovereignty Becomes an Imperative as the US Reads Dutch Emails",
+      "description": "Score: 43 | Comments: 26 | Posted by dotcoma",
+      "url": "https://www.korte.co/2026/06/11/digital-sovereignty-becomes-an-imparative-as-the-us-reads-dutch-emails/",
+      "publishedAt": "2026-06-12T05:53:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dotcoma",
+      "tags": []
+    },
+    {
+      "id": "kre5fm",
+      "title": "AI agent bankrupted their operator while trying to scan DN42",
+      "description": "Score: 319 | Comments: 87 | Posted by xiaoyu2006",
+      "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+      "publishedAt": "2026-06-12T04:42:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "xiaoyu2006",
+      "tags": []
+    },
+    {
+      "id": "ngh2ra",
+      "title": "Device Clock Generation (2025)",
+      "description": "Score: 13 | Comments: 2 | Posted by mfiguiere",
+      "url": "https://zipcpu.com/blog/2025/12/17/devclk.html",
+      "publishedAt": "2026-06-12T04:24:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mfiguiere",
+      "tags": []
+    },
+    {
+      "id": "jp9v5w",
+      "title": "The Normalization of Deviance in AI",
+      "description": "Score: 5 | Comments: 1 | Posted by gurjeet",
+      "url": "https://embracethered.com/blog/posts/2025/the-normalization-of-deviance-in-ai/",
+      "publishedAt": "2026-06-12T04:04:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gurjeet",
+      "tags": []
+    },
+    {
+      "id": "g33j2a",
+      "title": "StonkRider – Ride any stock chart",
+      "description": "Score: 19 | Comments: 2 | Posted by nreece",
+      "url": "https://stonkrider.com/",
+      "publishedAt": "2026-06-12T02:58:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nreece",
+      "tags": []
+    },
+    {
+      "id": "pdyjgv",
+      "title": "Claude Fable is relentlessly proactive",
+      "description": "Score: 373 | Comments: 301 | Posted by lumpa",
+      "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+      "publishedAt": "2026-06-12T01:06:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lumpa",
+      "tags": []
+    },
+    {
+      "id": "ln8ipz",
+      "title": "Removing 'um' from a recording is harder than it sounds",
+      "description": "Score: 63 | Comments: 18 | Posted by dougcalobrisi",
+      "url": "https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/",
+      "publishedAt": "2026-06-12T00:42:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dougcalobrisi",
+      "tags": []
+    },
+    {
+      "id": "9rzqhj",
+      "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
+      "description": "Score: 394 | Comments: 136 | Posted by sam_bristow",
+      "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
+      "publishedAt": "2026-06-12T00:38:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sam_bristow",
+      "tags": []
+    },
+    {
+      "id": "ix9jze",
+      "title": "Don't let the LLM speak, just probe it",
+      "description": "Score: 21 | Comments: 1 | Posted by gmays",
+      "url": "https://blog.j11y.io/2026-06-10_hidden-state-probes/",
+      "publishedAt": "2026-06-12T00:24:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gmays",
+      "tags": []
+    }
+  ]
+}

@@ -25,6 +25,17 @@
       "tags": []
     },
     {
+      "id": "7hf64y",
+      "title": "How we made hit video game Prince of Persia",
+      "description": "Score: 84 | Comments: 18 | Posted by msephton",
+      "url": "https://www.theguardian.com/culture/2026/jan/05/raiders-of-the-lost-ark-hit-video-game-prince-of-persia",
+      "publishedAt": "2026-06-09T22:44:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "msephton",
+      "tags": []
+    },
+    {
       "id": "ei0k5y",
       "title": "RIP software hackathons. Long live the hardware hackathon",
       "description": "Score: 139 | Comments: 60 | Posted by ozcap",
@@ -212,6 +223,17 @@
       "tags": []
     },
     {
+      "id": "lgfrkl",
+      "title": "macOS 27 Beta breaks the ability to boot Asahi Linux",
+      "description": "Score: 297 | Comments: 125 | Posted by josephcsible",
+      "url": "https://www.phoronix.com/news/macOS-27-Beta-Breaks-Asahi",
+      "publishedAt": "2026-06-09T15:01:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "josephcsible",
+      "tags": []
+    },
+    {
       "id": "2q9wgt",
       "title": "The Conductor Rewrite: What They Changed to Make It Fast",
       "description": "Score: 5 | Comments: 4 | Posted by Charlieholtz",
@@ -253,6 +275,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "Anon84",
+      "tags": []
+    },
+    {
+      "id": "bl2xfa",
+      "title": "Faking keyword arguments to functions in C++",
+      "description": "Score: 26 | Comments: 20 | Posted by ibobev",
+      "url": "https://nibblestew.blogspot.com/2026/06/faking-keyword-arguments-to-functions.html",
+      "publishedAt": "2026-06-09T12:05:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
       "tags": []
     },
     {

@@ -1,0 +1,50 @@
+{
+  "date": "2026-06-12",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3131650",
+      "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
+      "description": "Avataar AI's distilled video model is priced at $0.005 for every second of generation",
+      "url": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
+      "publishedAt": "2026-06-12T04:30:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Ivan Mehta",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3131698",
+      "title": "Equal AI raises $30M to screen calls so Indians don’t have to",
+      "description": "Equal AI said that its AI-powered call assistant now has over a million monthly active users.",
+      "url": "https://techcrunch.com/2026/06/11/equal-ai-raises-30m-to-screen-calls-so-indians-dont-have-to/",
+      "publishedAt": "2026-06-12T04:30:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Ivan Mehta",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3132154",
+      "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
+      "description": "Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured.",
+      "url": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
+      "publishedAt": "2026-06-12T01:48:07.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anna Heim",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3132323",
+      "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
+      "description": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.",
+      "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
+      "publishedAt": "2026-06-12T01:04:38.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Marina Temkin",
+      "tags": []
+    }
+  ]
+}
