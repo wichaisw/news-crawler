@@ -91,6 +91,17 @@
       "tags": []
     },
     {
+      "id": "bf75fq",
+      "title": "Tectonic: A modernized, complete, self-contained TeX/LaTeX engine",
+      "description": "Score: 42 | Comments: 8 | Posted by maxloh",
+      "url": "https://tectonic-typesetting.github.io/en-US/",
+      "publishedAt": "2026-06-09T21:00:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "maxloh",
+      "tags": []
+    },
+    {
       "id": "4axx8m",
       "title": "Grit: Rewriting Git in Rust with agents",
       "description": "Score: 127 | Comments: 168 | Posted by cbrewster",
@@ -113,6 +124,17 @@
       "tags": []
     },
     {
+      "id": "e4bwsv",
+      "title": "Automating Myself Out of Development",
+      "description": "Score: 10 | Comments: 4 | Posted by nisabek",
+      "url": "https://www.thoughtfultechnologist.com/p/automating-myself-out-of-development",
+      "publishedAt": "2026-06-09T18:59:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nisabek",
+      "tags": []
+    },
+    {
       "id": "qr98vx",
       "title": "CEOs who think AI replaces their employees are just bad CEOs",
       "description": "Score: 615 | Comments: 233 | Posted by speckx",
@@ -121,6 +143,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "speckx",
+      "tags": []
+    },
+    {
+      "id": "sf3a2t",
+      "title": "The Future of wasi-gfx and wasi:webgpu",
+      "description": "Score: 18 | Comments: 1 | Posted by mendyberger",
+      "url": "https://wasi-gfx.dev/blog/posts/future-of-wasi-gfx/",
+      "publishedAt": "2026-06-09T18:42:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mendyberger",
       "tags": []
     },
     {

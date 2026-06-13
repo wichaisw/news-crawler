@@ -1,0 +1,138 @@
+{
+  "date": "2026-06-13",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "7eq71y",
+      "title": "Leaving Mozilla",
+      "description": "Score: 15 | Comments: 0 | Posted by martey",
+      "url": "https://blog.unitedheroes.net/5751",
+      "publishedAt": "2026-06-13T05:57:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "martey",
+      "tags": []
+    },
+    {
+      "id": "oqcusg",
+      "title": "Shepherd's Dog: A Game by the Most Dangerous AI Model",
+      "description": "Score: 28 | Comments: 19 | Posted by vnglst",
+      "url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
+      "publishedAt": "2026-06-13T05:44:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vnglst",
+      "tags": []
+    },
+    {
+      "id": "xxos6r",
+      "title": "There is a shadow hanging over this Fable thing12gramsofcarbon.com",
+      "description": "Score: 128 | Comments: 83 | Posted by theahura",
+      "url": "https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow",
+      "publishedAt": "2026-06-13T05:26:08.608Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "theahura",
+      "tags": []
+    },
+    {
+      "id": "kq2ioj",
+      "title": "Even \"illegible\" Mythos reasoning traces seem pretty legible",
+      "description": "Score: 7 | Comments: 1 | Posted by kqr",
+      "url": "https://www.lesswrong.com/posts/wCSEpT3dTGz4N86Wi/even-illegible-mythos-reasoning-traces-seem-pretty-legible",
+      "publishedAt": "2026-06-13T05:18:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kqr",
+      "tags": []
+    },
+    {
+      "id": "xxos6r",
+      "title": "There is a shadow hanging over this Fable thing",
+      "description": "Score: 131 | Comments: 85 | Posted by theahura",
+      "url": "https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow",
+      "publishedAt": "2026-06-13T05:16:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "theahura",
+      "tags": []
+    },
+    {
+      "id": "ckz2ef",
+      "title": "On CPU Physics and CPU Cycles",
+      "description": "Score: 27 | Comments: 4 | Posted by signa11",
+      "url": "https://6it.dev/blog/on-cpu-physics-and-cpu-cycles-80730",
+      "publishedAt": "2026-06-13T04:37:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "signa11",
+      "tags": []
+    },
+    {
+      "id": "e3od7h",
+      "title": "Sam Bankman-Fried loses fraud conviction appeal",
+      "description": "Score: 18 | Comments: 1 | Posted by petethomas",
+      "url": "https://www.ft.com/content/adbf76dc-c476-4f8f-9a6e-3bea0a5c24a6",
+      "publishedAt": "2026-06-13T04:06:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "petethomas",
+      "tags": []
+    },
+    {
+      "id": "9wpr31",
+      "title": "A generic dynamic array in C that stores no capacity and needs no struct",
+      "description": "Score: 9 | Comments: 15 | Posted by alurm",
+      "url": "https://gist.github.com/alurm/2ca14be134d719fe7431217a6b18d91e",
+      "publishedAt": "2026-06-13T02:50:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "alurm",
+      "tags": []
+    },
+    {
+      "id": "5c8bbo",
+      "title": "Open source AI must win",
+      "description": "Score: 742 | Comments: 230 | Posted by vednig",
+      "url": "https://opensourceaimustwin.com/?share=v2",
+      "publishedAt": "2026-06-13T02:14:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vednig",
+      "tags": []
+    },
+    {
+      "id": "5flkgs",
+      "title": "TycoonLE: A Jax reinforcement learning environment for long-horizon planning",
+      "description": "Score: 10 | Comments: 1 | Posted by vrtnis",
+      "url": "https://github.com/vrtnis/tycoon-learning-environment",
+      "publishedAt": "2026-06-13T02:02:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vrtnis",
+      "tags": []
+    },
+    {
+      "id": "iy29np",
+      "title": "Reddit RSS feeds recent rate limiting and solution",
+      "description": "Score: 27 | Comments: 7 | Posted by zdw",
+      "url": "https://lapcatsoftware.com/articles/2026/6/3.html",
+      "publishedAt": "2026-06-13T01:51:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "osewbe",
+      "title": "Statement on US government directive to suspend access to Fable 5 and Mythos 5",
+      "description": "Score: 1954 | Comments: 1446 | Posted by Dylan1312",
+      "url": "https://www.anthropic.com/news/fable-mythos-access",
+      "publishedAt": "2026-06-13T00:51:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Dylan1312",
+      "tags": []
+    }
+  ]
+}

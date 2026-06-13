@@ -113,6 +113,17 @@
       "tags": []
     },
     {
+      "id": "6dhr3e",
+      "title": "A key remapping daemon for Linux",
+      "description": "Score: 37 | Comments: 16 | Posted by joooscha",
+      "url": "https://github.com/rvaiya/keyd",
+      "publishedAt": "2026-06-10T17:27:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "joooscha",
+      "tags": []
+    },
+    {
       "id": "a4pug6",
       "title": "Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use",
       "description": "Score: 397 | Comments: 281 | Posted by tonyrice",
@@ -201,6 +212,17 @@
       "tags": []
     },
     {
+      "id": "3ml72i",
+      "title": "Show HN: Turn your name into a tree in an infinite procedural shanshui landscape",
+      "description": "Score: 33 | Comments: 16 | Posted by subairui",
+      "url": "https://landscape.bairui.dev/",
+      "publishedAt": "2026-06-10T14:39:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "subairui",
+      "tags": []
+    },
+    {
       "id": "ug42lp",
       "title": "PgDog is funded and coming to a database near you",
       "description": "Score: 440 | Comments: 218 | Posted by levkk",
@@ -209,6 +231,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "levkk",
+      "tags": []
+    },
+    {
+      "id": "y5hc96",
+      "title": "Show HN: Lightweight Task queue on Erlang/OTP, SQLite-backed, no overengineering",
+      "description": "Score: 25 | Comments: 5 | Posted by ent1c3d",
+      "url": "https://github.com/entGriff/ezra",
+      "publishedAt": "2026-06-10T13:45:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ent1c3d",
       "tags": []
     },
     {
@@ -341,6 +374,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ahlCVA",
+      "tags": []
+    },
+    {
+      "id": "lllsp8",
+      "title": "The computer science degree isn’t dead",
+      "description": "Score: 67 | Comments: 48 | Posted by jnord",
+      "url": "https://spectrum.ieee.org/computer-science-degree-isnt-dead",
+      "publishedAt": "2026-06-10T01:33:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jnord",
       "tags": []
     },
     {
