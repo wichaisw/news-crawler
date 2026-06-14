@@ -102,6 +102,17 @@
       "tags": []
     },
     {
+      "id": "tqlgij",
+      "title": "Appreciating Exif",
+      "description": "Score: 152 | Comments: 33 | Posted by burnto",
+      "url": "https://brentfitzgerald.com/posts/appreciating-exif/",
+      "publishedAt": "2026-06-09T20:41:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "burnto",
+      "tags": []
+    },
+    {
       "id": "4axx8m",
       "title": "Grit: Rewriting Git in Rust with agents",
       "description": "Score: 127 | Comments: 168 | Posted by cbrewster",
@@ -242,6 +253,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jacobobryant",
+      "tags": []
+    },
+    {
+      "id": "tx610l",
+      "title": "Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI",
+      "description": "Score: 118 | Comments: 27 | Posted by agriyakhetarpal",
+      "url": "https://blog.pyodide.org/posts/314-release/",
+      "publishedAt": "2026-06-09T15:54:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "agriyakhetarpal",
       "tags": []
     },
     {
