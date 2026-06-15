@@ -1,0 +1,116 @@
+{
+  "date": "2026-06-15",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "nttsd0",
+      "title": "Under-16s to be banned from social media, Starmer announces",
+      "description": "Score: 30 | Comments: 29 | Posted by petepete",
+      "url": "https://www.bbc.co.uk/news/live/c77yx1jpg1nt",
+      "publishedAt": "2026-06-15T07:19:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "petepete",
+      "tags": []
+    },
+    {
+      "id": "633ws8",
+      "title": "A frontier without an ecosystem is not stable",
+      "description": "Score: 3 | Comments: 1 | Posted by Michelangelo11",
+      "url": "https://twitter.com/i/status/2066182223213293753",
+      "publishedAt": "2026-06-15T06:57:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Michelangelo11",
+      "tags": []
+    },
+    {
+      "id": "u22uip",
+      "title": "Curl will not accept vulnerability reports during July 2026haxx.se",
+      "description": "Score: 306 | Comments: 78 | Posted by secret-noun",
+      "url": "https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/",
+      "publishedAt": "2026-06-15T06:12:15.709Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "secret-noun",
+      "tags": []
+    },
+    {
+      "id": "u22uip",
+      "title": "Curl will not accept vulnerability reports during July 2026",
+      "description": "Score: 306 | Comments: 78 | Posted by secret-noun",
+      "url": "https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/",
+      "publishedAt": "2026-06-15T06:02:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "secret-noun",
+      "tags": []
+    },
+    {
+      "id": "22ihsy",
+      "title": "Apple Foundation Models",
+      "description": "Score: 63 | Comments: 10 | Posted by MehrdadKhnzd",
+      "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
+      "publishedAt": "2026-06-15T04:55:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "MehrdadKhnzd",
+      "tags": []
+    },
+    {
+      "id": "bage9p",
+      "title": "Even more batteries included with Emacskarthinks.com",
+      "description": "Score: 168 | Comments: 31 | Posted by signa11",
+      "url": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
+      "publishedAt": "2026-06-15T03:12:15.710Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "signa11",
+      "tags": []
+    },
+    {
+      "id": "bage9p",
+      "title": "Even more batteries included with Emacs",
+      "description": "Score: 168 | Comments: 31 | Posted by signa11",
+      "url": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
+      "publishedAt": "2026-06-15T02:30:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "signa11",
+      "tags": []
+    },
+    {
+      "id": "epm52x",
+      "title": "Smashed Toilet Phone Web Server",
+      "description": "Score: 5 | Comments: 2 | Posted by mircerlancerous",
+      "url": "https://www.offthebricks.com/articles/smashed-toilet-phone-web-server",
+      "publishedAt": "2026-06-15T02:19:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mircerlancerous",
+      "tags": []
+    },
+    {
+      "id": "xdptue",
+      "title": "The hallucinogenic mushroom that contains no known psychedelic",
+      "description": "Score: 66 | Comments: 41 | Posted by thunderbong",
+      "url": "https://psychedelics.co.uk/news/a-mushroom-genus-that-gets-people-high-but-not-the",
+      "publishedAt": "2026-06-15T01:07:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thunderbong",
+      "tags": []
+    },
+    {
+      "id": "k456t2",
+      "title": "21 years and counting of 'eight fallacies of distributed computing' (2025)",
+      "description": "Score: 72 | Comments: 15 | Posted by teleforce",
+      "url": "https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/",
+      "publishedAt": "2026-06-15T00:07:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "teleforce",
+      "tags": []
+    }
+  ]
+}

@@ -58,6 +58,17 @@
       "tags": []
     },
     {
+      "id": "beiuut",
+      "title": "Bitsy",
+      "description": "Score: 173 | Comments: 5 | Posted by tosh",
+      "url": "https://bitsy.org/",
+      "publishedAt": "2026-06-11T20:56:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tosh",
+      "tags": []
+    },
+    {
       "id": "xn3ik2",
       "title": "Show HN: Boo – Screen-style terminal multiplexer built on libghostty",
       "description": "Score: 70 | Comments: 23 | Posted by kylecarbs",
@@ -143,6 +154,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "Antibabelic",
+      "tags": []
+    },
+    {
+      "id": "ffxi4u",
+      "title": "The only scalable delete in Postgres is DROP TABLE",
+      "description": "Score: 162 | Comments: 58 | Posted by hollylawly",
+      "url": "https://planetscale.com/blog/the-only-scalable-delete",
+      "publishedAt": "2026-06-11T16:48:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hollylawly",
       "tags": []
     },
     {
@@ -256,6 +278,17 @@
       "tags": []
     },
     {
+      "id": "t9617h",
+      "title": "Lisp's Influence on Ruby",
+      "description": "Score: 238 | Comments: 73 | Posted by tacoda",
+      "url": "https://blog.tacoda.dev/lisps-influence-on-ruby-6a54f1a7740e",
+      "publishedAt": "2026-06-11T14:43:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tacoda",
+      "tags": []
+    },
+    {
       "id": "7lvg13",
       "title": "How a new DSL may survive in the era of LLMs",
       "description": "Score: 41 | Comments: 13 | Posted by williamcotton",
@@ -289,6 +322,17 @@
       "tags": []
     },
     {
+      "id": "j189ee",
+      "title": "There Is(Ǝ) – Such That (∋)",
+      "description": "Score: 18 | Comments: 6 | Posted by evakhoury",
+      "url": "https://www.fractalkitty.com/there-is-3-such-that/",
+      "publishedAt": "2026-06-11T14:13:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "evakhoury",
+      "tags": []
+    },
+    {
       "id": "7ivot1",
       "title": "Show HN: Homebrew 6.0.0",
       "description": "Score: 1173 | Comments: 268 | Posted by mikemcquaid",
@@ -311,6 +355,17 @@
       "tags": []
     },
     {
+      "id": "nha9v9",
+      "title": "Segmented type appreciation corner (2018)",
+      "description": "Score: 71 | Comments: 16 | Posted by unexpectedVCR",
+      "url": "https://aresluna.org/segmented-type/",
+      "publishedAt": "2026-06-11T12:50:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "unexpectedVCR",
+      "tags": []
+    },
+    {
       "id": "z4flym",
       "title": "Lines of code got a better publicist",
       "description": "Score: 387 | Comments: 270 | Posted by RyeCombinator",
@@ -319,6 +374,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "RyeCombinator",
+      "tags": []
+    },
+    {
+      "id": "nou8vi",
+      "title": "USB Power Delivery: Plugging into the Benefits",
+      "description": "Score: 50 | Comments: 98 | Posted by mooreds",
+      "url": "https://www.aptiv.com/en/insights/article/usb-power-delivery-plugging-into-the-benefits",
+      "publishedAt": "2026-06-11T12:15:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mooreds",
       "tags": []
     },
     {
@@ -432,6 +498,17 @@
       "tags": []
     },
     {
+      "id": "fuvcfr",
+      "title": "Inverse Rubric Optimization: A testbed for agent science",
+      "description": "Score: 27 | Comments: 0 | Posted by etherio",
+      "url": "https://fulcrum.inc/2026/06/09/inverse-rubric-optimization.html",
+      "publishedAt": "2026-06-11T01:43:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "etherio",
+      "tags": []
+    },
+    {
       "id": "lhourt",
       "title": "Are insecure code completions in PyCharm a vulnerability?",
       "description": "Score: 28 | Comments: 12 | Posted by 12_throw_away",
@@ -451,6 +528,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "tanelpoder",
+      "tags": []
+    },
+    {
+      "id": "a3aw5t",
+      "title": "A short history of Cerro Torre, the most controversial mountain (2012)",
+      "description": "Score: 35 | Comments: 14 | Posted by joebig",
+      "url": "https://www.markhorrell.com/blog/2012/a-short-history-of-cerro-torre/",
+      "publishedAt": "2026-06-11T00:25:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "joebig",
       "tags": []
     },
     {

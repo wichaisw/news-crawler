@@ -3,6 +3,61 @@
   "source": "techcrunch",
   "articles": [
     {
+      "id": "https://techcrunch.com/?p=3132756",
+      "title": "Startup CEO Charlie Javice is reportedly angling for a Trump pardon",
+      "description": "JPMorgan can't be pleased by any of this.",
+      "url": "https://techcrunch.com/2026/06/14/startup-ceo-charlie-javice-is-reportedly-angling-for-a-trump-pardon/",
+      "publishedAt": "2026-06-14T21:55:34.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Connie Loizos",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3132750",
+      "title": "UK may ban social media for children under 16",
+      "description": "The U.K. seems to be following Australia's lead in banning a wide swath of social media for teens.",
+      "url": "https://techcrunch.com/2026/06/14/uk-may-ban-social-media-for-children-under-16/",
+      "publishedAt": "2026-06-14T20:17:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3132739",
+      "title": "As AI companies race to go public, who else is along for the ride?",
+      "description": "Startups are trying to \"ride that SpaceX IPO wave.\"",
+      "url": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
+      "publishedAt": "2026-06-14T16:38:09.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3132631",
+      "title": "TechCrunch Mobility: SpaceX rockets past Tesla",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+      "url": "https://techcrunch.com/2026/06/14/techcrunch-mobility-spacex-rockets-past-tesla/",
+      "publishedAt": "2026-06-14T16:05:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Kirsten Korosec",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3120114",
+      "title": "The new Sonos Play has become my go-to desk and kitchen speaker",
+      "description": "The new Sonos Play can act as a portable speaker inside and outside your home.",
+      "url": "https://techcrunch.com/2026/06/14/the-new-sonos-play-has-become-my-go-to-desk-and-kitchen-speaker/",
+      "publishedAt": "2026-06-14T14:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Ivan Mehta",
+      "tags": []
+    },
+    {
       "id": "https://techcrunch.com/?p=3132702",
       "title": "As Anthropic suspends access to new models, India debates its AI future",
       "description": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.",

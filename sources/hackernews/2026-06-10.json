@@ -47,6 +47,17 @@
       "tags": []
     },
     {
+      "id": "nqcbgl",
+      "title": "Chopped, Stored, Secured – The Story of the Hash Function",
+      "description": "Score: 36 | Comments: 11 | Posted by denismenace",
+      "url": "https://0xkrt26.github.io/math_behind_security/2026/06/09/the-story-of-the-hash-function.html",
+      "publishedAt": "2026-06-10T21:27:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "denismenace",
+      "tags": []
+    },
+    {
       "id": "8drxhv",
       "title": "What is it like to be a bat? (1974) [pdf]",
       "description": "Score: 85 | Comments: 89 | Posted by shadow28",
@@ -256,6 +267,17 @@
       "tags": []
     },
     {
+      "id": "ulqb44",
+      "title": "TorchCodec 0.14: HDR Video Decoding for CPU and CUDA, and Fast Wav Decoder",
+      "description": "Score: 43 | Comments: 5 | Posted by scott_s",
+      "url": "https://github.com/meta-pytorch/torchcodec/releases/tag/v0.14.0",
+      "publishedAt": "2026-06-10T14:08:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "scott_s",
+      "tags": []
+    },
+    {
       "id": "ug42lp",
       "title": "PgDog is funded and coming to a database near you",
       "description": "Score: 440 | Comments: 218 | Posted by levkk",
@@ -311,6 +333,17 @@
       "tags": []
     },
     {
+      "id": "7yeq8f",
+      "title": "Quivers: A year of linear algebra by drawing arrows",
+      "description": "Score: 47 | Comments: 6 | Posted by ibobev",
+      "url": "https://lisyarus.github.io/blog/posts/quivers-a-year-of-linear-algebra-by-drawing-arrows.html",
+      "publishedAt": "2026-06-10T11:57:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
+      "tags": []
+    },
+    {
       "id": "blwun7",
       "title": "Emacs appearances in pop culture",
       "description": "Score: 316 | Comments: 88 | Posted by ggcr",
@@ -341,6 +374,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "d3Xt3r",
+      "tags": []
+    },
+    {
+      "id": "com8qj",
+      "title": "Firewood Splitting Simulator",
+      "description": "Score: 792 | Comments: 240 | Posted by memalign",
+      "url": "https://screen.toys/firewood/",
+      "publishedAt": "2026-06-10T05:01:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "memalign",
       "tags": []
     },
     {

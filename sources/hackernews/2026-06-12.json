@@ -102,6 +102,17 @@
       "tags": []
     },
     {
+      "id": "hrxvsd",
+      "title": "Write for One Person",
+      "description": "Score: 198 | Comments: 64 | Posted by evakhoury",
+      "url": "https://wizardzines.com/comics/write-for-one-person/",
+      "publishedAt": "2026-06-12T17:36:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "evakhoury",
+      "tags": []
+    },
+    {
       "id": "b2thmv",
       "title": "How to setup a local coding agent on macOS",
       "description": "Score: 345 | Comments: 83 | Posted by kkm",
@@ -132,6 +143,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "arcb",
+      "tags": []
+    },
+    {
+      "id": "zgbsix",
+      "title": "Exploring building a tiny FUSE filesystem",
+      "description": "Score: 3 | Comments: 1 | Posted by shayonj",
+      "url": "https://www.shayon.dev/post/2026/161/building-a-tiny-fuse-filesystem/",
+      "publishedAt": "2026-06-12T16:38:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "shayonj",
       "tags": []
     },
     {
@@ -209,6 +231,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mavdol04",
+      "tags": []
+    },
+    {
+      "id": "ngm8m4",
+      "title": "Prove you're human by winning a claw machine",
+      "description": "Score: 63 | Comments: 44 | Posted by speckx",
+      "url": "https://feralui.vercel.app/#/captcha",
+      "publishedAt": "2026-06-12T13:23:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
       "tags": []
     },
     {
