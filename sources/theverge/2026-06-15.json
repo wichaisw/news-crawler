@@ -1,0 +1,114 @@
+{
+  "date": "2026-06-15",
+  "source": "theverge",
+  "articles": [
+    {
+      "id": "69kxxa",
+      "title": "Facebook’s new AI Mode search gets its info from public posts",
+      "description": "Your public Facebook posts could help inform AI-generated results in Meta's new AI Mode. When you search on Facebook, the \"AI Mode\" option will appear alongside the usual search modes like \"People\" and \"Marketplace.\" It's one of several new AI features Meta is rolling out starting today, including photo presets that swap sports jerseys onto [&#8230;]",
+      "url": "https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_7395.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-06-15T21:15:08.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Stevie Bonifield",
+      "tags": []
+    },
+    {
+      "id": "z76bel",
+      "title": "Xbox is closing down Hellblade creator Ninja Theory",
+      "description": "Xbox is closing down Ninja Theory, the studio behind the Hellblade series, a source tells The Verge. Staffers were told on a call on Monday about the closure, but they are hoping the studio will find a buyer. The closure comes as \"several\" Xbox studios at Microsoft, including Compulsion Games and Double Fine, are in [&#8230;]",
+      "url": "https://www.theverge.com/games/950204/xbox-ninja-theory-shutdown-hellblade-senua",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/hellblade-ii-senuas-sacrifice.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-06-15T21:13:35.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Jay PetersTom Warren",
+      "tags": []
+    },
+    {
+      "id": "q35615",
+      "title": "Fox wants to take over your TV — and the tech inside it",
+      "description": "Fox is about to take over the TVs in more than 100 million homes worldwide. On Monday, Fox announced that it's acquiring Roku, the streaming middleman that serves as a portal for viewers to hop into services like Netflix, Disney Plus, Hulu, and more. The $22 billion deal may not change Roku's familiar purple interface, [&#8230;]",
+      "url": "https://www.theverge.com/streaming/950116/fox-roku-takeover",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STK284_AParkin_3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-06-15T20:04:29.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Emma Roth",
+      "tags": []
+    },
+    {
+      "id": "peedyo",
+      "title": "Amazon's Smart Thermostat is on sale for just $58",
+      "description": "If your electricity bill climbs every summer, a smart thermostat could help keep cooling costs in check. The Amazon Smart Thermostat is an excellent option for its price, especially today. It's down to just $57.99 at Amazon as a part of Amazon’s early Prime Day sale, which is the best price we’ve seen since Black [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/950043/amazon-smart-thermostat-early-prime-day-deal-sale",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23019741/jtuohy_211116_4885_0013.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-06-15T19:33:28.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Sheena Vasani",
+      "tags": []
+    },
+    {
+      "id": "7gg0t1",
+      "title": "All the news about Anthropic's new AI fight with the White House",
+      "description": "Anthropic was already navigating one dispute with the government in its standoff with the Pentagon, and then came an order on June 12th to block off foreign access to its most recently released AI models, Fable 5 and Mythos 5. When they launched on June 9th, Anthropic said \"Fable 5’s capabilities exceed those of any [&#8230;]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK269_ANTHROPIC_2_D.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-06-15T19:04:53.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Richard Lawler",
+      "tags": []
+    },
+    {
+      "id": "gl3q0z",
+      "title": "The best early Amazon Prime Day deals so far",
+      "description": "Amazon’s earlier-than-usual Prime Day doesn’t begin until June 23rd, but there are several even earlier deals on must-have products that you can check out right now. To name some examples, Apple’s AirPods Pro 3 are selling at their cheapest-ever price. Also, you can grab Ring’s latest battery-powered doorbell for $60 off and it includes a [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/944084/best-early-prime-day-deals",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268513_Amazon_Prime_Day_artwork_4.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-06-15T18:39:37.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Cameron Faulkner",
+      "tags": []
+    },
+    {
+      "id": "ess8ux",
+      "title": "Trump’s Anthropic shutdown just made the case for non-American AI",
+      "description": "At Washington's request, Anthropic suddenly took its newest and most powerful AI models offline over the weekend. The American company said it had little choice after the White House demanded it block access for all foreign nationals, including its own employees. Abroad, the incident offered a sobering reminder that the US not only dominates frontier [&#8230;]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/VRG_Illo_STK175_L_Normand_DonaldTrump_Negative.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-06-15T18:10:27.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Robert Hart",
+      "tags": []
+    },
+    {
+      "id": "pnh2h0",
+      "title": "Google Chrome is closing the loopholes that let old ad blockers keep working",
+      "description": "Google Chrome version 150 and 151, expected in late June and July, respectively, will cut off support for the last remaining workarounds for running older ad blockers, 9to5Google reports. Google phased out support for ad-blocking extensions built for Manifest V2, like uBlock Origin, in 2024. At that point, most Chrome users either switched to newer [&#8230;]",
+      "url": "https://www.theverge.com/tech/950005/google-chrome-removing-ad-blocker-loopholes",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24418648/STK114_Google_Chrome_03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-06-15T18:06:18.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Stevie Bonifield",
+      "tags": []
+    },
+    {
+      "id": "qnugdn",
+      "title": "Big Tech’s desperate last push at AI regulation",
+      "description": "For months, Big Tech's Washington lobbyists have chased after the holy grail of pro-AI legislation: preemption. This would be a comprehensive federal law, passed in Congress and signed by the president, applying one set of AI rules across the entire country and overriding the legally messy state-by-state approach to regulation. For months, lobbyists have run [&#8230;]",
+      "url": "https://www.theverge.com/policy/949970/ai-regulation-child-safety-kosa-congress",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2163958194.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-06-15T17:44:10.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Tina Nguyen",
+      "tags": []
+    }
+  ]
+}

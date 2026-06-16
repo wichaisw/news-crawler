@@ -3,6 +3,259 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "asjjj",
+      "title": "Banned Book Library in a Wi-Fi Smart Light Bulb",
+      "description": "Score: 345 | Comments: 175 | Posted by sohkamyung",
+      "url": "https://www.richardosgood.com/posts/banned-book-library/",
+      "publishedAt": "2026-06-15T22:37:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sohkamyung",
+      "tags": []
+    },
+    {
+      "id": "5qk5nc",
+      "title": "Why I email complete strangers",
+      "description": "Score: 138 | Comments: 60 | Posted by karakoram",
+      "url": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/",
+      "publishedAt": "2026-06-15T21:57:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "karakoram",
+      "tags": []
+    },
+    {
+      "id": "g3r74j",
+      "title": "Peopleless economy? Not technically impossible",
+      "description": "Score: 170 | Comments: 290 | Posted by l0new0lf-G",
+      "url": "https://gmalandrakis.com/writings/ad-economicum.html",
+      "publishedAt": "2026-06-15T21:10:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "l0new0lf-G",
+      "tags": []
+    },
+    {
+      "id": "28wrlj",
+      "title": "US battery manufacturing output continues to break records",
+      "description": "Score: 199 | Comments: 163 | Posted by epistasis",
+      "url": "https://fred.stlouisfed.org/series/IPG33591S",
+      "publishedAt": "2026-06-15T20:28:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "epistasis",
+      "tags": []
+    },
+    {
+      "id": "nk8lq3",
+      "title": "I Love the Computer",
+      "description": "Score: 215 | Comments: 129 | Posted by speckx",
+      "url": "https://michaelenger.com/blog/i-love-the-computer/",
+      "publishedAt": "2026-06-15T20:14:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
+      "tags": []
+    },
+    {
+      "id": "a7dsz9",
+      "title": "What job interviews taught me about Kubernetes",
+      "description": "Score: 172 | Comments: 120 | Posted by chmaynard",
+      "url": "https://notnotp.com/notes/what-job-interviews-taught-me-about-kubernetes/",
+      "publishedAt": "2026-06-15T20:12:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "chmaynard",
+      "tags": []
+    },
+    {
+      "id": "xzi826",
+      "title": "A backdoor in a LinkedIn job offer",
+      "description": "Score: 1068 | Comments: 200 | Posted by lwhsiao",
+      "url": "https://roman.pt/posts/linkedin-backdoor/",
+      "publishedAt": "2026-06-15T20:00:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lwhsiao",
+      "tags": []
+    },
+    {
+      "id": "lljhs1",
+      "title": "Show HN: Veterinarian turned founder, AI lawn diagnosis",
+      "description": "Score: 62 | Comments: 55 | Posted by andrewbr",
+      "url": "https://grassdx.com/",
+      "publishedAt": "2026-06-15T17:56:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andrewbr",
+      "tags": []
+    },
+    {
+      "id": "ynulht",
+      "title": "Game Engine White Papers: Commander Keen",
+      "description": "Score: 195 | Comments: 64 | Posted by mfiguiere",
+      "url": "https://forgottenbytes.net/commander_keen.html",
+      "publishedAt": "2026-06-15T17:52:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mfiguiere",
+      "tags": []
+    },
+    {
+      "id": "xyela8",
+      "title": "Claude Corps",
+      "description": "Score: 125 | Comments: 81 | Posted by Mustan",
+      "url": "https://www.anthropic.com/news/claude-corps",
+      "publishedAt": "2026-06-15T17:41:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Mustan",
+      "tags": []
+    },
+    {
+      "id": "qg0tqt",
+      "title": "How TimescaleDB compresses time-series data",
+      "description": "Score: 148 | Comments: 17 | Posted by lkanwoqwp",
+      "url": "https://roszigit.com/en/blog/timescaledb-compression-hypercore",
+      "publishedAt": "2026-06-15T17:29:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lkanwoqwp",
+      "tags": []
+    },
+    {
+      "id": "181gjp",
+      "title": "Typst 0.15.0",
+      "description": "Score: 310 | Comments: 83 | Posted by schu",
+      "url": "https://typst.app/docs/changelog/0.15.0/",
+      "publishedAt": "2026-06-15T17:24:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "schu",
+      "tags": []
+    },
+    {
+      "id": "rd0fj1",
+      "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
+      "description": "Score: 784 | Comments: 152 | Posted by tinywind",
+      "url": "https://tinywind.io",
+      "publishedAt": "2026-06-15T16:15:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tinywind",
+      "tags": []
+    },
+    {
+      "id": "y9zkbb",
+      "title": "How memory safety CVEs differ between Rust and C/C++",
+      "description": "Score: 128 | Comments: 159 | Posted by nicoburns",
+      "url": "https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html",
+      "publishedAt": "2026-06-15T16:11:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nicoburns",
+      "tags": []
+    },
+    {
+      "id": "8newz2",
+      "title": "Boot Naked Linux",
+      "description": "Score: 109 | Comments: 50 | Posted by abnercoimbre",
+      "url": "https://nick.zoic.org/art/boot-naked-linux/",
+      "publishedAt": "2026-06-15T16:03:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "abnercoimbre",
+      "tags": []
+    },
+    {
+      "id": "w1ghj8",
+      "title": "Show HN: machine0 – Persistent NixOS VMs You Control from the CLI",
+      "description": "Score: 84 | Comments: 34 | Posted by bwm",
+      "url": "https://machine0.io",
+      "publishedAt": "2026-06-15T16:01:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bwm",
+      "tags": []
+    },
+    {
+      "id": "b49yrq",
+      "title": "Iroh 1.0",
+      "description": "Score: 1134 | Comments: 342 | Posted by chadfowler",
+      "url": "https://www.iroh.computer/blog/v1",
+      "publishedAt": "2026-06-15T15:13:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "chadfowler",
+      "tags": []
+    },
+    {
+      "id": "5v21wk",
+      "title": "My Homelab AI Dev Platform",
+      "description": "Score: 300 | Comments: 52 | Posted by rsgm",
+      "url": "https://rsgm.dev/post/ai-dev-platform/",
+      "publishedAt": "2026-06-15T15:09:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rsgm",
+      "tags": []
+    },
+    {
+      "id": "j8buoa",
+      "title": "Copper transport drug restores memory and clears toxic Alzheimer's proteins",
+      "description": "Score: 291 | Comments: 108 | Posted by bookofjoe",
+      "url": "https://www.monash.edu/news/articles/copper-drug-restores-memory-and-clears-toxic-alzheimers-proteins",
+      "publishedAt": "2026-06-15T14:48:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bookofjoe",
+      "tags": []
+    },
+    {
+      "id": "521ke9",
+      "title": "Can Europe train a frontier AI model on the compute it owns?",
+      "description": "Score: 132 | Comments: 239 | Posted by smashini",
+      "url": "https://github.com/sammysltd/euromesh",
+      "publishedAt": "2026-06-15T13:31:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "smashini",
+      "tags": []
+    },
+    {
+      "id": "j1241c",
+      "title": "Hetzner Price Adjustment",
+      "description": "Score: 416 | Comments: 565 | Posted by tuhtah",
+      "url": "https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/#cloud-servers",
+      "publishedAt": "2026-06-15T13:19:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tuhtah",
+      "tags": []
+    },
+    {
+      "id": "gtwm1f",
+      "title": "Fox to buy Roku",
+      "description": "Score: 316 | Comments: 390 | Posted by thm",
+      "url": "https://www.wsj.com/business/deals/fox-roku-deal-f6e564f9",
+      "publishedAt": "2026-06-15T12:50:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thm",
+      "tags": []
+    },
+    {
+      "id": "tqrabv",
+      "title": "Salesforce to Acquire Fin (formerly Intercom) for $3.6B",
+      "description": "Score: 302 | Comments: 221 | Posted by colesantiago",
+      "url": "https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL",
+      "publishedAt": "2026-06-15T12:08:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "colesantiago",
+      "tags": []
+    },
+    {
       "id": "nttsd0",
       "title": "Under-16s to be banned from social media, Starmer announces",
       "description": "Score: 30 | Comments: 29 | Posted by petepete",
@@ -14,6 +267,17 @@
       "tags": []
     },
     {
+      "id": "1magth",
+      "title": "Openrouter Fusion API",
+      "description": "Score: 205 | Comments: 80 | Posted by tdchaitanya",
+      "url": "https://openrouter.ai/openrouter/fusion",
+      "publishedAt": "2026-06-15T07:10:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tdchaitanya",
+      "tags": []
+    },
+    {
       "id": "633ws8",
       "title": "A frontier without an ecosystem is not stable",
       "description": "Score: 3 | Comments: 1 | Posted by Michelangelo11",
@@ -22,6 +286,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "Michelangelo11",
+      "tags": []
+    },
+    {
+      "id": "re0nli",
+      "title": "Improvement in advanced Alzheimer’s disease following high-dose psilocybin",
+      "description": "Score: 202 | Comments: 142 | Posted by cl3misch",
+      "url": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1813281/full",
+      "publishedAt": "2026-06-15T06:52:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cl3misch",
       "tags": []
     },
     {

@@ -1,0 +1,39 @@
+{
+  "date": "2026-06-16",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "150916 at https://www.blognone.com",
+      "title": "ใช้คลาวด์ก็ไม่รอด Hetzner ประกาศขึ้นราคาคลาวด์ สูงสุด 200%",
+      "description": "ใช้คลาวด์ก็ไม่รอด Hetzner ประกาศขึ้นราคาคลาวด์ สูงสุด 200% Body ราคาสินค้าไอทีแพงขึ้นเรื่อยๆ ในช่วงปีที่ผ่านมาเริ่มกระทบผู้ใช้คลาวด์บ้างแล้ว",
+      "url": "https://www.blognone.com/node/150916",
+      "publishedAt": "2026-06-16T02:34:28.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150915 at https://www.blognone.com",
+      "title": "งานวิจัยกูเกิล ลองสร้างเซิร์ฟเวอร์จากเมนบอร์ดสมาร์ทโฟนเก่า เพื่อลดขยะอิเล็กทรอนิกส์",
+      "description": "งานวิจัยกูเกิล ลองสร้างเซิร์ฟเวอร์จากเมนบอร์ดสมาร์ทโฟนเก่า เพื่อลดขยะอิเล็กทรอนิกส์ Body กูเกิล ร่วมกับทีมนักวิจัยจาก University of California San",
+      "url": "https://www.blognone.com/node/150915",
+      "publishedAt": "2026-06-16T01:51:46.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "150914 at https://www.blognone.com",
+      "title": "curl หยุดรับแจ้งช่องโหว่ความปลอดภัยหนึ่งเดือน ให้ทีมพัฒนาพัก",
+      "description": "curl หยุดรับแจ้งช่องโหว่ความปลอดภัยหนึ่งเดือน ให้ทีมพัฒนาพัก Body curl โครงการไคลเอนต์ HTTP",
+      "url": "https://www.blognone.com/node/150914",
+      "publishedAt": "2026-06-16T00:32:47.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}

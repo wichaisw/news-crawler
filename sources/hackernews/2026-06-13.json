@@ -25,6 +25,17 @@
       "tags": []
     },
     {
+      "id": "jyv45i",
+      "title": "What every coder should know about gamma (2016)",
+      "description": "Score: 93 | Comments: 27 | Posted by sph",
+      "url": "https://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/",
+      "publishedAt": "2026-06-13T22:01:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sph",
+      "tags": []
+    },
+    {
       "id": "rk5wya",
       "title": "Human Routers of Machine Words",
       "description": "Score: 60 | Comments: 27 | Posted by zx321",
@@ -146,6 +157,17 @@
       "tags": []
     },
     {
+      "id": "r9hqq2",
+      "title": "The Null Is Always False (Except When It Is True) (2014)",
+      "description": "Score: 5 | Comments: 0 | Posted by mkl95",
+      "url": "http://daniellakens.blogspot.com/2014/06/the-null-is-always-false-except-when-it.html",
+      "publishedAt": "2026-06-13T14:27:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mkl95",
+      "tags": []
+    },
+    {
       "id": "jelqn5",
       "title": "Orthodox C++ (2016)",
       "description": "Score: 94 | Comments: 171 | Posted by signa11",
@@ -176,6 +198,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "andsoitis",
+      "tags": []
+    },
+    {
+      "id": "6xlm87",
+      "title": "An O(x)Caml book that runs",
+      "description": "Score: 53 | Comments: 16 | Posted by anirudh24seven",
+      "url": "https://kcsrk.info/ocaml/oxcaml/teaching/nptel/llm/2026/06/13/an-oxcaml-book-that-runs/",
+      "publishedAt": "2026-06-13T13:11:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "anirudh24seven",
       "tags": []
     },
     {

@@ -1,0 +1,149 @@
+{
+  "date": "2026-06-16",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "xyokpp",
+      "title": "Understanding the rationale behind a rule when trying to circumvent it",
+      "description": "Score: 7 | Comments: 0 | Posted by tosh",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260611-00/?p=112415",
+      "publishedAt": "2026-06-16T07:35:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tosh",
+      "tags": []
+    },
+    {
+      "id": "ip2l9",
+      "title": "The time the x86 emulator team found code so bad they fixed it during emulationdevblogs.microsoft.com/oldnewthing",
+      "description": "Score: 178 | Comments: 48 | Posted by paulmooreparks",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419",
+      "publishedAt": "2026-06-16T05:06:36.335Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "paulmooreparks",
+      "tags": []
+    },
+    {
+      "id": "c6jb8k",
+      "title": "John Carmack on Fabrice Bellardtwitter.com/id_aa_carmack",
+      "description": "Score: 164 | Comments: 94 | Posted by apitman",
+      "url": "https://twitter.com/ID_AA_Carmack/status/2064095424420487226",
+      "publishedAt": "2026-06-16T05:06:36.335Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "apitman",
+      "tags": []
+    },
+    {
+      "id": "c6jb8k",
+      "title": "John Carmack on Fabrice Bellard",
+      "description": "Score: 166 | Comments: 95 | Posted by apitman",
+      "url": "https://twitter.com/ID_AA_Carmack/status/2064095424420487226",
+      "publishedAt": "2026-06-16T04:58:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "apitman",
+      "tags": []
+    },
+    {
+      "id": "ip2l9",
+      "title": "The time the x86 emulator team found code so bad they fixed it during emulation",
+      "description": "Score: 180 | Comments: 48 | Posted by paulmooreparks",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419",
+      "publishedAt": "2026-06-16T04:46:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "paulmooreparks",
+      "tags": []
+    },
+    {
+      "id": "imz3sf",
+      "title": "Show HN: Garden of Flowers – an archive of pictorial typography before ASCII art",
+      "description": "Score: 59 | Comments: 11 | Posted by california-og",
+      "url": "https://garden-of-flowers.heikkilotvonen.com/",
+      "publishedAt": "2026-06-16T04:25:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "california-og",
+      "tags": []
+    },
+    {
+      "id": "t9sca0",
+      "title": "The rise of machine writing is a great opportunity for literature",
+      "description": "Score: 7 | Comments: 0 | Posted by samclemens",
+      "url": "https://www.theatlantic.com/ideas/2026/06/ai-writing-style-literature/687536/",
+      "publishedAt": "2026-06-16T04:24:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "samclemens",
+      "tags": []
+    },
+    {
+      "id": "1cxc0a",
+      "title": "Firefox 152 Now Available with JPEG-XL Support",
+      "description": "Score: 26 | Comments: 5 | Posted by eln1",
+      "url": "https://www.phoronix.com/news/Firefox-152-Download",
+      "publishedAt": "2026-06-16T04:10:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "eln1",
+      "tags": []
+    },
+    {
+      "id": "jy4b79",
+      "title": "OpenAI Losses Increased Nearly 8X in 2025, with Spending Hitting $34B",
+      "description": "Score: 62 | Comments: 27 | Posted by spking",
+      "url": "https://www.wheresyoured.at/exclusive-openai-financials/",
+      "publishedAt": "2026-06-16T04:05:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "spking",
+      "tags": []
+    },
+    {
+      "id": "zh5apm",
+      "title": "Vance: Iran can have access to $300B reconstruction fund",
+      "description": "Score: 52 | Comments: 24 | Posted by GreenSalem",
+      "url": "https://thehill.com/homenews/administration/5924963-vance-iran-300b-reconstruction-fund/",
+      "publishedAt": "2026-06-16T02:42:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "GreenSalem",
+      "tags": []
+    },
+    {
+      "id": "h4oxng",
+      "title": "Humanity isn't ready for the coming intelligence explosion",
+      "description": "Score: 72 | Comments: 182 | Posted by andsoitis",
+      "url": "https://www.economist.com/by-invitation/2026/06/15/humanity-isnt-ready-for-the-coming-intelligence-explosion",
+      "publishedAt": "2026-06-16T02:00:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andsoitis",
+      "tags": []
+    },
+    {
+      "id": "x5qntf",
+      "title": "Amazon Announces Multibillion-Dollar Data Center in Missouri",
+      "description": "Score: 105 | Comments: 89 | Posted by thelonelyborg",
+      "url": "https://www.narracomm.com/amazon-announces-multibillion-dollar-data-center-in-missouri/",
+      "publishedAt": "2026-06-16T00:28:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thelonelyborg",
+      "tags": []
+    },
+    {
+      "id": "haoy9z",
+      "title": "Reviews have become expensive, rewrites have become cheap",
+      "description": "Score: 59 | Comments: 46 | Posted by arzh2",
+      "url": "http://ishmeetbindra.com/posts/reviews-have-become-expensive-rewrites-have-become-cheap/",
+      "publishedAt": "2026-06-16T00:13:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "arzh2",
+      "tags": []
+    }
+  ]
+}
