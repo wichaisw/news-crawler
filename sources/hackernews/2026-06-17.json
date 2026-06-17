@@ -1,0 +1,72 @@
+{
+  "date": "2026-06-17",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "23s4ac",
+      "title": "The founder's playbook: Building an AI-native startup",
+      "description": "Score: 31 | Comments: 20 | Posted by e2e4",
+      "url": "https://claude.com/blog/the-founders-playbook",
+      "publishedAt": "2026-06-17T07:04:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "e2e4",
+      "tags": []
+    },
+    {
+      "id": "mctz8q",
+      "title": "Snap Launches $2,195 'Specs' Augmented Reality Glasses",
+      "description": "Score: 4 | Comments: 0 | Posted by tosh",
+      "url": "https://www.macrumors.com/2026/06/16/snap-specs-ar-glasses/",
+      "publishedAt": "2026-06-17T06:11:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tosh",
+      "tags": []
+    },
+    {
+      "id": "ctcase",
+      "title": "NetNewsWire Status",
+      "description": "Score: 53 | Comments: 9 | Posted by droidjj",
+      "url": "https://inessential.com/2026/06/15/netnewswire-status.html",
+      "publishedAt": "2026-06-17T04:30:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "droidjj",
+      "tags": []
+    },
+    {
+      "id": "w9yozs",
+      "title": "Semiclassical Gravity Efficiently Solves NP-Complete Problems",
+      "description": "Score: 15 | Comments: 5 | Posted by ascarshen",
+      "url": "https://arxiv.org/abs/2606.14806",
+      "publishedAt": "2026-06-17T03:25:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ascarshen",
+      "tags": []
+    },
+    {
+      "id": "lk98rz",
+      "title": "Stop Killing Games fails to secure EU law despite 1.3M signatures",
+      "description": "Score: 191 | Comments: 76 | Posted by slymax",
+      "url": "https://www.dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431/",
+      "publishedAt": "2026-06-17T01:40:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "slymax",
+      "tags": []
+    },
+    {
+      "id": "ek5niy",
+      "title": "2026-06-16 Robinhood Layoff Translation",
+      "description": "Score: 43 | Comments: 4 | Posted by ronbenton",
+      "url": "https://layoff-translator.pages.dev/layoffs/2026-06-16-robinhood",
+      "publishedAt": "2026-06-17T00:37:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ronbenton",
+      "tags": []
+    }
+  ]
+}
