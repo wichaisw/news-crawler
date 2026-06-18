@@ -3,6 +3,237 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "e5nbsw",
+      "title": "Taxonomy of the Occlupanida (parasitoids on bread bag tags)",
+      "description": "Score: 136 | Comments: 31 | Posted by beatthatflight",
+      "url": "https://www.horg.com/horg/?page_id=921",
+      "publishedAt": "2026-06-17T23:20:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "beatthatflight",
+      "tags": []
+    },
+    {
+      "id": "qcjvz9",
+      "title": "Clojure Hosted on Go",
+      "description": "Score: 118 | Comments: 14 | Posted by dnlo",
+      "url": "https://github.com/glojurelang/glojure",
+      "publishedAt": "2026-06-17T23:14:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dnlo",
+      "tags": []
+    },
+    {
+      "id": "k8bpd5",
+      "title": "Storied Colors – A catalogue of named colors",
+      "description": "Score: 153 | Comments: 35 | Posted by susiecambria",
+      "url": "https://storiedcolors.com/",
+      "publishedAt": "2026-06-17T21:49:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "susiecambria",
+      "tags": []
+    },
+    {
+      "id": "3v6a9j",
+      "title": "Tesco moving 40k server workloads off VMware amid Broadcom's abusive conduct",
+      "description": "Score: 289 | Comments: 160 | Posted by Bender",
+      "url": "https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/",
+      "publishedAt": "2026-06-17T21:00:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Bender",
+      "tags": []
+    },
+    {
+      "id": "5dt6df",
+      "title": "Loreline – Tools for writing interactive fiction",
+      "description": "Score: 143 | Comments: 18 | Posted by smartmic",
+      "url": "https://loreline.app/en/",
+      "publishedAt": "2026-06-17T20:29:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "smartmic",
+      "tags": []
+    },
+    {
+      "id": "l6bp3y",
+      "title": "How Madrid built its metro cheaply (2024)",
+      "description": "Score: 115 | Comments: 59 | Posted by trymas",
+      "url": "https://worksinprogress.co/issue/how-madrid-built-its-metro-cheaply/",
+      "publishedAt": "2026-06-17T19:59:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "trymas",
+      "tags": []
+    },
+    {
+      "id": "8foqat",
+      "title": "Made a free macOS menu bar app that fixes typing in the wrong keyboard layout",
+      "description": "Score: 66 | Comments: 32 | Posted by tal_alfi",
+      "url": "https://flickey.site",
+      "publishedAt": "2026-06-17T19:50:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tal_alfi",
+      "tags": []
+    },
+    {
+      "id": "6q5tn5",
+      "title": "Using AI to improve a challenging reaction in medicinal chemistry",
+      "description": "Score: 52 | Comments: 20 | Posted by ilreb",
+      "url": "https://openai.com/index/ai-chemist-improves-reaction/",
+      "publishedAt": "2026-06-17T17:34:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ilreb",
+      "tags": []
+    },
+    {
+      "id": "5nxary",
+      "title": "Show HN: An 8-bit live gamecast for baseball",
+      "description": "Score: 227 | Comments: 121 | Posted by brownrout",
+      "url": "https://ribbie.tv/watch",
+      "publishedAt": "2026-06-17T16:44:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "brownrout",
+      "tags": []
+    },
+    {
+      "id": "p1whwr",
+      "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
+      "description": "Score: 178 | Comments: 85 | Posted by zachdive",
+      "url": "https://github.com/Adam-CAD/CADAM",
+      "publishedAt": "2026-06-17T16:14:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zachdive",
+      "tags": []
+    },
+    {
+      "id": "1tyckf",
+      "title": "Volkswagen started blocking GrapheneOS users",
+      "description": "Score: 642 | Comments: 384 | Posted by microtonal",
+      "url": "https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3",
+      "publishedAt": "2026-06-17T15:04:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "microtonal",
+      "tags": []
+    },
+    {
+      "id": "kzj6r8",
+      "title": "Language Courses in the Public Domain",
+      "description": "Score: 41 | Comments: 0 | Posted by hggh",
+      "url": "https://fsi-languages.yojik.eu/",
+      "publishedAt": "2026-06-17T15:01:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hggh",
+      "tags": []
+    },
+    {
+      "id": "trbaac",
+      "title": "Lore – Open source version control system designed for scalability",
+      "description": "Score: 1103 | Comments: 594 | Posted by regnerba",
+      "url": "https://lore.org/",
+      "publishedAt": "2026-06-17T14:30:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "regnerba",
+      "tags": []
+    },
+    {
+      "id": "b1alba",
+      "title": "AI demands more engineering discipline. Not less",
+      "description": "Score: 375 | Comments: 185 | Posted by BerislavLopac",
+      "url": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline",
+      "publishedAt": "2026-06-17T14:20:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "BerislavLopac",
+      "tags": []
+    },
+    {
+      "id": "1v8wfp",
+      "title": "Want your images back? That'll be $5",
+      "description": "Score: 626 | Comments: 260 | Posted by lutr",
+      "url": "https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars",
+      "publishedAt": "2026-06-17T13:05:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lutr",
+      "tags": []
+    },
+    {
+      "id": "86rgnp",
+      "title": "Why thinking out loud with someone beats thinking alone",
+      "description": "Score: 244 | Comments: 105 | Posted by kodesko",
+      "url": "https://www.thesignalist.io/s/the-dialogue-dividend/",
+      "publishedAt": "2026-06-17T13:00:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kodesko",
+      "tags": []
+    },
+    {
+      "id": "ze07oe",
+      "title": "MicroUI – A tiny, portable, immediate-mode UI library written in ANSI C",
+      "description": "Score: 228 | Comments: 77 | Posted by peter_d_sherman",
+      "url": "https://github.com/rxi/microui",
+      "publishedAt": "2026-06-17T12:04:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "peter_d_sherman",
+      "tags": []
+    },
+    {
+      "id": "fwr0us",
+      "title": "RFC 10008: The new HTTP Query Method",
+      "description": "Score: 362 | Comments: 152 | Posted by schappim",
+      "url": "https://www.rfc-editor.org/info/rfc10008/",
+      "publishedAt": "2026-06-17T10:51:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "schappim",
+      "tags": []
+    },
+    {
+      "id": "roedm5",
+      "title": "U.S. science is in chaos",
+      "description": "Score: 802 | Comments: 957 | Posted by presspot",
+      "url": "https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/",
+      "publishedAt": "2026-06-17T09:54:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "presspot",
+      "tags": []
+    },
+    {
+      "id": "3ixi4a",
+      "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
+      "description": "Score: 841 | Comments: 408 | Posted by himata4113",
+      "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
+      "publishedAt": "2026-06-17T09:12:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "himata4113",
+      "tags": []
+    },
+    {
+      "id": "p5f7ci",
+      "title": "GLM 5.2 Performance Benchmarks",
+      "description": "Score: 147 | Comments: 47 | Posted by theanonymousone",
+      "url": "https://artificialanalysis.ai/models/glm-5-2",
+      "publishedAt": "2026-06-17T07:30:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "theanonymousone",
+      "tags": []
+    },
+    {
       "id": "23s4ac",
       "title": "The founder's playbook: Building an AI-native startup",
       "description": "Score: 31 | Comments: 20 | Posted by e2e4",
@@ -11,6 +242,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "e2e4",
+      "tags": []
+    },
+    {
+      "id": "4qqi88",
+      "title": "Why do commercial spaces sit vacant? (2025)",
+      "description": "Score: 135 | Comments: 204 | Posted by Redoubts",
+      "url": "https://www.freerange.city/p/why-do-commercial-spaces-sit-vacant",
+      "publishedAt": "2026-06-17T06:59:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Redoubts",
       "tags": []
     },
     {
@@ -33,6 +275,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "droidjj",
+      "tags": []
+    },
+    {
+      "id": "jr2yg0",
+      "title": "US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",
+      "description": "Score: 439 | Comments: 494 | Posted by giuliomagnifico",
+      "url": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
+      "publishedAt": "2026-06-17T03:55:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "giuliomagnifico",
       "tags": []
     },
     {

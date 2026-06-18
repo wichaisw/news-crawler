@@ -1,0 +1,116 @@
+{
+  "date": "2026-06-18",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "gvyecm",
+      "title": "The Australian Government to Require SMS/MMS Sender ID Registraion",
+      "description": "Score: 44 | Comments: 17 | Posted by anitil",
+      "url": "https://www.acma.gov.au/sms-sender-id-register",
+      "publishedAt": "2026-06-18T06:23:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "anitil",
+      "tags": []
+    },
+    {
+      "id": "uowjdd",
+      "title": "DeepSeek Introduces Vision",
+      "description": "Score: 50 | Comments: 23 | Posted by RIshabh235",
+      "url": "https://chat.deepseek.com/",
+      "publishedAt": "2026-06-18T06:17:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "RIshabh235",
+      "tags": []
+    },
+    {
+      "id": "zd6kh4",
+      "title": "I Hate Compilers",
+      "description": "Score: 50 | Comments: 47 | Posted by xena",
+      "url": "https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/",
+      "publishedAt": "2026-06-18T05:10:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "xena",
+      "tags": []
+    },
+    {
+      "id": "trv4g3",
+      "title": "SteamOS Linux 3.8 released as stable",
+      "description": "Score: 107 | Comments: 11 | Posted by jrepinc",
+      "url": "https://store.steampowered.com/news/app/1675200/view/697641379212298072",
+      "publishedAt": "2026-06-18T04:05:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jrepinc",
+      "tags": []
+    },
+    {
+      "id": "ysgp79",
+      "title": "Nim Conf 2026 (Online, Sat June 20)",
+      "description": "Score: 34 | Comments: 4 | Posted by pietroppeter",
+      "url": "https://conf.nim-lang.org/",
+      "publishedAt": "2026-06-18T03:38:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pietroppeter",
+      "tags": []
+    },
+    {
+      "id": "jsywo6",
+      "title": "Apple boss Tim Cook says prices to rise due to memory chip costs",
+      "description": "Score: 67 | Comments: 76 | Posted by ilreb",
+      "url": "https://www.bbc.com/news/articles/c3wyxvqdx1zo",
+      "publishedAt": "2026-06-18T03:34:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ilreb",
+      "tags": []
+    },
+    {
+      "id": "b9cggp",
+      "title": "Local Qwen isn't a worse Opus, it's a different tool",
+      "description": "Score: 146 | Comments: 60 | Posted by alphabettsy",
+      "url": "https://blog.alexellis.io/local-ai-is-not-opus/",
+      "publishedAt": "2026-06-18T03:04:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "alphabettsy",
+      "tags": []
+    },
+    {
+      "id": "8wmyv2",
+      "title": "Midjourney Medicalmidjourney.com",
+      "description": "Score: 574 | Comments: 412 | Posted by ricochet11",
+      "url": "https://www.midjourney.com/medical/blogpost",
+      "publishedAt": "2026-06-18T02:50:13.352Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ricochet11",
+      "tags": []
+    },
+    {
+      "id": "h2h48b",
+      "title": "AI Compute Extensions (ACE) Specification",
+      "description": "Score: 31 | Comments: 15 | Posted by matt_d",
+      "url": "https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/",
+      "publishedAt": "2026-06-18T02:32:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "matt_d",
+      "tags": []
+    },
+    {
+      "id": "8wmyv2",
+      "title": "Midjourney Medical",
+      "description": "Score: 574 | Comments: 413 | Posted by ricochet11",
+      "url": "https://www.midjourney.com/medical/blogpost",
+      "publishedAt": "2026-06-18T01:59:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ricochet11",
+      "tags": []
+    }
+  ]
+}

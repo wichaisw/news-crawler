@@ -1,0 +1,18 @@
+{
+  "date": "2026-06-18",
+  "source": "theverge",
+  "articles": [
+    {
+      "id": "93n6oq",
+      "title": "Midjourney goes from generating cat images to full-body ultrasound scans",
+      "description": "Midjourney CEO David Holz just showed off the company's first hardware product and plans to build a San Francisco spa, which he admitted is a bit different from the \"cat pictures\" produced by its AI image generator. Dubbed The Midjourney Scanner, it's an ultrasound-based full-body scanner that uses a ring of sensors to capture vertical [&#8230;]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ultrasound_phantom_segmentation-b254a71d083eb5c9.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-06-18T03:12:31.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Richard Lawler",
+      "tags": []
+    }
+  ]
+}

@@ -190,6 +190,17 @@
       "tags": []
     },
     {
+      "id": "yv5wcq",
+      "title": "How we run Firecracker VMs inside EC2 and start browsers in less than 1s",
+      "description": "Score: 263 | Comments: 172 | Posted by gregpr07",
+      "url": "https://browser-use.com/posts/firecracker-browser-infra",
+      "publishedAt": "2026-06-16T15:15:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gregpr07",
+      "tags": []
+    },
+    {
       "id": "xy4shx",
       "title": "SubQ 1.1 Small",
       "description": "Score: 120 | Comments: 50 | Posted by EDM115",
@@ -242,6 +253,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ilreb",
+      "tags": []
+    },
+    {
+      "id": "6fr6n5",
+      "title": "Show HN: Spin Lab",
+      "description": "Score: 32 | Comments: 15 | Posted by srijanshukla18",
+      "url": "https://srijanshukla.com/artifacts/spin-lab/",
+      "publishedAt": "2026-06-16T12:16:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "srijanshukla18",
       "tags": []
     },
     {
@@ -319,6 +341,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "tosh",
+      "tags": []
+    },
+    {
+      "id": "eh0k0b",
+      "title": "The Return of Rigorous Full-System Timing Simulation",
+      "description": "Score: 41 | Comments: 0 | Posted by matt_d",
+      "url": "https://www.sigarch.org/the-return-of-rigorous-full-system-timing-simulation/",
+      "publishedAt": "2026-06-16T05:49:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "matt_d",
       "tags": []
     },
     {
