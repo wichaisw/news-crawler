@@ -1,0 +1,138 @@
+{
+  "date": "2026-06-19",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "l38oqf",
+      "title": "So You Want to Define a Well-Known URImnot.net",
+      "description": "Score: 31 | Comments: 11 | Posted by ingve",
+      "url": "https://mnot.net/blog/2026/well_known_uris",
+      "publishedAt": "2026-06-19T07:00:58.343Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingve",
+      "tags": []
+    },
+    {
+      "id": "1bv5h9",
+      "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+      "description": "Score: 25 | Comments: 5 | Posted by philonoist",
+      "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
+      "publishedAt": "2026-06-19T06:35:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "philonoist",
+      "tags": []
+    },
+    {
+      "id": "l38oqf",
+      "title": "So You Want to Define a Well-Known URI",
+      "description": "Score: 31 | Comments: 11 | Posted by ingve",
+      "url": "https://mnot.net/blog/2026/well_known_uris",
+      "publishedAt": "2026-06-19T06:05:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingve",
+      "tags": []
+    },
+    {
+      "id": "dejmvb",
+      "title": "The ISA Doesn't Matter Where It Counts",
+      "description": "Score: 6 | Comments: 3 | Posted by ksec",
+      "url": "https://www.chipstrat.com/p/the-isa-doesnt-matter-where-it-counts",
+      "publishedAt": "2026-06-19T06:02:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ksec",
+      "tags": []
+    },
+    {
+      "id": "jrqvcp",
+      "title": "Apple A12 and A13 Chips: New Unpatchable Exploit",
+      "description": "Score: 12 | Comments: 0 | Posted by tosh",
+      "url": "https://www.macrumors.com/2026/06/18/a12-and-a13-chips-facing-exploit/",
+      "publishedAt": "2026-06-19T05:58:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tosh",
+      "tags": []
+    },
+    {
+      "id": "bxq7f0",
+      "title": "Generative AI Is Having Its Herbalife Moment",
+      "description": "Score: 27 | Comments: 22 | Posted by watermelon0",
+      "url": "https://www.whatwelo.st/p/generative-ai-is-having-its-herbalife",
+      "publishedAt": "2026-06-19T05:37:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "watermelon0",
+      "tags": []
+    },
+    {
+      "id": "3pban7",
+      "title": "DARPA Heavy Life Challenge",
+      "description": "Score: 17 | Comments: 12 | Posted by mhb",
+      "url": "https://www.darpa.mil/research/challenges/lift",
+      "publishedAt": "2026-06-19T05:01:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mhb",
+      "tags": []
+    },
+    {
+      "id": "7b9i43",
+      "title": "Fable Converted Pylint to Rust",
+      "description": "Score: 6 | Comments: 1 | Posted by adamraudonis",
+      "url": "https://pypi.org/project/prylint/",
+      "publishedAt": "2026-06-19T04:21:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "adamraudonis",
+      "tags": []
+    },
+    {
+      "id": "lzaf7c",
+      "title": "Many Let's Encrypt renewals had errors today",
+      "description": "Score: 133 | Comments: 80 | Posted by widdakay",
+      "url": "https://letsencrypt.status.io/#2026",
+      "publishedAt": "2026-06-19T04:18:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "widdakay",
+      "tags": []
+    },
+    {
+      "id": "8371hg",
+      "title": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)greybeam.ai",
+      "description": "Score: 122 | Comments: 47 | Posted by marklit",
+      "url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
+      "publishedAt": "2026-06-19T04:00:58.343Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "marklit",
+      "tags": []
+    },
+    {
+      "id": "hwbaad",
+      "title": "Ice water drowning survival of young patient (2025)",
+      "description": "Score: 123 | Comments: 81 | Posted by js2",
+      "url": "https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885",
+      "publishedAt": "2026-06-19T03:50:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "js2",
+      "tags": []
+    },
+    {
+      "id": "ck6zyk",
+      "title": "Datasette Apps: Host custom HTML applications inside Datasette",
+      "description": "Score: 70 | Comments: 24 | Posted by lumpa",
+      "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/",
+      "publishedAt": "2026-06-19T01:06:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lumpa",
+      "tags": []
+    }
+  ]
+}

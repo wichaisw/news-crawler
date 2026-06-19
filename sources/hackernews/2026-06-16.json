@@ -289,6 +289,17 @@
       "tags": []
     },
     {
+      "id": "8371hg",
+      "title": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
+      "description": "Score: 122 | Comments: 47 | Posted by marklit",
+      "url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
+      "publishedAt": "2026-06-16T11:07:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "marklit",
+      "tags": []
+    },
+    {
       "id": "fgmsw5",
       "title": "SpaceX to buy Cursor for $60B",
       "description": "Score: 1001 | Comments: 1502 | Posted by itsmarcelg",
@@ -462,6 +473,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "andsoitis",
+      "tags": []
+    },
+    {
+      "id": "13o5ub",
+      "title": "Zen and the Art of Machine Learning Research",
+      "description": "Score: 34 | Comments: 10 | Posted by jxmorris12",
+      "url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
+      "publishedAt": "2026-06-16T00:45:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jxmorris12",
       "tags": []
     },
     {
