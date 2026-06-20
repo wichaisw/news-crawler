@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "4u9ugo",
+      "title": "The AirPods Effect",
+      "description": "Score: 408 | Comments: 712 | Posted by herbertl",
+      "url": "https://www.theescapenewsletter.com/p/the-airpods-effect",
+      "publishedAt": "2026-06-18T23:08:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "herbertl",
+      "tags": []
+    },
+    {
       "id": "bknhen",
       "title": "Zero-Touch OAuth for MCP",
       "description": "Score: 183 | Comments: 65 | Posted by niyikiza",
@@ -286,6 +297,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ingve",
+      "tags": []
+    },
+    {
+      "id": "28xzwu",
+      "title": "Can you see three trees?",
+      "description": "Score: 58 | Comments: 10 | Posted by Pamar",
+      "url": "https://www.not-ship.com/can-you-see-three-trees/",
+      "publishedAt": "2026-06-18T08:16:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Pamar",
+      "tags": []
+    },
+    {
+      "id": "20ni8m",
+      "title": "A Perceptron in Age of Empires II",
+      "description": "Score: 64 | Comments: 29 | Posted by EvgeniyZh",
+      "url": "https://adewynter.github.io/notes/aoe2-circuits",
+      "publishedAt": "2026-06-18T07:50:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "EvgeniyZh",
       "tags": []
     },
     {

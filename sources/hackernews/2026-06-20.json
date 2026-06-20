@@ -1,0 +1,116 @@
+{
+  "date": "2026-06-20",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "k9j68b",
+      "title": "I Stored a Website in a Favicontimwehrle.de",
+      "description": "Score: 62 | Comments: 22 | Posted by theanonymousone",
+      "url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
+      "publishedAt": "2026-06-20T06:27:35.992Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "theanonymousone",
+      "tags": []
+    },
+    {
+      "id": "k9j68b",
+      "title": "I Stored a Website in a Favicon",
+      "description": "Score: 62 | Comments: 22 | Posted by theanonymousone",
+      "url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
+      "publishedAt": "2026-06-20T05:33:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "theanonymousone",
+      "tags": []
+    },
+    {
+      "id": "t0at7f",
+      "title": "Designing a backyard deck for my house",
+      "description": "Score: 4 | Comments: 0 | Posted by spycraft",
+      "url": "https://blog.cosmin.cloud/posts/diy-deck.html",
+      "publishedAt": "2026-06-20T04:45:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "spycraft",
+      "tags": []
+    },
+    {
+      "id": "kahp16",
+      "title": "Satellite reveals immense scale of GPS signal tampering",
+      "description": "Score: 49 | Comments: 9 | Posted by y1n0",
+      "url": "https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering",
+      "publishedAt": "2026-06-20T04:07:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "y1n0",
+      "tags": []
+    },
+    {
+      "id": "i93avl",
+      "title": "How to lose a war in three easy steps",
+      "description": "Score: 15 | Comments: 1 | Posted by Alien1Being",
+      "url": "https://www.ft.com/content/0ba6b511-649e-4a29-bb99-f824584ec93d",
+      "publishedAt": "2026-06-20T03:48:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Alien1Being",
+      "tags": []
+    },
+    {
+      "id": "pswsw7",
+      "title": "Where to Find the Colors Your Screen Can't Show You",
+      "description": "Score: 21 | Comments: 4 | Posted by moultano",
+      "url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
+      "publishedAt": "2026-06-20T03:36:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "moultano",
+      "tags": []
+    },
+    {
+      "id": "pxd5pw",
+      "title": "LLMs Are Complicated Now",
+      "description": "Score: 3 | Comments: 0 | Posted by matt_d",
+      "url": "https://ianbarber.blog/2026/06/19/llms-are-complicated-now/",
+      "publishedAt": "2026-06-20T01:25:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "matt_d",
+      "tags": []
+    },
+    {
+      "id": "3ylzyf",
+      "title": "How to feed a dictator",
+      "description": "Score: 130 | Comments: 45 | Posted by Michelangelo11",
+      "url": "https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film",
+      "publishedAt": "2026-06-20T01:16:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Michelangelo11",
+      "tags": []
+    },
+    {
+      "id": "uuj9pv",
+      "title": "Hey, n00b, we didn't hire you to complete tasks",
+      "description": "Score: 157 | Comments: 79 | Posted by rrvsh",
+      "url": "https://newsletter.kentbeck.com/p/hey-n00b-we-didnt-hire-you-to-complete",
+      "publishedAt": "2026-06-20T00:11:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rrvsh",
+      "tags": []
+    },
+    {
+      "id": "9r9875",
+      "title": "Cirrus: ATProto Personal Data Server That Runs on Cloudflare Workers",
+      "description": "Score: 14 | Comments: 1 | Posted by gurjeet",
+      "url": "https://github.com/ascorbic/cirrus",
+      "publishedAt": "2026-06-20T00:04:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gurjeet",
+      "tags": []
+    }
+  ]
+}

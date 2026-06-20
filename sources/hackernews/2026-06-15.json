@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "327aoy",
+      "title": "Egyptian Fractions (2006)",
+      "description": "Score: 87 | Comments: 7 | Posted by luu",
+      "url": "https://blog.plover.com/math/egyptian-fractions.html",
+      "publishedAt": "2026-06-15T23:37:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "luu",
+      "tags": []
+    },
+    {
       "id": "asjjj",
       "title": "Banned Book Library in a Wi-Fi Smart Light Bulb",
       "description": "Score: 345 | Comments: 175 | Posted by sohkamyung",
@@ -44,6 +55,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "l0new0lf-G",
+      "tags": []
+    },
+    {
+      "id": "eu9d2y",
+      "title": "Ten years of ClickHouse in open source",
+      "description": "Score: 298 | Comments: 80 | Posted by saisrirampur",
+      "url": "https://clickhouse.com/blog/open-source-10",
+      "publishedAt": "2026-06-15T20:51:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "saisrirampur",
       "tags": []
     },
     {

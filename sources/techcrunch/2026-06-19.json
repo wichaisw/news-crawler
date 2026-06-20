@@ -3,6 +3,83 @@
   "source": "techcrunch",
   "articles": [
     {
+      "id": "https://techcrunch.com/?p=3134219",
+      "title": "From PGP to Mythos: a brief history of export controls that didn’t stop anyone",
+      "description": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with",
+      "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+      "publishedAt": "2026-06-19T22:40:14.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lorenzo Franceschi-Bicchierai",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3133212",
+      "title": "Go eyes robotaxis and acquisitions after Japan’s biggest IPO of 2026. Here’s why it matters",
+      "description": "Go's IPO — Japan's biggest so far this year — has done more than provide a much-needed boost to the country's languishing listing season. It has also",
+      "url": "https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/",
+      "publishedAt": "2026-06-19T21:45:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Kate Park",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3134402",
+      "title": "Aura’s impressive e-ink photo frame doesn’t even look digital",
+      "description": "What's the most cliche possible gift you can give a relative? A digital photo frame, displaying a rotating slideshow of family photos. Now Aura has",
+      "url": "https://techcrunch.com/2026/06/19/auras-impressive-e-ink-photo-frame-doesnt-even-look-digital/",
+      "publishedAt": "2026-06-19T21:00:34.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Amanda Silberling",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=2878248",
+      "title": "Every fusion startup that has raised over $100M",
+      "description": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.",
+      "url": "https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/",
+      "publishedAt": "2026-06-19T16:50:58.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Tim De Chant",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?post_type=tc_video&p=3134608",
+      "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
+      "description": "Just as last week&#160;was ending,&#160;the US government&#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national",
+      "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+      "publishedAt": "2026-06-19T16:08:17.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Theresa Loconsolo",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3134600",
+      "title": "Billionaire Ambani wants AI in every call, app, and home",
+      "description": "Reliance is weaving AI into telecom services used by more than 500 million people.",
+      "url": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
+      "publishedAt": "2026-06-19T15:23:28.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Jagmeet Singh",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3134214",
+      "title": "The CEO of Allbirds’ new AI biz has a plan, but no team",
+      "description": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
+      "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
+      "publishedAt": "2026-06-19T13:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Tim Fernholz",
+      "tags": []
+    },
+    {
       "id": "https://techcrunch.com/?p=3134577",
       "title": "The US says ASML’s top chip tool may be in China. ASML says it isn’t",
       "description": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.",
