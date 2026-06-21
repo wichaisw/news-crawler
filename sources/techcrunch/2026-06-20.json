@@ -3,6 +3,61 @@
   "source": "techcrunch",
   "articles": [
     {
+      "id": "https://techcrunch.com/?p=3134719",
+      "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+      "description": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
+      "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+      "publishedAt": "2026-06-20T20:32:29.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3134695",
+      "title": "In the Weights is your new AI-centric vanity search",
+      "description": "So ... what's your In the Weights score?",
+      "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+      "publishedAt": "2026-06-20T19:41:11.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3134422",
+      "title": "Founders Fund’s outlier bet on humanely killed fish",
+      "description": "Shinkei makes a refrigerator-sized robot called Poseidon to kill fish quickly and humanely.",
+      "url": "https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/",
+      "publishedAt": "2026-06-20T18:26:02.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Connie Loizos",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3134677",
+      "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+      "description": "Jumper isn't the only big name leaving Google DeepMind.",
+      "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+      "publishedAt": "2026-06-20T16:39:57.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3131372",
+      "title": "Every new iOS 27 feature that’s worth knowing about",
+      "description": "While it's not flashy like Apple’s new Siri AI and Apple Intelligence upgrades, there are still a number of additions to iOS 27 worth looking at.",
+      "url": "https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/",
+      "publishedAt": "2026-06-20T15:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lauren Forristal",
+      "tags": []
+    },
+    {
       "id": "https://techcrunch.com/?p=3134573",
       "title": "He made your free video player run smoothly. Now he’s doing that for robots.",
       "description": "French serial entrepreneur and open-source legend Jean-Baptiste Kempf has been building Kyber, an infrastructure layer to control remote devices in",

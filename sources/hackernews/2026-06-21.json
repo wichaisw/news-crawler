@@ -1,0 +1,138 @@
+{
+  "date": "2026-06-21",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "fz9lqi",
+      "title": "The 100k Whys of AI",
+      "description": "Score: 69 | Comments: 27 | Posted by surprisetalk",
+      "url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
+      "publishedAt": "2026-06-21T05:45:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
+      "id": "96fob2",
+      "title": "SUV buyers undeterred by warnings of risk to pedestrians",
+      "description": "Score: 7 | Comments: 5 | Posted by lambdaone",
+      "url": "https://www.theguardian.com/world/2026/jun/20/suv-risks-warnings-road-safety-buyers-uk-study",
+      "publishedAt": "2026-06-21T05:41:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lambdaone",
+      "tags": []
+    },
+    {
+      "id": "eze3g",
+      "title": "The Lost Story of Alan Turing's \"Delilah\" Project",
+      "description": "Score: 10 | Comments: 1 | Posted by asdefghyk",
+      "url": "https://spectrum.ieee.org/alan-turings-delilah",
+      "publishedAt": "2026-06-21T05:15:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "asdefghyk",
+      "tags": []
+    },
+    {
+      "id": "irz76n",
+      "title": "Public Service Announcement: Don't Say You Use AI for Writing",
+      "description": "Score: 12 | Comments: 1 | Posted by satisfice",
+      "url": "https://www.satisfice.com/blog/archives/488148",
+      "publishedAt": "2026-06-21T04:50:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "satisfice",
+      "tags": []
+    },
+    {
+      "id": "iwmcu9",
+      "title": "Polymarket Paid Dozens to Post Videos of Themselves 'Winning' with Fake Bets",
+      "description": "Score: 17 | Comments: 4 | Posted by ilreb",
+      "url": "https://m.slashdot.org/story/455718",
+      "publishedAt": "2026-06-21T04:45:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ilreb",
+      "tags": []
+    },
+    {
+      "id": "ruwzxm",
+      "title": "Building reliable agentic AI systems",
+      "description": "Score: 71 | Comments: 13 | Posted by sarangk90",
+      "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+      "publishedAt": "2026-06-21T04:28:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sarangk90",
+      "tags": []
+    },
+    {
+      "id": "n326xp",
+      "title": "Your brain was never designed for this much bad news",
+      "description": "Score: 134 | Comments: 87 | Posted by colinprince",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260614012006.htm",
+      "publishedAt": "2026-06-21T04:02:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "colinprince",
+      "tags": []
+    },
+    {
+      "id": "2zc5es",
+      "title": "Armstrong Effect",
+      "description": "Score: 23 | Comments: 1 | Posted by userbinator",
+      "url": "https://en.wikipedia.org/wiki/Armstrong_effect",
+      "publishedAt": "2026-06-21T03:54:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "userbinator",
+      "tags": []
+    },
+    {
+      "id": "euk1dn",
+      "title": "Developers don't understand CORS (2019)",
+      "description": "Score: 144 | Comments: 57 | Posted by toilet",
+      "url": "https://fosterelli.co/developers-dont-understand-cors",
+      "publishedAt": "2026-06-21T01:35:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "toilet",
+      "tags": []
+    },
+    {
+      "id": "ufxmna",
+      "title": "When I reject AI code even if it works",
+      "description": "Score: 157 | Comments: 85 | Posted by vnbrs",
+      "url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
+      "publishedAt": "2026-06-21T00:58:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vnbrs",
+      "tags": []
+    },
+    {
+      "id": "iqu4ob",
+      "title": "Project Fetch: Phase Two",
+      "description": "Score: 55 | Comments: 20 | Posted by stopachka",
+      "url": "https://www.anthropic.com/research/project-fetch-phase-two",
+      "publishedAt": "2026-06-21T00:00:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "stopachka",
+      "tags": []
+    },
+    {
+      "id": "lnw8hz",
+      "title": "Pondering routing more of my traffic via nodes outside the UK",
+      "description": "Score: 11 | Comments: 1 | Posted by ColinWright",
+      "url": "https://neilzone.co.uk/2026/06/pondering-routing-more-of-my-traffic-via-nodes-outside-the-uk-because-of-the-direction-of-uk-online-safety-policy/",
+      "publishedAt": "2026-06-21T00:00:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ColinWright",
+      "tags": []
+    }
+  ]
+}

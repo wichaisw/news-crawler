@@ -3,6 +3,54 @@
   "source": "theverge",
   "articles": [
     {
+      "id": "ld7c1e",
+      "title": "The Atlantic created a searchable database of the music used to train AI",
+      "description": "Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 million and 9 million tracks. The other two are much smaller, but still represent a significant amount of training data at over [&#8230;]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK467_AI_MUSIC_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-06-20T18:46:48.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Terrence O’Brien",
+      "tags": []
+    },
+    {
+      "id": "1n4puq",
+      "title": "Musician and YouTuber Hainbach on ‘Breath of the Wild’ and Swiss Army Knives",
+      "description": "Stefan Paul Goetsch, better known as Hainbach, is a German experimental composer, artist, and YouTuber who is perhaps most famous for making music with laboratory equipment and scientific instruments. He describes it as being like the \"Dark Souls of synthesis.\" Despite using \"hard mode\" production techniques that often rely on telephone line testing equipment and [&#8230;]",
+      "url": "https://www.theverge.com/report/953116/experimental-musician-youtuber-hainbach-interview",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Portrait-Aleksander-Stojanov-3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-06-20T15:20:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Terrence O’Brien",
+      "tags": []
+    },
+    {
+      "id": "gvr4u9",
+      "title": "Moves of the Diamond Hand is an unfinished, irresistibly weird dice-based RPG",
+      "description": "From its opening minutes, Moves of the Diamond Hand is upfront about what it offers: You're going to have a lot of strange conversations, and you're going to roll a lot of dice. Get on board with this proposition, and the reward is one of the most creative roleplaying games I've seen in years, even [&#8230;]",
+      "url": "https://www.theverge.com/games/949875/moves-of-the-diamond-hand-rpg-dice-jazz-noir",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ss_29ae5f53fd3adf1b47aea2b3810690a889b06db1.1920x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-06-20T14:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Adi Robertson",
+      "tags": []
+    },
+    {
+      "id": "hytomd",
+      "title": "Toy Story has the right take on tech",
+      "description": "Hi, friends! Welcome to Installer No. 133, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy belated Juneteenth, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Sam Bankman-Fried and PE Guy and admin nights (which we [&#8230;]",
+      "url": "https://www.theverge.com/tech/952547/toy-story-5-tech-android-17-snap-specs-installer",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Installer-133.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-06-20T12:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "David Pierce",
+      "tags": []
+    },
+    {
       "id": "2dyaqa",
       "title": "SwitchBot’s Standing Circulator Fan is worth fighting for",
       "description": "I can't remember the last time I got excited about a fan. Normally, I just buy whatever Vornado or Dreo model fits my budget, but that was before I started testing the battery-powered Standing Circulator Fan from SwitchBot. As the name indicates, the SwitchBot fan is a 3D circulator - a fancy way of saying [&#8230;]",
