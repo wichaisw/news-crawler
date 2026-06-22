@@ -201,6 +201,17 @@
       "tags": []
     },
     {
+      "id": "yz6nvq",
+      "title": "Munich 1991: The Roots of the Current AI Boom",
+      "description": "Score: 23 | Comments: 4 | Posted by tosh",
+      "url": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
+      "publishedAt": "2026-06-19T15:54:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tosh",
+      "tags": []
+    },
+    {
       "id": "lf7wm7",
       "title": "There are no instances in ATProto",
       "description": "Score: 416 | Comments: 216 | Posted by danabramov",
@@ -341,6 +352,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "js2",
+      "tags": []
+    },
+    {
+      "id": "t38xot",
+      "title": "An Embedded Linux on a Single Floppy",
+      "description": "Score: 77 | Comments: 46 | Posted by modinfo",
+      "url": "https://github.com/w84death/floppinux",
+      "publishedAt": "2026-06-19T02:10:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "modinfo",
       "tags": []
     },
     {

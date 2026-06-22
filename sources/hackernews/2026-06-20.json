@@ -69,6 +69,17 @@
       "tags": []
     },
     {
+      "id": "nudsbx",
+      "title": "Show HN: MiniPCs.zip – Charting the Pareto frontier of Mini PCs",
+      "description": "Score: 26 | Comments: 13 | Posted by yathern",
+      "url": "https://minipcs.zip",
+      "publishedAt": "2026-06-20T19:55:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "yathern",
+      "tags": []
+    },
+    {
       "id": "fvwbdo",
       "title": "Show HN: My Windows XP portfolio with working Game Boy and iPod",
       "description": "Score: 60 | Comments: 30 | Posted by mitchivin",
@@ -223,6 +234,17 @@
       "tags": []
     },
     {
+      "id": "f1e2vf",
+      "title": "Show HN: Criterion Closet as a website – pull any of 1,247 films off the shelf",
+      "description": "Score: 96 | Comments: 24 | Posted by olievans",
+      "url": "https://the-criterion-closet.vercel.app",
+      "publishedAt": "2026-06-20T13:18:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "olievans",
+      "tags": []
+    },
+    {
       "id": "vlsx0y",
       "title": "Loupe – A iOS app that raises awareness about what native apps can see",
       "description": "Score: 230 | Comments: 64 | Posted by Cider9986",
@@ -300,6 +322,17 @@
       "tags": []
     },
     {
+      "id": "kena55",
+      "title": "Lisp in the Rust Type System",
+      "description": "Score: 47 | Comments: 0 | Posted by quasigloam",
+      "url": "https://github.com/playX18/lisp-in-types/",
+      "publishedAt": "2026-06-20T05:43:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "quasigloam",
+      "tags": []
+    },
+    {
       "id": "k9j68b",
       "title": "I Stored a Website in a Favicon",
       "description": "Score: 62 | Comments: 22 | Posted by theanonymousone",
@@ -355,6 +388,28 @@
       "tags": []
     },
     {
+      "id": "sw6dt3",
+      "title": "Memory Safe Inline Assembly",
+      "description": "Score: 93 | Comments: 18 | Posted by pizlonator",
+      "url": "https://fil-c.org/inlineasm",
+      "publishedAt": "2026-06-20T03:29:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pizlonator",
+      "tags": []
+    },
+    {
+      "id": "vh8b9y",
+      "title": "Help I accidentally a wigglegram",
+      "description": "Score: 183 | Comments: 31 | Posted by gregsadetsky",
+      "url": "https://lmao.center/blog/wiggle-accidents/",
+      "publishedAt": "2026-06-20T01:55:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gregsadetsky",
+      "tags": []
+    },
+    {
       "id": "pxd5pw",
       "title": "LLMs Are Complicated Now",
       "description": "Score: 3 | Comments: 0 | Posted by matt_d",
@@ -385,6 +440,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "Michelangelo11",
+      "tags": []
+    },
+    {
+      "id": "etnn6n",
+      "title": "Efficient C++ Programming for Modern C++ CPUs, Chapter 4/part 2",
+      "description": "Score: 43 | Comments: 5 | Posted by birdculture",
+      "url": "https://6it.dev/blog/infographics-operation-costs-in-cpu-clock-cycles-take-2-80736",
+      "publishedAt": "2026-06-20T00:42:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "birdculture",
       "tags": []
     },
     {

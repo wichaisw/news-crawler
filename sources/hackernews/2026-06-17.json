@@ -157,6 +157,17 @@
       "tags": []
     },
     {
+      "id": "zfqvg9",
+      "title": "Occupancy Math on the AMD MI355X: A From-First-Principles Guide",
+      "description": "Score: 47 | Comments: 5 | Posted by skidrow",
+      "url": "https://indianspeedster.github.io/blog/occupancy-math-mi355x/",
+      "publishedAt": "2026-06-17T14:35:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "skidrow",
+      "tags": []
+    },
+    {
       "id": "trbaac",
       "title": "Lore – Open source version control system designed for scalability",
       "description": "Score: 1103 | Comments: 594 | Posted by regnerba",
@@ -256,6 +267,17 @@
       "tags": []
     },
     {
+      "id": "6f9bv6",
+      "title": "Architecting a Conversion Engine in Swift",
+      "description": "Score: 25 | Comments: 5 | Posted by arthurofbabylon",
+      "url": "https://blog.minimal.app/conversion-engine/",
+      "publishedAt": "2026-06-17T10:48:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "arthurofbabylon",
+      "tags": []
+    },
+    {
       "id": "roedm5",
       "title": "U.S. science is in chaos",
       "description": "Score: 802 | Comments: 957 | Posted by presspot",
@@ -275,6 +297,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "himata4113",
+      "tags": []
+    },
+    {
+      "id": "mlpeuc",
+      "title": "Minecraft: Java Edition 26.2, the first version with Vulkan 1.2",
+      "description": "Score: 131 | Comments: 40 | Posted by ObviouslyFlamer",
+      "url": "https://www.minecraft.net/en-us/article/minecraft-java-edition-26-2",
+      "publishedAt": "2026-06-17T07:33:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ObviouslyFlamer",
       "tags": []
     },
     {

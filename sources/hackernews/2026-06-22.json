@@ -1,0 +1,116 @@
+{
+  "date": "2026-06-22",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "dophyz",
+      "title": "GLM 5.2 vs. Opustechstackups.com",
+      "description": "Score: 59 | Comments: 25 | Posted by ritzaco",
+      "url": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
+      "publishedAt": "2026-06-22T07:23:47.016Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ritzaco",
+      "tags": []
+    },
+    {
+      "id": "dophyz",
+      "title": "GLM 5.2 vs. Opus",
+      "description": "Score: 61 | Comments: 25 | Posted by ritzaco",
+      "url": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
+      "publishedAt": "2026-06-22T07:22:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ritzaco",
+      "tags": []
+    },
+    {
+      "id": "9g7zk0",
+      "title": "Deno Desktopdeno.com",
+      "description": "Score: 234 | Comments: 75 | Posted by GeneralMaximus",
+      "url": "https://docs.deno.com/runtime/desktop/",
+      "publishedAt": "2026-06-22T06:14:47.013Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "GeneralMaximus",
+      "tags": []
+    },
+    {
+      "id": "9g7zk0",
+      "title": "Deno Desktop",
+      "description": "Score: 235 | Comments: 76 | Posted by GeneralMaximus",
+      "url": "https://docs.deno.com/runtime/desktop/",
+      "publishedAt": "2026-06-22T05:38:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "GeneralMaximus",
+      "tags": []
+    },
+    {
+      "id": "756ewz",
+      "title": "Danish privacy activist Lars Andersen raided by police",
+      "description": "Score: 206 | Comments: 141 | Posted by I_am_tiberius",
+      "url": "https://twitter.com/LarsAnders1620/status/2068208864747540516#m",
+      "publishedAt": "2026-06-22T04:50:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "I_am_tiberius",
+      "tags": []
+    },
+    {
+      "id": "4f7hz",
+      "title": "Show HN: Crespo – Tree-sitter AST blueprints instead of raw code for LLMs",
+      "description": "Score: 4 | Comments: 0 | Posted by ByteJoseph",
+      "url": "https://github.com/hrudulmmn/crespo",
+      "publishedAt": "2026-06-22T03:28:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ByteJoseph",
+      "tags": []
+    },
+    {
+      "id": "trh777",
+      "title": "Sakana Fugu",
+      "description": "Score: 109 | Comments: 63 | Posted by Finbarr",
+      "url": "https://sakana.ai/fugu/",
+      "publishedAt": "2026-06-22T02:08:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Finbarr",
+      "tags": []
+    },
+    {
+      "id": "tpcccm",
+      "title": "You're probably using Agent Skills wrong",
+      "description": "Score: 27 | Comments: 11 | Posted by MisterBiggs",
+      "url": "https://notes.ansonbiggs.com/youre-probably-using-agent-skills-wrong/",
+      "publishedAt": "2026-06-22T01:02:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "MisterBiggs",
+      "tags": []
+    },
+    {
+      "id": "rlfxt2",
+      "title": "The Doom Justifies the Valuation",
+      "description": "Score: 118 | Comments: 115 | Posted by inatreecrown2",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/06/21/the-doom-justifies-the-valuation.html",
+      "publishedAt": "2026-06-22T00:45:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "inatreecrown2",
+      "tags": []
+    },
+    {
+      "id": "l87ld7",
+      "title": "1983 Northern Telecom Commodore Phone",
+      "description": "Score: 47 | Comments: 13 | Posted by arexxbifs",
+      "url": "https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/",
+      "publishedAt": "2026-06-22T00:34:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "arexxbifs",
+      "tags": []
+    }
+  ]
+}
