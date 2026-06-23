@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "qp59vt",
+      "title": "PivCo-Huffman “merge” operations",
+      "description": "Score: 40 | Comments: 2 | Posted by luu",
+      "url": "https://fgiesen.wordpress.com/2026/06/21/pivco-huffman-merge-operations/",
+      "publishedAt": "2026-06-21T23:25:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "luu",
+      "tags": []
+    },
+    {
       "id": "g3luvy",
       "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
       "description": "Score: 117 | Comments: 26 | Posted by dev-experiments",
@@ -132,6 +143,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "amarble",
+      "tags": []
+    },
+    {
+      "id": "681z7a",
+      "title": "Nintendo Wii U games running from a 1980's Bernoulli disk [video]",
+      "description": "Score: 95 | Comments: 40 | Posted by zdw",
+      "url": "https://www.youtube.com/watch?v=8GZDOpV2OXk",
+      "publishedAt": "2026-06-21T20:19:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
       "tags": []
     },
     {
@@ -267,6 +289,17 @@
       "tags": []
     },
     {
+      "id": "ymkd47",
+      "title": "Improvements to Std:Format in C++26",
+      "description": "Score: 3 | Comments: 0 | Posted by jandeboevrie",
+      "url": "https://mariusbancila.ro/blog/2026/06/19/improvements-to-stdformat-in-c26/",
+      "publishedAt": "2026-06-21T06:26:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jandeboevrie",
+      "tags": []
+    },
+    {
       "id": "fz9lqi",
       "title": "The 100k Whys of AI",
       "description": "Score: 69 | Comments: 27 | Posted by surprisetalk",
@@ -363,6 +396,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "toilet",
+      "tags": []
+    },
+    {
+      "id": "7b3y6u",
+      "title": "Polymarket has flooded social media with deceptive videos by paid creators",
+      "description": "Score: 203 | Comments: 158 | Posted by Vaslo",
+      "url": "https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=HhTZY2",
+      "publishedAt": "2026-06-21T01:12:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Vaslo",
       "tags": []
     },
     {
