@@ -1,0 +1,127 @@
+{
+  "date": "2026-06-24",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "cr9vw2",
+      "title": "US AI stock sell-off shakes markets from Wall Street to Asia",
+      "description": "Score: 36 | Comments: 7 | Posted by colinprince",
+      "url": "https://www.theguardian.com/business/2026/jun/23/ai-stocks-sell-off-us-markets",
+      "publishedAt": "2026-06-24T03:36:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "colinprince",
+      "tags": []
+    },
+    {
+      "id": "qfexdz",
+      "title": "Raspberry Pi Pico W as USB Wi-Fi Adapter",
+      "description": "Score: 68 | Comments: 18 | Posted by byb",
+      "url": "https://gitlab.com/baiyibai/pico-usb-wifi",
+      "publishedAt": "2026-06-24T03:17:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "byb",
+      "tags": []
+    },
+    {
+      "id": "cvopgm",
+      "title": "RRB-Trees: Efficient Immutable Vectors",
+      "description": "Score: 5 | Comments: 2 | Posted by azhenley",
+      "url": "https://infoscience.epfl.ch/server/api/core/bitstreams/e5d662ea-1e8d-4dda-b917-8cbb8bb40bf9/content",
+      "publishedAt": "2026-06-24T02:56:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "azhenley",
+      "tags": []
+    },
+    {
+      "id": "82cxsw",
+      "title": "\"Fix\" MacBook Neo Cursor Lag: Record 1 Pixel of the Screen Every 10 Seconds",
+      "description": "Score: 52 | Comments: 18 | Posted by retroplasma",
+      "url": "https://gist.github.com/retroplasma/ec21767d0a8380c7ea9c2fbee1c7d6bf",
+      "publishedAt": "2026-06-24T02:38:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "retroplasma",
+      "tags": []
+    },
+    {
+      "id": "oamysh",
+      "title": "The Teensy Executable Revisited",
+      "description": "Score: 29 | Comments: 3 | Posted by ankitg12",
+      "url": "https://www.muppetlabs.com/~breadbox/software/tiny/revisit.html",
+      "publishedAt": "2026-06-24T02:30:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ankitg12",
+      "tags": []
+    },
+    {
+      "id": "ff37bf",
+      "title": "The war on terror primed America for autocracy",
+      "description": "Score: 187 | Comments: 139 | Posted by andsoitis",
+      "url": "https://www.economist.com/by-invitation/2026/06/02/how-the-war-on-terror-primed-america-for-autocracy",
+      "publishedAt": "2026-06-24T02:23:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andsoitis",
+      "tags": []
+    },
+    {
+      "id": "waifku",
+      "title": "Qwen-AgentWorld: Language World Models for General Agents",
+      "description": "Score: 67 | Comments: 10 | Posted by ilreb",
+      "url": "https://arxiv.org/abs/2606.24597",
+      "publishedAt": "2026-06-24T02:21:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ilreb",
+      "tags": []
+    },
+    {
+      "id": "w14jzf",
+      "title": "DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers",
+      "description": "Score: 31 | Comments: 0 | Posted by ilreb",
+      "url": "https://github.com/End2End-Diffusion/diffusion-bench",
+      "publishedAt": "2026-06-24T02:12:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ilreb",
+      "tags": []
+    },
+    {
+      "id": "7l7hds",
+      "title": "Meta Pauses Employee-Tracking Program Following Internal Data Leak",
+      "description": "Score: 205 | Comments: 120 | Posted by 1vuio0pswjnm7",
+      "url": "https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/",
+      "publishedAt": "2026-06-24T00:28:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "1vuio0pswjnm7",
+      "tags": []
+    },
+    {
+      "id": "m66ukm",
+      "title": "Vulnerability reports are not special anymorefilippo.io",
+      "description": "Score: 217 | Comments: 117 | Posted by goranmoomin",
+      "url": "https://words.filippo.io/vuln-reports/",
+      "publishedAt": "2026-06-24T00:19:31.796Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "goranmoomin",
+      "tags": []
+    },
+    {
+      "id": "80uj9e",
+      "title": "Show HN: Y – A malleable coding-agent desktop app built with Electron",
+      "description": "Score: 29 | Comments: 16 | Posted by HetPatel106",
+      "url": "https://github.com/y-times-y/y",
+      "publishedAt": "2026-06-24T00:15:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "HetPatel106",
+      "tags": []
+    }
+  ]
+}

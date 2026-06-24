@@ -91,6 +91,17 @@
       "tags": []
     },
     {
+      "id": "bp7486",
+      "title": "Five monitors on a Commodore 128 [video]",
+      "description": "Score: 122 | Comments: 21 | Posted by EvanAnderson",
+      "url": "https://www.youtube.com/watch?v=ul5hC3PY1Yg",
+      "publishedAt": "2026-06-22T18:39:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "EvanAnderson",
+      "tags": []
+    },
+    {
       "id": "hjxz9f",
       "title": "Linux and Secure Boot certificate expiration (2025)",
       "description": "Score: 118 | Comments: 61 | Posted by weaksauce",
@@ -99,6 +110,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "weaksauce",
+      "tags": []
+    },
+    {
+      "id": "1k5ggk",
+      "title": "A man was gifted his dream car by Kevin Mitnick, who he helped put in prison",
+      "description": "Score: 146 | Comments: 82 | Posted by mauvehaus",
+      "url": "https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison",
+      "publishedAt": "2026-06-22T18:03:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mauvehaus",
+      "tags": []
+    },
+    {
+      "id": "3hyz0e",
+      "title": "Rhombus Language 1.0",
+      "description": "Score: 140 | Comments: 32 | Posted by Decabytes",
+      "url": "https://blog.racket-lang.org/2026/06/rhombus-v1.0.html",
+      "publishedAt": "2026-06-22T17:50:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Decabytes",
       "tags": []
     },
     {
@@ -168,6 +201,28 @@
       "tags": []
     },
     {
+      "id": "y2a481",
+      "title": "Show HN: FastUbu – An Ultrafast Video Archive",
+      "description": "Score: 30 | Comments: 1 | Posted by lukeigel",
+      "url": "https://fastubu.com/",
+      "publishedAt": "2026-06-22T15:34:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lukeigel",
+      "tags": []
+    },
+    {
+      "id": "v7n19z",
+      "title": "Inventing the Future, One Lisp Machine at a Time",
+      "description": "Score: 96 | Comments: 10 | Posted by pamoroso",
+      "url": "https://www.patrickdomanico.com/bpm/2026/06/16/inventing-the-future-one-lisp-machine-at-a-time/",
+      "publishedAt": "2026-06-22T15:24:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pamoroso",
+      "tags": []
+    },
+    {
       "id": "3xvhg8",
       "title": "The text in Claude Code’s “Extended Thinking” output",
       "description": "Score: 298 | Comments: 205 | Posted by 0o_MrPatrick_o0",
@@ -179,6 +234,17 @@
       "tags": []
     },
     {
+      "id": "u0lyus",
+      "title": "Show HN: Monolisa v3 – a typeface for developers and creatives",
+      "description": "Score: 62 | Comments: 10 | Posted by bebraw",
+      "url": "https://www.monolisa.dev/",
+      "publishedAt": "2026-06-22T14:05:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bebraw",
+      "tags": []
+    },
+    {
       "id": "8kr0e8",
       "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
       "description": "Score: 275 | Comments: 69 | Posted by DSemba",
@@ -187,6 +253,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "DSemba",
+      "tags": []
+    },
+    {
+      "id": "ss1y59",
+      "title": "QSOE: QNX-inspired OS with dual-kernel architecture",
+      "description": "Score: 39 | Comments: 16 | Posted by ymz5",
+      "url": "https://qsoe-dev.blogspot.com/2026/06/qsoe-project-v01-is-released.html",
+      "publishedAt": "2026-06-22T13:46:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ymz5",
       "tags": []
     },
     {
@@ -308,6 +385,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "Finbarr",
+      "tags": []
+    },
+    {
+      "id": "7l4mcm",
+      "title": "Remaking BBC test cards to teach you video processing",
+      "description": "Score: 19 | Comments: 0 | Posted by unleaded",
+      "url": "https://www.youtube.com/watch?v=U_6HxPkrgcg",
+      "publishedAt": "2026-06-22T01:20:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "unleaded",
       "tags": []
     },
     {
