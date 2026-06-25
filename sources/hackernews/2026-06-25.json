@@ -1,0 +1,138 @@
+{
+  "date": "2026-06-25",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "5fumih",
+      "title": "Half-Life 2 in a Browser",
+      "description": "Score: 93 | Comments: 24 | Posted by panza",
+      "url": "https://hl2.slqnt.dev/",
+      "publishedAt": "2026-06-25T06:00:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "panza",
+      "tags": []
+    },
+    {
+      "id": "p1cdj8",
+      "title": "The Unbearable Cheapness of Open Weight Models",
+      "description": "Score: 28 | Comments: 6 | Posted by ddxv",
+      "url": "https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/",
+      "publishedAt": "2026-06-25T02:51:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ddxv",
+      "tags": []
+    },
+    {
+      "id": "quuphh",
+      "title": "Medical students are using popular research tool to pump out misleading studies",
+      "description": "Score: 30 | Comments: 11 | Posted by rndsignals",
+      "url": "https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies",
+      "publishedAt": "2026-06-25T02:30:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rndsignals",
+      "tags": []
+    },
+    {
+      "id": "qby0b2",
+      "title": "Cloudflare launched self-managed OAuth for all",
+      "description": "Score: 117 | Comments: 43 | Posted by terryds",
+      "url": "https://blog.cloudflare.com/oauth-for-all/",
+      "publishedAt": "2026-06-25T02:18:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "terryds",
+      "tags": []
+    },
+    {
+      "id": "9vo0pe",
+      "title": "Zombie unicorns are haunting Silicon Valley",
+      "description": "Score: 78 | Comments: 29 | Posted by andsoitis",
+      "url": "https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley",
+      "publishedAt": "2026-06-25T02:16:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andsoitis",
+      "tags": []
+    },
+    {
+      "id": "535mfx",
+      "title": "Writers and Drugs",
+      "description": "Score: 19 | Comments: 9 | Posted by dang",
+      "url": "https://lithub.com/are-writers-intrinsically-vulnerable-to-alcohol-and-drugs/",
+      "publishedAt": "2026-06-25T01:50:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dang",
+      "tags": []
+    },
+    {
+      "id": "1fkuc9",
+      "title": "Bible as RAG Database",
+      "description": "Score: 86 | Comments: 48 | Posted by jacksonastone",
+      "url": "https://www.crosscanon.com/",
+      "publishedAt": "2026-06-25T01:42:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jacksonastone",
+      "tags": []
+    },
+    {
+      "id": "vn0sdd",
+      "title": "Exploring the internal representations of Pangram 3.3.2",
+      "description": "Score: 24 | Comments: 5 | Posted by krackers",
+      "url": "https://www.pangram.com/pangram-space",
+      "publishedAt": "2026-06-25T01:36:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "krackers",
+      "tags": []
+    },
+    {
+      "id": "cyyeiw",
+      "title": "Ending respiratory infections",
+      "description": "Score: 136 | Comments: 61 | Posted by EthanFantl",
+      "url": "https://blog.interceptfund.com/p/ending-respiratory-infections",
+      "publishedAt": "2026-06-25T01:14:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "EthanFantl",
+      "tags": []
+    },
+    {
+      "id": "br7iki",
+      "title": "Mixing Visual and Textual Code",
+      "description": "Score: 43 | Comments: 12 | Posted by doppioandante",
+      "url": "https://arxiv.org/abs/2603.15855",
+      "publishedAt": "2026-06-25T01:11:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "doppioandante",
+      "tags": []
+    },
+    {
+      "id": "pqzxjq",
+      "title": "What I'm Finding About LLM Code Style and Token Costs",
+      "description": "Score: 28 | Comments: 12 | Posted by jimmont",
+      "url": "https://www.jimmont.com/llm-style-token-costs",
+      "publishedAt": "2026-06-25T00:52:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jimmont",
+      "tags": []
+    },
+    {
+      "id": "uigizw",
+      "title": "LuaJIT 3.0 proposed syntax extensions",
+      "description": "Score: 132 | Comments: 77 | Posted by phreddypharkus",
+      "url": "https://github.com/LuaJIT/LuaJIT/issues/1475",
+      "publishedAt": "2026-06-25T00:41:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "phreddypharkus",
+      "tags": []
+    }
+  ]
+}

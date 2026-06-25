@@ -58,6 +58,17 @@
       "tags": []
     },
     {
+      "id": "ynys24",
+      "title": "Show HN: Wordit – Change One Letter, Keep the Chain Going",
+      "description": "Score: 20 | Comments: 13 | Posted by atum47",
+      "url": "https://victorribeiro.com/wordit/",
+      "publishedAt": "2026-06-23T18:57:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "atum47",
+      "tags": []
+    },
+    {
       "id": "fs3b2",
       "title": "Jerry's Map",
       "description": "Score: 436 | Comments: 51 | Posted by turtleyacht",
@@ -135,6 +146,17 @@
       "tags": []
     },
     {
+      "id": "3vvuu6",
+      "title": "Krea 2: SOTA open-weights 12B image model",
+      "description": "Score: 371 | Comments: 40 | Posted by mattnewton",
+      "url": "https://www.krea.ai/blog/krea-2-technical-report",
+      "publishedAt": "2026-06-23T15:31:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mattnewton",
+      "tags": []
+    },
+    {
       "id": "czzoge",
       "title": "AI's Affordability Crisis",
       "description": "Score: 277 | Comments: 364 | Posted by ilreb",
@@ -143,6 +165,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ilreb",
+      "tags": []
+    },
+    {
+      "id": "uw4vr8",
+      "title": "Markdy: Like Mermaid Diagrams, but for Motion",
+      "description": "Score: 31 | Comments: 2 | Posted by surprisetalk",
+      "url": "https://markdy.com",
+      "publishedAt": "2026-06-23T15:00:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
       "tags": []
     },
     {
@@ -212,6 +245,17 @@
       "tags": []
     },
     {
+      "id": "6kj7he",
+      "title": "15 sorting algorithms in 6 minutes (2013) [video]",
+      "description": "Score: 21 | Comments: 2 | Posted by akkartik",
+      "url": "https://www.youtube.com/watch?v=kPRA0W1kECg",
+      "publishedAt": "2026-06-23T05:29:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "akkartik",
+      "tags": []
+    },
+    {
       "id": "hzchl1",
       "title": "Show HN: A pure ARM64 Assembly web server, now on Linux with CGI for no reason",
       "description": "Score: 5 | Comments: 0 | Posted by imtomt",
@@ -242,6 +286,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mindingnever",
+      "tags": []
+    },
+    {
+      "id": "xrkp11",
+      "title": "GLM-5.2 is a step change for open agents",
+      "description": "Score: 203 | Comments: 111 | Posted by vantareed",
+      "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
+      "publishedAt": "2026-06-23T03:23:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vantareed",
       "tags": []
     },
     {
@@ -297,6 +352,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "AaronO",
+      "tags": []
+    },
+    {
+      "id": "owap68",
+      "title": "Matt's Script Archive: The Scripts That Reshaped the Web",
+      "description": "Score: 39 | Comments: 11 | Posted by 1317",
+      "url": "https://tedium.co/2026/06/22/matts-script-archive-retrospective/",
+      "publishedAt": "2026-06-23T01:30:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "1317",
       "tags": []
     },
     {

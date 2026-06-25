@@ -256,6 +256,17 @@
       "tags": []
     },
     {
+      "id": "ns90ue",
+      "title": "Show HN: Brain Frog – Can you be random enough for 11 lines of JavaScript?",
+      "description": "Score: 27 | Comments: 24 | Posted by AlexanderZ",
+      "url": "https://brainfrog.lol",
+      "publishedAt": "2026-06-19T12:57:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "AlexanderZ",
+      "tags": []
+    },
+    {
       "id": "bifb8c",
       "title": "My Mathematical Regression",
       "description": "Score: 272 | Comments: 103 | Posted by aleda145",
@@ -275,6 +286,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "its_ajseven",
+      "tags": []
+    },
+    {
+      "id": "p4go9w",
+      "title": "Pull request limits are cutting down the noise",
+      "description": "Score: 86 | Comments: 41 | Posted by ingve",
+      "url": "https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/",
+      "publishedAt": "2026-06-19T10:03:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingve",
+      "tags": []
+    },
+    {
+      "id": "n85qno",
+      "title": "Show HN: Write SaaS apps where users control where their data is stored",
+      "description": "Score: 38 | Comments: 19 | Posted by WolfOliver",
+      "url": "https://github.com/wolfoo2931/linkedrecords/",
+      "publishedAt": "2026-06-19T07:37:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "WolfOliver",
       "tags": []
     },
     {
