@@ -201,6 +201,17 @@
       "tags": []
     },
     {
+      "id": "lnhvbl",
+      "title": "You can't unit test for taste",
+      "description": "Score: 268 | Comments: 122 | Posted by kalli",
+      "url": "https://dev.karltryggvason.com/you-cant-unit-test-for-taste/",
+      "publishedAt": "2026-06-24T08:54:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kalli",
+      "tags": []
+    },
+    {
       "id": "yfv1tq",
       "title": "We’re making Bunny DNS free",
       "description": "Score: 877 | Comments: 259 | Posted by dabinat",
@@ -209,6 +220,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "dabinat",
+      "tags": []
+    },
+    {
+      "id": "v1tafg",
+      "title": "GloriousEggroll's Proton has been rebased on Proton 11",
+      "description": "Score: 81 | Comments: 30 | Posted by d3Xt3r",
+      "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/tag/GE-Proton11-1",
+      "publishedAt": "2026-06-24T08:04:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "d3Xt3r",
       "tags": []
     },
     {

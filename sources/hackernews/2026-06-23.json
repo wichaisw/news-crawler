@@ -25,6 +25,17 @@
       "tags": []
     },
     {
+      "id": "zh1qxr",
+      "title": "Advanced Nintendo Entertainment System (ANES) – NES Modded to Use 2 PPUs",
+      "description": "Score: 114 | Comments: 34 | Posted by zdw",
+      "url": "https://github.com/decrazyo/anes",
+      "publishedAt": "2026-06-23T23:21:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
       "id": "d85wqt",
       "title": "ATProto Permissioned Data Proposal Draft",
       "description": "Score: 36 | Comments: 4 | Posted by danabramov",
@@ -201,6 +212,17 @@
       "tags": []
     },
     {
+      "id": "iem91j",
+      "title": "Record type inference for dummies",
+      "description": "Score: 33 | Comments: 1 | Posted by g0xA52A2A",
+      "url": "http://haskellforall.com/2026/06/record-type-inference-for-dummies",
+      "publishedAt": "2026-06-23T13:04:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "g0xA52A2A",
+      "tags": []
+    },
+    {
       "id": "yh00dq",
       "title": "The Low-Tech AI of Elden Ring",
       "description": "Score: 138 | Comments: 67 | Posted by g0xA52A2A",
@@ -220,6 +242,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ingve",
+      "tags": []
+    },
+    {
+      "id": "d5ibwh",
+      "title": "I built a GPU back end for Emacs",
+      "description": "Score: 186 | Comments: 95 | Posted by andros",
+      "url": "https://en.andros.dev/blog/4b707a03/how-i-built-a-gpu-backend-for-emacs/",
+      "publishedAt": "2026-06-23T09:38:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andros",
+      "tags": []
+    },
+    {
+      "id": "q806fc",
+      "title": "A game where you're an OS and have to manage processes, memory and I/O events",
+      "description": "Score: 177 | Comments: 29 | Posted by exploraz",
+      "url": "https://github.com/plbrault/youre-the-os",
+      "publishedAt": "2026-06-23T09:35:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "exploraz",
       "tags": []
     },
     {
@@ -385,6 +429,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "burntcaramel",
+      "tags": []
+    },
+    {
+      "id": "h1uitq",
+      "title": "Eyewitness at the Triangle (1911)",
+      "description": "Score: 18 | Comments: 1 | Posted by NaOH",
+      "url": "http://trianglefire.ilr.cornell.edu/index.html",
+      "publishedAt": "2026-06-23T00:53:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "NaOH",
       "tags": []
     }
   ]

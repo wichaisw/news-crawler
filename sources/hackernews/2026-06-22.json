@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "yrx5qe",
+      "title": "The annotated PyTorch training loop",
+      "description": "Score: 67 | Comments: 14 | Posted by smaddrellmander",
+      "url": "https://idlemachines.co.uk/essays/pytorch-training-loop",
+      "publishedAt": "2026-06-22T23:44:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "smaddrellmander",
+      "tags": []
+    },
+    {
       "id": "6c7mqf",
       "title": "Why eval startups fail (2025)",
       "description": "Score: 102 | Comments: 54 | Posted by jxmorris12",
@@ -245,11 +256,44 @@
       "tags": []
     },
     {
+      "id": "nn9czr",
+      "title": "Oxide computer 3D rack guided tour",
+      "description": "Score: 354 | Comments: 137 | Posted by darthcloud",
+      "url": "https://explorer.oxide.computer/",
+      "publishedAt": "2026-06-22T15:21:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "darthcloud",
+      "tags": []
+    },
+    {
       "id": "5gcs51",
       "title": "Dostoyevsky isn't difficult",
       "description": "Score: 129 | Comments: 107 | Posted by surprisetalk",
       "url": "https://www.autodidacts.io/dostoyevsky-isnt-difficult/",
       "publishedAt": "2026-06-22T15:15:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
+      "id": "bgsm5u",
+      "title": "Tw-fade: pure CSS scroll-driven edge masking",
+      "description": "Score: 94 | Comments: 30 | Posted by petekp",
+      "url": "https://pete.design/tw-fade",
+      "publishedAt": "2026-06-22T15:12:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "petekp",
+      "tags": []
+    },
+    {
+      "id": "ro9sb0",
+      "title": "The last Romans are still around",
+      "description": "Score: 78 | Comments: 92 | Posted by surprisetalk",
+      "url": "https://signoregalilei.com/2026/06/20/the-last-romans-are-still-around/",
+      "publishedAt": "2026-06-22T15:00:04.000Z",
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "surprisetalk",
@@ -352,6 +396,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ibobev",
+      "tags": []
+    },
+    {
+      "id": "vongfa",
+      "title": "Doing a masters while working in Spain",
+      "description": "Score: 32 | Comments: 8 | Posted by MHard",
+      "url": "https://jan-herlyn.com/blog/doing-a-masters-while-working/",
+      "publishedAt": "2026-06-22T07:44:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "MHard",
       "tags": []
     },
     {

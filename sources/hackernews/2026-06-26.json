@@ -1,0 +1,83 @@
+{
+  "date": "2026-06-26",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "atfyem",
+      "title": "Micron locks in historically high memory prices for five years",
+      "description": "Score: 13 | Comments: 3 | Posted by fauigerzigerk",
+      "url": "https://www.theregister.com/systems/2026/06/25/micron-locks-in-historically-high-memory-prices-for-five-years/5261854",
+      "publishedAt": "2026-06-26T06:27:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fauigerzigerk",
+      "tags": []
+    },
+    {
+      "id": "pctviy",
+      "title": "US Govt to individually approve who gets GPT 5.6",
+      "description": "Score: 23 | Comments: 20 | Posted by theanonymousone",
+      "url": "https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56/",
+      "publishedAt": "2026-06-26T06:24:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "theanonymousone",
+      "tags": []
+    },
+    {
+      "id": "82wpr2",
+      "title": "We All Depend on Open Source. We Will Defend It Together",
+      "description": "Score: 20 | Comments: 9 | Posted by dhruv3006",
+      "url": "https://akrites.org/letter/",
+      "publishedAt": "2026-06-26T05:40:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dhruv3006",
+      "tags": []
+    },
+    {
+      "id": "5wjyd7",
+      "title": "Why are we so obsessed with lawns?",
+      "description": "Score: 13 | Comments: 15 | Posted by andsoitis",
+      "url": "https://www.gardensillustrated.com/features/the-history-of-lawns",
+      "publishedAt": "2026-06-26T03:35:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andsoitis",
+      "tags": []
+    },
+    {
+      "id": "w6oe2k",
+      "title": "Libre Barcode Project",
+      "description": "Score: 101 | Comments: 7 | Posted by luu",
+      "url": "https://graphicore.github.io/librebarcode/",
+      "publishedAt": "2026-06-26T03:12:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "luu",
+      "tags": []
+    },
+    {
+      "id": "vnybnj",
+      "title": "What happened after 2k people tried to hack my AI assistant",
+      "description": "Score: 102 | Comments: 38 | Posted by cuchoi",
+      "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
+      "publishedAt": "2026-06-26T02:29:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cuchoi",
+      "tags": []
+    },
+    {
+      "id": "e3qjtx",
+      "title": "Framework's 10G Ethernet module exposes USB-C's complexity",
+      "description": "Score: 137 | Comments: 71 | Posted by Alupis",
+      "url": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
+      "publishedAt": "2026-06-26T01:10:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Alupis",
+      "tags": []
+    }
+  ]
+}
