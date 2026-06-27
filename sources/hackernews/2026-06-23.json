@@ -58,6 +58,17 @@
       "tags": []
     },
     {
+      "id": "q6swp5",
+      "title": "LaTeX.wasm: LaTeX Engines in Browsers",
+      "description": "Score: 101 | Comments: 33 | Posted by theanonymousone",
+      "url": "https://www.swiftlatex.com/",
+      "publishedAt": "2026-06-23T20:04:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "theanonymousone",
+      "tags": []
+    },
+    {
       "id": "tmt9ix",
       "title": "Signs you're a dangerous terrorist: using Signal, moving zines",
       "description": "Score: 42 | Comments: 6 | Posted by benwerd",
@@ -146,6 +157,28 @@
       "tags": []
     },
     {
+      "id": "kgomuw",
+      "title": "My Steam Machine is a 50ft HDMI cable",
+      "description": "Score: 188 | Comments: 175 | Posted by speckx",
+      "url": "https://blog.matthewbrunelle.com/my-steam-machine-is-a-50ft-hdmi-cable/",
+      "publishedAt": "2026-06-23T17:45:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
+      "tags": []
+    },
+    {
+      "id": "klvoi2",
+      "title": "Building apps using TanStack Start",
+      "description": "Score: 5 | Comments: 0 | Posted by nadis",
+      "url": "https://lovable.dev/blog/building-apps-using-tanstack-start",
+      "publishedAt": "2026-06-23T17:06:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nadis",
+      "tags": []
+    },
+    {
       "id": "cfjg7o",
       "title": "The worthlessness of Vitamin D is mildly exaggerated",
       "description": "Score: 274 | Comments: 187 | Posted by surprisetalk",
@@ -223,6 +256,28 @@
       "tags": []
     },
     {
+      "id": "hz69gt",
+      "title": "The \"Bizarre Headgear\" exhibit at the Sam Noble museum",
+      "description": "Score: 73 | Comments: 7 | Posted by surprisetalk",
+      "url": "https://svpow.com/2026/05/15/the-bizarre-headgear-exhibit-at-the-sam-noble-museum-is-incredible/",
+      "publishedAt": "2026-06-23T12:45:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
+      "id": "7bazlm",
+      "title": "Making Sense of Proof by Contradiction [pdf]",
+      "description": "Score: 30 | Comments: 8 | Posted by surprisetalk",
+      "url": "https://www.foster77.co.uk/Foster,%20Scottish%20Mathematical%20Council%20Journal,%20Making%20sense%20of%20proof%20by%20contradiction.pdf",
+      "publishedAt": "2026-06-23T12:00:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
       "id": "yh00dq",
       "title": "The Low-Tech AI of Elden Ring",
       "description": "Score: 138 | Comments: 67 | Posted by g0xA52A2A",
@@ -234,6 +289,17 @@
       "tags": []
     },
     {
+      "id": "ghfp1i",
+      "title": "Modern GPU Programming for MLSys",
+      "description": "Score: 74 | Comments: 15 | Posted by crowwork",
+      "url": "https://mlc.ai/modern-gpu-programming-for-mlsys/",
+      "publishedAt": "2026-06-23T11:38:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "crowwork",
+      "tags": []
+    },
+    {
       "id": "ltfr61",
       "title": "The Coming Loop",
       "description": "Score: 382 | Comments: 265 | Posted by ingve",
@@ -242,6 +308,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ingve",
+      "tags": []
+    },
+    {
+      "id": "pnq06g",
+      "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
+      "description": "Score: 314 | Comments: 179 | Posted by justincormack",
+      "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
+      "publishedAt": "2026-06-23T09:39:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "justincormack",
       "tags": []
     },
     {

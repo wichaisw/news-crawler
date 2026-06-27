@@ -1,0 +1,83 @@
+{
+  "date": "2026-06-27",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "ya93dk",
+      "title": "IBM MCGA Gate Array Reverse Engineering",
+      "description": "Score: 12 | Comments: 4 | Posted by userbinator",
+      "url": "https://github.com/schlae/IBM_MCGA",
+      "publishedAt": "2026-06-27T05:17:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "userbinator",
+      "tags": []
+    },
+    {
+      "id": "lpwnyw",
+      "title": "OpenTTD 16.0-Beta1openttd.org",
+      "description": "Score: 70 | Comments: 9 | Posted by untilted",
+      "url": "https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1",
+      "publishedAt": "2026-06-27T05:12:17.053Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "untilted",
+      "tags": []
+    },
+    {
+      "id": "lpwnyw",
+      "title": "OpenTTD 16.0-Beta1",
+      "description": "Score: 70 | Comments: 9 | Posted by untilted",
+      "url": "https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1",
+      "publishedAt": "2026-06-27T04:31:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "untilted",
+      "tags": []
+    },
+    {
+      "id": "hmmcu7",
+      "title": "WordStar: A Writer's Word Processor (1996)",
+      "description": "Score: 58 | Comments: 20 | Posted by droidjj",
+      "url": "https://www.sfwriter.com/wordstar.htm",
+      "publishedAt": "2026-06-27T03:30:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "droidjj",
+      "tags": []
+    },
+    {
+      "id": "8uugot",
+      "title": "Anatomy of a Failed (Nation-State?) Attack",
+      "description": "Score: 28 | Comments: 7 | Posted by signa11",
+      "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
+      "publishedAt": "2026-06-27T02:41:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "signa11",
+      "tags": []
+    },
+    {
+      "id": "brguyp",
+      "title": "Software Is Becoming Marketing",
+      "description": "Score: 7 | Comments: 2 | Posted by tylerdane",
+      "url": "https://www.terezatizkova.com/writing/software-abundance",
+      "publishedAt": "2026-06-27T02:26:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tylerdane",
+      "tags": []
+    },
+    {
+      "id": "nl6t4c",
+      "title": "Show HN: Hacker News on a train station-style flip board",
+      "description": "Score: 55 | Comments: 10 | Posted by PaybackTony",
+      "url": "https://popflame.quickish.space/hn-flipboard/",
+      "publishedAt": "2026-06-27T00:43:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "PaybackTony",
+      "tags": []
+    }
+  ]
+}
