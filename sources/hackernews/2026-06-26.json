@@ -223,6 +223,17 @@
       "tags": []
     },
     {
+      "id": "i2v6l0",
+      "title": "One man, two kernels, and a lot of RISC-V",
+      "description": "Score: 87 | Comments: 6 | Posted by LorenDB",
+      "url": "https://www.theregister.com/software/2026/06/26/one-man-two-kernels-and-a-lot-of-risc-v/5262858",
+      "publishedAt": "2026-06-26T16:20:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "LorenDB",
+      "tags": []
+    },
+    {
       "id": "wdozzu",
       "title": "Jolla Phone (October 2026)",
       "description": "Score: 289 | Comments: 161 | Posted by mrbn100ful",
@@ -231,6 +242,39 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mrbn100ful",
+      "tags": []
+    },
+    {
+      "id": "76vwam",
+      "title": "Reflecting to optimise",
+      "description": "Score: 3 | Comments: 0 | Posted by magni121",
+      "url": "https://magnusross.github.io/posts/reflecting-to-optimise/",
+      "publishedAt": "2026-06-26T14:07:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "magni121",
+      "tags": []
+    },
+    {
+      "id": "pzf9eo",
+      "title": "Space Shuttle Endeavour's 20-story vertical display",
+      "description": "Score: 48 | Comments: 6 | Posted by uticus",
+      "url": "https://californiasciencecenter.org/about-us/samuel-oschin-air-and-space-center/go-for-stack",
+      "publishedAt": "2026-06-26T12:49:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "uticus",
+      "tags": []
+    },
+    {
+      "id": "lxwj8x",
+      "title": "Engineering for Bounded Cognition",
+      "description": "Score: 17 | Comments: 2 | Posted by supermatt",
+      "url": "https://shapeofthesystem.com/posts/2026/02/03/bounded-cognition",
+      "publishedAt": "2026-06-26T12:41:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "supermatt",
       "tags": []
     },
     {
