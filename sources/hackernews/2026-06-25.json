@@ -102,6 +102,28 @@
       "tags": []
     },
     {
+      "id": "dsiavn",
+      "title": "Idler Magazine",
+      "description": "Score: 19 | Comments: 3 | Posted by tomjakubowski",
+      "url": "https://www.idler.co.uk/",
+      "publishedAt": "2026-06-25T19:53:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tomjakubowski",
+      "tags": []
+    },
+    {
+      "id": "3t4nhk",
+      "title": "Staying Awake (2008)",
+      "description": "Score: 25 | Comments: 11 | Posted by NaOH",
+      "url": "https://harpers.org/archive/2008/02/staying-awake/",
+      "publishedAt": "2026-06-25T19:51:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "NaOH",
+      "tags": []
+    },
+    {
       "id": "wphvx7",
       "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
       "description": "Score: 225 | Comments: 182 | Posted by scrlk",
@@ -143,6 +165,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "engomez",
+      "tags": []
+    },
+    {
+      "id": "6v1k74",
+      "title": "The Boeing 747 begins its final descent",
+      "description": "Score: 182 | Comments: 252 | Posted by dbl000",
+      "url": "https://www.theatlantic.com/magazine/2026/07/boeing-747-retirement/687304/",
+      "publishedAt": "2026-06-25T15:54:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dbl000",
       "tags": []
     },
     {
@@ -209,6 +242,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "leschak",
+      "tags": []
+    },
+    {
+      "id": "9ck3dl",
+      "title": "Model Training as Code",
+      "description": "Score: 72 | Comments: 14 | Posted by peterBlue75",
+      "url": "https://aleph-alpha.com/en/blog/model-training-as-code/",
+      "publishedAt": "2026-06-25T13:54:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "peterBlue75",
       "tags": []
     },
     {
@@ -286,6 +330,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mooreds",
+      "tags": []
+    },
+    {
+      "id": "dd7t7i",
+      "title": "We found a bug in the hyper HTTP library",
+      "description": "Score: 19 | Comments: 2 | Posted by Pop_-",
+      "url": "https://blog.cloudflare.com/hyper-bug/",
+      "publishedAt": "2026-06-25T07:55:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Pop_-",
       "tags": []
     },
     {

@@ -1,0 +1,39 @@
+{
+  "date": "2026-06-28",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "151010 at https://www.blognone.com",
+      "title": "Lenovo ประเมิน ราคาแรมจะกลับสู่ \"ปกติใหม่\" ในปี 2030 แต่ไม่กลับมาถูกเท่าเดิม",
+      "description": "Lenovo ประเมิน ราคาแรมจะกลับสู่ \"ปกติใหม่\" ในปี 2030 แต่ไม่กลับมาถูกเท่าเดิม Body ตัวแทนของ Lenovo ขึ้นพูดที่งานสัมมนาด้านคอมพิวเตอร์ประสิทธิภาพสูง",
+      "url": "https://www.blognone.com/node/151010",
+      "publishedAt": "2026-06-28T23:30:33.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151009 at https://www.blognone.com",
+      "title": "[ไม่ยืนยัน] Google จำกัดการใช้ Gemini Enterprise สำหรับ Meta เพราะขยาย infrastructure ให้ไม่ทัน",
+      "description": "[ไม่ยืนยัน] Google จำกัดการใช้ Gemini Enterprise สำหรับ Meta เพราะขยาย infrastructure ให้ไม่ทัน Body มีรายงานจาก The Information",
+      "url": "https://www.blognone.com/node/151009",
+      "publishedAt": "2026-06-28T13:27:12.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151008 at https://www.blognone.com",
+      "title": "[ลือ] MacBook Ultra รุ่นบนสุด เตรียมออกปลายปีนี้ แต่ใช้ชิป M5 Pro และ M5 Max ไม่ได้ M6",
+      "description": "[ลือ] MacBook Ultra รุ่นบนสุด เตรียมออกปลายปีนี้ แต่ใช้ชิป M5 Pro และ M5 Max ไม่ได้ M6 Body ข่าวลือนี้เป็นข้อมูลการออก MacBook Pro รุ่นใหม่ โดย Mark",
+      "url": "https://www.blognone.com/node/151008",
+      "publishedAt": "2026-06-28T12:15:31.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}

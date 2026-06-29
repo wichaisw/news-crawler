@@ -1,0 +1,94 @@
+{
+  "date": "2026-06-29",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "iwvet3",
+      "title": "US Grid Constraints: Towards 40GW+ of Behind-the-Meter Datacenter by 2028?",
+      "description": "Score: 7 | Comments: 0 | Posted by felixdoerp",
+      "url": "https://newsletter.semianalysis.com/p/us-grid-constraints-towards-40gw",
+      "publishedAt": "2026-06-29T07:36:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "felixdoerp",
+      "tags": []
+    },
+    {
+      "id": "zfenhu",
+      "title": "Replacing Systemd with OpenRC in Debian",
+      "description": "Score: 7 | Comments: 0 | Posted by nogajun",
+      "url": "https://danielcordova.me/blog/debian-openrc/",
+      "publishedAt": "2026-06-29T06:37:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nogajun",
+      "tags": []
+    },
+    {
+      "id": "hnj54n",
+      "title": "Is Sunscreen the New Margarine?",
+      "description": "Score: 23 | Comments: 3 | Posted by markgavalda",
+      "url": "https://www.outsideonline.com/health/wellness/sunscreen-sun-exposure-skin-cancer-science/",
+      "publishedAt": "2026-06-29T05:05:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "markgavalda",
+      "tags": []
+    },
+    {
+      "id": "ys9ite",
+      "title": "Lore – Give your coding agent the decisions your team made",
+      "description": "Score: 27 | Comments: 20 | Posted by tcballard",
+      "url": "https://github.com/itsthelore/rac-core",
+      "publishedAt": "2026-06-29T04:40:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tcballard",
+      "tags": []
+    },
+    {
+      "id": "c2k3x3",
+      "title": "Herdr: Agent multiplexer that lives in your terminal",
+      "description": "Score: 45 | Comments: 15 | Posted by mzehrer",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "publishedAt": "2026-06-29T04:27:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mzehrer",
+      "tags": []
+    },
+    {
+      "id": "jjy336",
+      "title": "Age verification is just a precursor to automated attribution of speech",
+      "description": "Score: 350 | Comments: 188 | Posted by arkhiver",
+      "url": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
+      "publishedAt": "2026-06-29T03:42:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "arkhiver",
+      "tags": []
+    },
+    {
+      "id": "git0gj",
+      "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
+      "description": "Score: 284 | Comments: 87 | Posted by sambellll",
+      "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
+      "publishedAt": "2026-06-29T01:44:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sambellll",
+      "tags": []
+    },
+    {
+      "id": "wi58az",
+      "title": "Show HN: XSDR – Real-time event monitoring infrastructure for agents",
+      "description": "Score: 6 | Comments: 0 | Posted by wcrann3",
+      "url": "https://xsdr.app",
+      "publishedAt": "2026-06-29T01:17:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wcrann3",
+      "tags": []
+    }
+  ]
+}
