@@ -36,6 +36,28 @@
       "tags": []
     },
     {
+      "id": "efjivr",
+      "title": "Walter S. Arnold–Sculptor/Stone Carver",
+      "description": "Score: 8 | Comments: 1 | Posted by NaOH",
+      "url": "https://stonecarver.com/",
+      "publishedAt": "2026-06-27T22:49:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "NaOH",
+      "tags": []
+    },
+    {
+      "id": "xy864r",
+      "title": "Old Computer Challenge",
+      "description": "Score: 48 | Comments: 14 | Posted by wrxd",
+      "url": "http://occ.sdf.org/",
+      "publishedAt": "2026-06-27T22:18:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wrxd",
+      "tags": []
+    },
+    {
       "id": "biwbjq",
       "title": "Choosing a Public DNS Resolver",
       "description": "Score: 134 | Comments: 42 | Posted by pawal",
@@ -135,6 +157,28 @@
       "tags": []
     },
     {
+      "id": "bvvc0j",
+      "title": "Free the Icons",
+      "description": "Score: 393 | Comments: 108 | Posted by zdw",
+      "url": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
+      "publishedAt": "2026-06-27T15:05:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "tbxhik",
+      "title": "Alan Kay on the meaning of \"object-oriented programming\" (2003)",
+      "description": "Score: 50 | Comments: 12 | Posted by sxx0",
+      "url": "https://notes.shixiangxi.com/en/docs/appendix/alan-kay-on-oop/",
+      "publishedAt": "2026-06-27T14:49:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sxx0",
+      "tags": []
+    },
+    {
       "id": "vct4xs",
       "title": "Zuckerberg's war on whistleblowers",
       "description": "Score: 680 | Comments: 241 | Posted by HotGarbage",
@@ -168,6 +212,17 @@
       "tags": []
     },
     {
+      "id": "p49ge1",
+      "title": "Netflix Simplified Batch Compute with Kueue",
+      "description": "Score: 45 | Comments: 5 | Posted by dalvrosa",
+      "url": "https://netflixtechblog.com/how-netflix-simplified-batch-compute-with-kueue-87860682629c",
+      "publishedAt": "2026-06-27T14:20:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dalvrosa",
+      "tags": []
+    },
+    {
       "id": "piz4c3",
       "title": "Running a software jam in a world of slop",
       "description": "Score: 53 | Comments: 11 | Posted by foxmoss",
@@ -198,6 +253,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "bogdiyan",
+      "tags": []
+    },
+    {
+      "id": "emjc7a",
+      "title": "Kb – Prolog Knowledge Base",
+      "description": "Score: 66 | Comments: 7 | Posted by triska",
+      "url": "https://github.com/mat-mgm/kb-prolog",
+      "publishedAt": "2026-06-27T12:16:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "triska",
       "tags": []
     },
     {

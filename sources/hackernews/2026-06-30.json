@@ -1,0 +1,105 @@
+{
+  "date": "2026-06-30",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "i0bt3k",
+      "title": "US Supreme Court Just Blew Up EU-US Data Transfers",
+      "description": "Score: 52 | Comments: 22 | Posted by tomwas54",
+      "url": "https://noyb.eu/en/us-supreme-court-just-blew-eu-us-data-transfers",
+      "publishedAt": "2026-06-30T05:17:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tomwas54",
+      "tags": []
+    },
+    {
+      "id": "ki46do",
+      "title": "Popping the GPU Bubble",
+      "description": "Score: 82 | Comments: 18 | Posted by radq",
+      "url": "https://moondream.ai/blog/popping-the-gpu-bubble",
+      "publishedAt": "2026-06-30T05:14:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "radq",
+      "tags": []
+    },
+    {
+      "id": "wtmqb7",
+      "title": "The end of the AArch64 desktop experiment",
+      "description": "Score: 17 | Comments: 5 | Posted by signa11",
+      "url": "https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/",
+      "publishedAt": "2026-06-30T04:51:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "signa11",
+      "tags": []
+    },
+    {
+      "id": "gu5fg3",
+      "title": "Study suggests most Americans would be healthier without daylight saving time",
+      "description": "Score: 74 | Comments: 78 | Posted by andsoitis",
+      "url": "https://med.stanford.edu/news/all-news/2025/09/daylight-saving-time.html",
+      "publishedAt": "2026-06-30T03:47:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andsoitis",
+      "tags": []
+    },
+    {
+      "id": "al8gg6",
+      "title": "I built a free I Ching oracle web app",
+      "description": "Score: 14 | Comments: 10 | Posted by henrychannel",
+      "url": "https://iching-silk.vercel.app/",
+      "publishedAt": "2026-06-30T01:03:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "henrychannel",
+      "tags": []
+    },
+    {
+      "id": "9fliku",
+      "title": "Exploring PDP-1 Lisp (1960)",
+      "description": "Score: 55 | Comments: 16 | Posted by ozymandiax",
+      "url": "https://obsolescence.dev/pdp1-lisp-introduction.html",
+      "publishedAt": "2026-06-30T00:56:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ozymandiax",
+      "tags": []
+    },
+    {
+      "id": "xdkenv",
+      "title": "Memory Safe Context Switching",
+      "description": "Score: 98 | Comments: 22 | Posted by modeless",
+      "url": "https://fil-c.org/context_switches",
+      "publishedAt": "2026-06-30T00:38:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "modeless",
+      "tags": []
+    },
+    {
+      "id": "iu54nb",
+      "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
+      "description": "Score: 106 | Comments: 32 | Posted by benjiro29",
+      "url": "https://longcat.chat/blog/longcat-2.0/",
+      "publishedAt": "2026-06-30T00:30:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "benjiro29",
+      "tags": []
+    },
+    {
+      "id": "w3w9oi",
+      "title": "Open Memory Protocol – One Memory Store for Claude, ChatGPT, Curso",
+      "description": "Score: 28 | Comments: 9 | Posted by soji_mathew",
+      "url": "https://github.com/SMJAI/open-memory-protocol",
+      "publishedAt": "2026-06-30T00:05:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "soji_mathew",
+      "tags": []
+    }
+  ]
+}

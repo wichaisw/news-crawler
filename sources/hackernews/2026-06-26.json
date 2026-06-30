@@ -168,6 +168,17 @@
       "tags": []
     },
     {
+      "id": "dt6iwg",
+      "title": "How to corrupt an SQLite database file",
+      "description": "Score: 54 | Comments: 14 | Posted by tosh",
+      "url": "https://www.sqlite.org/howtocorrupt.html",
+      "publishedAt": "2026-06-26T18:05:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tosh",
+      "tags": []
+    },
+    {
       "id": "fskcsn",
       "title": "Pre-Modern Armies for Worldbuilders, Part III: Paying for It",
       "description": "Score: 90 | Comments: 15 | Posted by jfoucher",
@@ -256,6 +267,17 @@
       "tags": []
     },
     {
+      "id": "c9u745",
+      "title": "SQLite improving performance with pre-sort",
+      "description": "Score: 55 | Comments: 5 | Posted by tosh",
+      "url": "https://andersmurphy.com/2026/06/07/sqlite-improving-performance-with-pre-sort.html",
+      "publishedAt": "2026-06-26T14:36:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tosh",
+      "tags": []
+    },
+    {
       "id": "76vwam",
       "title": "Reflecting to optimise",
       "description": "Score: 3 | Comments: 0 | Posted by magni121",
@@ -311,6 +333,28 @@
       "tags": []
     },
     {
+      "id": "wwz8iz",
+      "title": "Wallace the 6 inch f/2.8 telescope, building it, and hiking with it",
+      "description": "Score: 132 | Comments: 23 | Posted by chantepierre",
+      "url": "https://lucassifoni.info/blog/hiking-with-wallace/",
+      "publishedAt": "2026-06-26T07:29:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "chantepierre",
+      "tags": []
+    },
+    {
+      "id": "1psmgt",
+      "title": "Open Source Low Tech",
+      "description": "Score: 34 | Comments: 4 | Posted by grep_it",
+      "url": "https://opensourcelowtech.org/",
+      "publishedAt": "2026-06-26T06:35:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "grep_it",
+      "tags": []
+    },
+    {
       "id": "atfyem",
       "title": "Micron locks in historically high memory prices for five years",
       "description": "Score: 13 | Comments: 3 | Posted by fauigerzigerk",
@@ -341,6 +385,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ingve",
+      "tags": []
+    },
+    {
+      "id": "t7mpnn",
+      "title": "A Fake Shell for Pangenomics",
+      "description": "Score: 10 | Comments: 0 | Posted by matt_d",
+      "url": "https://www.cs.cornell.edu/~asampson/blog/flash.html",
+      "publishedAt": "2026-06-26T06:02:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "matt_d",
       "tags": []
     },
     {
