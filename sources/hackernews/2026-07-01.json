@@ -1,0 +1,116 @@
+{
+  "date": "2026-07-01",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "dc8ryn",
+      "title": "Meta is adding rate limits and soft paywall to smart glasses",
+      "description": "Score: 20 | Comments: 8 | Posted by Exoristos",
+      "url": "https://www.theverge.com/gadgets/959899/meta-ai-glasses-paywall-rate-limit",
+      "publishedAt": "2026-07-01T05:43:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Exoristos",
+      "tags": []
+    },
+    {
+      "id": "1rfu5j",
+      "title": "Matrix Orthogonalization Improves Memory in Recurrent Models",
+      "description": "Score: 25 | Comments: 2 | Posted by at2005",
+      "url": "https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/",
+      "publishedAt": "2026-07-01T05:13:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "at2005",
+      "tags": []
+    },
+    {
+      "id": "itxvzt",
+      "title": "The first early human eggs from stem cells",
+      "description": "Score: 70 | Comments: 17 | Posted by dsr12",
+      "url": "https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells",
+      "publishedAt": "2026-07-01T05:09:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dsr12",
+      "tags": []
+    },
+    {
+      "id": "9jbus",
+      "title": "We pay engineers to cut our infra bill",
+      "description": "Score: 15 | Comments: 2 | Posted by backlit4034",
+      "url": "https://rootly.com/blog/we-pay-engineers-to-cut-our-infra-bill",
+      "publishedAt": "2026-07-01T05:02:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "backlit4034",
+      "tags": []
+    },
+    {
+      "id": "le93w9",
+      "title": "Claude Fable 5 available globally tomorrow",
+      "description": "Score: 25 | Comments: 2 | Posted by jitl",
+      "url": "https://twitter.com/anthropicai/status/2072163884430229756",
+      "publishedAt": "2026-07-01T04:25:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jitl",
+      "tags": []
+    },
+    {
+      "id": "6gstia",
+      "title": "How employment changes when firms adopt generative AI",
+      "description": "Score: 39 | Comments: 27 | Posted by nreece",
+      "url": "https://ramp.com/data/ai-jobs-impact",
+      "publishedAt": "2026-07-01T04:14:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nreece",
+      "tags": []
+    },
+    {
+      "id": "a8y6p5",
+      "title": "Single header Parser Combinators for C",
+      "description": "Score: 11 | Comments: 1 | Posted by steve-chavez",
+      "url": "https://github.com/steve-chavez/CParseC",
+      "publishedAt": "2026-07-01T03:52:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "steve-chavez",
+      "tags": []
+    },
+    {
+      "id": "ydi4bp",
+      "title": "America can switch off AI. Europe must switch gears before it's too late",
+      "description": "Score: 31 | Comments: 15 | Posted by TMWNN",
+      "url": "https://www.euronews.com/my-europe/2026/06/30/america-can-switch-off-the-worlds-ai-europe-must-switch-gears-before-its-too-late",
+      "publishedAt": "2026-07-01T03:34:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "TMWNN",
+      "tags": []
+    },
+    {
+      "id": "55zfcu",
+      "title": "ArXiv's Next Chapter",
+      "description": "Score: 71 | Comments: 9 | Posted by subset",
+      "url": "https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/",
+      "publishedAt": "2026-07-01T02:51:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "subset",
+      "tags": []
+    },
+    {
+      "id": "ennyoe",
+      "title": "Forestiere Underground Gardens",
+      "description": "Score: 62 | Comments: 13 | Posted by onemoresoop",
+      "url": "https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens",
+      "publishedAt": "2026-07-01T01:23:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "onemoresoop",
+      "tags": []
+    }
+  ]
+}

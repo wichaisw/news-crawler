@@ -25,6 +25,17 @@
       "tags": []
     },
     {
+      "id": "igg65f",
+      "title": "Waveloop: What Fable left me",
+      "description": "Score: 112 | Comments: 48 | Posted by personjerry",
+      "url": "https://neynt.ca/writing/waveloop/",
+      "publishedAt": "2026-06-26T23:29:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "personjerry",
+      "tags": []
+    },
+    {
       "id": "gpcj3s",
       "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
       "description": "Score: 367 | Comments: 367 | Posted by bobrenjc93",
@@ -55,6 +66,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "rbanffy",
+      "tags": []
+    },
+    {
+      "id": "mogvbk",
+      "title": "Pystd, similar-ish functionality with a fraction of the compile time",
+      "description": "Score: 21 | Comments: 13 | Posted by ibobev",
+      "url": "https://nibblestew.blogspot.com/2026/06/pystd-standard-library-similar-ish.html",
+      "publishedAt": "2026-06-26T21:34:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
       "tags": []
     },
     {
@@ -190,6 +212,17 @@
       "tags": []
     },
     {
+      "id": "v0q3u4",
+      "title": "Scaling Laws, Carefully",
+      "description": "Score: 55 | Comments: 15 | Posted by tehnub",
+      "url": "https://lilianweng.github.io/posts/2026-06-24-scaling-laws/",
+      "publishedAt": "2026-06-26T17:55:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tehnub",
+      "tags": []
+    },
+    {
       "id": "coz7du",
       "title": "What Is a Nomogram and Why Would It Interest Me?",
       "description": "Score: 107 | Comments: 18 | Posted by Eridanus2",
@@ -234,6 +267,17 @@
       "tags": []
     },
     {
+      "id": "lhjo9n",
+      "title": "1.38 Millimeter Microcontroller",
+      "description": "Score: 149 | Comments: 97 | Posted by kristianpaul",
+      "url": "https://www.ti.com/product/MSPM0C1104",
+      "publishedAt": "2026-06-26T16:38:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kristianpaul",
+      "tags": []
+    },
+    {
       "id": "i2v6l0",
       "title": "One man, two kernels, and a lot of RISC-V",
       "description": "Score: 87 | Comments: 6 | Posted by LorenDB",
@@ -253,6 +297,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "lukasgelbmann",
+      "tags": []
+    },
+    {
+      "id": "n3edap",
+      "title": "Matrix URIs, a URL syntax from Tim Berners-Lee that never shipped (1996)",
+      "description": "Score: 57 | Comments: 29 | Posted by napolux",
+      "url": "https://www.w3.org/DesignIssues/MatrixURIs.html",
+      "publishedAt": "2026-06-26T15:15:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "napolux",
       "tags": []
     },
     {

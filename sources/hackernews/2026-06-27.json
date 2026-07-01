@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "m23oaa",
+      "title": "I built a 10 inch mini rack from aluminium extrusions",
+      "description": "Score: 84 | Comments: 42 | Posted by louwrentius",
+      "url": "https://louwrentius.com/i-build-a-10-inch-mini-rack-from-aluminium-extrusions.html",
+      "publishedAt": "2026-06-27T23:45:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "louwrentius",
+      "tags": []
+    },
+    {
       "id": "jy59yb",
       "title": "WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups",
       "description": "Score: 51 | Comments: 4 | Posted by saisrirampur",
@@ -44,6 +55,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "NaOH",
+      "tags": []
+    },
+    {
+      "id": "xifsax",
+      "title": "Set up your own DoH (DNS over HTTPS) service",
+      "description": "Score: 70 | Comments: 23 | Posted by Bender",
+      "url": "https://nochan.net/b/Internet-Crap/20260602-Set-Up-Your-Own-DoH-Service/",
+      "publishedAt": "2026-06-27T22:24:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Bender",
       "tags": []
     },
     {
@@ -113,6 +135,17 @@
       "tags": []
     },
     {
+      "id": "bfvutv",
+      "title": "Stroustrup's Rule (2024)",
+      "description": "Score: 90 | Comments: 19 | Posted by bmacho",
+      "url": "https://buttondown.com/hillelwayne/archive/stroustrups-rule/",
+      "publishedAt": "2026-06-27T21:01:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bmacho",
+      "tags": []
+    },
+    {
       "id": "vmfrui",
       "title": "Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work",
       "description": "Score: 107 | Comments: 72 | Posted by kageroumado",
@@ -154,6 +187,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ohjeez",
+      "tags": []
+    },
+    {
+      "id": "xhdr0e",
+      "title": "A peek into Reddit's anti-spam internals",
+      "description": "Score: 102 | Comments: 21 | Posted by OuterVale",
+      "url": "https://lyra.horse/blog/2026/06/reddit-spam-internals/",
+      "publishedAt": "2026-06-27T15:18:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "OuterVale",
       "tags": []
     },
     {
