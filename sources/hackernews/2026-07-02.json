@@ -1,0 +1,138 @@
+{
+  "date": "2026-07-02",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "42vqlg",
+      "title": "The gauge broke: devs felt 20% faster with AI, measured 19% slowerintrepidkarthi.com",
+      "description": "Score: 24 | Comments: 7 | Posted by intrepidkarthi",
+      "url": "https://intrepidkarthi.com/writing/the-gauge-broke/",
+      "publishedAt": "2026-07-02T06:45:53.972Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "intrepidkarthi",
+      "tags": []
+    },
+    {
+      "id": "42vqlg",
+      "title": "The gauge broke: devs felt 20% faster with AI, measured 19% slower",
+      "description": "Score: 27 | Comments: 8 | Posted by intrepidkarthi",
+      "url": "https://intrepidkarthi.com/writing/the-gauge-broke/",
+      "publishedAt": "2026-07-02T06:44:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "intrepidkarthi",
+      "tags": []
+    },
+    {
+      "id": "8jeo5t",
+      "title": "He sent a harsh email to ICE's top official. Federal agents tracked him down",
+      "description": "Score: 14 | Comments: 1 | Posted by OutOfHere",
+      "url": "https://www.npr.org/2026/07/01/nx-s1-5874124/dhs-tracks-ice-critic",
+      "publishedAt": "2026-07-02T05:20:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "OutOfHere",
+      "tags": []
+    },
+    {
+      "id": "dhocjk",
+      "title": "CursorBench 3.1",
+      "description": "Score: 22 | Comments: 12 | Posted by handfuloflight",
+      "url": "https://cursor.com/evals",
+      "publishedAt": "2026-07-02T05:19:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "handfuloflight",
+      "tags": []
+    },
+    {
+      "id": "ukw5m3",
+      "title": "Kimi K2.7 Code is generally available in GitHub Copilotgithub.blog",
+      "description": "Score: 49 | Comments: 16 | Posted by unliftedq",
+      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+      "publishedAt": "2026-07-02T05:14:53.973Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "unliftedq",
+      "tags": []
+    },
+    {
+      "id": "ukw5m3",
+      "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
+      "description": "Score: 49 | Comments: 16 | Posted by unliftedq",
+      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+      "publishedAt": "2026-07-02T04:32:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "unliftedq",
+      "tags": []
+    },
+    {
+      "id": "d7krum",
+      "title": "A new Android malware from Google",
+      "description": "Score: 117 | Comments: 37 | Posted by drewfax",
+      "url": "https://f-droid.org/2026/07/01/adv-malware.html",
+      "publishedAt": "2026-07-02T03:00:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "drewfax",
+      "tags": []
+    },
+    {
+      "id": "lpgjh1",
+      "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
+      "description": "Score: 64 | Comments: 51 | Posted by matt_d",
+      "url": "https://senior-swe-bench.snorkel.ai/",
+      "publishedAt": "2026-07-02T02:55:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "matt_d",
+      "tags": []
+    },
+    {
+      "id": "pkik4l",
+      "title": "Bring back crappy forums",
+      "description": "Score: 184 | Comments: 112 | Posted by pentagrama",
+      "url": "https://tedium.co/2026/07/01/online-web-forums-retrospective/",
+      "publishedAt": "2026-07-02T02:30:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pentagrama",
+      "tags": []
+    },
+    {
+      "id": "pg2dfw",
+      "title": "Oomwoo, an open-source robot vacuum you build yourselfmakerspet.com",
+      "description": "Score: 203 | Comments: 40 | Posted by devicelimit",
+      "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
+      "publishedAt": "2026-07-02T01:14:53.973Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "devicelimit",
+      "tags": []
+    },
+    {
+      "id": "pg2dfw",
+      "title": "Oomwoo, an open-source robot vacuum you build yourself",
+      "description": "Score: 203 | Comments: 40 | Posted by devicelimit",
+      "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
+      "publishedAt": "2026-07-02T00:48:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "devicelimit",
+      "tags": []
+    },
+    {
+      "id": "h49ujw",
+      "title": "Global review confirms mRNA vaccines are safe, effective and full of promise ",
+      "description": "Score: 283 | Comments: 280 | Posted by coloneltcb",
+      "url": "https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/",
+      "publishedAt": "2026-07-02T00:40:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "coloneltcb",
+      "tags": []
+    }
+  ]
+}
