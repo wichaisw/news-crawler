@@ -1,0 +1,28 @@
+{
+  "date": "2026-07-03",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3138739",
+      "title": "Politician who investigated spyware abuses had his phone hacked with Pegasus spyware",
+      "description": "A government customer of NSO Group used the company's Pegasus spyware to hack into the phone of a European politician, who at the time was serving on",
+      "url": "https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/",
+      "publishedAt": "2026-07-03T05:05:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Zack Whittaker",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3137658",
+      "title": "Last chance to apply — Startup Battlefield Australia applications close July 6",
+      "description": "If you're going to apply for Startup Battlefield Australia, now is the time. Applications close July 6, and once the deadline passes, the opportunity",
+      "url": "https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/",
+      "publishedAt": "2026-07-03T00:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Isabelle Johannessen",
+      "tags": []
+    }
+  ]
+}

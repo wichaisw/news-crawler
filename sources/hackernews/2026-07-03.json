@@ -1,0 +1,105 @@
+{
+  "date": "2026-07-03",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "td5iux",
+      "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
+      "description": "Score: 20 | Comments: 6 | Posted by nsoonhui",
+      "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
+      "publishedAt": "2026-07-03T08:31:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nsoonhui",
+      "tags": []
+    },
+    {
+      "id": "uy7mkj",
+      "title": "Half-Baked Product",
+      "description": "Score: 3 | Comments: 1 | Posted by weli",
+      "url": "https://weli.dev/blog/half-baked-product/",
+      "publishedAt": "2026-07-03T08:23:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "weli",
+      "tags": []
+    },
+    {
+      "id": "h3kbhm",
+      "title": "Why Switzerland has 25 gbit internet and America doesn't",
+      "description": "Score: 480 | Comments: 338 | Posted by talonx",
+      "url": "https://stefan.schueller.net/posts/the-free-market-lie/",
+      "publishedAt": "2026-07-03T04:16:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "talonx",
+      "tags": []
+    },
+    {
+      "id": "xz5nqm",
+      "title": "14× faster embeddings: how we rebuilt the ONNX path in Manticore",
+      "description": "Score: 47 | Comments: 7 | Posted by snikolaev",
+      "url": "https://manticoresearch.com/blog/onnx-embeddings-speedup/",
+      "publishedAt": "2026-07-03T03:49:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "snikolaev",
+      "tags": []
+    },
+    {
+      "id": "k2khfb",
+      "title": "OpenUI: Open Standard for Generative UI",
+      "description": "Score: 23 | Comments: 6 | Posted by handfuloflight",
+      "url": "https://www.openui.com",
+      "publishedAt": "2026-07-03T02:48:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "handfuloflight",
+      "tags": []
+    },
+    {
+      "id": "2gbvu5",
+      "title": "AI is 'not smart' so what's next in artificial intelligence?",
+      "description": "Score: 37 | Comments: 38 | Posted by 1vuio0pswjnm7",
+      "url": "https://www.bbc.com/news/articles/cj6gr0xkyr3o",
+      "publishedAt": "2026-07-03T01:42:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "1vuio0pswjnm7",
+      "tags": []
+    },
+    {
+      "id": "12y1lh",
+      "title": "The Safari MCP server for web developers",
+      "description": "Score: 86 | Comments: 14 | Posted by coloneltcb",
+      "url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/",
+      "publishedAt": "2026-07-03T01:37:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "coloneltcb",
+      "tags": []
+    },
+    {
+      "id": "9vnaax",
+      "title": "CarPlay Is Additive",
+      "description": "Score: 281 | Comments: 342 | Posted by sprawl_",
+      "url": "https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts",
+      "publishedAt": "2026-07-03T01:02:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sprawl_",
+      "tags": []
+    },
+    {
+      "id": "lu0v1a",
+      "title": "An American Privacy Emergency",
+      "description": "Score: 300 | Comments: 93 | Posted by flowercalled",
+      "url": "https://scottaaronson.blog/?p=9902",
+      "publishedAt": "2026-07-03T00:01:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "flowercalled",
+      "tags": []
+    }
+  ]
+}

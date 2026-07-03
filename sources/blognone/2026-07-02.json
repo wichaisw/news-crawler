@@ -3,6 +3,50 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "151048 at https://www.blognone.com",
+      "title": "VoidZero ปล่อย Vite+ คำสั่งรวมชุดสำหรับพัฒนาเว็บด้วย Vite เวอร์ชันเบต้า",
+      "description": "VoidZero ปล่อย Vite+ คำสั่งรวมชุดสำหรับพัฒนาเว็บด้วย Vite เวอร์ชันเบต้า Body VoidZero ผู้สร้าง Vite ที่เพิ่ง ถูก Cloudflare ซื้อบริษัทไป ปล่อยคำสั่ง",
+      "url": "https://www.blognone.com/node/151048",
+      "publishedAt": "2026-07-02T16:42:08.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151047 at https://www.blognone.com",
+      "title": "AWS เปิดบริการ AgentCore ในไทย",
+      "description": "AWS เปิดบริการ AgentCore ในไทย Body AWS เพิ่มภูมิภาคที่รองรับบริการ Amazon Bedrock AgentCore แพลตฟอร์มสำหรับพัฒนา AI agent ในอีก 4 ภูมิภาค ได้แก่",
+      "url": "https://www.blognone.com/node/151047",
+      "publishedAt": "2026-07-02T16:09:31.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151046 at https://www.blognone.com",
+      "title": "[ไม่ยืนยัน] OpenAI เสนอมอบหุ้น 5% ของบริษัท ให้รัฐบาลสหรัฐ",
+      "description": "[ไม่ยืนยัน] OpenAI เสนอมอบหุ้น 5% ของบริษัท ให้รัฐบาลสหรัฐ Body มีรายงานจาก Financial Times บอกว่า OpenAI ได้เสนอมอบหุ้น 5%",
+      "url": "https://www.blognone.com/node/151046",
+      "publishedAt": "2026-07-02T12:05:19.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151045 at https://www.blognone.com",
+      "title": "เผย SpaceX นำเสนออุปกรณ์พกพาต้นแบบไว้เรียกใช้งาน AI ให้กับนักลงทุนบางราย - Elon Musk ปฏิเสธข่าว",
+      "description": "เผย SpaceX นำเสนออุปกรณ์พกพาต้นแบบไว้เรียกใช้งาน AI ให้กับนักลงทุนบางราย - Elon Musk ปฏิเสธข่าว Body The Wall Street Journal",
+      "url": "https://www.blognone.com/node/151045",
+      "publishedAt": "2026-07-02T10:31:46.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "151044 at https://www.blognone.com",
       "title": "X เปิดตัวเครื่องมือสำหรับไลฟ์สด มีแดชบอร์ดแสดงข้อมูลเรียลไทม์",
       "description": "X เปิดตัวเครื่องมือสำหรับไลฟ์สด มีแดชบอร์ดแสดงข้อมูลเรียลไทม์ Body X เปิดตัว Live Studio ชุดเครื่องมือสำหรับครีเอเตอร์ใช้ในการถ่ายทอดสด",

@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "q7v6hq",
+      "title": "Quake in 13 Kilobytes (2021)",
+      "description": "Score: 14 | Comments: 2 | Posted by mortenjorck",
+      "url": "https://js13kgames.com/games/q1k3",
+      "publishedAt": "2026-06-26T23:36:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mortenjorck",
+      "tags": []
+    },
+    {
       "id": "eu2k6q",
       "title": "Foreign funds help make housing unaffordable: research",
       "description": "Score: 54 | Comments: 16 | Posted by hhs",
