@@ -1,0 +1,105 @@
+{
+  "date": "2026-07-04",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "kllhng",
+      "title": "The bottleneck might be the air in the roommikebowler.ca",
+      "description": "Score: 138 | Comments: 64 | Posted by gslin",
+      "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
+      "publishedAt": "2026-07-04T06:39:57.678Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gslin",
+      "tags": []
+    },
+    {
+      "id": "kllhng",
+      "title": "The bottleneck might be the air in the room",
+      "description": "Score: 140 | Comments: 67 | Posted by gslin",
+      "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
+      "publishedAt": "2026-07-04T06:32:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gslin",
+      "tags": []
+    },
+    {
+      "id": "t0l5aa",
+      "title": "David Beazley – Programming Courses",
+      "description": "Score: 65 | Comments: 21 | Posted by gregsadetsky",
+      "url": "https://www.dabeaz.com/courses.html",
+      "publishedAt": "2026-07-04T05:43:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gregsadetsky",
+      "tags": []
+    },
+    {
+      "id": "5c1xu1",
+      "title": "Agentic coding notes from Galapagos Islanddanluu.com",
+      "description": "Score: 73 | Comments: 28 | Posted by gm678",
+      "url": "https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post",
+      "publishedAt": "2026-07-04T04:39:57.679Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gm678",
+      "tags": []
+    },
+    {
+      "id": "5c1xu1",
+      "title": "Agentic coding notes from Galapagos Island",
+      "description": "Score: 74 | Comments: 28 | Posted by gm678",
+      "url": "https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post",
+      "publishedAt": "2026-07-04T04:37:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gm678",
+      "tags": []
+    },
+    {
+      "id": "cyh1sf",
+      "title": "Maybe you should learn something",
+      "description": "Score: 54 | Comments: 22 | Posted by tylerdane",
+      "url": "https://www.marginalia.nu/log/a_135_learn/",
+      "publishedAt": "2026-07-04T03:36:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tylerdane",
+      "tags": []
+    },
+    {
+      "id": "dde3u1",
+      "title": "Synthesis is harder than analysis",
+      "description": "Score: 74 | Comments: 13 | Posted by azhenley",
+      "url": "https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/",
+      "publishedAt": "2026-07-04T02:45:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "azhenley",
+      "tags": []
+    },
+    {
+      "id": "nysnhg",
+      "title": "MSI Center – How to gain SYSTEM privileges in seconds",
+      "description": "Score: 80 | Comments: 24 | Posted by MrBruh",
+      "url": "https://mrbruh.com/msicenter/",
+      "publishedAt": "2026-07-04T00:57:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "MrBruh",
+      "tags": []
+    },
+    {
+      "id": "hi6bt0",
+      "title": "Soatok's Informal Guide to Threat Models",
+      "description": "Score: 80 | Comments: 10 | Posted by zdw",
+      "url": "https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/",
+      "publishedAt": "2026-07-04T00:35:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    }
+  ]
+}

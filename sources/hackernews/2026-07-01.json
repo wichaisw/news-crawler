@@ -190,6 +190,17 @@
       "tags": []
     },
     {
+      "id": "8eoq1k",
+      "title": "Show HN: Classify mechanical faults using Contrastive Language-Audio Pretraining",
+      "description": "Score: 12 | Comments: 0 | Posted by dataviz1000",
+      "url": "https://github.com/adam-s/car-diagnosis",
+      "publishedAt": "2026-07-01T16:57:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dataviz1000",
+      "tags": []
+    },
+    {
       "id": "i7s6l4",
       "title": "How We Made IPFS Content Publishing 10x Faster",
       "description": "Score: 158 | Comments: 53 | Posted by dennis-tra",
@@ -245,6 +256,17 @@
       "tags": []
     },
     {
+      "id": "48rjyv",
+      "title": "Postgres data stored in Parquet on S3: LTAP architecture explained",
+      "description": "Score: 9 | Comments: 1 | Posted by andrenotgiant",
+      "url": "https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage",
+      "publishedAt": "2026-07-01T12:48:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andrenotgiant",
+      "tags": []
+    },
+    {
       "id": "cnerrq",
       "title": "Physical disc production ending in Jan 2028 for new games on PlayStation",
       "description": "Score: 695 | Comments: 692 | Posted by Tiberium",
@@ -264,6 +286,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "makepanic",
+      "tags": []
+    },
+    {
+      "id": "l3nfre",
+      "title": "We put a Redis server inside our runtime",
+      "description": "Score: 30 | Comments: 10 | Posted by eandre",
+      "url": "https://encore.dev/blog/redis-runtime",
+      "publishedAt": "2026-07-01T10:11:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "eandre",
       "tags": []
     },
     {
@@ -297,6 +330,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "Exoristos",
+      "tags": []
+    },
+    {
+      "id": "r9u5tf",
+      "title": "Study reveals what people see when they read lips",
+      "description": "Score: 8 | Comments: 0 | Posted by giuliomagnifico",
+      "url": "https://news.ku.edu/news/article/study-reveals-what-people-really-see-when-they-read-lips",
+      "publishedAt": "2026-07-01T05:21:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "giuliomagnifico",
       "tags": []
     },
     {

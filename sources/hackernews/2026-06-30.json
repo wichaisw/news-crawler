@@ -47,6 +47,17 @@
       "tags": []
     },
     {
+      "id": "qbslus",
+      "title": "Gone but Not Forgotten: Recovering the Dead Web",
+      "description": "Score: 64 | Comments: 18 | Posted by wslh",
+      "url": "https://blog.archive.org/2026/04/23/gone-but-not-forgotten-recovering-the-dead-web/",
+      "publishedAt": "2026-06-30T21:48:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wslh",
+      "tags": []
+    },
+    {
       "id": "cfzn2g",
       "title": "From brain waves to words: a new path to communication without surgery",
       "description": "Score: 147 | Comments: 76 | Posted by alok-g",
@@ -66,6 +77,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "seahorseemoji",
+      "tags": []
+    },
+    {
+      "id": "cnr8qg",
+      "title": "Mir Books – Books from the Soviet Era",
+      "description": "Score: 53 | Comments: 22 | Posted by clmul",
+      "url": "https://mirtitles.org",
+      "publishedAt": "2026-06-30T20:50:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "clmul",
       "tags": []
     },
     {
@@ -124,6 +146,17 @@
       "tags": []
     },
     {
+      "id": "u3ndan",
+      "title": "Reverse-engineering Codemasters' BIGF archive format in Ruby",
+      "description": "Score: 17 | Comments: 4 | Posted by davidslv",
+      "url": "https://davidslv.uk/2026/06/30/reading-binary-in-ruby.html",
+      "publishedAt": "2026-06-30T17:10:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "davidslv",
+      "tags": []
+    },
+    {
       "id": "cr9b7g",
       "title": "Claude Science",
       "description": "Score: 461 | Comments: 140 | Posted by lebovic",
@@ -154,6 +187,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "minimaxir",
+      "tags": []
+    },
+    {
+      "id": "ja0nin",
+      "title": "Show HN: A statically typed, cross-platform, easily bootstrappable build system",
+      "description": "Score: 33 | Comments: 11 | Posted by Rochus",
+      "url": "https://github.com/rochus-keller/BUSY/",
+      "publishedAt": "2026-06-30T16:28:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Rochus",
       "tags": []
     },
     {
@@ -209,6 +253,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "lstodd",
+      "tags": []
+    },
+    {
+      "id": "o4a9yr",
+      "title": "Hunting a 16-year-old SQLite WAL bug with TLA+",
+      "description": "Score: 205 | Comments: 22 | Posted by peterparker204",
+      "url": "https://ubuntu.com/blog/hunting-a-16-year-old-sqlite-bug-with-tla-is-dqlite-affected",
+      "publishedAt": "2026-06-30T11:07:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "peterparker204",
       "tags": []
     },
     {
