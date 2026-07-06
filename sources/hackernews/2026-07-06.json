@@ -1,0 +1,105 @@
+{
+  "date": "2026-07-06",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "k8yqy1",
+      "title": "Real-time map of Great Britain's rail network",
+      "description": "Score: 43 | Comments: 13 | Posted by scrlk",
+      "url": "https://www.map.signalbox.io",
+      "publishedAt": "2026-07-06T09:38:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "scrlk",
+      "tags": []
+    },
+    {
+      "id": "jq5vuk",
+      "title": "When AI Costs More Than the Engineer",
+      "description": "Score: 90 | Comments: 76 | Posted by kiyanwang",
+      "url": "https://tomtunguz.com/ai-spend-breakeven-2029/",
+      "publishedAt": "2026-07-06T07:05:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kiyanwang",
+      "tags": []
+    },
+    {
+      "id": "j6y73k",
+      "title": "Generate parametric, manufacturable 3D models in seconds",
+      "description": "Score: 30 | Comments: 20 | Posted by OsamaAtwi",
+      "url": "https://kyrall.com/",
+      "publishedAt": "2026-07-06T07:04:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "OsamaAtwi",
+      "tags": []
+    },
+    {
+      "id": "nyume9",
+      "title": "Android is almost dead – OSnews",
+      "description": "Score: 32 | Comments: 6 | Posted by abdelhousni",
+      "url": "https://www.osnews.com/story/145415/android-is-almost-dead/",
+      "publishedAt": "2026-07-06T05:45:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "abdelhousni",
+      "tags": []
+    },
+    {
+      "id": "2drsuo",
+      "title": "Shrimple – A Simpler, Nicer Markdown",
+      "description": "Score: 22 | Comments: 32 | Posted by usrbinenv",
+      "url": "https://qount25.dev/Shrimple/",
+      "publishedAt": "2026-07-06T02:24:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "usrbinenv",
+      "tags": []
+    },
+    {
+      "id": "2px6ix",
+      "title": "Building relationships with customers through support didn't turn out as hoped",
+      "description": "Score: 141 | Comments: 84 | Posted by dabluck",
+      "url": "https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support",
+      "publishedAt": "2026-07-06T02:06:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dabluck",
+      "tags": []
+    },
+    {
+      "id": "czf22f",
+      "title": "The Sneakerweb",
+      "description": "Score: 62 | Comments: 15 | Posted by GalaxyNova",
+      "url": "https://sneakerweb.org/",
+      "publishedAt": "2026-07-06T01:35:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "GalaxyNova",
+      "tags": []
+    },
+    {
+      "id": "w5e783",
+      "title": "GPT-5.6 Sol Ultra will be in Codex",
+      "description": "Score: 297 | Comments: 233 | Posted by mfiguiere",
+      "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
+      "publishedAt": "2026-07-06T01:04:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mfiguiere",
+      "tags": []
+    },
+    {
+      "id": "d02h6",
+      "title": "Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
+      "description": "Score: 153 | Comments: 68 | Posted by ClearwayLaw",
+      "url": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
+      "publishedAt": "2026-07-06T00:04:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ClearwayLaw",
+      "tags": []
+    }
+  ]
+}
