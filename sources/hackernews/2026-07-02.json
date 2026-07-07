@@ -69,6 +69,28 @@
       "tags": []
     },
     {
+      "id": "wvra51",
+      "title": "The Music of Destruction",
+      "description": "Score: 23 | Comments: 12 | Posted by lermontov",
+      "url": "https://thebaffler.com/latest/the-music-of-destruction-fuelling",
+      "publishedAt": "2026-07-02T21:01:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lermontov",
+      "tags": []
+    },
+    {
+      "id": "131lzz",
+      "title": "Clojure 1.13 adds support for checked keys",
+      "description": "Score: 205 | Comments: 46 | Posted by FelipeCortez",
+      "url": "https://clojure.org/news/2026/07/02/clojure-1-13-alpha1",
+      "publishedAt": "2026-07-02T20:51:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "FelipeCortez",
+      "tags": []
+    },
+    {
       "id": "f1k5qd",
       "title": "Zuckerberg says AI agent development going slower than expected",
       "description": "Score: 238 | Comments: 405 | Posted by cwwc",
@@ -355,6 +377,17 @@
       "tags": []
     },
     {
+      "id": "xqea95",
+      "title": "Tiny-C Reference Manual Excerpt",
+      "description": "Score: 19 | Comments: 1 | Posted by surprisetalk",
+      "url": "https://permacomputer.solarpunk.au/?p=204",
+      "publishedAt": "2026-07-02T13:30:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
       "id": "sh2o3k",
       "title": "NSA tries to weaken mlkem standardisation?",
       "description": "Score: 128 | Comments: 76 | Posted by SuperSandro2000",
@@ -429,6 +462,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "arbayi",
+      "tags": []
+    },
+    {
+      "id": "10y6ej",
+      "title": "Evaluation order and nontermination in query languages",
+      "description": "Score: 36 | Comments: 4 | Posted by luu",
+      "url": "https://www.rntz.net/post/2026-06-11-datalog-nontermination.html",
+      "publishedAt": "2026-07-02T07:08:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "luu",
       "tags": []
     },
     {

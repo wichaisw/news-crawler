@@ -1,0 +1,28 @@
+{
+  "date": "2026-07-07",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3139226",
+      "title": "The first American autonomous ground vehicles are fighting in Ukraine",
+      "description": "Forterra has deployed more than 100",
+      "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
+      "publishedAt": "2026-07-07T09:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Tim Fernholz",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3139394",
+      "title": "Netflix invented binge-watching. Now it may have outgrown it.",
+      "description": "A new report suggests Netflix viewers aren’t sticking around for Season 2. The bigger issue may be that binge-watching itself is no longer the",
+      "url": "https://techcrunch.com/2026/07/06/netflix-invented-binge-watching-now-it-may-have-outgrown-it/",
+      "publishedAt": "2026-07-07T00:47:33.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sarah Perez",
+      "tags": []
+    }
+  ]
+}

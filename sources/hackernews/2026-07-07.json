@@ -1,0 +1,72 @@
+{
+  "date": "2026-07-07",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "d93hbl",
+      "title": "Microsoft Can Track Users via a Windows Device ID",
+      "description": "Score: 40 | Comments: 7 | Posted by ifh-hn",
+      "url": "https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device",
+      "publishedAt": "2026-07-07T08:54:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ifh-hn",
+      "tags": []
+    },
+    {
+      "id": "wipyyu",
+      "title": "We're Living Through the AI Utopia and Can't See It",
+      "description": "Score: 3 | Comments: 1 | Posted by evizero",
+      "url": "https://twitter.com/christofsalis/status/2073375047939395671",
+      "publishedAt": "2026-07-07T08:52:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "evizero",
+      "tags": []
+    },
+    {
+      "id": "bbhxg4",
+      "title": "YC CEO says he ships 37K LoC AI code per day. A developer looked under the hood",
+      "description": "Score: 42 | Comments: 31 | Posted by theanonymousone",
+      "url": "https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media",
+      "publishedAt": "2026-07-07T08:39:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "theanonymousone",
+      "tags": []
+    },
+    {
+      "id": "o8eqej",
+      "title": "The Art of Computer Programming by Donald E. Knuth",
+      "description": "Score: 16 | Comments: 3 | Posted by archargelod",
+      "url": "https://www-cs-faculty.stanford.edu/~knuth/taocp.html",
+      "publishedAt": "2026-07-07T05:19:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "archargelod",
+      "tags": []
+    },
+    {
+      "id": "m2iu79",
+      "title": "Odin 1.0 Announcement",
+      "description": "Score: 40 | Comments: 6 | Posted by jhack",
+      "url": "https://www.youtube.com/watch?v=dLPAqXi9In0",
+      "publishedAt": "2026-07-07T05:06:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jhack",
+      "tags": []
+    },
+    {
+      "id": "v0ucb3",
+      "title": "How to sequence your own DNA at home",
+      "description": "Score: 211 | Comments: 74 | Posted by bilsbie",
+      "url": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
+      "publishedAt": "2026-07-07T00:14:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bilsbie",
+      "tags": []
+    }
+  ]
+}
