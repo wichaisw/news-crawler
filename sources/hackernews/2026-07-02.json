@@ -366,6 +366,28 @@
       "tags": []
     },
     {
+      "id": "cqkw1j",
+      "title": "The difference between \"today's task\" and \"accretive work\"",
+      "description": "Score: 38 | Comments: 22 | Posted by hn_acker",
+      "url": "https://pluralistic.net/2026/07/02/canonization/",
+      "publishedAt": "2026-07-02T14:07:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hn_acker",
+      "tags": []
+    },
+    {
+      "id": "dvpl7d",
+      "title": "Pure-Python symbolic regression that rediscovered Kepler's law from 8 data point",
+      "description": "Score: 37 | Comments: 11 | Posted by sade_95",
+      "url": "https://github.com/ariel95500-create/gp-elite",
+      "publishedAt": "2026-07-02T14:02:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sade_95",
+      "tags": []
+    },
+    {
       "id": "mraldc",
       "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
       "description": "Score: 376 | Comments: 196 | Posted by mushstory",
@@ -539,6 +561,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "unliftedq",
+      "tags": []
+    },
+    {
+      "id": "rlil58",
+      "title": "Herdr: One terminal to rule them all",
+      "description": "Score: 267 | Comments: 117 | Posted by handfuloflight",
+      "url": "https://herdr.dev/",
+      "publishedAt": "2026-07-02T04:28:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "handfuloflight",
       "tags": []
     },
     {

@@ -1,0 +1,72 @@
+{
+  "date": "2026-07-08",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "151093 at https://www.blognone.com",
+      "title": "OpenAI จะเปิดให้เข้าถึงโมเดลรุ่นใหม่ GPT-5.6 ตั้งแต่วันพฤหัสบดีนี้ หลังรัฐบาลสหรัฐอนุมัติการใช้งานทั่วไป",
+      "description": "OpenAI จะเปิดให้เข้าถึงโมเดลรุ่นใหม่ GPT-5.6 ตั้งแต่วันพฤหัสบดีนี้ หลังรัฐบาลสหรัฐอนุมัติการใช้งานทั่วไป Body ข่าวสารสั้น ๆ จาก OpenAI",
+      "url": "https://www.blognone.com/node/151093",
+      "publishedAt": "2026-07-08T05:20:58.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151092 at https://www.blognone.com",
+      "title": "[ลือ] ไมโครซอฟท์เริ่มใช้โมเดล MAI ของตัวเองแทน OpenAI และ Anthropic บางส่วน",
+      "description": "[ลือ] ไมโครซอฟท์เริ่มใช้โมเดล MAI ของตัวเองแทน OpenAI และ Anthropic บางส่วน Body Bloomberg รายงานข่าวว่า ไมโครซอฟท์เตรียมนำโมเดลตระกูล MAI",
+      "url": "https://www.blognone.com/node/151092",
+      "publishedAt": "2026-07-08T03:50:36.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151091 at https://www.blognone.com",
+      "title": "กูเกิลจัดงานเปิดตัว Pixel 11 วันที่ 12 สิงหาคม",
+      "description": "กูเกิลจัดงานเปิดตัว Pixel 11 วันที่ 12 สิงหาคม Body กูเกิลส่งหมายเชิญสื่อร่วมงาน Made by Google 2026 วันที่ 12 สิงหาคม ที่นครนิวยอร์ก",
+      "url": "https://www.blognone.com/node/151091",
+      "publishedAt": "2026-07-08T03:38:34.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151090 at https://www.blognone.com",
+      "title": "ซัมซุงจัดงาน Galaxy Unpacked 22 ก.ค. เตรียมเปิดตัว Galaxy Z Fold 8 สัดส่วนเครื่องแบบใหม่",
+      "description": "ซัมซุงจัดงาน Galaxy Unpacked 22 ก.ค. เตรียมเปิดตัว Galaxy Z Fold 8 สัดส่วนเครื่องแบบใหม่ Body ซัมซุงประกาศจัดงาน Galaxy Unpacked",
+      "url": "https://www.blognone.com/node/151090",
+      "publishedAt": "2026-07-08T02:27:46.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151089 at https://www.blognone.com",
+      "title": "Claude Fable 5 ขยายเวลาใช้งานได้ตามโควต้าแบบไม่ต้องจ่ายเงินเพิ่ม ถึง 12 กรกฎาคมนี้",
+      "description": "Claude Fable 5 ขยายเวลาใช้งานได้ตามโควต้าแบบไม่ต้องจ่ายเงินเพิ่ม ถึง 12 กรกฎาคมนี้ Body นอกจากประกาศ Claude Cowork บนสมาร์ทโฟน แล้ว Anthropic",
+      "url": "https://www.blognone.com/node/151089",
+      "publishedAt": "2026-07-08T01:04:22.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151088 at https://www.blognone.com",
+      "title": "Claude Cowork รองรับการทำงานผ่านแอปและเว็บไซต์แล้ว สามารถทำงานได้ต่อเนื่องแม้ไม่อยู่หน้าคอม",
+      "description": "Claude Cowork รองรับการทำงานผ่านแอปและเว็บไซต์แล้ว สามารถทำงานได้ต่อเนื่องแม้ไม่อยู่หน้าคอม Body Anthropic ประกาศว่าความสามารถผู้ช่วย AI Claude",
+      "url": "https://www.blognone.com/node/151088",
+      "publishedAt": "2026-07-08T00:57:15.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}
