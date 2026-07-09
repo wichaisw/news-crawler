@@ -3,6 +3,61 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "151102 at https://www.blognone.com",
+      "title": "TypeScript 7 ออกตัวจริงเร็วขึ้นเกือบสิบเท่า ยังทำงานร่วมกับโค้ดเดิมได้",
+      "description": "TypeScript 7 ออกตัวจริงเร็วขึ้นเกือบสิบเท่า ยังทำงานร่วมกับโค้ดเดิมได้ Body TypeScript ประกาศออกเวอร์ชัน 7.0 อย่างเป็นทางการ ความเปลี่ยนแปลงสำคัญคือ",
+      "url": "https://www.blognone.com/node/151102",
+      "publishedAt": "2026-07-08T18:37:49.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151101 at https://www.blognone.com",
+      "title": "นินเทนโดประกาศหยุดบริการเกมมือถือ Mario Kart Tour ที่เปิดตัวปี 2019",
+      "description": "นินเทนโดประกาศหยุดบริการเกมมือถือ Mario Kart Tour ที่เปิดตัวปี 2019 Body นินเทนโดประกาศหยุดให้บริการ เกมมือถือ Mario Kart Tour ที่เปิดมาตั้งแต่ปี",
+      "url": "https://www.blognone.com/node/151101",
+      "publishedAt": "2026-07-08T15:28:40.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151100 at https://www.blognone.com",
+      "title": "[ลือ] รัฐบาลจีนเรียกประชุมบริษัท AI ระดับท็อป เตรียมไม่ปล่อยโมเดลขั้นสูงให้นอกประเทศใช้",
+      "description": "[ลือ] รัฐบาลจีนเรียกประชุมบริษัท AI ระดับท็อป เตรียมไม่ปล่อยโมเดลขั้นสูงให้นอกประเทศใช้ Body Reuters รายงานข่าวว่า รัฐบาลจีนนำโดยกระทรวงพาณิชย์จีน",
+      "url": "https://www.blognone.com/node/151100",
+      "publishedAt": "2026-07-08T15:17:21.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151099 at https://www.blognone.com",
+      "title": "[ไม่ยืนยัน] ข้อมูลภายใน Netflix พบ คนไม่ชอบดูซีรีส์ยอดนิยมต่อในซีซันที่ 2 และแนวโน้มหนักขึ้น",
+      "description": "[ไม่ยืนยัน] ข้อมูลภายใน Netflix พบ คนไม่ชอบดูซีรีส์ยอดนิยมต่อในซีซันที่ 2 และแนวโน้มหนักขึ้น Body Bloomberg อ้างข้อมูลรายงานภายใน Netflix",
+      "url": "https://www.blognone.com/node/151099",
+      "publishedAt": "2026-07-08T12:57:59.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151098 at https://www.blognone.com",
+      "title": "[Counterpoint] ตลาด Smartwatch ที่เป็น Edge AI เติบโตถึง 70% - Apple Watch ครองส่วนแบ่งถึง 90%",
+      "description": "[Counterpoint] ตลาด Smartwatch ที่เป็น Edge AI เติบโตถึง 70% - Apple Watch ครองส่วนแบ่งถึง 90% Body บริษัทวิจัยตลาด Counterpoint Research",
+      "url": "https://www.blognone.com/node/151098",
+      "publishedAt": "2026-07-08T12:27:57.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "151093 at https://www.blognone.com",
       "title": "OpenAI จะเปิดให้เข้าถึงโมเดลรุ่นใหม่ GPT-5.6 ตั้งแต่วันพฤหัสบดีนี้ หลังรัฐบาลสหรัฐอนุมัติการใช้งานทั่วไป",
       "description": "OpenAI จะเปิดให้เข้าถึงโมเดลรุ่นใหม่ GPT-5.6 ตั้งแต่วันพฤหัสบดีนี้ หลังรัฐบาลสหรัฐอนุมัติการใช้งานทั่วไป Body ข่าวสารสั้น ๆ จาก OpenAI",

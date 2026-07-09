@@ -300,6 +300,17 @@
       "tags": []
     },
     {
+      "id": "m6pxn1",
+      "title": "I Built a Telegram Client for Pi",
+      "description": "Score: 64 | Comments: 34 | Posted by atharva-again",
+      "url": "https://www.npmjs.com/package/@atharva-again/pi-tg",
+      "publishedAt": "2026-07-06T14:06:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "atharva-again",
+      "tags": []
+    },
+    {
       "id": "fqyweq",
       "title": "Aluminum foil (2021)",
       "description": "Score: 268 | Comments: 118 | Posted by firephox",
@@ -363,6 +374,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "abdelhousni",
+      "tags": []
+    },
+    {
+      "id": "96o36l",
+      "title": "Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI",
+      "description": "Score: 93 | Comments: 28 | Posted by nateb2022",
+      "url": "https://nexte.st/",
+      "publishedAt": "2026-07-06T04:19:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nateb2022",
       "tags": []
     },
     {

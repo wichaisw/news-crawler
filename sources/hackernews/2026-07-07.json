@@ -223,6 +223,17 @@
       "tags": []
     },
     {
+      "id": "4s825m",
+      "title": "Show HN: Yamanote.fun – A complete soundscape for Tokyo's Yamanote line",
+      "description": "Score: 171 | Comments: 35 | Posted by madebymagnolia",
+      "url": "https://www.yamanote.fun/",
+      "publishedAt": "2026-07-07T12:47:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "madebymagnolia",
+      "tags": []
+    },
+    {
       "id": "iiblvj",
       "title": "98% isn't much",
       "description": "Score: 494 | Comments: 324 | Posted by speckx",
@@ -253,6 +264,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "kls0e",
+      "tags": []
+    },
+    {
+      "id": "sis7bb",
+      "title": "Show HN: Frugon – Find which LLM calls a cheaper model could handle (local, MIT)",
+      "description": "Score: 20 | Comments: 6 | Posted by jarodrh",
+      "url": "https://github.com/Rodiun/frugon",
+      "publishedAt": "2026-07-07T12:20:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jarodrh",
       "tags": []
     },
     {
@@ -300,6 +322,17 @@
       "tags": []
     },
     {
+      "id": "i7xb5h",
+      "title": "I Built the Only 2026 WWII Jeep",
+      "description": "Score: 35 | Comments: 9 | Posted by martey",
+      "url": "https://www.theautopian.com/i-bet-my-company-on-an-impossible-jeep-build-then-a-miracle-happened/",
+      "publishedAt": "2026-07-07T05:38:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "martey",
+      "tags": []
+    },
+    {
       "id": "o8eqej",
       "title": "The Art of Computer Programming by Donald E. Knuth",
       "description": "Score: 16 | Comments: 3 | Posted by archargelod",
@@ -319,6 +352,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jhack",
+      "tags": []
+    },
+    {
+      "id": "k5drvz",
+      "title": "Apache Shiro security framework releases 3.0.0",
+      "description": "Score: 33 | Comments: 3 | Posted by lprimak",
+      "url": "https://shiro.apache.org/blog/2026/06/apache-shiro-300-released.html",
+      "publishedAt": "2026-07-07T01:40:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lprimak",
       "tags": []
     },
     {

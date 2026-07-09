@@ -1,0 +1,116 @@
+{
+  "date": "2026-07-09",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "buosld",
+      "title": "Why developers are ditching GitHub for Codeberg and self-hosting alternatives",
+      "description": "Score: 65 | Comments: 40 | Posted by Gedxx",
+      "url": "https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/",
+      "publishedAt": "2026-07-09T08:22:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Gedxx",
+      "tags": []
+    },
+    {
+      "id": "nywp9k",
+      "title": "EU's five regulations that will change how we live, drive, and use the internet",
+      "description": "Score: 6 | Comments: 1 | Posted by gasull",
+      "url": "https://twitter.com/dziki_zachod/status/2074795633442201804",
+      "publishedAt": "2026-07-09T08:16:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gasull",
+      "tags": []
+    },
+    {
+      "id": "xepimd",
+      "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+      "description": "Score: 127 | Comments: 165 | Posted by SweetSoftPillow",
+      "url": "https://github.com/malisper/pgrust",
+      "publishedAt": "2026-07-09T06:18:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "SweetSoftPillow",
+      "tags": []
+    },
+    {
+      "id": "edkl42",
+      "title": "How Donkey Kong Toppled Atari",
+      "description": "Score: 17 | Comments: 3 | Posted by giuliomagnifico",
+      "url": "https://dfarq.homeip.net/how-donkey-kong-toppled-atari/",
+      "publishedAt": "2026-07-09T05:34:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "giuliomagnifico",
+      "tags": []
+    },
+    {
+      "id": "pbmm28",
+      "title": "Spider venom kills varroa mites without harming honeybees",
+      "description": "Score: 113 | Comments: 47 | Posted by Jedd",
+      "url": "https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming",
+      "publishedAt": "2026-07-09T05:14:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Jedd",
+      "tags": []
+    },
+    {
+      "id": "qotuj9",
+      "title": "Ergo: Long Form Philosophy Lectures",
+      "description": "Score: 16 | Comments: 7 | Posted by agnishom",
+      "url": "https://ergo.org/",
+      "publishedAt": "2026-07-09T03:08:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "agnishom",
+      "tags": []
+    },
+    {
+      "id": "w27p2o",
+      "title": "I think I have LLM burnout",
+      "description": "Score: 334 | Comments: 273 | Posted by sosodev",
+      "url": "https://www.alecscollon.com/blog/llm-burnout/",
+      "publishedAt": "2026-07-09T01:56:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sosodev",
+      "tags": []
+    },
+    {
+      "id": "8ipuqj",
+      "title": "A software engineering interview question I like: computing the median",
+      "description": "Score: 60 | Comments: 76 | Posted by speckx",
+      "url": "https://krisshamloo.com/blog/007",
+      "publishedAt": "2026-07-09T00:38:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
+      "tags": []
+    },
+    {
+      "id": "m3y0sv",
+      "title": "Remote Attestation",
+      "description": "Score: 94 | Comments: 80 | Posted by lcvw",
+      "url": "https://www.liamcvw.com/p/remote-attestation",
+      "publishedAt": "2026-07-09T00:32:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lcvw",
+      "tags": []
+    },
+    {
+      "id": "z6bvw3",
+      "title": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
+      "description": "Score: 77 | Comments: 13 | Posted by ethanlipson",
+      "url": "https://mira-wm.com/",
+      "publishedAt": "2026-07-09T00:27:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ethanlipson",
+      "tags": []
+    }
+  ]
+}

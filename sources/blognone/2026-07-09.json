@@ -1,0 +1,28 @@
+{
+  "date": "2026-07-09",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "151106 at https://www.blognone.com",
+      "title": "xAI เปิดตัว Grok 4.5 ระบุความฉลาดใกล้เคียง Opus แต่ถูกกว่า Sonnet",
+      "description": "xAI เปิดตัว Grok 4.5 ระบุความฉลาดใกล้เคียง Opus แต่ถูกกว่า Sonnet Body xAI เปิดตัวโมเดลปัญญาประดิษฐ์ Grok 4.5",
+      "url": "https://www.blognone.com/node/151106",
+      "publishedAt": "2026-07-09T07:04:02.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151105 at https://www.blognone.com",
+      "title": "Cloudflare เปิดบริการ Drop สร้างเว็บชั่วคราวที่หายไปในหนึ่งชั่วโมง",
+      "description": "Cloudflare เปิดบริการ Drop สร้างเว็บชั่วคราวที่หายไปในหนึ่งชั่วโมง Body Cloudflare เปิดบริการ Cloudflare Drop",
+      "url": "https://www.blognone.com/node/151105",
+      "publishedAt": "2026-07-09T01:23:50.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}
