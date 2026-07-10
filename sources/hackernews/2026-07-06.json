@@ -124,6 +124,17 @@
       "tags": []
     },
     {
+      "id": "65obzy",
+      "title": "Common prefix skipping, adaptive sort",
+      "description": "Score: 23 | Comments: 1 | Posted by theanonymousone",
+      "url": "http://smalldatum.blogspot.com/2026/01/common-prefix-skipping-adaptive-sort.html",
+      "publishedAt": "2026-07-06T20:40:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "theanonymousone",
+      "tags": []
+    },
+    {
       "id": "rlffc3",
       "title": "GLM 5.2 and the coming AI margin collapse",
       "description": "Score: 415 | Comments: 252 | Posted by martinald",
@@ -143,6 +154,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "caminanteblanco",
+      "tags": []
+    },
+    {
+      "id": "uz2d5w",
+      "title": "Girls just wanna have fast MPMC queues with bounded waiting",
+      "description": "Score: 170 | Comments: 34 | Posted by EvgeniyZh",
+      "url": "https://nahla.dev/blog/waitfree_queue/",
+      "publishedAt": "2026-07-06T19:46:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "EvgeniyZh",
       "tags": []
     },
     {
@@ -234,6 +256,17 @@
       "tags": []
     },
     {
+      "id": "27cmac",
+      "title": "Damaged Earth Catalog",
+      "description": "Score: 10 | Comments: 1 | Posted by Duanemclemore",
+      "url": "https://damaged.bleu255.com/",
+      "publishedAt": "2026-07-06T17:18:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Duanemclemore",
+      "tags": []
+    },
+    {
       "id": "jnnte0",
       "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
       "description": "Score: 180 | Comments: 54 | Posted by maxloh",
@@ -267,6 +300,17 @@
       "tags": []
     },
     {
+      "id": "gsxcau",
+      "title": "Life with Hazard Ratios",
+      "description": "Score: 42 | Comments: 17 | Posted by surprisetalk",
+      "url": "https://dynomight.net/hazard-ratios/",
+      "publishedAt": "2026-07-06T15:45:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
       "id": "emphrf",
       "title": "1k Words: A Writing Contest",
       "description": "Score: 89 | Comments: 37 | Posted by surprisetalk",
@@ -286,6 +330,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "LabsLucas",
+      "tags": []
+    },
+    {
+      "id": "tnhu5s",
+      "title": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
+      "description": "Score: 70 | Comments: 69 | Posted by tosh",
+      "url": "https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/",
+      "publishedAt": "2026-07-06T14:59:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tosh",
+      "tags": []
+    },
+    {
+      "id": "4pykfx",
+      "title": "Harman and Dr. Sean Olive are reshaping headphone sound (2025)",
+      "description": "Score: 16 | Comments: 7 | Posted by ledoge",
+      "url": "https://www.crutchfield.com/S-ls67Oiva4Wu/learn/crutchfield-visits-harman.html",
+      "publishedAt": "2026-07-06T14:42:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ledoge",
       "tags": []
     },
     {
@@ -311,6 +377,17 @@
       "tags": []
     },
     {
+      "id": "pgjot2",
+      "title": "Triple Dragon Fractal (2020)",
+      "description": "Score: 47 | Comments: 13 | Posted by nhatcher",
+      "url": "https://paulbourke.net/fractals/tripledragon/",
+      "publishedAt": "2026-07-06T13:36:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nhatcher",
+      "tags": []
+    },
+    {
       "id": "fqyweq",
       "title": "Aluminum foil (2021)",
       "description": "Score: 268 | Comments: 118 | Posted by firephox",
@@ -330,6 +407,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "optimalsolver",
+      "tags": []
+    },
+    {
+      "id": "xtacq2",
+      "title": "Buried Apple feature turns an iPhone into the perfect kids' dumb phone",
+      "description": "Score: 344 | Comments: 222 | Posted by PotatoNinja",
+      "url": "https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/",
+      "publishedAt": "2026-07-06T10:53:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "PotatoNinja",
       "tags": []
     },
     {
@@ -377,6 +465,17 @@
       "tags": []
     },
     {
+      "id": "iduc2l",
+      "title": "Patterncollider: Generate and explore quasiperiodic tiling patterns",
+      "description": "Score: 49 | Comments: 2 | Posted by tobr",
+      "url": "https://github.com/aatishb/patterncollider",
+      "publishedAt": "2026-07-06T05:26:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tobr",
+      "tags": []
+    },
+    {
       "id": "96o36l",
       "title": "Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI",
       "description": "Score: 93 | Comments: 28 | Posted by nateb2022",
@@ -396,6 +495,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "usrbinenv",
+      "tags": []
+    },
+    {
+      "id": "lybz99",
+      "title": "What is Bending Spoons? The little-known AOL and Vimeo owner that's now public",
+      "description": "Score: 74 | Comments: 103 | Posted by jack1689",
+      "url": "https://techcrunch.com/2026/07/05/what-is-bending-spoons-everything-to-know-about-aols-acquirer/",
+      "publishedAt": "2026-07-06T02:13:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jack1689",
       "tags": []
     },
     {

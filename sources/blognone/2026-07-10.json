@@ -1,0 +1,39 @@
+{
+  "date": "2026-07-10",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "151112 at https://www.blognone.com",
+      "title": "ผู้บริหาร X บอกเอง บัญชีที่ผู้ติดตามเยอะจำนวนมาก นำวิดีโอของคนอื่นมาลงเพิ่ม Engagement",
+      "description": "ผู้บริหาร X บอกเอง บัญชีที่ผู้ติดตามเยอะจำนวนมาก นำวิดีโอของคนอื่นมาลงเพิ่ม Engagement Body เรื่องมีอยู่ว่า X ได้ประกาศฟีเจอร์ใหม่ภายในแอป",
+      "url": "https://www.blognone.com/node/151112",
+      "publishedAt": "2026-07-10T04:38:00.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151117 at https://www.blognone.com",
+      "title": "นักพัฒนาสร้าง PostgreSQL ใหม่ด้วย Rust คาดเร่งความเร็วจนถึงระดับ Clickhouse",
+      "description": "นักพัฒนาสร้าง PostgreSQL ใหม่ด้วย Rust คาดเร่งความเร็วจนถึงระดับ Clickhouse Body Michael Malis ผู้ก่อตั้งสตาร์ตอัพ Freshpaint สร้างโครงการ pgrust",
+      "url": "https://www.blognone.com/node/151117",
+      "publishedAt": "2026-07-10T02:21:34.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151116 at https://www.blognone.com",
+      "title": "Fidji Simo ซีอีโอส่วนแอปพลิเคชันของ OpenAI ประกาศลาออกจากตำแหน่ง ด้วยเหตุผลด้านสุขภาพ",
+      "description": "Fidji Simo ซีอีโอส่วนแอปพลิเคชันของ OpenAI ประกาศลาออกจากตำแหน่ง ด้วยเหตุผลด้านสุขภาพ Body Fidji Simo ผู้บริหาร OpenAI",
+      "url": "https://www.blognone.com/node/151116",
+      "publishedAt": "2026-07-10T01:00:50.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}

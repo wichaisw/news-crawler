@@ -1,0 +1,72 @@
+{
+  "date": "2026-07-10",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "nyuplc",
+      "title": "AI-generated videos to maximally drive a target brain region",
+      "description": "Score: 48 | Comments: 47 | Posted by smusamashah",
+      "url": "https://nevo-project.epfl.ch/",
+      "publishedAt": "2026-07-10T07:39:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "smusamashah",
+      "tags": []
+    },
+    {
+      "id": "j0fvpu",
+      "title": "Ben Bernanke Joins Anthropic Oversight Trust",
+      "description": "Score: 64 | Comments: 63 | Posted by Jimmc414",
+      "url": "https://www.anthropic.com/news/ben-bernanke",
+      "publishedAt": "2026-07-10T02:39:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Jimmc414",
+      "tags": []
+    },
+    {
+      "id": "nstx0s",
+      "title": "Build your own vulnerability harness",
+      "description": "Score: 45 | Comments: 19 | Posted by ianrahman",
+      "url": "https://blog.cloudflare.com/build-your-own-vulnerability-harness/",
+      "publishedAt": "2026-07-10T01:28:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ianrahman",
+      "tags": []
+    },
+    {
+      "id": "fj5uts",
+      "title": "Star Just Ate a Planet, and It's Not Done Yet",
+      "description": "Score: 31 | Comments: 48 | Posted by wglb",
+      "url": "https://www.nytimes.com/2026/07/09/science/space/planetary-engulfment-hungry-star.html",
+      "publishedAt": "2026-07-10T01:20:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wglb",
+      "tags": []
+    },
+    {
+      "id": "ae0zz8",
+      "title": "Focus",
+      "description": "Score: 94 | Comments: 50 | Posted by iacguy",
+      "url": "https://boz.com/articles/focus",
+      "publishedAt": "2026-07-10T00:40:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "iacguy",
+      "tags": []
+    },
+    {
+      "id": "h02ll2",
+      "title": "Parental device use and the adolescent-caregiver attachment bond",
+      "description": "Score: 127 | Comments: 102 | Posted by hbcondo714",
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full",
+      "publishedAt": "2026-07-10T00:20:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hbcondo714",
+      "tags": []
+    }
+  ]
+}

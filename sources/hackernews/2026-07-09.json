@@ -3,6 +3,259 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "ynbb3b",
+      "title": "Why American ambulance rides are so expensive",
+      "description": "Score: 211 | Comments: 277 | Posted by jyunwai",
+      "url": "https://davidoks.blog/p/why-american-ambulance-rides-are",
+      "publishedAt": "2026-07-09T22:15:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jyunwai",
+      "tags": []
+    },
+    {
+      "id": "557j73",
+      "title": "Show HN: Rubiks Cube Solver",
+      "description": "Score: 20 | Comments: 8 | Posted by wozzp",
+      "url": "https://speedcube.com.br/",
+      "publishedAt": "2026-07-09T21:09:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wozzp",
+      "tags": []
+    },
+    {
+      "id": "nbyxbs",
+      "title": "Building a real-time AI tutor for 5-year-olds",
+      "description": "Score: 88 | Comments: 150 | Posted by catalinvoss",
+      "url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
+      "publishedAt": "2026-07-09T20:51:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "catalinvoss",
+      "tags": []
+    },
+    {
+      "id": "ggcrs6",
+      "title": "GLM 5.2 is nearly as accurate as a human book keeper",
+      "description": "Score: 202 | Comments: 115 | Posted by adamkurkiewicz",
+      "url": "https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark",
+      "publishedAt": "2026-07-09T18:29:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "adamkurkiewicz",
+      "tags": []
+    },
+    {
+      "id": "co0v9x",
+      "title": "GPT-5.6openai.com",
+      "description": "Score: 1258 | Comments: 901 | Posted by logickkk1",
+      "url": "https://openai.com/index/gpt-5-6/",
+      "publishedAt": "2026-07-09T17:38:23.508Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "logickkk1",
+      "tags": []
+    },
+    {
+      "id": "jeoqme",
+      "title": "Interview with Mitchell Hashimoto about Ghostty and Zig",
+      "description": "Score: 243 | Comments: 110 | Posted by veqq",
+      "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
+      "publishedAt": "2026-07-09T17:17:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "veqq",
+      "tags": []
+    },
+    {
+      "id": "co0v9x",
+      "title": "GPT-5.6",
+      "description": "Score: 1257 | Comments: 901 | Posted by logickkk1",
+      "url": "https://openai.com/index/gpt-5-6/",
+      "publishedAt": "2026-07-09T17:04:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "logickkk1",
+      "tags": []
+    },
+    {
+      "id": "iydlg0",
+      "title": "ChatGPT Work",
+      "description": "Score: 335 | Comments: 173 | Posted by Tiberium",
+      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
+      "publishedAt": "2026-07-09T17:03:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Tiberium",
+      "tags": []
+    },
+    {
+      "id": "rc5yk6",
+      "title": "AI content is everywhere on social media, especially LinkedIn",
+      "description": "Score: 217 | Comments: 195 | Posted by mukmuk",
+      "url": "https://www.pangram.com/blog/ai-in-your-feed",
+      "publishedAt": "2026-07-09T15:50:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mukmuk",
+      "tags": []
+    },
+    {
+      "id": "k0jaa8",
+      "title": "Launch HN: Context.dev (YC S26) – API to get structured data from any website",
+      "description": "Score: 96 | Comments: 67 | Posted by TheYahiaBakour",
+      "url": "https://www.context.dev",
+      "publishedAt": "2026-07-09T15:28:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "TheYahiaBakour",
+      "tags": []
+    },
+    {
+      "id": "3cqlzh",
+      "title": "Hy3",
+      "description": "Score: 475 | Comments: 95 | Posted by andai",
+      "url": "https://hy.tencent.com/research/hy3",
+      "publishedAt": "2026-07-09T15:27:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andai",
+      "tags": []
+    },
+    {
+      "id": "8e4u4k",
+      "title": "A possible future for Damn Interesting",
+      "description": "Score: 281 | Comments: 37 | Posted by mzur",
+      "url": "https://www.damninteresting.com/a-possible-future/",
+      "publishedAt": "2026-07-09T15:25:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mzur",
+      "tags": []
+    },
+    {
+      "id": "t8z5oj",
+      "title": "Opinionated and easy Pi.dev configuration",
+      "description": "Score: 131 | Comments: 69 | Posted by lwhsiao",
+      "url": "https://lazypi.org/",
+      "publishedAt": "2026-07-09T15:19:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lwhsiao",
+      "tags": []
+    },
+    {
+      "id": "1l1tt2",
+      "title": "TLS certificates for internal services done right",
+      "description": "Score: 152 | Comments: 109 | Posted by mrl5",
+      "url": "https://tuxnet.dev/posts/tls-for-internal-services/",
+      "publishedAt": "2026-07-09T14:57:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mrl5",
+      "tags": []
+    },
+    {
+      "id": "3cppss",
+      "title": "DeepSeek aims to make its own AI chip",
+      "description": "Score: 57 | Comments: 7 | Posted by FinnLobsien",
+      "url": "https://www.proactiveinvestors.com/companies/news/1095178/deepseek-makes-pivot-that-should-put-silicon-valley-on-high-alert-1095178.html",
+      "publishedAt": "2026-07-09T14:42:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "FinnLobsien",
+      "tags": []
+    },
+    {
+      "id": "imrogw",
+      "title": "Show HN: Analog Watch",
+      "description": "Score: 92 | Comments: 88 | Posted by ezekg",
+      "url": "https://analog.watch",
+      "publishedAt": "2026-07-09T14:30:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ezekg",
+      "tags": []
+    },
+    {
+      "id": "ff8nkf",
+      "title": "SimPolitics: America’s quest to solve politics with computers",
+      "description": "Score: 92 | Comments: 30 | Posted by mckelveyf",
+      "url": "https://mitpress.mit.edu/9780262053198/simpolitics/",
+      "publishedAt": "2026-07-09T14:20:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mckelveyf",
+      "tags": []
+    },
+    {
+      "id": "frvvp3",
+      "title": "No leap second will be introduced at the end of December 2026",
+      "description": "Score: 278 | Comments: 218 | Posted by ChrisArchitect",
+      "url": "https://datacenter.iers.org/data/latestVersion/bulletinC.txt",
+      "publishedAt": "2026-07-09T14:16:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ChrisArchitect",
+      "tags": []
+    },
+    {
+      "id": "lwa8lg",
+      "title": "Muse Spark 1.1",
+      "description": "Score: 373 | Comments: 188 | Posted by ot",
+      "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
+      "publishedAt": "2026-07-09T14:10:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ot",
+      "tags": []
+    },
+    {
+      "id": "arr7vn",
+      "title": "The glass backbone: Why the Army's logistics will break in the next war",
+      "description": "Score: 373 | Comments: 459 | Posted by baud147258",
+      "url": "https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/",
+      "publishedAt": "2026-07-09T13:24:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "baud147258",
+      "tags": []
+    },
+    {
+      "id": "5nnay4",
+      "title": "A road to Lisp: Why Lisp",
+      "description": "Score: 228 | Comments: 176 | Posted by silcoon",
+      "url": "https://scotto.me/blog/2026-07-09-why-lisp/",
+      "publishedAt": "2026-07-09T13:06:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "silcoon",
+      "tags": []
+    },
+    {
+      "id": "d5blwp",
+      "title": "Show HN: 18 Words",
+      "description": "Score: 991 | Comments: 317 | Posted by pompomsheep",
+      "url": "https://18words.com/",
+      "publishedAt": "2026-07-09T12:48:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pompomsheep",
+      "tags": []
+    },
+    {
+      "id": "ouy5ii",
+      "title": "EU Parliament greenlights Chat Control 1.0",
+      "description": "Score: 1377 | Comments: 654 | Posted by rapnie",
+      "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
+      "publishedAt": "2026-07-09T11:03:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rapnie",
+      "tags": []
+    },
+    {
       "id": "buosld",
       "title": "Why developers are ditching GitHub for Codeberg and self-hosting alternatives",
       "description": "Score: 65 | Comments: 40 | Posted by Gedxx",
@@ -22,6 +275,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "gasull",
+      "tags": []
+    },
+    {
+      "id": "8whc2e",
+      "title": "Show HN: Getting GLM 5.2 running on my slow computer",
+      "description": "Score: 668 | Comments: 155 | Posted by vforno",
+      "url": "https://github.com/JustVugg/colibri",
+      "publishedAt": "2026-07-09T08:05:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vforno",
       "tags": []
     },
     {
@@ -58,6 +322,17 @@
       "tags": []
     },
     {
+      "id": "31km2g",
+      "title": "What's slowing down the AI buildout",
+      "description": "Score: 73 | Comments: 166 | Posted by droidjj",
+      "url": "https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid",
+      "publishedAt": "2026-07-09T03:26:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "droidjj",
+      "tags": []
+    },
+    {
       "id": "qotuj9",
       "title": "Ergo: Long Form Philosophy Lectures",
       "description": "Score: 16 | Comments: 7 | Posted by agnishom",
@@ -66,6 +341,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "agnishom",
+      "tags": []
+    },
+    {
+      "id": "32vkxu",
+      "title": "Show HN: I mapped 8.5M research papers into an interactive atlas",
+      "description": "Score: 73 | Comments: 22 | Posted by leonickson",
+      "url": "https://tomesphere.com/atlas",
+      "publishedAt": "2026-07-09T02:23:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "leonickson",
       "tags": []
     },
     {

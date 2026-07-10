@@ -355,6 +355,17 @@
       "tags": []
     },
     {
+      "id": "657ske",
+      "title": "Cache-Conscious Data Layout in Rust: Field Zoning, False Sharing, 128-Byte Rule",
+      "description": "Score: 29 | Comments: 18 | Posted by eigenBasis",
+      "url": "https://debasishg.github.io/blog/part1-cache-conscious-data-layout-in-rust/",
+      "publishedAt": "2026-07-07T03:01:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "eigenBasis",
+      "tags": []
+    },
+    {
       "id": "k5drvz",
       "title": "Apache Shiro security framework releases 3.0.0",
       "description": "Score: 33 | Comments: 3 | Posted by lprimak",
