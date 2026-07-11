@@ -1,0 +1,28 @@
+{
+  "date": "2026-07-11",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "4jwvdk",
+      "title": "What's the best way to do authentication in modern applications",
+      "description": "Score: 30 | Comments: 8 | Posted by freediver",
+      "url": "https://neciudan.dev/most-secure-way-to-store-auth-token",
+      "publishedAt": "2026-07-11T06:09:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "freediver",
+      "tags": []
+    },
+    {
+      "id": "5mpgmy",
+      "title": "The vintage beauty of Soviet control rooms (2018)",
+      "description": "Score: 50 | Comments: 17 | Posted by mvdtnz",
+      "url": "https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/",
+      "publishedAt": "2026-07-11T05:19:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mvdtnz",
+      "tags": []
+    }
+  ]
+}

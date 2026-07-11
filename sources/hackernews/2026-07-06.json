@@ -102,6 +102,17 @@
       "tags": []
     },
     {
+      "id": "anmavn",
+      "title": "Alternate clock designs and time systems",
+      "description": "Score: 134 | Comments: 72 | Posted by ethanpil",
+      "url": "https://serialc.github.io/altClocks/",
+      "publishedAt": "2026-07-06T21:09:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ethanpil",
+      "tags": []
+    },
+    {
       "id": "8zv9xt",
       "title": "Taiganet.com, Home of the WS4000 Simulator",
       "description": "Score: 23 | Comments: 3 | Posted by Aloha",
@@ -355,6 +366,17 @@
       "tags": []
     },
     {
+      "id": "d3fj2x",
+      "title": "Ditching Vagrant: VMs with KVM and Virsh on Debian",
+      "description": "Score: 91 | Comments: 42 | Posted by fanf2",
+      "url": "https://benjamintoll.com/2026/06/29/on-ditching-vagrant/",
+      "publishedAt": "2026-07-06T14:42:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fanf2",
+      "tags": []
+    },
+    {
       "id": "i91yfc",
       "title": "Resetting Xbox",
       "description": "Score: 620 | Comments: 670 | Posted by dijksterhuis",
@@ -407,6 +429,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "optimalsolver",
+      "tags": []
+    },
+    {
+      "id": "gew3fp",
+      "title": "Lost city discovered beneath Egypt's desert with ancient church",
+      "description": "Score: 172 | Comments: 104 | Posted by Bender",
+      "url": "https://www.dailymail.com/sciencetech/article-15956159/Incredible-lost-city-discovered-Egypts-desert.html",
+      "publishedAt": "2026-07-06T12:32:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Bender",
       "tags": []
     },
     {

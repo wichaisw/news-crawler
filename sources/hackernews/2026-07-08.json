@@ -234,6 +234,17 @@
       "tags": []
     },
     {
+      "id": "de70cr",
+      "title": "Preemption is GC for memory reordering (2019)",
+      "description": "Score: 26 | Comments: 6 | Posted by mpweiher",
+      "url": "https://pvk.ca/Blog/2019/01/09/preemption-is-gc-for-memory-reordering/",
+      "publishedAt": "2026-07-08T13:38:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mpweiher",
+      "tags": []
+    },
+    {
       "id": "8l58a",
       "title": "OpenBSD has a use-after-free allowing local privilege escalation to root",
       "description": "Score: 267 | Comments: 140 | Posted by linggen",
@@ -308,6 +319,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ColinEberhardt",
+      "tags": []
+    },
+    {
+      "id": "akbkkx",
+      "title": "The Lindy effect in software",
+      "description": "Score: 13 | Comments: 10 | Posted by ankitg12",
+      "url": "https://www.clemsau.com/posts/the-lindy-effect-in-software/",
+      "publishedAt": "2026-07-08T05:20:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ankitg12",
       "tags": []
     },
     {
