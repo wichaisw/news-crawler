@@ -267,6 +267,50 @@
       "tags": []
     },
     {
+      "id": "ya2724",
+      "title": "Text art tools",
+      "description": "Score: 27 | Comments: 9 | Posted by surprisetalk",
+      "url": "https://hlnet.notion.site/text-art-tools",
+      "publishedAt": "2026-07-08T13:00:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
+      "id": "rovxvb",
+      "title": "Optimization Solver as a Service",
+      "description": "Score: 34 | Comments: 27 | Posted by paddi91",
+      "url": "https://www.quicopt.com/developer/getting-started/",
+      "publishedAt": "2026-07-08T11:44:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "paddi91",
+      "tags": []
+    },
+    {
+      "id": "7vx2of",
+      "title": "Otary – Image and Geometry Python Library Now Has Tutorials",
+      "description": "Score: 92 | Comments: 2 | Posted by poupeaua",
+      "url": "https://alexandrepoupeau.com/otary/learn/",
+      "publishedAt": "2026-07-08T11:30:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "poupeaua",
+      "tags": []
+    },
+    {
+      "id": "l252wo",
+      "title": "Digital Deli, 1984 book by early PC hackers and enthusiasts",
+      "description": "Score: 65 | Comments: 7 | Posted by achairapart",
+      "url": "https://www.atariarchives.org/deli/",
+      "publishedAt": "2026-07-08T10:35:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "achairapart",
+      "tags": []
+    },
+    {
       "id": "zgkvl2",
       "title": "Unicode's transliteration rules are Turing-complete",
       "description": "Score: 100 | Comments: 28 | Posted by beefburger",
@@ -363,6 +407,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "whiteblossom",
+      "tags": []
+    },
+    {
+      "id": "4ckj61",
+      "title": "Protobuf-py: Protobuf for Python, without compromises",
+      "description": "Score: 17 | Comments: 1 | Posted by ming13",
+      "url": "https://buf.build/blog/protobuf-py",
+      "publishedAt": "2026-07-08T03:16:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ming13",
       "tags": []
     },
     {

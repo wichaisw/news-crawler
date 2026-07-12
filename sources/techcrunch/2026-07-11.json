@@ -3,6 +3,39 @@
   "source": "techcrunch",
   "articles": [
     {
+      "id": "https://techcrunch.com/?p=3141102",
+      "title": "This slushie machine was a lifesaver during NYC’s heat wave",
+      "description": "Last weekend's brutal NYC heat wave had me craving a frozen drink almost every afternoon. Normally, that would mean sweating through a walk to",
+      "url": "https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/",
+      "publishedAt": "2026-07-11T22:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lauren Forristal",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3140951",
+      "title": "Smart glasses without a camera? Even Realities bets productivity beats recording everyone",
+      "description": "The glasses are targeted at people who might be constantly in meetings, giving presentations, and traveling to countries where different languages",
+      "url": "https://techcrunch.com/2026/07/11/smart-glasses-without-a-camera-even-realities-bets-productivity-beats-recording-everyone/",
+      "publishedAt": "2026-07-11T17:30:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Ivan Mehta",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3141184",
+      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+      "description": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
+      "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "publishedAt": "2026-07-11T14:13:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Jagmeet Singh",
+      "tags": []
+    },
+    {
       "id": "https://techcrunch.com/?p=3141180",
       "title": "US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals",
       "description": "Independent cybersecurity journalist Brian Krebs reported in May that a security researcher with cyber firm GitGuardian alerted him to reams of",

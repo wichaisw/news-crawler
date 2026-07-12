@@ -47,6 +47,17 @@
       "tags": []
     },
     {
+      "id": "9vd4nu",
+      "title": "An agent in 100 lines of Lisp",
+      "description": "Score: 128 | Comments: 14 | Posted by jamiebeach",
+      "url": "https://thebeach.dev/posts/lisp-agent/",
+      "publishedAt": "2026-07-07T21:21:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jamiebeach",
+      "tags": []
+    },
+    {
       "id": "2u6op4",
       "title": "Every new car sold in the European Union must include a driver monitoring camera",
       "description": "Score: 606 | Comments: 766 | Posted by nickslaughter02",
@@ -55,6 +66,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "nickslaughter02",
+      "tags": []
+    },
+    {
+      "id": "uojgs5",
+      "title": "Amber the programming language compiled to Bash/Ksh/Zsh",
+      "description": "Score: 71 | Comments: 57 | Posted by _superposition_",
+      "url": "https://amber-lang.com/",
+      "publishedAt": "2026-07-07T19:22:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "_superposition_",
       "tags": []
     },
     {
@@ -121,6 +143,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "minimaxir",
+      "tags": []
+    },
+    {
+      "id": "jp0tue",
+      "title": "Biff.graph: structure your Clojure codebase as a queryable graph",
+      "description": "Score: 127 | Comments: 15 | Posted by jacobobryant",
+      "url": "https://github.com/jacobobryant/biff/tree/v2.x/libs/graph",
+      "publishedAt": "2026-07-07T16:48:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jacobobryant",
       "tags": []
     },
     {
