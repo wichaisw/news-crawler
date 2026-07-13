@@ -14,6 +14,17 @@
       "tags": []
     },
     {
+      "id": "eoy0hr",
+      "title": "Calculix: A Free Software Three-Dimensional Structural Finite Element Program",
+      "description": "Score: 17 | Comments: 3 | Posted by joebig",
+      "url": "https://www.calculix.de/",
+      "publishedAt": "2026-07-09T21:39:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "joebig",
+      "tags": []
+    },
+    {
       "id": "557j73",
       "title": "Show HN: Rubiks Cube Solver",
       "description": "Score: 20 | Comments: 8 | Posted by wozzp",
@@ -47,6 +58,17 @@
       "tags": []
     },
     {
+      "id": "nxyboa",
+      "title": "The four horsemen behind Postgres outages",
+      "description": "Score: 37 | Comments: 12 | Posted by craigkerstiens",
+      "url": "https://malisper.me/the-four-horsemen-behind-thousands-of-postgres-outages/",
+      "publishedAt": "2026-07-09T19:20:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "craigkerstiens",
+      "tags": []
+    },
+    {
       "id": "ggcrs6",
       "title": "GLM 5.2 is nearly as accurate as a human book keeper",
       "description": "Score: 202 | Comments: 115 | Posted by adamkurkiewicz",
@@ -55,6 +77,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "adamkurkiewicz",
+      "tags": []
+    },
+    {
+      "id": "dcuyd0",
+      "title": "Are you telling me a readonly property is wrecking my performance?",
+      "description": "Score: 34 | Comments: 16 | Posted by forthwall",
+      "url": "https://shub.club/writings/2026/july/check-your-scrollheight/",
+      "publishedAt": "2026-07-09T17:59:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "forthwall",
       "tags": []
     },
     {
@@ -267,6 +300,17 @@
       "tags": []
     },
     {
+      "id": "f7223c",
+      "title": "Tracking unique visitors without cookies",
+      "description": "Score: 8 | Comments: 14 | Posted by jamie_davenport",
+      "url": "https://inmargin.io/blog/tracking-unique-visitors-without-cookies",
+      "publishedAt": "2026-07-09T13:09:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jamie_davenport",
+      "tags": []
+    },
+    {
       "id": "5nnay4",
       "title": "A road to Lisp: Why Lisp",
       "description": "Score: 228 | Comments: 176 | Posted by silcoon",
@@ -289,6 +333,17 @@
       "tags": []
     },
     {
+      "id": "k0k0hx",
+      "title": "Converting colors in JavaScript at 6B operations per second",
+      "description": "Score: 25 | Comments: 4 | Posted by dkryaklin",
+      "url": "https://dkryaklin.com/blog/colordx-gpu",
+      "publishedAt": "2026-07-09T12:04:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dkryaklin",
+      "tags": []
+    },
+    {
       "id": "xpkg5u",
       "title": "Show HN: Wyrm – Solve algebra by touch, built on an open-source soundness engine",
       "description": "Score: 73 | Comments: 13 | Posted by dicroce",
@@ -308,6 +363,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "rapnie",
+      "tags": []
+    },
+    {
+      "id": "ezned8",
+      "title": "Frieve Vinyl Explained – Microscopic stylus/groove physics simulation",
+      "description": "Score: 10 | Comments: 1 | Posted by XzetaU8",
+      "url": "https://frieve-a.github.io/sound_toolbox/vinyl_explained/vinyl_explained.html",
+      "publishedAt": "2026-07-09T10:45:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "XzetaU8",
       "tags": []
     },
     {

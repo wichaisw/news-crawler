@@ -1,0 +1,30 @@
+{
+  "date": "2026-07-13",
+  "source": "theverge",
+  "articles": [
+    {
+      "id": "bcpjoj",
+      "title": "Social media limits are coming for teens across Europe",
+      "description": "The European Union is weighing sweeping new restrictions on children's and teenagers' access to social media, including age limits, an outright ban, and phased access. Social media platforms could also be forced to prove their services are not harmful before young people are allowed to use them. European Commission President Ursula von der Leyen said [&#8230;]",
+      "url": "https://www.theverge.com/tech/964565/eu-children-social-media-online-safety-rules",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK450_EU_E-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-07-13T09:22:52.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Robert Hart",
+      "tags": []
+    },
+    {
+      "id": "aw551p",
+      "title": "Waze is getting a bunch of new AI-powered features",
+      "description": "Waze is getting an AI makeover. Google is integrating its flagship AI assistant, Gemini, into the driving app with the goal of letting users personalize their trips a little more. Of the four new updates, only two are being described as involving Gemini. Waze says its updating its conversation reporting feature, first introduced in 2024, [&#8230;]",
+      "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25708121/waze_conversational_report.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-07-13T09:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Andrew J. Hawkins",
+      "tags": []
+    }
+  ]
+}
