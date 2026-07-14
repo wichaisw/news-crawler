@@ -223,6 +223,28 @@
       "tags": []
     },
     {
+      "id": "4697ud",
+      "title": "How to build a circular LCD clock",
+      "description": "Score: 71 | Comments: 22 | Posted by birdculture",
+      "url": "https://blinry.org/lcd-clock/",
+      "publishedAt": "2026-07-11T15:23:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "birdculture",
+      "tags": []
+    },
+    {
+      "id": "30x8mc",
+      "title": "Jektex 0.2.0 – A Jekyll plugin for LaTeX rendering is now ~10x faster",
+      "description": "Score: 10 | Comments: 1 | Posted by yagarea",
+      "url": "https://github.com/yagarea/jektex",
+      "publishedAt": "2026-07-11T15:19:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "yagarea",
+      "tags": []
+    },
+    {
       "id": "p1uv1u",
       "title": "Show HN: Learn by rebuilding Redis, Git, a database from scratch",
       "description": "Score: 163 | Comments: 43 | Posted by acley",
@@ -253,6 +275,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mvdtnz",
+      "tags": []
+    },
+    {
+      "id": "9l2to3",
+      "title": "The Origins of Heikki's Garden of Flowers",
+      "description": "Score: 30 | Comments: 3 | Posted by panic",
+      "url": "https://garden-of-flowers.heikkilotvonen.com/?essay",
+      "publishedAt": "2026-07-11T03:24:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "panic",
       "tags": []
     }
   ]

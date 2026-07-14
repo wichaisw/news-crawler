@@ -3,6 +3,39 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "151140 at https://www.blognone.com",
+      "title": "Cloudflare เปิดบริการ Precursor บันทึกพฤติกรรมการใช้เว็บตลอดเวลา เพื่อแยกว่าเป็นบอตหรือไม่",
+      "description": "Cloudflare เปิดบริการ Precursor บันทึกพฤติกรรมการใช้เว็บตลอดเวลา เพื่อแยกว่าเป็นบอตหรือไม่ Body Cloudflare",
+      "url": "https://www.blognone.com/node/151140",
+      "publishedAt": "2026-07-13T17:03:46.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151139 at https://www.blognone.com",
+      "title": "[ลือ] ชิป M7 Ultra ของ Apple จะใส่แรมได้สูงสุด 1.5TB, Apple Pencil ใหม่ จะเปลี่ยนแบตง่ายขึ้น",
+      "description": "[ลือ] ชิป M7 Ultra ของ Apple จะใส่แรมได้สูงสุด 1.5TB, Apple Pencil ใหม่ จะเปลี่ยนแบตง่ายขึ้น Body ข่าวลือสินค้าแอปเปิลประจำสัปดาห์นี้โดย Mark Gurman",
+      "url": "https://www.blognone.com/node/151139",
+      "publishedAt": "2026-07-13T12:39:17.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151138 at https://www.blognone.com",
+      "title": "TSMC มีรายได้ในไตรมาส 2/2026 เพิ่มขึ้น 36% จากปีก่อน เป็นสถิติใหม่อีกไตรมาส",
+      "description": "TSMC มีรายได้ในไตรมาส 2/2026 เพิ่มขึ้น 36% จากปีก่อน เป็นสถิติใหม่อีกไตรมาส Body TSMC รายงานตัวเลขรายได้ของไตรมาสที่ 2 ปี 2026 เพิ่มขึ้น 36%",
+      "url": "https://www.blognone.com/node/151138",
+      "publishedAt": "2026-07-13T10:44:53.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "151137 at https://www.blognone.com",
       "title": "ผลทดสอบ Surface Laptop 8 แบตเตอรี่อยู่นานขึ้นมาก นานกว่า MacBook Air M5",
       "description": "ผลทดสอบ Surface Laptop 8 แบตเตอรี่อยู่นานขึ้นมาก นานกว่า MacBook Air M5 Body เว็บไซต์ Notebookcheck รีวิว Surface Laptop 8 รุ่นหน้าจอ 13.8",

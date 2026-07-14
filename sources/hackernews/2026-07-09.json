@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "pcjx1e",
+      "title": "World-First 'Super Alloy' Could Transform the Way Metals Are Made",
+      "description": "Score: 57 | Comments: 27 | Posted by tejohnso",
+      "url": "https://www.sciencealert.com/world-first-super-alloy-could-transform-the-way-metals-are-made",
+      "publishedAt": "2026-07-09T22:20:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tejohnso",
+      "tags": []
+    },
+    {
       "id": "ynbb3b",
       "title": "Why American ambulance rides are so expensive",
       "description": "Score: 211 | Comments: 277 | Posted by jyunwai",
@@ -47,6 +58,28 @@
       "tags": []
     },
     {
+      "id": "it0wwv",
+      "title": "Ancient Roman Board Game",
+      "description": "Score: 120 | Comments: 45 | Posted by nobody9999",
+      "url": "https://ludus-coriovalli.web.app/",
+      "publishedAt": "2026-07-09T20:47:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nobody9999",
+      "tags": []
+    },
+    {
+      "id": "wy73z2",
+      "title": "Show HN: RandoFont – A browser for Google Fonts",
+      "description": "Score: 34 | Comments: 5 | Posted by aleshh",
+      "url": "https://randofont.alesh.com",
+      "publishedAt": "2026-07-09T20:46:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "aleshh",
+      "tags": []
+    },
+    {
       "id": "5nznbg",
       "title": "Show HN: Reviving my 2001 college band with AI",
       "description": "Score: 53 | Comments: 58 | Posted by jacobgraf",
@@ -55,6 +88,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jacobgraf",
+      "tags": []
+    },
+    {
+      "id": "b4h6k6",
+      "title": "N+1",
+      "description": "Score: 56 | Comments: 16 | Posted by Caiero",
+      "url": "https://www.woman-of-letters.com/p/n1",
+      "publishedAt": "2026-07-09T19:43:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Caiero",
       "tags": []
     },
     {
@@ -286,6 +330,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "c-c-c-c-c",
+      "tags": []
+    },
+    {
+      "id": "8hqzv9",
+      "title": "Writing a bindless GPU abstraction layer",
+      "description": "Score: 39 | Comments: 1 | Posted by surprisetalk",
+      "url": "https://www.kevin-gibson.com/blog/writing-a-bindless-gpu-abstraction-layer/",
+      "publishedAt": "2026-07-09T14:00:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
       "tags": []
     },
     {
