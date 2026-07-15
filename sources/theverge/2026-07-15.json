@@ -1,0 +1,30 @@
+{
+  "date": "2026-07-15",
+  "source": "theverge",
+  "articles": [
+    {
+      "id": "5m6t70",
+      "title": "Starlink’s V5 dish is now available — here’s how it compares",
+      "description": "SpaceX's latest residential dish - the Starlink V5 - is now available in \"select areas.\" It's notably smaller and lighter than the V4 dish with improved power efficiency. It'll be available in more places as SpaceX ramps up production to meet global demand. The company notes that Starlink V5 is not intended for in-motion use [&#8230;]",
+      "url": "https://www.theverge.com/science/965824/starlink-v5-vs-v4-dish-comparison",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Starlink_Standard_4_5_Comparison.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-07-15T07:17:27.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Thomas Ricker",
+      "tags": []
+    },
+    {
+      "id": "i9rsmf",
+      "title": "Google and Epic give up fighting — third-party Android app stores are coming next week",
+      "description": "Epic Games and Google have just jointly withdrawn their attempt to retroactively settle the lawsuit that's changing how Android app stores work in the United States - and that means Google will be forced to carry rival app stores inside of its own. In fact, Google tells the court, it's ready to begin carrying third-party [&#8230;]",
+      "url": "https://www.theverge.com/policy/965792/google-epic-withdraw-injunction-third-party-app-stores-coming-google-play",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25047551/236883_Epic_Vs_Google_C_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-07-15T03:28:53.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Sean Hollister",
+      "tags": []
+    }
+  ]
+}

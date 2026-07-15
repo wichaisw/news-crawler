@@ -1,0 +1,105 @@
+{
+  "date": "2026-07-15",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "xohw32",
+      "title": "Why Are Japanese Retail Traders Shorting the US Dollar?",
+      "description": "Score: 3 | Comments: 0 | Posted by emsidisii",
+      "url": "https://www.disruptionbanking.com/2026/07/15/why-are-japanese-retail-traders-shorting-the-us-dollar/",
+      "publishedAt": "2026-07-15T07:43:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "emsidisii",
+      "tags": []
+    },
+    {
+      "id": "pjpvfb",
+      "title": "Who's running all those tiny RPKI servers?",
+      "description": "Score: 3 | Comments: 0 | Posted by enz",
+      "url": "https://blog.apnic.net/2026/07/15/whos-running-all-those-tiny-rpki-servers/",
+      "publishedAt": "2026-07-15T06:38:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "enz",
+      "tags": []
+    },
+    {
+      "id": "bm6f7z",
+      "title": "I tricked Claude into leaking your deepest, darkest secrets",
+      "description": "Score: 165 | Comments: 60 | Posted by macleginn",
+      "url": "https://www.ayush.digital/blog/the-memory-heist",
+      "publishedAt": "2026-07-15T06:28:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "macleginn",
+      "tags": []
+    },
+    {
+      "id": "2j52n2",
+      "title": "RISC-V Is Inevitable: State of the Union Keynote Argues",
+      "description": "Score: 30 | Comments: 8 | Posted by signa11",
+      "url": "https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/",
+      "publishedAt": "2026-07-15T06:02:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "signa11",
+      "tags": []
+    },
+    {
+      "id": "aaoumb",
+      "title": "Jurassic Park computers in excruciating detailfabiensanglard.net",
+      "description": "Score: 348 | Comments: 83 | Posted by vinhnx",
+      "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+      "publishedAt": "2026-07-15T03:14:30.891Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vinhnx",
+      "tags": []
+    },
+    {
+      "id": "aaoumb",
+      "title": "Jurassic Park computers in excruciating detail",
+      "description": "Score: 350 | Comments: 83 | Posted by vinhnx",
+      "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+      "publishedAt": "2026-07-15T02:57:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vinhnx",
+      "tags": []
+    },
+    {
+      "id": "jmgqa8",
+      "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
+      "description": "Score: 131 | Comments: 59 | Posted by jervant",
+      "url": "https://tailscale.com/security-bulletins",
+      "publishedAt": "2026-07-15T01:08:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jervant",
+      "tags": []
+    },
+    {
+      "id": "wtjtry",
+      "title": "Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel",
+      "description": "Score: 121 | Comments: 52 | Posted by colin7snyder",
+      "url": "https://www.starfleetmath.com/",
+      "publishedAt": "2026-07-15T00:15:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "colin7snyder",
+      "tags": []
+    },
+    {
+      "id": "29ia76",
+      "title": "Vancouver PD website features Quick Escape button that wipes itself from history",
+      "description": "Score: 247 | Comments: 98 | Posted by LookAtThatBacon",
+      "url": "https://vpd.ca/",
+      "publishedAt": "2026-07-15T00:15:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "LookAtThatBacon",
+      "tags": []
+    }
+  ]
+}

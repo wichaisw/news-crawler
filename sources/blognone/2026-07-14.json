@@ -3,6 +3,62 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "151147 at https://www.blognone.com",
+      "title": "X ปรับอัลกอริทึม เพิ่มการมองเห็นโพสต์ของคนที่เราติดตามและเขาติดตามกลับ ให้มากขึ้น",
+      "description": "X ปรับอัลกอริทึม เพิ่มการมองเห็นโพสต์ของคนที่เราติดตามและเขาติดตามกลับ ให้มากขึ้น Body Nikita Bier หัวหน้าฝ่ายผลิตภัณฑ์ของ X แจ้งการปรับปรุง",
+      "url": "https://www.blognone.com/node/151147",
+      "publishedAt": "2026-07-14T15:14:44.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151146 at https://www.blognone.com",
+      "title": "กูเกิลเผยสถิติ Gemini ในไทย 87% คุยด้วยภาษาไทย, 74% ใช้จากมือถือ",
+      "description": "กูเกิลเผยสถิติ Gemini ในไทย 87% คุยด้วยภาษาไทย, 74% ใช้จากมือถือ Body กูเกิลเผยสถิติการใช้งาน Gemini ในภูมิภาคเอเชียตะวันออกเฉียงใต้",
+      "url": "https://www.blognone.com/node/151146",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2026/2026-06/gemini-sea.jpg",
+      "publishedAt": "2026-07-14T14:34:09.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151145 at https://www.blognone.com",
+      "title": "IBM บอกรายได้ไตรมาสที่ผ่านมาต่ำกว่าคาด เหตุลูกค้าเปลี่ยนแผนไปตุนชิปหน่วยความจำมากขึ้น",
+      "description": "IBM บอกรายได้ไตรมาสที่ผ่านมาต่ำกว่าคาด เหตุลูกค้าเปลี่ยนแผนไปตุนชิปหน่วยความจำมากขึ้น Body IBM ออกรายงานแจ้งนักลงทุนบริษัท",
+      "url": "https://www.blognone.com/node/151145",
+      "publishedAt": "2026-07-14T13:50:07.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151144 at https://www.blognone.com",
+      "title": "[ลือ] Switch 2 รุ่นจอ OLED ใช้จอซัมซุงเหมือนเดิม แต่ต้นทุนค่าจอแพงขึ้น",
+      "description": "[ลือ] Switch 2 รุ่นจอ OLED ใช้จอซัมซุงเหมือนเดิม แต่ต้นทุนค่าจอแพงขึ้น Body ZDNet Korea รายงานข่าวลือของ Nintendo Switch 2 เวอร์ชันจอ OLED",
+      "url": "https://www.blognone.com/node/151144",
+      "publishedAt": "2026-07-14T10:10:33.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151143 at https://www.blognone.com",
+      "title": "แอปเปิลปล่อย iOS 27, iPadOS 27, macOS 27 Golden Gate รุ่น Public Beta แล้ว",
+      "description": "แอปเปิลปล่อย iOS 27, iPadOS 27, macOS 27 Golden Gate รุ่น Public Beta แล้ว Body แอปเปิลปล่อยรุ่นทดสอบ Public Beta ของระบบปฏิบัติการประจำปี",
+      "url": "https://www.blognone.com/node/151143",
+      "publishedAt": "2026-07-14T07:57:00.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "151142 at https://www.blognone.com",
       "title": "[Counterpoint] ตลาดสมาร์ทโฟนไตรมาส 2/2026 หดตัว 11% จากแรมแพง, ซัมซุงกลับมาทวงแชมป์",
       "description": "[Counterpoint] ตลาดสมาร์ทโฟนไตรมาส 2/2026 หดตัว 11% จากแรมแพง, ซัมซุงกลับมาทวงแชมป์ Body Counterpoint Research รายงานยอดขายสมาร์ทโฟนไตรมาส 2/2026",

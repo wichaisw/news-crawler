@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "ec3pyo",
+      "title": "Unlocking the PSP's Dual Core Setup",
+      "description": "Score: 55 | Comments: 4 | Posted by msephton",
+      "url": "https://wololo.net/2026/06/16/unlocking-the-psps-dual-core-setup/",
+      "publishedAt": "2026-07-10T23:51:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "msephton",
+      "tags": []
+    },
+    {
       "id": "io1duh",
       "title": "Einstein's relativity rules chemical bonds in heavy elements, new research showsbrown.edu",
       "description": "Score: 208 | Comments: 72 | Posted by hhs",
@@ -55,6 +66,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "stock_toaster",
+      "tags": []
+    },
+    {
+      "id": "14ql7w",
+      "title": "The zero-cost fallacy: open-source software in the agentic era",
+      "description": "Score: 146 | Comments: 111 | Posted by backlit4034",
+      "url": "https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era",
+      "publishedAt": "2026-07-10T20:45:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "backlit4034",
       "tags": []
     },
     {
@@ -168,6 +190,17 @@
       "tags": []
     },
     {
+      "id": "3utumc",
+      "title": "An unusual way for your DHCP server to run out of dynamic IPs",
+      "description": "Score: 65 | Comments: 15 | Posted by speckx",
+      "url": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/DHCPServerAndScreamingHost",
+      "publishedAt": "2026-07-10T16:47:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
+      "tags": []
+    },
+    {
       "id": "h1nsnk",
       "title": "Snails' teeth beats spider silk as nature's strongest material (2015)",
       "description": "Score: 182 | Comments: 143 | Posted by simonebrunozzi",
@@ -231,6 +264,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "simonpure",
+      "tags": []
+    },
+    {
+      "id": "xwmxdp",
+      "title": "Surprising lessons from my research scientist job search",
+      "description": "Score: 5 | Comments: 1 | Posted by gmays",
+      "url": "https://yongzx.github.io/blog/2026/06/24/job-search/",
+      "publishedAt": "2026-07-10T14:58:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gmays",
       "tags": []
     },
     {
@@ -374,6 +418,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "wglb",
+      "tags": []
+    },
+    {
+      "id": "qoyfd6",
+      "title": "Ambient Website Background Clouds",
+      "description": "Score: 16 | Comments: 4 | Posted by dividedcomet",
+      "url": "https://github.com/paradise-runner/background-clouds",
+      "publishedAt": "2026-07-10T00:50:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dividedcomet",
       "tags": []
     },
     {

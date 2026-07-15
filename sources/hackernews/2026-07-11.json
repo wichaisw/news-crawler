@@ -14,6 +14,17 @@
       "tags": []
     },
     {
+      "id": "94lrbi",
+      "title": "How the FSF sysadmins block botnets with reaction",
+      "description": "Score: 160 | Comments: 71 | Posted by pseudolus",
+      "url": "https://www.fsf.org/blogs/community/blocking-botnets-with-reaction",
+      "publishedAt": "2026-07-11T23:26:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pseudolus",
+      "tags": []
+    },
+    {
       "id": "evy8c",
       "title": "Mesh LLM: distributed AI computing on irohiroh.computer",
       "description": "Score: 228 | Comments: 51 | Posted by tionis",
@@ -113,6 +124,17 @@
       "tags": []
     },
     {
+      "id": "w45r8d",
+      "title": "Andon (manufacturing)",
+      "description": "Score: 42 | Comments: 8 | Posted by tony",
+      "url": "https://en.wikipedia.org/wiki/Andon_(manufacturing)",
+      "publishedAt": "2026-07-11T19:49:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tony",
+      "tags": []
+    },
+    {
       "id": "knuqrv",
       "title": "ZeroFS vs. Amazon S3 Files",
       "description": "Score: 76 | Comments: 18 | Posted by cbrewster",
@@ -121,6 +143,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "cbrewster",
+      "tags": []
+    },
+    {
+      "id": "xxblen",
+      "title": "The Second Life of Sanskrit",
+      "description": "Score: 51 | Comments: 50 | Posted by bookofjoe",
+      "url": "https://openthemagazine.com/india/the-second-life-of-sanskrit",
+      "publishedAt": "2026-07-11T18:03:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bookofjoe",
       "tags": []
     },
     {
@@ -201,6 +234,17 @@
       "tags": []
     },
     {
+      "id": "mbu07v",
+      "title": "C++20 Improved the For-Loop Syntax",
+      "description": "Score: 36 | Comments: 48 | Posted by jpmitchell",
+      "url": "https://lzon.ca/posts/tips/cpp-for-range-init/",
+      "publishedAt": "2026-07-11T16:10:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jpmitchell",
+      "tags": []
+    },
+    {
       "id": "40bjau",
       "title": "We scaled PgBouncer to 4x throughput",
       "description": "Score: 204 | Comments: 44 | Posted by saisrirampur",
@@ -245,6 +289,17 @@
       "tags": []
     },
     {
+      "id": "83v0c0",
+      "title": "The largest available Minecraft world, totalling 15 TB",
+      "description": "Score: 208 | Comments: 70 | Posted by _____k",
+      "url": "https://2b2t.place/1million",
+      "publishedAt": "2026-07-11T14:32:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "_____k",
+      "tags": []
+    },
+    {
       "id": "p1uv1u",
       "title": "Show HN: Learn by rebuilding Redis, Git, a database from scratch",
       "description": "Score: 163 | Comments: 43 | Posted by acley",
@@ -253,6 +308,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "acley",
+      "tags": []
+    },
+    {
+      "id": "sdbuf",
+      "title": "The kids with phones are alright",
+      "description": "Score: 197 | Comments: 168 | Posted by JumpCrisscross",
+      "url": "https://heatherburns.tech/2026/07/08/the-kids-with-phones-are-alright/",
+      "publishedAt": "2026-07-11T09:08:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "JumpCrisscross",
+      "tags": []
+    },
+    {
+      "id": "ebgxn1",
+      "title": "Your 'app' could have been a webpage (so I fixed it for you)",
+      "description": "Score: 793 | Comments: 474 | Posted by MrVandemar",
+      "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
+      "publishedAt": "2026-07-11T08:21:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "MrVandemar",
       "tags": []
     },
     {
