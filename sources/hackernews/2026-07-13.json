@@ -190,6 +190,17 @@
       "tags": []
     },
     {
+      "id": "l27502",
+      "title": "Designing APIs for Agents",
+      "description": "Score: 68 | Comments: 39 | Posted by benswerd",
+      "url": "https://www.freestyle.sh/blog/opinion/designing-apis-for-agents",
+      "publishedAt": "2026-07-13T16:15:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "benswerd",
+      "tags": []
+    },
+    {
       "id": "xuv5z3",
       "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
       "description": "Score: 528 | Comments: 211 | Posted by get-inscribe",
@@ -231,6 +242,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "eso_logic",
+      "tags": []
+    },
+    {
+      "id": "lt32yj",
+      "title": "MITS: Rockets, Calculators, and Personal Computers",
+      "description": "Score: 41 | Comments: 5 | Posted by BirAdam",
+      "url": "https://www.abortretry.fail/p/micro-instrumentation-and-telemetry",
+      "publishedAt": "2026-07-13T13:20:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "BirAdam",
       "tags": []
     },
     {

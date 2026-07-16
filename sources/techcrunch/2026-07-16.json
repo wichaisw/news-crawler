@@ -1,0 +1,39 @@
+{
+  "date": "2026-07-16",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3142193",
+      "title": "Lululemon backs nylon-recycling startup Syntetica in $30M Series A",
+      "description": "Syntetica, a French startup that has developed a novel approach to recycling nylon, has already obtained big-name partners and investors.",
+      "url": "https://techcrunch.com/2026/07/15/lululemon-backs-nylon-recycling-startup-syntetica-in-30m-series-a/",
+      "publishedAt": "2026-07-16T04:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anna Heim",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3142836",
+      "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
+      "description": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry.",
+      "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+      "publishedAt": "2026-07-16T04:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Ram Iyer",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3143149",
+      "title": "Why Greylock capped its new fund at $1.5B when it says it could have raised more",
+      "description": "By keeping the number of investments to about 25 per fund, Greylock aims to remain what it calls \"the most important partner\" to its founders.",
+      "url": "https://techcrunch.com/2026/07/15/why-greylock-capped-its-new-fund-at-1-5b-when-it-says-it-could-have-raised-more/",
+      "publishedAt": "2026-07-16T00:20:42.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Marina Temkin",
+      "tags": []
+    }
+  ]
+}

@@ -80,6 +80,17 @@
       "tags": []
     },
     {
+      "id": "jt2mnp",
+      "title": "I also filed the corners off my MacBook",
+      "description": "Score: 160 | Comments: 54 | Posted by maxbrt",
+      "url": "https://www.brt.fyi/posts/mac-book-filing/",
+      "publishedAt": "2026-07-14T19:25:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "maxbrt",
+      "tags": []
+    },
+    {
       "id": "80kwzp",
       "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
       "description": "Score: 343 | Comments: 160 | Posted by Synthetic7346",
@@ -264,6 +275,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "roundabout-host",
+      "tags": []
+    },
+    {
+      "id": "5w0omi",
+      "title": "Job queues are deceptively tricky",
+      "description": "Score: 76 | Comments: 21 | Posted by ingve",
+      "url": "https://typesanitizer.com/blog/job-queues.html",
+      "publishedAt": "2026-07-14T08:27:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingve",
+      "tags": []
+    },
+    {
+      "id": "2ppg07",
+      "title": "The Last Picture Show: A Conversation with George Lucas",
+      "description": "Score: 16 | Comments: 2 | Posted by Michelangelo11",
+      "url": "https://a-rabbitsfoot.com/editorial/confessions/the-last-picture-show-a-conversation-with-george-lucas/",
+      "publishedAt": "2026-07-14T06:35:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Michelangelo11",
       "tags": []
     },
     {

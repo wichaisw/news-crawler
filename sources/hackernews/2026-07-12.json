@@ -69,6 +69,17 @@
       "tags": []
     },
     {
+      "id": "khxm0k",
+      "title": "What's the story behind the names of Cloudflare's name servers? (2013)",
+      "description": "Score: 12 | Comments: 1 | Posted by aragonite",
+      "url": "https://blog.cloudflare.com/whats-the-story-behind-the-names-of-cloudflares-name-servers/",
+      "publishedAt": "2026-07-12T20:42:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "aragonite",
+      "tags": []
+    },
+    {
       "id": "ojjpiw",
       "title": "Tiny Emulators",
       "description": "Score: 251 | Comments: 22 | Posted by naves",
@@ -77,6 +88,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "naves",
+      "tags": []
+    },
+    {
+      "id": "9va2s1",
+      "title": "Today I Rescued 7,234 Old GIFs",
+      "description": "Score: 127 | Comments: 22 | Posted by birdculture",
+      "url": "https://danq.me/2026/07/10/rescuing-7234-gifs/",
+      "publishedAt": "2026-07-12T19:00:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "birdculture",
       "tags": []
     },
     {
@@ -143,6 +165,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "adunk",
+      "tags": []
+    },
+    {
+      "id": "micwqb",
+      "title": "Teardown: A Generic 7-Port USB 3.0 Hub That Wasn't",
+      "description": "Score: 35 | Comments: 5 | Posted by speckx",
+      "url": "https://goughlui.com/2026/07/09/teardown-a-generic-7-port-usb-3-0-hub-that-wasnt/",
+      "publishedAt": "2026-07-12T17:57:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
       "tags": []
     },
     {
@@ -253,6 +286,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "a4nevm",
+      "title": "Command Line Interface Guidelines",
+      "description": "Score: 116 | Comments: 26 | Posted by subset",
+      "url": "https://clig.dev/",
+      "publishedAt": "2026-07-12T13:28:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "subset",
       "tags": []
     },
     {

@@ -1,0 +1,149 @@
+{
+  "date": "2026-07-16",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "thxj3v",
+      "title": "Netstrings (1997)",
+      "description": "Score: 13 | Comments: 7 | Posted by signa11",
+      "url": "https://cr.yp.to/proto/netstrings.txt",
+      "publishedAt": "2026-07-16T05:33:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "signa11",
+      "tags": []
+    },
+    {
+      "id": "91nrue",
+      "title": "The lost joy of music piracypigeonsandplanes.com",
+      "description": "Score: 216 | Comments: 104 | Posted by mcgin",
+      "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
+      "publishedAt": "2026-07-16T05:16:38.967Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mcgin",
+      "tags": []
+    },
+    {
+      "id": "ku7gvi",
+      "title": "GSAP – A robust JavaScript animation library built for professionals",
+      "description": "Score: 3 | Comments: 0 | Posted by gurjeet",
+      "url": "https://gsap.com/",
+      "publishedAt": "2026-07-16T05:10:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gurjeet",
+      "tags": []
+    },
+    {
+      "id": "91nrue",
+      "title": "The lost joy of music piracy",
+      "description": "Score: 217 | Comments: 105 | Posted by mcgin",
+      "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
+      "publishedAt": "2026-07-16T04:46:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mcgin",
+      "tags": []
+    },
+    {
+      "id": "9ez5ml",
+      "title": "Reynard: A real Firefox web browser for iOS 13 or later",
+      "description": "Score: 20 | Comments: 4 | Posted by AbuAssar",
+      "url": "https://github.com/minh-ton/reynard-browser",
+      "publishedAt": "2026-07-16T04:36:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "AbuAssar",
+      "tags": []
+    },
+    {
+      "id": "iviisr",
+      "title": "Stop saying that AI is just a tool and it only matters how it is used",
+      "description": "Score: 77 | Comments: 59 | Posted by cratermoon",
+      "url": "https://www.frank.computer/blog/2025/05/just-a-tool.html",
+      "publishedAt": "2026-07-16T04:31:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cratermoon",
+      "tags": []
+    },
+    {
+      "id": "qorljn",
+      "title": "If you want to create a button from scratch, you must first create the universe",
+      "description": "Score: 89 | Comments: 40 | Posted by treve",
+      "url": "https://madcampos.dev/blog/2026/07/accessibility-from-scratch/",
+      "publishedAt": "2026-07-16T03:48:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "treve",
+      "tags": []
+    },
+    {
+      "id": "vjcynq",
+      "title": "Making 768 servers look like 1",
+      "description": "Score: 68 | Comments: 10 | Posted by hisamafahri",
+      "url": "https://planetscale.com/blog/making-768-servers-look-like-1",
+      "publishedAt": "2026-07-16T03:36:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hisamafahri",
+      "tags": []
+    },
+    {
+      "id": "p1q7bo",
+      "title": "1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored",
+      "description": "Score: 69 | Comments: 10 | Posted by gslin",
+      "url": "https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html",
+      "publishedAt": "2026-07-16T03:12:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gslin",
+      "tags": []
+    },
+    {
+      "id": "i8kcid",
+      "title": "Open Source, Free Tier Capable Whispr Using Cloudflare AI",
+      "description": "Score: 12 | Comments: 7 | Posted by TreDub",
+      "url": "https://github.com/PrestigePvP/Voicebox",
+      "publishedAt": "2026-07-16T02:57:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "TreDub",
+      "tags": []
+    },
+    {
+      "id": "o2szli",
+      "title": "Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers",
+      "description": "Score: 44 | Comments: 7 | Posted by Jimmc414",
+      "url": "https://arxiv.org/abs/2607.11859",
+      "publishedAt": "2026-07-16T02:17:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Jimmc414",
+      "tags": []
+    },
+    {
+      "id": "guf2a2",
+      "title": "The Tokio/Rayon Trap and Why Async/Await Fails Concurrency",
+      "description": "Score: 54 | Comments: 35 | Posted by LAC-Tech",
+      "url": "https://pmbanugo.me/blog/why-async-await-complect-concurrency",
+      "publishedAt": "2026-07-16T02:06:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "LAC-Tech",
+      "tags": []
+    },
+    {
+      "id": "chhx33",
+      "title": "Bluesky Trademarks ATProto",
+      "description": "Score: 88 | Comments: 34 | Posted by chaosharmonic",
+      "url": "https://atproto.com/blog/at-protocol-trademark",
+      "publishedAt": "2026-07-16T01:21:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "chaosharmonic",
+      "tags": []
+    }
+  ]
+}

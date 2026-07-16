@@ -3,6 +3,259 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "jafape",
+      "title": "11,700 Free Photos from John Margolies' Archive of Americana Architecture",
+      "description": "Score: 18 | Comments: 1 | Posted by gslin",
+      "url": "https://www.openculture.com/2026/07/free-photos-from-john-margolies-archive-of-americana-architecture.html",
+      "publishedAt": "2026-07-15T23:44:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gslin",
+      "tags": []
+    },
+    {
+      "id": "tmkdz2",
+      "title": "Show HN: One More Letter",
+      "description": "Score: 71 | Comments: 45 | Posted by hmate9",
+      "url": "https://playonemoreletter.com/",
+      "publishedAt": "2026-07-15T23:10:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hmate9",
+      "tags": []
+    },
+    {
+      "id": "tvf9ys",
+      "title": "Nul Characters in Strings in SQLite",
+      "description": "Score: 45 | Comments: 18 | Posted by basilikum",
+      "url": "https://sqlite.org/nulinstr.html",
+      "publishedAt": "2026-07-15T23:03:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "basilikum",
+      "tags": []
+    },
+    {
+      "id": "zal5ok",
+      "title": "Metal-Organic Frameworks, Chemistry's New Miracle Materials (2018)",
+      "description": "Score: 52 | Comments: 12 | Posted by andsoitis",
+      "url": "https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials",
+      "publishedAt": "2026-07-15T23:00:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andsoitis",
+      "tags": []
+    },
+    {
+      "id": "mawb4x",
+      "title": "SQLite should have (Rust-style) editions",
+      "description": "Score: 244 | Comments: 94 | Posted by gnyeki",
+      "url": "https://mort.coffee/home/sqlite-editions/",
+      "publishedAt": "2026-07-15T22:42:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gnyeki",
+      "tags": []
+    },
+    {
+      "id": "9pvdub",
+      "title": "Agentty – A drop-in alternative to claude-code, written in C++26. 11.0 MB binary",
+      "description": "Score: 34 | Comments: 6 | Posted by tfeayush",
+      "url": "https://github.com/1ay1/agentty",
+      "publishedAt": "2026-07-15T22:30:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tfeayush",
+      "tags": []
+    },
+    {
+      "id": "3fimq7",
+      "title": "LLM Networking with MikroTik",
+      "description": "Score: 84 | Comments: 38 | Posted by gregsadetsky",
+      "url": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
+      "publishedAt": "2026-07-15T22:23:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gregsadetsky",
+      "tags": []
+    },
+    {
+      "id": "v5vrjs",
+      "title": "P2P local file transfer based on WebRTC",
+      "description": "Score: 47 | Comments: 19 | Posted by halb",
+      "url": "https://pairdrop.net/",
+      "publishedAt": "2026-07-15T22:22:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "halb",
+      "tags": []
+    },
+    {
+      "id": "b13s4h",
+      "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+      "description": "Score: 174 | Comments: 62 | Posted by bilsbie",
+      "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+      "publishedAt": "2026-07-15T21:16:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bilsbie",
+      "tags": []
+    },
+    {
+      "id": "l39727",
+      "title": "Show HN: Firefox in WebAssembly",
+      "description": "Score: 186 | Comments: 97 | Posted by coolelectronics",
+      "url": "https://developer.puter.com/labs/firefox-wasm/",
+      "publishedAt": "2026-07-15T21:00:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "coolelectronics",
+      "tags": []
+    },
+    {
+      "id": "4chi9i",
+      "title": "Grok Build is open source",
+      "description": "Score: 421 | Comments: 437 | Posted by skp1995",
+      "url": "https://github.com/xai-org/grok-build",
+      "publishedAt": "2026-07-15T20:24:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "skp1995",
+      "tags": []
+    },
+    {
+      "id": "gkn2i",
+      "title": "Brainless: Shadcn components that look like Claude Code, Codex and Grok",
+      "description": "Score: 121 | Comments: 24 | Posted by benswerd",
+      "url": "https://brainless.swerdlow.dev",
+      "publishedAt": "2026-07-15T19:42:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "benswerd",
+      "tags": []
+    },
+    {
+      "id": "pvgwgv",
+      "title": "Voxatron",
+      "description": "Score: 87 | Comments: 22 | Posted by lsferreira42",
+      "url": "https://www.lexaloffle.com/voxatron.php",
+      "publishedAt": "2026-07-15T19:40:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lsferreira42",
+      "tags": []
+    },
+    {
+      "id": "izx0y8",
+      "title": "Duskers, the scary command line game, is getting a sequel",
+      "description": "Score: 124 | Comments: 39 | Posted by spacemarine1",
+      "url": "https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20",
+      "publishedAt": "2026-07-15T19:27:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "spacemarine1",
+      "tags": []
+    },
+    {
+      "id": "wm0nlo",
+      "title": "Inkling: Our Open-Weights Model",
+      "description": "Score: 931 | Comments: 228 | Posted by vimarsh6739",
+      "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+      "publishedAt": "2026-07-15T18:12:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vimarsh6739",
+      "tags": []
+    },
+    {
+      "id": "v4nljv",
+      "title": "Collection of Digital Clock Designs",
+      "description": "Score: 233 | Comments: 42 | Posted by levmiseri",
+      "url": "https://clocks.dev",
+      "publishedAt": "2026-07-15T16:33:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "levmiseri",
+      "tags": []
+    },
+    {
+      "id": "nvler7",
+      "title": "Show HN: misa77 - a codec that decodes 2x faster than LZ4 (at better ratios)",
+      "description": "Score: 143 | Comments: 41 | Posted by nonadhocproblem",
+      "url": "https://github.com/welcome-to-the-sunny-side/misa77",
+      "publishedAt": "2026-07-15T15:58:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nonadhocproblem",
+      "tags": []
+    },
+    {
+      "id": "wlrzlm",
+      "title": "Launch HN: Coasty (YC S26) – An API for computer-use agents",
+      "description": "Score: 34 | Comments: 8 | Posted by nkov47",
+      "url": "https://coasty.ai/docs",
+      "publishedAt": "2026-07-15T15:51:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nkov47",
+      "tags": []
+    },
+    {
+      "id": "axdaiu",
+      "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
+      "description": "Score: 277 | Comments: 180 | Posted by neomindryan",
+      "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
+      "publishedAt": "2026-07-15T15:34:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "neomindryan",
+      "tags": []
+    },
+    {
+      "id": "5us2qo",
+      "title": "My midlife crisis Corolla is fast, furious, and modded",
+      "description": "Score: 175 | Comments: 381 | Posted by gmays",
+      "url": "https://www.zocalopublicsquare.org/my-midlife-crisis-corolla-fast-furious-fully-modded/",
+      "publishedAt": "2026-07-15T14:23:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gmays",
+      "tags": []
+    },
+    {
+      "id": "whvxhg",
+      "title": "Towards a harness that can do anything",
+      "description": "Score: 190 | Comments: 97 | Posted by evakhoury",
+      "url": "https://eardatasci.github.io/c/ambiance/index.html",
+      "publishedAt": "2026-07-15T14:08:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "evakhoury",
+      "tags": []
+    },
+    {
+      "id": "7f55uw",
+      "title": "Briar is in maintenance mode",
+      "description": "Score: 159 | Comments: 99 | Posted by ristello",
+      "url": "https://briarproject.org/news/2026-maintenance-mode/",
+      "publishedAt": "2026-07-15T12:33:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ristello",
+      "tags": []
+    },
+    {
+      "id": "ggimm0",
+      "title": "Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023)",
+      "description": "Score: 688 | Comments: 367 | Posted by bilsbie",
+      "url": "https://academic.oup.com/sleep/article/47/1/zsad253/7280269",
+      "publishedAt": "2026-07-15T11:46:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bilsbie",
+      "tags": []
+    },
+    {
       "id": "xohw32",
       "title": "Why Are Japanese Retail Traders Shorting the US Dollar?",
       "description": "Score: 3 | Comments: 0 | Posted by emsidisii",
@@ -47,6 +300,17 @@
       "tags": []
     },
     {
+      "id": "62pyzb",
+      "title": "Stripe and Advent have made a joint offer to acquire PayPal – sources",
+      "description": "Score: 433 | Comments: 232 | Posted by rvz",
+      "url": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
+      "publishedAt": "2026-07-15T03:32:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rvz",
+      "tags": []
+    },
+    {
       "id": "aaoumb",
       "title": "Jurassic Park computers in excruciating detailfabiensanglard.net",
       "description": "Score: 348 | Comments: 83 | Posted by vinhnx",
@@ -66,6 +330,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "vinhnx",
+      "tags": []
+    },
+    {
+      "id": "ypz0mg",
+      "title": "High-Bandwidth Flash offers efficient storage for model weights",
+      "description": "Score: 36 | Comments: 15 | Posted by Gaishan",
+      "url": "https://spectrum.ieee.org/high-bandwidth-flash",
+      "publishedAt": "2026-07-15T02:04:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Gaishan",
       "tags": []
     },
     {
