@@ -322,6 +322,17 @@
       "tags": []
     },
     {
+      "id": "qbtfyq",
+      "title": "In Praise of Exhaustive Destructuring",
+      "description": "Score: 12 | Comments: 4 | Posted by avandecreme",
+      "url": "https://antoine.vandecreme.net/blog/exhaustive-destructuring-praise/",
+      "publishedAt": "2026-07-12T08:58:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "avandecreme",
+      "tags": []
+    },
+    {
       "id": "9fk9uf",
       "title": "Ghostel.el: Terminal emulator powered by libghostty",
       "description": "Score: 278 | Comments: 58 | Posted by signa11",
@@ -473,6 +484,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "daniel_iversen",
+      "tags": []
+    },
+    {
+      "id": "4abfcl",
+      "title": "Old Icons",
+      "description": "Score: 47 | Comments: 10 | Posted by zdw",
+      "url": "https://leancrew.com/all-this/2026/07/old-icons/",
+      "publishedAt": "2026-07-12T00:24:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
       "tags": []
     }
   ]
