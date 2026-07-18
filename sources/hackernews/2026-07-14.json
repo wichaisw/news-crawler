@@ -102,6 +102,17 @@
       "tags": []
     },
     {
+      "id": "t33o17",
+      "title": "MoonBASIC: A modern BASIC for building 2D and 3D games",
+      "description": "Score: 65 | Comments: 21 | Posted by klaussilveira",
+      "url": "https://github.com/CharmingBlaze/moonbasic",
+      "publishedAt": "2026-07-14T17:53:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "klaussilveira",
+      "tags": []
+    },
+    {
       "id": "nqj2qj",
       "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
       "description": "Score: 564 | Comments: 206 | Posted by xenova",
@@ -209,6 +220,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "FinnLobsien",
+      "tags": []
+    },
+    {
+      "id": "q7tvmn",
+      "title": "Reviving a 15-year-old netbook with Arch Linux",
+      "description": "Score: 79 | Comments: 38 | Posted by parksb",
+      "url": "https://parksb.github.io/en/article/41.html",
+      "publishedAt": "2026-07-14T14:02:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "parksb",
+      "tags": []
+    },
+    {
+      "id": "1vn2j8",
+      "title": "An Update on Igalia's Layer Based SVG Engine in WebKit (Reducing Layer Overhead)",
+      "description": "Score: 40 | Comments: 1 | Posted by bkardell",
+      "url": "https://blogs.igalia.com/nzimmermann/posts/2026-07-14-lbse-conditional-layers/",
+      "publishedAt": "2026-07-14T12:59:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bkardell",
       "tags": []
     },
     {

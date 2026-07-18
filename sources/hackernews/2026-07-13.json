@@ -47,6 +47,17 @@
       "tags": []
     },
     {
+      "id": "lqubez",
+      "title": "Lobste.rs is now running on SQLite",
+      "description": "Score: 183 | Comments: 154 | Posted by abetusk",
+      "url": "https://lobste.rs/s/ko1ji1",
+      "publishedAt": "2026-07-13T22:35:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "abetusk",
+      "tags": []
+    },
+    {
       "id": "ql19nm",
       "title": "The Estranged Worlds of J. G. Ballard",
       "description": "Score: 56 | Comments: 12 | Posted by Caiero",
@@ -187,6 +198,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "cakehonolulu",
+      "tags": []
+    },
+    {
+      "id": "ng6god",
+      "title": "Latent Space as a New Medium",
+      "description": "Score: 99 | Comments: 31 | Posted by thm",
+      "url": "https://kevinkelly.substack.com/p/latent-space-as-a-new-medium",
+      "publishedAt": "2026-07-13T18:12:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thm",
+      "tags": []
+    },
+    {
+      "id": "p3pq4n",
+      "title": "Vāgdhenu: A Sanskrit Chanting TTS System",
+      "description": "Score: 149 | Comments: 32 | Posted by subinalex",
+      "url": "https://prathosh.in/vagdhenu/",
+      "publishedAt": "2026-07-13T17:43:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "subinalex",
       "tags": []
     },
     {
@@ -418,6 +451,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mooreds",
+      "tags": []
+    },
+    {
+      "id": "qu2qxo",
+      "title": "Frank Lloyd Wright’s first home",
+      "description": "Score: 99 | Comments: 50 | Posted by NaOH",
+      "url": "https://www.architecturaldigest.com/story/frank-lloyd-wright-home-and-studio-everything-you-need-to-know",
+      "publishedAt": "2026-07-13T02:23:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "NaOH",
       "tags": []
     }
   ]

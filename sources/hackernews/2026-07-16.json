@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "m565t9",
+      "title": "Battery packs: Let's talk about crates, baby",
+      "description": "Score: 14 | Comments: 3 | Posted by MeetingsBrowser",
+      "url": "https://smallcultfollowing.com/babysteps/blog/2026/07/15/battery-packs/",
+      "publishedAt": "2026-07-16T22:48:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "MeetingsBrowser",
+      "tags": []
+    },
+    {
       "id": "2bziaf",
       "title": "Show HN: Mojibake – A low-level Unicode library written in C",
       "description": "Score: 57 | Comments: 15 | Posted by program",

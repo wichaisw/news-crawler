@@ -1,0 +1,105 @@
+{
+  "date": "2026-07-18",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "hayzz7",
+      "title": "Israeli ministers announce new illegal settlements in Gaza and West Bank",
+      "description": "Score: 25 | Comments: 0 | Posted by hebelehubele",
+      "url": "https://www.theguardian.com/world/2026/jul/18/israel-plan-new-illegal-settlements-gaza-west-bank-occupied-palestine",
+      "publishedAt": "2026-07-18T06:19:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hebelehubele",
+      "tags": []
+    },
+    {
+      "id": "q7tvmn",
+      "title": "Reviving a 15-year-old netbook with Arch Linuxparksb.github.io",
+      "description": "Score: 79 | Comments: 38 | Posted by parksb",
+      "url": "https://parksb.github.io/en/article/41.html",
+      "publishedAt": "2026-07-18T03:53:40.576Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "parksb",
+      "tags": []
+    },
+    {
+      "id": "y2uqeh",
+      "title": "Regressive JPEGsmaurycyz.com",
+      "description": "Score: 163 | Comments: 8 | Posted by vitaut",
+      "url": "https://maurycyz.com/projects/bad_jpeg/",
+      "publishedAt": "2026-07-18T03:53:40.573Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vitaut",
+      "tags": []
+    },
+    {
+      "id": "mafmil",
+      "title": "Show HN: IKEA Complexity Index",
+      "description": "Score: 7 | Comments: 3 | Posted by gregsadetsky",
+      "url": "https://ikea.greg.technology/",
+      "publishedAt": "2026-07-18T03:51:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gregsadetsky",
+      "tags": []
+    },
+    {
+      "id": "3d3o79",
+      "title": "ASCII Art",
+      "description": "Score: 4 | Comments: 0 | Posted by audreyfei",
+      "url": "https://github.com/doctorfree/Asciiville",
+      "publishedAt": "2026-07-18T03:17:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "audreyfei",
+      "tags": []
+    },
+    {
+      "id": "y2uqeh",
+      "title": "Regressive JPEGs",
+      "description": "Score: 164 | Comments: 8 | Posted by vitaut",
+      "url": "https://maurycyz.com/projects/bad_jpeg/",
+      "publishedAt": "2026-07-18T03:14:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vitaut",
+      "tags": []
+    },
+    {
+      "id": "pcg6xt",
+      "title": "Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig",
+      "description": "Score: 50 | Comments: 13 | Posted by ksymph",
+      "url": "https://moonstone.sh/",
+      "publishedAt": "2026-07-18T01:18:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ksymph",
+      "tags": []
+    },
+    {
+      "id": "wktgzv",
+      "title": "I started a “dirt notebook”",
+      "description": "Score: 51 | Comments: 43 | Posted by herbertl",
+      "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook/",
+      "publishedAt": "2026-07-18T01:12:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "herbertl",
+      "tags": []
+    },
+    {
+      "id": "djfqde",
+      "title": "Stenchill: 3D Printable Solder Paste Stencil Generator",
+      "description": "Score: 39 | Comments: 7 | Posted by radeeyate",
+      "url": "https://www.stenchill.com/en/",
+      "publishedAt": "2026-07-18T00:48:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "radeeyate",
+      "tags": []
+    }
+  ]
+}

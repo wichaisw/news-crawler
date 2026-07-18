@@ -256,6 +256,17 @@
       "tags": []
     },
     {
+      "id": "cistrh",
+      "title": "Porting nanochat to a TPU: what carries over from PyTorch, and what breaks",
+      "description": "Score: 9 | Comments: 0 | Posted by tucan9389",
+      "url": "https://github.com/tucan9389/nanochat-jax/discussions/1",
+      "publishedAt": "2026-07-15T08:18:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tucan9389",
+      "tags": []
+    },
+    {
       "id": "xohw32",
       "title": "Why Are Japanese Retail Traders Shorting the US Dollar?",
       "description": "Score: 3 | Comments: 0 | Posted by emsidisii",
