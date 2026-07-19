@@ -234,6 +234,17 @@
       "tags": []
     },
     {
+      "id": "d29r56",
+      "title": "Searchable field-level encryption on Supabase with CipherStash",
+      "description": "Score: 31 | Comments: 6 | Posted by dandraper",
+      "url": "https://supabase.com/blog/searchable-field-level-encryption-with-cipherstash",
+      "publishedAt": "2026-07-15T13:10:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dandraper",
+      "tags": []
+    },
+    {
       "id": "7f55uw",
       "title": "Briar is in maintenance mode",
       "description": "Score: 159 | Comments: 99 | Posted by ristello",
@@ -308,6 +319,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "signa11",
+      "tags": []
+    },
+    {
+      "id": "fo87wn",
+      "title": "Developing an Intuitive Sense of Scale",
+      "description": "Score: 28 | Comments: 4 | Posted by vismit2000",
+      "url": "https://magworld.pw",
+      "publishedAt": "2026-07-15T05:13:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vismit2000",
+      "tags": []
+    },
+    {
+      "id": "kmuevl",
+      "title": "Is this the end of the once-mighty GoPro?",
+      "description": "Score: 215 | Comments: 473 | Posted by aanet",
+      "url": "https://amateurphotographer.com/latest/photo-news/going-going-gone-is-this-the-end-of-the-once-mighty-gopro/",
+      "publishedAt": "2026-07-15T03:46:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "aanet",
       "tags": []
     },
     {

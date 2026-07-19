@@ -91,6 +91,17 @@
       "tags": []
     },
     {
+      "id": "vt3v9c",
+      "title": "Speech Recognition and TTS in less than 500kb",
+      "description": "Score: 429 | Comments: 54 | Posted by petewarden",
+      "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
+      "publishedAt": "2026-07-14T19:25:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "petewarden",
+      "tags": []
+    },
+    {
       "id": "80kwzp",
       "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
       "description": "Score: 343 | Comments: 160 | Posted by Synthetic7346",
@@ -267,6 +278,17 @@
       "tags": []
     },
     {
+      "id": "7xn2bx",
+      "title": "Using self-hosted Umami for iOS app analytics",
+      "description": "Score: 6 | Comments: 1 | Posted by Sankra",
+      "url": "https://hjerpbakk.com/blog/2026/07/14/umami-for-apps",
+      "publishedAt": "2026-07-14T12:34:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Sankra",
+      "tags": []
+    },
+    {
       "id": "cgqqzc",
       "title": "How to stop Claude from saying load-bearing",
       "description": "Score: 517 | Comments: 542 | Posted by shintoist",
@@ -297,6 +319,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "AdityaAnand1",
+      "tags": []
+    },
+    {
+      "id": "leg59y",
+      "title": "Making Software: How to make a font",
+      "description": "Score: 33 | Comments: 6 | Posted by Garbage",
+      "url": "https://www.makingsoftware.com/chapters/how-to-make-a-font",
+      "publishedAt": "2026-07-14T09:41:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Garbage",
       "tags": []
     },
     {
