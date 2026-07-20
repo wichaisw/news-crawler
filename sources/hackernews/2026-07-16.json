@@ -146,6 +146,17 @@
       "tags": []
     },
     {
+      "id": "s4hb29",
+      "title": "1-Bit LLM in the Browser",
+      "description": "Score: 31 | Comments: 9 | Posted by simonebrunozzi",
+      "url": "https://huggingface.co/spaces/webml-community/bonsai-webgpu",
+      "publishedAt": "2026-07-16T16:50:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "simonebrunozzi",
+      "tags": []
+    },
+    {
       "id": "mzsffm",
       "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
       "description": "Score: 190 | Comments: 134 | Posted by uneven9434",

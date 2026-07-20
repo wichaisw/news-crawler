@@ -1,0 +1,138 @@
+{
+  "date": "2026-07-20",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "die6c5",
+      "title": "US gas prices hit an average of $4 a gallon again",
+      "description": "Score: 6 | Comments: 0 | Posted by geox",
+      "url": "https://apnews.com/article/gas-prices-iran-war-4-gallon-4b82825734ec3ded192351e53a4be69e",
+      "publishedAt": "2026-07-20T09:12:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "geox",
+      "tags": []
+    },
+    {
+      "id": "9esvck",
+      "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25slcyber.io",
+      "description": "Score: 22 | Comments: 6 | Posted by infosecau",
+      "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
+      "publishedAt": "2026-07-20T08:17:20.911Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "infosecau",
+      "tags": []
+    },
+    {
+      "id": "9esvck",
+      "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
+      "description": "Score: 22 | Comments: 6 | Posted by infosecau",
+      "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
+      "publishedAt": "2026-07-20T08:13:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "infosecau",
+      "tags": []
+    },
+    {
+      "id": "pdcddp",
+      "title": "Nolan's Odyssey – A technical analysis by a nitpicky Classics student",
+      "description": "Score: 8 | Comments: 2 | Posted by lylo",
+      "url": "https://earlrambles.pagecord.com/nolans-odyssey-a-very-technical-analysis-by-a-very-nitpicky-classics-student",
+      "publishedAt": "2026-07-20T07:36:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lylo",
+      "tags": []
+    },
+    {
+      "id": "3xxsso",
+      "title": "EU Exempts Apple Watch and AirPods from Battery Removal Requirements",
+      "description": "Score: 19 | Comments: 31 | Posted by miohtama",
+      "url": "https://mjtsai.com/blog/2026/07/17/eu-exempts-apple-watch-and-airpods-from-battery-removal-requirement/",
+      "publishedAt": "2026-07-20T07:10:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "miohtama",
+      "tags": []
+    },
+    {
+      "id": "ohwwmy",
+      "title": "How proprietary formats have become Microsoft’s main tool for lock-in",
+      "description": "Score: 81 | Comments: 50 | Posted by cube00",
+      "url": "https://blog.documentfoundation.org/blog/2026/07/17/microsofts-main-tool-for-lock-in/",
+      "publishedAt": "2026-07-20T04:49:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cube00",
+      "tags": []
+    },
+    {
+      "id": "q1j45",
+      "title": "Xiaomi-Robotics-1",
+      "description": "Score: 193 | Comments: 128 | Posted by ilreb",
+      "url": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
+      "publishedAt": "2026-07-20T04:45:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ilreb",
+      "tags": []
+    },
+    {
+      "id": "jfh0iu",
+      "title": "LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques",
+      "description": "Score: 72 | Comments: 10 | Posted by Vineeth147",
+      "url": "https://github.com/Saivineeth147/lora-speedrun",
+      "publishedAt": "2026-07-20T04:24:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Vineeth147",
+      "tags": []
+    },
+    {
+      "id": "s7bkif",
+      "title": "Power companies are using eminent domain to seize land for data centers",
+      "description": "Score: 97 | Comments: 54 | Posted by 1vuio0pswjnm7",
+      "url": "https://fortune.com/2026/07/19/data-center-eminent-domain-public-use/",
+      "publishedAt": "2026-07-20T04:19:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "1vuio0pswjnm7",
+      "tags": []
+    },
+    {
+      "id": "42fwaf",
+      "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
+      "description": "Score: 379 | Comments: 219 | Posted by loubbrad",
+      "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
+      "publishedAt": "2026-07-20T02:51:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "loubbrad",
+      "tags": []
+    },
+    {
+      "id": "90veja",
+      "title": "LLMs aren't remotely like compilers or power tools",
+      "description": "Score: 10 | Comments: 7 | Posted by blainehansen",
+      "url": "https://blainehansen.me/post/llms-not-power-tools/",
+      "publishedAt": "2026-07-20T01:47:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "blainehansen",
+      "tags": []
+    },
+    {
+      "id": "j749e2",
+      "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
+      "description": "Score: 169 | Comments: 73 | Posted by wertyk",
+      "url": "https://github.com/hgaiser/moonshine",
+      "publishedAt": "2026-07-20T00:16:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wertyk",
+      "tags": []
+    }
+  ]
+}
