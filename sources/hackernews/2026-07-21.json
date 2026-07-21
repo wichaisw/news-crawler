@@ -1,0 +1,116 @@
+{
+  "date": "2026-07-21",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "ae477z",
+      "title": "Linux kernel will support $ORIGIN, sort of",
+      "description": "Score: 22 | Comments: 9 | Posted by ingve",
+      "url": "https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of",
+      "publishedAt": "2026-07-21T06:29:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingve",
+      "tags": []
+    },
+    {
+      "id": "bazu6x",
+      "title": "Show HN: Ex Situ – Open-source spatial index of displaced cultural artifacts",
+      "description": "Score: 28 | Comments: 15 | Posted by hbyel",
+      "url": "https://exsitu.app/map",
+      "publishedAt": "2026-07-21T04:48:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hbyel",
+      "tags": []
+    },
+    {
+      "id": "b4b8ze",
+      "title": "Incremental – A library for incremental computationsgithub.com/janestreet",
+      "description": "Score: 158 | Comments: 23 | Posted by handfuloflight",
+      "url": "https://github.com/janestreet/incremental",
+      "publishedAt": "2026-07-21T04:31:50.715Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "handfuloflight",
+      "tags": []
+    },
+    {
+      "id": "h93pnn",
+      "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
+      "description": "Score: 253 | Comments: 125 | Posted by NordStreamYacht",
+      "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
+      "publishedAt": "2026-07-21T03:56:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "NordStreamYacht",
+      "tags": []
+    },
+    {
+      "id": "lruyop",
+      "title": "Running Doom on Our Custom CPU and Going Viral",
+      "description": "Score: 55 | Comments: 10 | Posted by arghunter",
+      "url": "https://www.armaangomes.com/blogs/doom/",
+      "publishedAt": "2026-07-21T03:54:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "arghunter",
+      "tags": []
+    },
+    {
+      "id": "4b8b1w",
+      "title": "A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste",
+      "description": "Score: 30 | Comments: 22 | Posted by sudo_cowsay",
+      "url": "https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/",
+      "publishedAt": "2026-07-21T03:52:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sudo_cowsay",
+      "tags": []
+    },
+    {
+      "id": "b4b8ze",
+      "title": "Incremental – A library for incremental computations",
+      "description": "Score: 158 | Comments: 23 | Posted by handfuloflight",
+      "url": "https://github.com/janestreet/incremental",
+      "publishedAt": "2026-07-21T03:50:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "handfuloflight",
+      "tags": []
+    },
+    {
+      "id": "b8jb5v",
+      "title": "VTubing: How a Japanese Phenomenon Is Going Worldwide",
+      "description": "Score: 17 | Comments: 1 | Posted by pwim",
+      "url": "https://www.tokyodev.com/articles/vtubing-how-a-japanese-phenomenon-is-going-worldwide",
+      "publishedAt": "2026-07-21T03:42:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pwim",
+      "tags": []
+    },
+    {
+      "id": "fyxgyy",
+      "title": "A PHP server that can handle 10x as many concurrent requests as Nginx+PHP-fpm",
+      "description": "Score: 25 | Comments: 7 | Posted by EGreg",
+      "url": "https://github.com/Qbix/webserver/blob/main/README.md",
+      "publishedAt": "2026-07-21T02:25:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "EGreg",
+      "tags": []
+    },
+    {
+      "id": "bl2ki7",
+      "title": "Flock Credibility Lost as It Repeatedly Lies to City Councils, Police, & Public",
+      "description": "Score: 379 | Comments: 105 | Posted by StatsAreFun",
+      "url": "https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country",
+      "publishedAt": "2026-07-21T00:33:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "StatsAreFun",
+      "tags": []
+    }
+  ]
+}

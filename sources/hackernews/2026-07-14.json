@@ -80,6 +80,17 @@
       "tags": []
     },
     {
+      "id": "hfpktz",
+      "title": "How to pack ternary numbers in 8-bit bytes",
+      "description": "Score: 6 | Comments: 1 | Posted by JoshTriplett",
+      "url": "https://compilade.net/blog/ternary-packing",
+      "publishedAt": "2026-07-14T20:53:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "JoshTriplett",
+      "tags": []
+    },
+    {
       "id": "or5mbj",
       "title": "How I use HTMX with Go",
       "description": "Score: 216 | Comments: 54 | Posted by gnabgib",
@@ -165,6 +176,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "cdrnsf",
+      "tags": []
+    },
+    {
+      "id": "rpzd7t",
+      "title": "Tensor Notation in Mathup",
+      "description": "Score: 11 | Comments: 1 | Posted by runarberg",
+      "url": "https://mathup.xyz/#tensors",
+      "publishedAt": "2026-07-14T16:57:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "runarberg",
       "tags": []
     },
     {

@@ -507,6 +507,17 @@
       "sourceName": "Hacker News",
       "author": "NaOH",
       "tags": []
+    },
+    {
+      "id": "wecejd",
+      "title": "What most histories get wrong about MUMPS's first standard",
+      "description": "Score: 14 | Comments: 9 | Posted by Rochus",
+      "url": "https://github.com/rochus-keller/MUMPS/blob/main/docs/First_MUMPS_Standard_Article.md",
+      "publishedAt": "2026-07-13T02:14:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Rochus",
+      "tags": []
     }
   ]
 }

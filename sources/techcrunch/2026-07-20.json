@@ -1,0 +1,182 @@
+{
+  "date": "2026-07-20",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3144524",
+      "title": "Colossal Biosciences reportedly in talks to raise new capital at $20B–$30B valuation",
+      "description": "The de-extinction startup is looking to double or triple its previous valuation, according to the report.",
+      "url": "https://techcrunch.com/2026/07/20/colossal-biosciences-reportedly-in-talks-to-raise-new-capital-at-20b-30b-valuation/",
+      "publishedAt": "2026-07-20T23:39:35.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Marina Temkin",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3144451",
+      "title": "Trump’s latest AI czar has already resigned",
+      "description": "The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar.",
+      "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+      "publishedAt": "2026-07-20T22:21:04.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Julie Bort",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3144366",
+      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+      "description": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.",
+      "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+      "publishedAt": "2026-07-20T21:21:15.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lucas Ropek",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3144390",
+      "title": "AI’s most important protocol is getting a little bit easier to use",
+      "description": "Under the new system, the protocol will take a looser, \"stateless\" approach to session IDs on the server side, similar to how most ordinary websites",
+      "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+      "publishedAt": "2026-07-20T20:50:40.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Russell Brandom",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3144370",
+      "title": "X relaunches a rebuilt Android app after year-long effort",
+      "description": "X says the rebuilt version of its Android app is now available globally.",
+      "url": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
+      "publishedAt": "2026-07-20T19:37:39.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sarah Perez",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3144280",
+      "title": "OpenAI is scared of open-weight models. Should the US be?",
+      "description": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of turning AI into a business.",
+      "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+      "publishedAt": "2026-07-20T19:33:25.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Tim Fernholz",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3144335",
+      "title": "Natural raises $30M to reinvent payments for AI agents — and take on Stripe",
+      "description": "The one-year-old startup aims to reinvent financial architecture for autonomous AI transactions.",
+      "url": "https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/",
+      "publishedAt": "2026-07-20T19:11:25.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Marina Temkin",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3144311",
+      "title": "Judge pauses $110B Paramount-Warner Bros. merger",
+      "description": "The lawsuit from the states alleges that the deal would harm movie theaters, basic cable distributors, and audiences.",
+      "url": "https://techcrunch.com/2026/07/20/judge-pauses-110b-paramount-warner-bros-merger/",
+      "publishedAt": "2026-07-20T17:58:50.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Aisha Malik",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3144118",
+      "title": "Adobe camera app’s new feature will critique your photos using AI",
+      "description": "Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app.",
+      "url": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
+      "publishedAt": "2026-07-20T15:45:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Ivan Mehta",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3144249",
+      "title": "Hackers are exploiting recently patched WordPress bugs, putting millions of websites at risk",
+      "description": "Two critical security flaws in WordPress’ software have given hackers the chance to remotely take over tens of millions of websites, according to an",
+      "url": "https://techcrunch.com/2026/07/20/hackers-are-exploiting-recently-patched-wordpress-bugs-putting-millions-of-websites-at-risk/",
+      "publishedAt": "2026-07-20T15:35:37.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lorenzo Franceschi-Bicchierai",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3144190",
+      "title": "YouTube clarifies policies around AI slop and upsetting videos",
+      "description": "YouTube has updated its monetization policies to more clearly define the kinds of AI-generated and low-quality videos that can’t earn ad revenue.",
+      "url": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
+      "publishedAt": "2026-07-20T15:23:06.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sarah Perez",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3144195",
+      "title": "Inference startup Infinity raises $15M from Touring Capital, OpenAI and Anthropic researchers",
+      "description": "AI infrastructure company Infinity announced Monday a $15 million raise at a $100 million valuation from investors including Touring Capital,",
+      "url": "https://techcrunch.com/2026/07/20/inference-startup-infinity-raises-15m-from-touring-capital-openai-and-athropic-researchers/",
+      "publishedAt": "2026-07-20T15:15:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3144192",
+      "title": "Hackers stole ‘significant’ amount of data from tech firm relied on by thousands of US hospitals and pharmacies",
+      "description": "Edinburgh-based tech firm Craneware said customer data was stolen during a cyberattack. The company makes software that thousands of U.S. hospitals,",
+      "url": "https://techcrunch.com/2026/07/20/hackers-stole-significant-amount-of-data-from-tech-firm-relied-on-by-thousands-of-us-hospitals-and-pharmacies/",
+      "publishedAt": "2026-07-20T15:01:20.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Zack Whittaker",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3143067",
+      "title": "Watch Flock Safety CEO Garrett Langley discuss the future of surveillance at TechCrunch Disrupt 2026",
+      "description": "Flock Safety sits right at the center of the debate over where the line should be drawn between privacy and public safety. That’s why we’re bringing",
+      "url": "https://techcrunch.com/2026/07/20/watch-flock-safety-ceo-garrett-langley-discuss-the-future-of-surveillance-at-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-07-20T14:30:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "TechCrunch Events",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3144122",
+      "title": "Hugging Face confirms breach affected internal datasets and credentials, urges users to take action",
+      "description": "Hugging Face is urging users to rotate any access tokens stored on the platform and review account activity.",
+      "url": "https://techcrunch.com/2026/07/20/hugging-face-confirms-breach-affected-internal-datasets-and-credentials-urges-users-to-take-action/",
+      "publishedAt": "2026-07-20T12:39:28.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Zack Whittaker",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3143787",
+      "title": "StrictlyVC returns to New York City September 10 to celebrate a huge year for the city’s startup community",
+      "description": "For the first time since 2024, StrictlyVC is coming back to New York City — and we're bringing the kind of access you’d expect from an under-wraps",
+      "url": "https://techcrunch.com/2026/07/20/strictlyvc-returns-to-new-york-city-september-10-to-celebrate-a-huge-year-for-the-citys-startup-community/",
+      "publishedAt": "2026-07-20T12:30:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "TechCrunch Events",
+      "tags": []
+    }
+  ]
+}
