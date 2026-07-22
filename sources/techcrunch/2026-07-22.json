@@ -1,0 +1,39 @@
+{
+  "date": "2026-07-22",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3145013",
+      "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
+      "description": "Synthesia launched AI Roleplay Sessions, an interactive enterprise training platform where employees practice workplace conversations with AI avatars",
+      "url": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
+      "publishedAt": "2026-07-22T08:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Rebecca Bellan",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3145006",
+      "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
+      "description": "Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor.",
+      "url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+      "publishedAt": "2026-07-22T03:20:57.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Connie Loizos",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3145093",
+      "title": "Dimension Capital’s $800M third fund shows the intersection of science and compute is booming",
+      "description": "The four-year-old firm's latest fund is 60% larger than its second vehicle announced 18 months ago.",
+      "url": "https://techcrunch.com/2026/07/21/dimension-capitals-800m-third-fund-shows-the-intersection-of-science-and-compute-is-booming/",
+      "publishedAt": "2026-07-22T01:27:58.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Marina Temkin",
+      "tags": []
+    }
+  ]
+}

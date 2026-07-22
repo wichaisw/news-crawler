@@ -1,0 +1,149 @@
+{
+  "date": "2026-07-22",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "t452g4",
+      "title": "I graded 36 popular MCP servers on agent usability. A third got a D or F",
+      "description": "Score: 6 | Comments: 0 | Posted by tengbyte",
+      "url": "https://tengli.dev/posts/mcp-servers-failing-agents.html",
+      "publishedAt": "2026-07-22T05:51:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tengbyte",
+      "tags": []
+    },
+    {
+      "id": "x3gez1",
+      "title": "Show HN: ReadKinetic – a free, local-first speed reader for your own books",
+      "description": "Score: 53 | Comments: 20 | Posted by SamuraiLion",
+      "url": "https://www.readkinetic.com/app/",
+      "publishedAt": "2026-07-22T05:49:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "SamuraiLion",
+      "tags": []
+    },
+    {
+      "id": "3xpc4k",
+      "title": "Show HN: A new kind of FPS aim trainer",
+      "description": "Score: 31 | Comments: 16 | Posted by pmazumder",
+      "url": "https://openaim.pramit.gg/",
+      "publishedAt": "2026-07-22T05:39:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pmazumder",
+      "tags": []
+    },
+    {
+      "id": "ssas6e",
+      "title": "Samsung in talks to invest in Mistral at €20B valuation",
+      "description": "Score: 22 | Comments: 0 | Posted by petethomas",
+      "url": "https://www.ft.com/content/67a5d255-c6e9-4269-b8a0-3105db69c1ec",
+      "publishedAt": "2026-07-22T05:19:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "petethomas",
+      "tags": []
+    },
+    {
+      "id": "v8nh0v",
+      "title": "Original Apollo 11 Guidance Computer source code for command and lunar modules",
+      "description": "Score: 58 | Comments: 16 | Posted by noteness",
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "publishedAt": "2026-07-22T05:18:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "noteness",
+      "tags": []
+    },
+    {
+      "id": "9thl8i",
+      "title": "Tesla Balance Bike",
+      "description": "Score: 9 | Comments: 13 | Posted by surprisetalk",
+      "url": "https://shop.tesla.com/product/balance-bike-for-kids",
+      "publishedAt": "2026-07-22T04:00:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
+      "id": "nd95se",
+      "title": "Apply Tracker, Free AI CV, Cover Letter and Job Tracker",
+      "description": "Score: 8 | Comments: 0 | Posted by mirnumbing",
+      "url": "https://www.apply-tracker.com/en",
+      "publishedAt": "2026-07-22T03:47:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mirnumbing",
+      "tags": []
+    },
+    {
+      "id": "uihqso",
+      "title": "A simple API for offering your coding agent a smoke break",
+      "description": "Score: 8 | Comments: 1 | Posted by cr4shed",
+      "url": "https://smoke-break.pineapplefreefall.com",
+      "publishedAt": "2026-07-22T03:40:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cr4shed",
+      "tags": []
+    },
+    {
+      "id": "laktqv",
+      "title": "Never Enough",
+      "description": "Score: 7 | Comments: 0 | Posted by reasonableklout",
+      "url": "https://dark.ronacher.eu/2026/7/21/never-enough/",
+      "publishedAt": "2026-07-22T03:24:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "reasonableklout",
+      "tags": []
+    },
+    {
+      "id": "1y04xr",
+      "title": "Late.sh – a command-line Clubhouse for computer people",
+      "description": "Score: 138 | Comments: 48 | Posted by itherseed",
+      "url": "https://late.sh/",
+      "publishedAt": "2026-07-22T02:32:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "itherseed",
+      "tags": []
+    },
+    {
+      "id": "p5nth5",
+      "title": "LG to ban residential proxies from smart TV apps",
+      "description": "Score: 248 | Comments: 217 | Posted by DemiGuru",
+      "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+      "publishedAt": "2026-07-22T01:52:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "DemiGuru",
+      "tags": []
+    },
+    {
+      "id": "m0fxkb",
+      "title": "Ten Steps Towards Happiness (2015)",
+      "description": "Score: 118 | Comments: 41 | Posted by emerongi",
+      "url": "http://hintjens.com/blog:99",
+      "publishedAt": "2026-07-22T01:17:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "emerongi",
+      "tags": []
+    },
+    {
+      "id": "mv3s1d",
+      "title": "A flaky test exposed a Redis client use-after-free",
+      "description": "Score: 44 | Comments: 13 | Posted by DrNemski",
+      "url": "https://buildkite.engineering/how-a-flaky-test-exposed-a-redis-use-after-free/",
+      "publishedAt": "2026-07-22T00:27:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "DrNemski",
+      "tags": []
+    }
+  ]
+}

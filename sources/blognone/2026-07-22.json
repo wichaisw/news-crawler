@@ -1,0 +1,51 @@
+{
+  "date": "2026-07-22",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "151208 at https://www.blognone.com",
+      "title": "Microsoft ซื้อแร็กเซิร์ฟเวอร์ AI Helios จาก AMD ใช้งานในศูนย์ข้อมูล Azure",
+      "description": "Microsoft ซื้อแร็กเซิร์ฟเวอร์ AI Helios จาก AMD ใช้งานในศูนย์ข้อมูล Azure Body AMD ประกาศว่าไมโครซอฟท์ได้ทำข้อตกลงความร่วมมือ เพื่อนำ AMD Helios",
+      "url": "https://www.blognone.com/node/151208",
+      "publishedAt": "2026-07-22T02:06:50.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151210 at https://www.blognone.com",
+      "title": "Google ออก Gemini 3.6 Flash ใช้โทเค็นมีประสิทธิภาพมากขึ้น ราคาถูกกว่า 3.5 Flash",
+      "description": "Google ออก Gemini 3.6 Flash ใช้โทเค็นมีประสิทธิภาพมากขึ้น ราคาถูกกว่า 3.5 Flash Body กูเกิลอัปเดตโมเดลปัญญาประดิษฐ์ Gemini 3.6 Flash",
+      "url": "https://www.blognone.com/node/151210",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2026/2026-07/gemini-3-6-flash-evals-figure-width-1600.format-webp.jpg",
+      "publishedAt": "2026-07-22T02:05:47.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151209 at https://www.blognone.com",
+      "title": "WordPress ออกแพตช์ 7.0.2 แก้ไขช่องโหว่ร้ายแรง แนะนำให้อัปเดตทันที",
+      "description": "WordPress ออกแพตช์ 7.0.2 แก้ไขช่องโหว่ร้ายแรง แนะนำให้อัปเดตทันที Body WordPress ออกแพตช์เวอร์ชัน 7.0.2 เมื่อสัปดาห์ที่แล้ว",
+      "url": "https://www.blognone.com/node/151209",
+      "publishedAt": "2026-07-22T01:53:09.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151207 at https://www.blognone.com",
+      "title": "OpenAI ยกมือยอมรับ โมเดลรุ่นใหม่ที่กำลังทดสอบ ได้เข้าไปเจาะระบบของ Hugging Face เมื่อวันก่อน",
+      "description": "OpenAI ยกมือยอมรับ โมเดลรุ่นใหม่ที่กำลังทดสอบ ได้เข้าไปเจาะระบบของ Hugging Face เมื่อวันก่อน Body เมื่อสองวันก่อน Hugging Face เปิดเผย",
+      "url": "https://www.blognone.com/node/151207",
+      "publishedAt": "2026-07-22T01:03:14.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}
