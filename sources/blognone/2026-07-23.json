@@ -1,0 +1,51 @@
+{
+  "date": "2026-07-23",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "151218 at https://www.blognone.com",
+      "title": "Microsoft ประกาศเตรียมเลิกให้บริการ SMS และ Voice MFA บน Entra ID ดัน Passkey เป็นมาตรฐานหลัก เริ่ม 1 ก.พ. 2027",
+      "description": "Microsoft ประกาศเตรียมเลิกให้บริการ SMS และ Voice MFA บน Entra ID ดัน Passkey เป็นมาตรฐานหลัก เริ่ม 1 ก.พ. 2027 Body Microsoft",
+      "url": "https://www.blognone.com/node/151218",
+      "publishedAt": "2026-07-23T06:23:29.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151217 at https://www.blognone.com",
+      "title": "IBM ไตรมาส 2/2026 รายได้โตเล็กน้อย ตามที่บริษัทให้ข้อมูลก่อนหน้านี้",
+      "description": "IBM ไตรมาส 2/2026 รายได้โตเล็กน้อย ตามที่บริษัทให้ข้อมูลก่อนหน้านี้ Body ไอบีเอ็มรายงานผลประกอบการของไตรมาสที่ 2 ปี 2026 ซึ่ง",
+      "url": "https://www.blognone.com/node/151217",
+      "publishedAt": "2026-07-23T06:04:52.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151216 at https://www.blognone.com",
+      "title": "Google ไตรมาส 2/2026 ธุรกิจคลาวด์โต 82%, Gemini มีผู้ใช้งาน 950 ล้านคน",
+      "description": "Google ไตรมาส 2/2026 ธุรกิจคลาวด์โต 82%, Gemini มีผู้ใช้งาน 950 ล้านคน Body Alphabet บริษัทแม่ของกูเกิลรายงานผลประกอบการประจำไตรมาสที่ 2 ปี 2026",
+      "url": "https://www.blognone.com/node/151216",
+      "publishedAt": "2026-07-23T00:35:27.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151215 at https://www.blognone.com",
+      "title": "Samsung เปิดตัว Galaxy Z Fold8, Galaxy Z Flip8 และน้องใหม่ Galaxy Z Fold8 Ultra",
+      "description": "Samsung เปิดตัว Galaxy Z Fold8, Galaxy Z Flip8 และน้องใหม่ Galaxy Z Fold8 Ultra Body ซัมซุงเปิดตัวสมาร์ทโฟนจอพับตระกูล Galaxy Z Fold8 ในงาน Galaxy",
+      "url": "https://www.blognone.com/node/151215",
+      "imageUrl": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/07/22230525/Samsung-Mobile-Galaxy-Unpacked-July-2026-Galaxy-Z-Fold8-Ultra-Galaxy-Z-Fold8-Galaxy-Z-Flip8-Launch_main6_FINAL.jpg",
+      "publishedAt": "2026-07-23T00:25:17.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}

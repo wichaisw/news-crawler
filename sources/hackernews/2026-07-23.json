@@ -1,0 +1,94 @@
+{
+  "date": "2026-07-23",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "yt9cb2",
+      "title": "Cruller: Bun's Zig Runtime, Continued on Zig 0.16",
+      "description": "Score: 30 | Comments: 5 | Posted by Erenay09",
+      "url": "https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734",
+      "publishedAt": "2026-07-23T05:40:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Erenay09",
+      "tags": []
+    },
+    {
+      "id": "nyqnpl",
+      "title": "Amiga 1000: Ten years ahead of its time",
+      "description": "Score: 56 | Comments: 29 | Posted by giuliomagnifico",
+      "url": "https://dfarq.homeip.net/amiga-1000-ten-years-ahead-of-its-time/",
+      "publishedAt": "2026-07-23T05:24:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "giuliomagnifico",
+      "tags": []
+    },
+    {
+      "id": "ku4alx",
+      "title": "Restructuring GitHub's bug bounty program",
+      "description": "Score: 42 | Comments: 17 | Posted by soheilpro",
+      "url": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
+      "publishedAt": "2026-07-23T02:28:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "soheilpro",
+      "tags": []
+    },
+    {
+      "id": "o29xmn",
+      "title": "Honey Bee Colony Monitoring via Audio IoT Sensors, Tensorgrams and RNNs",
+      "description": "Score: 16 | Comments: 0 | Posted by StatsAreFun",
+      "url": "https://arxiv.org/abs/2607.20386",
+      "publishedAt": "2026-07-23T01:58:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "StatsAreFun",
+      "tags": []
+    },
+    {
+      "id": "swn124",
+      "title": "Map of Every Clean Water Act (Npdes) Discharge Violation in the US",
+      "description": "Score: 11 | Comments: 1 | Posted by offtrailstudio",
+      "url": "https://www.speakforthetrees.com/facilities",
+      "publishedAt": "2026-07-23T01:56:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "offtrailstudio",
+      "tags": []
+    },
+    {
+      "id": "h6xj2o",
+      "title": "Petals: Run LLMs at home, BitTorrent-style",
+      "description": "Score: 108 | Comments: 32 | Posted by snorbleck",
+      "url": "https://petals.dev/",
+      "publishedAt": "2026-07-23T01:33:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "snorbleck",
+      "tags": []
+    },
+    {
+      "id": "pb4et9",
+      "title": "Protecting our FLOSS commons from LLMs",
+      "description": "Score: 25 | Comments: 2 | Posted by acmnrs",
+      "url": "https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html",
+      "publishedAt": "2026-07-23T01:14:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "acmnrs",
+      "tags": []
+    },
+    {
+      "id": "y301kf",
+      "title": "Codeberg Bans Cryptocurrency Projects",
+      "description": "Score: 273 | Comments: 393 | Posted by intunderflow",
+      "url": "https://codeberg.org/Codeberg/org/pulls/1254",
+      "publishedAt": "2026-07-23T01:06:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "intunderflow",
+      "tags": []
+    }
+  ]
+}

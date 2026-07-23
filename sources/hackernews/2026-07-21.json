@@ -278,6 +278,28 @@
       "tags": []
     },
     {
+      "id": "7cl5mv",
+      "title": "git's –end-of-options Flag",
+      "description": "Score: 129 | Comments: 60 | Posted by Erenay09",
+      "url": "https://nesbitt.io/2026/07/21/end-of-options.html",
+      "publishedAt": "2026-07-21T13:13:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Erenay09",
+      "tags": []
+    },
+    {
+      "id": "ebd5ey",
+      "title": "Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot",
+      "description": "Score: 34 | Comments: 0 | Posted by jjba23",
+      "url": "https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html",
+      "publishedAt": "2026-07-21T10:04:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jjba23",
+      "tags": []
+    },
+    {
       "id": "gs68lb",
       "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
       "description": "Score: 554 | Comments: 211 | Posted by ilreb",
@@ -286,6 +308,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ilreb",
+      "tags": []
+    },
+    {
+      "id": "jx148g",
+      "title": "ANSI escape injection in MCP servers: Hidden from humans, visible to AI",
+      "description": "Score: 6 | Comments: 0 | Posted by xgpyc2qp",
+      "url": "https://brightsec.com/research/detecting-ansi-escape-sequence-injection-in-mcp-servers-with-dast/",
+      "publishedAt": "2026-07-21T07:01:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "xgpyc2qp",
       "tags": []
     },
     {

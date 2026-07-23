@@ -25,6 +25,17 @@
       "tags": []
     },
     {
+      "id": "elqb57",
+      "title": "ascdraw: Editor for ASCII/UTF-8 diagrams (in 144FPS)",
+      "description": "Score: 42 | Comments: 4 | Posted by xlii",
+      "url": "https://github.com/exlee/ascdraw",
+      "publishedAt": "2026-07-20T20:34:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "xlii",
+      "tags": []
+    },
+    {
       "id": "ace6pc",
       "title": "I wrote an bash enumerator because I was sick of xargs",
       "description": "Score: 121 | Comments: 101 | Posted by wallach-game",
@@ -66,6 +77,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "artninja1988",
+      "tags": []
+    },
+    {
+      "id": "1ee8fp",
+      "title": "Making ASCII Art in Vim",
+      "description": "Score: 58 | Comments: 5 | Posted by evakhoury",
+      "url": "https://alexyang.dev/vim-ascii-art/",
+      "publishedAt": "2026-07-20T18:42:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "evakhoury",
       "tags": []
     },
     {
@@ -267,6 +289,17 @@
       "tags": []
     },
     {
+      "id": "bpydl6",
+      "title": "Why malloc always does more than I asked for?",
+      "description": "Score: 27 | Comments: 14 | Posted by nathaah3",
+      "url": "https://ssenthilnathan3.github.io/blog/malloc/",
+      "publishedAt": "2026-07-20T11:50:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nathaah3",
+      "tags": []
+    },
+    {
       "id": "gjaa65",
       "title": "Who's afraid of Chinese models?",
       "description": "Score: 596 | Comments: 403 | Posted by mfiguiere",
@@ -330,6 +363,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "lylo",
+      "tags": []
+    },
+    {
+      "id": "rxvn18",
+      "title": "Taking OCaml and Eio for a Spin",
+      "description": "Score: 53 | Comments: 6 | Posted by mattjhall",
+      "url": "https://mattjhall.co.uk/posts/taking-ocaml-eio-for-a-spin.html",
+      "publishedAt": "2026-07-20T07:32:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mattjhall",
       "tags": []
     },
     {

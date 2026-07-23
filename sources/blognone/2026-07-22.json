@@ -3,6 +3,50 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "151214 at https://www.blognone.com",
+      "title": "พี่ก็รับมาแพง NVIDIA ขึ้นราคาสินค้ากลุ่ม Jetson ทั้งชุด เพิ่มขึ้น 33%-101%",
+      "description": "พี่ก็รับมาแพง NVIDIA ขึ้นราคาสินค้ากลุ่ม Jetson ทั้งชุด เพิ่มขึ้น 33%-101% Body NVIDIA ปรับราคาสินค้ากลุ่ม Jetson",
+      "url": "https://www.blognone.com/node/151214",
+      "publishedAt": "2026-07-22T23:44:26.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151213 at https://www.blognone.com",
+      "title": "พี่รับมาแพง TSMC เริ่มขึ้นราคาค่าผลิตชิปปี 2027 ระบุวัตถุดิบแพงขึ้น",
+      "description": "พี่รับมาแพง TSMC เริ่มขึ้นราคาค่าผลิตชิปปี 2027 ระบุวัตถุดิบแพงขึ้น Body Nikkei Asia อ้างแหล่งข่าวไม่เปิดเผยตัว ระบุว่า TSMC ปรับราคาค่าผลิตชิปในปี",
+      "url": "https://www.blognone.com/node/151213",
+      "publishedAt": "2026-07-22T23:19:43.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151212 at https://www.blognone.com",
+      "title": "สหรัฐฯ ชี้ Moonshot AI ใช้ข้อมูล Claude Fable และฝึกโมเดลด้วยชิป GB300 ในไทย",
+      "description": "สหรัฐฯ ชี้ Moonshot AI ใช้ข้อมูล Claude Fable และฝึกโมเดลด้วยชิป GB300 ในไทย Body Michael Kratsios",
+      "url": "https://www.blognone.com/node/151212",
+      "publishedAt": "2026-07-22T20:14:36.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151211 at https://www.blognone.com",
+      "title": "Moonshot AI พัฒนาระบบแคชภายในให้ออปติไมซ์กับชิป AMD Instinct MI355X",
+      "description": "Moonshot AI พัฒนาระบบแคชภายในให้ออปติไมซ์กับชิป AMD Instinct MI355X Body Moonshot AI ผู้สร้างโมเดลปัญญาประดิษฐ์ Kimi K3",
+      "url": "https://www.blognone.com/node/151211",
+      "publishedAt": "2026-07-22T19:23:08.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "151208 at https://www.blognone.com",
       "title": "Microsoft ซื้อแร็กเซิร์ฟเวอร์ AI Helios จาก AMD ใช้งานในศูนย์ข้อมูล Azure",
       "description": "Microsoft ซื้อแร็กเซิร์ฟเวอร์ AI Helios จาก AMD ใช้งานในศูนย์ข้อมูล Azure Body AMD ประกาศว่าไมโครซอฟท์ได้ทำข้อตกลงความร่วมมือ เพื่อนำ AMD Helios",
