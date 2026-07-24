@@ -3,6 +3,74 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "151224 at https://www.blognone.com",
+      "title": "[ลือ] Stripe เสนอซื้อกิจการ OpenRouter มูลค่าดีลราว 1 หมื่นล้านดอลลาร์",
+      "description": "[ลือ] Stripe เสนอซื้อกิจการ OpenRouter มูลค่าดีลราว 1 หมื่นล้านดอลลาร์ Body The Wall Street Journal อ้างแหล่งข่าวที่เกี่ยวข้องบอกว่า Stripe",
+      "url": "https://www.blognone.com/node/151224",
+      "publishedAt": "2026-07-23T23:46:45.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151223 at https://www.blognone.com",
+      "title": "Intel ไตรมาส 2/2026 รายได้เติบโตสูงสุดในรอบ 5 ปี ตามความต้องการสินค้า AI",
+      "description": "Intel ไตรมาส 2/2026 รายได้เติบโตสูงสุดในรอบ 5 ปี ตามความต้องการสินค้า AI Body อินเทลรายงานผลประกอบการของไตรมาสที่ 2 ปี 2026 รายได้รวม 16,128",
+      "url": "https://www.blognone.com/node/151223",
+      "publishedAt": "2026-07-23T22:59:07.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151222 at https://www.blognone.com",
+      "title": "AMD เปิดตัว EPYC รุ่นที่ 6 Venice อัดคอร์ได้แน่นเกือบ 50,000 คอร์ต่อตู้",
+      "description": "AMD เปิดตัว EPYC รุ่นที่ 6 Venice อัดคอร์ได้แน่นเกือบ 50,000 คอร์ต่อตู้ Body เอเอ็มดีเปิดตัวชิป EPYC รุ่นที่ 6 ในงาน Advancing AI 2026",
+      "url": "https://www.blognone.com/node/151222",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2026/2026-07/amdepyc.jpg",
+      "publishedAt": "2026-07-23T22:24:22.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151221 at https://www.blognone.com",
+      "title": "AMD เปิดตัวชิป Instinct ตระกูล MI400 เป็นทางการ เทคโนโลยี 2nm อัดแรมชิปละ 432GB",
+      "description": "AMD เปิดตัวชิป Instinct ตระกูล MI400 เป็นทางการ เทคโนโลยี 2nm อัดแรมชิปละ 432GB Body เอเอ็มดีเปิดตัวชิปกราฟิกสำหรับศูนย์ข้อมูลในตระกูล Instinct MI400",
+      "url": "https://www.blognone.com/node/151221",
+      "publishedAt": "2026-07-23T19:07:25.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151220 at https://www.blognone.com",
+      "title": "ทลายกำแพง CUDA, AMD เปิดชุดเครื่องมือ ROCm.ai เชื่อม Claude, Cursor, Codex ให้พอร์ต AI มารันบนชิป AMD ง่ายๆ",
+      "description": "ทลายกำแพง CUDA, AMD เปิดชุดเครื่องมือ ROCm.ai เชื่อม Claude, Cursor, Codex ให้พอร์ต AI มารันบนชิป AMD ง่ายๆ Body เอเอ็มดีประกาศเปิดชุดเครื่องมือ",
+      "url": "https://www.blognone.com/node/151220",
+      "publishedAt": "2026-07-23T18:12:11.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151219 at https://www.blognone.com",
+      "title": "AMD เปิดตัวเซิร์ฟเวอร์ Helios เซิร์ฟเวอร์  AI ชี้ประสิทธิภาพต่อโทเค็นเหนือกว่า NVIDIA Vera Rubin 30%",
+      "description": "AMD เปิดตัวเซิร์ฟเวอร์ Helios เซิร์ฟเวอร์ AI ชี้ประสิทธิภาพต่อโทเค็นเหนือกว่า NVIDIA Vera Rubin 30% Body วันนี้ในงาน AMD Advancing AI 2026",
+      "url": "https://www.blognone.com/node/151219",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2026/2026-07/screenshot-2026-07-23-at-09.06.39.jpg",
+      "publishedAt": "2026-07-23T16:49:12.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "151218 at https://www.blognone.com",
       "title": "Microsoft ประกาศเตรียมเลิกให้บริการ SMS และ Voice MFA บน Entra ID ดัน Passkey เป็นมาตรฐานหลัก เริ่ม 1 ก.พ. 2027",
       "description": "Microsoft ประกาศเตรียมเลิกให้บริการ SMS และ Voice MFA บน Entra ID ดัน Passkey เป็นมาตรฐานหลัก เริ่ม 1 ก.พ. 2027 Body Microsoft",

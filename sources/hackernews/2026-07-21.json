@@ -311,6 +311,28 @@
       "tags": []
     },
     {
+      "id": "1vpkd",
+      "title": "Visualizing the Artemis II Mission",
+      "description": "Score: 5 | Comments: 0 | Posted by msadowski",
+      "url": "https://foxglove.dev/blog/visualizing-the-artemis-ii-mission",
+      "publishedAt": "2026-07-21T07:22:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "msadowski",
+      "tags": []
+    },
+    {
+      "id": "4h9wzd",
+      "title": "Escape Analysis in Go: Stack vs. Heap Allocations Explained",
+      "description": "Score: 42 | Comments: 7 | Posted by ingve",
+      "url": "https://blog.jetbrains.com/go/2026/07/20/escape-analysis/",
+      "publishedAt": "2026-07-21T07:10:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingve",
+      "tags": []
+    },
+    {
       "id": "jx148g",
       "title": "ANSI escape injection in MCP servers: Hidden from humans, visible to AI",
       "description": "Score: 6 | Comments: 0 | Posted by xgpyc2qp",
@@ -330,6 +352,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ingve",
+      "tags": []
+    },
+    {
+      "id": "5pwuu8",
+      "title": "Modula-3 History Collection on Computer History Museum",
+      "description": "Score: 21 | Comments: 3 | Posted by pjmlp",
+      "url": "https://softwarepreservation.computerhistory.org/modula3/",
+      "publishedAt": "2026-07-21T06:08:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pjmlp",
       "tags": []
     },
     {
@@ -429,6 +462,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "StatsAreFun",
+      "tags": []
+    },
+    {
+      "id": "hi7lpa",
+      "title": "Quickly rewrite Git repository history",
+      "description": "Score: 36 | Comments: 1 | Posted by modinfo",
+      "url": "https://github.com/newren/git-filter-repo",
+      "publishedAt": "2026-07-21T00:28:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "modinfo",
       "tags": []
     }
   ]

@@ -25,6 +25,28 @@
       "tags": []
     },
     {
+      "id": "1gwhsy",
+      "title": "Converting Files into Minecraft Worlds",
+      "description": "Score: 61 | Comments: 18 | Posted by wuemeli",
+      "url": "https://wuemeli.com/blog/sulfur-part-1/",
+      "publishedAt": "2026-07-20T20:54:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wuemeli",
+      "tags": []
+    },
+    {
+      "id": "9bl17",
+      "title": "Projects every RC live races and results",
+      "description": "Score: 5 | Comments: 0 | Posted by apokly",
+      "url": "https://rc-replay.dev/lr/vmrc/r/6912053",
+      "publishedAt": "2026-07-20T20:51:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "apokly",
+      "tags": []
+    },
+    {
       "id": "elqb57",
       "title": "ascdraw: Editor for ASCII/UTF-8 diagrams (in 144FPS)",
       "description": "Score: 42 | Comments: 4 | Posted by xlii",
@@ -245,6 +267,17 @@
       "tags": []
     },
     {
+      "id": "a7ucvj",
+      "title": "Meta Garbage Collection: Using OCaml's GC to GC Rust",
+      "description": "Score: 71 | Comments: 1 | Posted by annieversary",
+      "url": "https://soteria-tools.com/blog/meta-garbage-collection",
+      "publishedAt": "2026-07-20T13:59:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "annieversary",
+      "tags": []
+    },
+    {
       "id": "ceufsa",
       "title": "Firefox 153 available with support for Vulkan video decoding, JPEG-XL",
       "description": "Score: 268 | Comments: 60 | Posted by DemiGuru",
@@ -462,6 +495,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "blainehansen",
+      "tags": []
+    },
+    {
+      "id": "f4dt7w",
+      "title": "Freeze-Casting",
+      "description": "Score: 24 | Comments: 5 | Posted by soupspaces",
+      "url": "https://en.wikipedia.org/wiki/Freeze-casting",
+      "publishedAt": "2026-07-20T00:32:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "soupspaces",
       "tags": []
     },
     {

@@ -1,0 +1,94 @@
+{
+  "date": "2026-07-24",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "5ik6ol",
+      "title": "The PImpl idiom and the C++26 std:indirect typemariusbancila.ro",
+      "description": "Score: 28 | Comments: 22 | Posted by signa11",
+      "url": "https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/",
+      "publishedAt": "2026-07-24T07:29:44.207Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "signa11",
+      "tags": []
+    },
+    {
+      "id": "5ik6ol",
+      "title": "The PImpl idiom and the C++26 std:indirect type",
+      "description": "Score: 29 | Comments: 22 | Posted by signa11",
+      "url": "https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/",
+      "publishedAt": "2026-07-24T07:02:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "signa11",
+      "tags": []
+    },
+    {
+      "id": "414anq",
+      "title": "Flux 3bfl.ai",
+      "description": "Score: 168 | Comments: 43 | Posted by ThouYS",
+      "url": "https://bfl.ai/blog/flux-3",
+      "publishedAt": "2026-07-24T06:29:44.204Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ThouYS",
+      "tags": []
+    },
+    {
+      "id": "414anq",
+      "title": "Flux 3",
+      "description": "Score: 168 | Comments: 43 | Posted by ThouYS",
+      "url": "https://bfl.ai/blog/flux-3",
+      "publishedAt": "2026-07-24T06:17:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ThouYS",
+      "tags": []
+    },
+    {
+      "id": "rxofoj",
+      "title": "It's an Apple Lisa, on a FPGA",
+      "description": "Score: 8 | Comments: 1 | Posted by austinallegro",
+      "url": "https://hackaday.com/2026/05/09/its-an-apple-lisa-on-a-fpga/",
+      "publishedAt": "2026-07-24T06:16:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "austinallegro",
+      "tags": []
+    },
+    {
+      "id": "e17swk",
+      "title": "Claude Cookbook",
+      "description": "Score: 11 | Comments: 0 | Posted by saikatsg",
+      "url": "https://platform.claude.com/cookbook/",
+      "publishedAt": "2026-07-24T05:09:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "saikatsg",
+      "tags": []
+    },
+    {
+      "id": "zao152",
+      "title": "Technology is a slippery slope to the bottom",
+      "description": "Score: 13 | Comments: 1 | Posted by inatreecrown2",
+      "url": "https://danielc.dev/blog/slipperyslope/",
+      "publishedAt": "2026-07-24T01:02:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "inatreecrown2",
+      "tags": []
+    },
+    {
+      "id": "pjzbtu",
+      "title": "Show HN: A factory simulator game built on Spreadsheets",
+      "description": "Score: 13 | Comments: 2 | Posted by JeremyHe",
+      "url": "https://www.logisheets.com/?craft=factory-simulator",
+      "publishedAt": "2026-07-24T00:59:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "JeremyHe",
+      "tags": []
+    }
+  ]
+}
