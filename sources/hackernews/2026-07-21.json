@@ -179,6 +179,17 @@
       "tags": []
     },
     {
+      "id": "v7yniw",
+      "title": "Firefox Containers Preview",
+      "description": "Score: 306 | Comments: 96 | Posted by twapi",
+      "url": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
+      "publishedAt": "2026-07-21T17:27:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "twapi",
+      "tags": []
+    },
+    {
       "id": "eda9yg",
       "title": "Laguna S 2.1",
       "description": "Score: 307 | Comments: 55 | Posted by rexledesma",
@@ -275,6 +286,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "speckx",
+      "tags": []
+    },
+    {
+      "id": "j8ul1z",
+      "title": "A concrete explanation of how a cache works",
+      "description": "Score: 24 | Comments: 2 | Posted by parksb",
+      "url": "https://parksb.github.io/en/article/29.html",
+      "publishedAt": "2026-07-21T14:05:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "parksb",
+      "tags": []
+    },
+    {
+      "id": "3q9ye2",
+      "title": "PartialString – A finite-difference time-domain physical modelling synthesiser",
+      "description": "Score: 9 | Comments: 0 | Posted by shmeano",
+      "url": "https://differentinstruments.com/",
+      "publishedAt": "2026-07-21T13:19:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "shmeano",
       "tags": []
     },
     {
