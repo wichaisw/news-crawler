@@ -91,6 +91,17 @@
       "tags": []
     },
     {
+      "id": "morzx7",
+      "title": "Some more things about Django I've been enjoying",
+      "description": "Score: 22 | Comments: 5 | Posted by surprisetalk",
+      "url": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/",
+      "publishedAt": "2026-07-21T20:30:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
       "id": "gvu1el",
       "title": "OpenAI and Hugging Face address security incident during model evaluation",
       "description": "Score: 1089 | Comments: 738 | Posted by mfiguiere",

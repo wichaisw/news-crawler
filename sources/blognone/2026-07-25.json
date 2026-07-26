@@ -3,6 +3,39 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "151230 at https://www.blognone.com",
+      "title": "NVIDIA ทำข้อตกลงกับ SK Hynix ทั้งการผลิตชิป HBM และการสร้าง AI Factory มูลค่ารวม 5 แสนล้านดอลลาร์",
+      "description": "NVIDIA ทำข้อตกลงกับ SK Hynix ทั้งการผลิตชิป HBM และการสร้าง AI Factory มูลค่ารวม 5 แสนล้านดอลลาร์ Body NVIDIA ประกาศข้อตกลงควาวร่วมมือกับ SK Hynix",
+      "url": "https://www.blognone.com/node/151230",
+      "publishedAt": "2026-07-25T23:50:36.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151229 at https://www.blognone.com",
+      "title": "Samsung ทำข้อตกลงผลิตชิปให้ Broadcom มูลค่าสัญญา 2 แสนล้านดอลลาร์",
+      "description": "Samsung ทำข้อตกลงผลิตชิปให้ Broadcom มูลค่าสัญญา 2 แสนล้านดอลลาร์ Body ซัมซุงประกาศลงนามข้อตกลงกับ Broadcom ในเชิงกลยุทธ์ด้านการผลิตชิปหน่วยความจำ",
+      "url": "https://www.blognone.com/node/151229",
+      "publishedAt": "2026-07-25T23:49:18.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151228 at https://www.blognone.com",
+      "title": "ไมโครซอฟท์นำเกม Xbox ยุคแรกมาให้เล่นบนพีซี ผ่าน Xbox Backward Compatibility",
+      "description": "ไมโครซอฟท์นำเกม Xbox ยุคแรกมาให้เล่นบนพีซี ผ่าน Xbox Backward Compatibility Body ไมโครซอฟท์ประกาศนำเกมในโครงการ Xbox Backward Compatibility มาสู่พีซี",
+      "url": "https://www.blognone.com/node/151228",
+      "publishedAt": "2026-07-25T08:24:19.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "151227 at https://www.blognone.com",
       "title": "Anthropic ออก Claude Opus 5 บอกเก่งเทียบเท่า Fable 5 แต่ถูกกว่าครึ่งหนึ่ง",
       "description": "Anthropic ออก Claude Opus 5 บอกเก่งเทียบเท่า Fable 5 แต่ถูกกว่าครึ่งหนึ่ง Body Anthropic อัปเดตโมเดลปัญญาประดิษฐ์รุ่น(เคย)บน Claude Opus 5",

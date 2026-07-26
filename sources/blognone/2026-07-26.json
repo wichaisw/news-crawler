@@ -1,0 +1,62 @@
+{
+  "date": "2026-07-26",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "151235 at https://www.blognone.com",
+      "title": "Meta AI อัปเดตความสามารถ ช่วยวางแผน สรุปเนื้อหา ด้วยโมเดล Muse Spark 1.1",
+      "description": "Meta AI อัปเดตความสามารถ ช่วยวางแผน สรุปเนื้อหา ด้วยโมเดล Muse Spark 1.1 Body Meta AI แอปผู้ช่วย AI ของ Meta อัปเดตความสามารถใหม่หลังจากโมเดล [Muse",
+      "url": "https://www.blognone.com/node/151235",
+      "publishedAt": "2026-07-26T07:04:09.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151234 at https://www.blognone.com",
+      "title": "เว็บรับโฮสต์ซอฟต์แวร์ Codeberg แบนไม่รับโค้ดที่เขียนด้วย LLM บอกสิ้นเปลืองทรัพยากร",
+      "description": "เว็บรับโฮสต์ซอฟต์แวร์ Codeberg แบนไม่รับโค้ดที่เขียนด้วย LLM บอกสิ้นเปลืองทรัพยากร Body Codeberg บริการโฮสต์ซอร์สโค้ดสายโอเพนซอร์ส ( ข่าวเก่า )",
+      "url": "https://www.blognone.com/node/151234",
+      "publishedAt": "2026-07-26T02:58:45.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151233 at https://www.blognone.com",
+      "title": "ลีกเบสบอลสหรัฐ สั่งห้ามใช้ AI ช่วยวางแผนในระหว่างแข่งขัน หลังพบแนวโน้มมีมากขึ้น",
+      "description": "ลีกเบสบอลสหรัฐ สั่งห้ามใช้ AI ช่วยวางแผนในระหว่างแข่งขัน หลังพบแนวโน้มมีมากขึ้น Body มีประเด็นน่าสนใจเกี่ยวกับ AI และแวดวงกีฬาเมื่อ MLB",
+      "url": "https://www.blognone.com/node/151233",
+      "publishedAt": "2026-07-26T02:20:47.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151232 at https://www.blognone.com",
+      "title": "Facebook ออกแบดจ์ Facebook Verified ยืนยันว่ามีตัวตน ด้วยการสแกนใบหน้า",
+      "description": "Facebook ออกแบดจ์ Facebook Verified ยืนยันว่ามีตัวตน ด้วยการสแกนใบหน้า Body Facebook ประกาศเพิ่มบริการใหม่ให้แบดจ์เครื่องติ๊กถูกแบบไม่มีสีฟ้า",
+      "url": "https://www.blognone.com/node/151232",
+      "publishedAt": "2026-07-26T01:40:54.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151231 at https://www.blognone.com",
+      "title": "Meta ออกแอพแยก Seller สำหรับผู้ขายสินค้าบน Facebook Marketpace",
+      "description": "Meta ออกแอพแยก Seller สำหรับผู้ขายสินค้าบน Facebook Marketpace Body Meta ออกแอพมือถือใหม่ชื่อ Seller เป็นแอพแยกสำหรับผู้ขายใน Facebook Marketplace",
+      "url": "https://www.blognone.com/node/151231",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2026/2026-07/seller-app.webp",
+      "publishedAt": "2026-07-26T01:30:36.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}

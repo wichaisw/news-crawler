@@ -36,6 +36,17 @@
       "tags": []
     },
     {
+      "id": "9rk8n5",
+      "title": "Show HN: I made some transistor animations",
+      "description": "Score: 178 | Comments: 21 | Posted by stunningllama",
+      "url": "https://brandonli.net/semisim/animations",
+      "publishedAt": "2026-07-24T18:37:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "stunningllama",
+      "tags": []
+    },
+    {
       "id": "nh680u",
       "title": "Gsxui – Shadcn-style components for Go",
       "description": "Score: 64 | Comments: 11 | Posted by jackielii",
@@ -165,6 +176,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "m0do1",
+      "tags": []
+    },
+    {
+      "id": "55o5ld",
+      "title": "Stinkpot: SQLite-backed shell history",
+      "description": "Score: 43 | Comments: 9 | Posted by nerdypepper",
+      "url": "https://tangled.org/oppi.li/stinkpot",
+      "publishedAt": "2026-07-24T12:44:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nerdypepper",
       "tags": []
     },
     {

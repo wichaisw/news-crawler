@@ -69,6 +69,17 @@
       "tags": []
     },
     {
+      "id": "afczb5",
+      "title": "SIMD for Collision",
+      "description": "Score: 89 | Comments: 27 | Posted by birdculture",
+      "url": "https://box2d.org/posts/2026/07/simd-for-collision/",
+      "publishedAt": "2026-07-22T21:09:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "birdculture",
+      "tags": []
+    },
+    {
       "id": "jioc2d",
       "title": "I Inspected My Take-Home Interview Project. It Was a Whole Operation",
       "description": "Score: 363 | Comments: 100 | Posted by CITIZENDOT",
@@ -234,6 +245,17 @@
       "tags": []
     },
     {
+      "id": "ri52eg",
+      "title": "Retry Storm Lab",
+      "description": "Score: 8 | Comments: 0 | Posted by flurly",
+      "url": "https://github.com/telemetry-sh/retry-storm-lab",
+      "publishedAt": "2026-07-22T15:07:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "flurly",
+      "tags": []
+    },
+    {
       "id": "dyoys8",
       "title": "Ghost Cut – Or why Cut and Paste is broken everywhere",
       "description": "Score: 160 | Comments: 106 | Posted by willm",
@@ -289,6 +311,17 @@
       "tags": []
     },
     {
+      "id": "nabc84",
+      "title": "Spatial languages: Writing code in 2D",
+      "description": "Score: 109 | Comments: 39 | Posted by BinRoo",
+      "url": "https://shukla.io/blog/2026-07/cccx.html",
+      "publishedAt": "2026-07-22T14:03:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "BinRoo",
+      "tags": []
+    },
+    {
       "id": "183l3q",
       "title": "Back to Kagi",
       "description": "Score: 261 | Comments: 195 | Posted by speckx",
@@ -297,6 +330,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "speckx",
+      "tags": []
+    },
+    {
+      "id": "hhzo9w",
+      "title": "How My Images Are Dithered",
+      "description": "Score: 231 | Comments: 75 | Posted by surprisetalk",
+      "url": "https://dead.garden/blog/how-my-images-are-dithered.html",
+      "publishedAt": "2026-07-22T13:00:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
       "tags": []
     },
     {
@@ -355,6 +399,17 @@
       "tags": []
     },
     {
+      "id": "ochoka",
+      "title": "DskDitto: Ultra-fast, parallel duplicate-file detector",
+      "description": "Score: 5 | Comments: 0 | Posted by ingve",
+      "url": "https://github.com/jdefrancesco/dskDitto",
+      "publishedAt": "2026-07-22T06:52:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingve",
+      "tags": []
+    },
+    {
       "id": "t452g4",
       "title": "I graded 36 popular MCP servers on agent usability. A third got a D or F",
       "description": "Score: 6 | Comments: 0 | Posted by tengbyte",
@@ -385,6 +440,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "pmazumder",
+      "tags": []
+    },
+    {
+      "id": "4je62m",
+      "title": "Librrd Playground",
+      "description": "Score: 6 | Comments: 2 | Posted by E-Reverance",
+      "url": "https://systemf.epfl.ch/etc/librrd/",
+      "publishedAt": "2026-07-22T05:31:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "E-Reverance",
       "tags": []
     },
     {

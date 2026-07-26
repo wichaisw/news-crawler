@@ -1,0 +1,171 @@
+{
+  "date": "2026-07-26",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "vucq7b",
+      "title": "GrapheneOS protections against data extraction from locked devices",
+      "description": "Score: 16 | Comments: 1 | Posted by Cider9986",
+      "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
+      "publishedAt": "2026-07-26T05:57:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Cider9986",
+      "tags": []
+    },
+    {
+      "id": "sk8yi5",
+      "title": "A shell colon does nothing. Use it anywayrefp.se",
+      "description": "Score: 126 | Comments: 44 | Posted by olexsmir",
+      "url": "https://refp.se/articles/your-shell-and-the-magic-colon",
+      "publishedAt": "2026-07-26T04:27:55.709Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "olexsmir",
+      "tags": []
+    },
+    {
+      "id": "ffxd7k",
+      "title": "W4ME Station – a WASM-4 runtime for Java ME phones",
+      "description": "Score: 15 | Comments: 2 | Posted by sqshi",
+      "url": "https://github.com/mulfyx/w4me-station",
+      "publishedAt": "2026-07-26T04:19:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sqshi",
+      "tags": []
+    },
+    {
+      "id": "acrrwa",
+      "title": "95CSS: A Windows 95-style CSS framework",
+      "description": "Score: 6 | Comments: 1 | Posted by gurjeet",
+      "url": "https://github.com/YoshiMannaert/95CSS",
+      "publishedAt": "2026-07-26T04:00:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gurjeet",
+      "tags": []
+    },
+    {
+      "id": "v1bmhm",
+      "title": "Kimi K3 after a week of real project use: what works, what doesn't",
+      "description": "Score: 9 | Comments: 0 | Posted by eongchen",
+      "url": "https://chenchen.guru/blog/kimi-k3-first-impressions/",
+      "publishedAt": "2026-07-26T03:55:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "eongchen",
+      "tags": []
+    },
+    {
+      "id": "bumiyl",
+      "title": "An ESP32 based plane radar for my deskktz.me",
+      "description": "Score: 120 | Comments: 23 | Posted by alexktz",
+      "url": "https://blog.ktz.me/esp32-plane-radar/",
+      "publishedAt": "2026-07-26T03:27:55.709Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "alexktz",
+      "tags": []
+    },
+    {
+      "id": "ufc7vu",
+      "title": "Humans haven't stopped evolving",
+      "description": "Score: 59 | Comments: 69 | Posted by ilamont",
+      "url": "https://www.harvardmagazine.com/research/harvard-human-evolution-genes-selective-pressure",
+      "publishedAt": "2026-07-26T03:09:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ilamont",
+      "tags": []
+    },
+    {
+      "id": "40tkqc",
+      "title": "JetZero",
+      "description": "Score: 187 | Comments: 145 | Posted by lisper",
+      "url": "https://www.jetzero.aero",
+      "publishedAt": "2026-07-26T02:55:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lisper",
+      "tags": []
+    },
+    {
+      "id": "bumiyl",
+      "title": "An ESP32 based plane radar for my desk",
+      "description": "Score: 121 | Comments: 23 | Posted by alexktz",
+      "url": "https://blog.ktz.me/esp32-plane-radar/",
+      "publishedAt": "2026-07-26T02:35:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "alexktz",
+      "tags": []
+    },
+    {
+      "id": "c0d49s",
+      "title": "Show HN: I mapped every US golf course",
+      "description": "Score: 113 | Comments: 57 | Posted by rickmf",
+      "url": "https://golfcoursebrowser.com/",
+      "publishedAt": "2026-07-26T02:22:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rickmf",
+      "tags": []
+    },
+    {
+      "id": "ba7bwo",
+      "title": "Show HN: What 180k words look like as a temporal knowledge graph (Oz series)",
+      "description": "Score: 15 | Comments: 9 | Posted by ald0r",
+      "url": "https://synaptale.com/graph?ch=100",
+      "publishedAt": "2026-07-26T02:18:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ald0r",
+      "tags": []
+    },
+    {
+      "id": "e355zh",
+      "title": "Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home",
+      "description": "Score: 58 | Comments: 15 | Posted by spzx",
+      "url": "https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/",
+      "publishedAt": "2026-07-26T01:35:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "spzx",
+      "tags": []
+    },
+    {
+      "id": "58xhfu",
+      "title": "Git rebase -I is not that scary",
+      "description": "Score: 60 | Comments: 55 | Posted by vinhnx",
+      "url": "https://cachebag.sh/journal/interactive-rebasing/",
+      "publishedAt": "2026-07-26T00:37:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vinhnx",
+      "tags": []
+    },
+    {
+      "id": "9lu4dx",
+      "title": "Systems and Delays",
+      "description": "Score: 59 | Comments: 14 | Posted by vinhnx",
+      "url": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
+      "publishedAt": "2026-07-26T00:37:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vinhnx",
+      "tags": []
+    },
+    {
+      "id": "afsr2w",
+      "title": "Inflect-Micro-v2: complete voice in 9.36M parameters",
+      "description": "Score: 112 | Comments: 10 | Posted by nateb2022",
+      "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
+      "publishedAt": "2026-07-26T00:36:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nateb2022",
+      "tags": []
+    }
+  ]
+}
