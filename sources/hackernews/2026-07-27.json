@@ -1,0 +1,116 @@
+{
+  "date": "2026-07-27",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "gtwh7a",
+      "title": "Chinese chipmaker shares surge 470%",
+      "description": "Score: 6 | Comments: 0 | Posted by pingou",
+      "url": "https://www.bbc.com/news/articles/c9q9w3x9qn2o",
+      "publishedAt": "2026-07-27T09:11:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pingou",
+      "tags": []
+    },
+    {
+      "id": "xwvghp",
+      "title": "The Indie Hacker Economy Is a Pyramid Scheme",
+      "description": "Score: 6 | Comments: 0 | Posted by latexr",
+      "url": "https://medium.com/westenberg/the-indie-hacker-economy-is-a-pyramid-scheme-d06cb5789648",
+      "publishedAt": "2026-07-27T08:55:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "latexr",
+      "tags": []
+    },
+    {
+      "id": "d196rt",
+      "title": "How Unix spell ran in 64 kB of RAM",
+      "description": "Score: 15 | Comments: 0 | Posted by donw",
+      "url": "https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram",
+      "publishedAt": "2026-07-27T08:43:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "donw",
+      "tags": []
+    },
+    {
+      "id": "thfq2o",
+      "title": "Meta launched a new AI optimism ad set to a song about human extinction",
+      "description": "Score: 15 | Comments: 1 | Posted by robin_reala",
+      "url": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
+      "publishedAt": "2026-07-27T08:09:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "robin_reala",
+      "tags": []
+    },
+    {
+      "id": "gbxjjt",
+      "title": "Kimi-K3 Releases on HuggingFace 7/27",
+      "description": "Score: 291 | Comments: 116 | Posted by nateb2022",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3",
+      "publishedAt": "2026-07-27T06:18:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nateb2022",
+      "tags": []
+    },
+    {
+      "id": "qyzfr9",
+      "title": "EU Fines Google $1.02B for Favoring Its Own Services",
+      "description": "Score: 74 | Comments: 83 | Posted by 1vuio0pswjnm7",
+      "url": "https://www.wsj.com/tech/google-fined-1-02-billion-under-eus-tech-antitrust-rules-7e8ae1fb",
+      "publishedAt": "2026-07-27T05:31:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "1vuio0pswjnm7",
+      "tags": []
+    },
+    {
+      "id": "m39ply",
+      "title": "Show HN: Watch random code typed out on an MS-DOS IDE",
+      "description": "Score: 5 | Comments: 0 | Posted by vunderba",
+      "url": "https://hackerman.specr.net/",
+      "publishedAt": "2026-07-27T04:18:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vunderba",
+      "tags": []
+    },
+    {
+      "id": "f71xym",
+      "title": "Sand battery: Finland's answer to a renewable energy headache",
+      "description": "Score: 23 | Comments: 8 | Posted by coderintherye",
+      "url": "https://www.cnbc.com/2026/07/25/finland-sand-battery-renewable-energy-storage.html",
+      "publishedAt": "2026-07-27T04:16:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "coderintherye",
+      "tags": []
+    },
+    {
+      "id": "kahncz",
+      "title": "The old-school way of keeping the summer heat out of your home",
+      "description": "Score: 14 | Comments: 19 | Posted by andsoitis",
+      "url": "https://monocle.com/design/architecture/keeping-your-home-cool-without-air-conditioning/",
+      "publishedAt": "2026-07-27T02:33:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andsoitis",
+      "tags": []
+    },
+    {
+      "id": "dvcucz",
+      "title": "PGSimCity - How PostgreSQL Works",
+      "description": "Score: 589 | Comments: 59 | Posted by jonbaer",
+      "url": "https://nikolays.github.io/PGSimCity/",
+      "publishedAt": "2026-07-27T00:19:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jonbaer",
+      "tags": []
+    }
+  ]
+}

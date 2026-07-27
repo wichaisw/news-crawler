@@ -124,6 +124,17 @@
       "tags": []
     },
     {
+      "id": "si6l8p",
+      "title": "History of John Backus's functional programming project (draft)",
+      "description": "Score: 30 | Comments: 2 | Posted by cwbuilds",
+      "url": "https://softwarepreservation.computerhistory.org/FP/",
+      "publishedAt": "2026-07-24T16:32:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cwbuilds",
+      "tags": []
+    },
+    {
       "id": "707in6",
       "title": "The front end framework for correctness: built on Effect, architected like Elm",
       "description": "Score: 85 | Comments: 46 | Posted by plucafs",
@@ -231,6 +242,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "bw86",
+      "tags": []
+    },
+    {
+      "id": "j7q94w",
+      "title": "Measuring developer productivity with the DX Core 4",
+      "description": "Score: 14 | Comments: 8 | Posted by saikatsg",
+      "url": "https://getdx.com/research/measuring-developer-productivity-with-the-dx-core-4/",
+      "publishedAt": "2026-07-24T10:28:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "saikatsg",
       "tags": []
     },
     {
