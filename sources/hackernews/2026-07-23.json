@@ -366,6 +366,28 @@
       "tags": []
     },
     {
+      "id": "fg8amo",
+      "title": "Securing Services with Rootless Containers",
+      "description": "Score: 94 | Comments: 28 | Posted by speckx",
+      "url": "https://blog.coderspirit.xyz/blog/2026/07/06/securing-services-with-rootless-containers/",
+      "publishedAt": "2026-07-23T13:11:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
+      "tags": []
+    },
+    {
+      "id": "6pdbpg",
+      "title": "Ray tracing massive amounts of animated geometry using tetrahedral cages",
+      "description": "Score: 101 | Comments: 12 | Posted by LorenDB",
+      "url": "https://gpuopen.com/learn/ray-tracing-massive-amounts-animated-geometry/",
+      "publishedAt": "2026-07-23T13:10:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "LorenDB",
+      "tags": []
+    },
+    {
       "id": "dtfqsz",
       "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
       "description": "Score: 646 | Comments: 340 | Posted by technewssss",
@@ -374,6 +396,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "technewssss",
+      "tags": []
+    },
+    {
+      "id": "lo56yr",
+      "title": "Glue bonds to nonstick surfaces and wipes clean with ethanol",
+      "description": "Score: 169 | Comments: 95 | Posted by gmays",
+      "url": "https://cen.acs.org/materials/adhesives/glue-bonds-nonstick-surfaces-wipes-clean/104/web/2026/07",
+      "publishedAt": "2026-07-23T13:08:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gmays",
       "tags": []
     },
     {
@@ -407,6 +440,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "lee_ars",
+      "tags": []
+    },
+    {
+      "id": "umr691",
+      "title": "Why copper still rules the motherboard trace",
+      "description": "Score: 6 | Comments: 10 | Posted by lucasfletcher",
+      "url": "https://psyll.com/articles/technology/why-copper-still-rules-the-motherboard-trace",
+      "publishedAt": "2026-07-23T06:43:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lucasfletcher",
       "tags": []
     },
     {
