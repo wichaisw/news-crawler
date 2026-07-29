@@ -36,6 +36,17 @@
       "tags": []
     },
     {
+      "id": "tc63yq",
+      "title": "Show HN: How far do I have to go to run into 100k people?",
+      "description": "Score: 67 | Comments: 42 | Posted by ImJasonH",
+      "url": "https://imjasonh.github.io/playground/population-rays/",
+      "publishedAt": "2026-07-23T21:33:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ImJasonH",
+      "tags": []
+    },
+    {
       "id": "8s8obt",
       "title": "Couple pay >$800k for a gene-editing therapy for their daughter. She died.",
       "description": "Score: 327 | Comments: 193 | Posted by Shortness8",
@@ -344,6 +355,17 @@
       "tags": []
     },
     {
+      "id": "dct57k",
+      "title": "Log is non-monotonic in PHP and Lua",
+      "description": "Score: 51 | Comments: 27 | Posted by ibobev",
+      "url": "https://purplesyringa.moe/blog/log-is-non-monotonic-in-php-and-lua/",
+      "publishedAt": "2026-07-23T14:00:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
+      "tags": []
+    },
+    {
       "id": "crersh",
       "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
       "description": "Score: 234 | Comments: 259 | Posted by r2sk5t",
@@ -352,6 +374,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "r2sk5t",
+      "tags": []
+    },
+    {
+      "id": "qznrmc",
+      "title": "Fixing a bug with byte order marks",
+      "description": "Score: 5 | Comments: 2 | Posted by surprisetalk",
+      "url": "https://alexwlchan.net/2026/byte-order-marks/",
+      "publishedAt": "2026-07-23T13:41:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
       "tags": []
     },
     {

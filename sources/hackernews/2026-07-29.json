@@ -1,0 +1,171 @@
+{
+  "date": "2026-07-29",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "6oyfb2",
+      "title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",
+      "description": "Score: 7 | Comments: 0 | Posted by ankitg12",
+      "url": "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers",
+      "publishedAt": "2026-07-29T07:18:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ankitg12",
+      "tags": []
+    },
+    {
+      "id": "mimdv8",
+      "title": "eBay agrees $56M settlement with bloggers over harassment case",
+      "description": "Score: 10 | Comments: 0 | Posted by iamflimflam1",
+      "url": "https://www.bbc.co.uk/news/articles/cj039p238r5o",
+      "publishedAt": "2026-07-29T07:12:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "iamflimflam1",
+      "tags": []
+    },
+    {
+      "id": "37xyzx",
+      "title": "More Tailscale tricks for your jailbroken Kindle",
+      "description": "Score: 151 | Comments: 48 | Posted by Error6571",
+      "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
+      "publishedAt": "2026-07-29T04:58:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Error6571",
+      "tags": []
+    },
+    {
+      "id": "u4e86z",
+      "title": "Show HN: Firemaps Spain – Live wildfire map with wind flow for ES and PT",
+      "description": "Score: 6 | Comments: 2 | Posted by kalamarico",
+      "url": "https://firemapsspain.online/",
+      "publishedAt": "2026-07-29T04:50:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kalamarico",
+      "tags": []
+    },
+    {
+      "id": "5phc48",
+      "title": "Cracking Windows Open: Porting RADV to Win32",
+      "description": "Score: 37 | Comments: 8 | Posted by zdw",
+      "url": "https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html",
+      "publishedAt": "2026-07-29T04:30:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "fwljoq",
+      "title": "User Interfaces of the Demo Scene",
+      "description": "Score: 139 | Comments: 22 | Posted by zdw",
+      "url": "https://www.datagubbe.se/scenegui/",
+      "publishedAt": "2026-07-29T04:30:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "p77vka",
+      "title": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
+      "description": "Score: 48 | Comments: 1 | Posted by ilreb",
+      "url": "https://transformer-transformer.github.io/",
+      "publishedAt": "2026-07-29T03:52:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ilreb",
+      "tags": []
+    },
+    {
+      "id": "d9pi1s",
+      "title": "Good CLI Design Is Mostly Silence",
+      "description": "Score: 11 | Comments: 2 | Posted by ankitg12",
+      "url": "https://yarlson.dev/blog/good-cli-design-is-mostly-silence/",
+      "publishedAt": "2026-07-29T03:40:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ankitg12",
+      "tags": []
+    },
+    {
+      "id": "m27318",
+      "title": "Hooray for the Sockets Interface",
+      "description": "Score: 31 | Comments: 16 | Posted by jruohonen",
+      "url": "https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/",
+      "publishedAt": "2026-07-29T02:25:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jruohonen",
+      "tags": []
+    },
+    {
+      "id": "cv0u5y",
+      "title": "Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects",
+      "description": "Score: 13 | Comments: 2 | Posted by kbradero",
+      "url": "https://github.com/jagg-ix/zil-lean",
+      "publishedAt": "2026-07-29T02:22:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kbradero",
+      "tags": []
+    },
+    {
+      "id": "6j42gh",
+      "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
+      "description": "Score: 173 | Comments: 99 | Posted by ajhai",
+      "url": "https://learnvector.ai/",
+      "publishedAt": "2026-07-29T01:49:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ajhai",
+      "tags": []
+    },
+    {
+      "id": "r993bb",
+      "title": "Show HN: Learning Rust by writing a Markdown to HTML compiler",
+      "description": "Score: 20 | Comments: 3 | Posted by deotman",
+      "url": "https://andreadimatteo.com/md-to-html-compiler.html",
+      "publishedAt": "2026-07-29T01:04:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "deotman",
+      "tags": []
+    },
+    {
+      "id": "w93kb",
+      "title": "Multiple Mouse Cursors in Wayland",
+      "description": "Score: 116 | Comments: 77 | Posted by marvinborner",
+      "url": "https://blinry.org/multi-seat-wayland/",
+      "publishedAt": "2026-07-29T00:59:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "marvinborner",
+      "tags": []
+    },
+    {
+      "id": "14yujq",
+      "title": "Lightweight Spring Boot Monitoring Without Prometheus and Grafana",
+      "description": "Score: 26 | Comments: 3 | Posted by ejboy",
+      "url": "https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html",
+      "publishedAt": "2026-07-29T00:32:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ejboy",
+      "tags": []
+    },
+    {
+      "id": "ienzsa",
+      "title": "Hubble: Open-source notetaking app for you and your agents",
+      "description": "Score: 104 | Comments: 33 | Posted by handfuloflight",
+      "url": "https://www.hubble.md/",
+      "publishedAt": "2026-07-29T00:11:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "handfuloflight",
+      "tags": []
+    }
+  ]
+}
