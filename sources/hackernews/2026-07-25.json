@@ -223,6 +223,17 @@
       "tags": []
     },
     {
+      "id": "pp0jk9",
+      "title": "London’s most equidistant pub",
+      "description": "Score: 35 | Comments: 15 | Posted by lambfruit",
+      "url": "https://equidistance.io/londons-most-equidistant-pub/",
+      "publishedAt": "2026-07-25T14:08:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lambfruit",
+      "tags": []
+    },
+    {
       "id": "sk8yi5",
       "title": "A shell colon does nothing. Use it anyway",
       "description": "Score: 126 | Comments: 45 | Posted by olexsmir",
@@ -242,6 +253,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "h1watt",
+      "tags": []
+    },
+    {
+      "id": "z2mim",
+      "title": "The Rust on ESP Book",
+      "description": "Score: 151 | Comments: 15 | Posted by AlexeyBrin",
+      "url": "https://docs.espressif.com/projects/rust/book/",
+      "publishedAt": "2026-07-25T13:15:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "AlexeyBrin",
       "tags": []
     },
     {

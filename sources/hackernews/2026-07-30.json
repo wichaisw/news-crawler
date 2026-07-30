@@ -1,0 +1,83 @@
+{
+  "date": "2026-07-30",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "ih5xth",
+      "title": "I Have Thoughts on the iPhone Air",
+      "description": "Score: 14 | Comments: 5 | Posted by janandonly",
+      "url": "https://christianselig.com/2026/07/iphone-air-review/",
+      "publishedAt": "2026-07-30T07:54:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "janandonly",
+      "tags": []
+    },
+    {
+      "id": "vbk12t",
+      "title": "Why the future is local app",
+      "description": "Score: 13 | Comments: 9 | Posted by knlam",
+      "url": "https://getapps.cafe/blog/why-the-future-is-local-app",
+      "publishedAt": "2026-07-30T03:44:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "knlam",
+      "tags": []
+    },
+    {
+      "id": "xfdvbe",
+      "title": "NSF pilots 4-year PhDs with industry research placements",
+      "description": "Score: 69 | Comments: 72 | Posted by osnium123",
+      "url": "https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four",
+      "publishedAt": "2026-07-30T02:55:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "osnium123",
+      "tags": []
+    },
+    {
+      "id": "6hqil0",
+      "title": "Kuna: Decompiler Development in the Age of Coding Agents",
+      "description": "Score: 28 | Comments: 7 | Posted by matt_d",
+      "url": "https://noelo.org/blog/kuna-release/",
+      "publishedAt": "2026-07-30T02:41:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "matt_d",
+      "tags": []
+    },
+    {
+      "id": "wrf545",
+      "title": "Flume Water Monitor 915 MHz Security Is Pretty Good",
+      "description": "Score: 30 | Comments: 20 | Posted by credibleconure",
+      "url": "https://waveformsecurity.com/blog/flume/",
+      "publishedAt": "2026-07-30T01:27:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "credibleconure",
+      "tags": []
+    },
+    {
+      "id": "lpx2k9",
+      "title": "Logic for Programmers",
+      "description": "Score: 102 | Comments: 10 | Posted by _doctor_love",
+      "url": "https://logicforprogrammers.com/",
+      "publishedAt": "2026-07-30T00:51:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "_doctor_love",
+      "tags": []
+    },
+    {
+      "id": "6eidp3",
+      "title": "Show HN: A local merge queue for parallel Claude Code agents",
+      "description": "Score: 35 | Comments: 12 | Posted by funador",
+      "url": "https://github.com/funador/claude-code-merge-queue",
+      "publishedAt": "2026-07-30T00:20:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "funador",
+      "tags": []
+    }
+  ]
+}

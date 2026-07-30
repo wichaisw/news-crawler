@@ -267,6 +267,17 @@
       "tags": []
     },
     {
+      "id": "yzm6ul",
+      "title": "The Royal Order of Operations",
+      "description": "Score: 3 | Comments: 1 | Posted by surprisetalk",
+      "url": "https://ken.fyi/ooo",
+      "publishedAt": "2026-07-27T13:21:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
       "id": "jecdca",
       "title": "Truth is not a direction: a Tarski attack on LLM probes",
       "description": "Score: 88 | Comments: 34 | Posted by abelaer",
@@ -355,6 +366,28 @@
       "tags": []
     },
     {
+      "id": "l53hhw",
+      "title": "Concurrency, interactivity, mutability, choose two",
+      "description": "Score: 9 | Comments: 2 | Posted by billiob",
+      "url": "https://www.n16f.net/blog/concurrency-interactivity-mutability-choose-two/",
+      "publishedAt": "2026-07-27T06:38:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "billiob",
+      "tags": []
+    },
+    {
+      "id": "6nxcx1",
+      "title": "Hamburg's Stadtpark: A Park Built to Be Used",
+      "description": "Score: 148 | Comments: 39 | Posted by mertbio",
+      "url": "https://alsterrunde.com/hamburgs-stadtpark-a-park-built-to-be-used/",
+      "publishedAt": "2026-07-27T06:23:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mertbio",
+      "tags": []
+    },
+    {
       "id": "gbxjjt",
       "title": "Kimi-K3 Releases on HuggingFace 7/27",
       "description": "Score: 291 | Comments: 116 | Posted by nateb2022",
@@ -407,6 +440,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "andsoitis",
+      "tags": []
+    },
+    {
+      "id": "8ve86t",
+      "title": "Hunter-gatherers introduced fish to a mountain lake 7000 years ago",
+      "description": "Score: 144 | Comments: 111 | Posted by stevenwoo",
+      "url": "https://www.newscientist.com/article/2580119-hunter-gatherers-introduced-fish-to-a-mountain-lake-7000-years-ago/",
+      "publishedAt": "2026-07-27T00:58:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "stevenwoo",
       "tags": []
     },
     {

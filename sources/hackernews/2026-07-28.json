@@ -47,6 +47,17 @@
       "tags": []
     },
     {
+      "id": "aab86k",
+      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
+      "description": "Score: 371 | Comments: 207 | Posted by artninja1988",
+      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "publishedAt": "2026-07-28T20:28:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "artninja1988",
+      "tags": []
+    },
+    {
       "id": "rl33os",
       "title": "Pacing the frontier",
       "description": "Score: 127 | Comments: 137 | Posted by reducesuffering",
@@ -286,6 +297,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "joozio",
+      "tags": []
+    },
+    {
+      "id": "4c4egm",
+      "title": "Recursive Filters: SMA, EMA, Low‑Pass, and a Tiny Kalman",
+      "description": "Score: 38 | Comments: 9 | Posted by kamilstaszewski",
+      "url": "https://www.staszewski.xyz/blog/recursive-filters/",
+      "publishedAt": "2026-07-28T06:11:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kamilstaszewski",
       "tags": []
     },
     {

@@ -3,6 +3,40 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "151159 at https://www.blognone.com",
+      "title": "กระชับพื้นที่ !! Google เตรียมนับรวมข้อมูลแบ็กอัป Android ทั้งหมดเข้าโควตาพื้นที่เก็บข้อมูล",
+      "description": "กระชับพื้นที่ !! Google เตรียมนับรวมข้อมูลแบ็กอัป Android ทั้งหมดเข้าโควตาพื้นที่เก็บข้อมูล Body Google ปรับนโยบายใหม่ โดยการสำรองข้อมูล (Backup)",
+      "url": "https://www.blognone.com/node/151159",
+      "publishedAt": "2026-07-29T12:55:00.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151166 at https://www.blognone.com",
+      "title": "FreeBSD ลบโค้ด GPL ทิ้งทั้งหมดแล้ว",
+      "description": "FreeBSD ลบโค้ด GPL ทิ้งทั้งหมดแล้ว Body ช่วงสัปดาห์ที่ผ่านมา ทาง FreeBSD ได้ลบโค้ดชุดสุดท้ายที่เป็นสัญญาอนุญาตสาธารณะทั่วไปของกนู (GNU GPL license)",
+      "url": "https://www.blognone.com/node/151166",
+      "imageUrl": "https://i.imgur.com/kfyqSQv.png",
+      "publishedAt": "2026-07-29T09:55:00.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151257 at https://www.blognone.com",
+      "title": "Gemini Spark เตรียมให้บริการในประเทศไทยแล้ว ต้องเป็นลูกค้า Google AI Pro ขั้นต่ำ",
+      "description": "Gemini Spark เตรียมให้บริการในประเทศไทยแล้ว ต้องเป็นลูกค้า Google AI Pro ขั้นต่ำ Body กูเกิลประกาศว่า Gemini Spark บริการ AI Agent",
+      "url": "https://www.blognone.com/node/151257",
+      "publishedAt": "2026-07-29T09:02:42.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "151256 at https://www.blognone.com",
       "title": "พบแชทของผู้ใช้งาน Claude แสดงในผลค้นหา Google - คาดเกิดจากการแชร์ลิงก์ และนำไปโพสต์ตามเว็บไซต์",
       "description": "พบแชทของผู้ใช้งาน Claude แสดงในผลค้นหา Google - คาดเกิดจากการแชร์ลิงก์ และนำไปโพสต์ตามเว็บไซต์ Body เรื่องมีอยู่ว่า มีคนพบข้อมูลการแชทใน Claude",
