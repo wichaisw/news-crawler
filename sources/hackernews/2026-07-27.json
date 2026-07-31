@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "1fl0q2",
+      "title": "Where USB Memory Sticks are Born (2013)",
+      "description": "Score: 45 | Comments: 3 | Posted by jacquesm",
+      "url": "https://www.bunniestudios.com/blog/2013/where-usb-memory-sticks-are-born/",
+      "publishedAt": "2026-07-27T23:59:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jacquesm",
+      "tags": []
+    },
+    {
       "id": "o3acmi",
       "title": "The Burau representation of the braid group is faithful for n = 4",
       "description": "Score: 29 | Comments: 11 | Posted by wglb",
@@ -212,6 +223,17 @@
       "tags": []
     },
     {
+      "id": "mlnaf4",
+      "title": "The American Grilled Cheese Sandwich Essay (2024)",
+      "description": "Score: 47 | Comments: 35 | Posted by NaOH",
+      "url": "https://buttondown.com/theswordandthesandwich/archive/the-best-american-grilled-cheese-sandwich-essay/",
+      "publishedAt": "2026-07-27T17:37:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "NaOH",
+      "tags": []
+    },
+    {
       "id": "od2sfo",
       "title": "Show HN: FeyNoBg – Automatic background removal model and training library",
       "description": "Score: 104 | Comments: 25 | Posted by snyy",
@@ -231,6 +253,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "migmartri",
+      "tags": []
+    },
+    {
+      "id": "t59wd4",
+      "title": "Bad Apple but It's Traceroute",
+      "description": "Score: 106 | Comments: 25 | Posted by jssfr",
+      "url": "https://jssfr.de/2026-07-27-bad-apple-but-traceroute.html",
+      "publishedAt": "2026-07-27T15:48:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jssfr",
       "tags": []
     },
     {

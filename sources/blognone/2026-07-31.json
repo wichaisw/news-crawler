@@ -1,0 +1,61 @@
+{
+  "date": "2026-07-31",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "151269 at https://www.blognone.com",
+      "title": "Amazon รายงานผลประกอบการไตรมาส - AWS โต 37%, มองความต้องการเซิร์ฟเวอร์ AI ยังสูงต่อไปหลายปี",
+      "description": "Amazon รายงานผลประกอบการไตรมาส - AWS โต 37%, มองความต้องการเซิร์ฟเวอร์ AI ยังสูงต่อไปหลายปี Body Amazon รายงานผลประกอบการของไตรมาสที่ 2 ปี 2026",
+      "url": "https://www.blognone.com/node/151269",
+      "publishedAt": "2026-07-31T02:57:57.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151268 at https://www.blognone.com",
+      "title": "Xbox รายได้ร่วงหนัก ซีอีโอประกาศแผนรายได้กลับมาโตภายใน 1 ปี โฟกัสคอนโซล-แฟรนไชส์ดัง",
+      "description": "Xbox รายได้ร่วงหนัก ซีอีโอประกาศแผนรายได้กลับมาโตภายใน 1 ปี โฟกัสคอนโซล-แฟรนไชส์ดัง Body ผลประกอบการไตรมาส 2/2026 ของไมโครซอฟท์",
+      "url": "https://www.blognone.com/node/151268",
+      "publishedAt": "2026-07-31T02:18:06.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151267 at https://www.blognone.com",
+      "title": "Anthropic ก็เจอด้วย! พบโมเดล Claude หลุดออกไปแฮ็กระบบองค์กรภายนอก 3 แห่ง",
+      "description": "Anthropic ก็เจอด้วย! พบโมเดล Claude หลุดออกไปแฮ็กระบบองค์กรภายนอก 3 แห่ง Body ถัดจากข่าว โมเดลของ OpenAI ไปแฮ็กระบบของ Hugging Face โดยไม่ได้ตั้งใจ",
+      "url": "https://www.blognone.com/node/151267",
+      "publishedAt": "2026-07-31T01:59:56.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151266 at https://www.blognone.com",
+      "title": "GitHub เพิ่มฟีเจอร์ Stacked Pull Request แยกฟีเจอร์ใหญ่เป็น PR ย่อยๆ เพื่อให้รีวิวง่าย",
+      "description": "GitHub เพิ่มฟีเจอร์ Stacked Pull Request แยกฟีเจอร์ใหญ่เป็น PR ย่อยๆ เพื่อให้รีวิวง่าย Body GitHub ปล่อยฟีเจอร์ Stacked Pull Request",
+      "url": "https://www.blognone.com/node/151266",
+      "publishedAt": "2026-07-31T01:20:37.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151265 at https://www.blognone.com",
+      "title": "Apple รายงานผลประกอบการ รายได้โต 16%, Mac โตถึง 29% กลุ่ม Services เริ่มชะลอ",
+      "description": "Apple รายงานผลประกอบการ รายได้โต 16%, Mac โตถึง 29% กลุ่ม Services เริ่มชะลอ Body แอปเปิลรายงานผลประกอบการประจำไตรมาสเดือนมิถุนายน มีรายได้ 109,417",
+      "url": "https://www.blognone.com/node/151265",
+      "publishedAt": "2026-07-31T00:40:55.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}

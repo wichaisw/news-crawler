@@ -69,6 +69,17 @@
       "tags": []
     },
     {
+      "id": "yj6w50",
+      "title": "Simulating TCP loss and congestion in browser using Go/WASM",
+      "description": "Score: 14 | Comments: 0 | Posted by dilyevsky",
+      "url": "https://ccsim.fly.dev",
+      "publishedAt": "2026-07-28T18:38:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dilyevsky",
+      "tags": []
+    },
+    {
       "id": "r82an0",
       "title": "MCP 2026-07-28 Specification: transport going stateless",
       "description": "Score: 115 | Comments: 37 | Posted by Eldodi",
@@ -231,6 +242,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "speckx",
+      "tags": []
+    },
+    {
+      "id": "pl3d7o",
+      "title": "Memo-1: A 6502 computer built from scratch, using a Minitel as its terminal",
+      "description": "Score: 75 | Comments: 10 | Posted by sciences44",
+      "url": "https://github.com/MemoireMorte/Memo-1",
+      "publishedAt": "2026-07-28T13:56:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sciences44",
       "tags": []
     },
     {

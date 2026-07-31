@@ -190,6 +190,17 @@
       "tags": []
     },
     {
+      "id": "n70z0v",
+      "title": "Show HN: Kedge – Full-stack cloud with forkable VM snapshots and global SQLite",
+      "description": "Score: 112 | Comments: 20 | Posted by wgjordan",
+      "url": "https://kedge.dev/",
+      "publishedAt": "2026-07-29T16:15:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wgjordan",
+      "tags": []
+    },
+    {
       "id": "gy75ha",
       "title": "Launch HN: Tokenless (YC S26) – Automatic model switching to save money",
       "description": "Score: 61 | Comments: 54 | Posted by rohaga",
@@ -308,6 +319,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "Canopy9560",
+      "tags": []
+    },
+    {
+      "id": "erivvv",
+      "title": "The mean means nothing: data visualization to debug a latency problem",
+      "description": "Score: 31 | Comments: 3 | Posted by fanf2",
+      "url": "https://fzakaria.com/2026/07/27/the-mean-means-nothing",
+      "publishedAt": "2026-07-29T11:42:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fanf2",
       "tags": []
     },
     {
