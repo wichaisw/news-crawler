@@ -1,0 +1,83 @@
+{
+  "date": "2026-08-01",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "hiefrh",
+      "title": "Ten advances in mathematics and theoretical computer scienceopenai.com",
+      "description": "Score: 43 | Comments: 14 | Posted by milkshakes",
+      "url": "https://openai.com/index/ten-advances-in-mathematics/",
+      "publishedAt": "2026-08-01T07:40:12.816Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "milkshakes",
+      "tags": []
+    },
+    {
+      "id": "hiefrh",
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "description": "Score: 44 | Comments: 18 | Posted by milkshakes",
+      "url": "https://openai.com/index/ten-advances-in-mathematics/",
+      "publishedAt": "2026-08-01T07:37:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "milkshakes",
+      "tags": []
+    },
+    {
+      "id": "xzl8po",
+      "title": "Ten Ways NAS Is Getting Enshitified",
+      "description": "Score: 53 | Comments: 44 | Posted by giuliomagnifico",
+      "url": "https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/",
+      "publishedAt": "2026-08-01T05:38:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "giuliomagnifico",
+      "tags": []
+    },
+    {
+      "id": "vch24e",
+      "title": "The development pipeline is a production system",
+      "description": "Score: 68 | Comments: 22 | Posted by firefoxd",
+      "url": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
+      "publishedAt": "2026-08-01T03:16:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "firefoxd",
+      "tags": []
+    },
+    {
+      "id": "9wutj2",
+      "title": "Flint: A Visualization Language for the AI Era",
+      "description": "Score: 98 | Comments: 31 | Posted by vinhnx",
+      "url": "https://microsoft.github.io/flint-chart/",
+      "publishedAt": "2026-08-01T02:45:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vinhnx",
+      "tags": []
+    },
+    {
+      "id": "b6y8sh",
+      "title": "A week in Matrix",
+      "description": "Score: 56 | Comments: 31 | Posted by Kesseki",
+      "url": "https://piegames.de/dumps/a-week-in-matrix/",
+      "publishedAt": "2026-08-01T01:35:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Kesseki",
+      "tags": []
+    },
+    {
+      "id": "xhasq0",
+      "title": "How to Exist",
+      "description": "Score: 169 | Comments: 93 | Posted by walterbell",
+      "url": "https://www.raptitude.com/2026/07/how-to-exist/",
+      "publishedAt": "2026-08-01T00:25:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "walterbell",
+      "tags": []
+    }
+  ]
+}

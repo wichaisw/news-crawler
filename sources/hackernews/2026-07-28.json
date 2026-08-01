@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "7b9lds",
+      "title": "A tiny holdout building in the middle of Macy’s is back in view",
+      "description": "Score: 17 | Comments: 4 | Posted by donohoe",
+      "url": "https://ephemeralnewyork.wordpress.com/2026/07/27/hidden-by-billboards-for-over-100-years-the-tiny-holdout-building-in-the-middle-of-macys-is-back-in-view/",
+      "publishedAt": "2026-07-28T23:56:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "donohoe",
+      "tags": []
+    },
+    {
       "id": "su4j4p",
       "title": "ReFrame – The EPaper Camera",
       "description": "Score: 114 | Comments: 20 | Posted by phil294",
@@ -245,6 +256,28 @@
       "tags": []
     },
     {
+      "id": "dma03c",
+      "title": "When Internal Memory Fails: A No-Solder Wii U Recovery",
+      "description": "Score: 9 | Comments: 1 | Posted by edgar_ortega",
+      "url": "https://smolnero.com/posts/when-internal-memory-fails-a-no-solder-wii-u-recovery",
+      "publishedAt": "2026-07-28T14:14:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "edgar_ortega",
+      "tags": []
+    },
+    {
+      "id": "1ec81n",
+      "title": "Long Range Wi-Fi – Pushing 2.4 GHz Wi-Fi to the limits (2019)",
+      "description": "Score: 49 | Comments: 31 | Posted by rzk",
+      "url": "https://www.phidgets.com/?view=articles&article=LongRangeWifi",
+      "publishedAt": "2026-07-28T13:59:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rzk",
+      "tags": []
+    },
+    {
       "id": "pl3d7o",
       "title": "Memo-1: A 6502 computer built from scratch, using a Minitel as its terminal",
       "description": "Score: 75 | Comments: 10 | Posted by sciences44",
@@ -253,6 +286,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "sciences44",
+      "tags": []
+    },
+    {
+      "id": "vbo5pa",
+      "title": "Twenty-five years ago it was cryptography, today it's model weights",
+      "description": "Score: 237 | Comments: 120 | Posted by aweeraman",
+      "url": "https://weeraman.com/because-we-can/",
+      "publishedAt": "2026-07-28T13:31:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "aweeraman",
       "tags": []
     },
     {
@@ -451,6 +495,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "senshan",
+      "tags": []
+    },
+    {
+      "id": "wt1dc0",
+      "title": "Attention Decode on AMD MI450 GPUs: A Gluon Kernel Optimization Guide",
+      "description": "Score: 23 | Comments: 0 | Posted by matt_d",
+      "url": "https://rocm.blogs.amd.com/software-tools-optimization/gluon-attention-decode-mi450/README.html",
+      "publishedAt": "2026-07-28T00:26:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "matt_d",
       "tags": []
     },
     {
