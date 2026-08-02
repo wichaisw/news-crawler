@@ -36,6 +36,17 @@
       "tags": []
     },
     {
+      "id": "baojal",
+      "title": "The Cipher Behind QSYRUPWD: Reconstructing IBM i Password Hashes",
+      "description": "Score: 9 | Comments: 5 | Posted by kencausey",
+      "url": "https://blog.silentsignal.eu/2026/07/28/the-cipher-behind-qsyrupwd-reconstructing-ibm-i-password-hashes/",
+      "publishedAt": "2026-07-28T21:38:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kencausey",
+      "tags": []
+    },
+    {
       "id": "xt4an4",
       "title": "Half-Life ported to Mac OS 9",
       "description": "Score: 231 | Comments: 109 | Posted by freediver",
@@ -99,6 +110,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "Eldodi",
+      "tags": []
+    },
+    {
+      "id": "od64t3",
+      "title": "Linux on ESP32",
+      "description": "Score: 116 | Comments: 39 | Posted by boveyking",
+      "url": "https://github.com/GrieferPig/esp32-s31-linux",
+      "publishedAt": "2026-07-28T17:52:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "boveyking",
       "tags": []
     },
     {
@@ -201,6 +223,17 @@
       "tags": []
     },
     {
+      "id": "hy6faa",
+      "title": "Glyphs 4 – the leading Mac font editor",
+      "description": "Score: 82 | Comments: 12 | Posted by microflash",
+      "url": "https://glyphsapp.com",
+      "publishedAt": "2026-07-28T15:06:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "microflash",
+      "tags": []
+    },
+    {
       "id": "tqu35q",
       "title": "Anthropeum – Where in the world, and when, does this human artifact belong?",
       "description": "Score: 164 | Comments: 46 | Posted by bookofjoe",
@@ -297,6 +330,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "aweeraman",
+      "tags": []
+    },
+    {
+      "id": "7g3fef",
+      "title": "Nyctography: A substituton cypher by Lewis Carroll",
+      "description": "Score: 74 | Comments: 11 | Posted by nanna",
+      "url": "https://en.wikipedia.org/wiki/Nyctography",
+      "publishedAt": "2026-07-28T10:30:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nanna",
       "tags": []
     },
     {

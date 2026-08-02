@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "k8tztm",
+      "title": "We accidentally built an LLVM compiler for Jax",
+      "description": "Score: 40 | Comments: 12 | Posted by infinitewalk",
+      "url": "https://iza.ac/posts/2026/07/accidental-llvm-compiler-for-jax/",
+      "publishedAt": "2026-07-30T23:46:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "infinitewalk",
+      "tags": []
+    },
+    {
       "id": "9a9tx",
       "title": "The Religion of Speed",
       "description": "Score: 142 | Comments: 70 | Posted by MobiusHorizons",
@@ -110,6 +121,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "Hooke",
+      "tags": []
+    },
+    {
+      "id": "lxeirb",
+      "title": "P[drive failure]: how reliable is your NAS?",
+      "description": "Score: 11 | Comments: 7 | Posted by nosolace",
+      "url": "https://khz.ac/low-voltage/drive-failure.html",
+      "publishedAt": "2026-07-30T19:18:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nosolace",
       "tags": []
     },
     {
@@ -267,6 +289,17 @@
       "tags": []
     },
     {
+      "id": "tzf3nz",
+      "title": "Elena, a library for building Progressive Web Components",
+      "description": "Score: 26 | Comments: 1 | Posted by brianzelip",
+      "url": "https://elenajs.com/",
+      "publishedAt": "2026-07-30T13:31:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "brianzelip",
+      "tags": []
+    },
+    {
       "id": "sw51yw",
       "title": "Launch HN: Prized (YC S26) – Let non-engineer staff build secure internal tools",
       "description": "Score: 70 | Comments: 52 | Posted by marinoseliades",
@@ -418,6 +451,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "credibleconure",
+      "tags": []
+    },
+    {
+      "id": "i1bt0r",
+      "title": "Manual: •.,:;…!?·",
+      "description": "Score: 123 | Comments: 31 | Posted by behnamoh",
+      "url": "https://type.today/en/journal/dots",
+      "publishedAt": "2026-07-30T01:05:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "behnamoh",
       "tags": []
     },
     {

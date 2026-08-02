@@ -1,0 +1,182 @@
+{
+  "date": "2026-08-02",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "efbwko",
+      "title": "Nerd culture is murdering intellectuals",
+      "description": "Score: 6 | Comments: 1 | Posted by mockerell",
+      "url": "https://www.theintrinsicperspective.com/p/nerd-culture-is-murdering-intellectuals",
+      "publishedAt": "2026-08-02T07:57:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mockerell",
+      "tags": []
+    },
+    {
+      "id": "3jid97",
+      "title": "Show HN: Tone Generator",
+      "description": "Score: 5 | Comments: 0 | Posted by artiomyak",
+      "url": "https://soundtonegenerator.com/",
+      "publishedAt": "2026-08-02T07:31:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "artiomyak",
+      "tags": []
+    },
+    {
+      "id": "w9l307",
+      "title": "I don't recommend Tailwind CSS",
+      "description": "Score: 10 | Comments: 1 | Posted by andros",
+      "url": "https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/",
+      "publishedAt": "2026-08-02T07:09:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andros",
+      "tags": []
+    },
+    {
+      "id": "c8vz5j",
+      "title": "CRM: An open-source, agentic-first CRM",
+      "description": "Score: 6 | Comments: 0 | Posted by handfuloflight",
+      "url": "https://github.com/trycompai/crm",
+      "publishedAt": "2026-08-02T06:59:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "handfuloflight",
+      "tags": []
+    },
+    {
+      "id": "nlyhdo",
+      "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+      "description": "Score: 113 | Comments: 21 | Posted by ilreb",
+      "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+      "publishedAt": "2026-08-02T04:21:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ilreb",
+      "tags": []
+    },
+    {
+      "id": "pbjk0i",
+      "title": "MkLinux and the pimped-out Apple Workgroup Server 9150",
+      "description": "Score: 49 | Comments: 2 | Posted by goldenskye",
+      "url": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
+      "publishedAt": "2026-08-02T03:12:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "goldenskye",
+      "tags": []
+    },
+    {
+      "id": "c06y1t",
+      "title": "Deep-sea vehicles spot 'alien' sharks deep beneath the waves in the Pacific",
+      "description": "Score: 45 | Comments: 18 | Posted by pkaeding",
+      "url": "https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific#",
+      "publishedAt": "2026-08-02T02:51:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pkaeding",
+      "tags": []
+    },
+    {
+      "id": "4hfufq",
+      "title": "Four Time Scales for Technology Development and Deployment",
+      "description": "Score: 26 | Comments: 4 | Posted by jeffreyrogers",
+      "url": "https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/",
+      "publishedAt": "2026-08-02T02:26:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jeffreyrogers",
+      "tags": []
+    },
+    {
+      "id": "bumg3u",
+      "title": "Go 1.27 Interactive Tourvictoriametrics.com",
+      "description": "Score: 185 | Comments: 60 | Posted by Hixon10",
+      "url": "https://victoriametrics.com/blog/go-1-27/index.html",
+      "publishedAt": "2026-08-02T02:26:18.348Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Hixon10",
+      "tags": []
+    },
+    {
+      "id": "ncko2d",
+      "title": "When random.bytes() runs but doesn't work",
+      "description": "Score: 33 | Comments: 12 | Posted by Funes-",
+      "url": "https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt",
+      "publishedAt": "2026-08-02T02:08:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Funes-",
+      "tags": []
+    },
+    {
+      "id": "2dg3uh",
+      "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
+      "description": "Score: 136 | Comments: 25 | Posted by tomilan",
+      "url": "https://github.com/tom-ilan/cycloidal_gearbox",
+      "publishedAt": "2026-08-02T02:07:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tomilan",
+      "tags": []
+    },
+    {
+      "id": "bumg3u",
+      "title": "Go 1.27 Interactive Tour",
+      "description": "Score: 185 | Comments: 60 | Posted by Hixon10",
+      "url": "https://victoriametrics.com/blog/go-1-27/index.html",
+      "publishedAt": "2026-08-02T01:35:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Hixon10",
+      "tags": []
+    },
+    {
+      "id": "19rjov",
+      "title": "ASRock BC-250: Building the Budget Steam Machine",
+      "description": "Score: 54 | Comments: 15 | Posted by plug_world",
+      "url": "https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/",
+      "publishedAt": "2026-08-02T01:35:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "plug_world",
+      "tags": []
+    },
+    {
+      "id": "xa4jud",
+      "title": "The Prospects for 128 Bit Processors ( John Mashey SGI 1995)",
+      "description": "Score: 15 | Comments: 3 | Posted by Alien1Being",
+      "url": "https://yarchive.net/comp/128bit.html",
+      "publishedAt": "2026-08-02T01:26:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Alien1Being",
+      "tags": []
+    },
+    {
+      "id": "jxez12",
+      "title": "Dark Hours",
+      "description": "Score: 17 | Comments: 2 | Posted by jparise",
+      "url": "https://darkhours.io",
+      "publishedAt": "2026-08-02T00:40:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jparise",
+      "tags": []
+    },
+    {
+      "id": "ktskz8",
+      "title": "Kobuk the Destroyer – Tales from the Wild, Unseen World of Test Engineering",
+      "description": "Score: 11 | Comments: 2 | Posted by ripe",
+      "url": "https://wwnorton.com/books/9781324051299",
+      "publishedAt": "2026-08-02T00:01:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ripe",
+      "tags": []
+    }
+  ]
+}
