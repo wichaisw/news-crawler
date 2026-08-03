@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "ozcmw8",
+      "title": "Read the novels and forget everything else",
+      "description": "Score: 98 | Comments: 80 | Posted by samclemens",
+      "url": "https://hedgehogreview.com/web-features/thr/posts/read-the-novels-and-forget-everything-else",
+      "publishedAt": "2026-07-31T23:31:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "samclemens",
+      "tags": []
+    },
+    {
       "id": "r1mieq",
       "title": "Unearthing my 1996 windowed OS in machine code for Am29000 homebrew computer",
       "description": "Score: 22 | Comments: 2 | Posted by nanochess",
@@ -135,6 +146,17 @@
       "tags": []
     },
     {
+      "id": "kzhd6o",
+      "title": "Why we write our own C and C++ inference engines",
+      "description": "Score: 55 | Comments: 27 | Posted by eatonphil",
+      "url": "https://localai.io/blog/why-we-write-our-own-engines/",
+      "publishedAt": "2026-07-31T16:17:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "eatonphil",
+      "tags": []
+    },
+    {
       "id": "rhqwce",
       "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
       "description": "Score: 185 | Comments: 95 | Posted by speckx",
@@ -245,6 +267,17 @@
       "tags": []
     },
     {
+      "id": "1jv6m5",
+      "title": "Cro – elegant reactive services in Raku",
+      "description": "Score: 22 | Comments: 3 | Posted by giancarlostoro",
+      "url": "https://cro.raku.org/",
+      "publishedAt": "2026-07-31T14:09:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "giancarlostoro",
+      "tags": []
+    },
+    {
       "id": "m5368k",
       "title": "Clockwise/Spiral Rule (1994)",
       "description": "Score: 65 | Comments: 48 | Posted by etrvic",
@@ -256,6 +289,17 @@
       "tags": []
     },
     {
+      "id": "hmedp",
+      "title": "When transit passes were designed by hand (2022)",
+      "description": "Score: 144 | Comments: 32 | Posted by nate",
+      "url": "https://letterformarchive.org/news/milwaukee-transit-passes/",
+      "publishedAt": "2026-07-31T13:38:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nate",
+      "tags": []
+    },
+    {
       "id": "56c1fc",
       "title": "Anti-fraud tools can't keep pace with robocall scammers",
       "description": "Score: 76 | Comments: 112 | Posted by dredmorbius",
@@ -264,6 +308,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "dredmorbius",
+      "tags": []
+    },
+    {
+      "id": "ybsg7t",
+      "title": "Autoregressive Language Model on the 6502 Processor",
+      "description": "Score: 110 | Comments: 10 | Posted by nmstoker",
+      "url": "https://mattbeton.com/blog/bitnet-6502.html",
+      "publishedAt": "2026-07-31T13:08:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nmstoker",
       "tags": []
     },
     {
@@ -330,6 +385,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "Garbage",
+      "tags": []
+    },
+    {
+      "id": "8ttzvu",
+      "title": "Medieval Ideas About Food",
+      "description": "Score: 5 | Comments: 0 | Posted by simplegeek",
+      "url": "https://lithub.com/fish-bad-sugar-good-and-other-medieval-ideas-about-food/",
+      "publishedAt": "2026-07-31T07:16:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "simplegeek",
+      "tags": []
+    },
+    {
+      "id": "ka4s7c",
+      "title": "Show HN: A Handwritten Blogging Platform",
+      "description": "Score: 102 | Comments: 52 | Posted by emilesilvis",
+      "url": "https://handwritten.blog/",
+      "publishedAt": "2026-07-31T06:37:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "emilesilvis",
       "tags": []
     },
     {

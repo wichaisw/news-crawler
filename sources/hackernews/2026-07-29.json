@@ -289,6 +289,17 @@
       "tags": []
     },
     {
+      "id": "93q5ow",
+      "title": "Developers are attached to tools because tools encode trust",
+      "description": "Score: 211 | Comments: 114 | Posted by HieronymusBosch",
+      "url": "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/",
+      "publishedAt": "2026-07-29T14:25:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "HieronymusBosch",
+      "tags": []
+    },
+    {
       "id": "o26qo3",
       "title": "Handbook.md shows that long policy documents do not reliably govern agents",
       "description": "Score: 314 | Comments: 191 | Posted by spIrr",
@@ -410,6 +421,17 @@
       "tags": []
     },
     {
+      "id": "4g5zos",
+      "title": "Fasttracker II clone in C using SDL 2",
+      "description": "Score: 133 | Comments: 51 | Posted by andsoitis",
+      "url": "https://16-bits.org/ft2.php",
+      "publishedAt": "2026-07-29T06:47:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andsoitis",
+      "tags": []
+    },
+    {
       "id": "37xyzx",
       "title": "More Tailscale tricks for your jailbroken Kindle",
       "description": "Score: 151 | Comments: 48 | Posted by Error6571",
@@ -506,6 +528,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ajhai",
+      "tags": []
+    },
+    {
+      "id": "uzvyo9",
+      "title": "How do you rewrite C/C++ projects to Rust?",
+      "description": "Score: 10 | Comments: 8 | Posted by smokeeaasd",
+      "url": "https://blog.jetbrains.com/rust/2026/07/27/cpp-to-rust-migration/",
+      "publishedAt": "2026-07-29T01:12:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "smokeeaasd",
       "tags": []
     },
     {

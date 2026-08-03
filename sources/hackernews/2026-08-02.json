@@ -3,6 +3,160 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "r94o20",
+      "title": "Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours",
+      "description": "Score: 143 | Comments: 130 | Posted by pshirshov",
+      "url": "https://github.com/pg83/shitty",
+      "publishedAt": "2026-08-02T23:05:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pshirshov",
+      "tags": []
+    },
+    {
+      "id": "2oxr4y",
+      "title": "The Computational Theory of Mind (2015)",
+      "description": "Score: 61 | Comments: 53 | Posted by cyanregiment",
+      "url": "https://plato.stanford.edu/entries/computational-mind/",
+      "publishedAt": "2026-08-02T22:35:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cyanregiment",
+      "tags": []
+    },
+    {
+      "id": "pqk54d",
+      "title": "Show HN: Make your Framework 12 sound like a creaky door",
+      "description": "Score: 84 | Comments: 16 | Posted by arcaege",
+      "url": "https://github.com/ArcaEge/creakwork12",
+      "publishedAt": "2026-08-02T20:33:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "arcaege",
+      "tags": []
+    },
+    {
+      "id": "skyngz",
+      "title": "TinyNES Review – A Super Niche NES Console",
+      "description": "Score: 54 | Comments: 19 | Posted by throwoutway",
+      "url": "https://blog.lon.tv/2023/02/05/tinynes-review-a-super-niche-nes-console/",
+      "publishedAt": "2026-08-02T20:01:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "throwoutway",
+      "tags": []
+    },
+    {
+      "id": "wsika8",
+      "title": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
+      "description": "Score: 140 | Comments: 75 | Posted by thebigship",
+      "url": "https://frogs.vaguespac.es/",
+      "publishedAt": "2026-08-02T19:42:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thebigship",
+      "tags": []
+    },
+    {
+      "id": "rtjca4",
+      "title": "'Crush this lady': how eBay harassment campaign led to $56M payout",
+      "description": "Score: 236 | Comments: 119 | Posted by JumpCrisscross",
+      "url": "https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2",
+      "publishedAt": "2026-08-02T19:19:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "JumpCrisscross",
+      "tags": []
+    },
+    {
+      "id": "p8fyob",
+      "title": "SwiftUI After 7 Years",
+      "description": "Score: 192 | Comments: 176 | Posted by mpweiher",
+      "url": "https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/",
+      "publishedAt": "2026-08-02T18:59:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mpweiher",
+      "tags": []
+    },
+    {
+      "id": "arik87",
+      "title": "The myth of Snow Leopard",
+      "description": "Score: 98 | Comments: 81 | Posted by speckx",
+      "url": "https://www.rubenerd.au/the-myth-of-snow-leopard/",
+      "publishedAt": "2026-08-02T18:21:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
+      "tags": []
+    },
+    {
+      "id": "h29fci",
+      "title": "Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark",
+      "description": "Score: 118 | Comments: 35 | Posted by graham33",
+      "url": "https://github.com/graham33/nixos-dgx-spark",
+      "publishedAt": "2026-08-02T17:05:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "graham33",
+      "tags": []
+    },
+    {
+      "id": "ee2u1b",
+      "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
+      "description": "Score: 219 | Comments: 55 | Posted by vlad_kalinkin",
+      "url": "https://github.com/wie-project/kakehashi",
+      "publishedAt": "2026-08-02T16:26:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vlad_kalinkin",
+      "tags": []
+    },
+    {
+      "id": "za73f4",
+      "title": "Rooting, firmware analysis and persistent credentials of TP-Link TL-841N",
+      "description": "Score: 110 | Comments: 24 | Posted by mindracer",
+      "url": "https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/",
+      "publishedAt": "2026-08-02T16:19:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mindracer",
+      "tags": []
+    },
+    {
+      "id": "878hp6",
+      "title": "How the words we teach English language learners changed",
+      "description": "Score: 219 | Comments: 169 | Posted by c-oreills",
+      "url": "https://pudding.cool/2026/07/essential-words/",
+      "publishedAt": "2026-08-02T15:41:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "c-oreills",
+      "tags": []
+    },
+    {
+      "id": "tpttb9",
+      "title": "Meshdiff – visually compare two STL versions in the browser, client-side",
+      "description": "Score: 191 | Comments: 21 | Posted by projscope",
+      "url": "https://meshdiff.com/",
+      "publishedAt": "2026-08-02T11:34:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "projscope",
+      "tags": []
+    },
+    {
+      "id": "fl1dgt",
+      "title": "Show HN: Bor – Open-source policy management for Linux desktops",
+      "description": "Score: 176 | Comments: 23 | Posted by eniac111",
+      "url": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
+      "publishedAt": "2026-08-02T09:06:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "eniac111",
+      "tags": []
+    },
+    {
       "id": "efbwko",
       "title": "Nerd culture is murdering intellectuals",
       "description": "Score: 6 | Comments: 1 | Posted by mockerell",
@@ -55,6 +209,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ilreb",
+      "tags": []
+    },
+    {
+      "id": "wzrxxc",
+      "title": "Karpathy’s Pelican",
+      "description": "Score: 567 | Comments: 388 | Posted by delichon",
+      "url": "https://twitter.com/karpathy/status/2083749667410727319",
+      "publishedAt": "2026-08-02T04:05:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "delichon",
       "tags": []
     },
     {
