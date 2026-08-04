@@ -135,6 +135,28 @@
       "tags": []
     },
     {
+      "id": "rt30yl",
+      "title": "They Forgot What Happened Last Time: Hacking the Windows 365 Link [video]",
+      "description": "Score: 48 | Comments: 2 | Posted by Jimmc414",
+      "url": "https://media.ccc.de/v/emf2026-93-1-they-forgot-what-happened-last-time",
+      "publishedAt": "2026-07-31T18:04:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Jimmc414",
+      "tags": []
+    },
+    {
+      "id": "emhwj6",
+      "title": "IPC-7351B Electronic Component Zero Orientation [pdf] (2010)",
+      "description": "Score: 12 | Comments: 4 | Posted by gregsadetsky",
+      "url": "https://scancad.net/wp-content/uploads/2019/02/zero-orientation-cad-libaray.pdf",
+      "publishedAt": "2026-07-31T17:54:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gregsadetsky",
+      "tags": []
+    },
+    {
       "id": "4aofnc",
       "title": "Severance",
       "description": "Score: 241 | Comments: 78 | Posted by surprisetalk",
@@ -143,6 +165,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "surprisetalk",
+      "tags": []
+    },
+    {
+      "id": "sj9b2h",
+      "title": "Decades-old fish sauce at abandoned factory in Canada finally being removed",
+      "description": "Score: 242 | Comments: 247 | Posted by ohjeez",
+      "url": "https://defector.com/abandoned-fish-sauce-canada-interview",
+      "publishedAt": "2026-07-31T16:23:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ohjeez",
       "tags": []
     },
     {
@@ -223,6 +256,17 @@
       "tags": []
     },
     {
+      "id": "m8otgz",
+      "title": "Massively Parallel Postgres Backups",
+      "description": "Score: 106 | Comments: 12 | Posted by ksec",
+      "url": "https://planetscale.com/blog/massively-parallel-postgres-backups",
+      "publishedAt": "2026-07-31T15:17:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ksec",
+      "tags": []
+    },
+    {
       "id": "k5go4z",
       "title": "A big win for Android interoperability",
       "description": "Score: 32 | Comments: 3 | Posted by soheilpro",
@@ -286,6 +330,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "etrvic",
+      "tags": []
+    },
+    {
+      "id": "j9ezdk",
+      "title": "Kelly Criterion Simulator",
+      "description": "Score: 66 | Comments: 29 | Posted by aleyan",
+      "url": "https://kellysimulator.com/",
+      "publishedAt": "2026-07-31T13:47:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "aleyan",
       "tags": []
     },
     {
@@ -410,6 +465,17 @@
       "tags": []
     },
     {
+      "id": "fdwsd0",
+      "title": "Beauty in my backyard",
+      "description": "Score: 15 | Comments: 1 | Posted by footest",
+      "url": "https://worksinprogress.co/issue/beauty-in-my-backyard/",
+      "publishedAt": "2026-07-31T06:25:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "footest",
+      "tags": []
+    },
+    {
       "id": "uuzw5w",
       "title": "DeepSeek-V4-Flash Update",
       "description": "Score: 191 | Comments: 81 | Posted by dnhkng",
@@ -451,6 +517,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "RebelPotato",
+      "tags": []
+    },
+    {
+      "id": "byre9p",
+      "title": "RosaicLabs, Atom RTL, and 32-Tile AMX: Trying to Piece Together a x86 Puzzle",
+      "description": "Score: 8 | Comments: 0 | Posted by aba_cz",
+      "url": "https://chipsandcheese.com/p/rosaiclabs-atom-rtl-and-32-tile-amx",
+      "publishedAt": "2026-07-31T04:57:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "aba_cz",
       "tags": []
     },
     {

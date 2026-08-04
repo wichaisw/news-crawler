@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-04",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "ruqxmh",
+      "title": "NHS apologises and admits Palantir have access to identifiable patient datapublictechnology.net",
+      "description": "Score: 30 | Comments: 0 | Posted by robin_reala",
+      "url": "https://www.publictechnology.net/2026/08/03/health-and-social-care/nhs-apologises-and-admits-palantir-engineers-have-access-to-identifiable-patient-data/",
+      "publishedAt": "2026-08-04T08:29:28.385Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "robin_reala",
+      "tags": []
+    },
+    {
+      "id": "ruqxmh",
+      "title": "NHS apologises and admits Palantir have access to identifiable patient data",
+      "description": "Score: 35 | Comments: 0 | Posted by robin_reala",
+      "url": "https://www.publictechnology.net/2026/08/03/health-and-social-care/nhs-apologises-and-admits-palantir-engineers-have-access-to-identifiable-patient-data/",
+      "publishedAt": "2026-08-04T08:27:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "robin_reala",
+      "tags": []
+    },
+    {
+      "id": "um5e3m",
+      "title": "Harness Engineering for Self-Improvement",
+      "description": "Score: 4 | Comments: 0 | Posted by tosh",
+      "url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
+      "publishedAt": "2026-08-04T06:17:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tosh",
+      "tags": []
+    },
+    {
+      "id": "s19yuo",
+      "title": "Apple is getting this wrong",
+      "description": "Score: 160 | Comments: 157 | Posted by meetpateltech",
+      "url": "https://openai.com/index/apple-is-getting-this-wrong/",
+      "publishedAt": "2026-08-04T05:32:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "meetpateltech",
+      "tags": []
+    },
+    {
+      "id": "p7kvpz",
+      "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhonegithub.com/leonickson1",
+      "description": "Score: 157 | Comments: 63 | Posted by leonickson",
+      "url": "https://github.com/leonickson1/Swiftlet",
+      "publishedAt": "2026-08-04T02:39:28.388Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "leonickson",
+      "tags": []
+    }
+  ]
+}

@@ -234,6 +234,17 @@
       "tags": []
     },
     {
+      "id": "fwfvje",
+      "title": "200 Milliseconds",
+      "description": "Score: 268 | Comments: 77 | Posted by dimitarpanov",
+      "url": "https://200ms.thenodebook.com",
+      "publishedAt": "2026-08-01T10:17:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dimitarpanov",
+      "tags": []
+    },
+    {
       "id": "hiefrh",
       "title": "Ten advances in mathematics and theoretical computer scienceopenai.com",
       "description": "Score: 43 | Comments: 14 | Posted by milkshakes",
@@ -264,6 +275,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "giuliomagnifico",
+      "tags": []
+    },
+    {
+      "id": "acf0xe",
+      "title": "Battle of the Beams",
+      "description": "Score: 50 | Comments: 15 | Posted by petethomas",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_the_Beams",
+      "publishedAt": "2026-08-01T05:14:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "petethomas",
       "tags": []
     },
     {

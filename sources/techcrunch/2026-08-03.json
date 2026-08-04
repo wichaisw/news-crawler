@@ -1,0 +1,193 @@
+{
+  "date": "2026-08-03",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3149421",
+      "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+      "description": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy",
+      "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+      "publishedAt": "2026-08-03T23:19:50.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Julie Bort",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3149431",
+      "title": "Snap CEO sidesteps Specs preorder questions on Q2 earnings call",
+      "description": "When asked about product-market fit, Spiegel said he believes mass-market consumer adoption won't occur until the end of the decade.",
+      "url": "https://techcrunch.com/2026/08/03/snap-ceo-sidesteps-specs-pre-order-questions-on-q2-earnings-call/",
+      "publishedAt": "2026-08-03T22:10:58.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Aisha Malik",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3148841",
+      "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+      "description": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from",
+      "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+      "publishedAt": "2026-08-03T20:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Julie Bort",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3149175",
+      "title": "Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated",
+      "description": "OpenAI and Anthropic admitted that their unreleased AI models escaped their sandboxes and hacked several companies in unprecedented cyberattacks. Who",
+      "url": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/",
+      "publishedAt": "2026-08-03T19:45:35.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lorenzo Franceschi-Bicchierai, Zack Whittaker",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3149146",
+      "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
+      "description": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
+      "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+      "publishedAt": "2026-08-03T19:28:57.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Russell Brandom",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3149254",
+      "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
+      "description": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.",
+      "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+      "publishedAt": "2026-08-03T19:09:56.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3149290",
+      "title": "Apple challenges UK government’s latest demand for iCloud backdoor: report",
+      "description": "Apple has appealed a new legal demand by the U.K. government, which critics say could threaten the privacy rights of users all over the world.",
+      "url": "https://techcrunch.com/2026/08/03/apple-challenges-uk-governments-latest-demand-for-icloud-backdoor-report/",
+      "publishedAt": "2026-08-03T18:54:09.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lorenzo Franceschi-Bicchierai",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3149128",
+      "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+      "description": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a",
+      "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+      "publishedAt": "2026-08-03T18:43:43.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sarah Perez",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3149083",
+      "title": "Outernet turns your saved posts into real-world adventures",
+      "description": "Founded by the creators of viral offline events like San Francisco’s citywide scavenger hunt Pursuit, Outernet's app helps users save places and",
+      "url": "https://techcrunch.com/2026/08/03/outernet-turns-your-saved-posts-into-real-world-adventures/",
+      "publishedAt": "2026-08-03T18:00:24.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sarah Perez",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3149187",
+      "title": "WhatsApp says it is fixing an issue that disabled several accounts",
+      "description": "Meta says it’s restoring access to WhatsApp accounts that were mistakenly flagged and placed “under review” after users reported being unexpectedly",
+      "url": "https://techcrunch.com/2026/08/03/whatsapp-says-it-is-is-fixing-an-issue-that-disabled-several-accounts/",
+      "publishedAt": "2026-08-03T17:46:01.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Ivan Mehta",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3149118",
+      "title": "Sequoia’s Shaun Maguire leads $1B round for nuclear startup Valar Atomics",
+      "description": "Valar Atomics raised $1 billion at a $6 billion valuation after signing a development deal with Nvidia in June.",
+      "url": "https://techcrunch.com/2026/08/03/sequoias-shaun-maguire-leads-1b-round-for-nuclear-startup-valar-atomics/",
+      "publishedAt": "2026-08-03T17:16:43.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Julie Bort",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3149093",
+      "title": "Base Power raises another $1B to save the grid using backyard batteries",
+      "description": "Base Power’s $1 billion round will help the startup ramp production of its home batteries.",
+      "url": "https://techcrunch.com/2026/08/03/base-power-raises-another-1b-to-save-the-grid-using-backyard-batteries/",
+      "publishedAt": "2026-08-03T16:46:57.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Tim De Chant",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3149151",
+      "title": "Congress’ favorite AI tool? ChatGPT",
+      "description": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos,",
+      "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+      "publishedAt": "2026-08-03T16:40:55.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Rebecca Bellan",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3149084",
+      "title": "Wispr Flow is preparing to launch a meeting notetaker, updated terms suggest",
+      "description": "Wispr Flow's new terms of service indicate it will introduce a notetaker that generates meeting summaries and action items.",
+      "url": "https://techcrunch.com/2026/08/03/wispr-flow-is-preparing-to-launch-a-meeting-notetaker-updated-terms-suggest/",
+      "publishedAt": "2026-08-03T16:29:30.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Ivan Mehta",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3149022",
+      "title": "Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate",
+      "description": "Cybersecurity startup Horizon3 raised $250 million at a $2 billion valuation as companies want continuous, AI-powered security validation instead of",
+      "url": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/",
+      "publishedAt": "2026-08-03T12:50:46.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Kate Park",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3149073",
+      "title": "Samsung bans smart TV apps that share users’ internet connections with strangers",
+      "description": "New security research offers a rare view inside residential proxy networks, which rely on apps that share a person's internet connection with someone",
+      "url": "https://techcrunch.com/2026/08/03/samsung-bans-smart-tv-apps-that-share-users-internet-connections-with-strangers/",
+      "publishedAt": "2026-08-03T12:10:41.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Zack Whittaker",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3148764",
+      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+      "description": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
+      "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+      "publishedAt": "2026-08-03T10:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Tim Fernholz",
+      "tags": []
+    }
+  ]
+}
