@@ -1,0 +1,215 @@
+{
+  "date": "2026-08-04",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3149906",
+      "title": "Elon Musk repeatedly one-upped his execs on SpaceX’s first earnings call",
+      "description": "Musk kept inflating the already-big promises being made by SpaceX CFO Bret Johnsen and Gwynne Shotwell on the company's first call.",
+      "url": "https://techcrunch.com/2026/08/04/elon-musk-repeatedly-one-upped-his-execs-on-spacexs-first-earnings-call/",
+      "publishedAt": "2026-08-04T22:30:58.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sean O'Kane",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3149894",
+      "title": "Lucid’s turnaround plan hinges on $1.4B in cash savings, robotaxis",
+      "description": "Lucid's new CEO Silvio Napoli listed four must-win priorities, including the successful launch of its midsize EV, finishing a factory in Saudi",
+      "url": "https://techcrunch.com/2026/08/04/lucids-turnaround-plan-hinges-on-1-4b-in-cash-savings-robotaxis/",
+      "publishedAt": "2026-08-04T22:24:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Kirsten Korosec, Sean O'Kane",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3149899",
+      "title": "How to get the best hotel deals for TechCrunch Disrupt 2026",
+      "description": "We’ve partnered with hotels around Moscone West during Disrupt, taking place October 13 to 15, to secure the best prices available for attendees.",
+      "url": "https://techcrunch.com/2026/08/04/how-to-get-the-best-hotel-deals-for-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-08-04T22:18:30.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "TechCrunch Events",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3149877",
+      "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+      "description": "The purchase illustrates just how interconnected Elon Musk's universe of companies are.",
+      "url": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
+      "publishedAt": "2026-08-04T21:07:26.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Tim De Chant",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3149811",
+      "title": "SpaceX doubles revenue on Anthropic and Google compute deals, Starlink growth",
+      "description": "SpaceX doubled its revenue compared to last year, according to its first quarterly earnings since going public in June.",
+      "url": "https://techcrunch.com/2026/08/04/spacex-doubles-revenues-on-anthropic-and-google-compute-deals-starlink-growth/",
+      "publishedAt": "2026-08-04T20:36:30.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sean O'Kane",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3149282",
+      "title": "Android app developers may be unwittingly sharing their users’ location data with advertisers",
+      "description": "New findings by the Electronic Frontier Foundation aim to warn app developers that some of the third-party code they place in their apps may also",
+      "url": "https://techcrunch.com/2026/08/04/android-app-developers-may-be-unwittingly-sharing-their-users-location-data-with-advertisers/",
+      "publishedAt": "2026-08-04T20:26:53.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Zack Whittaker",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3149807",
+      "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+      "description": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns",
+      "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+      "publishedAt": "2026-08-04T20:05:26.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Rebecca Bellan",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3149770",
+      "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+      "description": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
+      "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+      "publishedAt": "2026-08-04T19:48:40.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lucas Ropek",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3149087",
+      "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
+      "description": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.",
+      "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
+      "publishedAt": "2026-08-04T19:34:34.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Aisha Malik",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3149725",
+      "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+      "description": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI",
+      "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+      "publishedAt": "2026-08-04T19:28:49.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Julie Bort",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3149699",
+      "title": "Waymo opens up robotaxi service in Dallas to everyone",
+      "description": "Waymo has dropped the waitlist for its robotaxi service in Dallas, the latest step in the company's bid to scale its self-driving technology across",
+      "url": "https://techcrunch.com/2026/08/04/waymo-opens-up-robotaxi-service-in-dallas-to-everyone/",
+      "publishedAt": "2026-08-04T17:31:01.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Kirsten Korosec",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3149365",
+      "title": "Take an extra $100 off your TechCrunch Disrupt 2026 pass: This week only!",
+      "description": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of",
+      "url": "https://techcrunch.com/2026/08/04/take-an-extra-100-off-your-techcrunch-disrupt-2026-pass-this-week-only/",
+      "publishedAt": "2026-08-04T17:20:54.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "TechCrunch Events",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3149675",
+      "title": "TV Time co-founder launches Bingers to revive the beloved TV-tracking app",
+      "description": "Bingers is a new TV and movie tracker that revives the social features fans loved with TV Time, while adding support for importing their viewing",
+      "url": "https://techcrunch.com/2026/08/04/tv-time-co-founder-launches-bingers-to-revive-the-beloved-tv-tracking-app/",
+      "publishedAt": "2026-08-04T17:05:48.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sarah Perez",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3149641",
+      "title": "Hackers steal over $130M by exploiting bug in offline hardware wallets",
+      "description": "A security vulnerability in the cryptocurrency hardware wallet Coldcard is allowing hackers to drain the crypto from victims’ wallets. The total",
+      "url": "https://techcrunch.com/2026/08/04/hackers-steal-over-130-million-by-exploiting-bug-in-offline-hardware-wallets/",
+      "publishedAt": "2026-08-04T16:27:59.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lorenzo Franceschi-Bicchierai",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3149610",
+      "title": "Spotify expands AI remix and covers project with Merlin partnership",
+      "description": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming",
+      "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
+      "publishedAt": "2026-08-04T15:50:06.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sarah Perez",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3149621",
+      "title": "Texas halts new data centers as governor calls for audits",
+      "description": "Tech companies and developers have been scouring the U.S. for places to build data centers, and they’ve been drawn to Texas’ loose regulations and",
+      "url": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
+      "publishedAt": "2026-08-04T15:42:35.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Tim De Chant",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3149618",
+      "title": "Walmart completes its acquisition of TV advertising company Vibe.co",
+      "description": "The acquisition, which was announced in June, brings Vibe.co into Walmart Connect, Walmart's connected TV advertising platform.",
+      "url": "https://techcrunch.com/2026/08/04/walmart-completes-its-acquisition-of-tv-advertising-company-vibe-co/",
+      "publishedAt": "2026-08-04T15:38:22.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Aisha Malik",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3149611",
+      "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
+      "description": "An analysis of the last seven years of Tesla earnings calls shows just how little attention Musk pays to Tesla's car business.",
+      "url": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
+      "publishedAt": "2026-08-04T15:20:06.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sean O'Kane, Russell Brandom",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3098981",
+      "title": "Host a Side Event during TechCrunch Founder Summit Week in Boston",
+      "description": "Want to tap into the energy of 1,100+ startup founders, investors, and tech leaders descending on Boston for the Founder Summit 2026 on June 9? Host",
+      "url": "https://techcrunch.com/2026/08/04/host-a-side-event-during-techcrunch-founder-summit-week-in-boston/",
+      "publishedAt": "2026-08-04T15:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "TechCrunch Events",
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "date": "2026-08-05",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "8ud542",
+      "title": "Rust-lang/rust is adopting an LLM policy",
+      "description": "Score: 54 | Comments: 32 | Posted by afdbcreid",
+      "url": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/",
+      "publishedAt": "2026-08-05T05:52:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "afdbcreid",
+      "tags": []
+    },
+    {
+      "id": "c5uu53",
+      "title": "Compass, a local-first code graph built in Rust for humans and AI agents",
+      "description": "Score: 4 | Comments: 0 | Posted by forhappy",
+      "url": "https://github.com/crabbuild/compass",
+      "publishedAt": "2026-08-05T05:05:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "forhappy",
+      "tags": []
+    },
+    {
+      "id": "o246rq",
+      "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
+      "description": "Score: 28 | Comments: 7 | Posted by theanonymousone",
+      "url": "https://arxiv.org/abs/2607.29377",
+      "publishedAt": "2026-08-05T04:36:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "theanonymousone",
+      "tags": []
+    },
+    {
+      "id": "g5c0xl",
+      "title": "An SLM trained on $8 ESP32-S3",
+      "description": "Score: 20 | Comments: 7 | Posted by pavelai",
+      "url": "https://github.com/Carloscodix/qapla",
+      "publishedAt": "2026-08-05T04:07:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pavelai",
+      "tags": []
+    },
+    {
+      "id": "kgy4ks",
+      "title": "Stateless MCP has recaptured my interestsimonwillison.net",
+      "description": "Score: 162 | Comments: 80 | Posted by tosh",
+      "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
+      "publishedAt": "2026-08-05T02:38:07.792Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tosh",
+      "tags": []
+    },
+    {
+      "id": "brs2o9",
+      "title": "Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice",
+      "description": "Score: 83 | Comments: 65 | Posted by teleforce",
+      "url": "https://arxiv.org/abs/2603.04221",
+      "publishedAt": "2026-08-05T00:10:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "teleforce",
+      "tags": []
+    },
+    {
+      "id": "8hwp16",
+      "title": "Bugtraq is back",
+      "description": "Score: 39 | Comments: 9 | Posted by bashtoni",
+      "url": "https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/",
+      "publishedAt": "2026-08-05T00:05:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bashtoni",
+      "tags": []
+    },
+    {
+      "id": "3vwax8",
+      "title": "Flowise is shutting down",
+      "description": "Score: 47 | Comments: 29 | Posted by llmgraph",
+      "url": "https://flowiseai.com/sunset",
+      "publishedAt": "2026-08-05T00:02:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "llmgraph",
+      "tags": []
+    }
+  ]
+}
