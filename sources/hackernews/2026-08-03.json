@@ -102,6 +102,17 @@
       "tags": []
     },
     {
+      "id": "3lvkqc",
+      "title": "Ryg_rans Is Not a Library",
+      "description": "Score: 4 | Comments: 0 | Posted by ibobev",
+      "url": "https://fgiesen.wordpress.com/2026/08/03/ryg_rans-is-not-a-library/",
+      "publishedAt": "2026-08-03T18:32:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
+      "tags": []
+    },
+    {
       "id": "a1l1mc",
       "title": "ZX Spectrum System Tour: Sound",
       "description": "Score: 41 | Comments: 13 | Posted by ibobev",
@@ -187,6 +198,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "milkshakes",
+      "tags": []
+    },
+    {
+      "id": "e9rcmz",
+      "title": "Decimen Optical Transfer: fountain-coded QR file transfer",
+      "description": "Score: 19 | Comments: 7 | Posted by ksec",
+      "url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
+      "publishedAt": "2026-08-03T16:17:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ksec",
       "tags": []
     },
     {
@@ -418,6 +440,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "paavohtl",
+      "tags": []
+    },
+    {
+      "id": "4c5v2i",
+      "title": "Branchless Rust: Making a Filter 4x Faster by Removing an If",
+      "description": "Score: 164 | Comments: 40 | Posted by greyblake",
+      "url": "https://www.greyblake.com/blog/branchless-rust/",
+      "publishedAt": "2026-08-03T06:37:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "greyblake",
       "tags": []
     },
     {

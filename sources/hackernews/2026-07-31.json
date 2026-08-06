@@ -14,6 +14,17 @@
       "tags": []
     },
     {
+      "id": "5z24yq",
+      "title": "Morioka Shoten",
+      "description": "Score: 8 | Comments: 1 | Posted by skogstokig",
+      "url": "https://www.takram.com/projects/a-single-room-with-a-single-book-morioka-shoten",
+      "publishedAt": "2026-07-31T23:14:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "skogstokig",
+      "tags": []
+    },
+    {
       "id": "r1mieq",
       "title": "Unearthing my 1996 windowed OS in machine code for Am29000 homebrew computer",
       "description": "Score: 22 | Comments: 2 | Posted by nanochess",
@@ -124,6 +135,17 @@
       "tags": []
     },
     {
+      "id": "hawdp6",
+      "title": "Goodhart's Law Comes for Every Benchmark You Trust",
+      "description": "Score: 82 | Comments: 35 | Posted by pseudolus",
+      "url": "https://cacm.acm.org/blogcacm/goodharts-law-comes-for-every-benchmark-you-trust/",
+      "publishedAt": "2026-07-31T18:14:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pseudolus",
+      "tags": []
+    },
+    {
       "id": "tyxcuv",
       "title": "Everyone is building LLM routers, we deprecated ours",
       "description": "Score: 117 | Comments: 72 | Posted by brunaxLorax",
@@ -190,6 +212,17 @@
       "tags": []
     },
     {
+      "id": "aufjyw",
+      "title": "Exact, parallel 2D Delaunay triangulation for int32 coordinates",
+      "description": "Score: 55 | Comments: 16 | Posted by oryx1729",
+      "url": "https://github.com/morishuz/delaunay32",
+      "publishedAt": "2026-07-31T16:45:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "oryx1729",
+      "tags": []
+    },
+    {
       "id": "sj9b2h",
       "title": "Decades-old fish sauce at abandoned factory in Canada finally being removed",
       "description": "Score: 242 | Comments: 247 | Posted by ohjeez",
@@ -220,6 +253,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "speckx",
+      "tags": []
+    },
+    {
+      "id": "1earsl",
+      "title": "Online Friends Are Real Friends",
+      "description": "Score: 107 | Comments: 72 | Posted by Tomte",
+      "url": "https://toska.bearblog.dev/re-online-friends-are-real-friends/",
+      "publishedAt": "2026-07-31T16:07:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Tomte",
       "tags": []
     },
     {

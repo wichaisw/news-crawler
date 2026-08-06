@@ -1,0 +1,94 @@
+{
+  "date": "2026-08-06",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "wxsy3h",
+      "title": "What I love about Django",
+      "description": "Score: 28 | Comments: 5 | Posted by j4mie",
+      "url": "https://buttondown.com/blog/what-i-love-about-django",
+      "publishedAt": "2026-08-06T07:34:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "j4mie",
+      "tags": []
+    },
+    {
+      "id": "53fo3j",
+      "title": "Servers can be backdoored by exploiting buggy motherboard controll",
+      "description": "Score: 5 | Comments: 0 | Posted by joozio",
+      "url": "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/",
+      "publishedAt": "2026-08-06T07:01:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "joozio",
+      "tags": []
+    },
+    {
+      "id": "x1fp86",
+      "title": "Let's all meet up in the Y2K",
+      "description": "Score: 22 | Comments: 5 | Posted by msephton",
+      "url": "https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/",
+      "publishedAt": "2026-08-06T06:43:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "msephton",
+      "tags": []
+    },
+    {
+      "id": "dje1vl",
+      "title": "France is banning unsolicited telemarketing calls starting next week",
+      "description": "Score: 21 | Comments: 2 | Posted by geox",
+      "url": "https://apnews.com/article/france-unsolicited-telemarketing-ban-4c946192a1e0d611fd80eacc708aa7da",
+      "publishedAt": "2026-08-06T05:28:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "geox",
+      "tags": []
+    },
+    {
+      "id": "yv5lkk",
+      "title": "Smalltalk Report from 1991 to 1996",
+      "description": "Score: 6 | Comments: 0 | Posted by matt_d",
+      "url": "https://github.com/Ducasse/SmalltalkReportPDFArchive",
+      "publishedAt": "2026-08-06T04:57:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "matt_d",
+      "tags": []
+    },
+    {
+      "id": "oq8sjx",
+      "title": "Crime Pays but Botany Doesn't",
+      "description": "Score: 139 | Comments: 53 | Posted by DarkContinent",
+      "url": "https://www.crimepaysbutbotanydoesnt.com/reading-list",
+      "publishedAt": "2026-08-06T04:46:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "DarkContinent",
+      "tags": []
+    },
+    {
+      "id": "924hy7",
+      "title": "Show HN: Wallfacer – A terminal session manager for Claude Code, and more",
+      "description": "Score: 19 | Comments: 10 | Posted by pradiptasarma",
+      "url": "https://github.com/pradipta/wallfacer",
+      "publishedAt": "2026-08-06T03:52:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pradiptasarma",
+      "tags": []
+    },
+    {
+      "id": "i8ixr0",
+      "title": "Nashville uses eminent domain to block data center near zoo",
+      "description": "Score: 227 | Comments: 265 | Posted by mapping365",
+      "url": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
+      "publishedAt": "2026-08-06T02:15:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mapping365",
+      "tags": []
+    }
+  ]
+}
