@@ -36,6 +36,17 @@
       "tags": []
     },
     {
+      "id": "8a041d",
+      "title": "Reverse Jevons Paradox",
+      "description": "Score: 17 | Comments: 7 | Posted by martinhath",
+      "url": "https://mht.wtf/post/jevons/",
+      "publishedAt": "2026-08-03T22:04:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "martinhath",
+      "tags": []
+    },
+    {
       "id": "a7k5wt",
       "title": "LLMs reward expertiseseangoedecke.com",
       "description": "Score: 879 | Comments: 361 | Posted by MaxMussio",
@@ -44,6 +55,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "MaxMussio",
+      "tags": []
+    },
+    {
+      "id": "uekk4c",
+      "title": "Learning to fly FPV drones with AI flight coach",
+      "description": "Score: 11 | Comments: 7 | Posted by divyenduz",
+      "url": "https://blog.divyendusingh.com/p/learning-to-fly-fpv-drones-with-ai",
+      "publishedAt": "2026-08-03T21:39:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "divyenduz",
       "tags": []
     },
     {
@@ -66,6 +88,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "carlos-menezes",
+      "tags": []
+    },
+    {
+      "id": "o26qpy",
+      "title": "Towards Bottom-Up Enumeration in miniKanren via Pruning and Memoization",
+      "description": "Score: 17 | Comments: 1 | Posted by Jimmc414",
+      "url": "https://arxiv.org/abs/2607.25373",
+      "publishedAt": "2026-08-03T21:22:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Jimmc414",
       "tags": []
     },
     {
@@ -121,6 +154,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ibobev",
+      "tags": []
+    },
+    {
+      "id": "lv8ho6",
+      "title": "Show HN: A free mini game that makes you a smarter fly fisherperson",
+      "description": "Score: 3 | Comments: 0 | Posted by mpc75",
+      "url": "https://read-the-water.netlify.app/",
+      "publishedAt": "2026-08-03T18:04:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mpc75",
       "tags": []
     },
     {
@@ -396,6 +440,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "tosh",
+      "tags": []
+    },
+    {
+      "id": "1wnbjj",
+      "title": "I stopped trusting USB-C cable labels and started testing them",
+      "description": "Score: 160 | Comments: 126 | Posted by baranul",
+      "url": "https://www.makeuseof.com/i-stopped-trusting-usb-c-cable-labels-started-testing-with-meter-instead/",
+      "publishedAt": "2026-08-03T07:12:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "baranul",
       "tags": []
     },
     {
