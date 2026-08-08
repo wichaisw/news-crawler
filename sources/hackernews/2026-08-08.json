@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-08",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "bf311h",
+      "title": "Germany's gas gamble puts Europe's winter at risk",
+      "description": "Score: 3 | Comments: 1 | Posted by leonidasrup",
+      "url": "https://www.politico.eu/article/germany-gas-reserve-low-europe-winter-energy/",
+      "publishedAt": "2026-08-08T05:19:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "leonidasrup",
+      "tags": []
+    },
+    {
+      "id": "v18x3j",
+      "title": "Facing 474 GW of interconnection requests, Texas hits pause on data centers",
+      "description": "Score: 9 | Comments: 1 | Posted by geox",
+      "url": "https://www.utilitydive.com/news/texas-hits-pause-data-center-interconnections/827046/",
+      "publishedAt": "2026-08-08T04:07:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "geox",
+      "tags": []
+    },
+    {
+      "id": "ukak5w",
+      "title": "Mythos social engineering AISI INC-2026-07-28-01",
+      "description": "Score: 45 | Comments: 17 | Posted by dnnehgf",
+      "url": "https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3",
+      "publishedAt": "2026-08-08T03:41:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dnnehgf",
+      "tags": []
+    },
+    {
+      "id": "o5d1qa",
+      "title": "NASA to keep its 48-year-old Voyager 2 probe running for yet another year",
+      "description": "Score: 183 | Comments: 31 | Posted by wglb",
+      "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
+      "publishedAt": "2026-08-08T01:49:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wglb",
+      "tags": []
+    },
+    {
+      "id": "a4cqey",
+      "title": "The Nixpkgs core team has disbanded",
+      "description": "Score: 258 | Comments: 114 | Posted by Meleagris",
+      "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+      "publishedAt": "2026-08-08T01:12:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Meleagris",
+      "tags": []
+    }
+  ]
+}
