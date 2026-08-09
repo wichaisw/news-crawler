@@ -366,6 +366,17 @@
       "tags": []
     },
     {
+      "id": "fy8h4a",
+      "title": "Fixing my tooltip accessibility mistake",
+      "description": "Score: 22 | Comments: 1 | Posted by robin_reala",
+      "url": "https://jakearchibald.com/2026/my-tooltip-a11y-mistake/",
+      "publishedAt": "2026-07-28T12:13:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "robin_reala",
+      "tags": []
+    },
+    {
       "id": "7g3fef",
       "title": "Nyctography: A substituton cypher by Lewis Carroll",
       "description": "Score: 74 | Comments: 11 | Posted by nanna",
@@ -451,6 +462,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "kamilstaszewski",
+      "tags": []
+    },
+    {
+      "id": "bhqe9y",
+      "title": "Improving Heuristics for A* Pathfinding",
+      "description": "Score: 181 | Comments: 18 | Posted by bobbiechen",
+      "url": "https://www.redblobgames.com/pathfinding/heuristics/differential.html",
+      "publishedAt": "2026-07-28T06:04:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bobbiechen",
       "tags": []
     },
     {

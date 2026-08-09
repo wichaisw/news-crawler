@@ -14,6 +14,17 @@
       "tags": []
     },
     {
+      "id": "uxmcfd",
+      "title": "Unexpected events and prosocial behavior: the Batman effect (2025)",
+      "description": "Score: 43 | Comments: 8 | Posted by davidbarker",
+      "url": "https://www.nature.com/articles/s44184-025-00171-5",
+      "publishedAt": "2026-08-02T22:40:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "davidbarker",
+      "tags": []
+    },
+    {
       "id": "2oxr4y",
       "title": "The Computational Theory of Mind (2015)",
       "description": "Score: 61 | Comments: 53 | Posted by cyanregiment",
@@ -190,6 +201,17 @@
       "tags": []
     },
     {
+      "id": "rdddzo",
+      "title": "Finding zombies in our systems: A real-world story of CPU bottlenecks",
+      "description": "Score: 42 | Comments: 8 | Posted by fagnerbrack",
+      "url": "https://medium.com/pinterest-engineering/finding-zombies-in-our-systems-a-real-world-story-of-cpu-bottlenecks-ea4722e552eb",
+      "publishedAt": "2026-08-02T14:50:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fagnerbrack",
+      "tags": []
+    },
+    {
       "id": "et88f7",
       "title": "Video2NAND – Abusing video codecs for great computational power",
       "description": "Score: 61 | Comments: 11 | Posted by firer",
@@ -286,6 +308,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "4pkjai",
+      "tags": []
+    },
+    {
+      "id": "kzydcs",
+      "title": "ao486: x86-compatible Verilog core implementing all features of a 486 SX (2014)",
+      "description": "Score: 70 | Comments: 9 | Posted by csmantle",
+      "url": "https://github.com/alfikpl/ao486",
+      "publishedAt": "2026-08-02T04:53:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "csmantle",
       "tags": []
     },
     {
