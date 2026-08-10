@@ -36,6 +36,17 @@
       "tags": []
     },
     {
+      "id": "ufinvl",
+      "title": "Should you stop cracking your knuckles?",
+      "description": "Score: 115 | Comments: 122 | Posted by tchalla",
+      "url": "https://www.bbc.com/future/article/20260807-should-i-stop-cracking-my-knuckles",
+      "publishedAt": "2026-08-08T22:36:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tchalla",
+      "tags": []
+    },
+    {
       "id": "utrutr",
       "title": "Shopify replaced Redis with MySQL for inventory reservations–and it scaled",
       "description": "Score: 152 | Comments: 83 | Posted by adletbalzhanov",

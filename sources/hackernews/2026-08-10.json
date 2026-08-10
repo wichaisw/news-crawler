@@ -1,0 +1,127 @@
+{
+  "date": "2026-08-10",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "lm712m",
+      "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agentsdocker.com",
+      "description": "Score: 96 | Comments: 56 | Posted by etoxin",
+      "url": "https://www.docker.com/products/docker-sandboxes/",
+      "publishedAt": "2026-08-10T06:44:41.726Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "etoxin",
+      "tags": []
+    },
+    {
+      "id": "lm712m",
+      "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+      "description": "Score: 96 | Comments: 56 | Posted by etoxin",
+      "url": "https://www.docker.com/products/docker-sandboxes/",
+      "publishedAt": "2026-08-10T06:02:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "etoxin",
+      "tags": []
+    },
+    {
+      "id": "stzv5h",
+      "title": "The Philippines' big offshoring industry is growing despite AI",
+      "description": "Score: 24 | Comments: 25 | Posted by nlpnerd",
+      "url": "https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai",
+      "publishedAt": "2026-08-10T04:35:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nlpnerd",
+      "tags": []
+    },
+    {
+      "id": "z8lywv",
+      "title": "As AI grips world, the thrill of collecting vintage computers is growing",
+      "description": "Score: 10 | Comments: 0 | Posted by geox",
+      "url": "https://apnews.com/article/vintage-computers-silicon-valley-technology-apple-history-43d28a08d77cc477cdcd6951315d2f2d",
+      "publishedAt": "2026-08-10T04:22:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "geox",
+      "tags": []
+    },
+    {
+      "id": "a8skq",
+      "title": "Auto mode is now the default in Claude Code",
+      "description": "Score: 167 | Comments: 147 | Posted by sbehere",
+      "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
+      "publishedAt": "2026-08-10T03:50:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sbehere",
+      "tags": []
+    },
+    {
+      "id": "egoo4g",
+      "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+      "description": "Score: 59 | Comments: 18 | Posted by MrRowTheBoat",
+      "url": "https://www.whodunnitai.com/",
+      "publishedAt": "2026-08-10T03:18:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "MrRowTheBoat",
+      "tags": []
+    },
+    {
+      "id": "1naj4x",
+      "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
+      "description": "Score: 50 | Comments: 5 | Posted by LorenDB",
+      "url": "https://github.com/shinyquagsire23/Klepton",
+      "publishedAt": "2026-08-10T03:12:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "LorenDB",
+      "tags": []
+    },
+    {
+      "id": "med4g4",
+      "title": "Turn satellite imagery into a paper globe you fold yourself",
+      "description": "Score: 43 | Comments: 10 | Posted by dango2506",
+      "url": "https://foldingglobes.com/",
+      "publishedAt": "2026-08-10T02:57:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dango2506",
+      "tags": []
+    },
+    {
+      "id": "fbndm5",
+      "title": "What Happened to HackerOne?",
+      "description": "Score: 178 | Comments: 68 | Posted by hipparchus",
+      "url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
+      "publishedAt": "2026-08-10T02:23:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hipparchus",
+      "tags": []
+    },
+    {
+      "id": "2k19if",
+      "title": "How We Pushed CDC into Postgres",
+      "description": "Score: 81 | Comments: 7 | Posted by craigkerstiens",
+      "url": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
+      "publishedAt": "2026-08-10T01:01:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "craigkerstiens",
+      "tags": []
+    },
+    {
+      "id": "4tr425",
+      "title": "Japanese court overturns Red RAW video patent",
+      "description": "Score: 88 | Comments: 20 | Posted by anigbrowl",
+      "url": "https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/",
+      "publishedAt": "2026-08-10T00:36:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "anigbrowl",
+      "tags": []
+    }
+  ]
+}
