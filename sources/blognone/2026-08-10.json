@@ -1,0 +1,63 @@
+{
+  "date": "2026-08-10",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "151341 at https://www.blognone.com",
+      "title": "Claude Sonnet 5 คงราคาเดิม $2/$10 ต่อ 1M โทเค็น ยกเลิกแผนขึ้นราคา",
+      "description": "Claude Sonnet 5 คงราคาเดิม $2/$10 ต่อ 1M โทเค็น ยกเลิกแผนขึ้นราคา Body ข่าวสั้นจาก Anthropic บริษัทประกาศว่า Claude Sonnet 5 โมเดล AI",
+      "url": "https://www.blognone.com/node/151341",
+      "publishedAt": "2026-08-10T23:40:41.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151335 at https://www.blognone.com",
+      "title": "เมื่อมีคนสั่ง AI Agent ให้จองคลาสฟิตเนส แต่ดันฉลาดเกินกลายเป็นการเจาะระบบแบบไม่ตั้งใจ",
+      "description": "เมื่อมีคนสั่ง AI Agent ให้จองคลาสฟิตเนส แต่ดันฉลาดเกินกลายเป็นการเจาะระบบแบบไม่ตั้งใจ Body สำนักข่าว ABC",
+      "url": "https://www.blognone.com/node/151335",
+      "publishedAt": "2026-08-10T12:11:02.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151334 at https://www.blognone.com",
+      "title": "Claude Code เปิดการทำงาน Auto Mode เป็นค่าเริ่มต้น ลดขั้นตอนคนอนุมัติ",
+      "description": "Claude Code เปิดการทำงาน Auto Mode เป็นค่าเริ่มต้น ลดขั้นตอนคนอนุมัติ Body Anthropic ประกาศว่า Claude Code จะทำงาน Auto Mode",
+      "url": "https://www.blognone.com/node/151334",
+      "publishedAt": "2026-08-10T12:06:40.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151333 at https://www.blognone.com",
+      "title": "Meta เปิดตัว Muse Glimmer, AI ขนาดเล็ก รันได้เร็วแม้ชิป 5090",
+      "description": "Meta เปิดตัว Muse Glimmer, AI ขนาดเล็ก รันได้เร็วแม้ชิป 5090 Body Meta เปิดตัวโมเดลปัญญาประดิษฐ์แบบเปิดในชื่อ Muse Glimmer ที่เน้นความสามารถด้าน",
+      "url": "https://www.blognone.com/node/151333",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2026/2026-08/media-2.webp",
+      "publishedAt": "2026-08-10T12:06:26.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151331 at https://www.blognone.com",
+      "title": "ส่อง 5 จุดอัปเกรดของสมาร์ทโฟนเรือธง HUAWEI Pura 90s Series กล้องสมจริงฉลาดขึ้นด้วย AI ใช้งานลื่นไหลไร้สะดุดด้วย 5G Advanced",
+      "description": "ส่อง 5 จุดอัปเกรดของสมาร์ทโฟนเรือธง HUAWEI Pura 90s Series กล้องสมจริงฉลาดขึ้นด้วย AI ใช้งานลื่นไหลไร้สะดุดด้วย 5G Advanced Body",
+      "url": "https://www.blognone.com/node/151331",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2026/2026-08/HuaweiPura90s/huawei-pura-90s-series_smarter-connectivity_1.jpg",
+      "publishedAt": "2026-08-10T09:00:00.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}

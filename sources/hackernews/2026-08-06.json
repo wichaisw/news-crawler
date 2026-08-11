@@ -135,6 +135,17 @@
       "tags": []
     },
     {
+      "id": "r1t5mu",
+      "title": "Once More in Triple Time",
+      "description": "Score: 3 | Comments: 0 | Posted by Petiver",
+      "url": "https://theamericanscholar.org/once-more-in-triple-time/",
+      "publishedAt": "2026-08-06T19:08:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Petiver",
+      "tags": []
+    },
+    {
       "id": "f6xq1p",
       "title": "Can you reverse engineer an ASIC?",
       "description": "Score: 85 | Comments: 52 | Posted by bschne",
@@ -264,6 +275,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "yusyd",
+      "tags": []
+    },
+    {
+      "id": "a2vyfd",
+      "title": "Faster floating point math with Rust's new API",
+      "description": "Score: 14 | Comments: 1 | Posted by subset",
+      "url": "https://pythonspeed.com/articles/faster-float-math-rust/",
+      "publishedAt": "2026-08-06T13:43:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "subset",
       "tags": []
     },
     {
