@@ -3,6 +3,39 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "151346 at https://www.blognone.com",
+      "title": "YouTube ปรับเงื่อนไขเข้าร่วมโครงการส่วนแบ่งโฆษณา ช่องมีซับมากกว่า 1 พัน, การรับชมมากกว่า 4,000 ชั่วโมง",
+      "description": "YouTube ปรับเงื่อนไขเข้าร่วมโครงการส่วนแบ่งโฆษณา ช่องมีซับมากกว่า 1 พัน, การรับชมมากกว่า 4,000 ชั่วโมง Body YouTube",
+      "url": "https://www.blognone.com/node/151346",
+      "publishedAt": "2026-08-11T15:35:32.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151345 at https://www.blognone.com",
+      "title": "ซีอีโอ Take-Two บอกคนพรีออเดอร์ GTA 6 เลือก Ultimate Edition เยอะกว่า Standard",
+      "description": "ซีอีโอ Take-Two บอกคนพรีออเดอร์ GTA 6 เลือก Ultimate Edition เยอะกว่า Standard Body ต่อเนื่องจากข่าว ซีอีโอ Take-Two บอก GTA 6 ราคา 80 ดอลลาร์คุ้มค่า",
+      "url": "https://www.blognone.com/node/151345",
+      "publishedAt": "2026-08-11T11:35:37.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151344 at https://www.blognone.com",
+      "title": "Anthropic ประกาศฝังลายน้ำไว้ในข้อความและไฟล์ผลลัพธ์ เพื่อบอกว่าสร้างด้วย AI",
+      "description": "Anthropic ประกาศฝังลายน้ำไว้ในข้อความและไฟล์ผลลัพธ์ เพื่อบอกว่าสร้างด้วย AI Body Anthropic ประกาศนโยบายฝังลายน้ำ (watermark)",
+      "url": "https://www.blognone.com/node/151344",
+      "publishedAt": "2026-08-11T11:19:40.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "151342 at https://www.blognone.com",
       "title": "บริการสรุปประชุม tl;dv เผลอเปิด Firestore ให้ผู้ใช้ทุกคนโดยไม่จำกัดสิทธิ์ วิดีโอประชุมลูกค้ารั่วไหล",
       "description": "บริการสรุปประชุม tl;dv เผลอเปิด Firestore ให้ผู้ใช้ทุกคนโดยไม่จำกัดสิทธิ์ วิดีโอประชุมลูกค้ารั่วไหล Body BobDaHacker นักวิจัยความปลอดภัยอิสระ",

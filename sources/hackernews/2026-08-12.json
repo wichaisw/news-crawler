@@ -1,0 +1,105 @@
+{
+  "date": "2026-08-12",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "z1ialc",
+      "title": "ICE to spend up to $20M on gloves that can deliver painful electric shocks",
+      "description": "Score: 3 | Comments: 0 | Posted by OutOfHere",
+      "url": "https://www.theguardian.com/us-news/2026/aug/11/ice-electric-shock-gloves",
+      "publishedAt": "2026-08-12T06:37:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "OutOfHere",
+      "tags": []
+    },
+    {
+      "id": "hkm3uv",
+      "title": "llama.cpp",
+      "description": "Score: 135 | Comments: 61 | Posted by kristianpaul",
+      "url": "https://llama.app",
+      "publishedAt": "2026-08-12T04:51:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kristianpaul",
+      "tags": []
+    },
+    {
+      "id": "gc803q",
+      "title": "Dropbox is an obvious PE Target?",
+      "description": "Score: 39 | Comments: 53 | Posted by Taikhoom10",
+      "url": "https://s-1.vercel.app/posts/why-dropbox-is-a-obvious-pe-target/",
+      "publishedAt": "2026-08-12T04:30:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Taikhoom10",
+      "tags": []
+    },
+    {
+      "id": "9sd3h0",
+      "title": "CVE-2026-53361 AF_Unix GC vs. MSG_PEEK use-after-free container escape",
+      "description": "Score: 10 | Comments: 0 | Posted by eyberg",
+      "url": "https://github.com/sgkdev/bad_garbage",
+      "publishedAt": "2026-08-12T03:31:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "eyberg",
+      "tags": []
+    },
+    {
+      "id": "yhntrn",
+      "title": "DARPA heavy lift challenge ends with winner at a 3.84:1 payload to weight ratio",
+      "description": "Score: 17 | Comments: 2 | Posted by daau",
+      "url": "https://dronexl.co/2026/08/10/darpa-lift-challenge-results-avidrone/",
+      "publishedAt": "2026-08-12T03:27:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "daau",
+      "tags": []
+    },
+    {
+      "id": "i2ubku",
+      "title": "Crew, a multiplayer workspace for humans and AI agents to work together",
+      "description": "Score: 4 | Comments: 0 | Posted by alihammoud21",
+      "url": "https://github.com/JamelHammoud/crew",
+      "publishedAt": "2026-08-12T03:00:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "alihammoud21",
+      "tags": []
+    },
+    {
+      "id": "kkunpi",
+      "title": "The Human Is the Loop",
+      "description": "Score: 75 | Comments: 28 | Posted by burnto",
+      "url": "https://brentfitzgerald.com/posts/the-human-is-the-loop/",
+      "publishedAt": "2026-08-12T02:15:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "burnto",
+      "tags": []
+    },
+    {
+      "id": "1xyihg",
+      "title": "The lifesaving secret hidden inside a horseshoe crab's blue blood",
+      "description": "Score: 68 | Comments: 19 | Posted by andsoitis",
+      "url": "https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/",
+      "publishedAt": "2026-08-12T01:45:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andsoitis",
+      "tags": []
+    },
+    {
+      "id": "o4j0m1",
+      "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
+      "description": "Score: 38 | Comments: 12 | Posted by dangle1",
+      "url": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
+      "publishedAt": "2026-08-12T00:58:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dangle1",
+      "tags": []
+    }
+  ]
+}

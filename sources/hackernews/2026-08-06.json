@@ -113,6 +113,17 @@
       "tags": []
     },
     {
+      "id": "jdpkxe",
+      "title": "The hardest working font in Manhattan (2025)",
+      "description": "Score: 153 | Comments: 21 | Posted by dcminter",
+      "url": "https://aresluna.org/the-hardest-working-font-in-manhattan/",
+      "publishedAt": "2026-08-06T20:22:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dcminter",
+      "tags": []
+    },
+    {
       "id": "myw04p",
       "title": "Quake – 30th Anniversary Update",
       "description": "Score: 274 | Comments: 141 | Posted by dsubburam",
@@ -278,6 +289,28 @@
       "tags": []
     },
     {
+      "id": "uc2wyc",
+      "title": "A shell exclamation mark is not for yelling. Be lazy",
+      "description": "Score: 28 | Comments: 5 | Posted by refp",
+      "url": "https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark",
+      "publishedAt": "2026-08-06T14:53:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "refp",
+      "tags": []
+    },
+    {
+      "id": "y41sas",
+      "title": "Show HN: Line9 – A Mermaid rendering engine with its own layout",
+      "description": "Score: 63 | Comments: 14 | Posted by jumpalongjim",
+      "url": "https://line9.ai/diagram",
+      "publishedAt": "2026-08-06T13:47:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jumpalongjim",
+      "tags": []
+    },
+    {
       "id": "a2vyfd",
       "title": "Faster floating point math with Rust's new API",
       "description": "Score: 14 | Comments: 1 | Posted by subset",
@@ -421,6 +454,17 @@
       "tags": []
     },
     {
+      "id": "hulh1j",
+      "title": "How to Install Python3.14 from source on Ubuntu 26.04",
+      "description": "Score: 3 | Comments: 3 | Posted by ddxv",
+      "url": "https://jamesoclaire.com/2026/08/06/how-to-install-python3-14-from-source-on-ubuntu-26-04/",
+      "publishedAt": "2026-08-06T02:31:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ddxv",
+      "tags": []
+    },
+    {
       "id": "i8ixr0",
       "title": "Nashville uses eminent domain to block data center near zoo",
       "description": "Score: 227 | Comments: 265 | Posted by mapping365",
@@ -429,6 +473,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mapping365",
+      "tags": []
+    },
+    {
+      "id": "zad7aw",
+      "title": "Retire the Abstractions",
+      "description": "Score: 38 | Comments: 46 | Posted by convexstrictly",
+      "url": "https://hazyresearch.stanford.edu/blog/2026-08-05-retire-the-abstractions",
+      "publishedAt": "2026-08-06T01:05:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "convexstrictly",
       "tags": []
     }
   ]
