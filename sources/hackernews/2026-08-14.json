@@ -1,0 +1,83 @@
+{
+  "date": "2026-08-14",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "gq8570",
+      "title": "GLM-5.3: Frontier Coding with Emergent Cyber Capabilitiesz.ai",
+      "description": "Score: 272 | Comments: 89 | Posted by pella",
+      "url": "https://z.ai/blog/glm-5.3",
+      "publishedAt": "2026-08-14T05:26:36.259Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pella",
+      "tags": []
+    },
+    {
+      "id": "gq8570",
+      "title": "GLM-5.3: Frontier Coding with Emergent Cyber Capabilities",
+      "description": "Score: 273 | Comments: 90 | Posted by pella",
+      "url": "https://z.ai/blog/glm-5.3",
+      "publishedAt": "2026-08-14T05:19:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pella",
+      "tags": []
+    },
+    {
+      "id": "43uq2",
+      "title": "Qwen3.8 27B",
+      "description": "Score: 16 | Comments: 2 | Posted by kristjansson",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "publishedAt": "2026-08-14T03:39:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kristjansson",
+      "tags": []
+    },
+    {
+      "id": "ea7qh8",
+      "title": "'Not acceptable': Judge orders Google to make rival app store installs easier",
+      "description": "Score: 46 | Comments: 11 | Posted by Jimmc414",
+      "url": "https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier",
+      "publishedAt": "2026-08-14T02:09:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Jimmc414",
+      "tags": []
+    },
+    {
+      "id": "hdg8jb",
+      "title": "S.F.'s top-paid employee made $900K. Here's what every city worker gets paid",
+      "description": "Score: 36 | Comments: 4 | Posted by gmays",
+      "url": "https://www.sfchronicle.com/projects/2026/san-francisco-employee-pay/?taid=6a7db1d2d297630001917f1d&utm_campaign=trueanthem%2B3988&utm_medium=social&utm_source=twitter",
+      "publishedAt": "2026-08-14T02:01:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gmays",
+      "tags": []
+    },
+    {
+      "id": "x66lph",
+      "title": "Bluesky Protocol Services",
+      "description": "Score: 146 | Comments: 23 | Posted by danabramov",
+      "url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
+      "publishedAt": "2026-08-14T00:14:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "danabramov",
+      "tags": []
+    },
+    {
+      "id": "vyt6pp",
+      "title": "SparrowMap – Cameras that watch government vehicles",
+      "description": "Score: 147 | Comments: 34 | Posted by paulnpace",
+      "url": "https://sparrowmap.com/",
+      "publishedAt": "2026-08-14T00:10:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "paulnpace",
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "date": "2026-08-13",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3152989",
+      "title": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
+      "description": "The plaintiffs say they invested nearly $1.2 million in the company, and are accusing Gomez of failing to build and market the startup.",
+      "url": "https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/",
+      "publishedAt": "2026-08-13T22:12:40.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Aisha Malik",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3152977",
+      "title": "Flock says its new tool will help identify police abuse, but hasn’t explained how it works",
+      "description": "The surveillance company announced it's making a tool called \"Audit Assistance\" mandatory for all customers, claiming it's already helped catch",
+      "url": "https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/",
+      "publishedAt": "2026-08-13T22:02:04.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lorenzo Franceschi-Bicchierai",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3152998",
+      "title": "If Apple sends you a push notification alerting you to a spyware attack, take it seriously",
+      "description": "Apple now sends out push notifications to iPhone lock screens when the company identifies government spyware targeting someone's devices.",
+      "url": "https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/",
+      "publishedAt": "2026-08-13T21:50:11.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Zack Whittaker",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3152760",
+      "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+      "description": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a",
+      "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+      "publishedAt": "2026-08-13T21:13:24.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Russell Brandom",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3152870",
+      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+      "description": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
+      "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+      "publishedAt": "2026-08-13T20:14:39.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Julie Bort",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3152875",
+      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+      "description": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
+      "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+      "publishedAt": "2026-08-13T19:22:40.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lucas Ropek",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3152914",
+      "title": "IBM partners with OpenAI to bolster enterprise AI push",
+      "description": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
+      "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+      "publishedAt": "2026-08-13T19:19:49.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Jagmeet Singh",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3152849",
+      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+      "description": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests",
+      "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+      "publishedAt": "2026-08-13T18:28:14.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Rebecca Bellan",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3152844",
+      "title": "OpenAI hires new CRO as executive shake-up continues",
+      "description": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali",
+      "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+      "publishedAt": "2026-08-13T17:07:13.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Tim Fernholz",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3152763",
+      "title": "Ford on track to complete $2B factory overhaul for Fathom EV truck",
+      "description": "Ford expects to begin prototype builds of the Fathom EV in the first quarter of 2027.",
+      "url": "https://techcrunch.com/2026/08/13/ford-on-track-to-complete-2b-factory-overhaul-for-fathom-ev-truck/",
+      "publishedAt": "2026-08-13T16:37:53.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Kirsten Korosec",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3152517",
+      "title": "X open sources its ranking algorithm, letting users see if they’ve been ‘shadowbanned’",
+      "description": "X is expanding the open source code behind its 'For You' feed and launching new transparency tools that show users when its ranking systems have",
+      "url": "https://techcrunch.com/2026/08/13/x-open-sources-its-ranking-algorithm-letting-users-see-if-theyve-been-shadowbanned/",
+      "publishedAt": "2026-08-13T16:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sarah Perez",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3152762",
+      "title": "Instagram introduces a redesigned wordmark",
+      "description": "The social media giant says it was time for a sharper and more modern look after a decade.",
+      "url": "https://techcrunch.com/2026/08/13/instagram-introduces-a-redesigned-wordmark/",
+      "publishedAt": "2026-08-13T15:46:02.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sarah Perez",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3152748",
+      "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+      "description": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its",
+      "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+      "publishedAt": "2026-08-13T15:30:52.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sarah Perez",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3152223",
+      "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
+      "description": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
+      "url": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
+      "publishedAt": "2026-08-13T15:08:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Julie Bort",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3151162",
+      "title": "Who really needs a cocktail robot?",
+      "description": "Bartesian's cocktail makers would be best described like a Keurig or Nespresso machine, but for alcoholic drinks.",
+      "url": "https://techcrunch.com/2026/08/13/bartesian-duet-cocktail-maker-review/",
+      "publishedAt": "2026-08-13T15:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Amanda Silberling",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3152741",
+      "title": "Apple in talks to pay publishers to provide Siri with current news: report",
+      "description": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ.",
+      "url": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
+      "publishedAt": "2026-08-13T14:34:43.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Aisha Malik",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3152695",
+      "title": "In a first, US will allow some private firms to carry out cyberattacks",
+      "description": "The new order sweeps away decades of existing U.S. cybersecurity policy prohibiting private companies from conducting 'hack back' attacks or",
+      "url": "https://techcrunch.com/2026/08/13/in-a-first-us-will-allow-some-private-firms-to-carry-out-cyberattacks/",
+      "publishedAt": "2026-08-13T14:09:05.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Zack Whittaker",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3152224",
+      "title": "Can social media start over? Bluesky’s CEO and COO deliver their case at TechCrunch Disrupt 2026",
+      "description": "Bluesky CEO Toni Schneider is joined by COO Rose Wang for a Disrupt Stage session on whether social media can start over and where Bluesky fits into",
+      "url": "https://techcrunch.com/2026/08/13/can-social-media-start-over-blueskys-ceo-and-coo-deliver-their-case-at-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-08-13T13:30:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "TechCrunch Events",
+      "tags": []
+    }
+  ]
+}
