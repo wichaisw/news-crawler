@@ -1,0 +1,149 @@
+{
+  "date": "2026-08-14",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3153275",
+      "title": "Talks to sell PayPal to Stripe and Advent are heating up",
+      "description": "PayPal is still reportedly negotiating a potential sale to Stripe and private equity firm Advent, as the fintech firm's new CEO attempts to turn the",
+      "url": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
+      "publishedAt": "2026-08-14T22:43:24.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lucas Ropek",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3153246",
+      "title": "Self-driving trucks are officially testing on California highways",
+      "description": "Aurora Innovation and Kodiak AI, two companies developing self-driving trucks, have received permits from the California Department of Motor Vehicles.",
+      "url": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/",
+      "publishedAt": "2026-08-14T20:37:49.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Kirsten Korosec",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3153180",
+      "title": "Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
+      "description": "The AI opportunity is huge, but \"it would also be a grave error in our minds to let excitement weaken our investment discipline,\" Kushner warns in",
+      "url": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/",
+      "publishedAt": "2026-08-14T19:33:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Julie Bort",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3153226",
+      "title": "What we know about the alleged Iranian hacks on US water utilities",
+      "description": "Over the last couple of weeks, hackers have targeted and broken into the systems of several water plants in the United States. Here’s what we know",
+      "url": "https://techcrunch.com/2026/08/14/what-we-know-about-the-alleged-iranian-hacks-on-u-s-water-utilities/",
+      "publishedAt": "2026-08-14T19:04:32.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lorenzo Franceschi-Bicchierai",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3011907",
+      "title": "Read-it-later app Pocket shut down — here are the best alternatives",
+      "description": "Pocket users have until October 8, 2025, to export their saved articles and other items, including lists, archives, favorites, notes, and highlights.",
+      "url": "https://techcrunch.com/2026/08/14/read-it-later-app-pocket-is-shutting-down-here-are-the-best-alternatives/",
+      "publishedAt": "2026-08-14T18:58:15.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Ivan Mehta, Sarah Perez",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3153119",
+      "title": "Unforgetful is a new reminders app for people who can’t stop hitting snooze",
+      "description": "Unforgetful, the latest app from longtime indie developer Marco Arment, is designed to make reminders harder to ignore — or accidentally dismiss.",
+      "url": "https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/",
+      "publishedAt": "2026-08-14T16:21:04.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sarah Perez",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3153145",
+      "title": "Google will now allow users to remove visible watermark from its AI generations",
+      "description": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
+      "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+      "publishedAt": "2026-08-14T16:13:40.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Ivan Mehta",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?post_type=tc_video&p=3153153",
+      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+      "description": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast",
+      "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+      "publishedAt": "2026-08-14T15:43:28.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Theresa Loconsolo",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3153110",
+      "title": "Apple proposes to take a 15% cut of purchases made outside the App Store",
+      "description": "Apple is asking a federal judge to allow it to charge commissions of up to 15% on purchases made through external links in iOS apps.",
+      "url": "https://techcrunch.com/2026/08/14/apple-proposes-to-take-a-15-cut-of-purchases-made-outside-the-app-store/",
+      "publishedAt": "2026-08-14T14:54:48.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sarah Perez",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3153090",
+      "title": "Kog is going deeper to squeeze more inference out of GPUs",
+      "description": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
+      "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+      "publishedAt": "2026-08-14T14:50:11.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anna Heim",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3152944",
+      "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+      "description": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
+      "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+      "publishedAt": "2026-08-14T14:05:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Tim De Chant",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3153024",
+      "title": "US courts will start publishing how often the government uses spyware",
+      "description": "The Administrative Office of the U.S. Courts told TechCrunch that it will start disclosing how many times judges authorized the use of spyware to",
+      "url": "https://techcrunch.com/2026/08/14/us-courts-will-start-publishing-how-often-the-government-uses-spyware/",
+      "publishedAt": "2026-08-14T13:29:04.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lorenzo Franceschi-Bicchierai",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3153073",
+      "title": "Uber and Pony.ai plan to bring 2,000 robotaxis to Europe",
+      "description": "The partnership is expanding beyond the initial market of Zagreb, Croatia to four additional European cities.",
+      "url": "https://techcrunch.com/2026/08/14/uber-and-pony-ai-plan-to-bring-2000-robotaxis-to-europe/",
+      "publishedAt": "2026-08-14T10:44:30.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Kirsten Korosec",
+      "tags": []
+    }
+  ]
+}

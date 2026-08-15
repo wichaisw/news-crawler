@@ -1,0 +1,73 @@
+{
+  "date": "2026-08-15",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "151379 at https://www.blognone.com",
+      "title": "Alibaba เปิดตัว Qwen3.8-27B เทียบชั้น Claude Opus 4.6 แต่รันในบ้านได้",
+      "description": "Alibaba เปิดตัว Qwen3.8-27B เทียบชั้น Claude Opus 4.6 แต่รันในบ้านได้ Body Alibaba Cloud เปิดตัวโมเดลปัญญาประดิษฐ์ Qwen3.8-27B",
+      "url": "https://www.blognone.com/node/151379",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2026/2026-08/hpsrlrcxsaaeiqx.jpeg",
+      "publishedAt": "2026-08-15T04:46:41.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151378 at https://www.blognone.com",
+      "title": "ไมโครซอฟท์รวมแอพ Copilot และ Microsoft 365 Copilot เป็นตัวเดียว",
+      "description": "ไมโครซอฟท์รวมแอพ Copilot และ Microsoft 365 Copilot เป็นตัวเดียว Body ไมโครซอฟท์เริ่มกระบวนการรวมร่างแอพ 2 ตัวที่ชื่อคล้ายกัน",
+      "url": "https://www.blognone.com/node/151378",
+      "publishedAt": "2026-08-15T03:19:18.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151377 at https://www.blognone.com",
+      "title": "SpaceX ซื้อกิจการ Cursor เสร็จสิ้นทุกขั้นตอนแล้ว",
+      "description": "SpaceX ซื้อกิจการ Cursor เสร็จสิ้นทุกขั้นตอนแล้ว Body Cursor ประกาศว่าการขายกิจการให้ SpaceX เสร็จสิ้นทุกขั้นตอนแล้ว โดย มูลค่า",
+      "url": "https://www.blognone.com/node/151377",
+      "publishedAt": "2026-08-15T02:58:49.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151376 at https://www.blognone.com",
+      "title": "Gemini เพิ่มตัวเลือกไม่แสดงลายน้ำ AI ในภาพที่สร้าง, ยังฝังลายน้ำที่มนุษย์มองไม่เห็น",
+      "description": "Gemini เพิ่มตัวเลือกไม่แสดงลายน้ำ AI ในภาพที่สร้าง, ยังฝังลายน้ำที่มนุษย์มองไม่เห็น Body Gemini ประกาศเพิ่มตัวเลือกให้เราสามารถปิด",
+      "url": "https://www.blognone.com/node/151376",
+      "publishedAt": "2026-08-15T00:47:08.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151375 at https://www.blognone.com",
+      "title": "Anthropic เผยชื่อโมเดล Model 2, เหนือกว่า Claude Mythos แต่จะไม่ปล่อยให้คนนอกใช้",
+      "description": "Anthropic เผยชื่อโมเดล Model 2, เหนือกว่า Claude Mythos แต่จะไม่ปล่อยให้คนนอกใช้ Body Anthropic เปิดเผยในรายงานความเสี่ยง (Risk Report)",
+      "url": "https://www.blognone.com/node/151375",
+      "publishedAt": "2026-08-15T00:32:20.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151374 at https://www.blognone.com",
+      "title": "Android Quick Share เพิ่มฟีเจอร์ นำมือถือมาวางใกล้ๆ กันเพื่อแชร์ข้อมูลให้กัน",
+      "description": "Android Quick Share เพิ่มฟีเจอร์ นำมือถือมาวางใกล้ๆ กันเพื่อแชร์ข้อมูลให้กัน Body กูเกิลอัพเดตฟีเจอร์ให้ Android Quick Share",
+      "url": "https://www.blognone.com/node/151374",
+      "publishedAt": "2026-08-15T00:24:28.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}

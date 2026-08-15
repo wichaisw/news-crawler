@@ -91,6 +91,17 @@
       "tags": []
     },
     {
+      "id": "euc0uw",
+      "title": "I close SSH port 22 (and what I use instead)",
+      "description": "Score: 45 | Comments: 58 | Posted by speckx",
+      "url": "https://www.michelebologna.net/2026/ssh-port-22-fwknop-single-packet-authorization/",
+      "publishedAt": "2026-08-10T19:19:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
+      "tags": []
+    },
+    {
       "id": "w2vfq0",
       "title": "Rust SIMD on the GPU",
       "description": "Score: 169 | Comments: 82 | Posted by sagacity",

@@ -1,0 +1,116 @@
+{
+  "date": "2026-08-15",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "6dlztj",
+      "title": "\"That's not SoC 2 compliant\"",
+      "description": "Score: 11 | Comments: 3 | Posted by tosh",
+      "url": "https://ampcode.com/notes/thats-not-soc-2-compliant",
+      "publishedAt": "2026-08-15T06:01:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tosh",
+      "tags": []
+    },
+    {
+      "id": "v67ona",
+      "title": "Global Mastercard outage stopping shopping in Sydney",
+      "description": "Score: 5 | Comments: 0 | Posted by Khaine",
+      "url": "https://www.smh.com.au/national/global-mastercard-outage-stopping-shopping-in-sydney-20260815-p60omk.html",
+      "publishedAt": "2026-08-15T05:46:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Khaine",
+      "tags": []
+    },
+    {
+      "id": "lsbhiv",
+      "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+      "description": "Score: 5 | Comments: 0 | Posted by chatchan",
+      "url": "https://chenxiachan.github.io/thoughtdag/",
+      "publishedAt": "2026-08-15T04:42:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "chatchan",
+      "tags": []
+    },
+    {
+      "id": "jpn9p0",
+      "title": "The other Sean Byrne doesn't exist",
+      "description": "Score: 41 | Comments: 11 | Posted by rdl",
+      "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
+      "publishedAt": "2026-08-15T04:18:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rdl",
+      "tags": []
+    },
+    {
+      "id": "kz3e0s",
+      "title": "destruction-certificate.txt",
+      "description": "Score: 11 | Comments: 0 | Posted by lr0",
+      "url": "https://stallman.org/articles/destruction-certificate.txt",
+      "publishedAt": "2026-08-15T03:50:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lr0",
+      "tags": []
+    },
+    {
+      "id": "dr2ak4",
+      "title": "The End of Mathematics",
+      "description": "Score: 16 | Comments: 6 | Posted by practal",
+      "url": "https://www.daniellitt.com/blog/2026/8/11/the-end-of-mathematics",
+      "publishedAt": "2026-08-15T03:37:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "practal",
+      "tags": []
+    },
+    {
+      "id": "pu4i76",
+      "title": "Show HN: Deltix – AI Driven Testing",
+      "description": "Score: 23 | Comments: 7 | Posted by oneounceman",
+      "url": "https://app.deltix.ai",
+      "publishedAt": "2026-08-15T02:42:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "oneounceman",
+      "tags": []
+    },
+    {
+      "id": "4iotyg",
+      "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
+      "description": "Score: 170 | Comments: 35 | Posted by Bender",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
+      "publishedAt": "2026-08-15T01:14:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Bender",
+      "tags": []
+    },
+    {
+      "id": "1n331b",
+      "title": "The Ploopy A+ Trackball Is Here",
+      "description": "Score: 89 | Comments: 40 | Posted by big_toast",
+      "url": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
+      "publishedAt": "2026-08-15T00:55:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "big_toast",
+      "tags": []
+    },
+    {
+      "id": "26x7pb",
+      "title": "Simplifying and Refactoring Introductory Calculus (2018)",
+      "description": "Score: 71 | Comments: 26 | Posted by E-Reverance",
+      "url": "https://arxiv.org/abs/1811.03459",
+      "publishedAt": "2026-08-15T00:15:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "E-Reverance",
+      "tags": []
+    }
+  ]
+}
