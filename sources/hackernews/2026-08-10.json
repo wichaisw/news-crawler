@@ -223,6 +223,17 @@
       "tags": []
     },
     {
+      "id": "5k75sz",
+      "title": "A fortuitous decade as an indie software developer",
+      "description": "Score: 66 | Comments: 8 | Posted by frizlab",
+      "url": "https://lapcatsoftware.com/articles/2026/8/3.html",
+      "publishedAt": "2026-08-10T15:20:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "frizlab",
+      "tags": []
+    },
+    {
       "id": "7y17z7",
       "title": "Smooth Move: Taming Trajectories with Polynomials",
       "description": "Score: 27 | Comments: 1 | Posted by lioeters",
@@ -319,6 +330,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "surprisetalk",
+      "tags": []
+    },
+    {
+      "id": "gkazlk",
+      "title": "Asynchronous I/O in DuckDB: Work, Thread, Work",
+      "description": "Score: 113 | Comments: 8 | Posted by pdet",
+      "url": "https://duckdb.org/2026/07/31/asynchronous-io",
+      "publishedAt": "2026-08-10T13:01:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pdet",
       "tags": []
     },
     {
