@@ -14,6 +14,17 @@
       "tags": []
     },
     {
+      "id": "rlw140",
+      "title": "Chestnut – eGPU dock with open-source firmware",
+      "description": "Score: 141 | Comments: 42 | Posted by txrx0000",
+      "url": "https://hwbusters.com/news/comma-ai-egpu-dock-runs-open-source-firmware-249-bare-799-with-an-rx-9060/",
+      "publishedAt": "2026-08-13T22:01:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "txrx0000",
+      "tags": []
+    },
+    {
       "id": "xfv0xc",
       "title": "NP-overrated",
       "description": "Score: 197 | Comments: 127 | Posted by theanonymousone",
@@ -44,6 +55,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "malshe",
+      "tags": []
+    },
+    {
+      "id": "4xca39",
+      "title": "How do I permanently disable random Google Photos popup to backup photos? (2024)",
+      "description": "Score: 87 | Comments: 50 | Posted by dt3ft",
+      "url": "https://support.google.com/photos/thread/256212140/how-do-i-permanently-disable-google-photos-pop-up-prompt-to-backup-my-photos-i?hl=en",
+      "publishedAt": "2026-08-13T19:07:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dt3ft",
       "tags": []
     },
     {
@@ -223,6 +245,17 @@
       "tags": []
     },
     {
+      "id": "cc99p2",
+      "title": "The Marvelously Inventive Life of Mária Telkes (2023)",
+      "description": "Score: 6 | Comments: 1 | Posted by mooreds",
+      "url": "https://www.pbs.org/wgbh/americanexperience/features/sun-queen-marvelously-inventive-life-maria-telkes/",
+      "publishedAt": "2026-08-13T14:51:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mooreds",
+      "tags": []
+    },
+    {
       "id": "ngz5uj",
       "title": "Kubernetes on Oxide: How customer needs shaped our integrations",
       "description": "Score: 182 | Comments: 78 | Posted by stevehipwell",
@@ -311,6 +344,17 @@
       "tags": []
     },
     {
+      "id": "q8aqcr",
+      "title": "SIMD in the 90s: Programming Intel's Pentium MMX",
+      "description": "Score: 105 | Comments: 43 | Posted by ibobev",
+      "url": "https://pikuma.com/blog/programming-intel-pentium-mmx-simd",
+      "publishedAt": "2026-08-13T12:44:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
+      "tags": []
+    },
+    {
       "id": "ocz32m",
       "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent",
       "description": "Score: 95 | Comments: 73 | Posted by adi1",
@@ -363,6 +407,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "BearBest",
+      "tags": []
+    },
+    {
+      "id": "9zgwg5",
+      "title": "Clamiga: Common Lisp for the Amiga",
+      "description": "Score: 104 | Comments: 14 | Posted by emptybits",
+      "url": "https://nnamgreb.de/blog/Clamiga+-+Common+Lisp+for+the+Amiga",
+      "publishedAt": "2026-08-13T03:05:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "emptybits",
+      "tags": []
+    },
+    {
+      "id": "wf7m5m",
+      "title": "The deep history behind the Road to Nowhere inside the Great Smoky Mountains",
+      "description": "Score: 28 | Comments: 10 | Posted by yareally",
+      "url": "https://www.wunc.org/environment/2026-08-10/road-to-nowhere-great-smoky-mountains",
+      "publishedAt": "2026-08-13T00:02:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "yareally",
       "tags": []
     },
     {

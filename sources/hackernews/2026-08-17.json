@@ -1,0 +1,138 @@
+{
+  "date": "2026-08-17",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "lsslfu",
+      "title": "$12B of US ratepayers' money wasted on a modeling mistake in PJM",
+      "description": "Score: 23 | Comments: 4 | Posted by _delirium",
+      "url": "https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted",
+      "publishedAt": "2026-08-17T05:22:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "_delirium",
+      "tags": []
+    },
+    {
+      "id": "l4e63s",
+      "title": "Linear Algebra Done Right – Sheldon Axler",
+      "description": "Score: 13 | Comments: 3 | Posted by the-mitr",
+      "url": "https://linear.axler.net/",
+      "publishedAt": "2026-08-17T05:21:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "the-mitr",
+      "tags": []
+    },
+    {
+      "id": "p90feb",
+      "title": "GIMP Development Update",
+      "description": "Score: 10 | Comments: 0 | Posted by lumpa",
+      "url": "https://www.gimp.org/news/2026/08/16/dev-update-august-2026/",
+      "publishedAt": "2026-08-17T03:08:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lumpa",
+      "tags": []
+    },
+    {
+      "id": "51gsdj",
+      "title": "Strong gravitational lensing and microlensing of supernovae (2024)",
+      "description": "Score: 9 | Comments: 0 | Posted by andsoitis",
+      "url": "https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5",
+      "publishedAt": "2026-08-17T02:55:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andsoitis",
+      "tags": []
+    },
+    {
+      "id": "ydjns1",
+      "title": "If Meta loses this trial, Instagram and Facebook could change forever",
+      "description": "Score: 27 | Comments: 4 | Posted by tartoran",
+      "url": "https://www.bbc.com/news/articles/clyqpx6xk69o",
+      "publishedAt": "2026-08-17T02:28:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tartoran",
+      "tags": []
+    },
+    {
+      "id": "74xnl8",
+      "title": "AGI-64 Brings Sierra Adventures to the Commodore 64",
+      "description": "Score: 64 | Comments: 9 | Posted by erickhill",
+      "url": "https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64",
+      "publishedAt": "2026-08-17T01:45:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "erickhill",
+      "tags": []
+    },
+    {
+      "id": "r7s3nr",
+      "title": "Prolly: A content-addressed ordered map built on prolly trees",
+      "description": "Score: 29 | Comments: 0 | Posted by forhappy",
+      "url": "https://github.com/crabbuild/prolly",
+      "publishedAt": "2026-08-17T01:00:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "forhappy",
+      "tags": []
+    },
+    {
+      "id": "afplg3",
+      "title": "The Life and Death of Direct File [pdf]ischool.berkeley.edu",
+      "description": "Score: 170 | Comments: 79 | Posted by ronbenton",
+      "url": "https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf",
+      "publishedAt": "2026-08-17T00:58:09.887Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ronbenton",
+      "tags": []
+    },
+    {
+      "id": "nyjbxd",
+      "title": "Rhombus 1.1 is now available",
+      "description": "Score: 59 | Comments: 20 | Posted by spdegabrielle",
+      "url": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
+      "publishedAt": "2026-08-17T00:48:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "spdegabrielle",
+      "tags": []
+    },
+    {
+      "id": "ih0sqp",
+      "title": "Applying a photosynthetic process to treat “dry eye”",
+      "description": "Score: 36 | Comments: 6 | Posted by gumby",
+      "url": "https://www.science.org/content/blog-post/taking-tip-plants-eyes",
+      "publishedAt": "2026-08-17T00:35:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gumby",
+      "tags": []
+    },
+    {
+      "id": "afplg3",
+      "title": "The Life and Death of Direct File [pdf]",
+      "description": "Score: 170 | Comments: 79 | Posted by ronbenton",
+      "url": "https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf",
+      "publishedAt": "2026-08-17T00:17:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ronbenton",
+      "tags": []
+    },
+    {
+      "id": "z0obhe",
+      "title": "The federal keyword lists that canceled billions in research funding",
+      "description": "Score: 201 | Comments: 91 | Posted by walrus01",
+      "url": "https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/",
+      "publishedAt": "2026-08-17T00:14:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "walrus01",
+      "tags": []
+    }
+  ]
+}

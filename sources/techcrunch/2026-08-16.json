@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-16",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3153332",
+      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+      "description": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "publishedAt": "2026-08-16T20:57:04.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3153329",
+      "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+      "description": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
+      "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+      "publishedAt": "2026-08-16T20:32:01.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3153318",
+      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+      "description": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+      "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+      "publishedAt": "2026-08-16T16:53:51.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3153291",
+      "title": "TechCrunch Mobility: The shifting flight path of electric air taxis",
+      "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "url": "https://techcrunch.com/2026/08/16/techcrunch-mobility-the-shifting-flight-path-of-electric-air-taxis/",
+      "publishedAt": "2026-08-16T16:04:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Kirsten Korosec",
+      "tags": []
+    }
+  ]
+}

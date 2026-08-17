@@ -3,6 +3,193 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "6u8rvw",
+      "title": "Reticulum – Decentralized Mesh Network",
+      "description": "Score: 89 | Comments: 22 | Posted by sudo_cowsay",
+      "url": "https://reticulum.network/",
+      "publishedAt": "2026-08-16T23:59:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sudo_cowsay",
+      "tags": []
+    },
+    {
+      "id": "qphllx",
+      "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking thingssimonwillison.net",
+      "description": "Score: 319 | Comments: 130 | Posted by bilsbie",
+      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+      "publishedAt": "2026-08-16T23:58:09.886Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bilsbie",
+      "tags": []
+    },
+    {
+      "id": "qphllx",
+      "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
+      "description": "Score: 320 | Comments: 130 | Posted by bilsbie",
+      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+      "publishedAt": "2026-08-16T23:45:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bilsbie",
+      "tags": []
+    },
+    {
+      "id": "fg4pan",
+      "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+      "description": "Score: 188 | Comments: 86 | Posted by root-parent",
+      "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
+      "publishedAt": "2026-08-16T21:07:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "root-parent",
+      "tags": []
+    },
+    {
+      "id": "kruap",
+      "title": "Stripe will reportedly acquire OpenRouter for $7B+",
+      "description": "Score: 295 | Comments: 198 | Posted by zacharyozer",
+      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "publishedAt": "2026-08-16T20:31:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zacharyozer",
+      "tags": []
+    },
+    {
+      "id": "ua7eqs",
+      "title": "Red queen hypothesis – A new way forward for self-improving AI",
+      "description": "Score: 42 | Comments: 6 | Posted by hardlianotion",
+      "url": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai",
+      "publishedAt": "2026-08-16T20:01:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hardlianotion",
+      "tags": []
+    },
+    {
+      "id": "3xetvk",
+      "title": "Models Are Getting Dumber on Purpose",
+      "description": "Score: 304 | Comments: 170 | Posted by hruvhwe",
+      "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
+      "publishedAt": "2026-08-16T19:04:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hruvhwe",
+      "tags": []
+    },
+    {
+      "id": "78jos7",
+      "title": "Protobuf has LSP support. You're welcome",
+      "description": "Score: 140 | Comments: 92 | Posted by theanonymousone",
+      "url": "https://buf.build/blog/protobuf-lsp",
+      "publishedAt": "2026-08-16T18:48:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "theanonymousone",
+      "tags": []
+    },
+    {
+      "id": "9iyd43",
+      "title": "MathCode, Mathematical Coding Agent",
+      "description": "Score: 85 | Comments: 26 | Posted by homarp",
+      "url": "https://math-ai-org.github.io/mathcode/",
+      "publishedAt": "2026-08-16T18:17:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "homarp",
+      "tags": []
+    },
+    {
+      "id": "w9y8nx",
+      "title": "A third world engineer responds to “RISC-V: They should have known better”",
+      "description": "Score: 460 | Comments: 235 | Posted by Narishma",
+      "url": "https://rvembedded.com/blog_post/12/",
+      "publishedAt": "2026-08-16T17:01:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Narishma",
+      "tags": []
+    },
+    {
+      "id": "x4m6yy",
+      "title": "NIH is ending a key grant for budding clinical researchers",
+      "description": "Score: 149 | Comments: 74 | Posted by brandonb",
+      "url": "https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers",
+      "publishedAt": "2026-08-16T16:14:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "brandonb",
+      "tags": []
+    },
+    {
+      "id": "duy7nl",
+      "title": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
+      "description": "Score: 183 | Comments: 136 | Posted by toomuchtodo",
+      "url": "https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core",
+      "publishedAt": "2026-08-16T15:16:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "toomuchtodo",
+      "tags": []
+    },
+    {
+      "id": "3w5os4",
+      "title": "The AI Credit Resale Economy",
+      "description": "Score: 268 | Comments: 113 | Posted by mlenhard",
+      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+      "publishedAt": "2026-08-16T14:44:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mlenhard",
+      "tags": []
+    },
+    {
+      "id": "nsnm2w",
+      "title": "Firefox for iOS now has a native adblocker",
+      "description": "Score: 627 | Comments: 253 | Posted by pentagrama",
+      "url": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
+      "publishedAt": "2026-08-16T12:58:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pentagrama",
+      "tags": []
+    },
+    {
+      "id": "nqqp1l",
+      "title": "Claude: System Prompts",
+      "description": "Score: 622 | Comments: 248 | Posted by tosh",
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "publishedAt": "2026-08-16T12:48:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tosh",
+      "tags": []
+    },
+    {
+      "id": "6ccv15",
+      "title": "Research papers using \"kidney disappointment\" instead of \"kidney failure\"",
+      "description": "Score: 384 | Comments: 134 | Posted by Alifatisk",
+      "url": "https://scholar.google.com/scholar?q=%22kidney+disappointment%22",
+      "publishedAt": "2026-08-16T12:22:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Alifatisk",
+      "tags": []
+    },
+    {
+      "id": "wz6nsa",
+      "title": "A True Telnet BBS on a Casio Calculator",
+      "description": "Score: 103 | Comments: 11 | Posted by austinallegro",
+      "url": "https://ei3lh.eu/2026/08/16/a-true-telnet-bbs-on-a-casio-calculator/",
+      "publishedAt": "2026-08-16T12:16:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "austinallegro",
+      "tags": []
+    },
+    {
       "id": "wb8bg8",
       "title": "The Iran War Is a Whole New Level of Quagmire for the US",
       "description": "Score: 33 | Comments: 7 | Posted by hebelehubele",
@@ -33,6 +220,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "cjlm",
+      "tags": []
+    },
+    {
+      "id": "5e60w7",
+      "title": "Falstad Math and Physics Simulations",
+      "description": "Score: 69 | Comments: 14 | Posted by pykello",
+      "url": "https://www.falstad.com/mathphysics.html",
+      "publishedAt": "2026-08-16T04:19:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pykello",
       "tags": []
     },
     {

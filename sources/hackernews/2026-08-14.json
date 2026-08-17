@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "6lydlj",
+      "title": "Anton Chekhov played at love most of his life",
+      "description": "Score: 84 | Comments: 23 | Posted by lermontov",
+      "url": "https://commonreader.wustl.edu/winning-and-losing-at-the-great-game-of-intimacy/",
+      "publishedAt": "2026-08-14T23:53:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lermontov",
+      "tags": []
+    },
+    {
       "id": "mrrpd3",
       "title": "eigendrum",
       "description": "Score: 109 | Comments: 23 | Posted by bookofjoe",
@@ -30,6 +41,17 @@
       "description": "Score: 36 | Comments: 9 | Posted by evakhoury",
       "url": "https://iafisher.com/2026/07/pelham-123",
       "publishedAt": "2026-08-14T20:10:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "evakhoury",
+      "tags": []
+    },
+    {
+      "id": "42dtgw",
+      "title": "A quick look at zero-knowledge proofs",
+      "description": "Score: 68 | Comments: 43 | Posted by evakhoury",
+      "url": "https://bernsteinbear.com/blog/zkp/",
+      "publishedAt": "2026-08-14T19:52:05.000Z",
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "evakhoury",
@@ -242,6 +264,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "speckx",
+      "tags": []
+    },
+    {
+      "id": "kq672",
+      "title": "Design 3D-printable parts by talking",
+      "description": "Score: 8 | Comments: 2 | Posted by mkmk",
+      "url": "https://nurb.dev/",
+      "publishedAt": "2026-08-14T14:09:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mkmk",
       "tags": []
     },
     {
