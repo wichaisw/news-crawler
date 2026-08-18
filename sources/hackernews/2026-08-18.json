@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-18",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "8p83wk",
+      "title": "Micron, SK Commit Billions to RAM Capacity, but Almost Nothing Lands Before 2028",
+      "description": "Score: 3 | Comments: 0 | Posted by giuliomagnifico",
+      "url": "https://www.storagereview.com/news/micron-and-sk-hynix-commit-billions-to-memory-capacity-but-almost-nothing-lands-before-2028",
+      "publishedAt": "2026-08-18T05:51:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "giuliomagnifico",
+      "tags": []
+    },
+    {
+      "id": "3d52ed",
+      "title": "Expert Witness to ChatGPT: \"Show how 3M is 0 percent at fault\"",
+      "description": "Score: 30 | Comments: 8 | Posted by kristjansson",
+      "url": "https://www.404media.co/show-how-3m-is-0-at-fault-expert-witness-used-chatgpt-to-write-report-defending-company-in-deadly-explosion-lawsuit/",
+      "publishedAt": "2026-08-18T03:44:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kristjansson",
+      "tags": []
+    },
+    {
+      "id": "j1fj5q",
+      "title": "What's Better Than Binary? – Advent of Computing Episode 187",
+      "description": "Score: 5 | Comments: 0 | Posted by matt_d",
+      "url": "https://adventofcomputing.libsyn.com/episode-187-whats-better-than-binary",
+      "publishedAt": "2026-08-18T02:14:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "matt_d",
+      "tags": []
+    },
+    {
+      "id": "xltynp",
+      "title": "The Benchmarkpocalypse",
+      "description": "Score: 61 | Comments: 8 | Posted by cyndunlop",
+      "url": "https://danluu.com/benchpocalypse/",
+      "publishedAt": "2026-08-18T02:11:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cyndunlop",
+      "tags": []
+    },
+    {
+      "id": "y76bk6",
+      "title": "Google wins bankruptcy auction for Spirit Airlines emails, chats, documents",
+      "description": "Score: 65 | Comments: 27 | Posted by sgustard",
+      "url": "https://www.axios.com/2026/08/17/google-spirit-airlines-bankruptcy",
+      "publishedAt": "2026-08-18T00:29:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sgustard",
+      "tags": []
+    }
+  ]
+}

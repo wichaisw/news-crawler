@@ -91,6 +91,17 @@
       "tags": []
     },
     {
+      "id": "nvsx4y",
+      "title": "Intriguing stories in computer science",
+      "description": "Score: 40 | Comments: 7 | Posted by gregsadetsky",
+      "url": "https://inventwithpython.com/blog/intriguing-stories-in-cs.html",
+      "publishedAt": "2026-08-12T21:56:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gregsadetsky",
+      "tags": []
+    },
+    {
       "id": "ui7cjn",
       "title": "Thanks to social media, canned sardines are a scarcity on the supermarket shelf",
       "description": "Score: 109 | Comments: 125 | Posted by carabiner",
@@ -311,6 +322,17 @@
       "tags": []
     },
     {
+      "id": "9kxg3o",
+      "title": "A particle made of force: physicists say they've found mysterious 'glueball'",
+      "description": "Score: 120 | Comments: 30 | Posted by Brajeshwar",
+      "url": "https://www.nature.com/articles/d41586-026-02498-1",
+      "publishedAt": "2026-08-12T14:26:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Brajeshwar",
+      "tags": []
+    },
+    {
       "id": "8psqze",
       "title": "We tracked down the 16-year-old WAL-reset SQLite bug",
       "description": "Score: 986 | Comments: 187 | Posted by ropbear",
@@ -432,6 +454,17 @@
       "tags": []
     },
     {
+      "id": "t4dsq",
+      "title": "Olo (Color)",
+      "description": "Score: 392 | Comments: 74 | Posted by inigyou",
+      "url": "https://en.wikipedia.org/wiki/Olo_(color)",
+      "publishedAt": "2026-08-12T10:26:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "inigyou",
+      "tags": []
+    },
+    {
       "id": "rohhtv",
       "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
       "description": "Score: 288 | Comments: 40 | Posted by adius",
@@ -440,6 +473,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "adius",
+      "tags": []
+    },
+    {
+      "id": "dupnws",
+      "title": "The Road to MS-DOS 2.0",
+      "description": "Score: 54 | Comments: 19 | Posted by whobre",
+      "url": "https://nemanjatrifunovic.substack.com/p/the-road-to-ms-dos-2",
+      "publishedAt": "2026-08-12T09:57:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "whobre",
       "tags": []
     },
     {

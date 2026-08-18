@@ -36,6 +36,39 @@
       "tags": []
     },
     {
+      "id": "ral867",
+      "title": "Ghosts of the Past and Devils of the Present",
+      "description": "Score: 4 | Comments: 0 | Posted by benbreen",
+      "url": "https://thenewcuriosityshop.substack.com/p/ghosts-of-the-past-and-devils-of",
+      "publishedAt": "2026-08-16T22:11:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "benbreen",
+      "tags": []
+    },
+    {
+      "id": "j4ibfv",
+      "title": "Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
+      "description": "Score: 782 | Comments: 687 | Posted by ropbear",
+      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+      "publishedAt": "2026-08-16T21:53:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ropbear",
+      "tags": []
+    },
+    {
+      "id": "cu0zc4",
+      "title": "Wellington second-hand bookstore's mysterious orders",
+      "description": "Score: 60 | Comments: 41 | Posted by beanaroo",
+      "url": "https://www.rnz.co.nz/life/books/wellington-second-hand-book-store-s-mysterious-orders",
+      "publishedAt": "2026-08-16T21:40:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "beanaroo",
+      "tags": []
+    },
+    {
       "id": "fg4pan",
       "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
       "description": "Score: 188 | Comments: 86 | Posted by root-parent",
@@ -44,6 +77,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "root-parent",
+      "tags": []
+    },
+    {
+      "id": "s5irmq",
+      "title": "How I developed an Am29000 C compiler and web browser",
+      "description": "Score: 82 | Comments: 13 | Posted by nanochess",
+      "url": "https://nanochess.org/am29000_c_compiler_web_browser.html",
+      "publishedAt": "2026-08-16T20:41:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nanochess",
       "tags": []
     },
     {

@@ -311,6 +311,17 @@
       "tags": []
     },
     {
+      "id": "li83pm",
+      "title": "A simple fix for LLM tail latency",
+      "description": "Score: 47 | Comments: 17 | Posted by oskrim",
+      "url": "https://engineering.myhoai.com/posts/a-simple-fix-for-llm-tail-latency/",
+      "publishedAt": "2026-08-14T05:58:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "oskrim",
+      "tags": []
+    },
+    {
       "id": "gq8570",
       "title": "GLM-5.3: Frontier Coding with Emergent Cyber Capabilitiesz.ai",
       "description": "Score: 272 | Comments: 89 | Posted by pella",
@@ -330,6 +341,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "pella",
+      "tags": []
+    },
+    {
+      "id": "52el2o",
+      "title": "A digestion of the proof of Sendov's conjecture",
+      "description": "Score: 23 | Comments: 9 | Posted by surprisetalk",
+      "url": "https://terrytao.wordpress.com/2026/08/12/a-digestion-of-the-proof-of-sendovs-conjecture/",
+      "publishedAt": "2026-08-14T05:03:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
       "tags": []
     },
     {
