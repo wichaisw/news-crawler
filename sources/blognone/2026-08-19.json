@@ -1,0 +1,39 @@
+{
+  "date": "2026-08-19",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "151410 at https://www.blognone.com",
+      "title": "ทุกคนล้วนใช้ของเก่า CoreWeave ระบุค่าเช่าชิปรุ่นเก่าบนคลาวด์ยังเพิ่มไม่หยุด คาดชิป A100 ขายได้ถึงปี 2029 ดันกำไรเพิ่ม, ขึ้นราคา 25%",
+      "description": "ทุกคนล้วนใช้ของเก่า CoreWeave ระบุค่าเช่าชิปรุ่นเก่าบนคลาวด์ยังเพิ่มไม่หยุด คาดชิป A100 ขายได้ถึงปี 2029 ดันกำไรเพิ่ม, ขึ้นราคา 25% Body CoreWeave",
+      "url": "https://www.blognone.com/node/151410",
+      "publishedAt": "2026-08-19T04:15:20.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151409 at https://www.blognone.com",
+      "title": "GitHub แจงเหตุล่มเพราะคอนฟิก Istio พลาด แถมมีบั๊กใน VS Code พยายามล็อกอินไม่หยุดจนเหมือนยิงตัวเอง",
+      "description": "GitHub แจงเหตุล่มเพราะคอนฟิก Istio พลาด แถมมีบั๊กใน VS Code พยายามล็อกอินไม่หยุดจนเหมือนยิงตัวเอง Body เมื่อวานนี้ GitHub เกิดเหตุล่มต่อเนื่องยาวกว่า",
+      "url": "https://www.blognone.com/node/151409",
+      "publishedAt": "2026-08-19T01:31:07.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151408 at https://www.blognone.com",
+      "title": "Xiaomi ไตรมาส 2/2026 ปัญหาแรมแพงยังกดดันยอดขายและกำไรในธุรกิจสมาร์ทโฟน",
+      "description": "Xiaomi ไตรมาส 2/2026 ปัญหาแรมแพงยังกดดันยอดขายและกำไรในธุรกิจสมาร์ทโฟน Body Xiaomi รายงานผลประกอบการประจำไตรมาสที่ 2 ปี 2026 รายได้รวมลดลง 6%",
+      "url": "https://www.blognone.com/node/151408",
+      "publishedAt": "2026-08-19T01:25:54.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}

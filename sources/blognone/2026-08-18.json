@@ -3,6 +3,39 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "151407 at https://www.blognone.com",
+      "title": "Snowflake ถูกเจาะขโมย API Key ของ Jira สำเร็จ หลังปล่อยให้ AI แก้สคริปต์ CI/CD",
+      "description": "Snowflake ถูกเจาะขโมย API Key ของ Jira สำเร็จ หลังปล่อยให้ AI แก้สคริปต์ CI/CD Body Wiz บริษัทความปลอดภัยไซเบอร์รายงานถึงการทดสอบช่องโหว่ของ GitHub",
+      "url": "https://www.blognone.com/node/151407",
+      "publishedAt": "2026-08-18T17:53:14.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151406 at https://www.blognone.com",
+      "title": "เปิดตัว ChatGPT for Teens สำหรับผู้ใช้อายุ 13-17 ปี เพิ่มโหมดช่วยเรียน, คุมความปลอดภัยเข้มขึ้น",
+      "description": "เปิดตัว ChatGPT for Teens สำหรับผู้ใช้อายุ 13-17 ปี เพิ่มโหมดช่วยเรียน, คุมความปลอดภัยเข้มขึ้น Body OpenAI เปิดตัว ChatGPT for Teens",
+      "url": "https://www.blognone.com/node/151406",
+      "publishedAt": "2026-08-18T15:08:43.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151405 at https://www.blognone.com",
+      "title": "ก็ไม่รู้ว่าเผลอหรือตั้งใจ - Apple ใส่ไฟล์คลิปสาธิต AirPods รุ่นมีกล้องใน macOS Tahoe 26.7 RC",
+      "description": "ก็ไม่รู้ว่าเผลอหรือตั้งใจ - Apple ใส่ไฟล์คลิปสาธิต AirPods รุ่นมีกล้องใน macOS Tahoe 26.7 RC Body แอปเปิลออกอัปเดต macOS Tahoe เวอร์ชัน 26.7 Release",
+      "url": "https://www.blognone.com/node/151405",
+      "publishedAt": "2026-08-18T12:21:10.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "151404 at https://www.blognone.com",
       "title": "อาการไม่ค่อยดี ผู้ใช้ Bluesky ลดลง 27.2% จากปีที่แล้ว, Threads เพิ่ม 20%",
       "description": "อาการไม่ค่อยดี ผู้ใช้ Bluesky ลดลง 27.2% จากปีที่แล้ว, Threads เพิ่ม 20% Body สถานการณ์ของ Bluesky บริการโซเชียลทางเลือกของ X/Twitter",
