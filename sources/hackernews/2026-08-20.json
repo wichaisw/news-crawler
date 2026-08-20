@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-20",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "d7wrme",
+      "title": "Windows brings out the Rorschach test in everyone",
+      "description": "Score: 4 | Comments: 0 | Posted by luu",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
+      "publishedAt": "2026-08-20T06:16:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "luu",
+      "tags": []
+    },
+    {
+      "id": "tkwi35",
+      "title": "Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?",
+      "description": "Score: 35 | Comments: 9 | Posted by tybulewicz",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621",
+      "publishedAt": "2026-08-20T04:42:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tybulewicz",
+      "tags": []
+    },
+    {
+      "id": "k1thx2",
+      "title": "Zuckerberg encouraged growth over child safety, ex-Meta executive testifies",
+      "description": "Score: 55 | Comments: 3 | Posted by thm",
+      "url": "https://www.reuters.com/legal/litigation/former-meta-engineer-resumes-testimony-landmark-trial-over-social-medias-harm-2026-08-19/",
+      "publishedAt": "2026-08-20T03:31:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thm",
+      "tags": []
+    },
+    {
+      "id": "mwua79",
+      "title": "Turns are Better than Radians (2022)",
+      "description": "Score: 141 | Comments: 59 | Posted by mayoff",
+      "url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
+      "publishedAt": "2026-08-20T01:29:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mayoff",
+      "tags": []
+    },
+    {
+      "id": "d7o9p6",
+      "title": "Universality of Gradient Descent Neural Network Training",
+      "description": "Score: 27 | Comments: 2 | Posted by E-Reverance",
+      "url": "https://arxiv.org/abs/2007.13664",
+      "publishedAt": "2026-08-20T00:05:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "E-Reverance",
+      "tags": []
+    }
+  ]
+}

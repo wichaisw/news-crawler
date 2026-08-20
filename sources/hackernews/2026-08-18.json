@@ -58,6 +58,17 @@
       "tags": []
     },
     {
+      "id": "68av7i",
+      "title": "fx :Tiny, open, native coding agent.",
+      "description": "Score: 236 | Comments: 101 | Posted by handfuloflight",
+      "url": "https://fx.sh",
+      "publishedAt": "2026-08-18T22:00:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "handfuloflight",
+      "tags": []
+    },
+    {
       "id": "5nhs7v",
       "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
       "description": "Score: 236 | Comments: 79 | Posted by phoenix120",
@@ -88,6 +99,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "KolmogorovComp",
+      "tags": []
+    },
+    {
+      "id": "h3v8cq",
+      "title": "Pacing model development in an era of cyber-critical capabilities",
+      "description": "Score: 146 | Comments: 218 | Posted by j4mie",
+      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities/",
+      "publishedAt": "2026-08-18T18:14:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "j4mie",
       "tags": []
     },
     {
@@ -146,6 +168,17 @@
       "tags": []
     },
     {
+      "id": "3b6g2q",
+      "title": "Sol loves to cheat",
+      "description": "Score: 136 | Comments: 83 | Posted by jumploops",
+      "url": "https://jumploops.com/blog/sol-loves-to-cheat/",
+      "publishedAt": "2026-08-18T16:29:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jumploops",
+      "tags": []
+    },
+    {
       "id": "w1ghj8",
       "title": "Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI",
       "description": "Score: 70 | Comments: 42 | Posted by bwm",
@@ -165,6 +198,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "newusertoday",
+      "tags": []
+    },
+    {
+      "id": "i8ciq",
+      "title": "MicroGPT-C in pure C hits 10M TPS on Apple M5",
+      "description": "Score: 127 | Comments: 43 | Posted by dhorthy",
+      "url": "https://github.com/vixhal-baraiya/microgpt-c",
+      "publishedAt": "2026-08-18T15:46:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dhorthy",
       "tags": []
     },
     {

@@ -1,0 +1,40 @@
+{
+  "date": "2026-08-20",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "151414 at https://www.blognone.com",
+      "title": "Windows 11 ปรับปรุงเมนูคลิกขวา (Context Menu)  สั้นลง, ทำงานเร็วไม่กระตุก, ปรับแต่งได้",
+      "description": "Windows 11 ปรับปรุงเมนูคลิกขวา (Context Menu) สั้นลง, ทำงานเร็วไม่กระตุก, ปรับแต่งได้ Body ไมโครซอฟท์ประกาศปรับปรุงเมนูคลิกขวา (context menu) ของ",
+      "url": "https://www.blognone.com/node/151414",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2026/2026-08/context-menu-personalisation.webp",
+      "publishedAt": "2026-08-20T02:23:09.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151413 at https://www.blognone.com",
+      "title": "Apple เปลี่ยนวิธีคิดค่าธรรมเนียม App Store ในยุโรปอีกครั้ง คราวนี้หารือกับ EU เป็นไปตามแนวทางกฎหมายดิจิทัลแล้ว",
+      "description": "Apple เปลี่ยนวิธีคิดค่าธรรมเนียม App Store ในยุโรปอีกครั้ง คราวนี้หารือกับ EU เป็นไปตามแนวทางกฎหมายดิจิทัลแล้ว Body",
+      "url": "https://www.blognone.com/node/151413",
+      "publishedAt": "2026-08-20T01:35:18.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151412 at https://www.blognone.com",
+      "title": "Stripe ซื้อกิจการ OpenRouter อย่างเป็นทางการแล้ว มูลค่าดีลราว 2.4 แสนล้านบาท",
+      "description": "Stripe ซื้อกิจการ OpenRouter อย่างเป็นทางการแล้ว มูลค่าดีลราว 2.4 แสนล้านบาท Body หลังจากเป็นข่าวลือมา เกือบหนึ่งเดือน Stripe",
+      "url": "https://www.blognone.com/node/151412",
+      "publishedAt": "2026-08-20T00:28:37.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}

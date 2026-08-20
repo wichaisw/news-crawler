@@ -69,6 +69,17 @@
       "tags": []
     },
     {
+      "id": "fksarb",
+      "title": "A faster way to calculate the day of the week",
+      "description": "Score: 102 | Comments: 11 | Posted by gavide",
+      "url": "https://www.benjoffe.com/fast-day-of-week",
+      "publishedAt": "2026-08-16T21:20:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gavide",
+      "tags": []
+    },
+    {
       "id": "fg4pan",
       "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
       "description": "Score: 188 | Comments: 86 | Posted by root-parent",
@@ -143,6 +154,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "homarp",
+      "tags": []
+    },
+    {
+      "id": "r3f5r6",
+      "title": "Sectorforth is a 16-bit x86 Forth that fits in a 512-byte boot sector (2020)",
+      "description": "Score: 17 | Comments: 3 | Posted by sigalor",
+      "url": "https://github.com/cesarblum/sectorforth",
+      "publishedAt": "2026-08-16T17:29:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sigalor",
       "tags": []
     },
     {
@@ -242,6 +264,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "austinallegro",
+      "tags": []
+    },
+    {
+      "id": "pj57cj",
+      "title": "A portable, sensitive, low power, analog Geiger counter (2025)",
+      "description": "Score: 45 | Comments: 2 | Posted by crorella",
+      "url": "https://ludens.cl/Electron/geiger2/geiger2.html",
+      "publishedAt": "2026-08-16T07:12:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "crorella",
       "tags": []
     },
     {

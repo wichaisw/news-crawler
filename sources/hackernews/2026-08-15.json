@@ -14,6 +14,17 @@
       "tags": []
     },
     {
+      "id": "2ruxt7",
+      "title": "Rewriting in Rust",
+      "description": "Score: 30 | Comments: 14 | Posted by worik",
+      "url": "https://blog.jetbrains.com/rust/2026/08/10/rewriting-in-rust/",
+      "publishedAt": "2026-08-15T23:43:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "worik",
+      "tags": []
+    },
+    {
       "id": "qmvd15",
       "title": "Decoding smell: Study reveals how odor signals shapeshift in the wind",
       "description": "Score: 14 | Comments: 0 | Posted by hhs",
@@ -146,6 +157,17 @@
       "tags": []
     },
     {
+      "id": "h2rkse",
+      "title": "The little-known winstart.bat batch file",
+      "description": "Score: 108 | Comments: 27 | Posted by ingve",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260811-00/?p=112605",
+      "publishedAt": "2026-08-15T20:37:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingve",
+      "tags": []
+    },
+    {
       "id": "5nhpka",
       "title": "Plastic mechanical computer from 1963: The Digi-Comp 1 [video]",
       "description": "Score: 64 | Comments: 16 | Posted by tobr",
@@ -275,6 +297,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "signa11",
+      "tags": []
+    },
+    {
+      "id": "nye0gh",
+      "title": "Xorshift Generators",
+      "description": "Score: 73 | Comments: 39 | Posted by tobr",
+      "url": "https://www.alanzucconi.com/2026/08/15/xorshift-generators/",
+      "publishedAt": "2026-08-15T12:47:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tobr",
       "tags": []
     },
     {
