@@ -190,6 +190,17 @@
       "tags": []
     },
     {
+      "id": "puvj61",
+      "title": "HTML Can Do That",
+      "description": "Score: 704 | Comments: 178 | Posted by encyclopedism",
+      "url": "https://chrisburnell.com/html-can-do-that/",
+      "publishedAt": "2026-08-19T15:11:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "encyclopedism",
+      "tags": []
+    },
+    {
       "id": "kfch5n",
       "title": "Ornith-1.5: From Self-Scaffolding to Self-Improvement",
       "description": "Score: 188 | Comments: 61 | Posted by CommonGuy",
@@ -253,6 +264,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "exceptione",
+      "tags": []
+    },
+    {
+      "id": "wstj2s",
+      "title": "Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces",
+      "description": "Score: 223 | Comments: 136 | Posted by nunodonato",
+      "url": "https://arxiv.org/abs/2504.09762",
+      "publishedAt": "2026-08-19T11:35:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nunodonato",
       "tags": []
     },
     {

@@ -1,0 +1,116 @@
+{
+  "date": "2026-08-21",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "h6lbgl",
+      "title": "The Religious Experience of Philip K. Dick by R. Crumb (1986)",
+      "description": "Score: 12 | Comments: 3 | Posted by wise_blood",
+      "url": "https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/",
+      "publishedAt": "2026-08-21T05:39:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wise_blood",
+      "tags": []
+    },
+    {
+      "id": "x1wgcj",
+      "title": "Japan tried to build an operating system for the world, the US intervened",
+      "description": "Score: 34 | Comments: 7 | Posted by rdmuser",
+      "url": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
+      "publishedAt": "2026-08-21T05:31:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rdmuser",
+      "tags": []
+    },
+    {
+      "id": "gk8vf",
+      "title": "Micron announces $10B research hub in Boise",
+      "description": "Score: 3 | Comments: 0 | Posted by osnium123",
+      "url": "https://investors.micron.com/news/press-release/2026/Micron-Unveils-Micron-Research-Labs-a-U-S--Based-Long-Horizon-Innovation-Hub-to-Shape-the-Future-of-Memory-and-AI/default.aspx",
+      "publishedAt": "2026-08-21T03:51:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "osnium123",
+      "tags": []
+    },
+    {
+      "id": "rq45yp",
+      "title": "Codex on AWS bedrock bug causing 10x chargesgithub.com/openai",
+      "description": "Score: 94 | Comments: 29 | Posted by TheP1000",
+      "url": "https://github.com/openai/codex/issues/37674",
+      "publishedAt": "2026-08-21T03:50:09.742Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "TheP1000",
+      "tags": []
+    },
+    {
+      "id": "rq45yp",
+      "title": "Codex on AWS bedrock bug causing 10x charges",
+      "description": "Score: 94 | Comments: 29 | Posted by TheP1000",
+      "url": "https://github.com/openai/codex/issues/37674",
+      "publishedAt": "2026-08-21T03:17:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "TheP1000",
+      "tags": []
+    },
+    {
+      "id": "4x54lh",
+      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+      "description": "Score: 263 | Comments: 185 | Posted by Cider9986",
+      "url": "https://annas-archive.gl/blog/physical-destruction.html",
+      "publishedAt": "2026-08-21T02:37:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Cider9986",
+      "tags": []
+    },
+    {
+      "id": "losiac",
+      "title": "Orbital Construction Pioneers",
+      "description": "Score: 7 | Comments: 5 | Posted by pmcjones",
+      "url": "https://orbitalconstructionpioneers.com/",
+      "publishedAt": "2026-08-21T02:03:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pmcjones",
+      "tags": []
+    },
+    {
+      "id": "rh93vr",
+      "title": "Artificial Intelligence Policy",
+      "description": "Score: 35 | Comments: 27 | Posted by hackerBanana",
+      "url": "https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/",
+      "publishedAt": "2026-08-21T01:37:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hackerBanana",
+      "tags": []
+    },
+    {
+      "id": "36xi4x",
+      "title": "There's no such thing as a small software team anymore",
+      "description": "Score: 73 | Comments: 116 | Posted by mooreslaw",
+      "url": "https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/",
+      "publishedAt": "2026-08-21T00:28:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mooreslaw",
+      "tags": []
+    },
+    {
+      "id": "mvs61s",
+      "title": "Show HN: ParqDB – Vector search in the browser from Parquet over HTTP\"",
+      "description": "Score: 12 | Comments: 4 | Posted by petrizhang",
+      "url": "https://search.parqdb.io/",
+      "publishedAt": "2026-08-21T00:13:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "petrizhang",
+      "tags": []
+    }
+  ]
+}

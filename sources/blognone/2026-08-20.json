@@ -3,6 +3,72 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "151420 at https://www.blognone.com",
+      "title": "Waymo เริ่มให้บริการแท็กซี่ไร้คนขับรุ่นใหม่ Ojai ใน 3 เมือง เป็น Zeekr รุ่นดัดแปลง",
+      "description": "Waymo เริ่มให้บริการแท็กซี่ไร้คนขับรุ่นใหม่ Ojai ใน 3 เมือง เป็น Zeekr รุ่นดัดแปลง Body Waymo ประกาศเริ่มให้บริการรถยนต์แท็กซี่รุ่นใหม่ชื่อ Ojai",
+      "url": "https://www.blognone.com/node/151420",
+      "publishedAt": "2026-08-20T14:23:20.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151419 at https://www.blognone.com",
+      "title": "ไมโครซอฟท์ถอดฟังก์ชัน COPILOT() ออกจาก Excel หลังเปิดทดสอบพรีวิวมา 1 ปี",
+      "description": "ไมโครซอฟท์ถอดฟังก์ชัน COPILOT() ออกจาก Excel หลังเปิดทดสอบพรีวิวมา 1 ปี Body ไมโครซอฟท์ประกาศถอด ฟังก์ชัน COPILOT() ของ Excel ที่เปิดตัวเดือนสิงหาคม",
+      "url": "https://www.blognone.com/node/151419",
+      "publishedAt": "2026-08-20T12:45:00.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151418 at https://www.blognone.com",
+      "title": "OpenAI หยุดพักการเทรนโมเดล 2 สัปดาห์ หลังเหตุการณ์โมเดลหลุดไปแฮ็ก Hugging Face",
+      "description": "OpenAI หยุดพักการเทรนโมเดล 2 สัปดาห์ หลังเหตุการณ์โมเดลหลุดไปแฮ็ก Hugging Face Body OpenAI เปิดเผยว่าได้หยุดพักการเทรนโมเดลรุ่นหลัก (frontier model)",
+      "url": "https://www.blognone.com/node/151418",
+      "publishedAt": "2026-08-20T12:27:31.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151417 at https://www.blognone.com",
+      "title": "Google แจก Google AI Plus ให้นักเรียน-นักศึกษา ใช้ฟรี 12 เดือน",
+      "description": "Google แจก Google AI Plus ให้นักเรียน-นักศึกษา ใช้ฟรี 12 เดือน Body กูเกิลประกาศแจกแพ็คเกจใช้งาน AI Gemini สำหรับนักเรียนนักศึกษา ฟรี เป็นเวลา 12",
+      "url": "https://www.blognone.com/node/151417",
+      "publishedAt": "2026-08-20T11:55:55.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151416 at https://www.blognone.com",
+      "title": "Alibaba รายงานผลประกอบการ กลุ่มคลาวด์ AI เติบโตสูงติดต่อกันเป็นไตรมาสที่ 12",
+      "description": "Alibaba รายงานผลประกอบการ กลุ่มคลาวด์ AI เติบโตสูงติดต่อกันเป็นไตรมาสที่ 12 Body Alibaba รายงานผลประกอบการประจำไตรมาสเดือนมิถุนายน 2026 รายได้รวม",
+      "url": "https://www.blognone.com/node/151416",
+      "publishedAt": "2026-08-20T11:43:30.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151415 at https://www.blognone.com",
+      "title": "ซีเอฟโอ OpenAI บอกพนักงาน ไอพีโอจะเกิดขึ้นภายในปี 2027 หรือเร็วกว่านั้น",
+      "description": "ซีเอฟโอ OpenAI บอกพนักงาน ไอพีโอจะเกิดขึ้นภายในปี 2027 หรือเร็วกว่านั้น Body CNBC อ้างแหล่งข่าวจากการประชุมพนักงาน OpenAI บอกว่าซีเอฟโอของบริษัท",
+      "url": "https://www.blognone.com/node/151415",
+      "publishedAt": "2026-08-20T11:00:19.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "151414 at https://www.blognone.com",
       "title": "Windows 11 ปรับปรุงเมนูคลิกขวา (Context Menu)  สั้นลง, ทำงานเร็วไม่กระตุก, ปรับแต่งได้",
       "description": "Windows 11 ปรับปรุงเมนูคลิกขวา (Context Menu) สั้นลง, ทำงานเร็วไม่กระตุก, ปรับแต่งได้ Body ไมโครซอฟท์ประกาศปรับปรุงเมนูคลิกขวา (context menu) ของ",

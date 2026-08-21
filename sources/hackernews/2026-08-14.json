@@ -47,6 +47,17 @@
       "tags": []
     },
     {
+      "id": "dzwhgs",
+      "title": "Make a 6-Tesla-class high-temperature superconducting dipole magnet at 4.2 K",
+      "description": "Score: 33 | Comments: 5 | Posted by supermagnet",
+      "url": "https://journals.aps.org/prab/abstract/10.1103/4nhs-bkwh",
+      "publishedAt": "2026-08-14T20:49:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "supermagnet",
+      "tags": []
+    },
+    {
       "id": "8r7tbn",
       "title": "Every exterior shot in The Taking of Pelham 123",
       "description": "Score: 36 | Comments: 9 | Posted by evakhoury",
@@ -363,6 +374,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "oskrim",
+      "tags": []
+    },
+    {
+      "id": "lli9e5",
+      "title": "Speeding Up (Small) Ruby Hashes",
+      "description": "Score: 45 | Comments: 0 | Posted by arto",
+      "url": "https://byroot.github.io/ruby/performance/2026/08/13/speeding-up-ruby-hashes.html",
+      "publishedAt": "2026-08-14T05:45:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "arto",
       "tags": []
     },
     {
