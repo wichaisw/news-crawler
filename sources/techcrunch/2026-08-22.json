@@ -1,0 +1,28 @@
+{
+  "date": "2026-08-22",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3155800",
+      "title": "Michael Polansky is training an AI model on skin that’s still alive",
+      "description": "Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an",
+      "url": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
+      "publishedAt": "2026-08-22T01:31:04.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Connie Loizos",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3155738",
+      "title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
+      "description": "Japanese space startup Letara is betting its hybrid rocket technology can move beyond small satellite thrusters into a broader market for space,",
+      "url": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/",
+      "publishedAt": "2026-08-22T01:03:06.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Kate Park",
+      "tags": []
+    }
+  ]
+}

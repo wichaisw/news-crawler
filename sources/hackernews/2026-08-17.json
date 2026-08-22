@@ -289,6 +289,17 @@
       "tags": []
     },
     {
+      "id": "yqwg81",
+      "title": "Using an old Android phone as a music player",
+      "description": "Score: 49 | Comments: 22 | Posted by surprisetalk",
+      "url": "https://monocyte.blog/using-an-old-android-phone-as-a-music-player/",
+      "publishedAt": "2026-08-17T15:40:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
       "id": "hhep12",
       "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
       "description": "Score: 99 | Comments: 58 | Posted by abdik",
@@ -385,6 +396,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "vlowrian",
+      "tags": []
+    },
+    {
+      "id": "ohzf3f",
+      "title": "People of ACM – Russ Cox",
+      "description": "Score: 122 | Comments: 13 | Posted by signa11",
+      "url": "https://www.acm.org/articles/people-of-acm/2026/russ-cox",
+      "publishedAt": "2026-08-17T07:12:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "signa11",
+      "tags": []
+    },
+    {
+      "id": "iwm5yr",
+      "title": "Show HN: Rex, a parallel functional language for scientific workflows",
+      "description": "Score: 18 | Comments: 2 | Posted by peterkelly",
+      "url": "https://github.com/peterkelly/rex",
+      "publishedAt": "2026-08-17T05:28:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "peterkelly",
       "tags": []
     },
     {

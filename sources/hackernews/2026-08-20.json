@@ -14,6 +14,17 @@
       "tags": []
     },
     {
+      "id": "76c6wt",
+      "title": "Ozone: The fault is not in our trees, but in ourselves",
+      "description": "Score: 19 | Comments: 1 | Posted by gumby",
+      "url": "https://www.science.org/content/blog-post/fault-not-our-trees-ourselves",
+      "publishedAt": "2026-08-20T23:11:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gumby",
+      "tags": []
+    },
+    {
       "id": "3014iy",
       "title": "Detecting scraper bots through scroll behaviour",
       "description": "Score: 35 | Comments: 14 | Posted by theanonymousone",
@@ -44,6 +55,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "speckx",
+      "tags": []
+    },
+    {
+      "id": "mszlew",
+      "title": "How orchids inspired the work of Charles Darwin",
+      "description": "Score: 14 | Comments: 0 | Posted by prismatic",
+      "url": "https://lithub.com/how-orchids-inspired-the-groundbreaking-work-of-charles-darwin/",
+      "publishedAt": "2026-08-20T19:41:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "prismatic",
+      "tags": []
+    },
+    {
+      "id": "6d9vaj",
+      "title": "GitHub, autoscaling, and the component substitution fallacy",
+      "description": "Score: 47 | Comments: 0 | Posted by jonemi",
+      "url": "https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/",
+      "publishedAt": "2026-08-20T19:28:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jonemi",
       "tags": []
     },
     {
@@ -146,6 +179,17 @@
       "tags": []
     },
     {
+      "id": "4fvrf5",
+      "title": "Everyone says assembly is untyped—everyone is wrong",
+      "description": "Score: 65 | Comments: 22 | Posted by adamrezich",
+      "url": "https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/",
+      "publishedAt": "2026-08-20T16:22:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "adamrezich",
+      "tags": []
+    },
+    {
       "id": "93rpaj",
       "title": "How to compromise your system with a job interview",
       "description": "Score: 151 | Comments: 131 | Posted by codedge",
@@ -176,6 +220,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "EspressoGPT",
+      "tags": []
+    },
+    {
+      "id": "cgvo3p",
+      "title": "Autolith: A programming agent with a live runtime",
+      "description": "Score: 56 | Comments: 16 | Posted by vismit2000",
+      "url": "https://www.lambda-symbolics.com/autolith",
+      "publishedAt": "2026-08-20T15:40:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vismit2000",
       "tags": []
     },
     {
@@ -220,6 +275,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "trollied",
+      "tags": []
+    },
+    {
+      "id": "67aqgi",
+      "title": "A look under our trunk: what's in our compute",
+      "description": "Score: 118 | Comments: 66 | Posted by ra7",
+      "url": "https://waymo.com/blog/2026/08/look-under-our-trunk/",
+      "publishedAt": "2026-08-20T14:13:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ra7",
       "tags": []
     },
     {

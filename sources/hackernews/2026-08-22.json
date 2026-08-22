@@ -1,0 +1,72 @@
+{
+  "date": "2026-08-22",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "kw2n6j",
+      "title": "Never Be Angry at Work",
+      "description": "Score: 9 | Comments: 2 | Posted by vismit2000",
+      "url": "https://www.seangoedecke.com/you-should-never-be-angry-at-work/",
+      "publishedAt": "2026-08-22T05:26:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vismit2000",
+      "tags": []
+    },
+    {
+      "id": "eviojo",
+      "title": "GPT 5.6 Sol 20% price reduction",
+      "description": "Score: 37 | Comments: 19 | Posted by izakfr",
+      "url": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
+      "publishedAt": "2026-08-22T04:33:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "izakfr",
+      "tags": []
+    },
+    {
+      "id": "9up3kh",
+      "title": "Giving an LLM your prod database is easy. Taking access away is the hard part",
+      "description": "Score: 3 | Comments: 2 | Posted by venkat971",
+      "url": "https://deepsql.ai/blog/giving-an-llm-your-database-is-easy-taking-access-away-is-hard",
+      "publishedAt": "2026-08-22T03:33:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "venkat971",
+      "tags": []
+    },
+    {
+      "id": "4j9k1a",
+      "title": "There's no reason for software to be slow anymoredanluu.com",
+      "description": "Score: 297 | Comments: 211 | Posted by Jach",
+      "url": "https://danluu.com/perf-opt/",
+      "publishedAt": "2026-08-22T01:41:42.700Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Jach",
+      "tags": []
+    },
+    {
+      "id": "4j9k1a",
+      "title": "There's no reason for software to be slow anymore",
+      "description": "Score: 298 | Comments: 211 | Posted by Jach",
+      "url": "https://danluu.com/perf-opt/",
+      "publishedAt": "2026-08-22T01:06:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Jach",
+      "tags": []
+    },
+    {
+      "id": "kzz72o",
+      "title": "Initial focus for our partnership with Motorola is a regular non-folding device",
+      "description": "Score: 89 | Comments: 29 | Posted by Cider9986",
+      "url": "https://grapheneos.social/@GrapheneOS/117136278553665985",
+      "publishedAt": "2026-08-22T01:02:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Cider9986",
+      "tags": []
+    }
+  ]
+}
