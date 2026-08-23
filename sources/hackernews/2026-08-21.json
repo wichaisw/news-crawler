@@ -58,6 +58,28 @@
       "tags": []
     },
     {
+      "id": "bdtctj",
+      "title": "A week of using Codex more than Claude",
+      "description": "Score: 179 | Comments: 194 | Posted by speckx",
+      "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
+      "publishedAt": "2026-08-21T19:51:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
+      "tags": []
+    },
+    {
+      "id": "l7hf1e",
+      "title": "One night in Uzbekistan: Why was this one data point so influential?",
+      "description": "Score: 91 | Comments: 17 | Posted by paulpauper",
+      "url": "https://statmodeling.stat.columbia.edu/2026/08/20/we-couldnt-reproduce-their-findings-and-realized-that-it-was-all-driven-by-weird-data-from-uzbekistan/",
+      "publishedAt": "2026-08-21T19:05:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "paulpauper",
+      "tags": []
+    },
+    {
       "id": "jij071",
       "title": "Tumble Forth – from assembly to OS with C compiler (2023)",
       "description": "Score: 70 | Comments: 11 | Posted by vicek22",
@@ -146,6 +168,17 @@
       "tags": []
     },
     {
+      "id": "ixuy1l",
+      "title": "Show HN: Public Muscriptor Instance (latest, most powerful Audio-to-MIDI model)",
+      "description": "Score: 34 | Comments: 7 | Posted by jardy",
+      "url": "https://www.pianoify.net/",
+      "publishedAt": "2026-08-21T15:44:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jardy",
+      "tags": []
+    },
+    {
       "id": "u37paz",
       "title": "I ran Photoshop on a £0.60 computer chip",
       "description": "Score: 128 | Comments: 38 | Posted by colinprince",
@@ -209,6 +242,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "cainxinth",
+      "tags": []
+    },
+    {
+      "id": "i3256x",
+      "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
+      "description": "Score: 148 | Comments: 48 | Posted by olalonde",
+      "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
+      "publishedAt": "2026-08-21T13:43:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "olalonde",
       "tags": []
     },
     {
@@ -440,6 +484,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "petrizhang",
+      "tags": []
+    },
+    {
+      "id": "s4qaxi",
+      "title": "Dynamical dark energy and the week that broke cosmology",
+      "description": "Score: 47 | Comments: 16 | Posted by rznicolet",
+      "url": "https://perimeterinstitute.ca/news/dynamical-dark-energy-and-week-broke-cosmology",
+      "publishedAt": "2026-08-21T00:10:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rznicolet",
       "tags": []
     }
   ]

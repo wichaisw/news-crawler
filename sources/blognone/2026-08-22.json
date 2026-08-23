@@ -3,6 +3,50 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "151436 at https://www.blognone.com",
+      "title": "เผย Meta เป็นลูกค้ารายสำคัญของ Azure AI Foundry ใช้งานระดับหลายล้านล้านโทเค็นต่อสัปดาห์",
+      "description": "เผย Meta เป็นลูกค้ารายสำคัญของ Azure AI Foundry ใช้งานระดับหลายล้านล้านโทเค็นต่อสัปดาห์ Body Bloomberg",
+      "url": "https://www.blognone.com/node/151436",
+      "publishedAt": "2026-08-22T13:55:00.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151437 at https://www.blognone.com",
+      "title": "Databricks รับเงินลงทุนรอบใหม่ 5 พันล้านดอลลาร์ มูลค่ากิจการ 1.9 แสนล้านดอลลาร์",
+      "description": "Databricks รับเงินลงทุนรอบใหม่ 5 พันล้านดอลลาร์ มูลค่ากิจการ 1.9 แสนล้านดอลลาร์ Body Databricks ประกาศรับเงินลงทุนรอบใหม่อีก 5 พันล้านดอลลาร์",
+      "url": "https://www.blognone.com/node/151437",
+      "publishedAt": "2026-08-22T09:50:56.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151426 at https://www.blognone.com",
+      "title": "Bun ออกเวอร์ชัน 1.4 ตัวจริงแล้ว เป็นรุ่นแรกที่เขียนด้วยภาษา Rust",
+      "description": "Bun ออกเวอร์ชัน 1.4 ตัวจริงแล้ว เป็นรุ่นแรกที่เขียนด้วยภาษา Rust Body หลังจาก Bun พอร์ตโค้ดจาก Zig มาเป็น Rust สำเร็จ เมื่อเดือนกรกฎาคมที่ผ่านมา",
+      "url": "https://www.blognone.com/node/151426",
+      "publishedAt": "2026-08-22T07:40:01.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151434 at https://www.blognone.com",
+      "title": "เมื่อบริษัท Tech มองหาแหล่งข้อมูลใหม่มาเทรน AI - หนังสือเก่าหายากไปจนถึงข้อมูลสายการบิน",
+      "description": "เมื่อบริษัท Tech มองหาแหล่งข้อมูลใหม่มาเทรน AI - หนังสือเก่าหายากไปจนถึงข้อมูลสายการบิน Body",
+      "url": "https://www.blognone.com/node/151434",
+      "publishedAt": "2026-08-22T07:38:11.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "151433 at https://www.blognone.com",
       "title": "Apple ปลดพนักงานฝ่าย VR ออกยกทีม เพื่อโฟกัสการพัฒนาแว่นตา AR",
       "description": "Apple ปลดพนักงานฝ่าย VR ออกยกทีม เพื่อโฟกัสการพัฒนาแว่นตา AR Body มีรายงานว่าแอปเปิลได้ปลดพนักงานที่เกี่ยวข้องกับการพัฒนา VR ออกทั้งฝ่าย",

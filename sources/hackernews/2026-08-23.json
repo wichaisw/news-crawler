@@ -1,0 +1,105 @@
+{
+  "date": "2026-08-23",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "si4ar",
+      "title": "This Silicon Valley campus was a paradise. Bulldoze it",
+      "description": "Score: 4 | Comments: 3 | Posted by littlexsparkee",
+      "url": "https://sfstandard.com/opinion/2026/08/22/sunset-magazine-menlo-park-campus-torn-down/",
+      "publishedAt": "2026-08-23T06:15:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "littlexsparkee",
+      "tags": []
+    },
+    {
+      "id": "7pav68",
+      "title": "The End of an Athlon",
+      "description": "Score: 10 | Comments: 0 | Posted by userbinator",
+      "url": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
+      "publishedAt": "2026-08-23T05:51:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "userbinator",
+      "tags": []
+    },
+    {
+      "id": "m0ec4c",
+      "title": "A historic El Nino is forming. Here's why scientists are worried [video]",
+      "description": "Score: 6 | Comments: 0 | Posted by ksec",
+      "url": "https://www.youtube.com/watch?v=Dcl5Mn373Oc",
+      "publishedAt": "2026-08-23T05:23:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ksec",
+      "tags": []
+    },
+    {
+      "id": "52prp3",
+      "title": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has",
+      "description": "Score: 19 | Comments: 4 | Posted by ilamont",
+      "url": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html",
+      "publishedAt": "2026-08-23T04:28:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ilamont",
+      "tags": []
+    },
+    {
+      "id": "g8r428",
+      "title": "Microsoft Blames Windows Gaming Issues on RGB Lighting Devices",
+      "description": "Score: 16 | Comments: 1 | Posted by m463",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/",
+      "publishedAt": "2026-08-23T03:45:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "m463",
+      "tags": []
+    },
+    {
+      "id": "817elj",
+      "title": "The Golden Rule for Becoming a Better Writer",
+      "description": "Score: 49 | Comments: 24 | Posted by andsoitis",
+      "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
+      "publishedAt": "2026-08-23T03:32:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andsoitis",
+      "tags": []
+    },
+    {
+      "id": "c9nyl5",
+      "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
+      "description": "Score: 73 | Comments: 14 | Posted by boilerupnc",
+      "url": "https://martypc.net/",
+      "publishedAt": "2026-08-23T03:13:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "boilerupnc",
+      "tags": []
+    },
+    {
+      "id": "i978y",
+      "title": "I Dream of Quieter Computing",
+      "description": "Score: 46 | Comments: 15 | Posted by Sir_Twist",
+      "url": "https://henry.codes/writing/i-dream-of-quieter-computing/",
+      "publishedAt": "2026-08-23T02:33:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Sir_Twist",
+      "tags": []
+    },
+    {
+      "id": "w46aox",
+      "title": "The Art and Beauty of Blade Runner (2015)",
+      "description": "Score: 52 | Comments: 13 | Posted by cocacola1",
+      "url": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
+      "publishedAt": "2026-08-23T00:56:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cocacola1",
+      "tags": []
+    }
+  ]
+}

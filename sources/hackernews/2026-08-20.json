@@ -47,6 +47,17 @@
       "tags": []
     },
     {
+      "id": "g4btil",
+      "title": "ATProto spaces: A new extension to ATProto that enables non-public data",
+      "description": "Score: 133 | Comments: 18 | Posted by grappler",
+      "url": "https://atproto.com/blog/atproto-spaces-alpha",
+      "publishedAt": "2026-08-20T20:22:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "grappler",
+      "tags": []
+    },
+    {
       "id": "9d5577",
       "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
       "description": "Score: 1370 | Comments: 297 | Posted by speckx",
@@ -179,6 +190,17 @@
       "tags": []
     },
     {
+      "id": "q6ktja",
+      "title": "Why it might be time to rethink the human family tree",
+      "description": "Score: 64 | Comments: 39 | Posted by Anon84",
+      "url": "https://nautil.us/why-it-might-be-time-to-rethink-the-human-family-tree-1283985",
+      "publishedAt": "2026-08-20T17:07:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Anon84",
+      "tags": []
+    },
+    {
       "id": "4fvrf5",
       "title": "Everyone says assembly is untyped—everyone is wrong",
       "description": "Score: 65 | Comments: 22 | Posted by adamrezich",
@@ -267,6 +289,17 @@
       "tags": []
     },
     {
+      "id": "sasv4o",
+      "title": "ProgramBench Vetted: Reverse Engineering from a Runnable Binary",
+      "description": "Score: 27 | Comments: 1 | Posted by rigelbm",
+      "url": "https://vetto.ai/companies/programbench-vetted.html",
+      "publishedAt": "2026-08-20T14:35:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rigelbm",
+      "tags": []
+    },
+    {
       "id": "h3pe1q",
       "title": "Slack Code",
       "description": "Score: 68 | Comments: 97 | Posted by trollied",
@@ -333,6 +366,17 @@
       "tags": []
     },
     {
+      "id": "mu8ol3",
+      "title": "Conway's Game of Life in real life",
+      "description": "Score: 53 | Comments: 12 | Posted by surprisetalk",
+      "url": "https://blog.coredump.cx/p/conways-game-of-life-in-real-life",
+      "publishedAt": "2026-08-20T12:40:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
       "id": "74sq4m",
       "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
       "description": "Score: 543 | Comments: 113 | Posted by simedw",
@@ -374,6 +418,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "tybulewicz",
+      "tags": []
+    },
+    {
+      "id": "7zc1yb",
+      "title": "MiniageOS: \"Dumbphone\" Version of LineageOS",
+      "description": "Score: 41 | Comments: 23 | Posted by ashenke",
+      "url": "https://github.com/ofdryads/miniageOS",
+      "publishedAt": "2026-08-20T04:07:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ashenke",
       "tags": []
     },
     {
