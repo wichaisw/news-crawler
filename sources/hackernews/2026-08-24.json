@@ -1,0 +1,116 @@
+{
+  "date": "2026-08-24",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "5dyvh5",
+      "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
+      "description": "Score: 4 | Comments: 0 | Posted by dabinat",
+      "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
+      "publishedAt": "2026-08-24T06:30:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dabinat",
+      "tags": []
+    },
+    {
+      "id": "i61kxo",
+      "title": "OCR It – pull text out of un-copyable documents for your LLM",
+      "description": "Score: 5 | Comments: 1 | Posted by thiagolima",
+      "url": "https://github.com/thiagotigaz/ocr-it",
+      "publishedAt": "2026-08-24T06:25:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thiagolima",
+      "tags": []
+    },
+    {
+      "id": "4plea9",
+      "title": "New EU-wide product repair rules come into force",
+      "description": "Score: 22 | Comments: 0 | Posted by austinallegro",
+      "url": "https://www.rte.ie/news/business/2026/0824/1588931-repair-rules/",
+      "publishedAt": "2026-08-24T05:47:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "austinallegro",
+      "tags": []
+    },
+    {
+      "id": "y1rn8e",
+      "title": "Attention is all we have: A conjectural theory of cognitive inequality",
+      "description": "Score: 9 | Comments: 2 | Posted by rzk",
+      "url": "https://davidbessis.substack.com/p/attention-is-all-we-have",
+      "publishedAt": "2026-08-24T05:13:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rzk",
+      "tags": []
+    },
+    {
+      "id": "rcxung",
+      "title": "Elevated Errors for Multiple Models",
+      "description": "Score: 17 | Comments: 3 | Posted by rob",
+      "url": "https://status.claude.com/incidents/vgz5psbjmt1h",
+      "publishedAt": "2026-08-24T05:12:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rob",
+      "tags": []
+    },
+    {
+      "id": "l1c3xi",
+      "title": "Nearly 3M Teslas recalled in China over hidden door handles",
+      "description": "Score: 86 | Comments: 87 | Posted by chicken-stew",
+      "url": "https://www.bbc.com/news/articles/c4g6ggdg030o",
+      "publishedAt": "2026-08-24T04:27:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "chicken-stew",
+      "tags": []
+    },
+    {
+      "id": "d9diaf",
+      "title": "Former OC actor Ben McKenzie on crusade to take down 'stupid' cryptocurrency",
+      "description": "Score: 44 | Comments: 22 | Posted by billybuckwheat",
+      "url": "https://www.rnz.co.nz/life/people/celebrity/former-oc-actor-ben-mckenzie-on-crusade-to-take-down-stupid-cryptocurrency",
+      "publishedAt": "2026-08-24T02:17:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "billybuckwheat",
+      "tags": []
+    },
+    {
+      "id": "qo51od",
+      "title": "Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel",
+      "description": "Score: 43 | Comments: 35 | Posted by soheilpro",
+      "url": "https://www.hanselman.com/blog/migrating-a-synology-nas-to-a-unifi-unas-pro-8-with-robocopy-smb-multichannel-and-surprising-performance-traps",
+      "publishedAt": "2026-08-24T01:33:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "soheilpro",
+      "tags": []
+    },
+    {
+      "id": "n412k8",
+      "title": "The first search engine for Internet-connected devices",
+      "description": "Score: 15 | Comments: 0 | Posted by momentmaker",
+      "url": "https://www.shodan.io/",
+      "publishedAt": "2026-08-24T00:52:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "momentmaker",
+      "tags": []
+    },
+    {
+      "id": "5n4132",
+      "title": "Worldwide animated weather map, with easy to use layer and precise spot forecast",
+      "description": "Score: 10 | Comments: 1 | Posted by momentmaker",
+      "url": "https://www.windy.com",
+      "publishedAt": "2026-08-24T00:50:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "momentmaker",
+      "tags": []
+    }
+  ]
+}

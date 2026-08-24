@@ -3,6 +3,50 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "151441 at https://www.blognone.com",
+      "title": "GitHub อธิบายสาเหตุการล่มครั้งล่าสุด เกิดจากทราฟฟิกโต 2 เท่าใน 4 เดือน",
+      "description": "GitHub อธิบายสาเหตุการล่มครั้งล่าสุด เกิดจากทราฟฟิกโต 2 เท่าใน 4 เดือน Body GItHub ออกมาอธิบายสาเหตุของ การล่มยาวๆ 7 ชั่วโมงในวันที่ 17 สิงหาคม 2026",
+      "url": "https://www.blognone.com/node/151441",
+      "publishedAt": "2026-08-23T12:41:21.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151440 at https://www.blognone.com",
+      "title": "OpenAI ซื้อกิจการสตาร์ทอัปที่พัฒนา InstantDB ระบบฐานข้อมูลเรียลไทม์สำหรับ AI",
+      "description": "OpenAI ซื้อกิจการสตาร์ทอัปที่พัฒนา InstantDB ระบบฐานข้อมูลเรียลไทม์สำหรับ AI Body OpenAI ซื้อกิจการ Instant สตาร์ทอัปที่พัฒนาฐานข้อมูล InstantDB",
+      "url": "https://www.blognone.com/node/151440",
+      "publishedAt": "2026-08-23T08:40:34.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151439 at https://www.blognone.com",
+      "title": "[ไม่ยืนยัน] NVIDIA แจ้งลูกค้ารายใหญ่ เซิร์ฟเวอร์ AI ปีหน้าจะขึ้นราคาอีกอย่างน้อย 15%",
+      "description": "[ไม่ยืนยัน] NVIDIA แจ้งลูกค้ารายใหญ่ เซิร์ฟเวอร์ AI ปีหน้าจะขึ้นราคาอีกอย่างน้อย 15% Body รายงานนี้มาจาก Bloomberg อ้างแหล่งข่าวที่เกี่ยวข้องว่า",
+      "url": "https://www.blognone.com/node/151439",
+      "publishedAt": "2026-08-23T07:44:37.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151438 at https://www.blognone.com",
+      "title": "สิงคโปร์โพลีเทคนิคเปิดโครงการทดสอบความปลอดภัยไซเบอร์ให้ SME ฟรี เพื่อให้นักเรียนได้ฝึกกับเหตุการณ์จริง",
+      "description": "สิงคโปร์โพลีเทคนิคเปิดโครงการทดสอบความปลอดภัยไซเบอร์ให้ SME ฟรี เพื่อให้นักเรียนได้ฝึกกับเหตุการณ์จริง Body กระทรวงแรงงานสิงคโปร์",
+      "url": "https://www.blognone.com/node/151438",
+      "publishedAt": "2026-08-23T07:10:37.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "151435 at https://www.blognone.com",
       "title": "Bumble แอปหาคู่ ปรับกฎใหม่ยอมเลิกจุดขาย - อนุญาตให้ฝ่ายชายทักหาฝ่ายหญิงก่อนได้",
       "description": "Bumble แอปหาคู่ ปรับกฎใหม่ยอมเลิกจุดขาย - อนุญาตให้ฝ่ายชายทักหาฝ่ายหญิงก่อนได้ Body เมื่อสัปดาห์ที่ผ่านมา Bumble",
