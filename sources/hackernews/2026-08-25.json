@@ -1,0 +1,94 @@
+{
+  "date": "2026-08-25",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "b0xn8p",
+      "title": "Not a natural calamity: it is being done to us knowingly",
+      "description": "Score: 13 | Comments: 1 | Posted by speckx",
+      "url": "https://www.theguardian.com/membership/2026/aug/24/this-is-not-a-natural-calamity-it-is-being-done-to-us-knowingly",
+      "publishedAt": "2026-08-25T04:48:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
+      "tags": []
+    },
+    {
+      "id": "tmh043",
+      "title": "Show HN: Screen memory without screenshots, just text to Markdown",
+      "description": "Score: 21 | Comments: 9 | Posted by Dramatize",
+      "url": "https://github.com/dragthelake/ambient-context",
+      "publishedAt": "2026-08-25T04:33:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Dramatize",
+      "tags": []
+    },
+    {
+      "id": "q8uc2v",
+      "title": "Headlong: A Microharness for Persistent Agents",
+      "description": "Score: 32 | Comments: 10 | Posted by lbw1215",
+      "url": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
+      "publishedAt": "2026-08-25T03:54:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lbw1215",
+      "tags": []
+    },
+    {
+      "id": "v3lhek",
+      "title": "Right-Sized Language Model",
+      "description": "Score: 3 | Comments: 0 | Posted by thatjoeoverthr",
+      "url": "https://joecooper.me/blog/cpuhaiku/",
+      "publishedAt": "2026-08-25T03:10:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thatjoeoverthr",
+      "tags": []
+    },
+    {
+      "id": "cklrdz",
+      "title": "SiFive's First Server Platform",
+      "description": "Score: 15 | Comments: 4 | Posted by geerlingguy",
+      "url": "https://chipsandcheese.com/p/sifives-first-server-platform",
+      "publishedAt": "2026-08-25T03:06:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "geerlingguy",
+      "tags": []
+    },
+    {
+      "id": "fu9lfi",
+      "title": "Thomson Reuters Launches Its Own Frontier Model",
+      "description": "Score: 84 | Comments: 27 | Posted by giuliomagnifico",
+      "url": "https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model",
+      "publishedAt": "2026-08-25T02:11:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "giuliomagnifico",
+      "tags": []
+    },
+    {
+      "id": "ot9sop",
+      "title": "How Universities Should Prepare Founders",
+      "description": "Score: 89 | Comments: 90 | Posted by gmays",
+      "url": "https://paulgraham.com/prepare.html",
+      "publishedAt": "2026-08-25T01:40:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gmays",
+      "tags": []
+    },
+    {
+      "id": "gdfuxw",
+      "title": "Was modern art a CIA psy-op? (2020)",
+      "description": "Score: 59 | Comments: 65 | Posted by neom",
+      "url": "https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/",
+      "publishedAt": "2026-08-25T01:35:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "neom",
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "date": "2026-08-25",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "151453 at https://www.blognone.com",
+      "title": "NVIDIA เริ่มผลิต NVIDIA Groq 3 LPX ส่วนขยาย Vera Rubin สำหรับงาน Inference ความเร็วสูง",
+      "description": "NVIDIA เริ่มผลิต NVIDIA Groq 3 LPX ส่วนขยาย Vera Rubin สำหรับงาน Inference ความเร็วสูง Body เมื่อปลายปี 2025 NVIDIA เซ็นสัญญาใช้เทคโนโลยีชิปของ Groq",
+      "url": "https://www.blognone.com/node/151453",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2026/2026-08/pareto.webp",
+      "publishedAt": "2026-08-25T03:11:08.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151452 at https://www.blognone.com",
+      "title": "IBM เปิตดัวซีพียูสถาปัตยกรรมคู่ z/Architecture และ Arm สลับโหมดไปมาได้",
+      "description": "IBM เปิตดัวซีพียูสถาปัตยกรรมคู่ z/Architecture และ Arm สลับโหมดไปมาได้ Body IBM เปิดตัวซีพียูรุ่นใหม่สำหรับเมนเฟรม",
+      "url": "https://www.blognone.com/node/151452",
+      "publishedAt": "2026-08-25T02:40:41.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}
