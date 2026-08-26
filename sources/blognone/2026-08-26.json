@@ -1,0 +1,39 @@
+{
+  "date": "2026-08-26",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "151460 at https://www.blognone.com",
+      "title": "Apple อัปเดตผ้าเช็ดรอย ลดราคาลงครึ่งหนึ่งเหลือ 350 บาท",
+      "description": "Apple อัปเดตผ้าเช็ดรอย ลดราคาลงครึ่งหนึ่งเหลือ 350 บาท Body นอกจากการอัปเกรด Mac mini และ Mac Studio แล้ว แอปเปิลก็อัปเดตราคาขายของผ้าเช็ดรอย",
+      "url": "https://www.blognone.com/node/151460",
+      "publishedAt": "2026-08-26T03:28:00.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151462 at https://www.blognone.com",
+      "title": "เปิดตัว The Witcher 3 Remastered อัพเกรดฟรี ออกปีนี้, The Witcher 4 ออกปี 2028",
+      "description": "เปิดตัว The Witcher 3 Remastered อัพเกรดฟรี ออกปีนี้, The Witcher 4 ออกปี 2028 Body CD Projekt Red ประกาศข่าวเกม The Witcher ในงาน Gamescom 2026",
+      "url": "https://www.blognone.com/node/151462",
+      "publishedAt": "2026-08-26T02:13:34.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151461 at https://www.blognone.com",
+      "title": "Claude รวมระบบ Memory ของแชทกับ Cowork เข้าด้วยกัน ไม่ต้องอธิบายซ้ำแล้ว",
+      "description": "Claude รวมระบบ Memory ของแชทกับ Cowork เข้าด้วยกัน ไม่ต้องอธิบายซ้ำแล้ว Body Anthropic ประกาศรวมระบบความจำ (Memory) ที่ใช้ในแชทของ Claude กับ Claude",
+      "url": "https://www.blognone.com/node/151461",
+      "publishedAt": "2026-08-26T01:00:40.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}

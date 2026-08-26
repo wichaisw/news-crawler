@@ -1,0 +1,39 @@
+{
+  "date": "2026-08-26",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3156276",
+      "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
+      "description": "Ringg has raised $10 million from Peak XV as a part of its Series A extension.",
+      "url": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
+      "publishedAt": "2026-08-26T03:30:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Ivan Mehta",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3156922",
+      "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+      "description": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
+      "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+      "publishedAt": "2026-08-26T00:40:59.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Marina Temkin",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3156793",
+      "title": "OpenAI loses a top data center exec as stream of high-profile departures continues",
+      "description": "In a statement to TechCrunch about Malone's departure, OpenAI said it had \"recently reorganized\" its \"infrastructure organization to support the",
+      "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+      "publishedAt": "2026-08-26T00:06:20.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lucas Ropek",
+      "tags": []
+    }
+  ]
+}

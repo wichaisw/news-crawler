@@ -1,0 +1,72 @@
+{
+  "date": "2026-08-26",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "xia544",
+      "title": "More than half of adults in U.S. say they lack basic statistical understandingpsu.edu",
+      "description": "Score: 28 | Comments: 29 | Posted by giuliomagnifico",
+      "url": "https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding",
+      "publishedAt": "2026-08-26T05:52:12.415Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "giuliomagnifico",
+      "tags": []
+    },
+    {
+      "id": "xia544",
+      "title": "More than half of adults in U.S. say they lack basic statistical understanding",
+      "description": "Score: 29 | Comments: 31 | Posted by giuliomagnifico",
+      "url": "https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding",
+      "publishedAt": "2026-08-26T05:49:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "giuliomagnifico",
+      "tags": []
+    },
+    {
+      "id": "vx36qy",
+      "title": "Secret Cold War IBM Supercomputer Was Built for One Job",
+      "description": "Score: 6 | Comments: 0 | Posted by jnord",
+      "url": "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm",
+      "publishedAt": "2026-08-26T05:09:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jnord",
+      "tags": []
+    },
+    {
+      "id": "o299cp",
+      "title": "Agentic Context Management: Memory and Cost as Architecture Problems",
+      "description": "Score: 23 | Comments: 12 | Posted by gdad",
+      "url": "https://arxiv.org/abs/2607.21503",
+      "publishedAt": "2026-08-26T02:35:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gdad",
+      "tags": []
+    },
+    {
+      "id": "aoeejj",
+      "title": "Letter from Dolly Parton to Eminem",
+      "description": "Score: 66 | Comments: 6 | Posted by tibbar",
+      "url": "https://twitter.com/Eminem/status/2092367272891310482",
+      "publishedAt": "2026-08-26T02:09:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tibbar",
+      "tags": []
+    },
+    {
+      "id": "vkb33t",
+      "title": "Queryable Executables",
+      "description": "Score: 111 | Comments: 18 | Posted by rguiscard",
+      "url": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
+      "publishedAt": "2026-08-26T00:20:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rguiscard",
+      "tags": []
+    }
+  ]
+}
