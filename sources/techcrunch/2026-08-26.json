@@ -3,6 +3,61 @@
   "source": "techcrunch",
   "articles": [
     {
+      "id": "https://techcrunch.com/?p=3157431",
+      "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
+      "description": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond",
+      "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+      "publishedAt": "2026-08-26T23:47:18.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Rebecca Bellan, Kirsten Korosec",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3157338",
+      "title": "Meta’s $18B child-safety deal hinges on age-verification tech that doesn’t work well",
+      "description": "The historic settlement reignites ongoing concern around how age-verification technology puts privacy at risk.",
+      "url": "https://techcrunch.com/2026/08/26/metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well/",
+      "publishedAt": "2026-08-26T22:47:58.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Amanda Silberling",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3157364",
+      "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
+      "description": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
+      "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+      "publishedAt": "2026-08-26T21:37:39.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lucas Ropek",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3157316",
+      "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
+      "description": "Consumer AI apps need to stop making users learn their product architecture.",
+      "url": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
+      "publishedAt": "2026-08-26T19:37:34.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sarah Perez",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3157219",
+      "title": "How do we explain OpenAI’s executive exodus?",
+      "description": "Was Greg Brockman the right executive all along?",
+      "url": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
+      "publishedAt": "2026-08-26T19:34:04.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Tim Fernholz",
+      "tags": []
+    },
+    {
       "id": "https://techcrunch.com/?p=3156276",
       "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
       "description": "Ringg has raised $10 million from Peak XV as a part of its Series A extension.",

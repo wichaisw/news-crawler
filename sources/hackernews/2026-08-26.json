@@ -3,6 +3,50 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "2gczvk",
+      "title": "Zohran and the Short Link",
+      "description": "Score: 271 | Comments: 171 | Posted by wxw",
+      "url": "https://iamwillwang.com/notes/zohran-and-the-short-link/",
+      "publishedAt": "2026-08-26T23:50:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wxw",
+      "tags": []
+    },
+    {
+      "id": "eyyzuw",
+      "title": "Show HN: A lightweight, stateless database for agent memory",
+      "description": "Score: 4 | Comments: 2 | Posted by anuptalwalkar",
+      "url": "https://polign.com/blog-edge-agent-memory",
+      "publishedAt": "2026-08-26T15:24:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "anuptalwalkar",
+      "tags": []
+    },
+    {
+      "id": "e89ev5",
+      "title": "A curmudgeon tries a language server",
+      "description": "Score: 78 | Comments: 52 | Posted by crescit_eundo",
+      "url": "https://entropicthoughts.com/curmudgeon-tries-language-server",
+      "publishedAt": "2026-08-26T12:48:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "crescit_eundo",
+      "tags": []
+    },
+    {
+      "id": "ocv7se",
+      "title": "The turbulent AI era is here",
+      "description": "Score: 19 | Comments: 271 | Posted by nanna",
+      "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med",
+      "publishedAt": "2026-08-26T11:23:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nanna",
+      "tags": []
+    },
+    {
       "id": "xia544",
       "title": "More than half of adults in U.S. say they lack basic statistical understandingpsu.edu",
       "description": "Score: 28 | Comments: 29 | Posted by giuliomagnifico",
