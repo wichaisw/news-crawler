@@ -3,6 +3,72 @@
   "source": "techcrunch",
   "articles": [
     {
+      "id": "https://techcrunch.com/?p=3157765",
+      "title": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
+      "description": "Technical progress has encouraged a new batch of companies to jump in on the promise of profits from humanoid robots. And they're all Chinese",
+      "url": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/",
+      "publishedAt": "2026-08-28T23:24:27.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Kirsten Korosec",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3158066",
+      "title": "Is the best way to watch a movie on a pair of sunglasses?",
+      "description": "Are XREAL's smart glasses the way of the future for home entertainment?",
+      "url": "https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/",
+      "publishedAt": "2026-08-28T22:42:48.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lucas Ropek",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3158531",
+      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+      "description": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring",
+      "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+      "publishedAt": "2026-08-28T20:24:11.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Rebecca Bellan",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3158505",
+      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+      "description": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading",
+      "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+      "publishedAt": "2026-08-28T19:30:38.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Russell Brandom",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3158484",
+      "title": "Brave’s browser one-ups Chrome with its new support for email aliases",
+      "description": "The feature, announced this week, allows Brave's users to sign up for websites and other online services without having to share their personal email",
+      "url": "https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/",
+      "publishedAt": "2026-08-28T18:50:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sarah Perez",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3158461",
+      "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
+      "description": "There's a lot of capital pouring into the business of giving models away.",
+      "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+      "publishedAt": "2026-08-28T18:19:40.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Tim Fernholz",
+      "tags": []
+    },
+    {
       "id": "https://techcrunch.com/?p=3158398",
       "title": "How Sweden built one of Europe’s hottest startup ecosystems",
       "description": "Sophia Bendz, general partner at Cherry Ventures, stopped by Equity to break down the latest in the Swedish tech ecosystem.",

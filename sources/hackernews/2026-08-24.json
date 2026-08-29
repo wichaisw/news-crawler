@@ -91,6 +91,17 @@
       "tags": []
     },
     {
+      "id": "8t44x7",
+      "title": "Glacier Mice",
+      "description": "Score: 24 | Comments: 2 | Posted by ostacke",
+      "url": "https://en.wikipedia.org/wiki/Glacier_mice",
+      "publishedAt": "2026-08-24T18:58:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ostacke",
+      "tags": []
+    },
+    {
       "id": "ocaqw",
       "title": "Removed all counters, replies, following/ers, timestamps, from textlog",
       "description": "Score: 68 | Comments: 31 | Posted by stagas",
@@ -179,6 +190,17 @@
       "tags": []
     },
     {
+      "id": "t20acr",
+      "title": "Curvature Beziers: Improving on a timeless recipe",
+      "description": "Score: 126 | Comments: 15 | Posted by leephillips",
+      "url": "https://acko.net/blog/curvature-beziers/",
+      "publishedAt": "2026-08-24T17:03:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "leephillips",
+      "tags": []
+    },
+    {
       "id": "69psb4",
       "title": "Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam",
       "description": "Score: 86 | Comments: 11 | Posted by rbanffy",
@@ -187,6 +209,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "rbanffy",
+      "tags": []
+    },
+    {
+      "id": "yuovqm",
+      "title": "Queen Caroline turned King Arthur into an 18C royal PR strategy",
+      "description": "Score: 24 | Comments: 3 | Posted by samizdis",
+      "url": "https://theconversation.com/how-queen-caroline-turned-king-arthur-into-an-18th-century-royal-pr-strategy-288244",
+      "publishedAt": "2026-08-24T16:41:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "samizdis",
       "tags": []
     },
     {
@@ -366,6 +399,17 @@
       "tags": []
     },
     {
+      "id": "wf7izq",
+      "title": "Show HN: Galaxium, an experimental WebGPU space explorer",
+      "description": "Score: 8 | Comments: 8 | Posted by guillaumec",
+      "url": "https://galaxium.app",
+      "publishedAt": "2026-08-24T14:44:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "guillaumec",
+      "tags": []
+    },
+    {
       "id": "nh7pxp",
       "title": "Crafting QR Codes: A deep dive into QR code art (2024)",
       "description": "Score: 47 | Comments: 0 | Posted by subset",
@@ -374,6 +418,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "subset",
+      "tags": []
+    },
+    {
+      "id": "cz0623",
+      "title": "Experiments with Plotter Art",
+      "description": "Score: 66 | Comments: 3 | Posted by surprisetalk",
+      "url": "https://sometimes.digital/posts/experiments-with-plotter-art/",
+      "publishedAt": "2026-08-24T13:21:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
       "tags": []
     },
     {
@@ -410,6 +465,17 @@
       "tags": []
     },
     {
+      "id": "n8cyjv",
+      "title": "Review: Chuwi's $449 Unibook laptop is a funhouse-mirror MacBook Neo",
+      "description": "Score: 47 | Comments: 28 | Posted by rbanffy",
+      "url": "https://arstechnica.com/gadgets/2026/08/review-chuwis-449-unibook-laptop-is-a-funhouse-mirror-macbook-neo/",
+      "publishedAt": "2026-08-24T12:30:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rbanffy",
+      "tags": []
+    },
+    {
       "id": "1ydv45",
       "title": "SeL4 security proofs now complete on AArch64",
       "description": "Score: 182 | Comments: 41 | Posted by snvzz",
@@ -418,6 +484,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "snvzz",
+      "tags": []
+    },
+    {
+      "id": "cea27b",
+      "title": "Monzo Stand-In",
+      "description": "Score: 94 | Comments: 32 | Posted by coffeefuel",
+      "url": "https://monzo.com/blog/tolerating-full-cloud-outages-with-monzo-stand-in",
+      "publishedAt": "2026-08-24T09:30:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "coffeefuel",
+      "tags": []
+    },
+    {
+      "id": "dlia1y",
+      "title": "Sloc Cloc and Code 4.0 (scc) – Finding the files that need the most attention",
+      "description": "Score: 40 | Comments: 9 | Posted by boyter",
+      "url": "https://boyter.org/posts/sloc-cloc-code-hotspots-finding-files-that-need-attention/",
+      "publishedAt": "2026-08-24T06:35:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "boyter",
       "tags": []
     },
     {

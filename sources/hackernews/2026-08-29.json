@@ -1,0 +1,94 @@
+{
+  "date": "2026-08-29",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "eh08nh",
+      "title": "Iceland votes on whether to restart talks on joining EUbbc.com",
+      "description": "Score: 60 | Comments: 65 | Posted by tosh",
+      "url": "https://www.bbc.com/news/articles/cn45vdxyvvlo",
+      "publishedAt": "2026-08-29T11:41:43.112Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tosh",
+      "tags": []
+    },
+    {
+      "id": "eh08nh",
+      "title": "Iceland votes on whether to restart talks on joining EU",
+      "description": "Score: 60 | Comments: 66 | Posted by tosh",
+      "url": "https://www.bbc.com/news/articles/cn45vdxyvvlo",
+      "publishedAt": "2026-08-29T11:39:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tosh",
+      "tags": []
+    },
+    {
+      "id": "y6v8do",
+      "title": "Autistici/inventati: Manifesto – who we are and what do we want (2002)",
+      "description": "Score: 73 | Comments: 45 | Posted by wise_blood",
+      "url": "https://www.inventati.org/who/manifesto",
+      "publishedAt": "2026-08-29T07:38:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wise_blood",
+      "tags": []
+    },
+    {
+      "id": "1fflxj",
+      "title": "Samsung's Processing-in-Memory (PIM)",
+      "description": "Score: 134 | Comments: 45 | Posted by ingve",
+      "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
+      "publishedAt": "2026-08-29T06:06:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingve",
+      "tags": []
+    },
+    {
+      "id": "rzifa4",
+      "title": "TurboKV: Insanely fast Rust key-value store",
+      "description": "Score: 125 | Comments: 55 | Posted by rgbimbochamp",
+      "url": "https://github.com/kingroryg/turbokv",
+      "publishedAt": "2026-08-29T02:23:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rgbimbochamp",
+      "tags": []
+    },
+    {
+      "id": "ajgisy",
+      "title": "Kumander Linux – A Linux Distro with a Windows 7 Desktop",
+      "description": "Score: 65 | Comments: 43 | Posted by linuxkernal",
+      "url": "https://www.kumander.org/",
+      "publishedAt": "2026-08-29T01:48:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "linuxkernal",
+      "tags": []
+    },
+    {
+      "id": "j4vewn",
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "description": "Score: 591 | Comments: 336 | Posted by meetpateltech",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+      "publishedAt": "2026-08-29T01:47:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "meetpateltech",
+      "tags": []
+    },
+    {
+      "id": "1fg63g",
+      "title": "StemDeck, a free, open-source and local AI stem separator",
+      "description": "Score: 121 | Comments: 26 | Posted by thclpr",
+      "url": "https://github.com/stemdeckapp/stemdeck",
+      "publishedAt": "2026-08-29T01:24:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thclpr",
+      "tags": []
+    }
+  ]
+}

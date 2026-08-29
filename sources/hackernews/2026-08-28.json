@@ -3,6 +3,72 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "thzgn8",
+      "title": "Does the Sumerian King List Align with Paleoclimate Events?",
+      "description": "Score: 107 | Comments: 53 | Posted by dev_l1x_be",
+      "url": "https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/",
+      "publishedAt": "2026-08-28T23:46:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dev_l1x_be",
+      "tags": []
+    },
+    {
+      "id": "cvz852",
+      "title": "9th Circuit sides with states in Kalshi gambling fight",
+      "description": "Score: 139 | Comments: 116 | Posted by hungryhobbit",
+      "url": "https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/",
+      "publishedAt": "2026-08-28T23:32:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hungryhobbit",
+      "tags": []
+    },
+    {
+      "id": "fsqi2x",
+      "title": "I accidentally turned LLM memory into program analysis",
+      "description": "Score: 176 | Comments: 40 | Posted by matt_d",
+      "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
+      "publishedAt": "2026-08-28T23:27:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "matt_d",
+      "tags": []
+    },
+    {
+      "id": "q7obwy",
+      "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+      "description": "Score: 304 | Comments: 83 | Posted by hentrep",
+      "url": "https://github.com/Lakr233/vphone-cli",
+      "publishedAt": "2026-08-28T23:02:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hentrep",
+      "tags": []
+    },
+    {
+      "id": "ct4nph",
+      "title": "Identifying fake cosmetics using AI",
+      "description": "Score: 56 | Comments: 22 | Posted by wgrover",
+      "url": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
+      "publishedAt": "2026-08-28T22:18:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wgrover",
+      "tags": []
+    },
+    {
+      "id": "qf9upg",
+      "title": "Show HN: Sesame - a local-first, open-source password manager",
+      "description": "Score: 53 | Comments: 73 | Posted by d0mkaaa",
+      "url": "https://usesesame.app/",
+      "publishedAt": "2026-08-28T19:14:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "d0mkaaa",
+      "tags": []
+    },
+    {
       "id": "g2c4q2",
       "title": "Data centers' 'oh s–t' moment",
       "description": "Score: 17 | Comments: 7 | Posted by cdrnsf",
@@ -139,6 +205,17 @@
       "title": "GLM-5.3 is now open-weight",
       "description": "Score: 294 | Comments: 111 | Posted by jeudesprits",
       "url": "https://twitter.com/Zai_org/status/2093354097122455713",
+      "publishedAt": "2026-08-28T15:20:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jeudesprits",
+      "tags": []
+    },
+    {
+      "id": "160321",
+      "title": "GLM-5.3 is now open-weight",
+      "description": "Score: 718 | Comments: 240 | Posted by jeudesprits",
+      "url": "https://huggingface.co/zai-org/GLM-5.3",
       "publishedAt": "2026-08-28T15:20:13.000Z",
       "source": "hackernews",
       "sourceName": "Hacker News",
