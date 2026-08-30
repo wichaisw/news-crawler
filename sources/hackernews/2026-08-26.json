@@ -25,6 +25,17 @@
       "tags": []
     },
     {
+      "id": "gnbk23",
+      "title": "The Einstein-Szilard Refrigerator (2020)",
+      "description": "Score: 39 | Comments: 11 | Posted by EndXA",
+      "url": "https://invention.si.edu/invention-stories/einstein-szilard-refrigerator",
+      "publishedAt": "2026-08-26T17:58:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "EndXA",
+      "tags": []
+    },
+    {
       "id": "eyyzuw",
       "title": "Show HN: A lightweight, stateless database for agent memory",
       "description": "Score: 4 | Comments: 2 | Posted by anuptalwalkar",
@@ -47,6 +58,28 @@
       "tags": []
     },
     {
+      "id": "wefdm",
+      "title": "Is it safe to call print in a Python signal handler?",
+      "description": "Score: 52 | Comments: 29 | Posted by hellerve",
+      "url": "https://iafisher.com/2026/08/sigprint",
+      "publishedAt": "2026-08-26T14:53:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hellerve",
+      "tags": []
+    },
+    {
+      "id": "sabmrp",
+      "title": "Recovering Corrupt Zip Files",
+      "description": "Score: 65 | Comments: 30 | Posted by AshleysBrain",
+      "url": "https://www.construct.net/en/blogs/ashleys-blog-2/recovering-corrupt-zip-files-1895",
+      "publishedAt": "2026-08-26T13:14:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "AshleysBrain",
+      "tags": []
+    },
+    {
       "id": "e89ev5",
       "title": "A curmudgeon tries a language server",
       "description": "Score: 78 | Comments: 52 | Posted by crescit_eundo",
@@ -55,6 +88,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "crescit_eundo",
+      "tags": []
+    },
+    {
+      "id": "hsnqaa",
+      "title": "Pop-2000, a lingua-franca POP-2 dialect",
+      "description": "Score: 17 | Comments: 1 | Posted by surprisetalk",
+      "url": "https://hitogata.neocities.org/POP-2000",
+      "publishedAt": "2026-08-26T12:20:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
+      "id": "llyvui",
+      "title": "Show HN: Typebase – A single-folder back end you write in TypeScript",
+      "description": "Score: 107 | Comments: 30 | Posted by andrewww-dev",
+      "url": "https://typebase.io",
+      "publishedAt": "2026-08-26T11:33:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andrewww-dev",
       "tags": []
     },
     {

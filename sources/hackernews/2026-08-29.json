@@ -3,6 +3,127 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "pekb09",
+      "title": "The Rise and Fall of Agent Civilizations",
+      "description": "Score: 127 | Comments: 71 | Posted by consumer451",
+      "url": "https://www.dwarkesh.com/p/openai-huggingface",
+      "publishedAt": "2026-08-29T23:43:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "consumer451",
+      "tags": []
+    },
+    {
+      "id": "ip3tz9",
+      "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
+      "description": "Score: 315 | Comments: 181 | Posted by DeepLogin",
+      "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
+      "publishedAt": "2026-08-29T23:17:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "DeepLogin",
+      "tags": []
+    },
+    {
+      "id": "khmsxr",
+      "title": "Hy4 preview",
+      "description": "Score: 315 | Comments: 195 | Posted by shenli3514",
+      "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
+      "publishedAt": "2026-08-29T19:33:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "shenli3514",
+      "tags": []
+    },
+    {
+      "id": "ko1ff7",
+      "title": "Domain-Driven Agents",
+      "description": "Score: 85 | Comments: 17 | Posted by AlarQ",
+      "url": "https://coldtake.dev/blog/domain-driven-agents",
+      "publishedAt": "2026-08-29T19:28:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "AlarQ",
+      "tags": []
+    },
+    {
+      "id": "y4lo9a",
+      "title": "Functional State Machines in Rust: Typestate and Newtype Patterns",
+      "description": "Score: 93 | Comments: 36 | Posted by matt_d",
+      "url": "https://dl.acm.org/doi/10.1145/3830438.3830958",
+      "publishedAt": "2026-08-29T19:01:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "matt_d",
+      "tags": []
+    },
+    {
+      "id": "err0q0",
+      "title": "DHS is using obscure law to snoop on journalists, non-profits, unions",
+      "description": "Score: 409 | Comments: 88 | Posted by firefax",
+      "url": "https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits",
+      "publishedAt": "2026-08-29T18:44:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "firefax",
+      "tags": []
+    },
+    {
+      "id": "2fgv4f",
+      "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
+      "description": "Score: 165 | Comments: 66 | Posted by tuckerwales",
+      "url": "https://tucker.wales/writing/bias-towards-action/",
+      "publishedAt": "2026-08-29T17:39:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tuckerwales",
+      "tags": []
+    },
+    {
+      "id": "61n7yp",
+      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+      "description": "Score: 403 | Comments: 100 | Posted by gpi",
+      "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+      "publishedAt": "2026-08-29T17:19:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gpi",
+      "tags": []
+    },
+    {
+      "id": "5lrmo1",
+      "title": "Trees for a Changing Climate and Resilient Urban Forest (2022)",
+      "description": "Score: 56 | Comments: 12 | Posted by mooreds",
+      "url": "https://www.coolboulder.org/news/trees-for-a-changing-climate-resilient-urban-forest",
+      "publishedAt": "2026-08-29T16:24:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mooreds",
+      "tags": []
+    },
+    {
+      "id": "25oqdw",
+      "title": "Nancy Grace Roman Space Telescope",
+      "description": "Score: 203 | Comments: 80 | Posted by JumpCrisscross",
+      "url": "https://science.nasa.gov/mission/roman-space-telescope/",
+      "publishedAt": "2026-08-29T15:48:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "JumpCrisscross",
+      "tags": []
+    },
+    {
+      "id": "oxapyx",
+      "title": "Quantifying Colour",
+      "description": "Score: 92 | Comments: 8 | Posted by vismit2000",
+      "url": "https://ekunazanu.foo/lab/quantifying-colour/",
+      "publishedAt": "2026-08-29T15:43:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vismit2000",
+      "tags": []
+    },
+    {
       "id": "eh08nh",
       "title": "Iceland votes on whether to restart talks on joining EUbbc.com",
       "description": "Score: 60 | Comments: 65 | Posted by tosh",

@@ -3,6 +3,78 @@
   "source": "theverge",
   "articles": [
     {
+      "id": "gcvqvq",
+      "title": "Vicariously hike the Appalachian in the gorgeous A Trail Tale",
+      "description": "I used to be an avid hiker and would try to go backpacking a few times a year. I always dreamed of thru-hiking the Appalachian Trail, but life kind of got in the way. (Turns out jobs, wives, and children aren't thrilled with the idea of you disappearing for three months.) But I've been longing [&#8230;]",
+      "url": "https://www.theverge.com/entertainment/986461/hike-appalachian-trail-pixel-art-a-trail-tale",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-29-at-4.57.57-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-08-29T20:59:26.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Terrence O’Brien",
+      "tags": []
+    },
+    {
+      "id": "m37uo0",
+      "title": "Alt-right troll Milo Yiannopoulos has been deported",
+      "description": "Alt-right troll Milo Yiannopoulos was arrested by ICE on Thursday, and today the Department of Homeland Security confirmed to Reuters and the Washington Post that he had been deported to the UK. Yiannopoulos came to the US legally in 2019, but overstayed his visa. After he failed to appear in court for an immigration hearing, [&#8230;]",
+      "url": "https://www.theverge.com/policy/986456/milo-yiannopoulos-deported-ice",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13604714/milopatreon.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-08-29T19:49:59.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Terrence O’Brien",
+      "tags": []
+    },
+    {
+      "id": "qxp5s1",
+      "title": "Sony Music and Warner Chappell are suing Anthropic",
+      "description": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when identifiable copyright data was stripped. In total, the [&#8230;]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-08-29T18:19:53.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Terrence O’Brien",
+      "tags": []
+    },
+    {
+      "id": "grwyxy",
+      "title": "Distraction-free writing gadget BYOK is adding custom extensions",
+      "description": "BYOK is a no-frills, single-purpose gadget that 90 percent of people will find absolutely frivolous. But for those who spend a significant chunk of their lives putting words to virtual paper, there is an obvious allure. Personally, I think it's at its best when you just stick to the bare minimum, focusing on pure text [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/986427/distraction-free-writing-gadget-byok-scripts-extensions",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268605_BYOK_TOBrien_0016.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-08-29T16:01:13.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Terrence O’Brien",
+      "tags": []
+    },
+    {
+      "id": "z5ngzl",
+      "title": "Welcome to Night Vale cocreator Joseph Fink learned storytelling from Grim Fandango",
+      "description": "Joseph Fink is the cocreator and cowriter of Welcome to Night Vale, arguably the most important fiction podcast ever. He's also the creator of the noir podcast Unlicensed and Alice Isn't Dead, which takes some of the conspiratorial cosmic horror of Night Vale and turns it into fodder for a more serious series about relationships, [&#8230;]",
+      "url": "https://www.theverge.com/entertainment/983448/welcome-to-night-vale-cocreator-joseph-fink-learned-storytelling-from-grim-fandango",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/unnamed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-08-29T15:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Terrence O’Brien",
+      "tags": []
+    },
+    {
+      "id": "mi2ix9",
+      "title": "The Galaxy Z Flip 8 is at its best when there’s friction",
+      "description": "What do you want from a flip phone when it's closed? A simple interface, perhaps notifications and a widget or two, for handling the basics? Or a fully fledged Android experience shrunk down for the Flip form factor? For years, Samsung has insisted on the former, even as some fans - and Razr rival Motorola [&#8230;]",
+      "url": "https://www.theverge.com/tech/986033/samsung-galaxy-z-flip-8-review",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/samsung-galaxy-z-flip-8-review-13.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-08-29T13:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Dominic Preston",
+      "tags": []
+    },
+    {
       "id": "i214kq",
       "title": "Musicians-turned-detectives are hunting for AI grifters",
       "description": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derived from the work of human artists. While some of the people pumping out this kind of content immediately own up to using AI, others have denied using the technology [&#8230;]",

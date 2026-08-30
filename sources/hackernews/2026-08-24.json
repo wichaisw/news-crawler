@@ -14,6 +14,17 @@
       "tags": []
     },
     {
+      "id": "jsyzip",
+      "title": "SQLite as a Document Database (2020)",
+      "description": "Score: 218 | Comments: 53 | Posted by lioeters",
+      "url": "https://dgl.cx/2020/06/sqlite-json-support",
+      "publishedAt": "2026-08-24T23:00:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lioeters",
+      "tags": []
+    },
+    {
       "id": "xq9z3v",
       "title": "iCloud+ Hide My Email addresses will remain on icloud.comdeveloper.apple.com",
       "description": "Score: 385 | Comments: 102 | Posted by K7PJP",
@@ -66,6 +77,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "signor_bosco",
+      "tags": []
+    },
+    {
+      "id": "oyy0hl",
+      "title": "RISC-V is now officially supported by CPython",
+      "description": "Score: 186 | Comments: 38 | Posted by lumpa",
+      "url": "https://blog.python.org/2026/08/riscv-now-officially-supported/",
+      "publishedAt": "2026-08-24T20:12:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lumpa",
       "tags": []
     },
     {
@@ -561,6 +583,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "rob",
+      "tags": []
+    },
+    {
+      "id": "xk5mvg",
+      "title": "Tether: iMessage, SMS, etc. on Linux",
+      "description": "Score: 470 | Comments: 185 | Posted by zackb",
+      "url": "https://zackbartel.com/blog/2026/08/tether/",
+      "publishedAt": "2026-08-24T05:09:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zackb",
       "tags": []
     },
     {

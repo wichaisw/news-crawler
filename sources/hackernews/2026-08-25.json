@@ -201,6 +201,17 @@
       "tags": []
     },
     {
+      "id": "k25a0r",
+      "title": "Orbs",
+      "description": "Score: 16 | Comments: 8 | Posted by tosh",
+      "url": "https://ampcode.com/notes/orbs-explained",
+      "publishedAt": "2026-08-25T16:56:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tosh",
+      "tags": []
+    },
+    {
       "id": "67mzb3",
       "title": "My Friend Aaron",
       "description": "Score: 521 | Comments: 142 | Posted by sarreph",
@@ -344,6 +355,28 @@
       "tags": []
     },
     {
+      "id": "fqusv5",
+      "title": "My life was changed by four sentences in four books",
+      "description": "Score: 3 | Comments: 0 | Posted by surprisetalk",
+      "url": "https://sive.rs/4s4b",
+      "publishedAt": "2026-08-25T13:21:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
+      "id": "t87vvp",
+      "title": "Creating Teensy ELF Executables for Linux (Or, \"Size Is Everything\") (1999)",
+      "description": "Score: 49 | Comments: 11 | Posted by Bluestein",
+      "url": "https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html",
+      "publishedAt": "2026-08-25T13:20:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Bluestein",
+      "tags": []
+    },
+    {
       "id": "yug5sw",
       "title": "New Mac mini, featuring M6 and M5 Pro",
       "description": "Score: 478 | Comments: 295 | Posted by runako",
@@ -352,6 +385,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "runako",
+      "tags": []
+    },
+    {
+      "id": "s06axy",
+      "title": "EVE Online moves to Python 3",
+      "description": "Score: 366 | Comments: 198 | Posted by TylerJaacks",
+      "url": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
+      "publishedAt": "2026-08-25T13:04:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "TylerJaacks",
       "tags": []
     },
     {
@@ -410,6 +454,17 @@
       "tags": []
     },
     {
+      "id": "5kn2wc",
+      "title": "JupyterGIS 0.16: a grammar of graphics for maps, and collaborative story maps",
+      "description": "Score: 28 | Comments: 4 | Posted by arjxn-py",
+      "url": "https://blog.jupyter.org/jupytergis-0-16-new-visualization-capabilities-collaborative-story-maps-and-more-03e6b78bacc0",
+      "publishedAt": "2026-08-25T08:43:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "arjxn-py",
+      "tags": []
+    },
+    {
       "id": "oupaoy",
       "title": "Show HN: I built self-hosted deployment automation tool for Windows and IIS",
       "description": "Score: 28 | Comments: 15 | Posted by dt3ft",
@@ -462,6 +517,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "lbw1215",
+      "tags": []
+    },
+    {
+      "id": "kneu6c",
+      "title": "Sleepwalker: Passive Backdoor with Its Own Command Language",
+      "description": "Score: 73 | Comments: 15 | Posted by defrost",
+      "url": "https://r136a1.dev/2026/08/24/sleepwalker-a-passive-backdoor-with-its-own-command-language/",
+      "publishedAt": "2026-08-25T03:26:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "defrost",
       "tags": []
     },
     {
