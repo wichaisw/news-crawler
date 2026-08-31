@@ -47,6 +47,17 @@
       "tags": []
     },
     {
+      "id": "as76ek",
+      "title": "Highlighting My Code Based on How Much I Care",
+      "description": "Score: 90 | Comments: 49 | Posted by hankbond",
+      "url": "https://hank.bond/posts/highlighting-my-code-based-on-how-much-i-care/",
+      "publishedAt": "2026-08-28T22:29:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hankbond",
+      "tags": []
+    },
+    {
       "id": "ct4nph",
       "title": "Identifying fake cosmetics using AI",
       "description": "Score: 56 | Comments: 22 | Posted by wgrover",
@@ -146,6 +157,17 @@
       "tags": []
     },
     {
+      "id": "td1hab",
+      "title": "My hobby of building miniatures and taking pretty pictures",
+      "description": "Score: 205 | Comments: 33 | Posted by thecsw",
+      "url": "https://sandyuraz.com/blogs/tiny-cafe/",
+      "publishedAt": "2026-08-28T16:43:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thecsw",
+      "tags": []
+    },
+    {
       "id": "yo7x8f",
       "title": "Just the rumour of a bug is enough to find an exploit these days",
       "description": "Score: 98 | Comments: 31 | Posted by avsm",
@@ -176,6 +198,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "anorak27",
+      "tags": []
+    },
+    {
+      "id": "577op5",
+      "title": "It takes 5 cloud services to hear my doorbell",
+      "description": "Score: 201 | Comments: 198 | Posted by vghaisas",
+      "url": "https://blog.vghaisas.com/rube-goldberg-doorbell/",
+      "publishedAt": "2026-08-28T15:34:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vghaisas",
       "tags": []
     },
     {
@@ -319,6 +352,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "pseudolus",
+      "tags": []
+    },
+    {
+      "id": "gaiw67",
+      "title": "Show HN: NFC Energy-Harvesting PCB Business Card with an MCU",
+      "description": "Score: 192 | Comments: 21 | Posted by WilsonHarper",
+      "url": "https://wilsonharper.net/projects/businesscard/",
+      "publishedAt": "2026-08-28T13:48:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "WilsonHarper",
       "tags": []
     },
     {
@@ -572,6 +616,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "gbxyz",
+      "tags": []
+    },
+    {
+      "id": "bhqjmu",
+      "title": "Using floci to emulate Cloud platforms (GCP, AWS, Azure)",
+      "description": "Score: 12 | Comments: 2 | Posted by linkdd",
+      "url": "https://flowg.cloud/blog/using-floci-local-emulators",
+      "publishedAt": "2026-08-28T07:41:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "linkdd",
       "tags": []
     },
     {

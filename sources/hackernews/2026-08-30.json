@@ -3,6 +3,116 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "i0jwms",
+      "title": "How to build a diffusion language model",
+      "description": "Score: 124 | Comments: 15 | Posted by volodia",
+      "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/",
+      "publishedAt": "2026-08-30T23:41:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "volodia",
+      "tags": []
+    },
+    {
+      "id": "tdg9d1",
+      "title": "Matrox: Graphics for Professionals",
+      "description": "Score: 146 | Comments: 48 | Posted by BirAdam",
+      "url": "https://www.abortretry.fail/p/matrox",
+      "publishedAt": "2026-08-30T23:39:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "BirAdam",
+      "tags": []
+    },
+    {
+      "id": "su6cc5",
+      "title": "“I just chose words carefully”",
+      "description": "Score: 924 | Comments: 244 | Posted by zdw",
+      "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
+      "publishedAt": "2026-08-30T22:49:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "1uo3cp",
+      "title": "Continuous Diffusion Language Models (CDLM's)",
+      "description": "Score: 117 | Comments: 40 | Posted by peter_d_sherman",
+      "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
+      "publishedAt": "2026-08-30T20:46:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "peter_d_sherman",
+      "tags": []
+    },
+    {
+      "id": "8oyz8t",
+      "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
+      "description": "Score: 122 | Comments: 19 | Posted by pwg",
+      "url": "https://www.righto.com/2026/08/spacelab-core-memory.html",
+      "publishedAt": "2026-08-30T20:00:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pwg",
+      "tags": []
+    },
+    {
+      "id": "7lrvvx",
+      "title": "Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver",
+      "description": "Score: 116 | Comments: 40 | Posted by SillyUsername",
+      "url": "https://github.com/KodeMunkie/sm750hdmifb",
+      "publishedAt": "2026-08-30T18:49:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "SillyUsername",
+      "tags": []
+    },
+    {
+      "id": "e0te29",
+      "title": "Coordination Headwind: How Organizations Are Like Slime Molds",
+      "description": "Score: 168 | Comments: 47 | Posted by rzk",
+      "url": "https://komoroske.com/slime-mold/",
+      "publishedAt": "2026-08-30T16:03:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rzk",
+      "tags": []
+    },
+    {
+      "id": "4nicq4",
+      "title": "Haiku R1/beta6 has been released",
+      "description": "Score: 341 | Comments: 95 | Posted by metrofun",
+      "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
+      "publishedAt": "2026-08-30T16:01:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "metrofun",
+      "tags": []
+    },
+    {
+      "id": "34xh6b",
+      "title": "Zig: Pointer Stability for ArrayLists",
+      "description": "Score: 111 | Comments: 72 | Posted by tosh",
+      "url": "https://ziglang.org/devlog/2026/#2026-08-27",
+      "publishedAt": "2026-08-30T14:41:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tosh",
+      "tags": []
+    },
+    {
+      "id": "53yo9u",
+      "title": "Hacking IKEA Furniture",
+      "description": "Score: 336 | Comments: 248 | Posted by greenlightning",
+      "url": "https://greenlightning.eu/diy/hacking-ikea-furniture/",
+      "publishedAt": "2026-08-30T11:39:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "greenlightning",
+      "tags": []
+    },
+    {
       "id": "alx7xx",
       "title": "My fat loss experiments with ChatGPT and water fasting",
       "description": "Score: 11 | Comments: 7 | Posted by giis",

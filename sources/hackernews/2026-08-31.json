@@ -1,0 +1,303 @@
+{
+  "date": "2026-08-31",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "oum09p",
+      "title": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
+      "description": "Score: 4 | Comments: 0 | Posted by thm",
+      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+      "publishedAt": "2026-08-31T12:41:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thm",
+      "tags": []
+    },
+    {
+      "id": "neduw",
+      "title": "The British state has lost the argument",
+      "description": "Score: 12 | Comments: 1 | Posted by hackandthink",
+      "url": "https://jonathancook.substack.com/p/the-british-state-has-lost-the-argument",
+      "publishedAt": "2026-08-31T12:13:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hackandthink",
+      "tags": []
+    },
+    {
+      "id": "9p1bpx",
+      "title": "AI-Written Code Is Still *Your* Code. Are You OK with That?",
+      "description": "Score: 34 | Comments: 33 | Posted by martylamb",
+      "url": "https://martiansoftware.com/articles/ai-written-code-is-still-yours",
+      "publishedAt": "2026-08-31T12:08:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "martylamb",
+      "tags": []
+    },
+    {
+      "id": "zi5964",
+      "title": "I Think the Military Commissary's Freezers Were Hacked",
+      "description": "Score: 47 | Comments: 33 | Posted by jcurbo",
+      "url": "https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary",
+      "publishedAt": "2026-08-31T11:45:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jcurbo",
+      "tags": []
+    },
+    {
+      "id": "c1oyph",
+      "title": "What I Learned About AI Trust from Reconciling over 100B Transactions",
+      "description": "Score: 10 | Comments: 7 | Posted by Cellz",
+      "url": "https://engineering.moniepoint.com/what-i-learned-about-ai-trust-from-reconciling",
+      "publishedAt": "2026-08-31T11:34:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Cellz",
+      "tags": []
+    },
+    {
+      "id": "6469ex",
+      "title": "The Universe as a Minified Bundle",
+      "description": "Score: 3 | Comments: 1 | Posted by cs1996",
+      "url": "https://andrewarrow.dev/2026/moons/2/day/9/the-universe-as-a-minified-bundle/",
+      "publishedAt": "2026-08-31T11:24:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cs1996",
+      "tags": []
+    },
+    {
+      "id": "wh3wqs",
+      "title": "Agent Memory as a File Format",
+      "description": "Score: 26 | Comments: 19 | Posted by ingve",
+      "url": "https://calpaterson.com/memoryfields.html",
+      "publishedAt": "2026-08-31T11:17:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingve",
+      "tags": []
+    },
+    {
+      "id": "i2n5oe",
+      "title": "A CVE Dispute",
+      "description": "Score: 63 | Comments: 9 | Posted by theanonymousone",
+      "url": "https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/",
+      "publishedAt": "2026-08-31T11:13:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "theanonymousone",
+      "tags": []
+    },
+    {
+      "id": "njm02c",
+      "title": "OpenShot 4.0: Record, Edit, and Color Like Never Beforeopenshot.org",
+      "description": "Score: 185 | Comments: 53 | Posted by metrofun",
+      "url": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/",
+      "publishedAt": "2026-08-31T10:59:45.188Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "metrofun",
+      "tags": []
+    },
+    {
+      "id": "dv6s4b",
+      "title": "I built a hardware-bound local password vault hidden in a photo",
+      "description": "Score: 9 | Comments: 3 | Posted by BlindLock",
+      "url": "https://blindlock.app/en/",
+      "publishedAt": "2026-08-31T10:58:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "BlindLock",
+      "tags": []
+    },
+    {
+      "id": "p4zlwr",
+      "title": "The AI-Native SDLC Starts with Your Infrastructure",
+      "description": "Score: 6 | Comments: 0 | Posted by aviramha",
+      "url": "https://metalbear.com/blog/ai-native-sdlc-infrastructure/",
+      "publishedAt": "2026-08-31T10:57:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "aviramha",
+      "tags": []
+    },
+    {
+      "id": "xhurn7",
+      "title": "Malleable software = solid bases and custom code",
+      "description": "Score: 13 | Comments: 5 | Posted by tablet",
+      "url": "https://www.mdubakov.me/malleable-software-solid-bases-custom-code/",
+      "publishedAt": "2026-08-31T10:36:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tablet",
+      "tags": []
+    },
+    {
+      "id": "uq0qv0",
+      "title": "Show HN: Floe – an open-source plugin for sample libraries – CLAP/VST3/AU",
+      "description": "Score: 6 | Comments: 0 | Posted by windell",
+      "url": "https://floe.audio/",
+      "publishedAt": "2026-08-31T10:11:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "windell",
+      "tags": []
+    },
+    {
+      "id": "simp5o",
+      "title": "All CERN accelerators now on the road to HiLumi",
+      "description": "Score: 3 | Comments: 0 | Posted by ilreb",
+      "url": "https://home.cern/all-cern-accelerators-now-on-the-road-to-hilumi/",
+      "publishedAt": "2026-08-31T10:05:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ilreb",
+      "tags": []
+    },
+    {
+      "id": "njm02c",
+      "title": "OpenShot 4.0: Record, Edit, and Color Like Never Before",
+      "description": "Score: 185 | Comments: 54 | Posted by metrofun",
+      "url": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/",
+      "publishedAt": "2026-08-31T09:59:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "metrofun",
+      "tags": []
+    },
+    {
+      "id": "iq4e9i",
+      "title": "The startling 1960s theory that Stonehenge was a prehistoric computer",
+      "description": "Score: 9 | Comments: 2 | Posted by dabinat",
+      "url": "https://www.bbc.com/culture/article/20260828-the-startling-1960s-theory-that-stonehenge-was-a-prehistoric-computer",
+      "publishedAt": "2026-08-31T09:57:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dabinat",
+      "tags": []
+    },
+    {
+      "id": "3ztsr9",
+      "title": "Interviewing IBM's Christian Zoellin and Christian Jacobi",
+      "description": "Score: 3 | Comments: 0 | Posted by rbanffy",
+      "url": "https://chipsandcheese.com/p/hot-chips-2026-interviewing-ibms",
+      "publishedAt": "2026-08-31T09:31:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rbanffy",
+      "tags": []
+    },
+    {
+      "id": "25uurs",
+      "title": "Libertix installs Linux with 3 mouse clicks for Windows users",
+      "description": "Score: 5 | Comments: 2 | Posted by freechelmi",
+      "url": "https://ekimia.fr/libertix/",
+      "publishedAt": "2026-08-31T09:04:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "freechelmi",
+      "tags": []
+    },
+    {
+      "id": "y4k5ro",
+      "title": "State of the Map 2026: OpenStreetMap conference",
+      "description": "Score: 4 | Comments: 0 | Posted by altilunium",
+      "url": "https://povesham.wordpress.com/2026/08/30/state-of-the-map-2026-openstreetmap-conference/",
+      "publishedAt": "2026-08-31T08:57:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "altilunium",
+      "tags": []
+    },
+    {
+      "id": "s2roze",
+      "title": "Study: Blue light impairs the eye's ability to distinguish fine detail most",
+      "description": "Score: 16 | Comments: 13 | Posted by giuliomagnifico",
+      "url": "https://research.uga.edu/news/blue-light-has-a-surprising-effect-on-your-eyes-study-finds/",
+      "publishedAt": "2026-08-31T08:33:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "giuliomagnifico",
+      "tags": []
+    },
+    {
+      "id": "hg5z5x",
+      "title": "ReactOS 0.4.16",
+      "description": "Score: 11 | Comments: 0 | Posted by marttt",
+      "url": "https://reactos.org/project-news/reactos-0416-released/",
+      "publishedAt": "2026-08-31T08:13:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "marttt",
+      "tags": []
+    },
+    {
+      "id": "nevjq0",
+      "title": "Breaking Claude Code Opus 5 Auto Mode",
+      "description": "Score: 141 | Comments: 48 | Posted by Recursing",
+      "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
+      "publishedAt": "2026-08-31T07:49:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Recursing",
+      "tags": []
+    },
+    {
+      "id": "ytggek",
+      "title": "A 12TB Steam \"teraleak\" spills more than a decade of lost PC gaming history",
+      "description": "Score: 211 | Comments: 36 | Posted by WithinReason",
+      "url": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
+      "publishedAt": "2026-08-31T06:10:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "WithinReason",
+      "tags": []
+    },
+    {
+      "id": "t1l2j9",
+      "title": "uv: Deduplicate all files in the wheel cache",
+      "description": "Score: 86 | Comments: 23 | Posted by tosh",
+      "url": "https://github.com/astral-sh/uv/pull/21327",
+      "publishedAt": "2026-08-31T06:03:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tosh",
+      "tags": []
+    },
+    {
+      "id": "intchi",
+      "title": "OpenClaw 2.0, Accidentally",
+      "description": "Score: 119 | Comments: 138 | Posted by doppp",
+      "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
+      "publishedAt": "2026-08-31T03:38:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "doppp",
+      "tags": []
+    },
+    {
+      "id": "8hvffw",
+      "title": "P99 0 ms* autocomplete for 240M domain names",
+      "description": "Score: 162 | Comments: 69 | Posted by dbalatero",
+      "url": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
+      "publishedAt": "2026-08-31T03:20:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dbalatero",
+      "tags": []
+    },
+    {
+      "id": "fbwaek",
+      "title": "Understanding ChatGPT Work",
+      "description": "Score: 230 | Comments: 123 | Posted by gmays",
+      "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+      "publishedAt": "2026-08-31T01:28:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gmays",
+      "tags": []
+    }
+  ]
+}
