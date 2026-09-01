@@ -3,6 +3,127 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "7p2ub0",
+      "title": "Evidence of Fraud in an Influential Study About Procrastination",
+      "description": "Score: 257 | Comments: 175 | Posted by Anon84",
+      "url": "https://datacolada.org/138",
+      "publishedAt": "2026-08-31T23:45:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Anon84",
+      "tags": []
+    },
+    {
+      "id": "u1uarw",
+      "title": "Tmp.0ut Volume 5",
+      "description": "Score: 87 | Comments: 24 | Posted by ghuntley",
+      "url": "https://tmpout.sh/5/",
+      "publishedAt": "2026-08-31T23:26:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ghuntley",
+      "tags": []
+    },
+    {
+      "id": "wwo1hx",
+      "title": "Run macOS Software on Linux",
+      "description": "Score: 238 | Comments: 74 | Posted by Bluestein",
+      "url": "https://www.darlinghq.org/",
+      "publishedAt": "2026-08-31T22:53:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Bluestein",
+      "tags": []
+    },
+    {
+      "id": "f795ie",
+      "title": "Develop Cross-Platform CLI and GUI Tools with Tcl/Tk",
+      "description": "Score: 105 | Comments: 54 | Posted by aryonoco",
+      "url": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide",
+      "publishedAt": "2026-08-31T22:32:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "aryonoco",
+      "tags": []
+    },
+    {
+      "id": "u8h8j8",
+      "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
+      "description": "Score: 337 | Comments: 45 | Posted by keithcarolus",
+      "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
+      "publishedAt": "2026-08-31T18:21:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "keithcarolus",
+      "tags": []
+    },
+    {
+      "id": "5seu9n",
+      "title": "I turned my security cameras into an automatic bird identification system",
+      "description": "Score: 517 | Comments: 126 | Posted by speckx",
+      "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
+      "publishedAt": "2026-08-31T16:47:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
+      "tags": []
+    },
+    {
+      "id": "xjfgff",
+      "title": "RavynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
+      "description": "Score: 204 | Comments: 115 | Posted by Bluestein",
+      "url": "https://ravynos.com/",
+      "publishedAt": "2026-08-31T16:19:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Bluestein",
+      "tags": []
+    },
+    {
+      "id": "drzxvn",
+      "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
+      "description": "Score: 54 | Comments: 47 | Posted by kushagrchitkar",
+      "url": "https://usealmanac.com/",
+      "publishedAt": "2026-08-31T15:34:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kushagrchitkar",
+      "tags": []
+    },
+    {
+      "id": "i36rro",
+      "title": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
+      "description": "Score: 44 | Comments: 12 | Posted by kstonekuan",
+      "url": "https://github.com/Hebbian-Robotics/hflow",
+      "publishedAt": "2026-08-31T15:02:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kstonekuan",
+      "tags": []
+    },
+    {
+      "id": "8dn304",
+      "title": "Playa Phone",
+      "description": "Score: 645 | Comments: 212 | Posted by cutoff",
+      "url": "https://playaphone.com/",
+      "publishedAt": "2026-08-31T14:52:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cutoff",
+      "tags": []
+    },
+    {
+      "id": "p0awl5",
+      "title": "ChatGPT Work Tool and Skill Reference",
+      "description": "Score: 224 | Comments: 54 | Posted by ijidak",
+      "url": "https://codex-tool-reference.simonw.chatgpt.site/",
+      "publishedAt": "2026-08-31T14:07:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ijidak",
+      "tags": []
+    },
+    {
       "id": "oum09p",
       "title": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
       "description": "Score: 4 | Comments: 0 | Posted by thm",
@@ -267,6 +388,17 @@
       "tags": []
     },
     {
+      "id": "gorgdu",
+      "title": "Roget's Thesaurus",
+      "description": "Score: 19 | Comments: 2 | Posted by gregsadetsky",
+      "url": "https://artflsrv04.uchicago.edu/roget-thesaurus/",
+      "publishedAt": "2026-08-31T04:29:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gregsadetsky",
+      "tags": []
+    },
+    {
       "id": "intchi",
       "title": "OpenClaw 2.0, Accidentally",
       "description": "Score: 119 | Comments: 138 | Posted by doppp",
@@ -286,6 +418,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "dbalatero",
+      "tags": []
+    },
+    {
+      "id": "gowd04",
+      "title": "Transfer files over an Ethernet patch cable",
+      "description": "Score: 174 | Comments: 176 | Posted by jllyhill",
+      "url": "https://maurycyz.com/misc/etherfiles/",
+      "publishedAt": "2026-08-31T03:19:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jllyhill",
       "tags": []
     },
     {

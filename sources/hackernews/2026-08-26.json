@@ -25,6 +25,17 @@
       "tags": []
     },
     {
+      "id": "amityo",
+      "title": "Show HN: We built the smallest dual-band aircraft tracker",
+      "description": "Score: 86 | Comments: 22 | Posted by CoolNamesAllTkn",
+      "url": "https://pantsforbirds.com/the-worlds-smallest-dual-band-ads-b-receiver-module/",
+      "publishedAt": "2026-08-26T20:38:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "CoolNamesAllTkn",
+      "tags": []
+    },
+    {
       "id": "gnbk23",
       "title": "The Einstein-Szilard Refrigerator (2020)",
       "description": "Score: 39 | Comments: 11 | Posted by EndXA",
@@ -143,6 +154,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "Bluestein",
+      "tags": []
+    },
+    {
+      "id": "k4t2jh",
+      "title": "Visualizing Combos in Judo in R",
+      "description": "Score: 30 | Comments: 2 | Posted by asaiacai",
+      "url": "https://www.r-bloggers.com/2025/05/the-dynamics-of-the-gentle-way-exploring-judo-attack-combinations-as-networks-in-r/",
+      "publishedAt": "2026-08-26T09:21:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "asaiacai",
       "tags": []
     },
     {

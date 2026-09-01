@@ -3,6 +3,61 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "151507 at https://www.blognone.com",
+      "title": "Python รองรับสถาปัตยกรรม RISC-V ระดับ Tier 3 ออกเวอร์ชันใหม่ต่อเนื่อง",
+      "description": "Python รองรับสถาปัตยกรรม RISC-V ระดับ Tier 3 ออกเวอร์ชันใหม่ต่อเนื่อง Body Stan Ulbrych หนึ่งในนักพัฒนาหลักของภาษา Python ประกาศว่าได้ปรับสถานะของชิป",
+      "url": "https://www.blognone.com/node/151507",
+      "publishedAt": "2026-08-31T16:38:43.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151506 at https://www.blognone.com",
+      "title": "AMD ออก ROCm 10.0 ฉลองครบรอบ 10 ปี รองรับการพัฒนาซอฟต์แวร์บน GPU ด้วย AI",
+      "description": "AMD ออก ROCm 10.0 ฉลองครบรอบ 10 ปี รองรับการพัฒนาซอฟต์แวร์บน GPU ด้วย AI Body AMD ออก ROCm 10.0",
+      "url": "https://www.blognone.com/node/151506",
+      "publishedAt": "2026-08-31T16:15:02.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151505 at https://www.blognone.com",
+      "title": "โครงการ Curl โวย ผู้รายงานช่องโหว่เอาแต่อยากได้เลข CVE ไปโชว์ แม้บั๊กไม่เป็นช่องโหว่ความปลอดภัย",
+      "description": "โครงการ Curl โวย ผู้รายงานช่องโหว่เอาแต่อยากได้เลข CVE ไปโชว์ แม้บั๊กไม่เป็นช่องโหว่ความปลอดภัย Body Daniel Stenberg ผู้ดูแลโครงการ Curl",
+      "url": "https://www.blognone.com/node/151505",
+      "publishedAt": "2026-08-31T15:58:16.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151504 at https://www.blognone.com",
+      "title": "[ลือ] Apple เคยมีไอเดียทำ Apple Pencil สำหรับ iPhone Ultra จอพับด้วย",
+      "description": "[ลือ] Apple เคยมีไอเดียทำ Apple Pencil สำหรับ iPhone Ultra จอพับด้วย Body แอปเปิลจะ จัดงานเปิดตัวสินค้าใหม่ ในสัปดาห์หน้าซึ่งคาดว่าเป็น iPhone",
+      "url": "https://www.blognone.com/node/151504",
+      "publishedAt": "2026-08-31T13:06:16.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151503 at https://www.blognone.com",
+      "title": "Bluesky เพิ่มการตั้งค่าบัญชี ให้โพสต์สาธารณะ ไม่ถูกอัลกอริทึมหยิบไปแสดงในฟีดคนอื่นที่ไม่ได้ติดตาม",
+      "description": "Bluesky เพิ่มการตั้งค่าบัญชี ให้โพสต์สาธารณะ ไม่ถูกอัลกอริทึมหยิบไปแสดงในฟีดคนอื่นที่ไม่ได้ติดตาม Body",
+      "url": "https://www.blognone.com/node/151503",
+      "publishedAt": "2026-08-31T12:46:05.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "151502 at https://www.blognone.com",
       "title": "AWS เข้าซื้อ DuckLabs ผู้พัฒนา DuckDB ยืนยันโครงการเป็นโอเพนซอร์สต่อไป",
       "description": "AWS เข้าซื้อ DuckLabs ผู้พัฒนา DuckDB ยืนยันโครงการเป็นโอเพนซอร์สต่อไป Body Amazon ประกาศเข้าซื้อ DuckLabs ผู้พัฒนาฐานข้อมูลแบบ analytics ในชื่อ",
