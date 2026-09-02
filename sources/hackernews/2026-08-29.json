@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "de3vry",
+      "title": "Laurie Anderson’s next manuscript to be locked away for 88 years",
+      "description": "Score: 34 | Comments: 21 | Posted by mitchbob",
+      "url": "https://www.theguardian.com/books/2026/aug/29/laurie-anderson-manuscript-88-years-future-library-oslo",
+      "publishedAt": "2026-08-29T23:51:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mitchbob",
+      "tags": []
+    },
+    {
       "id": "pekb09",
       "title": "The Rise and Fall of Agent Civilizations",
       "description": "Score: 127 | Comments: 71 | Posted by consumer451",
@@ -11,6 +22,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "consumer451",
+      "tags": []
+    },
+    {
+      "id": "1yvmuq",
+      "title": "Open Battery Information",
+      "description": "Score: 11 | Comments: 2 | Posted by toomuchtodo",
+      "url": "https://github.com/mnh-jansson/open-battery-information",
+      "publishedAt": "2026-08-29T23:27:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "toomuchtodo",
       "tags": []
     },
     {
@@ -157,6 +179,17 @@
       "tags": []
     },
     {
+      "id": "r0t6gb",
+      "title": "Magic eye tube",
+      "description": "Score: 93 | Comments: 25 | Posted by peter_d_sherman",
+      "url": "https://en.wikipedia.org/wiki/Magic_eye_tube",
+      "publishedAt": "2026-08-29T15:03:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "peter_d_sherman",
+      "tags": []
+    },
+    {
       "id": "4e9ek7",
       "title": "Show HN: Laser Graffiti",
       "description": "Score: 200 | Comments: 42 | Posted by con",
@@ -165,6 +198,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "con",
+      "tags": []
+    },
+    {
+      "id": "v758uq",
+      "title": "Building Autonomous Goal Loops That Deliver",
+      "description": "Score: 45 | Comments: 8 | Posted by jarredkenny",
+      "url": "https://jx0.ca/building-autonomous-goal-loops-that-deliver/",
+      "publishedAt": "2026-08-29T11:49:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jarredkenny",
       "tags": []
     },
     {
@@ -187,6 +231,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "tosh",
+      "tags": []
+    },
+    {
+      "id": "k8v7zw",
+      "title": "How bicycle coaster brakes work (2018)",
+      "description": "Score: 68 | Comments: 55 | Posted by Vedor",
+      "url": "https://www.dougbarnesauthor.com/2018/06/how-bicycle-coaster-brakes-work.html",
+      "publishedAt": "2026-08-29T09:05:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Vedor",
       "tags": []
     },
     {

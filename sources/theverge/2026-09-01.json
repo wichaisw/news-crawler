@@ -3,6 +3,54 @@
   "source": "theverge",
   "articles": [
     {
+      "id": "djjji2",
+      "title": "Google needs Hollywood more than the studios need AI",
+      "description": "Google has reportedly been reaching out to a number of Hollywood's biggest studios, hoping to strike licensing agreements that would allow it to train its AI models on copyrighted material in exchange for massive piles of cash. In theory, these deals would be a win-win: a huge financial boon to the studios that would also [&#8230;]",
+      "url": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ai-label-3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-09-01T22:50:29.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Charles Pulliam-Moore",
+      "tags": []
+    },
+    {
+      "id": "a6fu0l",
+      "title": "Anthropic launches Claude Fable 5.1 and says it's up to 45 percent cheaper for agentic work",
+      "description": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealous safeguards. The company claims Claude Fable 5.1 offers stronger performance than Fable 5, but costs around 25 percent less typically and up to 45 percent less for complex agentic tasks, thanks to reduced pricing [&#8230;]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-09-01T22:01:36.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Stevie Bonifield",
+      "tags": []
+    },
+    {
+      "id": "c91rl6",
+      "title": "Apple Maps follows Google in renaming Lake Ontario",
+      "description": "Apple Maps has officially changed the name of Lake Ontario to Lake America, as reported earlier by Bloomberg. The company joins Google in re-labeling the Great Lake following an executive order signed by President Donald Trump in the midst of a trade dispute with Canada. The Canadian version of Apple Maps still shows \"Lake Ontario\" [&#8230;]",
+      "url": "https://www.theverge.com/tech/987784/apple-maps-lake-america-renaming",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/apple-maps-lake-america.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-09-01T21:22:56.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Emma Roth",
+      "tags": []
+    },
+    {
+      "id": "d1tmv1",
+      "title": "Lenovo's 2-in-1 Yoga 7i is a great Labor Day deal at $750",
+      "description": "Best Buy is celebrating Labor Day all week long with big deals, including a deep discount on the Lenovo Yoga 7i 2-in-1, taking its original $1,1199.99 price down to $749.99. It’s a capable configuration for the price, with a Core 7 Ultra 256V processor, 16GB of LPDDR5X memory, and a 512GB SSD. The IPS touchscreen [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/987670/lenovo-yoga-7i-2in1-deal-sale",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Lenovo-Yoga-7i-2in1-breakout-2.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-09-01T20:54:08.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Brad Bourque",
+      "tags": []
+    },
+    {
       "id": "9fy29z",
       "title": "Tim Cook’s Apple: his 10 biggest wins and misses",
       "description": "Expectations for Tim Cook were almost impossibly high when he stepped in to replace Apple's visionary co-founder in 2011. He inherited a company on a blockbuster run, after Steve Jobs returned and revitalized the Mac, launched the iPod, and oversaw the launch of the iPhone. Now, after 15 years in the CEO role, Tim Cook [&#8230;]",
