@@ -58,6 +58,17 @@
       "tags": []
     },
     {
+      "id": "7yyxiw",
+      "title": "Show HN: OwnTime – a chess clock for your day's priorities",
+      "description": "Score: 84 | Comments: 44 | Posted by fmos",
+      "url": "https://owntime.app/",
+      "publishedAt": "2026-09-01T21:29:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fmos",
+      "tags": []
+    },
+    {
       "id": "8kxio8",
       "title": "Fluorescent lamps (don't) have ears",
       "description": "Score: 40 | Comments: 9 | Posted by zdw",
@@ -245,6 +256,17 @@
       "tags": []
     },
     {
+      "id": "m46o09",
+      "title": "The Browser's Main Thread Is Expensive",
+      "description": "Score: 87 | Comments: 30 | Posted by kciter",
+      "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
+      "publishedAt": "2026-09-01T14:00:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kciter",
+      "tags": []
+    },
+    {
       "id": "kp1q53",
       "title": "Introducing Ad Blocker for Firefox on iOS",
       "description": "Score: 493 | Comments: 166 | Posted by HieronymusBosch",
@@ -256,6 +278,17 @@
       "tags": []
     },
     {
+      "id": "mh0pn6",
+      "title": "We could save petabytes of cache storage with Zstandard and Pingora",
+      "description": "Score: 115 | Comments: 48 | Posted by torutofu",
+      "url": "https://blog.cloudflare.com/cache-transcoding/",
+      "publishedAt": "2026-09-01T13:41:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "torutofu",
+      "tags": []
+    },
+    {
       "id": "v27dgu",
       "title": "Io_uring Without Readahead",
       "description": "Score: 113 | Comments: 35 | Posted by porridgeraisin",
@@ -264,6 +297,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "porridgeraisin",
+      "tags": []
+    },
+    {
+      "id": "4ysvyp",
+      "title": "Engineering of the fastest WebAssembly interpreters",
+      "description": "Score: 101 | Comments: 8 | Posted by herobird",
+      "url": "https://wasmi-labs.github.io/blog/posts/wasmi-v2.0/",
+      "publishedAt": "2026-09-01T12:25:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "herobird",
       "tags": []
     },
     {
@@ -308,6 +352,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "BearBest",
+      "tags": []
+    },
+    {
+      "id": "wsnqkl",
+      "title": "Higher Multipoles of the Cow",
+      "description": "Score: 78 | Comments: 23 | Posted by MrOrelliOReilly",
+      "url": "https://arxiv.org/abs/2504.00506",
+      "publishedAt": "2026-09-01T09:27:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "MrOrelliOReilly",
       "tags": []
     },
     {
@@ -385,6 +440,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jombib",
+      "tags": []
+    },
+    {
+      "id": "m5d6of",
+      "title": "Wendell Berry has died",
+      "description": "Score: 193 | Comments: 99 | Posted by Curiositry",
+      "url": "https://www.nytimes.com/2026/08/31/us/wendell-berry-dead.html",
+      "publishedAt": "2026-09-01T01:49:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Curiositry",
       "tags": []
     },
     {

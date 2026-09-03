@@ -3,6 +3,51 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "151524 at https://www.blognone.com",
+      "title": "กูเกิลเปิดตัว Gemini 3.8 Flash เทียบชั้น Claude Opus 5 พร้อมรุ่น Cyber สำหรับงานความปลอดภัย",
+      "description": "กูเกิลเปิดตัว Gemini 3.8 Flash เทียบชั้น Claude Opus 5 พร้อมรุ่น Cyber สำหรับงานความปลอดภัย Body กูเกิลอัปเดตโมเดล Gemini 3.8 Flash",
+      "url": "https://www.blognone.com/node/151524",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2026/2026-09/gemini-3.8-flash-evals-table_l.width-2000.format-webp_66o8lls.webp",
+      "publishedAt": "2026-09-02T16:39:06.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151521 at https://www.blognone.com",
+      "title": "OpenAI รายงานความก้าวหน้าโมเดล Astra ระบุความสามารถการเจาะระบบทำได้ดีมาก จึงเพิ่ม safeguard ที่เข้มงวดยิ่งขึ้น",
+      "description": "OpenAI รายงานความก้าวหน้าโมเดล Astra ระบุความสามารถการเจาะระบบทำได้ดีมาก จึงเพิ่ม safeguard ที่เข้มงวดยิ่งขึ้น Body OpenAI",
+      "url": "https://www.blognone.com/node/151521",
+      "publishedAt": "2026-09-02T13:45:00.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151522 at https://www.blognone.com",
+      "title": "เกมเก่าเราไม่ทิ้ง Mario Kart 8 Deluxe อัปเดตรองรับฟีเจอร์ Switch 2 เล่นพร้อมกันสูงสุด 8 คน",
+      "description": "เกมเก่าเราไม่ทิ้ง Mario Kart 8 Deluxe อัปเดตรองรับฟีเจอร์ Switch 2 เล่นพร้อมกันสูงสุด 8 คน Body นินเทนโดออกอัปเดตให้เกม Mario Kart 8 Deluxe เวอร์ชัน",
+      "url": "https://www.blognone.com/node/151522",
+      "publishedAt": "2026-09-02T12:31:31.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151518 at https://www.blognone.com",
+      "title": "Dyson เปิดตัว CameraJet แปรงสีฟันไฟฟ้ามีกล้องและหัวฉีดน้ำยาอัตโนมัติพลัง AI ราคา 1.6 หมื่นบาท",
+      "description": "Dyson เปิดตัว CameraJet แปรงสีฟันไฟฟ้ามีกล้องและหัวฉีดน้ำยาอัตโนมัติพลัง AI ราคา 1.6 หมื่นบาท Body Dyson เข้าสู่วงการแปรงสีฟันไฟฟ้าด้วยการเปิดตัว",
+      "url": "https://www.blognone.com/node/151518",
+      "publishedAt": "2026-09-02T11:34:05.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "151517 at https://www.blognone.com",
       "title": "Firefox บน iOS อัปเดตเพิ่ม Ad Blocker ติดตั้งมาในตัว",
       "description": "Firefox บน iOS อัปเดตเพิ่ม Ad Blocker ติดตั้งมาในตัว Body Mozilla อัปเดตเบราว์เซอร์ Firefox เวอร์ชัน iOS โดยมีตัวบล็อกโฆษณาหรือ Ad Blocker",

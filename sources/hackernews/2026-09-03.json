@@ -1,0 +1,105 @@
+{
+  "date": "2026-09-03",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "hu46po",
+      "title": "Japan halves speed limit to 30km/h on all narrow city streets",
+      "description": "Score: 35 | Comments: 18 | Posted by haunter",
+      "url": "https://www.theguardian.com/world/2026/sep/02/japan-new-speed-limit-30kmh-narrow-city-streets",
+      "publishedAt": "2026-09-03T09:21:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "haunter",
+      "tags": []
+    },
+    {
+      "id": "6szvth",
+      "title": "Kids go from curious to frustrated playing with AI-stuffed toys, UW study finds",
+      "description": "Score: 6 | Comments: 6 | Posted by 01-_-",
+      "url": "https://www.geekwire.com/2026/kids-go-from-curious-to-frustrated-playing-with-ai-stuffed-toys-uw-study-finds/",
+      "publishedAt": "2026-09-03T08:20:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "01-_-",
+      "tags": []
+    },
+    {
+      "id": "lu1kkw",
+      "title": "Denmark versus UK: which country gets more health for their money?",
+      "description": "Score: 13 | Comments: 1 | Posted by zeristor",
+      "url": "https://theconversation.com/denmark-versus-uk-which-country-gets-more-health-for-their-money-276937",
+      "publishedAt": "2026-09-03T08:07:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zeristor",
+      "tags": []
+    },
+    {
+      "id": "m46o09",
+      "title": "The Browser's Main Thread Is Expensivekciter.so",
+      "description": "Score: 87 | Comments: 30 | Posted by kciter",
+      "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
+      "publishedAt": "2026-09-03T07:51:07.701Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kciter",
+      "tags": []
+    },
+    {
+      "id": "pqinar",
+      "title": "Pre-Release of Polars 2.0pola.rs",
+      "description": "Score: 179 | Comments: 34 | Posted by komape",
+      "url": "https://pola.rs/posts/announcing-polars-2/",
+      "publishedAt": "2026-09-03T07:51:07.697Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "komape",
+      "tags": []
+    },
+    {
+      "id": "gyjtv",
+      "title": "Syria, eyeing role as Middle East hub, offers options to bypass Hormuz",
+      "description": "Score: 15 | Comments: 4 | Posted by divbzero",
+      "url": "https://www.washingtonpost.com/world/2026/09/02/syria-eyeing-role-middle-east-hub-offers-options-bypass-hormuz/",
+      "publishedAt": "2026-09-03T07:32:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "divbzero",
+      "tags": []
+    },
+    {
+      "id": "wzz3t2",
+      "title": "Three schoolgirls in Kinsale pulled up a pea plant covered in warts (2016)",
+      "description": "Score: 64 | Comments: 22 | Posted by DamonHD",
+      "url": "https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/",
+      "publishedAt": "2026-09-03T07:04:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "DamonHD",
+      "tags": []
+    },
+    {
+      "id": "pqinar",
+      "title": "Pre-Release of Polars 2.0",
+      "description": "Score: 179 | Comments: 35 | Posted by komape",
+      "url": "https://pola.rs/posts/announcing-polars-2/",
+      "publishedAt": "2026-09-03T06:59:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "komape",
+      "tags": []
+    },
+    {
+      "id": "2cx6sa",
+      "title": "Show HN: The cheapest GPU cloud – H100s at $2.04/HR, H200s at $3/HR",
+      "description": "Score: 26 | Comments: 7 | Posted by EmiCorleone",
+      "url": "https://compute.cheap/",
+      "publishedAt": "2026-09-03T02:50:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "EmiCorleone",
+      "tags": []
+    }
+  ]
+}

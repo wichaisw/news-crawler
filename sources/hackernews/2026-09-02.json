@@ -3,6 +3,237 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "idvopp",
+      "title": "Reasons robotics is hard",
+      "description": "Score: 102 | Comments: 56 | Posted by ddp26",
+      "url": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard",
+      "publishedAt": "2026-09-02T22:02:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ddp26",
+      "tags": []
+    },
+    {
+      "id": "99nz8k",
+      "title": "Altair Basic Interpreter Source Code (1975) [pdf]",
+      "description": "Score: 61 | Comments: 34 | Posted by Eridanus2",
+      "url": "https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf",
+      "publishedAt": "2026-09-02T20:08:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Eridanus2",
+      "tags": []
+    },
+    {
+      "id": "iadhu6",
+      "title": "The Silo · interactive 3D cutaway",
+      "description": "Score: 60 | Comments: 11 | Posted by duck",
+      "url": "https://3dscenes.qualityf2p.workers.dev/silo",
+      "publishedAt": "2026-09-02T19:59:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "duck",
+      "tags": []
+    },
+    {
+      "id": "t8t3vb",
+      "title": "I wanna live an NPC life",
+      "description": "Score: 260 | Comments: 223 | Posted by conferza",
+      "url": "https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/",
+      "publishedAt": "2026-09-02T19:52:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "conferza",
+      "tags": []
+    },
+    {
+      "id": "3bygpb",
+      "title": "Fable 5.1 World Modeling",
+      "description": "Score: 264 | Comments: 77 | Posted by surreal_",
+      "url": "https://github.com/PhiloLabs/fable51-worlds",
+      "publishedAt": "2026-09-02T19:49:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surreal_",
+      "tags": []
+    },
+    {
+      "id": "fzl6gz",
+      "title": "Muse Spark 1.3",
+      "description": "Score: 594 | Comments: 391 | Posted by bvaldivielso",
+      "url": "https://developer.meta.com/ai/models/muse-spark/",
+      "publishedAt": "2026-09-02T19:35:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bvaldivielso",
+      "tags": []
+    },
+    {
+      "id": "cchxd1",
+      "title": "Qantas Airbus A380 engine failure in 2010 (2023)",
+      "description": "Score: 145 | Comments: 88 | Posted by gumby",
+      "url": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
+      "publishedAt": "2026-09-02T18:42:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gumby",
+      "tags": []
+    },
+    {
+      "id": "q55b3i",
+      "title": "Async Rust vs RTOS showdown (2022)",
+      "description": "Score: 97 | Comments: 44 | Posted by kooi",
+      "url": "https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/",
+      "publishedAt": "2026-09-02T18:32:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kooi",
+      "tags": []
+    },
+    {
+      "id": "a4nrv2",
+      "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "description": "Score: 1038 | Comments: 578 | Posted by bratao",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+      "publishedAt": "2026-09-02T15:12:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bratao",
+      "tags": []
+    },
+    {
+      "id": "2rkv4g",
+      "title": "Google avoids a breakup of its ad tech business",
+      "description": "Score: 400 | Comments: 284 | Posted by donohoe",
+      "url": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
+      "publishedAt": "2026-09-02T14:46:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "donohoe",
+      "tags": []
+    },
+    {
+      "id": "fgqcv5",
+      "title": "Exit the Cave",
+      "description": "Score: 269 | Comments: 95 | Posted by akkartik",
+      "url": "https://turtlespace.blog/p/exit-the-cave",
+      "publishedAt": "2026-09-02T14:16:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "akkartik",
+      "tags": []
+    },
+    {
+      "id": "tb4kg",
+      "title": "WebLLM: high-performance in-browser LLM inference engine",
+      "description": "Score: 125 | Comments: 21 | Posted by saikatsg",
+      "url": "https://github.com/mlc-ai/web-llm",
+      "publishedAt": "2026-09-02T14:02:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "saikatsg",
+      "tags": []
+    },
+    {
+      "id": "ue919f",
+      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+      "description": "Score: 433 | Comments: 208 | Posted by jakobgreenfeld",
+      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+      "publishedAt": "2026-09-02T13:59:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jakobgreenfeld",
+      "tags": []
+    },
+    {
+      "id": "2rrn95",
+      "title": "Poisson Disk Sampling",
+      "description": "Score: 170 | Comments: 21 | Posted by vismit2000",
+      "url": "https://stripeacross.com/posts/poisson-disk-sampling/",
+      "publishedAt": "2026-09-02T13:47:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vismit2000",
+      "tags": []
+    },
+    {
+      "id": "zgcm2g",
+      "title": "Six curl CVEs after OpenAI and Anthropic came back with zero",
+      "description": "Score: 169 | Comments: 56 | Posted by goobreee",
+      "url": "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero",
+      "publishedAt": "2026-09-02T13:43:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "goobreee",
+      "tags": []
+    },
+    {
+      "id": "62voq2",
+      "title": "Biggest dark matter detector spots a single weird particle",
+      "description": "Score: 304 | Comments: 105 | Posted by randycupertino",
+      "url": "https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle",
+      "publishedAt": "2026-09-02T13:40:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "randycupertino",
+      "tags": []
+    },
+    {
+      "id": "kq9y55",
+      "title": "A note on subscription prices from LWN",
+      "description": "Score: 706 | Comments: 144 | Posted by rwky",
+      "url": "https://lwn.net/Articles/1090585/",
+      "publishedAt": "2026-09-02T13:17:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rwky",
+      "tags": []
+    },
+    {
+      "id": "uyzr9b",
+      "title": "LLMs: Intelligence vs. Cost",
+      "description": "Score: 85 | Comments: 39 | Posted by theanonymousone",
+      "url": "https://openteams.com/intelligence-vs-cost/",
+      "publishedAt": "2026-09-02T13:03:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "theanonymousone",
+      "tags": []
+    },
+    {
+      "id": "n5yd41",
+      "title": "Aging brains blend memories together instead of just forgetting them",
+      "description": "Score: 292 | Comments: 119 | Posted by mdp2021",
+      "url": "https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/",
+      "publishedAt": "2026-09-02T12:59:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mdp2021",
+      "tags": []
+    },
+    {
+      "id": "a0lm7c",
+      "title": "Can I opt out of my input or output data being used for training?",
+      "description": "Score: 451 | Comments: 205 | Posted by teekert",
+      "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+      "publishedAt": "2026-09-02T12:30:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "teekert",
+      "tags": []
+    },
+    {
+      "id": "s175s4",
+      "title": "Quasar 438B: Europe's Leading AI Model",
+      "description": "Score: 181 | Comments: 113 | Posted by amunozo",
+      "url": "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model",
+      "publishedAt": "2026-09-02T10:02:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "amunozo",
+      "tags": []
+    },
+    {
       "id": "tfl0t",
       "title": "Commodore 64 released September 1, 1982dfarq.homeip.net",
       "description": "Score: 83 | Comments: 15 | Posted by giuliomagnifico",
@@ -110,6 +341,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ptrhvns",
+      "tags": []
+    },
+    {
+      "id": "xkxx6x",
+      "title": "LLMs and Self-Referentiality",
+      "description": "Score: 55 | Comments: 57 | Posted by mavdol04",
+      "url": "https://scottaaronson.blog/?p=10046",
+      "publishedAt": "2026-09-02T00:20:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mavdol04",
       "tags": []
     }
   ]
