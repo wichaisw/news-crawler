@@ -1,0 +1,102 @@
+{
+  "date": "2026-09-04",
+  "source": "theverge",
+  "articles": [
+    {
+      "id": "qpohbe",
+      "title": "Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers",
+      "description": "Microsoft is giving its developer-optimized Windows experience a name: Project Zenith. While the software maker originally announced a similar developer-optimized Windows effort at Build earlier this year, Project Zenith is designed for new developer-focused devices with 64GB or more of unified memory. \"Project Zenith devices come with a preconfigured Windows setup for development and a [&#8230;]",
+      "url": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/projectzenith.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-09-04T10:44:15.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Tom Warren",
+      "tags": []
+    },
+    {
+      "id": "nl8k3m",
+      "title": "Sam Altman apologizes for 'messy' GPT-6 Astra rollout that’s locked out paying users",
+      "description": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new frontier model were left waiting. The company hailed the model as a \"generational leap in capability\" on Thursday and described it as the start of \"the [&#8230;]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285138968.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-09-04T10:41:48.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Robert Hart",
+      "tags": []
+    },
+    {
+      "id": "5tjx11",
+      "title": "This NAS company wants to run your local smart home",
+      "description": "Ugreen, known for its phone power banks, chargers, and NAS storage solutions, is moving into the smart home - in a big way. This week at the IFA tech show, the company launched its HomeAgent smart home platform that combines security camera storage, on-device AI, and smart home control in one system, managed by a [&#8230;]",
+      "url": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/LR6B5640.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-09-04T09:41:44.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Jennifer Pattison Tuohy",
+      "tags": []
+    },
+    {
+      "id": "eqzu5w",
+      "title": "Lexar’s Muse is an ultra-slim portable SSD that’s less than 4mm thick",
+      "description": "Following the lead of companies like Xteink, Lexar is the latest to sacrifice a USB-C port in the pursuit of slimming down its hardware. When the Lexar Muse Ultra-Slim Portable SSD launches later this year in 512GB and 1TB capacities it will be one of the slimmest you can buy. At its thickest point in [&#8230;]",
+      "url": "https://www.theverge.com/tech/986960/lexar-muse-ultra-thin-ssd-storage-drive-proprietary-cable",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/lexarmuse1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-09-04T07:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Andrew Liszewski",
+      "tags": []
+    },
+    {
+      "id": "rb90hf",
+      "title": "Aqara goes all in on smart lighting",
+      "description": "After showing off several smart home firsts at CES, Aqara has returned to IFA with a major lineup of smart lighting compatible with both Zigbee and Thread. One of these new devices is the Floor Lamp T1, which trades the look of a typical lamp for an LED-equipped pole attached to a base. The lamp [&#8230;]",
+      "url": "https://www.theverge.com/tech/989581/aqara-smart-lighting-ifa-2026",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Floor-Lamp-T1-Image_1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-09-04T07:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Emma Roth",
+      "tags": []
+    },
+    {
+      "id": "kikbff",
+      "title": "This rugged phone’s removable camera can survive and capture your extreme adventures",
+      "description": "RugOne's Xsnap 7 Pro comes with both an IP68 and IP69K rating, meaning the rugged phone can survive intense water blasts and complete submersion for up to 30 minutes. But what really sets the Xsnap 7 Pro apart from everything else on the market is that one of its three rear cameras can be removed [&#8230;]",
+      "url": "https://www.theverge.com/tech/989657/rugone-xsnap-7-pro-smartphone-removable-action-camera-rugged-waterproof",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/rugone1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-09-04T07:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Andrew Liszewski",
+      "tags": []
+    },
+    {
+      "id": "pvuqux",
+      "title": "Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control",
+      "description": "Officially, Nvidia's controversial DLSS 5 AI rendering was supposed to launch this evening with only a single game, only on Nvidia's latest RTX 50 GPUs, and with developers in full control of their artistic vision. But unofficially, modders have already ported a leaked version of DLSS 5 to run on just about anything while cranking [&#8230;]",
+      "url": "https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25256536/246993_Nvidia_RTX_4080_Super_TWarren_0002.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-09-04T01:49:25.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Sean Hollister",
+      "tags": []
+    },
+    {
+      "id": "endzda",
+      "title": "The unusually muted Tesla Cybercab launch",
+      "description": "At a private, closed-door event in Austin, Texas today, Tesla officially launched its gilded car of the future: the Cybercab. It's a huge milestone for Elon Musk, who has been hyping the imminent arrival of driverless cars for years and has bet the future of his company on AI, autonomous vehicles, and humanoid robots. It [&#8230;]",
+      "url": "https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2265246421.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-09-04T00:25:06.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Andrew J. Hawkins",
+      "tags": []
+    }
+  ]
+}

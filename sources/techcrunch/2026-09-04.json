@@ -1,0 +1,28 @@
+{
+  "date": "2026-09-04",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3160707",
+      "title": "The sameness problem behind those unappetizing AI-generated menus",
+      "description": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong",
+      "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+      "publishedAt": "2026-09-04T04:21:03.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Amanda Silberling",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3160771",
+      "title": "Crusoe reportedly raises $3B at a  $30B valuation",
+      "description": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
+      "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+      "publishedAt": "2026-09-04T00:48:42.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Marina Temkin",
+      "tags": []
+    }
+  ]
+}

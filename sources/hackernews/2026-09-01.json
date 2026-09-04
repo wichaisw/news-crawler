@@ -91,6 +91,17 @@
       "tags": []
     },
     {
+      "id": "tkjazk",
+      "title": "A PCB business card with a batteryless LED, powered by the phone that taps it",
+      "description": "Score: 83 | Comments: 22 | Posted by thekevintang",
+      "url": "https://www.kevin.md/the-business-card-that-lights-up.md/",
+      "publishedAt": "2026-09-01T20:46:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thekevintang",
+      "tags": []
+    },
+    {
       "id": "udr4u8",
       "title": "Hang on to Your Firefox",
       "description": "Score: 839 | Comments: 430 | Posted by speckx",
@@ -135,6 +146,17 @@
       "tags": []
     },
     {
+      "id": "iyitqp",
+      "title": "The largest electric aircraft just flew [video]",
+      "description": "Score: 344 | Comments: 235 | Posted by feb",
+      "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
+      "publishedAt": "2026-09-01T19:02:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "feb",
+      "tags": []
+    },
+    {
       "id": "n97n9w",
       "title": "Claude Fable 5.1 and Claude Mythos 5.1anthropic.com",
       "description": "Score: 1263 | Comments: 1188 | Posted by denysvitali",
@@ -143,6 +165,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "denysvitali",
+      "tags": []
+    },
+    {
+      "id": "1k9hyi",
+      "title": "Xanadu was waiting for agents",
+      "description": "Score: 125 | Comments: 53 | Posted by nsm",
+      "url": "https://zed.dev/blog/agentic-xanadu",
+      "publishedAt": "2026-09-01T18:50:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nsm",
       "tags": []
     },
     {
@@ -256,6 +289,28 @@
       "tags": []
     },
     {
+      "id": "yglg24",
+      "title": "Virtual Threads for a scripting language in Java 8 without Loom",
+      "description": "Score: 33 | Comments: 3 | Posted by jaccomo",
+      "url": "https://jactl.io/blog/2026/08/28/jactl-virtual-threads",
+      "publishedAt": "2026-09-01T14:36:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jaccomo",
+      "tags": []
+    },
+    {
+      "id": "f9gsqp",
+      "title": "Authorization terminology is a mess: Let's fix it",
+      "description": "Score: 53 | Comments: 25 | Posted by andychiare",
+      "url": "https://idpro.org/authorization-terminology-is-a-mess-lets-fix-it/",
+      "publishedAt": "2026-09-01T14:18:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andychiare",
+      "tags": []
+    },
+    {
       "id": "m46o09",
       "title": "The Browser's Main Thread Is Expensive",
       "description": "Score: 87 | Comments: 30 | Posted by kciter",
@@ -300,6 +355,28 @@
       "tags": []
     },
     {
+      "id": "4bjvdk",
+      "title": "Move in C++ without a std:move",
+      "description": "Score: 47 | Comments: 59 | Posted by dalvrosa",
+      "url": "https://andreasfertig.com/blog/2026/09/move-in-cpp-without-a-stdmove/",
+      "publishedAt": "2026-09-01T13:17:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dalvrosa",
+      "tags": []
+    },
+    {
+      "id": "p4f1wz",
+      "title": "Invisible Companies",
+      "description": "Score: 174 | Comments: 65 | Posted by ltononro",
+      "url": "https://colossus.com/article/invisible-companies/",
+      "publishedAt": "2026-09-01T12:48:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ltononro",
+      "tags": []
+    },
+    {
       "id": "4ysvyp",
       "title": "Engineering of the fastest WebAssembly interpreters",
       "description": "Score: 101 | Comments: 8 | Posted by herobird",
@@ -308,6 +385,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "herobird",
+      "tags": []
+    },
+    {
+      "id": "5xzzsn",
+      "title": "In defense of two-state theme toggles",
+      "description": "Score: 11 | Comments: 20 | Posted by surprisetalk",
+      "url": "https://joshcollinsworth.com/blog/in-defense-of-two-state-theme-toggles",
+      "publishedAt": "2026-09-01T12:20:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
+      "id": "z4rm9b",
+      "title": "Welcome to the Porcelain Insulator Collector's World of Mud",
+      "description": "Score: 9 | Comments: 2 | Posted by ripe",
+      "url": "https://www.insulators.info/porcelain/",
+      "publishedAt": "2026-09-01T11:06:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ripe",
       "tags": []
     },
     {
