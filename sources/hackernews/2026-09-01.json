@@ -36,6 +36,17 @@
       "tags": []
     },
     {
+      "id": "f8ddd4",
+      "title": "Decompiler Explorer",
+      "description": "Score: 88 | Comments: 5 | Posted by tripdout",
+      "url": "https://dogbolt.org",
+      "publishedAt": "2026-09-01T22:33:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tripdout",
+      "tags": []
+    },
+    {
       "id": "mly3fk",
       "title": "My local model setup on an M4 Pro Mac Mini",
       "description": "Score: 215 | Comments: 131 | Posted by raybb",
@@ -66,6 +77,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "fmos",
+      "tags": []
+    },
+    {
+      "id": "t5nynb",
+      "title": "Bugs happen: The easy way to compare solo PQ to ECC+PQ",
+      "description": "Score: 18 | Comments: 7 | Posted by zdw",
+      "url": "https://blog.cr.yp.to/20260704-bugs.html",
+      "publishedAt": "2026-09-01T21:27:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
       "tags": []
     },
     {
@@ -143,6 +165,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jwise0",
+      "tags": []
+    },
+    {
+      "id": "tla875",
+      "title": "Getting Started with AT Protocol",
+      "description": "Score: 77 | Comments: 25 | Posted by evakhoury",
+      "url": "https://bnb.im/posts/atproto-essential-resources/",
+      "publishedAt": "2026-09-01T19:48:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "evakhoury",
       "tags": []
     },
     {
@@ -311,6 +344,17 @@
       "tags": []
     },
     {
+      "id": "qqr7hb",
+      "title": "Praearcturus gigas: giant scorpion from Lower Devonian (Lochkovian) of Britain",
+      "description": "Score: 16 | Comments: 14 | Posted by bryanrasmussen",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/pala.70064",
+      "publishedAt": "2026-09-01T14:05:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bryanrasmussen",
+      "tags": []
+    },
+    {
       "id": "m46o09",
       "title": "The Browser's Main Thread Is Expensive",
       "description": "Score: 87 | Comments: 30 | Posted by kciter",
@@ -454,6 +498,17 @@
       "tags": []
     },
     {
+      "id": "q62cdx",
+      "title": "Git Submodules as a Package Manager",
+      "description": "Score: 58 | Comments: 7 | Posted by ErenayDev",
+      "url": "https://nesbitt.io/2026/09/01/git-submodules-as-a-package-manager.html",
+      "publishedAt": "2026-09-01T09:36:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ErenayDev",
+      "tags": []
+    },
+    {
       "id": "wsnqkl",
       "title": "Higher Multipoles of the Cow",
       "description": "Score: 78 | Comments: 23 | Posted by MrOrelliOReilly",
@@ -553,6 +608,17 @@
       "tags": []
     },
     {
+      "id": "9drtkx",
+      "title": "Kale: A Transformation-Safe Spreadsheet System",
+      "description": "Score: 13 | Comments: 1 | Posted by zdw",
+      "url": "https://arxiv.org/abs/2608.26345",
+      "publishedAt": "2026-09-01T01:42:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
       "id": "bgt0ed",
       "title": "DoltLite: A SQLite fork with Git-style version control, built with 2k agent PRs",
       "description": "Score: 51 | Comments: 35 | Posted by lbw1215",
@@ -572,6 +638,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "fagnerbrack",
+      "tags": []
+    },
+    {
+      "id": "3posep",
+      "title": "Elevator of the Year: Modernization of the Metropolis Trust Building",
+      "description": "Score: 146 | Comments: 52 | Posted by palashawas",
+      "url": "https://www.starelevator.com/projects/star-elevator-modernization-of-the-metropolis-trust-building",
+      "publishedAt": "2026-09-01T00:01:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "palashawas",
       "tags": []
     }
   ]

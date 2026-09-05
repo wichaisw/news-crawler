@@ -1,0 +1,83 @@
+{
+  "date": "2026-09-05",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "w1rzqi",
+      "title": "AI handles incidents, engineers lose touch with their systemssylvainkalache.com",
+      "description": "Score: 104 | Comments: 66 | Posted by sylvainkalache",
+      "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+      "publishedAt": "2026-09-05T08:08:23.325Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sylvainkalache",
+      "tags": []
+    },
+    {
+      "id": "w1rzqi",
+      "title": "AI handles incidents, engineers lose touch with their systems",
+      "description": "Score: 104 | Comments: 67 | Posted by sylvainkalache",
+      "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+      "publishedAt": "2026-09-05T07:52:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sylvainkalache",
+      "tags": []
+    },
+    {
+      "id": "t3eyj4",
+      "title": "Git hosting that never leaves Europe",
+      "description": "Score: 88 | Comments: 62 | Posted by sevenseacat",
+      "url": "https://pushin.eu",
+      "publishedAt": "2026-09-05T06:31:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sevenseacat",
+      "tags": []
+    },
+    {
+      "id": "743dzg",
+      "title": "Why are European countries moving their gold out of North America?",
+      "description": "Score: 143 | Comments: 195 | Posted by ranit",
+      "url": "https://www.bbc.com/news/articles/cvgyn8q8gqxo",
+      "publishedAt": "2026-09-05T05:52:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ranit",
+      "tags": []
+    },
+    {
+      "id": "74c9tf",
+      "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
+      "description": "Score: 45 | Comments: 23 | Posted by cebert",
+      "url": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
+      "publishedAt": "2026-09-05T03:38:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cebert",
+      "tags": []
+    },
+    {
+      "id": "qqrbol",
+      "title": "Nitter has more working instances than before the takedowns",
+      "description": "Score: 225 | Comments: 76 | Posted by Cider9986",
+      "url": "https://codeberg.org/mv12star/shitter/wiki/Instances",
+      "publishedAt": "2026-09-05T00:04:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Cider9986",
+      "tags": []
+    },
+    {
+      "id": "pfnnly",
+      "title": "Artificial Analysis Intelligence Index v4.2",
+      "description": "Score: 119 | Comments: 41 | Posted by nojs",
+      "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
+      "publishedAt": "2026-09-05T00:04:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nojs",
+      "tags": []
+    }
+  ]
+}

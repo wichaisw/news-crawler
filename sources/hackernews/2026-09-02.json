@@ -146,6 +146,17 @@
       "tags": []
     },
     {
+      "id": "lojejn",
+      "title": "The Highest Point in the Netherlands",
+      "description": "Score: 58 | Comments: 37 | Posted by haasted",
+      "url": "https://ipv6.hanazo.no/posts/anniversary-personal/",
+      "publishedAt": "2026-09-02T14:58:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "haasted",
+      "tags": []
+    },
+    {
       "id": "2rkv4g",
       "title": "Google avoids a breakup of its ad tech business",
       "description": "Score: 400 | Comments: 284 | Posted by donohoe",
@@ -264,6 +275,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "teekert",
+      "tags": []
+    },
+    {
+      "id": "5cxpsx",
+      "title": "Pointing at the error: compiler-style diagnostics in uutils coreutils",
+      "description": "Score: 14 | Comments: 1 | Posted by ingve",
+      "url": "https://uutils.org/blog/2026-08-error-diagnostics/",
+      "publishedAt": "2026-09-02T12:05:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingve",
+      "tags": []
+    },
+    {
+      "id": "a8lsl9",
+      "title": "The Two Abstractions of System Design: Hide or Reduce",
+      "description": "Score: 108 | Comments: 13 | Posted by ubolonton_",
+      "url": "http://muratbuffalo.blogspot.com/2026/05/the-two-abstractions-of-system-design.html",
+      "publishedAt": "2026-09-02T11:54:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ubolonton_",
       "tags": []
     },
     {
