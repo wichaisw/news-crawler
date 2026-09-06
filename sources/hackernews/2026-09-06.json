@@ -1,0 +1,105 @@
+{
+  "date": "2026-09-06",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "5dgakg",
+      "title": "You Don't Have a Right to Safe Drinking Water, US Court Rules",
+      "description": "Score: 93 | Comments: 42 | Posted by vrganj",
+      "url": "https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/",
+      "publishedAt": "2026-09-06T09:14:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vrganj",
+      "tags": []
+    },
+    {
+      "id": "de1yx0",
+      "title": "Play GTA Vice City in the Browser",
+      "description": "Score: 61 | Comments: 27 | Posted by rzk",
+      "url": "https://quenq.com/apps/vice-city-online/",
+      "publishedAt": "2026-09-06T07:33:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rzk",
+      "tags": []
+    },
+    {
+      "id": "qt8ro2",
+      "title": "Isar Aerospace reaches orbit and deploys payloads on second flightisaraerospace.com",
+      "description": "Score: 155 | Comments: 23 | Posted by mpweiher",
+      "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
+      "publishedAt": "2026-09-06T07:29:30.458Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mpweiher",
+      "tags": []
+    },
+    {
+      "id": "qt8ro2",
+      "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
+      "description": "Score: 155 | Comments: 23 | Posted by mpweiher",
+      "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
+      "publishedAt": "2026-09-06T07:21:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mpweiher",
+      "tags": []
+    },
+    {
+      "id": "qcbabm",
+      "title": "Site Is Closed on Sundays",
+      "description": "Score: 87 | Comments: 100 | Posted by edent",
+      "url": "https://v7.robweychert.com/",
+      "publishedAt": "2026-09-06T06:23:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "edent",
+      "tags": []
+    },
+    {
+      "id": "l6g9xv",
+      "title": "AMD Based FreeBSD Desktop Reloaded",
+      "description": "Score: 54 | Comments: 4 | Posted by vermaden",
+      "url": "https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/",
+      "publishedAt": "2026-09-06T02:24:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vermaden",
+      "tags": []
+    },
+    {
+      "id": "ubnj3k",
+      "title": "AI, Tools and Transformation",
+      "description": "Score: 66 | Comments: 23 | Posted by firexcy",
+      "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+      "publishedAt": "2026-09-06T02:12:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "firexcy",
+      "tags": []
+    },
+    {
+      "id": "9z0ix4",
+      "title": "GPT-6 Astra on robot arms",
+      "description": "Score: 191 | Comments: 141 | Posted by Anon84",
+      "url": "https://openai.robocurve.org/gpt-6-astra/",
+      "publishedAt": "2026-09-06T01:52:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Anon84",
+      "tags": []
+    },
+    {
+      "id": "mir0x6",
+      "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
+      "description": "Score: 422 | Comments: 195 | Posted by zplizzi",
+      "url": "https://cloudinabottle.org/blog/launch-post",
+      "publishedAt": "2026-09-06T00:03:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zplizzi",
+      "tags": []
+    }
+  ]
+}

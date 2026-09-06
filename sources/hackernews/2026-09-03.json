@@ -58,6 +58,17 @@
       "tags": []
     },
     {
+      "id": "32hd3o",
+      "title": "Matching Puzzle Pieces and Disappointing Benchmarks",
+      "description": "Score: 5 | Comments: 0 | Posted by speckx",
+      "url": "https://llogiq.github.io/2026/03/20/case.html",
+      "publishedAt": "2026-09-03T18:52:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
+      "tags": []
+    },
+    {
       "id": "4pysbz",
       "title": "GPT-6 Astra",
       "description": "Score: 1853 | Comments: 1645 | Posted by kibae",
@@ -77,6 +88,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "altertable",
+      "tags": []
+    },
+    {
+      "id": "dfgdm1",
+      "title": "Steffen's Polyhedron",
+      "description": "Score: 63 | Comments: 5 | Posted by pavel_lishin",
+      "url": "https://www.gregegan.net/SCIENCE/Steffen/Steffen.html",
+      "publishedAt": "2026-09-03T16:24:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pavel_lishin",
       "tags": []
     },
     {
@@ -157,6 +179,17 @@
       "tags": []
     },
     {
+      "id": "4c03rk",
+      "title": "Balrogg: Demonically compacting (up to 15%) lossless Vorbis/Opus recompressor",
+      "description": "Score: 87 | Comments: 11 | Posted by palaiologos",
+      "url": "https://github.com/iczelia/balrogg",
+      "publishedAt": "2026-09-03T13:37:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "palaiologos",
+      "tags": []
+    },
+    {
       "id": "ea7z05",
       "title": "Show HN: Reactor Atlas",
       "description": "Score: 34 | Comments: 14 | Posted by fedecaccia",
@@ -176,6 +209,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "tosh",
+      "tags": []
+    },
+    {
+      "id": "gbv1ts",
+      "title": "How Swiss tables work in Go built-in map",
+      "description": "Score: 79 | Comments: 5 | Posted by valyala",
+      "url": "https://victoriametrics.com/blog/go-swiss-table-map/index.html",
+      "publishedAt": "2026-09-03T11:59:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "valyala",
       "tags": []
     },
     {
@@ -286,6 +330,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "samyok",
+      "tags": []
+    },
+    {
+      "id": "julj03",
+      "title": "IBM Quantum Nighthawk R2",
+      "description": "Score: 14 | Comments: 1 | Posted by fuglede_",
+      "url": "https://www.ibm.com/quantum/blog/nighthawk-r2",
+      "publishedAt": "2026-09-03T05:16:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fuglede_",
       "tags": []
     },
     {

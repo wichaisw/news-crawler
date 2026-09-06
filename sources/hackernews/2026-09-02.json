@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "81lsby",
+      "title": "CHC5: Open Camera System – Image Sensor Specification Comparison",
+      "description": "Score: 22 | Comments: 2 | Posted by devoxel",
+      "url": "https://www.circuitvalley.com/2026/08/chc5-open-camera-sensor-comparison-specification.html",
+      "publishedAt": "2026-09-02T22:17:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "devoxel",
+      "tags": []
+    },
+    {
       "id": "idvopp",
       "title": "Reasons robotics is hard",
       "description": "Score: 102 | Comments: 56 | Posted by ddp26",
@@ -11,6 +22,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ddp26",
+      "tags": []
+    },
+    {
+      "id": "ulw9ld",
+      "title": "Music Theory for Programmers",
+      "description": "Score: 141 | Comments: 65 | Posted by birdculture",
+      "url": "https://runjs.app/blog/music-theory-for-programmers",
+      "publishedAt": "2026-09-02T20:19:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "birdculture",
       "tags": []
     },
     {
@@ -102,6 +124,28 @@
       "tags": []
     },
     {
+      "id": "4bijbf",
+      "title": "A Million Falcons Went Missing. Here’s How They Were Found",
+      "description": "Score: 76 | Comments: 33 | Posted by bryanrasmussen",
+      "url": "https://www.nationalgeographic.com/animals/article/falcons-migration-angola-falcopolis",
+      "publishedAt": "2026-09-02T18:19:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bryanrasmussen",
+      "tags": []
+    },
+    {
+      "id": "a98siu",
+      "title": "OpenBSD Stories: Strange Medieval Devices",
+      "description": "Score: 64 | Comments: 12 | Posted by zdw",
+      "url": "http://miod.online.fr/software/openbsd/stories/smd.html",
+      "publishedAt": "2026-09-02T17:44:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
       "id": "aw19l6",
       "title": "Static Allocation, Constant Work",
       "description": "Score: 117 | Comments: 25 | Posted by surprisetalk",
@@ -110,6 +154,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "surprisetalk",
+      "tags": []
+    },
+    {
+      "id": "dvb22y",
+      "title": "Delidded Intel I9-14900KS CT Scan",
+      "description": "Score: 106 | Comments: 10 | Posted by willx86",
+      "url": "https://www.lttlabs.com/articles/2026/09/02/delidded-intel-i9-14900ks",
+      "publishedAt": "2026-09-02T16:56:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "willx86",
       "tags": []
     },
     {
@@ -234,6 +289,17 @@
       "tags": []
     },
     {
+      "id": "56g9z8",
+      "title": "Singapore subway (mrt) information display types",
+      "description": "Score: 55 | Comments: 19 | Posted by gregorvand",
+      "url": "https://www.sgtrains.com/technology-infosys.html",
+      "publishedAt": "2026-09-02T13:30:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gregorvand",
+      "tags": []
+    },
+    {
       "id": "kq9y55",
       "title": "A note on subscription prices from LWN",
       "description": "Score: 706 | Comments: 144 | Posted by rwky",
@@ -242,6 +308,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "rwky",
+      "tags": []
+    },
+    {
+      "id": "yyz112",
+      "title": "Watch the 'Eclipse of the Century' Next Year When Spain, Egypt and More Go Dark",
+      "description": "Score: 27 | Comments: 37 | Posted by bookofjoe",
+      "url": "https://www.nytimes.com/2026/08/13/travel/solar-eclipse-2027-morocco-egypt.html",
+      "publishedAt": "2026-09-02T13:08:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bookofjoe",
       "tags": []
     },
     {
