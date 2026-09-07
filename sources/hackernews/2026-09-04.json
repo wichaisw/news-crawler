@@ -289,6 +289,17 @@
       "tags": []
     },
     {
+      "id": "zckvv6",
+      "title": "The NX bit is not just about security",
+      "description": "Score: 72 | Comments: 42 | Posted by torutofu",
+      "url": "https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/",
+      "publishedAt": "2026-09-04T13:47:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "torutofu",
+      "tags": []
+    },
+    {
       "id": "a7w9zk",
       "title": "IBM Bob",
       "description": "Score: 271 | Comments: 292 | Posted by artpar",
@@ -407,6 +418,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "High-Five",
+      "tags": []
+    },
+    {
+      "id": "98xzb0",
+      "title": "Reverse engineering the storage format for an undocumented database",
+      "description": "Score: 57 | Comments: 5 | Posted by pintprint",
+      "url": "https://blog.glazer.ee/posts/converting-cronos/",
+      "publishedAt": "2026-09-04T07:17:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pintprint",
       "tags": []
     },
     {

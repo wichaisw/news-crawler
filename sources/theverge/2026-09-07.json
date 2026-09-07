@@ -1,0 +1,30 @@
+{
+  "date": "2026-09-07",
+  "source": "theverge",
+  "articles": [
+    {
+      "id": "89vbo6",
+      "title": "Bentley’s Torcal EV tries to balance authenticity with fake V8 sounds",
+      "description": "Thanks to their ability to provide a smooth ride and quiet powertrain with ease, electric vehicles are a true shoo-in for the high-end luxury automotive segment. Rolls-Royce has the Spectre, Cadillac's Celestiq is taking bespoke to a whole new level, and Mercedes has given the EQS the full Maybach treatment. From Volkswagen Auto Group, Bentley [&#8230;]",
+      "url": "https://www.theverge.com/transportation/990319/bentley-torcal-ev-power-ride-sound-v8",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/BentleyTorcalEV5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-09-07T11:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Peter Nelson",
+      "tags": []
+    },
+    {
+      "id": "9xi1fc",
+      "title": "Huawei copies Samsung’s privacy display in its latest trifold",
+      "description": "Huawei has released its third trifold phone in China, and the company has clearly had half an eye on Samsung during development. Not only does the Mate XT 2 adopt the inward-folding form factor used on Samsung's Galaxy Z TriFold, it's also the first foldable to include a privacy-enhancing display, much like the one Samsung [&#8230;]",
+      "url": "https://www.theverge.com/tech/990958/huawei-mate-xt-2-trifold-launch-china-privacy-display",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/huawei-mate-xt-2-ultimate-design-design-2x.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-09-07T10:09:42.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Dominic Preston",
+      "tags": []
+    }
+  ]
+}
