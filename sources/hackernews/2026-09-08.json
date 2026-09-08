@@ -1,0 +1,171 @@
+{
+  "date": "2026-09-08",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "xia93j",
+      "title": "Why getting your hands dirty is good for you",
+      "description": "Score: 24 | Comments: 16 | Posted by HatchedLake721",
+      "url": "https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks",
+      "publishedAt": "2026-09-08T09:48:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "HatchedLake721",
+      "tags": []
+    },
+    {
+      "id": "hqf5t6",
+      "title": "Antiquated HTML Snippets and Artefacts",
+      "description": "Score: 15 | Comments: 3 | Posted by patadune",
+      "url": "https://vale.rocks/posts/html-relics",
+      "publishedAt": "2026-09-08T09:43:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "patadune",
+      "tags": []
+    },
+    {
+      "id": "1ih8cw",
+      "title": "Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare",
+      "description": "Score: 114 | Comments: 115 | Posted by adulion",
+      "url": "https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten",
+      "publishedAt": "2026-09-08T08:42:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "adulion",
+      "tags": []
+    },
+    {
+      "id": "j7pl2d",
+      "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
+      "description": "Score: 272 | Comments: 134 | Posted by procedurecall",
+      "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+      "publishedAt": "2026-09-08T05:42:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "procedurecall",
+      "tags": []
+    },
+    {
+      "id": "ef8tpl",
+      "title": "Multi-Agents LLM Financial Trading Framework",
+      "description": "Score: 56 | Comments: 36 | Posted by fittingopposite",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "publishedAt": "2026-09-08T05:20:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fittingopposite",
+      "tags": []
+    },
+    {
+      "id": "nxb99z",
+      "title": "My Feed, My Way",
+      "description": "Score: 127 | Comments: 100 | Posted by dotcoma",
+      "url": "https://www.pm.gov.au/media/my-feed-my-way",
+      "publishedAt": "2026-09-08T05:10:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dotcoma",
+      "tags": []
+    },
+    {
+      "id": "8fd7xd",
+      "title": "Mistral raises €3B",
+      "description": "Score: 495 | Comments: 347 | Posted by kuberwastaken",
+      "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+      "publishedAt": "2026-09-08T05:06:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kuberwastaken",
+      "tags": []
+    },
+    {
+      "id": "ralw1d",
+      "title": "We have a year to fix security everywhere",
+      "description": "Score: 240 | Comments: 213 | Posted by saikatsg",
+      "url": "https://jyn.dev/a-year-to-fix-security/",
+      "publishedAt": "2026-09-08T04:48:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "saikatsg",
+      "tags": []
+    },
+    {
+      "id": "k44xvh",
+      "title": "The VMs Powering Mobile Agents (Instinct, Claude Code)",
+      "description": "Score: 33 | Comments: 7 | Posted by RohanAdwankar",
+      "url": "https://rohanadwankar.github.io/posts/platforms.html",
+      "publishedAt": "2026-09-08T04:36:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "RohanAdwankar",
+      "tags": []
+    },
+    {
+      "id": "1iulka",
+      "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
+      "description": "Score: 47 | Comments: 29 | Posted by Re-Tails",
+      "url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
+      "publishedAt": "2026-09-08T04:06:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Re-Tails",
+      "tags": []
+    },
+    {
+      "id": "17hzwn",
+      "title": "I tested 10 model/harness combinations on the same Three.js task",
+      "description": "Score: 83 | Comments: 50 | Posted by alvins82",
+      "url": "https://alvins82.github.io/hangar-harness-model-tests/",
+      "publishedAt": "2026-09-08T03:42:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "alvins82",
+      "tags": []
+    },
+    {
+      "id": "tm3pb5",
+      "title": "How well do agents use test/verification techniques?",
+      "description": "Score: 90 | Comments: 26 | Posted by vinhnx",
+      "url": "https://danluu.com/agentic-testing/",
+      "publishedAt": "2026-09-08T02:58:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vinhnx",
+      "tags": []
+    },
+    {
+      "id": "l82783",
+      "title": "There's a new \"Google Jail\" for independent wikis",
+      "description": "Score: 185 | Comments: 61 | Posted by pizzaiolo",
+      "url": "https://weirdgloop.org/blog/google-jail",
+      "publishedAt": "2026-09-08T01:57:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pizzaiolo",
+      "tags": []
+    },
+    {
+      "id": "3rrzcv",
+      "title": "Jellyfin 12.0",
+      "description": "Score: 387 | Comments: 167 | Posted by 0xC0ncord",
+      "url": "https://jellyfin.org/posts/jellyfin-release-12.0/",
+      "publishedAt": "2026-09-08T01:56:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "0xC0ncord",
+      "tags": []
+    },
+    {
+      "id": "ko7qp4",
+      "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
+      "description": "Score: 351 | Comments: 59 | Posted by ahlCVA",
+      "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+      "publishedAt": "2026-09-08T01:16:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ahlCVA",
+      "tags": []
+    }
+  ]
+}

@@ -69,6 +69,28 @@
       "tags": []
     },
     {
+      "id": "2lkm0d",
+      "title": "Understanding Computer Memory Architecture and SSD Internals",
+      "description": "Score: 44 | Comments: 3 | Posted by Deeptiman",
+      "url": "https://codingpirate.com/understanding-computer-memory-architecture-ac9320110787",
+      "publishedAt": "2026-09-06T19:51:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Deeptiman",
+      "tags": []
+    },
+    {
+      "id": "eb4g9a",
+      "title": "The Dataflow Model Revisited",
+      "description": "Score: 102 | Comments: 14 | Posted by scott_s",
+      "url": "https://www.vldb.org/pvldb/volumes/19/paper/The%20Dataflow%20Model%20Revisited",
+      "publishedAt": "2026-09-06T18:10:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "scott_s",
+      "tags": []
+    },
+    {
       "id": "19w5c2",
       "title": "Nitter and XCancel resume service after legal advice",
       "description": "Score: 774 | Comments: 341 | Posted by zImPatrick",
@@ -124,6 +146,17 @@
       "tags": []
     },
     {
+      "id": "vylnc5",
+      "title": "Feather Atlas",
+      "description": "Score: 13 | Comments: 2 | Posted by bookofjoe",
+      "url": "https://www.fws.gov/lab/featheratlas/identify.html",
+      "publishedAt": "2026-09-06T14:59:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bookofjoe",
+      "tags": []
+    },
+    {
       "id": "nnxm2a",
       "title": "A/I shuts down",
       "description": "Score: 587 | Comments: 485 | Posted by captainmuon",
@@ -143,6 +176,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mdp2021",
+      "tags": []
+    },
+    {
+      "id": "s888mz",
+      "title": "Icy Moons Are Ocean Worlds",
+      "description": "Score: 185 | Comments: 24 | Posted by worldvoyageur",
+      "url": "https://mceglowski.substack.com/p/icy-moons-are-ocean-worlds",
+      "publishedAt": "2026-09-06T13:07:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "worldvoyageur",
       "tags": []
     },
     {
@@ -209,6 +253,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "edent",
+      "tags": []
+    },
+    {
+      "id": "ovg84t",
+      "title": "Robot writes in languages it has never seen before",
+      "description": "Score: 3 | Comments: 1 | Posted by euanming",
+      "url": "https://www.wired.com/story/robot-writing/",
+      "publishedAt": "2026-09-06T05:47:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "euanming",
       "tags": []
     },
     {

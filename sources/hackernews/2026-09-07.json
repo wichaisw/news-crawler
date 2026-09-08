@@ -3,6 +3,83 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "sklrz9",
+      "title": "TALA Is Open-Source",
+      "description": "Score: 233 | Comments: 17 | Posted by alixanderwang",
+      "url": "https://d2lang.com/blog/tala-is-open-source/",
+      "publishedAt": "2026-09-07T23:37:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "alixanderwang",
+      "tags": []
+    },
+    {
+      "id": "ifiich",
+      "title": "Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon",
+      "description": "Score: 156 | Comments: 47 | Posted by CMDDestory",
+      "url": "https://github.com/Sadpainy/Stuxnet",
+      "publishedAt": "2026-09-07T22:12:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "CMDDestory",
+      "tags": []
+    },
+    {
+      "id": "9dp7bd",
+      "title": "Macbeth and His Problems",
+      "description": "Score: 55 | Comments: 20 | Posted by apophatic",
+      "url": "https://porticoquarterly.com/essay/macbeth-and-his-problems/",
+      "publishedAt": "2026-09-07T20:34:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "apophatic",
+      "tags": []
+    },
+    {
+      "id": "7gx01m",
+      "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
+      "description": "Score: 203 | Comments: 92 | Posted by josephcsible",
+      "url": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
+      "publishedAt": "2026-09-07T20:32:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "josephcsible",
+      "tags": []
+    },
+    {
+      "id": "j3wuaa",
+      "title": "Emacs Bedrock 2.0",
+      "description": "Score: 121 | Comments: 27 | Posted by ashton314",
+      "url": "https://lambdaland.org/posts/2026-09-06-bedrock-v2/",
+      "publishedAt": "2026-09-07T20:12:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ashton314",
+      "tags": []
+    },
+    {
+      "id": "z4ffw9",
+      "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
+      "description": "Score: 298 | Comments: 147 | Posted by rustywasm",
+      "url": "https://lax-skyline.parcelscope.net/",
+      "publishedAt": "2026-09-07T18:52:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rustywasm",
+      "tags": []
+    },
+    {
+      "id": "bzccka",
+      "title": "bzip3",
+      "description": "Score: 408 | Comments: 117 | Posted by tosh",
+      "url": "https://github.com/iczelia/bzip3",
+      "publishedAt": "2026-09-07T13:35:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tosh",
+      "tags": []
+    },
+    {
       "id": "67xhf4",
       "title": "Smartphone makers don't bother to comply with EU repairability requirements",
       "description": "Score: 3 | Comments: 0 | Posted by mdp2021",
@@ -55,6 +132,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "samizdis",
+      "tags": []
+    },
+    {
+      "id": "h10gf5",
+      "title": "Initial effects of AI technology on employment look positive",
+      "description": "Score: 87 | Comments: 131 | Posted by MrBuddyCasino",
+      "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+      "publishedAt": "2026-09-07T10:38:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "MrBuddyCasino",
       "tags": []
     },
     {
@@ -154,6 +242,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "coinfused",
+      "tags": []
+    },
+    {
+      "id": "5qinzd",
+      "title": "anystation: Calling any station A public board shaped like a tree. No account",
+      "description": "Score: 7 | Comments: 12 | Posted by Bluestein",
+      "url": "https://anystation.net/",
+      "publishedAt": "2026-09-07T09:00:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Bluestein",
       "tags": []
     },
     {
@@ -275,6 +374,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "nchudleigh",
+      "tags": []
+    },
+    {
+      "id": "zdrl9d",
+      "title": "216M Spy TVs – The LG Smart TV Problem [video]",
+      "description": "Score: 772 | Comments: 917 | Posted by treve",
+      "url": "https://www.youtube.com/watch?v=6IFVTcM28KA",
+      "publishedAt": "2026-09-07T00:22:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "treve",
       "tags": []
     }
   ]

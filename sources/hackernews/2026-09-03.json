@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "qzxwpa",
+      "title": "Simple Is Not Small",
+      "description": "Score: 246 | Comments: 80 | Posted by zdw",
+      "url": "https://jyn.dev/simple-is-not-the-same-as-small/",
+      "publishedAt": "2026-09-03T23:47:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
       "id": "fblbda",
       "title": "GLP-1s are being linked to fewer serious infections, including TB",
       "description": "Score: 115 | Comments: 57 | Posted by gumby",
@@ -11,6 +22,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "gumby",
+      "tags": []
+    },
+    {
+      "id": "lf4e53",
+      "title": "Methods for Random Gradients (2024)",
+      "description": "Score: 49 | Comments: 5 | Posted by nickswalker",
+      "url": "https://justinjay.wang/methods-for-random-gradients/",
+      "publishedAt": "2026-09-03T22:26:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nickswalker",
       "tags": []
     },
     {
@@ -44,6 +66,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "codechicago277",
+      "tags": []
+    },
+    {
+      "id": "xjwxm",
+      "title": "Every novel is boring until it isn't",
+      "description": "Score: 80 | Comments: 68 | Posted by samclemens",
+      "url": "https://www.publicbooks.org/every-novel-is-boring-until-it-isnt/",
+      "publishedAt": "2026-09-03T19:10:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "samclemens",
       "tags": []
     },
     {
@@ -121,6 +154,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "speckx",
+      "tags": []
+    },
+    {
+      "id": "llcpew",
+      "title": "WeatherNext 3",
+      "description": "Score: 334 | Comments: 80 | Posted by matthieu_bl",
+      "url": "https://deepmind.google/science/weathernext/",
+      "publishedAt": "2026-09-03T16:06:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "matthieu_bl",
       "tags": []
     },
     {
@@ -220,6 +264,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "palaiologos",
+      "tags": []
+    },
+    {
+      "id": "sbx5r5",
+      "title": "Extinct Tasmanian tiger's 'snap' unlike any living mammal's bite",
+      "description": "Score: 30 | Comments: 6 | Posted by cisc",
+      "url": "https://www.cnn.com/2026/09/02/science/tasmanian-tiger-skull-bite-force",
+      "publishedAt": "2026-09-03T12:53:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cisc",
       "tags": []
     },
     {

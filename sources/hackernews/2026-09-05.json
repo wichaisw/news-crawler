@@ -80,6 +80,17 @@
       "tags": []
     },
     {
+      "id": "o50zup",
+      "title": "We built our house for LAN parties",
+      "description": "Score: 132 | Comments: 55 | Posted by fittingopposite",
+      "url": "https://lanparty.house/",
+      "publishedAt": "2026-09-05T18:44:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fittingopposite",
+      "tags": []
+    },
+    {
       "id": "6hjzk9",
       "title": "Learn Programming with OCaml",
       "description": "Score: 256 | Comments: 98 | Posted by elvis70",
@@ -132,6 +143,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "rfarley04",
+      "tags": []
+    },
+    {
+      "id": "o279z0",
+      "title": "Trusting-Trust Attack against an Entire Linux Distribution",
+      "description": "Score: 213 | Comments: 47 | Posted by signa11",
+      "url": "https://arxiv.org/abs/2607.24888",
+      "publishedAt": "2026-09-05T11:25:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "signa11",
       "tags": []
     },
     {
