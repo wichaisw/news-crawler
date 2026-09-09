@@ -443,6 +443,17 @@
       "tags": []
     },
     {
+      "id": "msa9g5",
+      "title": "Tracing np.add, all the way down",
+      "description": "Score: 57 | Comments: 3 | Posted by luu",
+      "url": "https://blog.veitheller.de/numpy.html",
+      "publishedAt": "2026-09-04T09:42:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "luu",
+      "tags": []
+    },
+    {
       "id": "25agrt",
       "title": "CERN Transitioning Computers To Debian After Being A Longtime RHEL Institution",
       "description": "Score: 8 | Comments: 0 | Posted by thunderbong",

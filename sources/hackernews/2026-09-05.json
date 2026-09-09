@@ -36,6 +36,28 @@
       "tags": []
     },
     {
+      "id": "xcf5bt",
+      "title": "Researchers Spot Fake Ancient Pottery Using the Earth's Magnetic Field",
+      "description": "Score: 47 | Comments: 22 | Posted by cisc",
+      "url": "https://www.smithsonianmag.com/smart-news/researchers-determine-how-to-spot-fake-ancient-pottery-using-the-earths-magnetic-field-180989441/",
+      "publishedAt": "2026-09-05T21:14:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cisc",
+      "tags": []
+    },
+    {
+      "id": "q4ht31",
+      "title": "Ganon's Mysterious Origins (Revisited)",
+      "description": "Score: 34 | Comments: 18 | Posted by tobr",
+      "url": "https://www.thrillingtalesofoldvideogames.com/blog/ganon-name-origin-kamen-rider",
+      "publishedAt": "2026-09-05T20:33:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tobr",
+      "tags": []
+    },
+    {
       "id": "rlj5rr",
       "title": "Private German rocket makes history, reaches orbit from European soil",
       "description": "Score: 609 | Comments: 326 | Posted by bookmtn",
@@ -77,6 +99,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "t43562",
+      "tags": []
+    },
+    {
+      "id": "mxur3x",
+      "title": "An Accidental Blackboard",
+      "description": "Score: 63 | Comments: 31 | Posted by saikatsg",
+      "url": "https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html",
+      "publishedAt": "2026-09-05T18:50:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "saikatsg",
       "tags": []
     },
     {
@@ -135,6 +168,17 @@
       "tags": []
     },
     {
+      "id": "q24cws",
+      "title": "Replacing a Rust Enum with a 64-Bit Word Made My Interpreter 17% Faster",
+      "description": "Score: 130 | Comments: 48 | Posted by metrofun",
+      "url": "https://pointersgonewild.com/2026-08-25-replacing-a-rust-enum-with-a-64-bit-word/",
+      "publishedAt": "2026-09-05T12:32:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "metrofun",
+      "tags": []
+    },
+    {
       "id": "vy5gag",
       "title": "A bizarre Commodore 64 peripheral, a mime, and some pretty bad ads",
       "description": "Score: 95 | Comments: 12 | Posted by rfarley04",
@@ -143,6 +187,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "rfarley04",
+      "tags": []
+    },
+    {
+      "id": "s8fsju",
+      "title": "Implementation of GCC's Nested Functions (vs. C++ Lambdas)",
+      "description": "Score: 72 | Comments: 19 | Posted by uecker",
+      "url": "https://uecker.codeberg.page/2026-09-05.html",
+      "publishedAt": "2026-09-05T12:09:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "uecker",
       "tags": []
     },
     {

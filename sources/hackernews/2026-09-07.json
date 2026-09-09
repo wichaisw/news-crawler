@@ -69,6 +69,39 @@
       "tags": []
     },
     {
+      "id": "45r2pp",
+      "title": "The Helicopter with Radioactive Blades",
+      "description": "Score: 185 | Comments: 55 | Posted by zdw",
+      "url": "https://hackaday.com/2026/09/07/the-helicopter-with-radioactive-blades/",
+      "publishedAt": "2026-09-07T17:44:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "hea9m0",
+      "title": "Reverse Engineering an ASIC",
+      "description": "Score: 56 | Comments: 8 | Posted by burekqueen",
+      "url": "https://kjartanvandriel.github.io/asic/",
+      "publishedAt": "2026-09-07T16:02:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "burekqueen",
+      "tags": []
+    },
+    {
+      "id": "p6zq5e",
+      "title": "Getting phpBB 1.4.4 working in Docker",
+      "description": "Score: 46 | Comments: 33 | Posted by HeckFeck",
+      "url": "https://www.thran.uk/writ/devlog/2026/09/phpbb-144-in-docker.html",
+      "publishedAt": "2026-09-07T14:35:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "HeckFeck",
+      "tags": []
+    },
+    {
       "id": "bzccka",
       "title": "bzip3",
       "description": "Score: 408 | Comments: 117 | Posted by tosh",
@@ -77,6 +110,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "tosh",
+      "tags": []
+    },
+    {
+      "id": "1sw5r2",
+      "title": "The origins of Partner’s computer case",
+      "description": "Score: 34 | Comments: 4 | Posted by markostamcar",
+      "url": "https://www.racunalniski-muzej.si/en/the-origins-of-partners-computer-case/",
+      "publishedAt": "2026-09-07T12:51:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "markostamcar",
       "tags": []
     },
     {

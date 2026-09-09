@@ -1,0 +1,116 @@
+{
+  "date": "2026-09-09",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "x7ojqf",
+      "title": "How An AI math breakthrough ignited a controversy",
+      "description": "Score: 5 | Comments: 0 | Posted by pseudolus",
+      "url": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy",
+      "publishedAt": "2026-09-09T10:25:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pseudolus",
+      "tags": []
+    },
+    {
+      "id": "4hmsh9",
+      "title": "Carmakers Have a New Idea to Boost EV Range: Add a Gas Engine",
+      "description": "Score: 9 | Comments: 15 | Posted by bookofjoe",
+      "url": "https://www.wsj.com/business/autos/carmakers-have-a-new-idea-to-boost-ev-range-add-a-gas-engine-16bbcc34",
+      "publishedAt": "2026-09-09T10:07:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bookofjoe",
+      "tags": []
+    },
+    {
+      "id": "8qu7pe",
+      "title": "Lotus Notes and the dangers of starting from scratch",
+      "description": "Score: 13 | Comments: 3 | Posted by maguay",
+      "url": "https://buttondown.com/blog/lotus-notes-email",
+      "publishedAt": "2026-09-09T10:01:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "maguay",
+      "tags": []
+    },
+    {
+      "id": "5mj8ke",
+      "title": "How GPT‑5.6 Sol helps run quantum computing experimentsopenai.com",
+      "description": "Score: 79 | Comments: 52 | Posted by theanonymousone",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments/",
+      "publishedAt": "2026-09-09T07:55:40.807Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "theanonymousone",
+      "tags": []
+    },
+    {
+      "id": "5mj8ke",
+      "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
+      "description": "Score: 79 | Comments: 53 | Posted by theanonymousone",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments/",
+      "publishedAt": "2026-09-09T07:22:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "theanonymousone",
+      "tags": []
+    },
+    {
+      "id": "213vhj",
+      "title": "On Really Trying (2009)",
+      "description": "Score: 60 | Comments: 36 | Posted by whoami_nr",
+      "url": "https://gwern.net/on-really-trying",
+      "publishedAt": "2026-09-09T06:58:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "whoami_nr",
+      "tags": []
+    },
+    {
+      "id": "654x4w",
+      "title": "Copyright does more harm than good and should be abolished",
+      "description": "Score: 245 | Comments: 224 | Posted by Cider9986",
+      "url": "https://grapheneos.social/@GrapheneOS/117231186011306184",
+      "publishedAt": "2026-09-09T06:31:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Cider9986",
+      "tags": []
+    },
+    {
+      "id": "rwb6hs",
+      "title": "“Tweet” and the bird logo apparently enter the public domain",
+      "description": "Score: 107 | Comments: 63 | Posted by progval",
+      "url": "https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm",
+      "publishedAt": "2026-09-09T06:02:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "progval",
+      "tags": []
+    },
+    {
+      "id": "6bk80e",
+      "title": "A Biography of Lee Holloway, the Architect of Cloudflare's Technology (Part 1)",
+      "description": "Score: 58 | Comments: 14 | Posted by porridgeraisin",
+      "url": "https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en",
+      "publishedAt": "2026-09-09T04:43:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "porridgeraisin",
+      "tags": []
+    },
+    {
+      "id": "6peymb",
+      "title": "27.5KB language-agnostic WebGPU syntax highlighter",
+      "description": "Score: 90 | Comments: 27 | Posted by bpierre",
+      "url": "https://gpu-lexer.vercel.app/",
+      "publishedAt": "2026-09-09T01:14:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bpierre",
+      "tags": []
+    }
+  ]
+}

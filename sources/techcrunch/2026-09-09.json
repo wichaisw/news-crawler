@@ -1,0 +1,28 @@
+{
+  "date": "2026-09-09",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3161705",
+      "title": "Google DeepMind alumni are building tools to accelerate fusion power for the grid",
+      "description": "Fusionality is developing control systems and simulation environments to help fusion power startups move faster.",
+      "url": "https://techcrunch.com/2026/09/08/google-deepmind-alumni-are-building-tools-to-accelerate-fusion-power-for-the-grid/",
+      "publishedAt": "2026-09-09T06:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Tim De Chant",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3161636",
+      "title": "CloudNC raises $20M to automate manufacturing’s most pressing bottlenecks",
+      "description": "UK-based manufacturing software startup CloudNC announced Wednesday a $20 million B extension round, bringing its lifetime total raised amount to",
+      "url": "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/",
+      "publishedAt": "2026-09-09T04:01:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "tags": []
+    }
+  ]
+}
