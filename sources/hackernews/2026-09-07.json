@@ -25,6 +25,17 @@
       "tags": []
     },
     {
+      "id": "dr4v8v",
+      "title": "Version control second coming",
+      "description": "Score: 90 | Comments: 60 | Posted by bananaboy",
+      "url": "https://psantosl.github.io/posts/version-control-second-coming/",
+      "publishedAt": "2026-09-07T21:42:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bananaboy",
+      "tags": []
+    },
+    {
       "id": "9dp7bd",
       "title": "Macbeth and His Problems",
       "description": "Score: 55 | Comments: 20 | Posted by apophatic",
@@ -44,6 +55,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "josephcsible",
+      "tags": []
+    },
+    {
+      "id": "4lvyae",
+      "title": "Use Vsock with Libzmq",
+      "description": "Score: 46 | Comments: 8 | Posted by remijouannet",
+      "url": "https://blog.remijouan.net/posts/libzmq-vsock-pyzmq/",
+      "publishedAt": "2026-09-07T20:24:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "remijouannet",
       "tags": []
     },
     {
@@ -77,6 +99,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "cd2wma",
+      "title": "Ancient cave art suggests first known humans in Ireland walked over from Wales",
+      "description": "Score: 53 | Comments: 11 | Posted by bookofjoe",
+      "url": "https://www.bbc.com/news/articles/c5y75dl0jpko",
+      "publishedAt": "2026-09-07T17:13:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bookofjoe",
+      "tags": []
+    },
+    {
+      "id": "8eencg",
+      "title": "Stockfish 19",
+      "description": "Score: 53 | Comments: 24 | Posted by atiedebee",
+      "url": "https://stockfishchess.org/blog/2026/stockfish-19/",
+      "publishedAt": "2026-09-07T16:17:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "atiedebee",
       "tags": []
     },
     {
@@ -366,6 +410,17 @@
       "tags": []
     },
     {
+      "id": "i0l2r8",
+      "title": "Samsung Debuts zHBM Prototype, Stacking Memory Directly on AI Accelerators",
+      "description": "Score: 23 | Comments: 3 | Posted by peter_d_sherman",
+      "url": "https://www.thelec.net/news/articleView.html?idxno=12835",
+      "publishedAt": "2026-09-07T04:27:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "peter_d_sherman",
+      "tags": []
+    },
+    {
       "id": "nnp2o3",
       "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
       "description": "Score: 29 | Comments: 10 | Posted by aggrrrh",
@@ -418,6 +473,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "nchudleigh",
+      "tags": []
+    },
+    {
+      "id": "y7w78p",
+      "title": "Aardman (Wallace and Gromit) Is Selling Its Original Movie Puppets",
+      "description": "Score: 53 | Comments: 11 | Posted by Gaishan",
+      "url": "https://gizmodo.com/aardman-is-selling-its-original-movie-puppets-this-month-2000807968",
+      "publishedAt": "2026-09-07T01:35:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Gaishan",
       "tags": []
     },
     {

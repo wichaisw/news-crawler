@@ -3,6 +3,215 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "2kwo1t",
+      "title": "Automattic's board forces CEO Matt Mullenweg into leave of absence",
+      "description": "Score: 288 | Comments: 201 | Posted by LeoPanthera",
+      "url": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
+      "publishedAt": "2026-09-09T23:49:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "LeoPanthera",
+      "tags": []
+    },
+    {
+      "id": "i6plch",
+      "title": "Blizzard Workers Win Historic Union Contract",
+      "description": "Score: 195 | Comments: 80 | Posted by dbg31415",
+      "url": "https://www.latimes.com/entertainment-arts/business/story/2026-09-09/blizzard-video-game-workers-ratify-union-contract",
+      "publishedAt": "2026-09-09T22:22:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dbg31415",
+      "tags": []
+    },
+    {
+      "id": "yg8k61",
+      "title": "Factoring RSA 260",
+      "description": "Score: 100 | Comments: 11 | Posted by samyok",
+      "url": "https://cognition.com/blog/factoring-rsa-260",
+      "publishedAt": "2026-09-09T20:16:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "samyok",
+      "tags": []
+    },
+    {
+      "id": "z4sv75",
+      "title": "iPhone Duo",
+      "description": "Score: 1222 | Comments: 2152 | Posted by thecosmicfrog",
+      "url": "https://www.apple.com/iphone-duo/",
+      "publishedAt": "2026-09-09T18:15:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thecosmicfrog",
+      "tags": []
+    },
+    {
+      "id": "y1lr5r",
+      "title": "Apple Watch Series 12",
+      "description": "Score: 258 | Comments: 323 | Posted by Lealen",
+      "url": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
+      "publishedAt": "2026-09-09T17:56:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Lealen",
+      "tags": []
+    },
+    {
+      "id": "n4i0qa",
+      "title": "AirPods 5",
+      "description": "Score: 458 | Comments: 388 | Posted by awad",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+      "publishedAt": "2026-09-09T17:39:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "awad",
+      "tags": []
+    },
+    {
+      "id": "citx2q",
+      "title": "iPhone 18 Pro and iPhone 18 Pro Max",
+      "description": "Score: 367 | Comments: 404 | Posted by meetpateltech",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
+      "publishedAt": "2026-09-09T17:33:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "meetpateltech",
+      "tags": []
+    },
+    {
+      "id": "nxi8uz",
+      "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
+      "description": "Score: 217 | Comments: 85 | Posted by wsxiaoys",
+      "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
+      "publishedAt": "2026-09-09T17:24:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wsxiaoys",
+      "tags": []
+    },
+    {
+      "id": "vh3k3o",
+      "title": "Growing proof that autonomous cars save lives",
+      "description": "Score: 352 | Comments: 616 | Posted by bookofjoe",
+      "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
+      "publishedAt": "2026-09-09T17:14:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bookofjoe",
+      "tags": []
+    },
+    {
+      "id": "zc2t42",
+      "title": "The UN challenges five centuries of cartography",
+      "description": "Score: 102 | Comments: 205 | Posted by speckx",
+      "url": "https://www.not-ship.com/united-nations-map/",
+      "publishedAt": "2026-09-09T16:33:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
+      "tags": []
+    },
+    {
+      "id": "21gug7",
+      "title": "Understanding the recent DDoS attack against Read the Docs",
+      "description": "Score: 191 | Comments: 61 | Posted by davidfischer",
+      "url": "https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/",
+      "publishedAt": "2026-09-09T15:55:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "davidfischer",
+      "tags": []
+    },
+    {
+      "id": "kax9l2",
+      "title": "GNU Radio in the browser",
+      "description": "Score: 206 | Comments: 27 | Posted by kristianpaul",
+      "url": "https://gnuradioworld.com/",
+      "publishedAt": "2026-09-09T15:53:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kristianpaul",
+      "tags": []
+    },
+    {
+      "id": "rrhaf6",
+      "title": "No Man's Sky Cosmos",
+      "description": "Score: 397 | Comments: 404 | Posted by Limb",
+      "url": "https://www.nomanssky.com/cosmos-update/",
+      "publishedAt": "2026-09-09T15:47:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Limb",
+      "tags": []
+    },
+    {
+      "id": "5zbdf0",
+      "title": "Planet Labs' open satellite feed",
+      "description": "Score: 179 | Comments: 31 | Posted by marklit",
+      "url": "https://tech.marksblogg.com/planet-labs-open-satellite-feed.html",
+      "publishedAt": "2026-09-09T15:44:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "marklit",
+      "tags": []
+    },
+    {
+      "id": "1rz2po",
+      "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
+      "description": "Score: 440 | Comments: 143 | Posted by ModelForge",
+      "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+      "publishedAt": "2026-09-09T14:37:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ModelForge",
+      "tags": []
+    },
+    {
+      "id": "7079gj",
+      "title": "What will our economic future look like?",
+      "description": "Score: 211 | Comments: 404 | Posted by oumua_don17",
+      "url": "https://www.anthropic.com/institute/econ-scenarios",
+      "publishedAt": "2026-09-09T13:38:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "oumua_don17",
+      "tags": []
+    },
+    {
+      "id": "75pwcq",
+      "title": "Shopify acquires Tailwind",
+      "description": "Score: 1043 | Comments: 402 | Posted by EdwinHoksberg",
+      "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+      "publishedAt": "2026-09-09T13:27:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "EdwinHoksberg",
+      "tags": []
+    },
+    {
+      "id": "qrw94f",
+      "title": "How I advertise malicious software on Google Ads",
+      "description": "Score: 412 | Comments: 249 | Posted by xlii",
+      "url": "https://xlii.space/eng/malicious-software-on-google-ads/",
+      "publishedAt": "2026-09-09T11:43:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "xlii",
+      "tags": []
+    },
+    {
+      "id": "uyip0w",
+      "title": "Desert Ant Labs: local, fast models that run on device",
+      "description": "Score: 449 | Comments: 96 | Posted by willwhitedc",
+      "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
+      "publishedAt": "2026-09-09T11:39:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "willwhitedc",
+      "tags": []
+    },
+    {
       "id": "x7ojqf",
       "title": "How An AI math breakthrough ignited a controversy",
       "description": "Score: 5 | Comments: 0 | Posted by pseudolus",
@@ -33,6 +242,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "maguay",
+      "tags": []
+    },
+    {
+      "id": "a9g45k",
+      "title": "Show HN: Compute polynomials twice as fast",
+      "description": "Score: 95 | Comments: 34 | Posted by thomasahle",
+      "url": "https://thomasahle.com/fast-polynomials/",
+      "publishedAt": "2026-09-09T08:53:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thomasahle",
       "tags": []
     },
     {
@@ -99,6 +319,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "porridgeraisin",
+      "tags": []
+    },
+    {
+      "id": "t3cmow",
+      "title": "Larger Pacific Striped Octopus",
+      "description": "Score: 69 | Comments: 37 | Posted by olalonde",
+      "url": "https://en.wikipedia.org/wiki/Larger_Pacific_striped_octopus",
+      "publishedAt": "2026-09-09T04:32:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "olalonde",
       "tags": []
     },
     {
