@@ -311,6 +311,17 @@
       "tags": []
     },
     {
+      "id": "64ufc7",
+      "title": "So you want to use OpenRouter?",
+      "description": "Score: 104 | Comments: 10 | Posted by player85",
+      "url": "https://mmoustafa.com/blog/so-you-want-to-use-openrouter/",
+      "publishedAt": "2026-09-09T05:37:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "player85",
+      "tags": []
+    },
+    {
       "id": "6bk80e",
       "title": "A Biography of Lee Holloway, the Architect of Cloudflare's Technology (Part 1)",
       "description": "Score: 58 | Comments: 14 | Posted by porridgeraisin",
@@ -330,6 +341,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "olalonde",
+      "tags": []
+    },
+    {
+      "id": "qf223v",
+      "title": "Testing race conditions with mem access tracing and stack-based delay injection",
+      "description": "Score: 10 | Comments: 0 | Posted by mfrw",
+      "url": "https://projectzero.google/2026/09/maccconc-race-condition.html",
+      "publishedAt": "2026-09-09T04:01:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mfrw",
       "tags": []
     },
     {

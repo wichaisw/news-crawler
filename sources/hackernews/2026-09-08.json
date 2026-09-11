@@ -80,6 +80,17 @@
       "tags": []
     },
     {
+      "id": "rremoe",
+      "title": "What happens when a GPU writes memory",
+      "description": "Score: 68 | Comments: 1 | Posted by ibobev",
+      "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-writes-memory",
+      "publishedAt": "2026-09-08T19:46:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
+      "tags": []
+    },
+    {
       "id": "7xso17",
       "title": "Muse – Meta’s personal AI agent",
       "description": "Score: 527 | Comments: 568 | Posted by yks",
@@ -146,6 +157,17 @@
       "tags": []
     },
     {
+      "id": "4lmf6x",
+      "title": "Compute-efficient pretraining and scaling to trillion-parameter models",
+      "description": "Score: 115 | Comments: 62 | Posted by ronfriedhaber",
+      "url": "https://magic.dev/blog/pretraining#",
+      "publishedAt": "2026-09-08T16:59:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ronfriedhaber",
+      "tags": []
+    },
+    {
       "id": "f2ttbu",
       "title": "Show HN: LLM Attention Visualization",
       "description": "Score: 156 | Comments: 24 | Posted by ifz",
@@ -154,6 +176,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ifz",
+      "tags": []
+    },
+    {
+      "id": "7e83ys",
+      "title": "Python sets and dictionaries can have quadratic-time performance",
+      "description": "Score: 99 | Comments: 57 | Posted by ibobev",
+      "url": "https://lemire.me/blog/2026/09/03/python-sets-and-dictionaries-can-have-quadratic-time-performance/",
+      "publishedAt": "2026-09-08T16:17:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
       "tags": []
     },
     {
@@ -212,6 +245,17 @@
       "tags": []
     },
     {
+      "id": "14lgub",
+      "title": "To write non-fiction, draw the trunk, then the rest of the tree",
+      "description": "Score: 92 | Comments: 28 | Posted by DanielVZ",
+      "url": "https://devz.cl/posts/how-to-write/",
+      "publishedAt": "2026-09-08T14:25:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "DanielVZ",
+      "tags": []
+    },
+    {
       "id": "skramt",
       "title": "AlphaGenome Atlas predictive map of every DNA letter change in the human genome",
       "description": "Score: 84 | Comments: 11 | Posted by fady0",
@@ -231,6 +275,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "domhudson",
+      "tags": []
+    },
+    {
+      "id": "yrn5rl",
+      "title": "An interactive tour of the spanning tree protocol",
+      "description": "Score: 9 | Comments: 0 | Posted by zdw",
+      "url": "https://vincent.bernat.ch/en/blog/2026-spanning-tree",
+      "publishedAt": "2026-09-08T14:10:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
       "tags": []
     },
     {
@@ -308,6 +363,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "adulion",
+      "tags": []
+    },
+    {
+      "id": "nim4hf",
+      "title": "Working with Git Worktrees in Magit",
+      "description": "Score: 57 | Comments: 18 | Posted by srijan4",
+      "url": "https://emacsredux.com/blog/2026/09/02/working-with-git-worktrees-in-magit/",
+      "publishedAt": "2026-09-08T06:31:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "srijan4",
       "tags": []
     },
     {
@@ -440,6 +506,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ahlCVA",
+      "tags": []
+    },
+    {
+      "id": "55vvjw",
+      "title": "Show HN: Vertumnus – printable posters of farmers' market produce seasonality",
+      "description": "Score: 43 | Comments: 15 | Posted by perspectivezoom",
+      "url": "https://vertumnus.fyi",
+      "publishedAt": "2026-09-08T01:08:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "perspectivezoom",
       "tags": []
     }
   ]

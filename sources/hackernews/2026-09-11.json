@@ -1,0 +1,182 @@
+{
+  "date": "2026-09-11",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "nv0f72",
+      "title": "Resist \"AI\"",
+      "description": "Score: 5 | Comments: 0 | Posted by mborch",
+      "url": "https://ronjeffries.com/articles/-v026/x/t/",
+      "publishedAt": "2026-09-11T10:19:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mborch",
+      "tags": []
+    },
+    {
+      "id": "7owplp",
+      "title": "Meta is asking some of its employees to become managers again in a new reorg",
+      "description": "Score: 4 | Comments: 0 | Posted by achow",
+      "url": "https://www.businessinsider.com/meta-asks-some-ai-employees-to-become-managers-again-2026-9",
+      "publishedAt": "2026-09-11T10:02:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "achow",
+      "tags": []
+    },
+    {
+      "id": "p2t6sc",
+      "title": "The Death of Shame Is Tearing Us Apart",
+      "description": "Score: 4 | Comments: 1 | Posted by Michelangelo11",
+      "url": "https://www.newyorker.com/news/fault-lines/the-death-of-shame-is-tearing-us-apart",
+      "publishedAt": "2026-09-11T09:30:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Michelangelo11",
+      "tags": []
+    },
+    {
+      "id": "l1tp9c",
+      "title": "Cherenkov Radiation - traveling faster than light",
+      "description": "Score: 61 | Comments: 43 | Posted by andsoitis",
+      "url": "http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation",
+      "publishedAt": "2026-09-11T08:42:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andsoitis",
+      "tags": []
+    },
+    {
+      "id": "bofuzh",
+      "title": "Neijuan",
+      "description": "Score: 39 | Comments: 12 | Posted by vermilingua",
+      "url": "https://en.wikipedia.org/wiki/Neijuan",
+      "publishedAt": "2026-09-11T08:26:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vermilingua",
+      "tags": []
+    },
+    {
+      "id": "83394u",
+      "title": "CSS Curiosities of the Past",
+      "description": "Score: 13 | Comments: 0 | Posted by robin_reala",
+      "url": "https://vale.rocks/posts/css-relics",
+      "publishedAt": "2026-09-11T07:57:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "robin_reala",
+      "tags": []
+    },
+    {
+      "id": "w0s75q",
+      "title": "DeepSeek v4.1 Flash Uncensored",
+      "description": "Score: 40 | Comments: 10 | Posted by soltanov",
+      "url": "https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8",
+      "publishedAt": "2026-09-11T06:46:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "soltanov",
+      "tags": []
+    },
+    {
+      "id": "d5bcuu",
+      "title": "Astra for Coding: Why Are We Doing This Again?",
+      "description": "Score: 343 | Comments: 246 | Posted by manojbajaj95",
+      "url": "https://lucumr.pocoo.org/2026/9/7/astra-why/",
+      "publishedAt": "2026-09-11T06:23:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "manojbajaj95",
+      "tags": []
+    },
+    {
+      "id": "7mu6dj",
+      "title": "GPT‑Live‑1 in the API",
+      "description": "Score: 27 | Comments: 24 | Posted by arittr",
+      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api/",
+      "publishedAt": "2026-09-11T05:45:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "arittr",
+      "tags": []
+    },
+    {
+      "id": "e4suxw",
+      "title": "The Gemini app is now available for Windows",
+      "description": "Score: 50 | Comments: 41 | Posted by quysala12",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
+      "publishedAt": "2026-09-11T04:52:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "quysala12",
+      "tags": []
+    },
+    {
+      "id": "v2dhcq",
+      "title": "Apple A20 Pro Geekbench Result",
+      "description": "Score: 14 | Comments: 4 | Posted by aurareturn",
+      "url": "https://browser.geekbench.com/v6/cpu/compare/19147979?baseline=19141805",
+      "publishedAt": "2026-09-11T04:10:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "aurareturn",
+      "tags": []
+    },
+    {
+      "id": "pfr8cs",
+      "title": "Exercise intensity is associated with cardiometabolic health",
+      "description": "Score: 105 | Comments: 47 | Posted by qclibre22",
+      "url": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2",
+      "publishedAt": "2026-09-11T03:48:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "qclibre22",
+      "tags": []
+    },
+    {
+      "id": "pllxog",
+      "title": "What Comes After Git",
+      "description": "Score: 50 | Comments: 14 | Posted by tangled",
+      "url": "https://ersc.io/blog/what-comes-after-git",
+      "publishedAt": "2026-09-11T02:49:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tangled",
+      "tags": []
+    },
+    {
+      "id": "poowsa",
+      "title": "Mexican student creates an acoustic fire extinguisher to put out fire in seconds",
+      "description": "Score: 233 | Comments: 80 | Posted by rguiscard",
+      "url": "https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/",
+      "publishedAt": "2026-09-11T01:00:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rguiscard",
+      "tags": []
+    },
+    {
+      "id": "qxkbw7",
+      "title": "DeepSeek 4.1 Flash",
+      "description": "Score: 28 | Comments: 0 | Posted by thatxliner",
+      "url": "https://www.deepseek.com/en/news/deepseek-v4-1-flash/",
+      "publishedAt": "2026-09-11T00:34:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thatxliner",
+      "tags": []
+    },
+    {
+      "id": "uirk0z",
+      "title": "YuE2 · Frontier Music with Symbolic Planning",
+      "description": "Score: 96 | Comments: 80 | Posted by sexy_seedbox",
+      "url": "https://map-yue2.github.io/",
+      "publishedAt": "2026-09-11T00:33:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sexy_seedbox",
+      "tags": []
+    }
+  ]
+}
