@@ -1,0 +1,138 @@
+{
+  "date": "2026-09-12",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "u2v61m",
+      "title": "Decky: Open-source DIY stream deck",
+      "description": "Score: 3 | Comments: 0 | Posted by thunderbong",
+      "url": "https://github.com/Fenish/decky",
+      "publishedAt": "2026-09-12T09:21:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thunderbong",
+      "tags": []
+    },
+    {
+      "id": "v48asj",
+      "title": "Resistance Training Prescription for Muscle Function, Hypertrophy in Health",
+      "description": "Score: 7 | Comments: 0 | Posted by ultral",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/",
+      "publishedAt": "2026-09-12T09:08:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ultral",
+      "tags": []
+    },
+    {
+      "id": "h99g44",
+      "title": "Retrospectively Reverse-Engineering Apple's Neural Engineeiln.github.io",
+      "description": "Score: 82 | Comments: 10 | Posted by zdw",
+      "url": "https://eiln.github.io/posts/ane.html",
+      "publishedAt": "2026-09-12T08:16:59.261Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "h99g44",
+      "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+      "description": "Score: 82 | Comments: 10 | Posted by zdw",
+      "url": "https://eiln.github.io/posts/ane.html",
+      "publishedAt": "2026-09-12T07:54:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "jd5k4e",
+      "title": "WeWorm: Zero-Click WeChat Worm",
+      "description": "Score: 25 | Comments: 1 | Posted by BlackEarth",
+      "url": "https://calif.io/research/weworm",
+      "publishedAt": "2026-09-12T05:49:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "BlackEarth",
+      "tags": []
+    },
+    {
+      "id": "v0nylu",
+      "title": "macOS defaults list: Incomplete list of macOS defaults commands with demos",
+      "description": "Score: 21 | Comments: 0 | Posted by zdw",
+      "url": "https://macos-defaults.com",
+      "publishedAt": "2026-09-12T05:04:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "klcbao",
+      "title": "Usenet rewind archive search engine",
+      "description": "Score: 64 | Comments: 14 | Posted by cstadler1869",
+      "url": "https://www.usenet-rewind.com/",
+      "publishedAt": "2026-09-12T04:19:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cstadler1869",
+      "tags": []
+    },
+    {
+      "id": "jmu8z6",
+      "title": "Navier-Stokes Announcement",
+      "description": "Score: 166 | Comments: 111 | Posted by rvz",
+      "url": "https://www.claymath.org/news/navier-stokes-announcement/",
+      "publishedAt": "2026-09-12T04:09:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rvz",
+      "tags": []
+    },
+    {
+      "id": "nxrabh",
+      "title": "google.com/goto: Google's anti-scraping update",
+      "description": "Score: 436 | Comments: 334 | Posted by 1e1a",
+      "url": "https://www.autom.dev/blog/google-search-goto-links",
+      "publishedAt": "2026-09-12T03:14:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "1e1a",
+      "tags": []
+    },
+    {
+      "id": "sg3zsf",
+      "title": "How to buy a good car for $1000",
+      "description": "Score: 87 | Comments: 106 | Posted by barry-cotter",
+      "url": "https://abio.substack.com/p/how-poor-people-buy-cars",
+      "publishedAt": "2026-09-12T01:37:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "barry-cotter",
+      "tags": []
+    },
+    {
+      "id": "x9ppf9",
+      "title": "Starlink Signal Leakage Threatens Radio Astronomy's Most Critical Frequencies",
+      "description": "Score: 111 | Comments: 68 | Posted by upofadown",
+      "url": "https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies",
+      "publishedAt": "2026-09-12T00:40:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "upofadown",
+      "tags": []
+    },
+    {
+      "id": "idlcbu",
+      "title": "Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents",
+      "description": "Score: 36 | Comments: 17 | Posted by zachsaw",
+      "url": "https://github.com/zachsaw/graphify-csharp",
+      "publishedAt": "2026-09-12T00:16:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zachsaw",
+      "tags": []
+    }
+  ]
+}

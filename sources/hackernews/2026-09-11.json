@@ -3,6 +3,204 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "yf4f2y",
+      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "description": "Score: 712 | Comments: 397 | Posted by chao-",
+      "url": "https://www.rubyhack.ai/",
+      "publishedAt": "2026-09-11T23:17:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "chao-",
+      "tags": []
+    },
+    {
+      "id": "1wl1u5",
+      "title": "Project Blinkenlights",
+      "description": "Score: 96 | Comments: 31 | Posted by doener",
+      "url": "https://blinkenlights.de/en/",
+      "publishedAt": "2026-09-11T22:15:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "doener",
+      "tags": []
+    },
+    {
+      "id": "8rh1he",
+      "title": "Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",
+      "description": "Score: 58 | Comments: 19 | Posted by mirza_rizvi",
+      "url": "https://github.com/mirza-rizvi/ResolveHQ",
+      "publishedAt": "2026-09-11T21:48:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mirza_rizvi",
+      "tags": []
+    },
+    {
+      "id": "wxoa3l",
+      "title": "Another way to leak traffic on Android has been discovered",
+      "description": "Score: 73 | Comments: 7 | Posted by mhitza",
+      "url": "https://mullvad.net/en/blog/another-way-to-leak-traffic-on-android-has-been-discovered",
+      "publishedAt": "2026-09-11T21:16:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mhitza",
+      "tags": []
+    },
+    {
+      "id": "ys543o",
+      "title": "GrapheneOS' rewritten Messages app is released",
+      "description": "Score: 278 | Comments: 203 | Posted by microtonal",
+      "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
+      "publishedAt": "2026-09-11T18:50:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "microtonal",
+      "tags": []
+    },
+    {
+      "id": "qqbqjs",
+      "title": "CIA Releases President's Daily Briefs in Commemoration of 9/11",
+      "description": "Score: 141 | Comments: 68 | Posted by stmw",
+      "url": "https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/",
+      "publishedAt": "2026-09-11T18:30:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "stmw",
+      "tags": []
+    },
+    {
+      "id": "ft66az",
+      "title": "I spent $220 on Google app ads and 60% of the installs were robots",
+      "description": "Score: 535 | Comments: 280 | Posted by nickabe",
+      "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
+      "publishedAt": "2026-09-11T18:24:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nickabe",
+      "tags": []
+    },
+    {
+      "id": "bfjkct",
+      "title": "Litelm: LiteLLM Without the Bloat",
+      "description": "Score: 142 | Comments: 46 | Posted by kennethwolters",
+      "url": "https://github.com/kennethwolters/litelm",
+      "publishedAt": "2026-09-11T18:10:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kennethwolters",
+      "tags": []
+    },
+    {
+      "id": "g3fzrg",
+      "title": "The EPA is planning to scrap public review rules for data center pollution",
+      "description": "Score: 463 | Comments: 336 | Posted by doener",
+      "url": "https://capitalbnews.org/data-centers-permit-rules-epa/",
+      "publishedAt": "2026-09-11T18:05:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "doener",
+      "tags": []
+    },
+    {
+      "id": "6tjxan",
+      "title": "A misalignment of AI in mathematics",
+      "description": "Score: 936 | Comments: 897 | Posted by meredydd",
+      "url": "https://mathandai.org/",
+      "publishedAt": "2026-09-11T17:45:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "meredydd",
+      "tags": []
+    },
+    {
+      "id": "34dtid",
+      "title": "Λ Snap – An inviting programming language for kids and adults for CS study",
+      "description": "Score: 144 | Comments: 83 | Posted by dr_kiszonka",
+      "url": "https://snap.berkeley.edu/",
+      "publishedAt": "2026-09-11T17:36:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dr_kiszonka",
+      "tags": []
+    },
+    {
+      "id": "55j8o",
+      "title": "Mind-altering drugs played key role in rise of Andean civilization",
+      "description": "Score: 163 | Comments: 107 | Posted by geneticdrifts",
+      "url": "https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization",
+      "publishedAt": "2026-09-11T17:25:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "geneticdrifts",
+      "tags": []
+    },
+    {
+      "id": "br7xa6",
+      "title": "Show HN: Godot and Rust based multiplexer (terminal panes and more)",
+      "description": "Score: 87 | Comments: 45 | Posted by 1nv1n",
+      "url": "https://github.com/godot-pty/gpty",
+      "publishedAt": "2026-09-11T16:03:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "1nv1n",
+      "tags": []
+    },
+    {
+      "id": "lh9k6t",
+      "title": "118M Queries per Second on Neki",
+      "description": "Score: 93 | Comments: 47 | Posted by joshmgross",
+      "url": "https://planetscale.com/blog/118-million-queries-per-second-on-neki",
+      "publishedAt": "2026-09-11T15:56:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "joshmgross",
+      "tags": []
+    },
+    {
+      "id": "c0jqts",
+      "title": "Rune is now open source",
+      "description": "Score: 188 | Comments: 58 | Posted by ernestrc",
+      "url": "https://rune.build/blog/rune-is-now-open-source",
+      "publishedAt": "2026-09-11T15:31:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ernestrc",
+      "tags": []
+    },
+    {
+      "id": "m1xqe0",
+      "title": "Measuring the sloppiness of code",
+      "description": "Score: 262 | Comments: 228 | Posted by doppp",
+      "url": "https://earendil.com/posts/measuring-code-sloppiness/",
+      "publishedAt": "2026-09-11T13:42:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "doppp",
+      "tags": []
+    },
+    {
+      "id": "7zx36m",
+      "title": "RTK reports token savings, but our cost benchmarks disagree",
+      "description": "Score: 162 | Comments: 80 | Posted by michalwarda",
+      "url": "https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/",
+      "publishedAt": "2026-09-11T11:15:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "michalwarda",
+      "tags": []
+    },
+    {
+      "id": "8gzxiv",
+      "title": "Claude is only available to people over 18 years",
+      "description": "Score: 644 | Comments: 628 | Posted by Muhammad523",
+      "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+      "publishedAt": "2026-09-11T10:48:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Muhammad523",
+      "tags": []
+    },
+    {
       "id": "nv0f72",
       "title": "Resist \"AI\"",
       "description": "Score: 5 | Comments: 0 | Posted by mborch",
@@ -154,6 +352,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "rguiscard",
+      "tags": []
+    },
+    {
+      "id": "p0adtb",
+      "title": "Google will buy half the electricity from one of Finland's nuclear power plants",
+      "description": "Score: 363 | Comments: 324 | Posted by lukaspetersson",
+      "url": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
+      "publishedAt": "2026-09-11T00:42:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lukaspetersson",
       "tags": []
     },
     {

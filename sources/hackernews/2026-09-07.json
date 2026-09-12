@@ -102,6 +102,17 @@
       "tags": []
     },
     {
+      "id": "nfv1ky",
+      "title": "I've operated petabyte-scale ClickHouse clusters for 5 years",
+      "description": "Score: 220 | Comments: 78 | Posted by adastral",
+      "url": "https://www.tinybird.co/blog/what-i-learned-operating-clickhouse",
+      "publishedAt": "2026-09-07T18:05:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "adastral",
+      "tags": []
+    },
+    {
       "id": "45r2pp",
       "title": "The Helicopter with Radioactive Blades",
       "description": "Score: 185 | Comments: 55 | Posted by zdw",
@@ -363,6 +374,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "Bluestein",
+      "tags": []
+    },
+    {
+      "id": "c9hwdp",
+      "title": "Inverse Kinematics and Foot Locking",
+      "description": "Score: 44 | Comments: 4 | Posted by airhangerf15",
+      "url": "https://theorangeduck.com/page/inverse-kinematics-foot-locking",
+      "publishedAt": "2026-09-07T08:21:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "airhangerf15",
       "tags": []
     },
     {

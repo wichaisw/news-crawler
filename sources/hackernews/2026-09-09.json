@@ -25,6 +25,17 @@
       "tags": []
     },
     {
+      "id": "fsef3t",
+      "title": "How we rebuilt complex permissions without migrating to Zanzibar",
+      "description": "Score: 57 | Comments: 13 | Posted by FinnLobsien",
+      "url": "https://infisical.com/blog/folder-based-rbac",
+      "publishedAt": "2026-09-09T21:59:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "FinnLobsien",
+      "tags": []
+    },
+    {
       "id": "yg8k61",
       "title": "Factoring RSA 260",
       "description": "Score: 100 | Comments: 11 | Posted by samyok",
@@ -157,6 +168,17 @@
       "tags": []
     },
     {
+      "id": "2m2vbb",
+      "title": "Bomb Sense (2021)",
+      "description": "Score: 14 | Comments: 0 | Posted by surprisetalk",
+      "url": "https://danboland.net/2021/07/15/bomb-sense.html",
+      "publishedAt": "2026-09-09T15:40:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
       "id": "1rz2po",
       "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
       "description": "Score: 440 | Comments: 143 | Posted by ModelForge",
@@ -165,6 +187,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ModelForge",
+      "tags": []
+    },
+    {
+      "id": "bpsyfj",
+      "title": "A Design Space Exploration of Async/Await",
+      "description": "Score: 289 | Comments: 75 | Posted by wcrichton",
+      "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+      "publishedAt": "2026-09-09T13:59:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wcrichton",
       "tags": []
     },
     {
@@ -209,6 +242,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "willwhitedc",
+      "tags": []
+    },
+    {
+      "id": "jojc04",
+      "title": "AlphaGenome maps 9B DNA variants",
+      "description": "Score: 88 | Comments: 7 | Posted by ltononro",
+      "url": "https://spectrum.ieee.org/alphagenome-atlas",
+      "publishedAt": "2026-09-09T11:30:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ltononro",
+      "tags": []
+    },
+    {
+      "id": "pc52i4",
+      "title": "Great Lakes sturgeon may be 400 years old:Scientists rethinking how to save them",
+      "description": "Score: 69 | Comments: 7 | Posted by bookofjoe",
+      "url": "https://www.cbc.ca/news/canada/ontario-great-lakes-sturgeon-lifespan-study-9.7329250",
+      "publishedAt": "2026-09-09T11:01:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bookofjoe",
       "tags": []
     },
     {
@@ -275,6 +330,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "theanonymousone",
+      "tags": []
+    },
+    {
+      "id": "dslglx",
+      "title": "Logo Programming",
+      "description": "Score: 283 | Comments: 114 | Posted by azhenley",
+      "url": "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html",
+      "publishedAt": "2026-09-09T07:07:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "azhenley",
       "tags": []
     },
     {

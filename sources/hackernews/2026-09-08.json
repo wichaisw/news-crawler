@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "p2yftu",
+      "title": "Stop making swap partitions—use swap files instead",
+      "description": "Score: 128 | Comments: 221 | Posted by jenders",
+      "url": "https://gist.github.com/joshenders/c4960cec9c63a7b7d68ffa9543356c43",
+      "publishedAt": "2026-09-08T22:33:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jenders",
+      "tags": []
+    },
+    {
       "id": "ak0gxr",
       "title": "A Topological Picture Book, Rendered",
       "description": "Score: 110 | Comments: 11 | Posted by mathgenius",
@@ -146,6 +157,17 @@
       "tags": []
     },
     {
+      "id": "b1zwl",
+      "title": "Copper lined vest to help penguins with recovery",
+      "description": "Score: 62 | Comments: 17 | Posted by ninju",
+      "url": "https://apnews.com/article/chile-el-nino-humboldt-penguins-vulnerable-injuries-rehabilitation-6e93b8d4eaef903e4c85d16ade7d5881",
+      "publishedAt": "2026-09-08T17:28:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ninju",
+      "tags": []
+    },
+    {
       "id": "cthira",
       "title": "On the Navier–Stokes Millennium Prize Problem",
       "description": "Score: 1268 | Comments: 1017 | Posted by tedsanders",
@@ -242,6 +264,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "stared",
+      "tags": []
+    },
+    {
+      "id": "kvn414",
+      "title": "How the Chorleywood Bread Process transformed British bread",
+      "description": "Score: 117 | Comments: 114 | Posted by baud147258",
+      "url": "https://edconway.substack.com/p/the-little-holes-in-your-bread-are",
+      "publishedAt": "2026-09-08T14:28:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "baud147258",
       "tags": []
     },
     {
