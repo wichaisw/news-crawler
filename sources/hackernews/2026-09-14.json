@@ -1,0 +1,248 @@
+{
+  "date": "2026-09-14",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "a1jjio",
+      "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+      "description": "Score: 3 | Comments: 0 | Posted by tosh",
+      "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
+      "publishedAt": "2026-09-14T12:01:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tosh",
+      "tags": []
+    },
+    {
+      "id": "qxuzls",
+      "title": "D-Matrix Raptor 3D-DRAM Accelerator for Generative Inference at Hot Chips 2026",
+      "description": "Score: 6 | Comments: 0 | Posted by rbanffy",
+      "url": "https://www.servethehome.com/d-matrix-raptor-3d-dram-accelerator-for-generative-inference-at-hot-chips-2026/",
+      "publishedAt": "2026-09-14T11:27:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rbanffy",
+      "tags": []
+    },
+    {
+      "id": "phu9zk",
+      "title": "AI Risk: The Approval Nobody Signed Off",
+      "description": "Score: 5 | Comments: 0 | Posted by SanjeevSharma",
+      "url": "https://sdarchitect.blog/2026/09/06/ai-risk-a-users-guide-part-i-the-approval-nobody-signed/",
+      "publishedAt": "2026-09-14T11:17:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "SanjeevSharma",
+      "tags": []
+    },
+    {
+      "id": "iiu2je",
+      "title": "HP ZGX Fury Is Now Orderable: GB300 Superchip, 748GB Unified Memory",
+      "description": "Score: 18 | Comments: 20 | Posted by rbanffy",
+      "url": "https://www.storagereview.com/news/hp-zgx-fury-is-now-orderable-gb300-superchip-748gb-unified-memory-and-a-red-hat-ai-factory-plan-for-the-edge",
+      "publishedAt": "2026-09-14T11:05:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rbanffy",
+      "tags": []
+    },
+    {
+      "id": "7kg385",
+      "title": "Watch AI materials-science and bioscience abilities closely",
+      "description": "Score: 9 | Comments: 3 | Posted by joozio",
+      "url": "https://www.lesswrong.com/posts/SCtkSz4nQ9icLZ4uq/watch-ai-materials-science-and-bioscience-abilities-closely",
+      "publishedAt": "2026-09-14T11:01:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "joozio",
+      "tags": []
+    },
+    {
+      "id": "lseb3c",
+      "title": "Who Aligns the Aligners?",
+      "description": "Score: 16 | Comments: 5 | Posted by timr",
+      "url": "https://prestonbyrne.com/2026/09/13/aligners/",
+      "publishedAt": "2026-09-14T10:41:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "timr",
+      "tags": []
+    },
+    {
+      "id": "tdjfdu",
+      "title": "A lesson in lighting through blade runner",
+      "description": "Score: 4 | Comments: 0 | Posted by srean",
+      "url": "https://nofilmschool.com/2013/07/a-lesson-in-lighting-through-blade-runner",
+      "publishedAt": "2026-09-14T10:32:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "srean",
+      "tags": []
+    },
+    {
+      "id": "t58ky7",
+      "title": "Big AI sets out its terms for regulatory capture",
+      "description": "Score: 8 | Comments: 0 | Posted by joebuckwilliams",
+      "url": "https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067",
+      "publishedAt": "2026-09-14T10:28:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "joebuckwilliams",
+      "tags": []
+    },
+    {
+      "id": "uwlv3s",
+      "title": "Pkgsrc Is Cool (2022)",
+      "description": "Score: 19 | Comments: 6 | Posted by Tomte",
+      "url": "https://www.wisellama.rocks/posts/2021-12-23-pkgsrc-is-cool/",
+      "publishedAt": "2026-09-14T09:53:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Tomte",
+      "tags": []
+    },
+    {
+      "id": "kce2t3",
+      "title": "EuroBirdPortal – Live bird movements across Europeeurobirdportal.org",
+      "description": "Score: 99 | Comments: 37 | Posted by NKosmatos",
+      "url": "https://www.eurobirdportal.org/ebp/en/",
+      "publishedAt": "2026-09-14T09:07:14.662Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "NKosmatos",
+      "tags": []
+    },
+    {
+      "id": "yzbc7m",
+      "title": "A 386 PC for Your RP2350",
+      "description": "Score: 75 | Comments: 20 | Posted by SamuraiLion",
+      "url": "https://github.com/rh1tech/frank-386",
+      "publishedAt": "2026-09-14T08:25:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "SamuraiLion",
+      "tags": []
+    },
+    {
+      "id": "kce2t3",
+      "title": "EuroBirdPortal – Live bird movements across Europe",
+      "description": "Score: 99 | Comments: 37 | Posted by NKosmatos",
+      "url": "https://www.eurobirdportal.org/ebp/en/",
+      "publishedAt": "2026-09-14T08:25:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "NKosmatos",
+      "tags": []
+    },
+    {
+      "id": "luqdoi",
+      "title": "OpenArch – PyTorch implementations of modern LLM architectures",
+      "description": "Score: 49 | Comments: 10 | Posted by anuj0456",
+      "url": "https://github.com/anuj0456/OpenArch",
+      "publishedAt": "2026-09-14T07:55:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "anuj0456",
+      "tags": []
+    },
+    {
+      "id": "uw8i98",
+      "title": "Show HN: 1080p is 920px tall – 1k real browser viewports",
+      "description": "Score: 27 | Comments: 17 | Posted by zenpe",
+      "url": "https://screensize.net/reports/viewport-stats",
+      "publishedAt": "2026-09-14T07:35:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zenpe",
+      "tags": []
+    },
+    {
+      "id": "sqbsro",
+      "title": "No cities on the Moon – there isn't enough water, scientists say",
+      "description": "Score: 15 | Comments: 8 | Posted by geox",
+      "url": "https://www.frontiersin.org/news/2026/09/14/no-cities-on-the-moon-there-isnt-enough-water-frontiers-space-technologies",
+      "publishedAt": "2026-09-14T07:03:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "geox",
+      "tags": []
+    },
+    {
+      "id": "3h1ytf",
+      "title": "Who gets to define the rules for AI?",
+      "description": "Score: 44 | Comments: 31 | Posted by throwworhtthrow",
+      "url": "https://cohere.com/blog/who-gets-to-define-the-rules-for-ai",
+      "publishedAt": "2026-09-14T04:49:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "throwworhtthrow",
+      "tags": []
+    },
+    {
+      "id": "ujptde",
+      "title": "Chess.com Leak Exposes 7.3M Users, Evidence Points to Scraping",
+      "description": "Score: 74 | Comments: 20 | Posted by kristianp",
+      "url": "https://securityaffairs.com/197174/breaking-news/chess-com-leak-exposes-7-3-million-users-evidence-points-to-scraping.html",
+      "publishedAt": "2026-09-14T03:26:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kristianp",
+      "tags": []
+    },
+    {
+      "id": "hraz8d",
+      "title": "Nike exits the S&P 100 after 18 years and a $200B market-cap wipeout",
+      "description": "Score: 187 | Comments: 249 | Posted by andsoitis",
+      "url": "https://fortune.com/2026/09/08/nike-stock-plummets-sp500-market-cap-index/",
+      "publishedAt": "2026-09-14T02:50:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andsoitis",
+      "tags": []
+    },
+    {
+      "id": "by8gqr",
+      "title": "The Malicious Use of Artificial Intelligence",
+      "description": "Score: 73 | Comments: 20 | Posted by rasengan0",
+      "url": "https://arxiv.org/abs/1802.07228",
+      "publishedAt": "2026-09-14T01:22:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rasengan0",
+      "tags": []
+    },
+    {
+      "id": "fpjkgr",
+      "title": "The case against JPEG XL",
+      "description": "Score: 192 | Comments: 252 | Posted by contact9879",
+      "url": "https://giannirosato.com/blog/post/case-against-jxl/",
+      "publishedAt": "2026-09-14T01:02:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "contact9879",
+      "tags": []
+    },
+    {
+      "id": "kqylwi",
+      "title": "Open-source AI and open models reading list",
+      "description": "Score: 124 | Comments: 24 | Posted by simonpure",
+      "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+      "publishedAt": "2026-09-14T00:22:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "simonpure",
+      "tags": []
+    },
+    {
+      "id": "jghb1m",
+      "title": "Apple's Dimensional Drawings",
+      "description": "Score: 244 | Comments: 87 | Posted by herbertl",
+      "url": "https://developer.apple.com/accessories/dimensional-drawings/",
+      "publishedAt": "2026-09-14T00:11:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "herbertl",
+      "tags": []
+    }
+  ]
+}

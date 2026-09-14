@@ -3,6 +3,105 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "t6nmk0",
+      "title": "The Coming War on General Computation (2011)",
+      "description": "Score: 102 | Comments: 35 | Posted by gregsadetsky",
+      "url": "https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation",
+      "publishedAt": "2026-09-13T23:54:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gregsadetsky",
+      "tags": []
+    },
+    {
+      "id": "bmxow8",
+      "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
+      "description": "Score: 304 | Comments: 156 | Posted by Cider9986",
+      "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
+      "publishedAt": "2026-09-13T21:47:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Cider9986",
+      "tags": []
+    },
+    {
+      "id": "ctub5i",
+      "title": "Why is privacy so hard? (2019)",
+      "description": "Score: 52 | Comments: 55 | Posted by andsoitis",
+      "url": "https://cacm.acm.org/blogcacm/why-is-privacy-so-hard/",
+      "publishedAt": "2026-09-13T21:13:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andsoitis",
+      "tags": []
+    },
+    {
+      "id": "2gghzh",
+      "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+      "description": "Score: 1033 | Comments: 448 | Posted by u1hcw9nx",
+      "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+      "publishedAt": "2026-09-13T21:06:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "u1hcw9nx",
+      "tags": []
+    },
+    {
+      "id": "6sii2f",
+      "title": "Flawed routers flood University of Wisconsin internet time server (2003)",
+      "description": "Score: 92 | Comments: 11 | Posted by walrus01",
+      "url": "https://pages.cs.wisc.edu/~plonka/netgear-sntp/",
+      "publishedAt": "2026-09-13T20:33:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "walrus01",
+      "tags": []
+    },
+    {
+      "id": "1gonvm",
+      "title": "Mullenweg has returned as CEO after attempted board ouster",
+      "description": "Score: 194 | Comments: 262 | Posted by ilamont",
+      "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
+      "publishedAt": "2026-09-13T20:19:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ilamont",
+      "tags": []
+    },
+    {
+      "id": "kqx4ue",
+      "title": "Why is Google still serving dodgy ads?",
+      "description": "Score: 861 | Comments: 377 | Posted by iamflimflam1",
+      "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
+      "publishedAt": "2026-09-13T17:37:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "iamflimflam1",
+      "tags": []
+    },
+    {
+      "id": "cjpccu",
+      "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
+      "description": "Score: 446 | Comments: 207 | Posted by Levitating",
+      "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
+      "publishedAt": "2026-09-13T14:28:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Levitating",
+      "tags": []
+    },
+    {
+      "id": "q598pf",
+      "title": "Data collected by cars and sold to third parties",
+      "description": "Score: 436 | Comments: 222 | Posted by bookofjoe",
+      "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
+      "publishedAt": "2026-09-13T13:45:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bookofjoe",
+      "tags": []
+    },
+    {
       "id": "nuj74k",
       "title": "Nvidia dismisses \"circular financing\", says every $1 it invests brings back $100",
       "description": "Score: 14 | Comments: 4 | Posted by mgh2",

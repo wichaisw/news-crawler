@@ -3,6 +3,28 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "vov879",
+      "title": "A Vacuum Diode for Make: Magazine",
+      "description": "Score: 11 | Comments: 0 | Posted by luu",
+      "url": "https://www.nickpoole.me/2023/12/10/a-vacuum-diode-for-make-magazine/",
+      "publishedAt": "2026-09-10T23:56:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "luu",
+      "tags": []
+    },
+    {
+      "id": "q6cxuw",
+      "title": "Sean Carroll explains the biggest ideas in the universe – Full Interview [video] (2025)",
+      "description": "Score: 91 | Comments: 26 | Posted by binyu",
+      "url": "https://www.youtube.com/watch?v=_TBNJyztai0",
+      "publishedAt": "2026-09-10T23:32:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "binyu",
+      "tags": []
+    },
+    {
       "id": "pgbaci",
       "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
       "description": "Score: 107 | Comments: 100 | Posted by jonifico",
@@ -77,6 +99,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "aquir",
+      "tags": []
+    },
+    {
+      "id": "sfvdvq",
+      "title": "The GDR and Vietnam: From Fake Coffee to Coffee Empire",
+      "description": "Score: 93 | Comments: 49 | Posted by NaOH",
+      "url": "https://www.katjahoyer.uk/p/the-gdr-and-vietnam-from-fake-coffee",
+      "publishedAt": "2026-09-10T19:39:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "NaOH",
       "tags": []
     },
     {
@@ -176,6 +209,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "simon_weber",
+      "tags": []
+    },
+    {
+      "id": "8e6703",
+      "title": "Show HN: EterDB, a Postgres fork that makes it easy to recover from incidents",
+      "description": "Score: 43 | Comments: 19 | Posted by fdeth",
+      "url": "https://eterdb.com/",
+      "publishedAt": "2026-09-10T15:41:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fdeth",
       "tags": []
     },
     {
@@ -286,6 +330,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mooreds",
+      "tags": []
+    },
+    {
+      "id": "nh8oud",
+      "title": "Julia 1.13 highlights",
+      "description": "Score: 240 | Comments: 31 | Posted by eigenspace",
+      "url": "https://julialang.org/blog/2026/09/julia-1.13-highlights/",
+      "publishedAt": "2026-09-10T12:27:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "eigenspace",
       "tags": []
     },
     {
@@ -421,6 +476,17 @@
       "tags": []
     },
     {
+      "id": "8ugtwa",
+      "title": "Spaceships (Reverse Asteroid)",
+      "description": "Score: 274 | Comments: 51 | Posted by zdw",
+      "url": "https://spaceships.treybastian.com/",
+      "publishedAt": "2026-09-10T04:44:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
       "id": "19dnfe",
       "title": "OpenAI might have stolen another major proof",
       "description": "Score: 237 | Comments: 120 | Posted by tamnd",
@@ -440,6 +506,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "yurivish",
+      "tags": []
+    },
+    {
+      "id": "hj61b8",
+      "title": "Reverse engineering my e-scooter and rewriting the firmware in Rust",
+      "description": "Score: 421 | Comments: 98 | Posted by vinhnx",
+      "url": "https://bensimms.moe/reverse-engineering-scooter/",
+      "publishedAt": "2026-09-10T03:32:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vinhnx",
       "tags": []
     },
     {
