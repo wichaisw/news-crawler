@@ -3,6 +3,248 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "zcl4ne",
+      "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
+      "description": "Score: 77 | Comments: 19 | Posted by fretlessjazz",
+      "url": "https://github.com/JamesRyanATX/fcbnerd",
+      "publishedAt": "2026-09-14T23:01:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fretlessjazz",
+      "tags": []
+    },
+    {
+      "id": "h79zif",
+      "title": "Charts built for Chat",
+      "description": "Score: 238 | Comments: 74 | Posted by thingsilearned",
+      "url": "https://dbtcharts.com/blog/charts-built-for-chat/",
+      "publishedAt": "2026-09-14T21:22:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thingsilearned",
+      "tags": []
+    },
+    {
+      "id": "keg452",
+      "title": "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
+      "description": "Score: 209 | Comments: 202 | Posted by neom",
+      "url": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
+      "publishedAt": "2026-09-14T21:05:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "neom",
+      "tags": []
+    },
+    {
+      "id": "bti9cn",
+      "title": "Backprop Alternative: Augmented Lagrangian Predictive Coding",
+      "description": "Score: 103 | Comments: 36 | Posted by guld",
+      "url": "https://pub.sakana.ai/pc-alm/",
+      "publishedAt": "2026-09-14T18:03:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "guld",
+      "tags": []
+    },
+    {
+      "id": "f2lw1q",
+      "title": "iOS 27, iPadOS 27, and macOS 27",
+      "description": "Score: 622 | Comments: 716 | Posted by throw0101d",
+      "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+      "publishedAt": "2026-09-14T17:50:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "throw0101d",
+      "tags": []
+    },
+    {
+      "id": "54nk1k",
+      "title": "Steam Frame starts at $1059",
+      "description": "Score: 681 | Comments: 531 | Posted by bsimpson",
+      "url": "https://store.steampowered.com/hardware/steamframe",
+      "publishedAt": "2026-09-14T17:27:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bsimpson",
+      "tags": []
+    },
+    {
+      "id": "530mv7",
+      "title": "Pion, an agent designed to run any company autonomously",
+      "description": "Score: 419 | Comments: 519 | Posted by lukaspetersson",
+      "url": "https://andonlabs.com/blog/why-we-built-pion",
+      "publishedAt": "2026-09-14T17:16:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lukaspetersson",
+      "tags": []
+    },
+    {
+      "id": "ry07ie",
+      "title": "Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%",
+      "description": "Score: 113 | Comments: 34 | Posted by iamsyr",
+      "url": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
+      "publishedAt": "2026-09-14T17:02:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "iamsyr",
+      "tags": []
+    },
+    {
+      "id": "ihjbwg",
+      "title": "Why don't machine learning research agents overfit?",
+      "description": "Score: 130 | Comments: 75 | Posted by Betelbuddy",
+      "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+      "publishedAt": "2026-09-14T16:32:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Betelbuddy",
+      "tags": []
+    },
+    {
+      "id": "hhwnqd",
+      "title": "How my e-reader lost its stripes",
+      "description": "Score: 213 | Comments: 40 | Posted by simonmic",
+      "url": "https://www.serpentine.com/posts/2026/x3-stripes/",
+      "publishedAt": "2026-09-14T16:23:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "simonmic",
+      "tags": []
+    },
+    {
+      "id": "exptu9",
+      "title": "Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost",
+      "description": "Score: 82 | Comments: 29 | Posted by toebee",
+      "url": "https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/",
+      "publishedAt": "2026-09-14T16:07:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "toebee",
+      "tags": []
+    },
+    {
+      "id": "7v6sew",
+      "title": "Distributed Systems Classics (2017)",
+      "description": "Score: 311 | Comments: 68 | Posted by grep_it",
+      "url": "https://nvartolomei.com/dist-sys-classics/",
+      "publishedAt": "2026-09-14T16:02:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "grep_it",
+      "tags": []
+    },
+    {
+      "id": "degwbu",
+      "title": "A beginning for mathematics",
+      "description": "Score: 233 | Comments: 128 | Posted by robinhouston",
+      "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
+      "publishedAt": "2026-09-14T15:33:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "robinhouston",
+      "tags": []
+    },
+    {
+      "id": "r9eg47",
+      "title": "Principles for Fast Tokio Applications",
+      "description": "Score: 219 | Comments: 53 | Posted by carllerche",
+      "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
+      "publishedAt": "2026-09-14T15:27:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "carllerche",
+      "tags": []
+    },
+    {
+      "id": "ts0b8c",
+      "title": "Dario, Please",
+      "description": "Score: 551 | Comments: 261 | Posted by 0x5FC3",
+      "url": "https://pop.rdi.sh/dario-please/",
+      "publishedAt": "2026-09-14T14:50:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "0x5FC3",
+      "tags": []
+    },
+    {
+      "id": "aihrca",
+      "title": "A rough guide for going back to the Moon",
+      "description": "Score: 3 | Comments: 0 | Posted by gmays",
+      "url": "https://research.ibm.com/blog/nasa-ibm-lunar-foundation-model",
+      "publishedAt": "2026-09-14T14:33:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gmays",
+      "tags": []
+    },
+    {
+      "id": "ynwuw7",
+      "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
+      "description": "Score: 126 | Comments: 28 | Posted by nathannaveen",
+      "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
+      "publishedAt": "2026-09-14T14:29:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nathannaveen",
+      "tags": []
+    },
+    {
+      "id": "tr31rd",
+      "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
+      "description": "Score: 133 | Comments: 72 | Posted by 0o_MrPatrick_o0",
+      "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
+      "publishedAt": "2026-09-14T13:59:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "0o_MrPatrick_o0",
+      "tags": []
+    },
+    {
+      "id": "rhdmzf",
+      "title": "Ubuntu 26.10 completes transition to Rust-based coreutils",
+      "description": "Score: 204 | Comments: 214 | Posted by theanonymousone",
+      "url": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
+      "publishedAt": "2026-09-14T13:38:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "theanonymousone",
+      "tags": []
+    },
+    {
+      "id": "rcv4c1",
+      "title": "People who can't picture anything are rewriting the science of imagination",
+      "description": "Score: 179 | Comments: 253 | Posted by giuliomagnifico",
+      "url": "https://dailyneuron.com/aphantasia-mental-imagery-brain-network/",
+      "publishedAt": "2026-09-14T13:23:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "giuliomagnifico",
+      "tags": []
+    },
+    {
+      "id": "mfzx9k",
+      "title": "Show HN: Pelican-bicycle alternatives",
+      "description": "Score: 121 | Comments: 44 | Posted by tkgally",
+      "url": "https://gally.net/temp/20260914pelican-alternatives/index.html",
+      "publishedAt": "2026-09-14T13:20:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tkgally",
+      "tags": []
+    },
+    {
+      "id": "1jggsf",
+      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+      "description": "Score: 470 | Comments: 379 | Posted by gregnavis",
+      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+      "publishedAt": "2026-09-14T12:40:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gregnavis",
+      "tags": []
+    },
+    {
       "id": "a1jjio",
       "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
       "description": "Score: 3 | Comments: 0 | Posted by tosh",
@@ -11,6 +253,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "tosh",
+      "tags": []
+    },
+    {
+      "id": "em7148",
+      "title": "High-performance garbage collection for C++",
+      "description": "Score: 49 | Comments: 9 | Posted by motownphilly",
+      "url": "https://v8.dev/blog/high-performance-cpp-gc",
+      "publishedAt": "2026-09-14T11:55:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "motownphilly",
       "tags": []
     },
     {
@@ -99,6 +352,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "Tomte",
+      "tags": []
+    },
+    {
+      "id": "l5gh1y",
+      "title": "XCancel service is suspended until further notice",
+      "description": "Score: 658 | Comments: 947 | Posted by gaganyaan",
+      "url": "https://xcancel.com/#",
+      "publishedAt": "2026-09-14T09:51:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gaganyaan",
       "tags": []
     },
     {

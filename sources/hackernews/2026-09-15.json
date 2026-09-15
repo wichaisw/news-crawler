@@ -1,0 +1,149 @@
+{
+  "date": "2026-09-15",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "evc51k",
+      "title": "Suspected sabotage causes major Netherlands rail disruptionbbc.com",
+      "description": "Score: 82 | Comments: 46 | Posted by choult",
+      "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
+      "publishedAt": "2026-09-15T10:24:10.555Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "choult",
+      "tags": []
+    },
+    {
+      "id": "evc51k",
+      "title": "Suspected sabotage causes major Netherlands rail disruption",
+      "description": "Score: 84 | Comments: 49 | Posted by choult",
+      "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
+      "publishedAt": "2026-09-15T10:22:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "choult",
+      "tags": []
+    },
+    {
+      "id": "66f3ak",
+      "title": "Let's make quality the norm again",
+      "description": "Score: 71 | Comments: 77 | Posted by ingve",
+      "url": "https://www.forbrukerradet.no/short-life/",
+      "publishedAt": "2026-09-15T10:00:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingve",
+      "tags": []
+    },
+    {
+      "id": "tdzh64",
+      "title": "How much of F-Droid is LLM generated?",
+      "description": "Score: 48 | Comments: 24 | Posted by _ZeD_",
+      "url": "https://tintotint.eu/whacky-corner/f-droid_slop/",
+      "publishedAt": "2026-09-15T09:47:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "_ZeD_",
+      "tags": []
+    },
+    {
+      "id": "lqvs01",
+      "title": "Pythoncall.jl – Python and Julia in Harmony",
+      "description": "Score: 4 | Comments: 0 | Posted by TheWiggles",
+      "url": "https://github.com/JuliaPy/PythonCall.jl",
+      "publishedAt": "2026-09-15T08:23:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "TheWiggles",
+      "tags": []
+    },
+    {
+      "id": "8javal",
+      "title": "Alternatives to MinIO for single-node local S3",
+      "description": "Score: 35 | Comments: 24 | Posted by rmoff",
+      "url": "https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/",
+      "publishedAt": "2026-09-15T08:21:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rmoff",
+      "tags": []
+    },
+    {
+      "id": "5a25l3",
+      "title": "The k-server conjecture is true",
+      "description": "Score: 17 | Comments: 8 | Posted by iamsyr",
+      "url": "https://arxiv.org/abs/2609.15979",
+      "publishedAt": "2026-09-15T07:45:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "iamsyr",
+      "tags": []
+    },
+    {
+      "id": "j2dyd9",
+      "title": "CSS-Tricks in Limbo",
+      "description": "Score: 19 | Comments: 2 | Posted by edent",
+      "url": "https://vale.rocks/micros/20260915-0135",
+      "publishedAt": "2026-09-15T07:27:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "edent",
+      "tags": []
+    },
+    {
+      "id": "mntlva",
+      "title": "I can't stop thinking about Papua New Guineanotnottalmud.substack.com",
+      "description": "Score: 276 | Comments: 93 | Posted by networked",
+      "url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
+      "publishedAt": "2026-09-15T06:19:10.555Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "networked",
+      "tags": []
+    },
+    {
+      "id": "mntlva",
+      "title": "I can't stop thinking about Papua New Guinea",
+      "description": "Score: 276 | Comments: 93 | Posted by networked",
+      "url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
+      "publishedAt": "2026-09-15T06:16:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "networked",
+      "tags": []
+    },
+    {
+      "id": "f7p4q1",
+      "title": "Linux from Scratch",
+      "description": "Score: 206 | Comments: 67 | Posted by sippingabonedry",
+      "url": "https://www.linuxfromscratch.org/",
+      "publishedAt": "2026-09-15T04:15:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sippingabonedry",
+      "tags": []
+    },
+    {
+      "id": "icp908",
+      "title": "US confirms for first time it has deployed space weapons",
+      "description": "Score: 72 | Comments: 41 | Posted by harporoeder",
+      "url": "https://www.bbc.com/news/articles/ck790xg41ygro",
+      "publishedAt": "2026-09-15T03:47:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "harporoeder",
+      "tags": []
+    },
+    {
+      "id": "x3yovw",
+      "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
+      "description": "Score: 176 | Comments: 108 | Posted by throwworhtthrow",
+      "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
+      "publishedAt": "2026-09-15T00:40:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "throwworhtthrow",
+      "tags": []
+    }
+  ]
+}
