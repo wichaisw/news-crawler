@@ -3,6 +3,73 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "151650 at https://www.blognone.com",
+      "title": "ไมโครซอฟท์ออกภาพยนตร์สารคดี เล่าประวัติการสร้าง VS Code",
+      "description": "ไมโครซอฟท์ออกภาพยนตร์สารคดี เล่าประวัติการสร้าง VS Code Body ไมโครซอฟท์ออกภาพยนตร์สารคดีเล่าประวัติการสร้าง VS Code ความยาว 1 ชั่วโมง 38 นาที",
+      "url": "https://www.blognone.com/node/151650",
+      "publishedAt": "2026-09-15T14:55:16.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151649 at https://www.blognone.com",
+      "title": "โครงสร้างผู้ถือหุ้น Anthropic กูเกิลมีหุ้น 14% เยอะกว่ากลุ่มผู้ก่อตั้ง, Amazon ไม่เปิดเผยตัวเลข",
+      "description": "โครงสร้างผู้ถือหุ้น Anthropic กูเกิลมีหุ้น 14% เยอะกว่ากลุ่มผู้ก่อตั้ง, Amazon ไม่เปิดเผยตัวเลข Body เว็บข่าว Silent Room Journal ที่เน้นข่าวเจาะด้าน",
+      "url": "https://www.blognone.com/node/151649",
+      "publishedAt": "2026-09-15T14:34:09.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151648 at https://www.blognone.com",
+      "title": "Grab เข้าถือหุ้น 60% ใน Atome แพลตฟอร์มซื้อก่อนจ่ายทีหลัง มูลค่าดีล 1.49 พันล้านดอลลาร์",
+      "description": "Grab เข้าถือหุ้น 60% ใน Atome แพลตฟอร์มซื้อก่อนจ่ายทีหลัง มูลค่าดีล 1.49 พันล้านดอลลาร์ Body Grab ประกาศเข้าซื้อหุ้น 60% ใน Atome Financial",
+      "url": "https://www.blognone.com/node/151648",
+      "publishedAt": "2026-09-15T13:46:19.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151647 at https://www.blognone.com",
+      "title": "Salesforce เปิดตัว AIforce รวมชุด MCP/Skill เข้าเป็นชุดบริการ ระบุเป็นโอกาสดีที่จะแทน UI ซอฟต์แวร์องค์กรด้วย AI",
+      "description": "Salesforce เปิดตัว AIforce รวมชุด MCP/Skill เข้าเป็นชุดบริการ ระบุเป็นโอกาสดีที่จะแทน UI ซอฟต์แวร์องค์กรด้วย AI Body Salesforce เปิดตัวบริการ AIforce",
+      "url": "https://www.blognone.com/node/151647",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2026/2026-09/aiforce-02.jpg",
+      "publishedAt": "2026-09-15T12:48:31.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151646 at https://www.blognone.com",
+      "title": "Google อนุญาตให้พนักงานใช้ Claude เป็น AI ช่วยเขียนโค้ดได้แล้ว จากที่ผ่านเน้นใช้ Gemini",
+      "description": "Google อนุญาตให้พนักงานใช้ Claude เป็น AI ช่วยเขียนโค้ดได้แล้ว จากที่ผ่านเน้นใช้ Gemini Body Business Insider",
+      "url": "https://www.blognone.com/node/151646",
+      "publishedAt": "2026-09-15T12:15:21.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151645 at https://www.blognone.com",
+      "title": "NVIDIA ปล่อย CUDA Rust เขียน GPU kernel ได้ทั้งแบบ CUDA เดิมและ Tile",
+      "description": "NVIDIA ปล่อย CUDA Rust เขียน GPU kernel ได้ทั้งแบบ CUDA เดิมและ Tile Body NVIDIA ปล่อยชุดคอมไพเลอร์ CUDA Rust หลังจากใช้ Rust",
+      "url": "https://www.blognone.com/node/151645",
+      "publishedAt": "2026-09-15T11:15:47.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "151644 at https://www.blognone.com",
       "title": "Dario Amodei เสนอให้ผู้พัฒนา AI ชะลอความเร็ว ป้องกันผลเสียต่อมนุษยชาติ หลายฝ่ายเห็นด้วย หลายฝ่ายคัดค้าน",
       "description": "Dario Amodei เสนอให้ผู้พัฒนา AI ชะลอความเร็ว ป้องกันผลเสียต่อมนุษยชาติ หลายฝ่ายเห็นด้วย หลายฝ่ายคัดค้าน Body มีประเด็นน่าสนใจในช่วง 2-3",

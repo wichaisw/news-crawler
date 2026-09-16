@@ -1,0 +1,42 @@
+{
+  "date": "2026-09-16",
+  "source": "theverge",
+  "articles": [
+    {
+      "id": "opj65g",
+      "title": "Meta is reportedly ready to launch less pervy smart glasses",
+      "description": "Meta may be ready to reveal a new pair of smart glasses with no camera at all, amid a PR crisis for the company caused by the video recording capabilities of its flagship smart glasses. A new report from The Information claims the camera-free glasses, codenamed Luna, could be revealed as soon as the Meta [&#8230;]",
+      "url": "https://www.theverge.com/tech/996138/meta-luna-ray-ban-smart-glasses-camera-free-connect",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257966_ethics_of_recording_people_with_smart_glasses__CVirginia3-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-09-16T08:54:46.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Dominic Preston",
+      "tags": []
+    },
+    {
+      "id": "cgvo6j",
+      "title": "The Boox Palma 3 gets stylus support and a sleek redesign",
+      "description": "Nearly two years after the last update to Boox's smartphone-sized black-and-white e-reader, the company announced the Palma 3 with a sleek redesign, new functionality, and a handful of other small updates that may justify its significant price bump depending on how you plan to use it. While the Palma 2 launched in 2024 for $279.99, [&#8230;]",
+      "url": "https://www.theverge.com/tech/995826/boox-palma-3-e-ink-reader-pocket-smartphone-android-16",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/palma3_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-09-16T02:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Andrew Liszewski",
+      "tags": []
+    },
+    {
+      "id": "639e5z",
+      "title": "The EOS R8 Mark II is Canon’s lightest full-frame camera with stabilization",
+      "description": "Canon announced the second-generation of its EOS R8 with a new retro-inspired redesign and the addition of in-body stabilization. That feature was one of the most notable omissions from the original R8 that launched in 2023 as a smaller, cheaper, and more accessible alternative to the Canon R6 Mark II for photographers wanting a larger [&#8230;]",
+      "url": "https://www.theverge.com/tech/995430/canon-eos-r8-mark-11-full-frame-digital-camera-pricing-availability",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/canon1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-09-16T01:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Andrew Liszewski",
+      "tags": []
+    }
+  ]
+}

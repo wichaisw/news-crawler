@@ -3,6 +3,270 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "h3lo39",
+      "title": "Saving Jet Fuel",
+      "description": "Score: 100 | Comments: 50 | Posted by marklit",
+      "url": "https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html",
+      "publishedAt": "2026-09-15T23:17:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "marklit",
+      "tags": []
+    },
+    {
+      "id": "yuuvkz",
+      "title": "Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA",
+      "description": "Score: 132 | Comments: 39 | Posted by zdw",
+      "url": "https://nand2mario.github.io/posts/2026/zsst-voodoo/",
+      "publishedAt": "2026-09-15T22:50:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "5ukupf",
+      "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
+      "description": "Score: 227 | Comments: 79 | Posted by summarity",
+      "url": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
+      "publishedAt": "2026-09-15T21:07:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "summarity",
+      "tags": []
+    },
+    {
+      "id": "snrcv9",
+      "title": "Jean-Pierre Serre turns 100",
+      "description": "Score: 136 | Comments: 24 | Posted by jzox",
+      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Serre/",
+      "publishedAt": "2026-09-15T20:57:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jzox",
+      "tags": []
+    },
+    {
+      "id": "iucyl2",
+      "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
+      "description": "Score: 339 | Comments: 193 | Posted by ADevWithAnIdea",
+      "url": "https://codyho.dev/blog/gpu-driver/",
+      "publishedAt": "2026-09-15T19:30:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ADevWithAnIdea",
+      "tags": []
+    },
+    {
+      "id": "9dy55c",
+      "title": "WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages",
+      "description": "Score: 164 | Comments: 58 | Posted by Liogra123",
+      "url": "https://github.com/GraafHenk/numberwang",
+      "publishedAt": "2026-09-15T19:27:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Liogra123",
+      "tags": []
+    },
+    {
+      "id": "wtxiyw",
+      "title": "Introducing System One Models and Jev",
+      "description": "Score: 1451 | Comments: 411 | Posted by albelfio",
+      "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+      "publishedAt": "2026-09-15T19:25:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "albelfio",
+      "tags": []
+    },
+    {
+      "id": "jik3q7",
+      "title": "Learning to solve hard problems in RL for LLMs by never giving up",
+      "description": "Score: 98 | Comments: 6 | Posted by natolambert",
+      "url": "https://mnoukhov.github.io/posts/ngu/",
+      "publishedAt": "2026-09-15T19:07:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "natolambert",
+      "tags": []
+    },
+    {
+      "id": "kq8yid",
+      "title": "Chopping up books when they're physically too big",
+      "description": "Score: 187 | Comments: 171 | Posted by matt_kirkland",
+      "url": "https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html",
+      "publishedAt": "2026-09-15T18:45:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "matt_kirkland",
+      "tags": []
+    },
+    {
+      "id": "y9w1av",
+      "title": "We got admin access to Baseten's production GitHub",
+      "description": "Score: 286 | Comments: 162 | Posted by bearsyankees",
+      "url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
+      "publishedAt": "2026-09-15T18:11:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bearsyankees",
+      "tags": []
+    },
+    {
+      "id": "m9yi02",
+      "title": "An update on Wayback Machine access",
+      "description": "Score: 552 | Comments: 277 | Posted by ChrisArchitect",
+      "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
+      "publishedAt": "2026-09-15T17:52:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ChrisArchitect",
+      "tags": []
+    },
+    {
+      "id": "dc5d3r",
+      "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "description": "Score: 426 | Comments: 278 | Posted by leumon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+      "publishedAt": "2026-09-15T17:38:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "leumon",
+      "tags": []
+    },
+    {
+      "id": "w5eiqs",
+      "title": "Why I'm still bearish on LLMs after Navier-Stokes",
+      "description": "Score: 244 | Comments: 283 | Posted by jaykru",
+      "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
+      "publishedAt": "2026-09-15T17:37:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jaykru",
+      "tags": []
+    },
+    {
+      "id": "5j4wg9",
+      "title": "GEFS on OpenBSD: A Early Preview",
+      "description": "Score: 115 | Comments: 65 | Posted by sippingabonedry",
+      "url": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2",
+      "publishedAt": "2026-09-15T17:12:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sippingabonedry",
+      "tags": []
+    },
+    {
+      "id": "xfljwz",
+      "title": "Cartesian – AI 3D Modeling for Design",
+      "description": "Score: 108 | Comments: 78 | Posted by eustoria",
+      "url": "https://www.formas.ai/cartesian",
+      "publishedAt": "2026-09-15T15:26:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "eustoria",
+      "tags": []
+    },
+    {
+      "id": "jvaq69",
+      "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
+      "description": "Score: 48 | Comments: 31 | Posted by jd_",
+      "url": "https://github.com/pizza-bot-app/pizza-bot",
+      "publishedAt": "2026-09-15T15:20:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jd_",
+      "tags": []
+    },
+    {
+      "id": "3m7oxc",
+      "title": "The CSS Zen Garden dream, finally shipped",
+      "description": "Score: 144 | Comments: 85 | Posted by yosito",
+      "url": "https://josprague.com/blog/the-css-zen-garden-dream-finally-shipped/",
+      "publishedAt": "2026-09-15T14:40:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "yosito",
+      "tags": []
+    },
+    {
+      "id": "pmu039",
+      "title": "The Inference Hardware Revolution of 2026",
+      "description": "Score: 148 | Comments: 17 | Posted by vinhnx",
+      "url": "https://spectrum.ieee.org/inference-hardware-revolution",
+      "publishedAt": "2026-09-15T14:24:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vinhnx",
+      "tags": []
+    },
+    {
+      "id": "m4lhwk",
+      "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
+      "description": "Score: 334 | Comments: 141 | Posted by bashtian",
+      "url": "https://withcapsule.app/",
+      "publishedAt": "2026-09-15T13:31:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bashtian",
+      "tags": []
+    },
+    {
+      "id": "7ty3ov",
+      "title": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
+      "description": "Score: 190 | Comments: 33 | Posted by bobili1234",
+      "url": "https://bkovac.github.io/modem-thing/",
+      "publishedAt": "2026-09-15T13:20:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bobili1234",
+      "tags": []
+    },
+    {
+      "id": "1xfccp",
+      "title": "Java 27",
+      "description": "Score: 338 | Comments: 350 | Posted by mkurz",
+      "url": "https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/",
+      "publishedAt": "2026-09-15T13:13:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mkurz",
+      "tags": []
+    },
+    {
+      "id": "dygppj",
+      "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+      "description": "Score: 1686 | Comments: 210 | Posted by arnemunthekaas",
+      "url": "https://github.com/arnegiacomo/fugleramme",
+      "publishedAt": "2026-09-15T12:31:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "arnemunthekaas",
+      "tags": []
+    },
+    {
+      "id": "qjxqdt",
+      "title": "25 years of mass surveillance is enough",
+      "description": "Score: 861 | Comments: 317 | Posted by iamnothere",
+      "url": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
+      "publishedAt": "2026-09-15T11:26:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "iamnothere",
+      "tags": []
+    },
+    {
+      "id": "ie16a7",
+      "title": "ZTE B860H: Getting Armbian into It",
+      "description": "Score: 5 | Comments: 0 | Posted by airhangerf15",
+      "url": "https://pen.waltuh.cyou/yonle/zte-b860h-getting-armbian-into-it",
+      "publishedAt": "2026-09-15T10:29:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "airhangerf15",
+      "tags": []
+    },
+    {
       "id": "evc51k",
       "title": "Suspected sabotage causes major Netherlands rail disruptionbbc.com",
       "description": "Score: 82 | Comments: 46 | Posted by choult",
@@ -143,6 +407,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "throwworhtthrow",
+      "tags": []
+    },
+    {
+      "id": "pi0xqq",
+      "title": "Doing Everyone Else's Job",
+      "description": "Score: 83 | Comments: 40 | Posted by luu",
+      "url": "https://yosefk.com/blog/doing-everyone-elses-job.html",
+      "publishedAt": "2026-09-15T00:01:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "luu",
       "tags": []
     }
   ]

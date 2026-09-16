@@ -1,0 +1,127 @@
+{
+  "date": "2026-09-16",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "hy6s9w",
+      "title": "EU chief opens door for Canada to become 'associate member'bbc.com",
+      "description": "Score: 67 | Comments: 18 | Posted by hackernj",
+      "url": "https://www.bbc.com/news/articles/cjwyzrr9d3dko",
+      "publishedAt": "2026-09-16T10:01:36.660Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hackernj",
+      "tags": []
+    },
+    {
+      "id": "6x26gp",
+      "title": "Tech Fascism Has Come for American Democracy",
+      "description": "Score: 41 | Comments: 8 | Posted by shrubby",
+      "url": "https://techwontsave.us/episode/342_tech_fascism_has_come_for_american_democracy_w_gil_duran",
+      "publishedAt": "2026-09-16T10:00:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "shrubby",
+      "tags": []
+    },
+    {
+      "id": "hy6s9w",
+      "title": "EU chief opens door for Canada to become 'associate member'",
+      "description": "Score: 74 | Comments: 19 | Posted by hackernj",
+      "url": "https://www.bbc.com/news/articles/cjwyzrr9d3dko",
+      "publishedAt": "2026-09-16T09:54:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hackernj",
+      "tags": []
+    },
+    {
+      "id": "ycidv0",
+      "title": "Learning Programming in an Age of LLMs",
+      "description": "Score: 53 | Comments: 32 | Posted by moneroloop2018",
+      "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
+      "publishedAt": "2026-09-16T09:12:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "moneroloop2018",
+      "tags": []
+    },
+    {
+      "id": "igahrn",
+      "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+      "description": "Score: 62 | Comments: 12 | Posted by vertigoruntime",
+      "url": "https://mistral.ai/news/mistral-x-mozilla/",
+      "publishedAt": "2026-09-16T08:08:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vertigoruntime",
+      "tags": []
+    },
+    {
+      "id": "h4bpdx",
+      "title": "MartyPC – A Cycle-Accurate IBM PC/XT Emulator",
+      "description": "Score: 20 | Comments: 2 | Posted by yitchelle",
+      "url": "https://github.com/dbalsom/martypc",
+      "publishedAt": "2026-09-16T05:56:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "yitchelle",
+      "tags": []
+    },
+    {
+      "id": "hrvzh6",
+      "title": "A software thing I built: GPS on a 25MHz 486-SX",
+      "description": "Score: 31 | Comments: 8 | Posted by JPLeRouzic",
+      "url": "https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/",
+      "publishedAt": "2026-09-16T05:43:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "JPLeRouzic",
+      "tags": []
+    },
+    {
+      "id": "5skjxb",
+      "title": "Datamimic – don't let your coding agent invent its own test world",
+      "description": "Score: 41 | Comments: 7 | Posted by ake2l",
+      "url": "https://github.com/rapiddweller/datamimic",
+      "publishedAt": "2026-09-16T04:58:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ake2l",
+      "tags": []
+    },
+    {
+      "id": "51es69",
+      "title": "Negativland, Culture Jamming, and the Art of Making Something New",
+      "description": "Score: 86 | Comments: 21 | Posted by bananaboy",
+      "url": "https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/",
+      "publishedAt": "2026-09-16T02:46:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bananaboy",
+      "tags": []
+    },
+    {
+      "id": "1v8svl",
+      "title": "Stay discoverable in search while disallowing AI training",
+      "description": "Score: 75 | Comments: 43 | Posted by djfergus",
+      "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
+      "publishedAt": "2026-09-16T02:25:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "djfergus",
+      "tags": []
+    },
+    {
+      "id": "f0iclx",
+      "title": "Apple Reference Image: A New Approach for Verified Photography",
+      "description": "Score: 279 | Comments: 203 | Posted by imwally",
+      "url": "https://security.apple.com/blog/apple-reference-image/",
+      "publishedAt": "2026-09-16T02:07:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "imwally",
+      "tags": []
+    }
+  ]
+}
