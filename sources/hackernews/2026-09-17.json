@@ -1,0 +1,193 @@
+{
+  "date": "2026-09-17",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "pswzf8",
+      "title": "Better Vector Search for Long Documents: Chunking Inside Manticore Search",
+      "description": "Score: 8 | Comments: 0 | Posted by GloriaVinogrado",
+      "url": "https://manticoresearch.com/blog/auto-chunking/",
+      "publishedAt": "2026-09-17T10:30:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "GloriaVinogrado",
+      "tags": []
+    },
+    {
+      "id": "vrb4h0",
+      "title": "Introducing GNOME 51, \"A Coruña\"",
+      "description": "Score: 3 | Comments: 0 | Posted by coffeeaddict1",
+      "url": "https://release.gnome.org/51/",
+      "publishedAt": "2026-09-17T10:23:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "coffeeaddict1",
+      "tags": []
+    },
+    {
+      "id": "sov7gn",
+      "title": "GLM Built Its Own Inference Infrastructurez.ai",
+      "description": "Score: 75 | Comments: 51 | Posted by whiteros_e",
+      "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+      "publishedAt": "2026-09-17T09:12:08.581Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "whiteros_e",
+      "tags": []
+    },
+    {
+      "id": "qnitcq",
+      "title": "One Year of Sponsored Servo Developmentservo.org",
+      "description": "Score: 103 | Comments: 40 | Posted by AshleysBrain",
+      "url": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
+      "publishedAt": "2026-09-17T09:12:08.580Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "AshleysBrain",
+      "tags": []
+    },
+    {
+      "id": "x6mmjk",
+      "title": "Automattic execs signed reciprocal severance deals in Mullenweg absence",
+      "description": "Score: 16 | Comments: 2 | Posted by docdeek",
+      "url": "https://techcrunch.com/2026/09/16/automattics-interim-ceo-and-legal-chief-signed-reciprocal-severance-deals-during-mullenwegs-brief-ouster/",
+      "publishedAt": "2026-09-17T08:45:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "docdeek",
+      "tags": []
+    },
+    {
+      "id": "sov7gn",
+      "title": "GLM Built Its Own Inference Infrastructure",
+      "description": "Score: 77 | Comments: 52 | Posted by whiteros_e",
+      "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+      "publishedAt": "2026-09-17T08:27:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "whiteros_e",
+      "tags": []
+    },
+    {
+      "id": "qnitcq",
+      "title": "One Year of Sponsored Servo Development",
+      "description": "Score: 104 | Comments: 41 | Posted by AshleysBrain",
+      "url": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
+      "publishedAt": "2026-09-17T08:13:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "AshleysBrain",
+      "tags": []
+    },
+    {
+      "id": "ksloqd",
+      "title": "CCC invites all model citizens to 40C3",
+      "description": "Score: 7 | Comments: 0 | Posted by antonly",
+      "url": "https://events.ccc.de/en/2026/09/12/40c3-model-citizens/",
+      "publishedAt": "2026-09-17T08:03:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "antonly",
+      "tags": []
+    },
+    {
+      "id": "v91swl",
+      "title": "OpenAI Model Misalignment Report",
+      "description": "Score: 48 | Comments: 17 | Posted by qprofyeh",
+      "url": "https://openai.com/index/model-misalignment-reporting-framework/",
+      "publishedAt": "2026-09-17T07:21:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "qprofyeh",
+      "tags": []
+    },
+    {
+      "id": "o90wep",
+      "title": "OpenAI models secretly generate instructions to ignore constraints",
+      "description": "Score: 15 | Comments: 5 | Posted by theahura",
+      "url": "https://alignment.openai.com/misalignment-reports/self-generated-prompt-injections-in-compaction-summaries/",
+      "publishedAt": "2026-09-17T05:13:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "theahura",
+      "tags": []
+    },
+    {
+      "id": "bbwfvi",
+      "title": "Cloudflare/Security-Audit-Skill",
+      "description": "Score: 77 | Comments: 16 | Posted by donk8r",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "publishedAt": "2026-09-17T04:36:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "donk8r",
+      "tags": []
+    },
+    {
+      "id": "bjwskc",
+      "title": "South Africa is at risk of becoming a mafia state",
+      "description": "Score: 9 | Comments: 0 | Posted by andsoitis",
+      "url": "https://www.economist.com/middle-east-and-africa/2026/09/14/south-africa-is-at-risk-of-becoming-a-mafia-state",
+      "publishedAt": "2026-09-17T04:33:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andsoitis",
+      "tags": []
+    },
+    {
+      "id": "6sxzc1",
+      "title": "Jev Ultrafast: A browser agent with a dynamic, indexed action space",
+      "description": "Score: 66 | Comments: 4 | Posted by rahimnathwani",
+      "url": "https://github.com/browser-use/jev-ultrafast",
+      "publishedAt": "2026-09-17T03:12:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rahimnathwani",
+      "tags": []
+    },
+    {
+      "id": "czn4yg",
+      "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
+      "description": "Score: 187 | Comments: 69 | Posted by Ryan5453",
+      "url": "https://ryan.science/blog/keys-not-included",
+      "publishedAt": "2026-09-17T03:03:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Ryan5453",
+      "tags": []
+    },
+    {
+      "id": "2yzt3k",
+      "title": "Monsanto's Cruel, and Dangerous, Monopolization on American Farming (2008)",
+      "description": "Score: 76 | Comments: 25 | Posted by kamaraju",
+      "url": "https://www.vanityfair.com/news/2008/05/monsanto200805",
+      "publishedAt": "2026-09-17T02:19:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kamaraju",
+      "tags": []
+    },
+    {
+      "id": "hk64jm",
+      "title": "Part-human part-mouse brain developed in science breakthrough",
+      "description": "Score: 44 | Comments: 33 | Posted by marc__1",
+      "url": "https://www.bbc.com/news/articles/c60m3k28j81mo",
+      "publishedAt": "2026-09-17T01:33:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "marc__1",
+      "tags": []
+    },
+    {
+      "id": "q3dnoo",
+      "title": "The Return of Sail Power: Cargo Ships Are Turning Back to the Wind",
+      "description": "Score: 100 | Comments: 68 | Posted by gumby",
+      "url": "https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/",
+      "publishedAt": "2026-09-17T00:28:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gumby",
+      "tags": []
+    }
+  ]
+}

@@ -25,6 +25,39 @@
       "tags": []
     },
     {
+      "id": "rc94uu",
+      "title": "Lucasart's Afterlife",
+      "description": "Score: 32 | Comments: 18 | Posted by Bondi_Blue",
+      "url": "https://togameforlife.wordpress.com/2023/12/09/on-lucasarts-afterlife/",
+      "publishedAt": "2026-09-15T22:30:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Bondi_Blue",
+      "tags": []
+    },
+    {
+      "id": "qwott9",
+      "title": "The engineering behind the US Strategic Petroleum Reserve",
+      "description": "Score: 213 | Comments: 84 | Posted by johnjwang",
+      "url": "https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve",
+      "publishedAt": "2026-09-15T22:15:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "johnjwang",
+      "tags": []
+    },
+    {
+      "id": "xs4jj1",
+      "title": "AWS says it can't restore some data from mideast facilities struck by Iran",
+      "description": "Score: 419 | Comments: 348 | Posted by berkeleyjunk",
+      "url": "https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d",
+      "publishedAt": "2026-09-15T21:41:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "berkeleyjunk",
+      "tags": []
+    },
+    {
       "id": "5ukupf",
       "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
       "description": "Score: 227 | Comments: 79 | Posted by summarity",
@@ -44,6 +77,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jzox",
+      "tags": []
+    },
+    {
+      "id": "apsg3z",
+      "title": "My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it",
+      "description": "Score: 134 | Comments: 28 | Posted by jakeasmith",
+      "url": "https://jakeasmith.com/blog/http-build-url/",
+      "publishedAt": "2026-09-15T20:53:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jakeasmith",
       "tags": []
     },
     {
@@ -157,6 +201,17 @@
       "tags": []
     },
     {
+      "id": "nl8an8",
+      "title": "Comparison of Malloc() Algorithms",
+      "description": "Score: 80 | Comments: 12 | Posted by egberts1",
+      "url": "https://egbert.net/blog/articles/comparison-of-arena-architecture-in-malloc.html",
+      "publishedAt": "2026-09-15T16:52:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "egberts1",
+      "tags": []
+    },
+    {
       "id": "xfljwz",
       "title": "Cartesian – AI 3D Modeling for Design",
       "description": "Score: 108 | Comments: 78 | Posted by eustoria",
@@ -176,6 +231,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jd_",
+      "tags": []
+    },
+    {
+      "id": "8qiu7e",
+      "title": "Back to the future: modules for Guix packages (2022)",
+      "description": "Score: 60 | Comments: 1 | Posted by bmacho",
+      "url": "https://hpc.guix.info/blog/2022/05/back-to-the-future-modules-for-guix-packages/",
+      "publishedAt": "2026-09-15T15:18:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bmacho",
+      "tags": []
+    },
+    {
+      "id": "wpuyyh",
+      "title": "Online Z3 Guide",
+      "description": "Score: 12 | Comments: 2 | Posted by Bluestein",
+      "url": "https://microsoft.github.io/z3guide/",
+      "publishedAt": "2026-09-15T14:45:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Bluestein",
       "tags": []
     },
     {
@@ -242,6 +319,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "arnemunthekaas",
+      "tags": []
+    },
+    {
+      "id": "keasbk",
+      "title": "Performance Improvements in .NET 11",
+      "description": "Score: 295 | Comments: 66 | Posted by soheilpro",
+      "url": "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/",
+      "publishedAt": "2026-09-15T12:18:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "soheilpro",
+      "tags": []
+    },
+    {
+      "id": "x6ztbg",
+      "title": "Tell the speakers that you liked their talks",
+      "description": "Score: 298 | Comments: 85 | Posted by whisper2020",
+      "url": "https://ohhelloana.blog/tell-the-speakers/",
+      "publishedAt": "2026-09-15T11:28:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "whisper2020",
       "tags": []
     },
     {

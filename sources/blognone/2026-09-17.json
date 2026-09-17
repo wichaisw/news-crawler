@@ -1,0 +1,28 @@
+{
+  "date": "2026-09-17",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "151661 at https://www.blognone.com",
+      "title": "AWS ยืนยัน ข้อมูลใน mec1-az2 สูญหาย หลังถูกโจมตีระหว่างการรบระหว่างสหรัฐฯ และอิหร่าน",
+      "description": "AWS ยืนยัน ข้อมูลใน mec1-az2 สูญหาย หลังถูกโจมตีระหว่างการรบระหว่างสหรัฐฯ และอิหร่าน Body AWS อัปเดตการกู้ระบบในศูนย์ข้อมูล mec1-az2",
+      "url": "https://www.blognone.com/node/151661",
+      "publishedAt": "2026-09-17T06:29:23.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151660 at https://www.blognone.com",
+      "title": "Xiaomi เปิดหน้าจอฝึกโมเดล MiMo-2.6 โชว์ผลทดสอบ DeepSWE ดีขึ้นกว่ารุ่นก่อนหน้ามาก",
+      "description": "Xiaomi เปิดหน้าจอฝึกโมเดล MiMo-2.6 โชว์ผลทดสอบ DeepSWE ดีขึ้นกว่ารุ่นก่อนหน้ามาก Body ทีมงาน Xiaomi MiMo เปิดเว็บ RL big runs แสดงผลการฝึกแบบสดๆ ของ",
+      "url": "https://www.blognone.com/node/151660",
+      "publishedAt": "2026-09-17T03:47:01.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}

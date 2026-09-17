@@ -3,6 +3,171 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "88x00j",
+      "title": "US interest rates raised for first time in three years",
+      "description": "Score: 80 | Comments: 74 | Posted by higginsniggins",
+      "url": "https://www.bbc.com/news/articles/cw4gmlyvj422o",
+      "publishedAt": "2026-09-16T23:25:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "higginsniggins",
+      "tags": []
+    },
+    {
+      "id": "o5uhd8",
+      "title": "OpenSpec – A lightweight and configurable AI spec framework",
+      "description": "Score: 144 | Comments: 65 | Posted by etoxin",
+      "url": "https://openspec.dev/",
+      "publishedAt": "2026-09-16T23:06:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "etoxin",
+      "tags": []
+    },
+    {
+      "id": "xr3eci",
+      "title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
+      "description": "Score: 137 | Comments: 55 | Posted by matt_d",
+      "url": "https://harnesstax.github.io/",
+      "publishedAt": "2026-09-16T22:10:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "matt_d",
+      "tags": []
+    },
+    {
+      "id": "5a2o0z",
+      "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+      "description": "Score: 210 | Comments: 33 | Posted by matt_d",
+      "url": "https://arxiv.org/abs/2609.16338",
+      "publishedAt": "2026-09-16T20:59:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "matt_d",
+      "tags": []
+    },
+    {
+      "id": "6j5u4e",
+      "title": "Backups Aren't Simple",
+      "description": "Score: 250 | Comments: 153 | Posted by afilipovski",
+      "url": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
+      "publishedAt": "2026-09-16T20:27:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "afilipovski",
+      "tags": []
+    },
+    {
+      "id": "l5l52t",
+      "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+      "description": "Score: 445 | Comments: 122 | Posted by krackers",
+      "url": "https://mimo.xiaomi.com/rl/",
+      "publishedAt": "2026-09-16T20:09:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "krackers",
+      "tags": []
+    },
+    {
+      "id": "5a1hs6",
+      "title": "Accurate Models of AMD Matrix Cores",
+      "description": "Score: 71 | Comments: 9 | Posted by matt_d",
+      "url": "https://arxiv.org/abs/2609.14845",
+      "publishedAt": "2026-09-16T18:56:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "matt_d",
+      "tags": []
+    },
+    {
+      "id": "3ucacc",
+      "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+      "description": "Score: 562 | Comments: 120 | Posted by polyphilz",
+      "url": "https://rohanbansal.com/qorl",
+      "publishedAt": "2026-09-16T18:50:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "polyphilz",
+      "tags": []
+    },
+    {
+      "id": "e65jhk",
+      "title": "Reverse-engineered Jev-like model",
+      "description": "Score: 131 | Comments: 20 | Posted by rochansinha",
+      "url": "https://github.com/vinnylarouge/jevlike",
+      "publishedAt": "2026-09-16T18:49:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rochansinha",
+      "tags": []
+    },
+    {
+      "id": "8us6bh",
+      "title": "Small programming tricks",
+      "description": "Score: 533 | Comments: 240 | Posted by signa11",
+      "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+      "publishedAt": "2026-09-16T15:56:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "signa11",
+      "tags": []
+    },
+    {
+      "id": "4j7dqi",
+      "title": "The DeepMind Institute",
+      "description": "Score: 172 | Comments: 62 | Posted by vertigoruntime",
+      "url": "https://institute.deepmind.com/",
+      "publishedAt": "2026-09-16T14:32:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vertigoruntime",
+      "tags": []
+    },
+    {
+      "id": "3tdvoc",
+      "title": "Anatomy of a Texture",
+      "description": "Score: 97 | Comments: 15 | Posted by Agentlien",
+      "url": "https://agentlien.github.io/texture/",
+      "publishedAt": "2026-09-16T14:28:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Agentlien",
+      "tags": []
+    },
+    {
+      "id": "5a1ht4",
+      "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
+      "description": "Score: 205 | Comments: 49 | Posted by bananaflag",
+      "url": "https://arxiv.org/abs/2609.14858",
+      "publishedAt": "2026-09-16T13:44:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bananaflag",
+      "tags": []
+    },
+    {
+      "id": "e2ue79",
+      "title": "Hackers Got Inside a Flock Camera",
+      "description": "Score: 530 | Comments: 243 | Posted by driverdan",
+      "url": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
+      "publishedAt": "2026-09-16T13:18:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "driverdan",
+      "tags": []
+    },
+    {
+      "id": "tsgbpk",
+      "title": "Nvidia announces native GPU programming in Rust",
+      "description": "Score: 719 | Comments: 296 | Posted by nonmaskable",
+      "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+      "publishedAt": "2026-09-16T11:15:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nonmaskable",
+      "tags": []
+    },
+    {
       "id": "hy6s9w",
       "title": "EU chief opens door for Canada to become 'associate member'bbc.com",
       "description": "Score: 67 | Comments: 18 | Posted by hackernj",
@@ -121,6 +286,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "imwally",
+      "tags": []
+    },
+    {
+      "id": "1wmwab",
+      "title": "A 32-year-old bug walks into a Telnet server",
+      "description": "Score: 65 | Comments: 27 | Posted by paimapi",
+      "url": "https://labs.watchtowr.com/a-32-year-old-bug-walks-into-a-telnet-server-gnu-inetutils-telnetd-cve-2026-32746/",
+      "publishedAt": "2026-09-16T02:01:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "paimapi",
       "tags": []
     }
   ]

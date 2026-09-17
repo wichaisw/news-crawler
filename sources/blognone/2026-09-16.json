@@ -3,6 +3,61 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "151659 at https://www.blognone.com",
+      "title": "RustFS เซิร์ฟเวอร์ S3 สำหรับเก็บไฟล์ ออกรุ่น 1.0.0 GA พร้อมใช้งานโปรดักชัน",
+      "description": "RustFS เซิร์ฟเวอร์ S3 สำหรับเก็บไฟล์ ออกรุ่น 1.0.0 GA พร้อมใช้งานโปรดักชัน Body RustFS โครงการซอฟต์แวร์เซิร์ฟเวอร์สตอเรจแบบ S3",
+      "url": "https://www.blognone.com/node/151659",
+      "publishedAt": "2026-09-16T16:15:08.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151658 at https://www.blognone.com",
+      "title": "EU เตรียมเสนอกฎหมายห้ามเด็กอายุต่ำกว่า 13 ปี ใช้งานโซเชียลมีเดีย",
+      "description": "EU เตรียมเสนอกฎหมายห้ามเด็กอายุต่ำกว่า 13 ปี ใช้งานโซเชียลมีเดีย Body สหภาพยุโรปออกร่างกฎหมาย EU Kids Act ซึ่งมีประเด็นสำคัญคือการห้ามเด็กอายุต่ำกว่า",
+      "url": "https://www.blognone.com/node/151658",
+      "publishedAt": "2026-09-16T13:39:51.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151657 at https://www.blognone.com",
+      "title": "Apple อธิบายการทำงานของ Reference Image ระบบยืนยันว่าภาพถ่ายนี้มาจาก iPhone จริง ที่มีใน iPhone 18 Pro",
+      "description": "Apple อธิบายการทำงานของ Reference Image ระบบยืนยันว่าภาพถ่ายนี้มาจาก iPhone จริง ที่มีใน iPhone 18 Pro Body",
+      "url": "https://www.blognone.com/node/151657",
+      "publishedAt": "2026-09-16T13:13:01.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151656 at https://www.blognone.com",
+      "title": "TypeSafe AI เปิดตัว Jev ปัญญาประดิษฐ์ช่วยตัดสินใจ ทำงานเร็ว ราคาถูก",
+      "description": "TypeSafe AI เปิดตัว Jev ปัญญาประดิษฐ์ช่วยตัดสินใจ ทำงานเร็ว ราคาถูก Body TypeSafe AI ที่ร่วมก่อตั้งโดย Diogo Almeida อดีตทีมงาน OpenAI เปิดตัว Jev",
+      "url": "https://www.blognone.com/node/151656",
+      "publishedAt": "2026-09-16T12:58:25.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151655 at https://www.blognone.com",
+      "title": "Salesforce พบปัญหาใช้งานไม่ได้กระทบทั่วโลก ล่าสุดทยอยใช้ได้บางส่วนแล้ว",
+      "description": "Salesforce พบปัญหาใช้งานไม่ได้กระทบทั่วโลก ล่าสุดทยอยใช้ได้บางส่วนแล้ว Body มีรายงานปัญหาระบบของ Salesforce ไม่สามารถใช้งานหรือพบความล่าช้าของข้อมูล",
+      "url": "https://www.blognone.com/node/151655",
+      "publishedAt": "2026-09-16T11:38:05.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "151652 at https://www.blognone.com",
       "title": "Google อัปเดต Gemini 3.8 Live สำหรับการสนทนาเสียงเรียลไทม์ พร้อมเวอร์ชัน Thinking สำหรับคำสั่้งซับซ้อน",
       "description": "Google อัปเดต Gemini 3.8 Live สำหรับการสนทนาเสียงเรียลไทม์ พร้อมเวอร์ชัน Thinking สำหรับคำสั่้งซับซ้อน Body กูเกิลอัปเดตโมเดล Gemini 3.8 Live และ",
