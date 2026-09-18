@@ -3,6 +3,204 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "v1s6jb",
+      "title": "Qwen 3.8 Omni Flash",
+      "description": "Score: 232 | Comments: 82 | Posted by jjcm",
+      "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+      "publishedAt": "2026-09-17T23:05:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jjcm",
+      "tags": []
+    },
+    {
+      "id": "xeiojb",
+      "title": "How to Write with an LLM",
+      "description": "Score: 177 | Comments: 104 | Posted by joeriddles",
+      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+      "publishedAt": "2026-09-17T21:48:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "joeriddles",
+      "tags": []
+    },
+    {
+      "id": "uziv06",
+      "title": "How Uber Protects Against Retry Storms",
+      "description": "Score: 102 | Comments: 44 | Posted by iscmt",
+      "url": "https://www.uber.com/us/en/blog/protecting-against-retry-storms/",
+      "publishedAt": "2026-09-17T21:14:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "iscmt",
+      "tags": []
+    },
+    {
+      "id": "s30der",
+      "title": "How SpaceX Streamlined the Raptor Engine",
+      "description": "Score: 44 | Comments: 2 | Posted by JumpCrisscross",
+      "url": "https://www.construction-physics.com/p/how-spacex-streamlined-the-raptor",
+      "publishedAt": "2026-09-17T21:14:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "JumpCrisscross",
+      "tags": []
+    },
+    {
+      "id": "a9v400",
+      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+      "description": "Score: 460 | Comments: 135 | Posted by JonSchneider",
+      "url": "https://prismml.com/news/bonsai-2-27b",
+      "publishedAt": "2026-09-17T21:13:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "JonSchneider",
+      "tags": []
+    },
+    {
+      "id": "b6r0y6",
+      "title": "The most important product decision is what you don't build",
+      "description": "Score: 108 | Comments: 39 | Posted by ChrisArchitect",
+      "url": "https://liamnugent.me/posts/what-you-dont-build/",
+      "publishedAt": "2026-09-17T20:52:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ChrisArchitect",
+      "tags": []
+    },
+    {
+      "id": "xjjrcy",
+      "title": "Show HN: Snapdrop: Instantly share files between devices. No setup, no signup",
+      "description": "Score: 76 | Comments: 39 | Posted by Capira",
+      "url": "https://snapdrop.me",
+      "publishedAt": "2026-09-17T20:48:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Capira",
+      "tags": []
+    },
+    {
+      "id": "9yjep0",
+      "title": "Flet 1.0 – Build cross-platform apps in Python",
+      "description": "Score: 130 | Comments: 59 | Posted by absqueued",
+      "url": "https://flet.dev/",
+      "publishedAt": "2026-09-17T20:44:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "absqueued",
+      "tags": []
+    },
+    {
+      "id": "6rctl5",
+      "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+      "description": "Score: 480 | Comments: 223 | Posted by nicolas-siplis",
+      "url": "https://bend-lang.com/",
+      "publishedAt": "2026-09-17T20:36:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nicolas-siplis",
+      "tags": []
+    },
+    {
+      "id": "k7uvx7",
+      "title": "Astra for Law",
+      "description": "Score: 499 | Comments: 585 | Posted by vertigoruntime",
+      "url": "https://openai.com/index/astra-for-law/",
+      "publishedAt": "2026-09-17T20:17:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vertigoruntime",
+      "tags": []
+    },
+    {
+      "id": "7cip0a",
+      "title": "Towards Self-Driving Codebases",
+      "description": "Score: 114 | Comments: 85 | Posted by wilhelmklopp",
+      "url": "https://blog.detail.dev/posts/towards-self-driving-codebases/",
+      "publishedAt": "2026-09-17T16:58:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wilhelmklopp",
+      "tags": []
+    },
+    {
+      "id": "5a41q7",
+      "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
+      "description": "Score: 148 | Comments: 39 | Posted by Betelbuddy",
+      "url": "https://arxiv.org/abs/2609.18842",
+      "publishedAt": "2026-09-17T16:55:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Betelbuddy",
+      "tags": []
+    },
+    {
+      "id": "smqelk",
+      "title": "Hister: A private search engine for the pages you visit and the files you keep",
+      "description": "Score: 621 | Comments: 170 | Posted by bookofjoe",
+      "url": "https://github.com/asciimoo/hister",
+      "publishedAt": "2026-09-17T16:25:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bookofjoe",
+      "tags": []
+    },
+    {
+      "id": "q834g6",
+      "title": "LLM Classification Is Feature Engineering",
+      "description": "Score: 103 | Comments: 20 | Posted by minsufficient",
+      "url": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/",
+      "publishedAt": "2026-09-17T15:40:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "minsufficient",
+      "tags": []
+    },
+    {
+      "id": "jll1sr",
+      "title": "CrowdSec Source Code Leak",
+      "description": "Score: 152 | Comments: 49 | Posted by eccgecko",
+      "url": "https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure",
+      "publishedAt": "2026-09-17T15:34:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "eccgecko",
+      "tags": []
+    },
+    {
+      "id": "vw7ser",
+      "title": "Rate limits on GitLab.com are changing",
+      "description": "Score: 167 | Comments: 119 | Posted by darkwater",
+      "url": "https://about.gitlab.com/blog/rate-limit-change-2026/",
+      "publishedAt": "2026-09-17T15:33:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "darkwater",
+      "tags": []
+    },
+    {
+      "id": "p8wc17",
+      "title": "The American Religion of Self-Storage Facilities",
+      "description": "Score: 232 | Comments: 401 | Posted by pseudolus",
+      "url": "https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities",
+      "publishedAt": "2026-09-17T13:12:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pseudolus",
+      "tags": []
+    },
+    {
+      "id": "cml2yt",
+      "title": "Show HN: Share your AI Setup, Learn from others",
+      "description": "Score: 216 | Comments: 121 | Posted by steveybrown",
+      "url": "https://mysetup.ai/",
+      "publishedAt": "2026-09-17T13:01:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "steveybrown",
+      "tags": []
+    },
+    {
       "id": "pswzf8",
       "title": "Better Vector Search for Long Documents: Chunking Inside Manticore Search",
       "description": "Score: 8 | Comments: 0 | Posted by GloriaVinogrado",
@@ -44,6 +242,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "AshleysBrain",
+      "tags": []
+    },
+    {
+      "id": "jr3geg",
+      "title": "Why I didn’t sign the Fields medallists’ letter",
+      "description": "Score: 258 | Comments: 370 | Posted by simianwords",
+      "url": "https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/",
+      "publishedAt": "2026-09-17T08:51:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "simianwords",
       "tags": []
     },
     {

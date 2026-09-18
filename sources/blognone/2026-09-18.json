@@ -1,0 +1,61 @@
+{
+  "date": "2026-09-18",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "151671 at https://www.blognone.com",
+      "title": "กูเกิลเปิด Google Home MCP Server ให้ Agent ภายนอกเรียกใช้งาน",
+      "description": "กูเกิลเปิด Google Home MCP Server ให้ Agent ภายนอกเรียกใช้งาน Body กูเกิลประกาศเปิด เซิร์ฟเวอร์ Model Context Protocol (MCP) ของแพลตฟอร์ม Google Home",
+      "url": "https://www.blognone.com/node/151671",
+      "publishedAt": "2026-09-18T09:39:37.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151669 at https://www.blognone.com",
+      "title": "เปิดตัว Meta One บริการพรีเมียมรายเดือน จ่ายเงินซื้อฟีเจอร์ให้ Facebook, Instagram, WhatsApp",
+      "description": "เปิดตัว Meta One บริการพรีเมียมรายเดือน จ่ายเงินซื้อฟีเจอร์ให้ Facebook, Instagram, WhatsApp Body Meta เปิดตัวแพ็กเกจสมาชิกพรีเมียมที่มีชื่อเรียกรวมๆ",
+      "url": "https://www.blognone.com/node/151669",
+      "publishedAt": "2026-09-18T03:15:52.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151668 at https://www.blognone.com",
+      "title": "[ลือ] AMD และ Intel จะขึ้นราคาชิป 10% ในไตรมาส 4/2026",
+      "description": "[ลือ] AMD และ Intel จะขึ้นราคาชิป 10% ในไตรมาส 4/2026 Body มีข่าวลือมาจากแวดวงซัพพลายเชนว่า TSMC แจ้งลูกค้าว่าจะต้องขึ้นราคาค่าผลิตชิปอีกราว 10%",
+      "url": "https://www.blognone.com/node/151668",
+      "publishedAt": "2026-09-18T03:03:46.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151667 at https://www.blognone.com",
+      "title": "Waymo ประกาศให้บริการรถแท็กซี่ไร้คนขับในสิงคโปร์ ทดสอบปี 2027 เปิดจริง 2028",
+      "description": "Waymo ประกาศให้บริการรถแท็กซี่ไร้คนขับในสิงคโปร์ ทดสอบปี 2027 เปิดจริง 2028 Body Waymo ประกาศให้บริการแท็กซี่ไร้คนขับในประเทศสิงคโปร์ เริ่มต้นปี 2028",
+      "url": "https://www.blognone.com/node/151667",
+      "publishedAt": "2026-09-18T02:45:54.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151666 at https://www.blognone.com",
+      "title": "SteamOS รองรับจีพียู NVIDIA แล้ว แต่ประสิทธิภาพยังแย่อยู่",
+      "description": "SteamOS รองรับจีพียู NVIDIA แล้ว แต่ประสิทธิภาพยังแย่อยู่ Body IGN มีโอกาสสัมภาษณ์ Pierre-Loup Griffais และ Jeff Leinbaugh นักพัฒนาของ Valve",
+      "url": "https://www.blognone.com/node/151666",
+      "publishedAt": "2026-09-18T02:37:58.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}

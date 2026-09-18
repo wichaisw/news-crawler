@@ -1,0 +1,149 @@
+{
+  "date": "2026-09-18",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "b3o5k6",
+      "title": "OpenJevopenjev.com",
+      "description": "Score: 79 | Comments: 25 | Posted by ilreb",
+      "url": "https://openjev.com/",
+      "publishedAt": "2026-09-18T09:45:20.555Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ilreb",
+      "tags": []
+    },
+    {
+      "id": "jajt8h",
+      "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+      "description": "Score: 62 | Comments: 21 | Posted by pluc",
+      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+      "publishedAt": "2026-09-18T09:45:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pluc",
+      "tags": []
+    },
+    {
+      "id": "b3o5k6",
+      "title": "OpenJev",
+      "description": "Score: 79 | Comments: 26 | Posted by ilreb",
+      "url": "https://openjev.com/",
+      "publishedAt": "2026-09-18T09:42:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ilreb",
+      "tags": []
+    },
+    {
+      "id": "xk148h",
+      "title": "Jemalloc 5.4.0github.com/jemalloc",
+      "description": "Score: 162 | Comments: 46 | Posted by gkfasdfasdf",
+      "url": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
+      "publishedAt": "2026-09-18T04:45:20.555Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gkfasdfasdf",
+      "tags": []
+    },
+    {
+      "id": "xk148h",
+      "title": "Jemalloc 5.4.0",
+      "description": "Score: 162 | Comments: 46 | Posted by gkfasdfasdf",
+      "url": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
+      "publishedAt": "2026-09-18T04:20:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gkfasdfasdf",
+      "tags": []
+    },
+    {
+      "id": "zbsrze",
+      "title": "The scourge of x86 emulation",
+      "description": "Score: 155 | Comments: 27 | Posted by dagmx",
+      "url": "https://fex-emu.com/Scourge-of-emulation/",
+      "publishedAt": "2026-09-18T04:09:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dagmx",
+      "tags": []
+    },
+    {
+      "id": "5a3eo8",
+      "title": "Reflections on Trusting Trust, Revisited: Poisoning Self-Modifying AI Coding",
+      "description": "Score: 8 | Comments: 0 | Posted by sbulaev",
+      "url": "https://arxiv.org/abs/2609.17817",
+      "publishedAt": "2026-09-18T04:07:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sbulaev",
+      "tags": []
+    },
+    {
+      "id": "wzb3zp",
+      "title": "Pre-Greek: The lost language hidden within Ancient Greek",
+      "description": "Score: 87 | Comments: 40 | Posted by axiologist",
+      "url": "https://linguisticdiscovery.com/posts/pre-greek/",
+      "publishedAt": "2026-09-18T03:04:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "axiologist",
+      "tags": []
+    },
+    {
+      "id": "hsrnu8",
+      "title": "Code Scans",
+      "description": "Score: 21 | Comments: 5 | Posted by geoffbp",
+      "url": "https://devin.ai/blog/introducing-code-scans",
+      "publishedAt": "2026-09-18T03:00:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "geoffbp",
+      "tags": []
+    },
+    {
+      "id": "up4vgy",
+      "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
+      "description": "Score: 364 | Comments: 155 | Posted by Handy-Man",
+      "url": "https://www.hacktron.ai/blog/hacking-openai",
+      "publishedAt": "2026-09-18T02:47:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Handy-Man",
+      "tags": []
+    },
+    {
+      "id": "4wu2yp",
+      "title": "Shapelearn Qwen 3.8 27B (13.1 GB VRAM)",
+      "description": "Score: 70 | Comments: 11 | Posted by syntaxing",
+      "url": "https://byteshape.com/blogs/Qwen3.8-27B/",
+      "publishedAt": "2026-09-18T02:04:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "syntaxing",
+      "tags": []
+    },
+    {
+      "id": "8m0zuz",
+      "title": "Ask A Monk – A digital wilderness for thoughts with no immediate answer",
+      "description": "Score: 43 | Comments: 24 | Posted by 13613288957",
+      "url": "https://askamonk.online",
+      "publishedAt": "2026-09-18T01:34:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "13613288957",
+      "tags": []
+    },
+    {
+      "id": "g376wl",
+      "title": "Telstra outage: The night a network decided the year was 2006",
+      "description": "Score: 59 | Comments: 27 | Posted by TMWNN",
+      "url": "https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006",
+      "publishedAt": "2026-09-18T01:05:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "TMWNN",
+      "tags": []
+    }
+  ]
+}
