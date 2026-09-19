@@ -1,0 +1,83 @@
+{
+  "date": "2026-09-19",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "151682 at https://www.blognone.com",
+      "title": "Anthropic ตั้งสำนักงานสาขาที่สิงคโปร์ เป็นแห่งแรกใน South East Asia",
+      "description": "Anthropic ตั้งสำนักงานสาขาที่สิงคโปร์ เป็นแห่งแรกใน South East Asia Body Anthropic ประกาศเปิดสำนักงานสาขาที่ประเทศสิงคโปร์ในเดือนตุลาคมนี้",
+      "url": "https://www.blognone.com/node/151682",
+      "publishedAt": "2026-09-19T08:23:00.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151683 at https://www.blognone.com",
+      "title": "Edits เตรียมเพิ่ม subsciption จ่ายเงินได้ฟีเจอร์เพิ่มเติม เป็นส่วนหนึ่งของ Meta One",
+      "description": "Edits เตรียมเพิ่ม subsciption จ่ายเงินได้ฟีเจอร์เพิ่มเติม เป็นส่วนหนึ่งของ Meta One Body ในประกาศเรื่องแพ็คเกจ Subscription Meta One",
+      "url": "https://www.blognone.com/node/151683",
+      "publishedAt": "2026-09-19T07:09:24.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151680 at https://www.blognone.com",
+      "title": "สายการบิน Korean Air และ Asiana Airlines เริ่มให้บริการ Starlink ฟรี ในบางเที่ยวบินแล้ว",
+      "description": "สายการบิน Korean Air และ Asiana Airlines เริ่มให้บริการ Starlink ฟรี ในบางเที่ยวบินแล้ว Body สายการบิน Korean Air และ Asiana Airlines ของเกาหลีใต้",
+      "url": "https://www.blognone.com/node/151680",
+      "publishedAt": "2026-09-19T04:57:13.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151679 at https://www.blognone.com",
+      "title": "Google ยืนยันเหตุการณ์ Gemini ทำงานผิดจากคำสั่ง ไปเจาะระบบบริษัทภายนอก 3 แห่ง",
+      "description": "Google ยืนยันเหตุการณ์ Gemini ทำงานผิดจากคำสั่ง ไปเจาะระบบบริษัทภายนอก 3 แห่ง Body ข่าวสาร AI กับการเจาะระบบประจำวันนี้มาจากกูเกิล",
+      "url": "https://www.blognone.com/node/151679",
+      "publishedAt": "2026-09-19T04:39:52.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151678 at https://www.blognone.com",
+      "title": "ไม่ต้องจดเองแล้ว แอพ Gemini Notebook เพิ่มฟีเจอร์อัดเสียงเลคเชอร์ แปลงเป็นโน้ต",
+      "description": "ไม่ต้องจดเองแล้ว แอพ Gemini Notebook เพิ่มฟีเจอร์อัดเสียงเลคเชอร์ แปลงเป็นโน้ต Body กูเกิลเพิ่มฟีเจอร์ให้ Gemini Notebook (NotebookLM เดิม)",
+      "url": "https://www.blognone.com/node/151678",
+      "publishedAt": "2026-09-19T02:29:51.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151677 at https://www.blognone.com",
+      "title": "Java 27 ออกแล้ว เปลี่ยนมาใช้ G1 เป็น Garbage Collector หลักในทุกเวอร์ชัน",
+      "description": "Java 27 ออกแล้ว เปลี่ยนมาใช้ G1 เป็น Garbage Collector หลักในทุกเวอร์ชัน Body Oracle เปิดตัว Java 27 ตามรอบการออกทุก 6 เดือน",
+      "url": "https://www.blognone.com/node/151677",
+      "publishedAt": "2026-09-19T02:16:05.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151676 at https://www.blognone.com",
+      "title": "Android เพิ่มฟีเจอร์ช่วยย้ายรหัสผ่านข้าม Password Manager อย่างปลอดภัย",
+      "description": "Android เพิ่มฟีเจอร์ช่วยย้ายรหัสผ่านข้าม Password Manager อย่างปลอดภัย Body Android เพิ่มฟีเจอร์อำนวยความสะดวกให้เราย้ายรหัสผ่านและ passkey จากแอพ",
+      "url": "https://www.blognone.com/node/151676",
+      "publishedAt": "2026-09-19T02:11:40.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}

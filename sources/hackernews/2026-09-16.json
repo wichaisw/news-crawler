@@ -25,6 +25,17 @@
       "tags": []
     },
     {
+      "id": "h9m1qp",
+      "title": "Why building a Rust LSP is hard",
+      "description": "Score: 84 | Comments: 32 | Posted by agluszak",
+      "url": "https://rust-glancer.github.io/blog/why-lsp-is-hard/",
+      "publishedAt": "2026-09-16T22:51:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "agluszak",
+      "tags": []
+    },
+    {
       "id": "xr3eci",
       "title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
       "description": "Score: 137 | Comments: 55 | Posted by matt_d",
@@ -33,6 +44,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "matt_d",
+      "tags": []
+    },
+    {
+      "id": "5zjwi6",
+      "title": "Typesafe-computer-use drives a Mac toward a goal for 1/50th of a cent per step",
+      "description": "Score: 81 | Comments: 52 | Posted by rahimnathwani",
+      "url": "https://github.com/awlevin/typesafe-computer-use",
+      "publishedAt": "2026-09-16T22:01:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rahimnathwani",
+      "tags": []
+    },
+    {
+      "id": "p9f5td",
+      "title": "LispBM is a concurrent Lisp for microcontrollers with message passing",
+      "description": "Score: 29 | Comments: 5 | Posted by so-cal-schemer",
+      "url": "https://www.lispbm.com/",
+      "publishedAt": "2026-09-16T21:49:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "so-cal-schemer",
       "tags": []
     },
     {
@@ -80,6 +113,17 @@
       "tags": []
     },
     {
+      "id": "ditueu",
+      "title": "Cyclomatic Complexity in C#",
+      "description": "Score: 64 | Comments: 23 | Posted by gone35",
+      "url": "https://blog.ndepend.com/understanding-cyclomatic-complexity/",
+      "publishedAt": "2026-09-16T19:01:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gone35",
+      "tags": []
+    },
+    {
       "id": "5a1hs6",
       "title": "Accurate Models of AMD Matrix Cores",
       "description": "Score: 71 | Comments: 9 | Posted by matt_d",
@@ -113,6 +157,17 @@
       "tags": []
     },
     {
+      "id": "99blt4",
+      "title": "You can run Git on object storage if you re-make packfiles",
+      "description": "Score: 48 | Comments: 15 | Posted by evacchi",
+      "url": "https://www.tigrisdata.com/blog/objgit-packfiles/",
+      "publishedAt": "2026-09-16T17:16:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "evacchi",
+      "tags": []
+    },
+    {
       "id": "8us6bh",
       "title": "Small programming tricks",
       "description": "Score: 533 | Comments: 240 | Posted by signa11",
@@ -121,6 +176,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "signa11",
+      "tags": []
+    },
+    {
+      "id": "th0ybn",
+      "title": "Veronese's Dogs",
+      "description": "Score: 7 | Comments: 1 | Posted by prismatic",
+      "url": "https://publicdomainreview.org/essay/veroneses-dogs",
+      "publishedAt": "2026-09-16T15:32:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "prismatic",
       "tags": []
     },
     {
@@ -176,6 +242,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "bananaflag",
+      "tags": []
+    },
+    {
+      "id": "wu5ho9",
+      "title": "Goroutine Leak Profiles",
+      "description": "Score: 34 | Comments: 4 | Posted by torutofu",
+      "url": "https://go.dev/blog/goroutine-leak-profiles",
+      "publishedAt": "2026-09-16T13:30:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "torutofu",
       "tags": []
     },
     {

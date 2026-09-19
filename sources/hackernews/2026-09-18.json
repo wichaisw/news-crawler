@@ -3,6 +3,171 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "y2b94r",
+      "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+      "description": "Score: 123 | Comments: 15 | Posted by yogthos",
+      "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
+      "publishedAt": "2026-09-18T23:54:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "yogthos",
+      "tags": []
+    },
+    {
+      "id": "lmpb1f",
+      "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+      "description": "Score: 125 | Comments: 88 | Posted by maxall4",
+      "url": "https://spectrum.ieee.org/llms-for-chip-design",
+      "publishedAt": "2026-09-18T23:04:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "maxall4",
+      "tags": []
+    },
+    {
+      "id": "7e7lyi",
+      "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+      "description": "Score: 657 | Comments: 236 | Posted by datadrivenangel",
+      "url": "https://code.claude.com/docs/en/changelog",
+      "publishedAt": "2026-09-18T21:00:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "datadrivenangel",
+      "tags": []
+    },
+    {
+      "id": "oeirxz",
+      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+      "description": "Score: 847 | Comments: 416 | Posted by theanonymousone",
+      "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+      "publishedAt": "2026-09-18T19:03:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "theanonymousone",
+      "tags": []
+    },
+    {
+      "id": "59gf8j",
+      "title": "The Implications of Linguistic Illegibility for LLM Security",
+      "description": "Score: 70 | Comments: 28 | Posted by tomjakubowski",
+      "url": "https://arxiv.org/abs/2609.02852",
+      "publishedAt": "2026-09-18T19:00:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tomjakubowski",
+      "tags": []
+    },
+    {
+      "id": "2wqxi0",
+      "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
+      "description": "Score: 92 | Comments: 13 | Posted by rochansinha",
+      "url": "https://arxiv.org/abs/2510.03215",
+      "publishedAt": "2026-09-18T18:55:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rochansinha",
+      "tags": []
+    },
+    {
+      "id": "923q9b",
+      "title": "Saving another 100TB of RAM",
+      "description": "Score: 364 | Comments: 78 | Posted by f311a",
+      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+      "publishedAt": "2026-09-18T18:51:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "f311a",
+      "tags": []
+    },
+    {
+      "id": "l087tf",
+      "title": "Xcode 27.1 Beta Release Notes",
+      "description": "Score: 140 | Comments: 104 | Posted by CameronBanga",
+      "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
+      "publishedAt": "2026-09-18T18:39:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "CameronBanga",
+      "tags": []
+    },
+    {
+      "id": "ilqmh7",
+      "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
+      "description": "Score: 194 | Comments: 70 | Posted by synack",
+      "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
+      "publishedAt": "2026-09-18T16:54:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "synack",
+      "tags": []
+    },
+    {
+      "id": "ursb03",
+      "title": "We made Playwright 2x faster and 80% more token efficient",
+      "description": "Score: 88 | Comments: 21 | Posted by wittydeveloper",
+      "url": "https://github.com/browserbase/stagehand",
+      "publishedAt": "2026-09-18T16:25:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wittydeveloper",
+      "tags": []
+    },
+    {
+      "id": "d5ha4i",
+      "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+      "description": "Score: 117 | Comments: 64 | Posted by Jimmc414",
+      "url": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/",
+      "publishedAt": "2026-09-18T15:12:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Jimmc414",
+      "tags": []
+    },
+    {
+      "id": "lu5u8g",
+      "title": "North Korean nuclear test sets off years of earthquakes",
+      "description": "Score: 207 | Comments: 163 | Posted by rbanffy",
+      "url": "https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes",
+      "publishedAt": "2026-09-18T14:45:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rbanffy",
+      "tags": []
+    },
+    {
+      "id": "2y15nn",
+      "title": "I vibed a proof of Conway's conjecture",
+      "description": "Score: 242 | Comments: 222 | Posted by m-hodges",
+      "url": "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/",
+      "publishedAt": "2026-09-18T14:36:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "m-hodges",
+      "tags": []
+    },
+    {
+      "id": "5lmydb",
+      "title": "Cloudflare Quick Tunnels",
+      "description": "Score: 710 | Comments: 285 | Posted by jcbhmr",
+      "url": "https://try.cloudflare.com/",
+      "publishedAt": "2026-09-18T14:18:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jcbhmr",
+      "tags": []
+    },
+    {
+      "id": "imouh0",
+      "title": "AI chatbots are becoming experts at changing people's minds",
+      "description": "Score: 107 | Comments: 97 | Posted by rbanffy",
+      "url": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret",
+      "publishedAt": "2026-09-18T13:39:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rbanffy",
+      "tags": []
+    },
+    {
       "id": "b3o5k6",
       "title": "OpenJevopenjev.com",
       "description": "Score: 79 | Comments: 25 | Posted by ilreb",
@@ -33,6 +198,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ilreb",
+      "tags": []
+    },
+    {
+      "id": "ectf9e",
+      "title": "Inside ZCode: Silently uploading your Git history to the cloud",
+      "description": "Score: 301 | Comments: 100 | Posted by csmantle",
+      "url": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
+      "publishedAt": "2026-09-18T06:11:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "csmantle",
       "tags": []
     },
     {
@@ -102,6 +278,17 @@
       "tags": []
     },
     {
+      "id": "3dhx81",
+      "title": "Warez: The Infrastructure and Aesthetics of Piracy (2021)",
+      "description": "Score: 168 | Comments: 71 | Posted by succinct_ideas",
+      "url": "https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157",
+      "publishedAt": "2026-09-18T02:56:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "succinct_ideas",
+      "tags": []
+    },
+    {
       "id": "up4vgy",
       "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
       "description": "Score: 364 | Comments: 155 | Posted by Handy-Man",
@@ -143,6 +330,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "TMWNN",
+      "tags": []
+    },
+    {
+      "id": "skqegg",
+      "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+      "description": "Score: 198 | Comments: 89 | Posted by HenryNdubuaku",
+      "url": "https://cactuscompute.com/needle",
+      "publishedAt": "2026-09-18T00:11:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "HenryNdubuaku",
       "tags": []
     }
   ]

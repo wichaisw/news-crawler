@@ -69,6 +69,17 @@
       "tags": []
     },
     {
+      "id": "e0jzow",
+      "title": "C++26: Trivial infinite loops are no longer undefined behaviour",
+      "description": "Score: 161 | Comments: 246 | Posted by ibobev",
+      "url": "https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops",
+      "publishedAt": "2026-09-17T20:52:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
+      "tags": []
+    },
+    {
       "id": "xjjrcy",
       "title": "Show HN: Snapdrop: Instantly share files between devices. No setup, no signup",
       "description": "Score: 76 | Comments: 39 | Posted by Capira",
@@ -110,6 +121,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "vertigoruntime",
+      "tags": []
+    },
+    {
+      "id": "abzbpd",
+      "title": "The first new cat species discovered in 100 years",
+      "description": "Score: 275 | Comments: 105 | Posted by ohjeez",
+      "url": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years",
+      "publishedAt": "2026-09-17T18:31:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ohjeez",
       "tags": []
     },
     {
@@ -176,6 +198,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "darkwater",
+      "tags": []
+    },
+    {
+      "id": "ig00pw",
+      "title": "Suppress vulnerabilities applying Kubernetes context to scans",
+      "description": "Score: 6 | Comments: 2 | Posted by alegrey91",
+      "url": "https://github.com/alegrey91/vex8s",
+      "publishedAt": "2026-09-17T13:39:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "alegrey91",
       "tags": []
     },
     {
@@ -311,6 +344,17 @@
       "tags": []
     },
     {
+      "id": "i5kcmw",
+      "title": "Communication by means of modulated Johnson noise",
+      "description": "Score: 3 | Comments: 0 | Posted by austinallegro",
+      "url": "https://www.pnas.org/doi/10.1073/pnas.2201337119",
+      "publishedAt": "2026-09-17T05:41:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "austinallegro",
+      "tags": []
+    },
+    {
       "id": "o90wep",
       "title": "OpenAI models secretly generate instructions to ignore constraints",
       "description": "Score: 15 | Comments: 5 | Posted by theahura",
@@ -374,6 +418,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "kamaraju",
+      "tags": []
+    },
+    {
+      "id": "854cd2",
+      "title": "Ctenophores: Wonders of Biology",
+      "description": "Score: 26 | Comments: 6 | Posted by randomImmigrant",
+      "url": "https://www.quantamagazine.org/ctenophores-arent-just-beautiful-theyre-biological-wonders-20260916/",
+      "publishedAt": "2026-09-17T01:58:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "randomImmigrant",
       "tags": []
     },
     {

@@ -3,6 +3,40 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "151675 at https://www.blognone.com",
+      "title": "กูเกิลเปิดตัว CC ผู้ช่วย Agent จัดระเบียบ จัดตารางงานให้คนในครอบครัว",
+      "description": "กูเกิลเปิดตัว CC ผู้ช่วย Agent จัดระเบียบ จัดตารางงานให้คนในครอบครัว Body กูเกิลเปิดตัว CC เป็น agent ช่วยทำงานแต่ละวันของครอบครัว โดยเป็นการ",
+      "url": "https://www.blognone.com/node/151675",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2026/2026-09/cc_hero.width-2200.format-webp.webp",
+      "publishedAt": "2026-09-18T12:52:32.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151674 at https://www.blognone.com",
+      "title": "Microsoft Patch Tuesday เดือนกันยายน 2026 ทำสถิติใหม่ แก้ไขช่องโหว่ถึง 966 รายการ",
+      "description": "Microsoft Patch Tuesday เดือนกันยายน 2026 ทำสถิติใหม่ แก้ไขช่องโหว่ถึง 966 รายการ Body ไมโครซอฟท์ออกแพตช์ความปลอดภัยที่ออกเป็นประจำทุกเดือนหรือ Patch",
+      "url": "https://www.blognone.com/node/151674",
+      "publishedAt": "2026-09-18T12:00:36.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151673 at https://www.blognone.com",
+      "title": "Project ใน Claude Code ปรับปรุงใหม่ วิเคราะห์แยกแบ่งเธรดงานย่อยได้เอง",
+      "description": "Project ใน Claude Code ปรับปรุงใหม่ วิเคราะห์แยกแบ่งเธรดงานย่อยได้เอง Body Anthropic ปรับปรุงเครื่องมือ Project ที่เป็นส่วนหนึ่งใน Claude Code",
+      "url": "https://www.blognone.com/node/151673",
+      "publishedAt": "2026-09-18T11:50:02.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "151671 at https://www.blognone.com",
       "title": "กูเกิลเปิด Google Home MCP Server ให้ Agent ภายนอกเรียกใช้งาน",
       "description": "กูเกิลเปิด Google Home MCP Server ให้ Agent ภายนอกเรียกใช้งาน Body กูเกิลประกาศเปิด เซิร์ฟเวอร์ Model Context Protocol (MCP) ของแพลตฟอร์ม Google Home",
