@@ -135,6 +135,17 @@
       "tags": []
     },
     {
+      "id": "bqp1c4",
+      "title": "Compiler-style optimization for drawing via Skia",
+      "description": "Score: 117 | Comments: 22 | Posted by PaulDavisThe1st",
+      "url": "https://arxiv.org/abs/2603.23696",
+      "publishedAt": "2026-09-17T17:30:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "PaulDavisThe1st",
+      "tags": []
+    },
+    {
       "id": "7cip0a",
       "title": "Towards Self-Driving Codebases",
       "description": "Score: 114 | Comments: 85 | Posted by wilhelmklopp",
@@ -165,6 +176,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "bookofjoe",
+      "tags": []
+    },
+    {
+      "id": "216li8",
+      "title": "Rabbit Hole: Minimum L-seams",
+      "description": "Score: 18 | Comments: 5 | Posted by evakhoury",
+      "url": "https://www.fractalkitty.com/rabbit-hole-minimum-l-seams/",
+      "publishedAt": "2026-09-17T15:40:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "evakhoury",
       "tags": []
     },
     {
@@ -344,6 +366,17 @@
       "tags": []
     },
     {
+      "id": "libz79",
+      "title": "Faster NumPy in the Browser",
+      "description": "Score: 36 | Comments: 5 | Posted by Matumio",
+      "url": "https://notebook.link/blog/the-last-mile-faster-numpy/",
+      "publishedAt": "2026-09-17T07:00:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Matumio",
+      "tags": []
+    },
+    {
       "id": "i5kcmw",
       "title": "Communication by means of modulated Johnson noise",
       "description": "Score: 3 | Comments: 0 | Posted by austinallegro",
@@ -440,6 +473,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "marc__1",
+      "tags": []
+    },
+    {
+      "id": "14uige",
+      "title": "Weeping whales: Stillborn humpback whale grieving documented",
+      "description": "Score: 105 | Comments: 76 | Posted by wglb",
+      "url": "https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html",
+      "publishedAt": "2026-09-17T01:00:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wglb",
+      "tags": []
+    },
+    {
+      "id": "jgbm49",
+      "title": "Suzanne Ciani's Buchla Cookbook",
+      "description": "Score: 86 | Comments: 26 | Posted by stuart78",
+      "url": "https://echo.orpheusinstituut.be/article/suzannes-buchla-cookbook",
+      "publishedAt": "2026-09-17T00:39:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "stuart78",
       "tags": []
     },
     {

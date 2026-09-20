@@ -1,0 +1,74 @@
+{
+  "date": "2026-09-20",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "151691 at https://www.blognone.com",
+      "title": "วิศวกร Anthropic แยกตัวประกอบ RSA-896 สำเร็จ ใช้ GPU 2048 ตัวนาน 10 วัน",
+      "description": "วิศวกร Anthropic แยกตัวประกอบ RSA-896 สำเร็จ ใช้ GPU 2048 ตัวนาน 10 วัน Body Steve Weis วิศวกร Anthropic ประกาศตัวประกอบเฉพาะของ RSA-896 (คิดเป็น 896",
+      "url": "https://www.blognone.com/node/151691",
+      "publishedAt": "2026-09-20T09:24:46.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151690 at https://www.blognone.com",
+      "title": "[ลือ] SK Hynix เตรียมตั้งโรงงานในสหรัฐอเมริกา ผ่านความร่วมมือกับ Intel",
+      "description": "[ลือ] SK Hynix เตรียมตั้งโรงงานในสหรัฐอเมริกา ผ่านความร่วมมือกับ Intel Body Reuters อ้างแหล่งข่าวที่เกี่ยวข้องระบุว่า SK Hynix",
+      "url": "https://www.blognone.com/node/151690",
+      "publishedAt": "2026-09-20T05:29:08.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151686 at https://www.blognone.com",
+      "title": "ชมบูท Final Fantasy VII Revelation พร้อมทดลองเล่นที่งาน Tokyo Game Show 2026",
+      "description": "ชมบูท Final Fantasy VII Revelation พร้อมทดลองเล่นที่งาน Tokyo Game Show 2026 Body อีกหนึ่งไฮไลท์จากงาน Tokyo Game Show 2026 ก็คือเกมสุดท้ายแห่งไตรภาค",
+      "url": "https://www.blognone.com/node/151686",
+      "imageUrl": "https://i.ibb.co/DH4P28xb/IMG-6338.jpg",
+      "publishedAt": "2026-09-20T04:53:00.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151689 at https://www.blognone.com",
+      "title": "Spotify เพิ่มปุ่มยกเว้นการรวมเพลงสำหรับเด็กในอัลกอริทึมแนะนำ แก้ปัญหาพ่อแม่ที่ใช้ Spotify ตนเอง เปิดเพลงให้ลูกฟังด้วย",
+      "description": "Spotify เพิ่มปุ่มยกเว้นการรวมเพลงสำหรับเด็กในอัลกอริทึมแนะนำ แก้ปัญหาพ่อแม่ที่ใช้ Spotify ตนเอง เปิดเพลงให้ลูกฟังด้วย Body Spotify",
+      "url": "https://www.blognone.com/node/151689",
+      "publishedAt": "2026-09-20T04:42:58.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151685 at https://www.blognone.com",
+      "title": "พาชมบูท SEGA Atlus พร้อมทดลองเล่น Persona ４ Revival ที่งาน Tokyo Game Show 2026",
+      "description": "พาชมบูท SEGA Atlus พร้อมทดลองเล่น Persona ４ Revival ที่งาน Tokyo Game Show 2026 Body นอกจาก Stranger Than Heaven ในข่าวที่แล้ว ที่บูท SEGA Atlus",
+      "url": "https://www.blognone.com/node/151685",
+      "imageUrl": "https://i.ibb.co/b57pK1Wc/IMG-6776.jpg",
+      "publishedAt": "2026-09-20T04:09:02.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151688 at https://www.blognone.com",
+      "title": "Microsoft ยืนยันแพตช์เดือนกันยายน KB5002914 ทำให้ Excel มีปัญหา Copy-Paste",
+      "description": "Microsoft ยืนยันแพตช์เดือนกันยายน KB5002914 ทำให้ Excel มีปัญหา Copy-Paste Body ไมโครซอฟท์ยืนยันปัญหาที่เกิดกับผู้ใช้งาน Excel",
+      "url": "https://www.blognone.com/node/151688",
+      "publishedAt": "2026-09-20T03:29:59.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}
