@@ -1,0 +1,171 @@
+{
+  "date": "2026-09-21",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "x7e95z",
+      "title": "NEC V20 CPU: A bit of pep for an XT",
+      "description": "Score: 7 | Comments: 5 | Posted by jnord",
+      "url": "https://dfarq.homeip.net/nec-v20-cpu-a-bit-of-pep-for-an-xt/",
+      "publishedAt": "2026-09-21T11:21:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jnord",
+      "tags": []
+    },
+    {
+      "id": "uvpqpt",
+      "title": "ZuckOff Know when a camera is in the room",
+      "description": "Score: 289 | Comments: 106 | Posted by Bluestein",
+      "url": "https://zuckoff.app/",
+      "publishedAt": "2026-09-21T10:33:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Bluestein",
+      "tags": []
+    },
+    {
+      "id": "gmculw",
+      "title": "ZuckOff Is a Free App That Sees Meta Glasses Before They See You",
+      "description": "Score: 152 | Comments: 7 | Posted by choult",
+      "url": "https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff",
+      "publishedAt": "2026-09-21T10:27:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "choult",
+      "tags": []
+    },
+    {
+      "id": "tkmj09",
+      "title": "Jev-Leftpad",
+      "description": "Score: 105 | Comments: 43 | Posted by fka",
+      "url": "https://github.com/f/jev-leftpad",
+      "publishedAt": "2026-09-21T08:39:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fka",
+      "tags": []
+    },
+    {
+      "id": "jdiutg",
+      "title": "Disney+: New user agreement allows ads before movies in all subscriptions",
+      "description": "Score: 105 | Comments: 62 | Posted by DeepLogin",
+      "url": "https://consumerrights.wiki/w/Disney%2B_ad_policy_change",
+      "publishedAt": "2026-09-21T07:55:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "DeepLogin",
+      "tags": []
+    },
+    {
+      "id": "arrp2h",
+      "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+      "description": "Score: 169 | Comments: 71 | Posted by tosh",
+      "url": "https://github.com/jaredpalmer/kev/tree/main",
+      "publishedAt": "2026-09-21T07:11:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tosh",
+      "tags": []
+    },
+    {
+      "id": "1ok5kf",
+      "title": "Raspberry Pi 5 EEPROM update now blocks manual RAM upgrades",
+      "description": "Score: 26 | Comments: 12 | Posted by csmantle",
+      "url": "https://www.reddit.com/r/selfhosted/comments/1wkxjwg/raspberry_pi_5_eeprom_update_now_blocks_manual/",
+      "publishedAt": "2026-09-21T06:50:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "csmantle",
+      "tags": []
+    },
+    {
+      "id": "wstfh4",
+      "title": "Elektron Machinedrum in the Browser",
+      "description": "Score: 17 | Comments: 3 | Posted by risktopark",
+      "url": "https://machinedrum-study.pages.dev/",
+      "publishedAt": "2026-09-21T06:07:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "risktopark",
+      "tags": []
+    },
+    {
+      "id": "noo7d0",
+      "title": "Grim Fandango Puzzle Document (1996) [pdf]",
+      "description": "Score: 229 | Comments: 49 | Posted by kelseyfrog",
+      "url": "http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf",
+      "publishedAt": "2026-09-21T05:55:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kelseyfrog",
+      "tags": []
+    },
+    {
+      "id": "c31h4k",
+      "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+      "description": "Score: 147 | Comments: 26 | Posted by volotat",
+      "url": "https://github.com/volotat/mini-AGI/",
+      "publishedAt": "2026-09-21T04:42:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "volotat",
+      "tags": []
+    },
+    {
+      "id": "ozbf4y",
+      "title": "Heretic removes restrictions from language models",
+      "description": "Score: 65 | Comments: 21 | Posted by Bluestein",
+      "url": "https://heretic-project.org/",
+      "publishedAt": "2026-09-21T04:35:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Bluestein",
+      "tags": []
+    },
+    {
+      "id": "7v88z0",
+      "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
+      "description": "Score: 122 | Comments: 58 | Posted by 1vuio0pswjnm7",
+      "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
+      "publishedAt": "2026-09-21T04:28:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "1vuio0pswjnm7",
+      "tags": []
+    },
+    {
+      "id": "3e68a5",
+      "title": "Coding Theory: A Playful Introduction",
+      "description": "Score: 17 | Comments: 1 | Posted by vismit2000",
+      "url": "https://paramrathour.github.io/blog/coding-theory/",
+      "publishedAt": "2026-09-21T02:36:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vismit2000",
+      "tags": []
+    },
+    {
+      "id": "5l05ob",
+      "title": "Deterministic Core, Non-Deterministic Shell",
+      "description": "Score: 46 | Comments: 9 | Posted by brandon_bot",
+      "url": "https://outdata.net/blog/260803",
+      "publishedAt": "2026-09-21T02:02:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "brandon_bot",
+      "tags": []
+    },
+    {
+      "id": "mlmi77",
+      "title": "Why Backprop Goes Backward (2018)",
+      "description": "Score: 53 | Comments: 6 | Posted by andsoitis",
+      "url": "https://gregorygundersen.com/blog/2018/04/15/backprop/",
+      "publishedAt": "2026-09-21T00:42:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andsoitis",
+      "tags": []
+    }
+  ]
+}
