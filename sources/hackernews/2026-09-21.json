@@ -3,6 +3,248 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "owu02e",
+      "title": "Looking forward to Git 2.56 – and 3.0",
+      "description": "Score: 138 | Comments: 64 | Posted by chmaynard",
+      "url": "https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/",
+      "publishedAt": "2026-09-21T23:16:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "chmaynard",
+      "tags": []
+    },
+    {
+      "id": "r03w8p",
+      "title": "Spymarks, Not Watermarks",
+      "description": "Score: 468 | Comments: 117 | Posted by possibilistic",
+      "url": "https://brand.io/article/spymarks/",
+      "publishedAt": "2026-09-21T23:03:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "possibilistic",
+      "tags": []
+    },
+    {
+      "id": "89b55q",
+      "title": "I don't want to read what you didn't write",
+      "description": "Score: 723 | Comments: 296 | Posted by mooreds",
+      "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
+      "publishedAt": "2026-09-21T22:30:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mooreds",
+      "tags": []
+    },
+    {
+      "id": "839es4",
+      "title": "MiMo v2.6",
+      "description": "Score: 927 | Comments: 413 | Posted by volf_",
+      "url": "https://mimo.xiaomi.com/mimo-v2-6",
+      "publishedAt": "2026-09-21T20:12:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "volf_",
+      "tags": []
+    },
+    {
+      "id": "vr1284",
+      "title": "Transformers Explained Visually",
+      "description": "Score: 438 | Comments: 67 | Posted by aray07",
+      "url": "https://poloclub.github.io/transformer-explainer/",
+      "publishedAt": "2026-09-21T19:43:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "aray07",
+      "tags": []
+    },
+    {
+      "id": "i4gyp1",
+      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+      "description": "Score: 249 | Comments: 281 | Posted by julian_digital",
+      "url": "https://linear.app/now/ci-bottleneck-reworked",
+      "publishedAt": "2026-09-21T19:23:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "julian_digital",
+      "tags": []
+    },
+    {
+      "id": "zhw3j9",
+      "title": "The Advisory Group on Mathematics and Artificial Intelligence",
+      "description": "Score: 145 | Comments: 67 | Posted by digital55",
+      "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
+      "publishedAt": "2026-09-21T19:17:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "digital55",
+      "tags": []
+    },
+    {
+      "id": "8iggm3",
+      "title": "NASA’s Mars Sample Return mission is dead",
+      "description": "Score: 396 | Comments: 333 | Posted by Muhammad523",
+      "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
+      "publishedAt": "2026-09-21T19:14:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Muhammad523",
+      "tags": []
+    },
+    {
+      "id": "13dxoi",
+      "title": "In Search of a Compositional Theory of Self-Stabilization",
+      "description": "Score: 46 | Comments: 4 | Posted by matt_d",
+      "url": "http://muratbuffalo.blogspot.com/2026/09/in-search-of-compositional-theory-of.html",
+      "publishedAt": "2026-09-21T19:04:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "matt_d",
+      "tags": []
+    },
+    {
+      "id": "daj03y",
+      "title": "Roboharm: Do frontier robot policies refuse unsafe instructions?",
+      "description": "Score: 56 | Comments: 23 | Posted by msadowski",
+      "url": "https://robocurve.org/roboharm/",
+      "publishedAt": "2026-09-21T18:58:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "msadowski",
+      "tags": []
+    },
+    {
+      "id": "8sl7ne",
+      "title": "Frontier AI on Your Own Hardware",
+      "description": "Score: 166 | Comments: 83 | Posted by pretext",
+      "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
+      "publishedAt": "2026-09-21T18:53:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pretext",
+      "tags": []
+    },
+    {
+      "id": "w0ftvr",
+      "title": "US halts flights at busy East Coast airports, says fiber line cut",
+      "description": "Score: 222 | Comments: 131 | Posted by allanbreyes",
+      "url": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
+      "publishedAt": "2026-09-21T18:41:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "allanbreyes",
+      "tags": []
+    },
+    {
+      "id": "tntl2t",
+      "title": "Why does mathmain need an encrypted loader?",
+      "description": "Score: 132 | Comments: 39 | Posted by abhisek",
+      "url": "https://safedep.io/mathmain-encrypted-loader/",
+      "publishedAt": "2026-09-21T18:33:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "abhisek",
+      "tags": []
+    },
+    {
+      "id": "rh20eo",
+      "title": "Apple Copland D11E4 Booting in the Browser",
+      "description": "Score: 145 | Comments: 41 | Posted by luu",
+      "url": "https://www.pagetable.com/300",
+      "publishedAt": "2026-09-21T18:15:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "luu",
+      "tags": []
+    },
+    {
+      "id": "g2on3u",
+      "title": "Turn off and restrict access to Apple Intelligence features on Mac",
+      "description": "Score: 322 | Comments: 200 | Posted by alwillis",
+      "url": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac",
+      "publishedAt": "2026-09-21T17:30:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "alwillis",
+      "tags": []
+    },
+    {
+      "id": "d2m34v",
+      "title": "HERMES radio enables voice and data communication over vast distances",
+      "description": "Score: 146 | Comments: 61 | Posted by SamuraiLion",
+      "url": "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data",
+      "publishedAt": "2026-09-21T16:14:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "SamuraiLion",
+      "tags": []
+    },
+    {
+      "id": "b429la",
+      "title": "Fable 5 – Median thinking declined in August",
+      "description": "Score: 392 | Comments: 279 | Posted by espeed",
+      "url": "https://twitter.com/Lon/status/2101793422487204027",
+      "publishedAt": "2026-09-21T16:13:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "espeed",
+      "tags": []
+    },
+    {
+      "id": "hlpcb1",
+      "title": "How do traffic signals work? (2019)",
+      "description": "Score: 90 | Comments: 64 | Posted by at1as",
+      "url": "https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work",
+      "publishedAt": "2026-09-21T16:06:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "at1as",
+      "tags": []
+    },
+    {
+      "id": "7h7i0i",
+      "title": "Grok 4.7",
+      "description": "Score: 580 | Comments: 491 | Posted by meetpateltech",
+      "url": "https://x.ai/news/grok-4-7",
+      "publishedAt": "2026-09-21T15:50:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "meetpateltech",
+      "tags": []
+    },
+    {
+      "id": "rkomlf",
+      "title": "Attention is all you have",
+      "description": "Score: 832 | Comments: 249 | Posted by zer0tonin",
+      "url": "https://alicegg.tech/2026/09/21/attention",
+      "publishedAt": "2026-09-21T14:26:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zer0tonin",
+      "tags": []
+    },
+    {
+      "id": "e4l8lp",
+      "title": "What Sun got wrong",
+      "description": "Score: 598 | Comments: 347 | Posted by chmaynard",
+      "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+      "publishedAt": "2026-09-21T14:03:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "chmaynard",
+      "tags": []
+    },
+    {
+      "id": "gbr0xe",
+      "title": "Python Workers are now generally available",
+      "description": "Score: 234 | Comments: 38 | Posted by torutofu",
+      "url": "https://blog.cloudflare.com/python-workers-ga/",
+      "publishedAt": "2026-09-21T13:38:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "torutofu",
+      "tags": []
+    },
+    {
       "id": "x7e95z",
       "title": "NEC V20 CPU: A bit of pep for an XT",
       "description": "Score: 7 | Comments: 5 | Posted by jnord",
@@ -11,6 +253,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jnord",
+      "tags": []
+    },
+    {
+      "id": "v20lqp",
+      "title": "First Shader from Zero in Godot 4",
+      "description": "Score: 80 | Comments: 10 | Posted by ibobev",
+      "url": "https://www.gdquest.com/library/first_shader_godot4_portal/",
+      "publishedAt": "2026-09-21T10:57:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
       "tags": []
     },
     {
@@ -33,6 +286,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "choult",
+      "tags": []
+    },
+    {
+      "id": "6vujk5",
+      "title": "Engineering Memory: On learning to memorize first 100 digits of pi (2024)",
+      "description": "Score: 19 | Comments: 11 | Posted by fuzzythinker",
+      "url": "https://gregorygundersen.com/blog/2024/12/21/engineering-memory/",
+      "publishedAt": "2026-09-21T09:56:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fuzzythinker",
       "tags": []
     },
     {
@@ -99,6 +363,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "kelseyfrog",
+      "tags": []
+    },
+    {
+      "id": "rkslpp",
+      "title": "TXR: An Original, New Programming Language for Convenient Data Munging",
+      "description": "Score: 31 | Comments: 6 | Posted by andsoitis",
+      "url": "https://www.nongnu.org/txr/",
+      "publishedAt": "2026-09-21T05:09:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andsoitis",
       "tags": []
     },
     {

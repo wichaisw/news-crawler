@@ -102,6 +102,17 @@
       "tags": []
     },
     {
+      "id": "mjubdq",
+      "title": "Divide by depth for instant 3D",
+      "description": "Score: 162 | Comments: 30 | Posted by gabrieloc",
+      "url": "https://gabrieloc.com/2026/09/15/perspective.html",
+      "publishedAt": "2026-09-19T19:43:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gabrieloc",
+      "tags": []
+    },
+    {
       "id": "khvtna",
       "title": "ZK-JPEG: Zero-Knowledge Image Editing and Compression",
       "description": "Score: 87 | Comments: 17 | Posted by gslin",
@@ -176,6 +187,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "f0120e",
+      "title": "JavaFX 27 Native Image on a Raspberry Pi 5",
+      "description": "Score: 10 | Comments: 0 | Posted by 0x54MUR41",
+      "url": "https://ennerf.github.io/2026/09/18/JavaFX-27-Native-Image-on-a-Raspberry-Pi-5.html",
+      "publishedAt": "2026-09-19T14:51:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "0x54MUR41",
       "tags": []
     },
     {

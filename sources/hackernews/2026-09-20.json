@@ -58,6 +58,17 @@
       "tags": []
     },
     {
+      "id": "l60eib",
+      "title": "What It's Like to Work in One of America's Data Centers",
+      "description": "Score: 13 | Comments: 6 | Posted by JumpCrisscross",
+      "url": "https://www.wsj.com/business/what-its-like-to-work-in-one-of-americas-data-centers-b4358003",
+      "publishedAt": "2026-09-20T21:18:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "JumpCrisscross",
+      "tags": []
+    },
+    {
       "id": "xr2s5v",
       "title": "Ogre Battle 64 Recompiled Project at 99.05%",
       "description": "Score: 94 | Comments: 31 | Posted by frozenlettuce",
@@ -289,6 +300,28 @@
       "tags": []
     },
     {
+      "id": "cyd9jj",
+      "title": "PDF Forgeries Are Surprisingly Rare (2022)",
+      "description": "Score: 47 | Comments: 38 | Posted by 1317",
+      "url": "https://gwern.net/blog/2022/pdf-forgery",
+      "publishedAt": "2026-09-20T09:57:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "1317",
+      "tags": []
+    },
+    {
+      "id": "34qqyb",
+      "title": "A font that reads what you wrote",
+      "description": "Score: 18 | Comments: 11 | Posted by RohanAdwankar",
+      "url": "https://rohanadwankar.github.io/posts/semfont.html",
+      "publishedAt": "2026-09-20T09:38:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "RohanAdwankar",
+      "tags": []
+    },
+    {
       "id": "aiotbp",
       "title": "Benchmarking Wild vs. Mold",
       "description": "Score: 16 | Comments: 0 | Posted by birdculture",
@@ -410,6 +443,17 @@
       "tags": []
     },
     {
+      "id": "sfmrmw",
+      "title": "World Wide Words",
+      "description": "Score: 21 | Comments: 1 | Posted by Petiver",
+      "url": "https://www.worldwidewords.org/genindex.html",
+      "publishedAt": "2026-09-20T03:21:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Petiver",
+      "tags": []
+    },
+    {
       "id": "a1qudk",
       "title": "RSA-896",
       "description": "Score: 147 | Comments: 50 | Posted by madars",
@@ -418,6 +462,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "madars",
+      "tags": []
+    },
+    {
+      "id": "30jydv",
+      "title": "More floating point alternatives",
+      "description": "Score: 37 | Comments: 24 | Posted by vismit2000",
+      "url": "https://wizardzines.com/comics/floating-point-alternatives/",
+      "publishedAt": "2026-09-20T00:55:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vismit2000",
+      "tags": []
+    },
+    {
+      "id": "b4l192",
+      "title": "Paper Models of Polyhedra",
+      "description": "Score: 24 | Comments: 0 | Posted by pykello",
+      "url": "https://www.polyhedra.net/en/",
+      "publishedAt": "2026-09-20T00:28:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pykello",
       "tags": []
     },
     {

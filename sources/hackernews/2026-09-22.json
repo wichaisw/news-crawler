@@ -1,0 +1,138 @@
+{
+  "date": "2026-09-22",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "4ga5qz",
+      "title": "9 Ads per Minute: FIFA Cup 26 – \"the price of the beautiful game\"",
+      "description": "Score: 22 | Comments: 16 | Posted by KellyCriterion",
+      "url": "https://www.bristol.ac.uk/news/2026/september/world-cup-viewers.html",
+      "publishedAt": "2026-09-22T10:36:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "KellyCriterion",
+      "tags": []
+    },
+    {
+      "id": "3eky3r",
+      "title": "Verda (Finland) raises $189M in Series B",
+      "description": "Score: 6 | Comments: 3 | Posted by cmrdporcupine",
+      "url": "https://verda.com/blog/what-189m-in-funding-unlocks-for-verda-customers",
+      "publishedAt": "2026-09-22T09:36:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cmrdporcupine",
+      "tags": []
+    },
+    {
+      "id": "7zr8vw",
+      "title": "Prose as Code: Applying Formal Verification to Product Specs",
+      "description": "Score: 4 | Comments: 0 | Posted by happyalexander",
+      "url": "https://alexanderabramovich.medium.com/prose-as-code-applying-formal-verification-to-product-specs-14f04fee8f2d",
+      "publishedAt": "2026-09-22T09:31:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "happyalexander",
+      "tags": []
+    },
+    {
+      "id": "y7duav",
+      "title": "Study: Young users (9 to 18Y) ditch Google for AI, with unknown consequences",
+      "description": "Score: 50 | Comments: 73 | Posted by giuliomagnifico",
+      "url": "https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/",
+      "publishedAt": "2026-09-22T09:18:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "giuliomagnifico",
+      "tags": []
+    },
+    {
+      "id": "emqgfo",
+      "title": "AMD's random number generator can't generate a 0?",
+      "description": "Score: 74 | Comments: 24 | Posted by BruceEel",
+      "url": "https://board.flatassembler.net/topic.php?t=24261",
+      "publishedAt": "2026-09-22T08:39:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "BruceEel",
+      "tags": []
+    },
+    {
+      "id": "61eo7v",
+      "title": "I said no and Apple said yes",
+      "description": "Score: 242 | Comments: 156 | Posted by thatslast",
+      "url": "https://dbushell.com/2026/09/22/apple-intelligence/",
+      "publishedAt": "2026-09-22T08:04:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thatslast",
+      "tags": []
+    },
+    {
+      "id": "xxf1wa",
+      "title": "Can gzip be a language model?",
+      "description": "Score: 167 | Comments: 71 | Posted by networked",
+      "url": "https://nathan.rs/posts/gzip-lm/",
+      "publishedAt": "2026-09-22T06:08:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "networked",
+      "tags": []
+    },
+    {
+      "id": "7bhfs4",
+      "title": "Jev introduces a new shape of LLM",
+      "description": "Score: 34 | Comments: 8 | Posted by benwerd",
+      "url": "https://simonwillison.net/2026/Sep/21/jev/",
+      "publishedAt": "2026-09-22T04:38:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "benwerd",
+      "tags": []
+    },
+    {
+      "id": "pyzf0w",
+      "title": "Used ThinkPad Buyer's Guide (2019)",
+      "description": "Score: 27 | Comments: 15 | Posted by Mr_Minderbinder",
+      "url": "https://www.bobble.tech/free-stuff/used-thinkpad-buyers-guide",
+      "publishedAt": "2026-09-22T04:14:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Mr_Minderbinder",
+      "tags": []
+    },
+    {
+      "id": "g7zte5",
+      "title": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
+      "description": "Score: 80 | Comments: 25 | Posted by theanonymousone",
+      "url": "https://artificialanalysis.ai/models/mimo-v2-6-pro",
+      "publishedAt": "2026-09-22T04:02:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "theanonymousone",
+      "tags": []
+    },
+    {
+      "id": "md6299",
+      "title": "Claude Status – Elevated errors for multiple models",
+      "description": "Score: 118 | Comments: 85 | Posted by corvad",
+      "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+      "publishedAt": "2026-09-22T01:05:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "corvad",
+      "tags": []
+    },
+    {
+      "id": "ddvneh",
+      "title": "Socrates vs. the Written Word (2011)",
+      "description": "Score: 47 | Comments: 25 | Posted by spectraldrift",
+      "url": "https://wondermark.com/socrates-vs-writing/",
+      "publishedAt": "2026-09-22T00:06:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "spectraldrift",
+      "tags": []
+    }
+  ]
+}
