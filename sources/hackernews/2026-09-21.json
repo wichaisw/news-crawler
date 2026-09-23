@@ -3,6 +3,28 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "5y8flw",
+      "title": "The softness of metal",
+      "description": "Score: 35 | Comments: 12 | Posted by NaOH",
+      "url": "https://psyche.co/turning-points/his-frailty-made-ozzys-final-gig-true-heavy-metal",
+      "publishedAt": "2026-09-21T23:59:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "NaOH",
+      "tags": []
+    },
+    {
+      "id": "rlqevw",
+      "title": "Delta: Highly available, strongly consistent storage using chain replication (2022)",
+      "description": "Score: 26 | Comments: 2 | Posted by grep_it",
+      "url": "https://engineering.fb.com/2022/05/04/data-infrastructure/delta/",
+      "publishedAt": "2026-09-21T23:29:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "grep_it",
+      "tags": []
+    },
+    {
       "id": "owu02e",
       "title": "Looking forward to Git 2.56 – and 3.0",
       "description": "Score: 138 | Comments: 64 | Posted by chmaynard",
@@ -25,6 +47,17 @@
       "tags": []
     },
     {
+      "id": "ey3cgr",
+      "title": "Markdown in /src",
+      "description": "Score: 138 | Comments: 78 | Posted by perrygeo",
+      "url": "https://htmx.org/essays/markdown-in-src/",
+      "publishedAt": "2026-09-21T22:47:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "perrygeo",
+      "tags": []
+    },
+    {
       "id": "89b55q",
       "title": "I don't want to read what you didn't write",
       "description": "Score: 723 | Comments: 296 | Posted by mooreds",
@@ -33,6 +66,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mooreds",
+      "tags": []
+    },
+    {
+      "id": "65pl76",
+      "title": "Solitaire Alone Together",
+      "description": "Score: 143 | Comments: 29 | Posted by eieio",
+      "url": "https://solitairealonetogether.com/",
+      "publishedAt": "2026-09-21T22:16:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "eieio",
       "tags": []
     },
     {
@@ -234,6 +278,17 @@
       "tags": []
     },
     {
+      "id": "i3l86v",
+      "title": "George Lucas Returns to Earth, Bearing Gifts",
+      "description": "Score: 104 | Comments: 64 | Posted by surprisetalk",
+      "url": "https://commonedge.org/george-lucas-returns-to-earth-bearing-gifts/",
+      "publishedAt": "2026-09-21T13:40:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
       "id": "gbr0xe",
       "title": "Python Workers are now generally available",
       "description": "Score: 234 | Comments: 38 | Posted by torutofu",
@@ -429,6 +484,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "brandon_bot",
+      "tags": []
+    },
+    {
+      "id": "ar789v",
+      "title": "ReBarUEFI: Resizable BAR for almost any UEFI system",
+      "description": "Score: 161 | Comments: 49 | Posted by nateb2022",
+      "url": "https://github.com/xCuri0/ReBarUEFI",
+      "publishedAt": "2026-09-21T01:07:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nateb2022",
       "tags": []
     },
     {

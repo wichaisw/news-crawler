@@ -1,0 +1,138 @@
+{
+  "date": "2026-09-23",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "87hvab",
+      "title": "The (AI) Nature of the Firm",
+      "description": "Score: 3 | Comments: 0 | Posted by iciac",
+      "url": "https://camerongordon0.substack.com/p/the-ai-nature-of-the-firm",
+      "publishedAt": "2026-09-23T10:24:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "iciac",
+      "tags": []
+    },
+    {
+      "id": "r8s4wj",
+      "title": "What Is an AI Software Factory? Lessons from 3 Client Deployments",
+      "description": "Score: 7 | Comments: 0 | Posted by altras",
+      "url": "https://camplight.net/ai/ai-software-factory/",
+      "publishedAt": "2026-09-23T09:57:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "altras",
+      "tags": []
+    },
+    {
+      "id": "hdrj4n",
+      "title": "Netherlands bracing for potentially devastating US sanctions against the ICC",
+      "description": "Score: 94 | Comments: 84 | Posted by vrganj",
+      "url": "https://apnews.com/article/icc-trump-sanctions-eu-israel-netherlands-2c1cc314732f920c2de59396d3b556f6",
+      "publishedAt": "2026-09-23T09:09:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vrganj",
+      "tags": []
+    },
+    {
+      "id": "bgpv5k",
+      "title": "Abandoning Scientific Linux Was a Mistake",
+      "description": "Score: 67 | Comments: 39 | Posted by elashri",
+      "url": "https://blog.melashri.net/posts/scientific-linux-mistake/",
+      "publishedAt": "2026-09-23T08:46:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "elashri",
+      "tags": []
+    },
+    {
+      "id": "twla47",
+      "title": "ShinyHunters claims FBI hack: 'This is NOT financially motivated'",
+      "description": "Score: 9 | Comments: 0 | Posted by joebuckwilliams",
+      "url": "https://www.theregister.com/security/2026/09/22/shinyhunters-claims-fbi-hack-this-is-not-financially-motivated/5298385",
+      "publishedAt": "2026-09-23T08:37:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "joebuckwilliams",
+      "tags": []
+    },
+    {
+      "id": "av81bv",
+      "title": "I am done with this shit",
+      "description": "Score: 44 | Comments: 10 | Posted by meander_water",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wm5c21/i_am_done_with_this_shit/",
+      "publishedAt": "2026-09-23T07:59:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "meander_water",
+      "tags": []
+    },
+    {
+      "id": "8nyium",
+      "title": "Jev in 25 Lines of Python",
+      "description": "Score: 194 | Comments: 63 | Posted by bashbjorn",
+      "url": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
+      "publishedAt": "2026-09-23T07:26:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bashbjorn",
+      "tags": []
+    },
+    {
+      "id": "4ova21",
+      "title": "There is no epidemic of loneliness, but there is an epidemic of scurvy",
+      "description": "Score: 9 | Comments: 0 | Posted by luu",
+      "url": "https://www.experimental-history.com/p/there-is-no-epidemic-of-loneliness",
+      "publishedAt": "2026-09-23T06:48:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "luu",
+      "tags": []
+    },
+    {
+      "id": "gkw6ri",
+      "title": "How often do you think about the 1893 World's Fair?",
+      "description": "Score: 23 | Comments: 6 | Posted by bryanrasmussen",
+      "url": "https://www.thebirthofacapital.info/chicago-worlds-fair-tataria-ware-larsen/",
+      "publishedAt": "2026-09-23T05:32:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bryanrasmussen",
+      "tags": []
+    },
+    {
+      "id": "ma29jv",
+      "title": "Grammarly will send unhinged messages to all your users if you try to cancel",
+      "description": "Score: 177 | Comments: 51 | Posted by ksec",
+      "url": "https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/",
+      "publishedAt": "2026-09-23T04:00:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ksec",
+      "tags": []
+    },
+    {
+      "id": "62hqwj",
+      "title": "Data-only attacks are easier than you think (2024)",
+      "description": "Score: 54 | Comments: 22 | Posted by segfaultbuserr",
+      "url": "https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think",
+      "publishedAt": "2026-09-23T03:49:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "segfaultbuserr",
+      "tags": []
+    },
+    {
+      "id": "y02g9b",
+      "title": "Transit rewards",
+      "description": "Score: 148 | Comments: 157 | Posted by raybb",
+      "url": "https://waymo.com/blog/2026/09/transit-rewards/",
+      "publishedAt": "2026-09-23T02:52:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "raybb",
+      "tags": []
+    }
+  ]
+}

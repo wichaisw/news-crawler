@@ -3,6 +3,259 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "pp8q7g",
+      "title": "The current balance of power in open models",
+      "description": "Score: 93 | Comments: 34 | Posted by gmays",
+      "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+      "publishedAt": "2026-09-22T22:03:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gmays",
+      "tags": []
+    },
+    {
+      "id": "k4yhsi",
+      "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
+      "description": "Score: 335 | Comments: 193 | Posted by boredjohnny",
+      "url": "https://foxscript.org/",
+      "publishedAt": "2026-09-22T21:00:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "boredjohnny",
+      "tags": []
+    },
+    {
+      "id": "blrn8p",
+      "title": "Native apps written in TypeScript and CSS",
+      "description": "Score: 111 | Comments: 45 | Posted by arbayi",
+      "url": "https://github.com/geastack/examples",
+      "publishedAt": "2026-09-22T19:42:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "arbayi",
+      "tags": []
+    },
+    {
+      "id": "swmx77",
+      "title": "Obscura: VPN that can't log your activity",
+      "description": "Score: 147 | Comments: 112 | Posted by Flimm",
+      "url": "https://obscura.com/#faq-technical",
+      "publishedAt": "2026-09-22T19:40:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Flimm",
+      "tags": []
+    },
+    {
+      "id": "2n4l3r",
+      "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+      "description": "Score: 673 | Comments: 347 | Posted by devonnull",
+      "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
+      "publishedAt": "2026-09-22T19:03:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "devonnull",
+      "tags": []
+    },
+    {
+      "id": "vumnja",
+      "title": "SAML: A fractal of bad design",
+      "description": "Score: 253 | Comments: 142 | Posted by aray07",
+      "url": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
+      "publishedAt": "2026-09-22T18:57:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "aray07",
+      "tags": []
+    },
+    {
+      "id": "muq3ko",
+      "title": "Unreal Agent",
+      "description": "Score: 195 | Comments: 107 | Posted by trollied",
+      "url": "https://unreallabs.ai/blog/unreal-agent/",
+      "publishedAt": "2026-09-22T18:15:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "trollied",
+      "tags": []
+    },
+    {
+      "id": "9q4272",
+      "title": "GPT-6 Sol and Luna",
+      "description": "Score: 1559 | Comments: 749 | Posted by OfficialTurkey",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+      "publishedAt": "2026-09-22T18:00:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "OfficialTurkey",
+      "tags": []
+    },
+    {
+      "id": "pkpsqs",
+      "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
+      "description": "Score: 628 | Comments: 455 | Posted by spenvo",
+      "url": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
+      "publishedAt": "2026-09-22T17:46:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "spenvo",
+      "tags": []
+    },
+    {
+      "id": "n7j7fw",
+      "title": "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
+      "description": "Score: 48 | Comments: 29 | Posted by botacode",
+      "url": "https://www.coveragecat.com/",
+      "publishedAt": "2026-09-22T17:26:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "botacode",
+      "tags": []
+    },
+    {
+      "id": "nc5ytj",
+      "title": "There's a high chance of devices being sold with GrapheneOS preinstalled in 2027",
+      "description": "Score: 287 | Comments: 131 | Posted by Cider9986",
+      "url": "https://grapheneos.social/@GrapheneOS/117299954135808210",
+      "publishedAt": "2026-09-22T17:12:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Cider9986",
+      "tags": []
+    },
+    {
+      "id": "jbj85l",
+      "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+      "description": "Score: 294 | Comments: 94 | Posted by theanonymousone",
+      "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
+      "publishedAt": "2026-09-22T16:51:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "theanonymousone",
+      "tags": []
+    },
+    {
+      "id": "cbr7rm",
+      "title": "WordPress: Unauthenticated path traversal leading to conditional RCE",
+      "description": "Score: 195 | Comments: 101 | Posted by vntok",
+      "url": "https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp",
+      "publishedAt": "2026-09-22T16:33:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vntok",
+      "tags": []
+    },
+    {
+      "id": "nticso",
+      "title": "Claude Opus 5.5",
+      "description": "Score: 1571 | Comments: 974 | Posted by km144",
+      "url": "https://www.anthropic.com/claude-opus-5-5",
+      "publishedAt": "2026-09-22T16:29:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "km144",
+      "tags": []
+    },
+    {
+      "id": "wufydl",
+      "title": "16-bit Intel 8088 chip (c. 1985)",
+      "description": "Score: 121 | Comments: 17 | Posted by rbanffy",
+      "url": "https://allpoetry.com/16-bit-Intel-8088-chip",
+      "publishedAt": "2026-09-22T16:11:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rbanffy",
+      "tags": []
+    },
+    {
+      "id": "ji88s2",
+      "title": "Writing Rust code that's fast by asking agents to make the code faster",
+      "description": "Score: 100 | Comments: 51 | Posted by mooreds",
+      "url": "https://minimaxir.com/2026/09/agentic-iteration/",
+      "publishedAt": "2026-09-22T15:38:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mooreds",
+      "tags": []
+    },
+    {
+      "id": "ph82ti",
+      "title": "OpenAI is well positioned to fast-follow Jev",
+      "description": "Score: 296 | Comments: 209 | Posted by JohnBerryman",
+      "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
+      "publishedAt": "2026-09-22T14:42:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "JohnBerryman",
+      "tags": []
+    },
+    {
+      "id": "896md1",
+      "title": "Apple has added persistent 'ads' to iOS, and it's driving users crazy",
+      "description": "Score: 730 | Comments: 537 | Posted by MC995",
+      "url": "https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy",
+      "publishedAt": "2026-09-22T14:30:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "MC995",
+      "tags": []
+    },
+    {
+      "id": "phk7s7",
+      "title": "Show HN: Drop – A rootless Linux sandbox with gVisor support",
+      "description": "Score: 173 | Comments: 59 | Posted by mixedbit",
+      "url": "https://droprun.sh/",
+      "publishedAt": "2026-09-22T13:52:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mixedbit",
+      "tags": []
+    },
+    {
+      "id": "iwcf43",
+      "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+      "description": "Score: 668 | Comments: 387 | Posted by sohkamyung",
+      "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+      "publishedAt": "2026-09-22T13:52:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sohkamyung",
+      "tags": []
+    },
+    {
+      "id": "ee6xv5",
+      "title": "Show HN: JevBench, a reproducible benchmark for typed decision models",
+      "description": "Score: 111 | Comments: 28 | Posted by florianstandhar",
+      "url": "https://benchmarkheaven.com/jev-models",
+      "publishedAt": "2026-09-22T13:01:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "florianstandhar",
+      "tags": []
+    },
+    {
+      "id": "5a2142",
+      "title": "Show HN: Training a model to identify AI web content from structure alone",
+      "description": "Score: 60 | Comments: 15 | Posted by jochenmadler",
+      "url": "https://arxiv.org/abs/2609.15369",
+      "publishedAt": "2026-09-22T13:00:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jochenmadler",
+      "tags": []
+    },
+    {
+      "id": "pw0iq1",
+      "title": "Show HN: Npunlock – Run custom C kernels for Intel NPUs",
+      "description": "Score: 29 | Comments: 7 | Posted by hsfzxjy",
+      "url": "https://github.com/hsfzxjy/npunlock",
+      "publishedAt": "2026-09-22T12:58:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hsfzxjy",
+      "tags": []
+    },
+    {
       "id": "4ga5qz",
       "title": "9 Ads per Minute: FIFA Cup 26 – \"the price of the beautiful game\"",
       "description": "Score: 22 | Comments: 16 | Posted by KellyCriterion",
@@ -113,6 +366,39 @@
       "tags": []
     },
     {
+      "id": "u684l2",
+      "title": "What California is learning from solar panels built over irrigation canals",
+      "description": "Score: 223 | Comments: 400 | Posted by Jtsummers",
+      "url": "https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals",
+      "publishedAt": "2026-09-22T03:10:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Jtsummers",
+      "tags": []
+    },
+    {
+      "id": "xlofbi",
+      "title": "Side-stepping the Secretary Problem, unwittingly",
+      "description": "Score: 84 | Comments: 13 | Posted by pvdebbe",
+      "url": "https://www.evalapply.org/posts/side-step-secretary-problem-hiring/index.html",
+      "publishedAt": "2026-09-22T02:47:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pvdebbe",
+      "tags": []
+    },
+    {
+      "id": "32zu9i",
+      "title": "People hooked on vapes try a new way to quit: cigarettes",
+      "description": "Score: 192 | Comments: 223 | Posted by alephnerd",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-18/to-quit-vaping-some-are-starting-to-smoke",
+      "publishedAt": "2026-09-22T01:21:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "alephnerd",
+      "tags": []
+    },
+    {
       "id": "md6299",
       "title": "Claude Status – Elevated errors for multiple models",
       "description": "Score: 118 | Comments: 85 | Posted by corvad",
@@ -121,6 +407,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "corvad",
+      "tags": []
+    },
+    {
+      "id": "9gpurq",
+      "title": "No Easy Fix for Bogus Respondents in Online Opt-In Polls",
+      "description": "Score: 37 | Comments: 16 | Posted by luu",
+      "url": "https://www.pewresearch.org/methods/2026/08/27/no-easy-fix-for-bogus-respondents-in-online-opt-in-polls/",
+      "publishedAt": "2026-09-22T00:32:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "luu",
+      "tags": []
+    },
+    {
+      "id": "ksb41j",
+      "title": "Did OpenAI solve the wrong Navier-Stokes problem?",
+      "description": "Score: 108 | Comments: 59 | Posted by tomjakubowski",
+      "url": "https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem/",
+      "publishedAt": "2026-09-22T00:24:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tomjakubowski",
       "tags": []
     },
     {
