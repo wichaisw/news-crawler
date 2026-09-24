@@ -1,0 +1,182 @@
+{
+  "date": "2026-09-24",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "ehzbl",
+      "title": "Nokia Design Archive (2025)aalto.fi",
+      "description": "Score: 62 | Comments: 22 | Posted by pillars",
+      "url": "https://nokiadesignarchive.aalto.fi/index.html",
+      "publishedAt": "2026-09-24T10:18:12.087Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pillars",
+      "tags": []
+    },
+    {
+      "id": "ouzrci",
+      "title": "Starlink ground station in Poland hit by fire in suspected arson attack",
+      "description": "Score: 59 | Comments: 17 | Posted by giuliomagnifico",
+      "url": "https://notesfrompoland.com/2026/09/24/starlink-ground-station-in-poland-hit-by-fire-in-suspected-arson-attack/",
+      "publishedAt": "2026-09-24T09:52:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "giuliomagnifico",
+      "tags": []
+    },
+    {
+      "id": "ehzbl",
+      "title": "Nokia Design Archive (2025)",
+      "description": "Score: 63 | Comments: 22 | Posted by pillars",
+      "url": "https://nokiadesignarchive.aalto.fi/index.html",
+      "publishedAt": "2026-09-24T09:49:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pillars",
+      "tags": []
+    },
+    {
+      "id": "o2vqor",
+      "title": "Looks promising for document editing with your agent",
+      "description": "Score: 4 | Comments: 0 | Posted by nvmdbljstm",
+      "url": "https://www.paperinstruments.com/blog/introducing-paper-office",
+      "publishedAt": "2026-09-24T09:19:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nvmdbljstm",
+      "tags": []
+    },
+    {
+      "id": "s9nut8",
+      "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
+      "description": "Score: 189 | Comments: 70 | Posted by pieterr",
+      "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
+      "publishedAt": "2026-09-24T08:23:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pieterr",
+      "tags": []
+    },
+    {
+      "id": "19m6ny",
+      "title": "The Year of Internal Tools",
+      "description": "Score: 4 | Comments: 0 | Posted by thecodemonkey",
+      "url": "https://www.geocod.io/code-and-coordinates/2026-09-23-the-year-of-internal-tools",
+      "publishedAt": "2026-09-24T07:23:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thecodemonkey",
+      "tags": []
+    },
+    {
+      "id": "8adeqs",
+      "title": "Nuros – AI study tools from notes, PDFs, videos, and links",
+      "description": "Score: 5 | Comments: 0 | Posted by AntoineValton",
+      "url": "https://nuros.app/",
+      "publishedAt": "2026-09-24T07:22:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "AntoineValton",
+      "tags": []
+    },
+    {
+      "id": "88hcr8",
+      "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+      "description": "Score: 147 | Comments: 117 | Posted by snikolaev",
+      "url": "https://transluce.org/agent-activity",
+      "publishedAt": "2026-09-24T05:21:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "snikolaev",
+      "tags": []
+    },
+    {
+      "id": "a36yi2",
+      "title": "Contrastive Language Models",
+      "description": "Score: 85 | Comments: 18 | Posted by erichocean",
+      "url": "https://contrastive-lm.notion.site/",
+      "publishedAt": "2026-09-24T04:20:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "erichocean",
+      "tags": []
+    },
+    {
+      "id": "5zkuf7",
+      "title": "Nori LLM: Achieving Over 1M tok / s",
+      "description": "Score: 8 | Comments: 1 | Posted by theahura",
+      "url": "https://noriagentic.com/nori-llm.html",
+      "publishedAt": "2026-09-24T04:11:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "theahura",
+      "tags": []
+    },
+    {
+      "id": "j91cw4",
+      "title": "Ideas on modernizing the open-source desktop",
+      "description": "Score: 162 | Comments: 159 | Posted by signa11",
+      "url": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/",
+      "publishedAt": "2026-09-24T02:52:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "signa11",
+      "tags": []
+    },
+    {
+      "id": "qqkadk",
+      "title": "OpenAI agent hacked Australian government website, PM says",
+      "description": "Score: 84 | Comments: 44 | Posted by rudy6912",
+      "url": "https://www.bbc.com/news/live/cvgl73pxgndwt",
+      "publishedAt": "2026-09-24T02:44:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rudy6912",
+      "tags": []
+    },
+    {
+      "id": "a4j7dt",
+      "title": "Nesbox: A fast MicroVM with GPU sharing",
+      "description": "Score: 12 | Comments: 2 | Posted by WanjohiRyan",
+      "url": "https://github.com/nestrilabs/nesbox",
+      "publishedAt": "2026-09-24T01:04:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "WanjohiRyan",
+      "tags": []
+    },
+    {
+      "id": "hc5hb6",
+      "title": "Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest",
+      "description": "Score: 107 | Comments: 46 | Posted by WanjohiRyan",
+      "url": "https://github.com/nestrilabs/virtio-nvgpu",
+      "publishedAt": "2026-09-24T01:02:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "WanjohiRyan",
+      "tags": []
+    },
+    {
+      "id": "3ur7pr",
+      "title": "Show HN: An open-source manufacturing ERP/MES/QMS",
+      "description": "Score: 39 | Comments: 17 | Posted by barbinbrad",
+      "url": "https://carbon.ms/self-hosted",
+      "publishedAt": "2026-09-24T00:45:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "barbinbrad",
+      "tags": []
+    },
+    {
+      "id": "gf6sul",
+      "title": "Feds Target AI Critics as \"Foreign Agents\"",
+      "description": "Score: 298 | Comments: 311 | Posted by nmeagent",
+      "url": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
+      "publishedAt": "2026-09-24T00:41:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nmeagent",
+      "tags": []
+    }
+  ]
+}

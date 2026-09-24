@@ -80,6 +80,17 @@
       "tags": []
     },
     {
+      "id": "vpogbf",
+      "title": "Women Who Sold Books Door to Door",
+      "description": "Score: 32 | Comments: 0 | Posted by herbertl",
+      "url": "https://daily.jstor.org/the-women-who-sold-books-door-to-door/",
+      "publishedAt": "2026-09-21T20:52:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "herbertl",
+      "tags": []
+    },
+    {
       "id": "839es4",
       "title": "MiMo v2.6",
       "description": "Score: 927 | Comments: 413 | Posted by volf_",
@@ -165,6 +176,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "pretext",
+      "tags": []
+    },
+    {
+      "id": "x7wwen",
+      "title": "Solving for faster SHA-1 collision detection",
+      "description": "Score: 43 | Comments: 9 | Posted by srijs",
+      "url": "https://sam.dev/blog/faster-sha1-collision-detection",
+      "publishedAt": "2026-09-21T18:46:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "srijs",
       "tags": []
     },
     {

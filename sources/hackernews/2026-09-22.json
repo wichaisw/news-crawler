@@ -58,6 +58,17 @@
       "tags": []
     },
     {
+      "id": "3798mm",
+      "title": "The Curious Power of Punctuation",
+      "description": "Score: 43 | Comments: 15 | Posted by pepys",
+      "url": "https://www.newyorker.com/magazine/2026/09/28/on-the-mark-louis-menand-book-review",
+      "publishedAt": "2026-09-22T19:02:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pepys",
+      "tags": []
+    },
+    {
       "id": "vumnja",
       "title": "SAML: A fractal of bad design",
       "description": "Score: 253 | Comments: 142 | Posted by aray07",
@@ -135,6 +146,17 @@
       "tags": []
     },
     {
+      "id": "lh12lc",
+      "title": "Automated optimization of a molecular simulation program",
+      "description": "Score: 3 | Comments: 0 | Posted by shishir03",
+      "url": "https://shishir-iyer.medium.com/automated-optimization-of-a-molecular-simulation-program-4a28a2bc05ad",
+      "publishedAt": "2026-09-22T16:38:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "shishir03",
+      "tags": []
+    },
+    {
       "id": "cbr7rm",
       "title": "WordPress: Unauthenticated path traversal leading to conditional RCE",
       "description": "Score: 195 | Comments: 101 | Posted by vntok",
@@ -179,6 +201,17 @@
       "tags": []
     },
     {
+      "id": "ildl90",
+      "title": "RAM: the forgotten history (2024)",
+      "description": "Score: 33 | Comments: 0 | Posted by Luc",
+      "url": "https://blog.coredump.cx/p/memory-the-forgotten-history",
+      "publishedAt": "2026-09-22T15:12:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Luc",
+      "tags": []
+    },
+    {
       "id": "ph82ti",
       "title": "OpenAI is well positioned to fast-follow Jev",
       "description": "Score: 296 | Comments: 209 | Posted by JohnBerryman",
@@ -198,6 +231,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "MC995",
+      "tags": []
+    },
+    {
+      "id": "t6h7sp",
+      "title": "Data liberation: Apache Kafka's native cluster mirroring",
+      "description": "Score: 15 | Comments: 2 | Posted by fvaleri",
+      "url": "https://developers.redhat.com/articles/2026/09/22/data-liberation-apache-kafka-native-cluster-mirroring",
+      "publishedAt": "2026-09-22T14:18:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fvaleri",
       "tags": []
     },
     {
@@ -253,6 +297,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "hsfzxjy",
+      "tags": []
+    },
+    {
+      "id": "b4r8uk",
+      "title": "The mystery animal on an ancient god's head",
+      "description": "Score: 114 | Comments: 35 | Posted by surprisetalk",
+      "url": "https://signoregalilei.com/2026/09/13/the-mystery-animal-on-an-ancient-gods-head/",
+      "publishedAt": "2026-09-22T12:00:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
       "tags": []
     },
     {
@@ -377,6 +432,17 @@
       "tags": []
     },
     {
+      "id": "mskqa1",
+      "title": "The \"Windows XP Box\" (2003)",
+      "description": "Score: 162 | Comments: 29 | Posted by doubletwoyou",
+      "url": "https://www.mini-itx.com/projects/windowsxpbox/",
+      "publishedAt": "2026-09-22T03:09:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "doubletwoyou",
+      "tags": []
+    },
+    {
       "id": "xlofbi",
       "title": "Side-stepping the Secretary Problem, unwittingly",
       "description": "Score: 84 | Comments: 13 | Posted by pvdebbe",
@@ -396,6 +462,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "alephnerd",
+      "tags": []
+    },
+    {
+      "id": "qhgmq7",
+      "title": "Making portable my unportable transputer C compiler",
+      "description": "Score: 50 | Comments: 4 | Posted by nanochess",
+      "url": "https://nanochess.org/transputer_c_compiler.html",
+      "publishedAt": "2026-09-22T01:07:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nanochess",
       "tags": []
     },
     {
