@@ -3,6 +3,171 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "h1tlcj",
+      "title": "MentalHealthBench",
+      "description": "Score: 23 | Comments: 8 | Posted by gmays",
+      "url": "https://openai.com/index/introducing-mentalhealthbench/",
+      "publishedAt": "2026-09-24T23:06:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gmays",
+      "tags": []
+    },
+    {
+      "id": "qn5v8s",
+      "title": "Show HN: Koi.rest – watch some fish and regain your balance",
+      "description": "Score: 189 | Comments: 54 | Posted by hxii",
+      "url": "https://koi.rest",
+      "publishedAt": "2026-09-24T21:33:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hxii",
+      "tags": []
+    },
+    {
+      "id": "4jmybz",
+      "title": "The Board Game of the Alpha Nerds (2014)",
+      "description": "Score: 91 | Comments: 49 | Posted by neonate",
+      "url": "https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/",
+      "publishedAt": "2026-09-24T20:53:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "neonate",
+      "tags": []
+    },
+    {
+      "id": "qie2s5",
+      "title": "California is chasing wealth that has feet",
+      "description": "Score: 252 | Comments: 676 | Posted by idbnstra",
+      "url": "https://blog.landeconomics.org/p/california-is-chasing-wealth-that",
+      "publishedAt": "2026-09-24T20:34:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "idbnstra",
+      "tags": []
+    },
+    {
+      "id": "6ct3k5",
+      "title": "Opus 5.5 is good at explainer videos",
+      "description": "Score: 286 | Comments: 145 | Posted by iacguy",
+      "url": "https://launchvideo.io",
+      "publishedAt": "2026-09-24T20:28:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "iacguy",
+      "tags": []
+    },
+    {
+      "id": "vkqfik",
+      "title": "Sourcehut account takeover via build logs (XSS in ansi2html)",
+      "description": "Score: 127 | Comments: 25 | Posted by arusekk",
+      "url": "https://blog.arusekk.pl/posts/srht-account-takeover/",
+      "publishedAt": "2026-09-24T19:54:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "arusekk",
+      "tags": []
+    },
+    {
+      "id": "4p7acp",
+      "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+      "description": "Score: 137 | Comments: 30 | Posted by benbreen",
+      "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+      "publishedAt": "2026-09-24T19:14:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "benbreen",
+      "tags": []
+    },
+    {
+      "id": "1p79ke",
+      "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+      "description": "Score: 324 | Comments: 120 | Posted by sidharthkmenon",
+      "url": "https://github.com/devdotfast/whiteboard",
+      "publishedAt": "2026-09-24T17:21:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sidharthkmenon",
+      "tags": []
+    },
+    {
+      "id": "dzw51r",
+      "title": "Why is the liver so weirdly regenerative?",
+      "description": "Score: 425 | Comments: 220 | Posted by jbotz",
+      "url": "https://dynomight.substack.com/p/liver",
+      "publishedAt": "2026-09-24T16:23:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jbotz",
+      "tags": []
+    },
+    {
+      "id": "4ai48g",
+      "title": "F-Droid 2.0",
+      "description": "Score: 1267 | Comments: 364 | Posted by daveoc64",
+      "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
+      "publishedAt": "2026-09-24T15:26:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "daveoc64",
+      "tags": []
+    },
+    {
+      "id": "no33de",
+      "title": "Tutoring company tells parents to save their money and 'use AI instead'",
+      "description": "Score: 120 | Comments: 182 | Posted by theanonymousone",
+      "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
+      "publishedAt": "2026-09-24T15:09:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "theanonymousone",
+      "tags": []
+    },
+    {
+      "id": "kfgnal",
+      "title": "Forging 1024-bit RSA signatures in nearly SNFS time [pdf]",
+      "description": "Score: 64 | Comments: 14 | Posted by int0x29",
+      "url": "https://eprint.iacr.org/2026/2131.pdf",
+      "publishedAt": "2026-09-24T14:26:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "int0x29",
+      "tags": []
+    },
+    {
+      "id": "jlkzn6",
+      "title": "Google’s Project Suncatcher to put ML infrastructure in space",
+      "description": "Score: 193 | Comments: 388 | Posted by xnx",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
+      "publishedAt": "2026-09-24T13:53:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "xnx",
+      "tags": []
+    },
+    {
+      "id": "cndz0k",
+      "title": "'That's so AI ' What gen Alpha's biggest insult tells us",
+      "description": "Score: 164 | Comments: 224 | Posted by YeGoblynQueenne",
+      "url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
+      "publishedAt": "2026-09-24T12:23:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "YeGoblynQueenne",
+      "tags": []
+    },
+    {
+      "id": "n5b11l",
+      "title": "Two-tier encryption in the UK",
+      "description": "Score: 466 | Comments: 412 | Posted by ReturnoftheHack",
+      "url": "https://macanorak.com/two-tier-encryption-in-the-uk/",
+      "publishedAt": "2026-09-24T10:39:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ReturnoftheHack",
+      "tags": []
+    },
+    {
       "id": "ehzbl",
       "title": "Nokia Design Archive (2025)aalto.fi",
       "description": "Score: 62 | Comments: 22 | Posted by pillars",
@@ -29,6 +194,17 @@
       "title": "Nokia Design Archive (2025)",
       "description": "Score: 63 | Comments: 22 | Posted by pillars",
       "url": "https://nokiadesignarchive.aalto.fi/index.html",
+      "publishedAt": "2026-09-24T09:49:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pillars",
+      "tags": []
+    },
+    {
+      "id": "c8p6qh",
+      "title": "Nokia Design Archive (2025)",
+      "description": "Score: 236 | Comments: 128 | Posted by pillars",
+      "url": "https://repo.aalto.fi/index.php?name=SO_b66a9391-dcf8-4399-8e87-611f84c3fc4c",
       "publishedAt": "2026-09-24T09:49:33.000Z",
       "source": "hackernews",
       "sourceName": "Hacker News",
@@ -77,6 +253,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "AntoineValton",
+      "tags": []
+    },
+    {
+      "id": "muuw8c",
+      "title": "Show HN: Air-gapped file encryption as self-decrypting HTML page",
+      "description": "Score: 74 | Comments: 25 | Posted by emurlin",
+      "url": "https://cms-sfx-demo.apeleg.com/",
+      "publishedAt": "2026-09-24T07:22:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "emurlin",
       "tags": []
     },
     {

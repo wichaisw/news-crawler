@@ -1,0 +1,160 @@
+{
+  "date": "2026-09-25",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "a3prh4",
+      "title": "Uproar in France over award-winning author accused of using AI",
+      "description": "Score: 23 | Comments: 22 | Posted by harscoat",
+      "url": "https://www.bbc.com/news/articles/ck7v4y45893go",
+      "publishedAt": "2026-09-25T10:48:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "harscoat",
+      "tags": []
+    },
+    {
+      "id": "hyfu6c",
+      "title": "The Mafia may be keeping fentanyl out of Italy",
+      "description": "Score: 35 | Comments: 20 | Posted by runeks",
+      "url": "https://economist.com/europe/2026/09/24/the-mafia-may-be-keeping-fentanyl-out-of-italy",
+      "publishedAt": "2026-09-25T10:20:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "runeks",
+      "tags": []
+    },
+    {
+      "id": "lh46i4",
+      "title": "Oracle on the hook to pay data centre investors even if site has no electricity",
+      "description": "Score: 28 | Comments: 11 | Posted by Betelbuddy",
+      "url": "https://www.ft.com/content/a96bf05a-a299-4d6a-a753-b298dd0f4016",
+      "publishedAt": "2026-09-25T10:19:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Betelbuddy",
+      "tags": []
+    },
+    {
+      "id": "g3kf2x",
+      "title": "Theranos founder reportedly to be transferred to halfway home next year",
+      "description": "Score: 6 | Comments: 0 | Posted by Geekette",
+      "url": "https://www.theguardian.com/us-news/2026/sep/24/theranos-elizabeth-holmes-transfer-halfway-home",
+      "publishedAt": "2026-09-25T10:07:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Geekette",
+      "tags": []
+    },
+    {
+      "id": "401apd",
+      "title": "Ink and Switch Interactive Homepage",
+      "description": "Score: 33 | Comments: 4 | Posted by iFreilicht",
+      "url": "https://www.inkandswitch.com/",
+      "publishedAt": "2026-09-25T09:50:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "iFreilicht",
+      "tags": []
+    },
+    {
+      "id": "7c16bb",
+      "title": "Tech Needs Humanists More",
+      "description": "Score: 63 | Comments: 96 | Posted by eigenBasis",
+      "url": "https://passo.uno/tech-needs-humanists-more-than-ever/",
+      "publishedAt": "2026-09-25T09:31:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "eigenBasis",
+      "tags": []
+    },
+    {
+      "id": "b15dhz",
+      "title": "Special Projects (2016)",
+      "description": "Score: 32 | Comments: 9 | Posted by vinhnx",
+      "url": "https://openai.com/index/special-projects/",
+      "publishedAt": "2026-09-25T08:55:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vinhnx",
+      "tags": []
+    },
+    {
+      "id": "5u9r3v",
+      "title": "Running local LLMs on your Mac: what fits, what's free, and what's overkill",
+      "description": "Score: 10 | Comments: 7 | Posted by donk8r",
+      "url": "https://typetab.app/blog/local-llms-on-your-mac",
+      "publishedAt": "2026-09-25T08:53:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "donk8r",
+      "tags": []
+    },
+    {
+      "id": "zg3hw3",
+      "title": "Dutch governments builds alternative for Microsoft based on NixOSdawo.community",
+      "description": "Score: 274 | Comments: 122 | Posted by fjfaase",
+      "url": "https://www.dawo.community/en/",
+      "publishedAt": "2026-09-25T08:23:34.693Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fjfaase",
+      "tags": []
+    },
+    {
+      "id": "zg3hw3",
+      "title": "Dutch governments builds alternative for Microsoft based on NixOS",
+      "description": "Score: 274 | Comments: 122 | Posted by fjfaase",
+      "url": "https://www.dawo.community/en/",
+      "publishedAt": "2026-09-25T08:06:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fjfaase",
+      "tags": []
+    },
+    {
+      "id": "b943ov",
+      "title": "Amiga Screens: A Primer",
+      "description": "Score: 13 | Comments: 2 | Posted by msephton",
+      "url": "https://www.datagubbe.se/amscr/",
+      "publishedAt": "2026-09-25T07:31:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "msephton",
+      "tags": []
+    },
+    {
+      "id": "lj9s8g",
+      "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
+      "description": "Score: 79 | Comments: 30 | Posted by hugh4life",
+      "url": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
+      "publishedAt": "2026-09-25T07:27:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hugh4life",
+      "tags": []
+    },
+    {
+      "id": "lp1y2w",
+      "title": "CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2",
+      "description": "Score: 56 | Comments: 15 | Posted by safateam",
+      "url": "https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2",
+      "publishedAt": "2026-09-25T07:03:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "safateam",
+      "tags": []
+    },
+    {
+      "id": "b8dcmh",
+      "title": "What About Rails?",
+      "description": "Score: 75 | Comments: 36 | Posted by jrochkind1",
+      "url": "https://jardo.dev/what-about-rails",
+      "publishedAt": "2026-09-25T02:50:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jrochkind1",
+      "tags": []
+    }
+  ]
+}

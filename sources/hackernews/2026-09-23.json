@@ -14,6 +14,17 @@
       "tags": []
     },
     {
+      "id": "3bksv3",
+      "title": "Show HN: Make cursed fonts like Times New Bastard",
+      "description": "Score: 721 | Comments: 97 | Posted by MitPitt",
+      "url": "https://bastardica.mitpit.com",
+      "publishedAt": "2026-09-23T22:53:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "MitPitt",
+      "tags": []
+    },
+    {
       "id": "omdwmk",
       "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
       "description": "Score: 197 | Comments: 23 | Posted by JohnHammersley",
@@ -33,6 +44,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "aaronday",
+      "tags": []
+    },
+    {
+      "id": "wuhf0i",
+      "title": "Toyota is taking the Corolla electric",
+      "description": "Score: 345 | Comments: 615 | Posted by cisc",
+      "url": "https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/",
+      "publishedAt": "2026-09-23T22:37:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cisc",
       "tags": []
     },
     {
@@ -58,6 +80,17 @@
       "tags": []
     },
     {
+      "id": "gk2q59",
+      "title": "The Bayeux Tapestry: Woven by the Victors",
+      "description": "Score: 36 | Comments: 17 | Posted by prismatic",
+      "url": "https://www.historytoday.com/archive/out-margins/bayeux-tapestry-woven-victors",
+      "publishedAt": "2026-09-23T21:54:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "prismatic",
+      "tags": []
+    },
+    {
       "id": "s7s6gw",
       "title": "VSCode's SSH Agent Is Bananas (2025)",
       "description": "Score: 242 | Comments: 151 | Posted by Rapzid",
@@ -77,6 +110,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jonnonz",
+      "tags": []
+    },
+    {
+      "id": "a0zbdi",
+      "title": "Geothermal heat map of US hot springs",
+      "description": "Score: 104 | Comments: 39 | Posted by armenarmen",
+      "url": "https://www.soakingsprings.com/hot-springs/geothermal-map",
+      "publishedAt": "2026-09-23T20:12:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "armenarmen",
+      "tags": []
+    },
+    {
+      "id": "sql9ph",
+      "title": "Show HN: AgentRun: DSL to turn agents into workflows",
+      "description": "Score: 44 | Comments: 10 | Posted by miguelrios",
+      "url": "https://github.com/Parcha-ai/agentrun",
+      "publishedAt": "2026-09-23T19:42:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "miguelrios",
       "tags": []
     },
     {
@@ -168,6 +223,17 @@
       "tags": []
     },
     {
+      "id": "ym8uhb",
+      "title": "Rails World 2026 Opening Keynote [video]",
+      "description": "Score: 346 | Comments: 379 | Posted by an0malous",
+      "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
+      "publishedAt": "2026-09-23T15:33:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "an0malous",
+      "tags": []
+    },
+    {
       "id": "8s1vmq",
       "title": "Gemini 3.8 text-to-speech",
       "description": "Score: 310 | Comments: 138 | Posted by swolpers",
@@ -220,6 +286,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mooreds",
+      "tags": []
+    },
+    {
+      "id": "ss0dur",
+      "title": "WaveDigger: Dig into wireless signals to discover their physical locations",
+      "description": "Score: 118 | Comments: 22 | Posted by 882542F3884314B",
+      "url": "https://github.com/christianrowlands/wavedigger",
+      "publishedAt": "2026-09-23T12:57:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "882542F3884314B",
       "tags": []
     },
     {
@@ -374,6 +451,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "raybb",
+      "tags": []
+    },
+    {
+      "id": "eeg6s3",
+      "title": "Web-based IBM 1620 emulator and IPL-V from 1963",
+      "description": "Score: 49 | Comments: 15 | Posted by abrax3141",
+      "url": "https://github.com/pkimpel/retro-1620",
+      "publishedAt": "2026-09-23T00:06:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "abrax3141",
       "tags": []
     }
   ]
