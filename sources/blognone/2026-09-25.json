@@ -3,6 +3,85 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "151763 at https://www.blognone.com",
+      "title": "Microsoft อัปเดต Copilot ใหม่ รวม Chat, Code, Agent ภายใต้แอปเดียว",
+      "description": "Microsoft อัปเดต Copilot ใหม่ รวม Chat, Code, Agent ภายใต้แอปเดียว Body ไมโครซอฟท์ประกาศรายละเอียดของแอป Copilot ใหม่ อย่างเป็นทางการ",
+      "url": "https://www.blognone.com/node/151763",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2026/2026-09/1_omb-home-final-2.png",
+      "publishedAt": "2026-09-25T23:47:47.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151762 at https://www.blognone.com",
+      "title": "Google เพิ่ม Live Avatar สำหรับโมเดลสนทนาโต้ตอบ Gemini 3.8 Live",
+      "description": "Google เพิ่ม Live Avatar สำหรับโมเดลสนทนาโต้ตอบ Gemini 3.8 Live Body กูเกิลประกาศเพิ่มความสามารถให้โมเดล Gemini 3.8 Live",
+      "url": "https://www.blognone.com/node/151762",
+      "publishedAt": "2026-09-25T23:20:10.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151761 at https://www.blognone.com",
+      "title": "DHH หันมาเขียน Rust แม้เป็นภาษาที่เกลียดที่สุด ชี้การเขียนโค้ดด้วยมือไม่มีทางคุ้มอีกต่อไปแล้ว",
+      "description": "DHH หันมาเขียน Rust แม้เป็นภาษาที่เกลียดที่สุด ชี้การเขียนโค้ดด้วยมือไม่มีทางคุ้มอีกต่อไปแล้ว Body David Heinemeier Hansson (DHH) ผู้สร้าง Ruby on",
+      "url": "https://www.blognone.com/node/151761",
+      "publishedAt": "2026-09-25T15:03:03.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151760 at https://www.blognone.com",
+      "title": "กูเกิลออกโมเดลสร้างเสียงพูด Gemini 3.8 Flash TTS รองรับกว่า 100 ภาษา",
+      "description": "กูเกิลออกโมเดลสร้างเสียงพูด Gemini 3.8 Flash TTS รองรับกว่า 100 ภาษา Body กูเกิลยังวนออกโมเดล Gemini เวอร์ชันย่อยๆ เฉพาะทางอย่างต่อเนื่อง",
+      "url": "https://www.blognone.com/node/151760",
+      "publishedAt": "2026-09-25T13:48:54.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151759 at https://www.blognone.com",
+      "title": "เปิดตัว Motorola Signature 27 ชิป Snapdragon 8 Elite Extreme Gen 6",
+      "description": "เปิดตัว Motorola Signature 27 ชิป Snapdragon 8 Elite Extreme Gen 6 Body Motorola เปิดตัวมือถือรุ่นเรือธง Signature 27 ใช้ ชิป Snapdragon 8 Elite",
+      "url": "https://www.blognone.com/node/151759",
+      "publishedAt": "2026-09-25T13:01:05.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151758 at https://www.blognone.com",
+      "title": "YouTube Music เพิ่มฟีเจอร์ Ask Music ถามตอบด้วย AI, สรุปรายการพ็อดแคสต์ประจำสัปดาห์",
+      "description": "YouTube Music เพิ่มฟีเจอร์ Ask Music ถามตอบด้วย AI, สรุปรายการพ็อดแคสต์ประจำสัปดาห์ Body YouTube Music เพิ่มฟีเจอร์ใหม่พลัง AI สองอย่างได้แก่ Ask",
+      "url": "https://www.blognone.com/node/151758",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2026/2026-09/discovery-your_podcast_lineup-width-800.format-webp.webp",
+      "publishedAt": "2026-09-25T12:50:18.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151757 at https://www.blognone.com",
+      "title": "YouTube เพิ่มฟีเจอร์ Custom Feeds แท็บใหม่ คัสตอมวิดีโอแบบที่อยากให้แนะนำได้",
+      "description": "YouTube เพิ่มฟีเจอร์ Custom Feeds แท็บใหม่ คัสตอมวิดีโอแบบที่อยากให้แนะนำได้ Body YouTube เพิ่มฟีเจอร์ฝั่งผู้ใช้งาน 2 อย่างดังนี้ Custom Feeds",
+      "url": "https://www.blognone.com/node/151757",
+      "publishedAt": "2026-09-25T12:42:17.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "151752 at https://www.blognone.com",
       "title": "Canonical ประกาศออก Ubuntu เวอร์ชัน Snapdragon X2 ปี 2027",
       "description": "Canonical ประกาศออก Ubuntu เวอร์ชัน Snapdragon X2 ปี 2027 Body บริษัท Canonical ประกาศความร่วมมือกับ Qualcomm เตรียมออกอิมเมจ Ubuntu สำหรับชิป",

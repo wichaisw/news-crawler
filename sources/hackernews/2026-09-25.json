@@ -3,6 +3,215 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "7gkuob",
+      "title": "Lab on a Contact Lens Can Measure Stress Through Serotonin",
+      "description": "Score: 46 | Comments: 12 | Posted by marc__1",
+      "url": "https://spectrum.ieee.org/serotonin-stress-smart-contact-lens",
+      "publishedAt": "2026-09-25T22:28:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "marc__1",
+      "tags": []
+    },
+    {
+      "id": "uv3ny6",
+      "title": "Hype Is a Business Tool",
+      "description": "Score: 12 | Comments: 5 | Posted by andsoitis",
+      "url": "https://jenson.org/hype/",
+      "publishedAt": "2026-09-25T22:12:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andsoitis",
+      "tags": []
+    },
+    {
+      "id": "xa91wd",
+      "title": "What even is an OS now?",
+      "description": "Score: 207 | Comments: 287 | Posted by fratellobigio",
+      "url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
+      "publishedAt": "2026-09-25T21:36:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fratellobigio",
+      "tags": []
+    },
+    {
+      "id": "kpq1cx",
+      "title": "Show HN: Ekselio – Loveable for finance workflows (local first)",
+      "description": "Score: 14 | Comments: 2 | Posted by kdautaj",
+      "url": "https://www.gptbeyond.com/try?home=1",
+      "publishedAt": "2026-09-25T21:09:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kdautaj",
+      "tags": []
+    },
+    {
+      "id": "uon6f6",
+      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+      "description": "Score: 503 | Comments: 309 | Posted by specked-citrus",
+      "url": "https://swarmtraces.org/",
+      "publishedAt": "2026-09-25T21:09:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "specked-citrus",
+      "tags": []
+    },
+    {
+      "id": "wm6ahs",
+      "title": "Excel now supports multiple values in a single cell",
+      "description": "Score: 193 | Comments: 141 | Posted by luispa",
+      "url": "https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395",
+      "publishedAt": "2026-09-25T20:55:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "luispa",
+      "tags": []
+    },
+    {
+      "id": "1ku8pq",
+      "title": "How we learned to stop worrying and love campus surveillance",
+      "description": "Score: 215 | Comments: 120 | Posted by cdrnsf",
+      "url": "https://fnl.mit.edu/how-we-learned-to-stop-worrying-and-love-campus-surveillance/",
+      "publishedAt": "2026-09-25T19:56:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cdrnsf",
+      "tags": []
+    },
+    {
+      "id": "sdwb7z",
+      "title": "Pilots and Flight Attendants Have the Highest Radiation-Related Cancer Mortality",
+      "description": "Score: 20 | Comments: 3 | Posted by pseudolus",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2854678",
+      "publishedAt": "2026-09-25T19:22:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pseudolus",
+      "tags": []
+    },
+    {
+      "id": "dcwkln",
+      "title": "Alan Kay: Shannon gave us a way of dealing with noisy channels [video]",
+      "description": "Score: 139 | Comments: 25 | Posted by behoove",
+      "url": "https://www.youtube.com/watch?v=Cjntrqhn8pk",
+      "publishedAt": "2026-09-25T18:37:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "behoove",
+      "tags": []
+    },
+    {
+      "id": "ezi1sx",
+      "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+      "description": "Score: 470 | Comments: 117 | Posted by Ardakilic",
+      "url": "https://ollaya.dev/",
+      "publishedAt": "2026-09-25T18:33:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Ardakilic",
+      "tags": []
+    },
+    {
+      "id": "d36quo",
+      "title": "Gravity seems holographic. What does that mean for reality?",
+      "description": "Score: 207 | Comments: 174 | Posted by ibobev",
+      "url": "https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/",
+      "publishedAt": "2026-09-25T15:31:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
+      "tags": []
+    },
+    {
+      "id": "ymoy39",
+      "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+      "description": "Score: 448 | Comments: 776 | Posted by cramer4next",
+      "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+      "publishedAt": "2026-09-25T15:29:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cramer4next",
+      "tags": []
+    },
+    {
+      "id": "mcjk3r",
+      "title": "Show HN: Jev Plays Pokémon Red",
+      "description": "Score: 207 | Comments: 85 | Posted by pancomplex",
+      "url": "https://jev-pokemon.vercel.app/",
+      "publishedAt": "2026-09-25T14:28:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pancomplex",
+      "tags": []
+    },
+    {
+      "id": "uqrwtb",
+      "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
+      "description": "Score: 125 | Comments: 118 | Posted by sbulaev",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
+      "publishedAt": "2026-09-25T14:07:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sbulaev",
+      "tags": []
+    },
+    {
+      "id": "dt204t",
+      "title": "First Principles Thinking",
+      "description": "Score: 266 | Comments: 112 | Posted by sunils34",
+      "url": "https://sunilsadasivan.com/writing/first-principles-thinking/",
+      "publishedAt": "2026-09-25T13:55:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sunils34",
+      "tags": []
+    },
+    {
+      "id": "agt4vr",
+      "title": "What happens when you analyze your favorite college football team like the CIA?",
+      "description": "Score: 57 | Comments: 34 | Posted by adam",
+      "url": "https://www.cultivatelabs.com/posts/what-happens-when-you-analyze-college-football-like-the-cia",
+      "publishedAt": "2026-09-25T13:47:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "adam",
+      "tags": []
+    },
+    {
+      "id": "wyffam",
+      "title": "Show HN: Hacker Atlas - A map of what Hacker News talks about",
+      "description": "Score: 64 | Comments: 20 | Posted by andrearitossa",
+      "url": "https://hackeratlas.com/",
+      "publishedAt": "2026-09-25T13:37:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andrearitossa",
+      "tags": []
+    },
+    {
+      "id": "n670zl",
+      "title": "Platform-independent SIMD in Go",
+      "description": "Score: 389 | Comments: 144 | Posted by yurivish",
+      "url": "https://go.dev/blog/simd-experiment",
+      "publishedAt": "2026-09-25T11:47:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "yurivish",
+      "tags": []
+    },
+    {
+      "id": "wbthw9",
+      "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
+      "description": "Score: 337 | Comments: 108 | Posted by alentred",
+      "url": "https://github.com/git-bug/git-bug",
+      "publishedAt": "2026-09-25T11:38:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "alentred",
+      "tags": []
+    },
+    {
       "id": "a3prh4",
       "title": "Uproar in France over award-winning author accused of using AI",
       "description": "Score: 23 | Comments: 22 | Posted by harscoat",
@@ -36,6 +245,17 @@
       "tags": []
     },
     {
+      "id": "vk6669",
+      "title": "I wrote a ray tracer in Brainfuck",
+      "description": "Score: 75 | Comments: 18 | Posted by epestr",
+      "url": "https://epestr.com/blog/writing-a-ray-tracer-in-brainfuck/",
+      "publishedAt": "2026-09-25T10:08:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "epestr",
+      "tags": []
+    },
+    {
       "id": "g3kf2x",
       "title": "Theranos founder reportedly to be transferred to halfway home next year",
       "description": "Score: 6 | Comments: 0 | Posted by Geekette",
@@ -66,6 +286,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "eigenBasis",
+      "tags": []
+    },
+    {
+      "id": "py55eq",
+      "title": "Boards of Casio",
+      "description": "Score: 119 | Comments: 39 | Posted by fidotron",
+      "url": "https://www.ambionix.com/blog/boards-of-casio/",
+      "publishedAt": "2026-09-25T09:26:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fidotron",
       "tags": []
     },
     {
@@ -143,6 +374,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "safateam",
+      "tags": []
+    },
+    {
+      "id": "g1n0bk",
+      "title": "Plan mode is dead",
+      "description": "Score: 346 | Comments: 314 | Posted by jmvldz",
+      "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
+      "publishedAt": "2026-09-25T03:59:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jmvldz",
       "tags": []
     },
     {

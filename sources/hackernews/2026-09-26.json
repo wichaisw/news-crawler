@@ -1,0 +1,160 @@
+{
+  "date": "2026-09-26",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "xjnb7h",
+      "title": "Fifteen years later, the Apple Cards origin storylexontech.org",
+      "description": "Score: 35 | Comments: 1 | Posted by ksec",
+      "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
+      "publishedAt": "2026-09-26T09:59:09.259Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ksec",
+      "tags": []
+    },
+    {
+      "id": "zc3yzc",
+      "title": "The Copilot+ PC brand is dead",
+      "description": "Score: 3 | Comments: 0 | Posted by bj-rn",
+      "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+      "publishedAt": "2026-09-26T09:55:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bj-rn",
+      "tags": []
+    },
+    {
+      "id": "dna15m",
+      "title": "How to keep enjoying programming in a world of LLMs",
+      "description": "Score: 57 | Comments: 78 | Posted by signa11",
+      "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+      "publishedAt": "2026-09-26T09:41:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "signa11",
+      "tags": []
+    },
+    {
+      "id": "xjnb7h",
+      "title": "Fifteen years later, the Apple Cards origin story",
+      "description": "Score: 35 | Comments: 1 | Posted by ksec",
+      "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
+      "publishedAt": "2026-09-26T09:13:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ksec",
+      "tags": []
+    },
+    {
+      "id": "fspavg",
+      "title": "Floci: Locally emulating any cloud service",
+      "description": "Score: 14 | Comments: 2 | Posted by theanonymousone",
+      "url": "https://floci.io",
+      "publishedAt": "2026-09-26T08:31:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "theanonymousone",
+      "tags": []
+    },
+    {
+      "id": "mve3oj",
+      "title": "CAPTCHAs don't prove you're human – they prove you're American",
+      "description": "Score: 70 | Comments: 68 | Posted by theanonymousone",
+      "url": "https://shkspr.mobi/blog/2017/11/captchas-dont-prove-youre-human-they-prove-youre-american/",
+      "publishedAt": "2026-09-26T08:27:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "theanonymousone",
+      "tags": []
+    },
+    {
+      "id": "gi9lil",
+      "title": "The far side of the Moon provides clues to a previous magnetic field",
+      "description": "Score: 7 | Comments: 0 | Posted by croes",
+      "url": "https://ethz.ch/en/news-and-events/eth-news/news/2026/09/the-far-side-of-the-moon-provides-clues-to-a-previous-magnetic-field.html",
+      "publishedAt": "2026-09-26T07:49:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "croes",
+      "tags": []
+    },
+    {
+      "id": "gkscv0",
+      "title": "Is your Postgres migration safe or not safe?",
+      "description": "Score: 32 | Comments: 10 | Posted by vira28",
+      "url": "https://safenotsafe.dev/",
+      "publishedAt": "2026-09-26T07:33:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vira28",
+      "tags": []
+    },
+    {
+      "id": "uh6ftg",
+      "title": "Alberta's image as world's only rat-free region shattered by discovery of rat",
+      "description": "Score: 31 | Comments: 19 | Posted by pseudolus",
+      "url": "https://www.theguardian.com/world/2026/sep/25/alberta-canada-rat-patrol",
+      "publishedAt": "2026-09-26T06:51:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pseudolus",
+      "tags": []
+    },
+    {
+      "id": "mlzmjv",
+      "title": "A single function Jev-like wrapper for LLMs, including vision models",
+      "description": "Score: 83 | Comments: 21 | Posted by allanrbo",
+      "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+      "publishedAt": "2026-09-26T04:20:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "allanrbo",
+      "tags": []
+    },
+    {
+      "id": "o3k4yg",
+      "title": "We're gonna need a lot more mathematicians",
+      "description": "Score: 149 | Comments: 184 | Posted by srcreigh",
+      "url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
+      "publishedAt": "2026-09-26T02:46:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "srcreigh",
+      "tags": []
+    },
+    {
+      "id": "9ug9we",
+      "title": "HomelabFest will be in St. Louis in September 2027",
+      "description": "Score: 32 | Comments: 17 | Posted by geerlingguy",
+      "url": "https://www.homelabfest.org",
+      "publishedAt": "2026-09-26T02:03:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "geerlingguy",
+      "tags": []
+    },
+    {
+      "id": "38dfuo",
+      "title": "Jury finds Facebook liable for deceiving users in Cambridge Analytica case",
+      "description": "Score: 244 | Comments: 58 | Posted by pseudolus",
+      "url": "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/",
+      "publishedAt": "2026-09-26T01:36:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pseudolus",
+      "tags": []
+    },
+    {
+      "id": "lmf5p9",
+      "title": "One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days",
+      "description": "Score: 183 | Comments: 83 | Posted by HotGarbage",
+      "url": "https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide",
+      "publishedAt": "2026-09-26T00:59:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "HotGarbage",
+      "tags": []
+    }
+  ]
+}

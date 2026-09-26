@@ -3,6 +3,28 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "slki06",
+      "title": "Remembering Johannes Doerfert",
+      "description": "Score: 98 | Comments: 3 | Posted by sdko",
+      "url": "https://blog.llvm.org/posts/2026-09-24-rememberingjohannesdoerfert/",
+      "publishedAt": "2026-09-24T23:36:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sdko",
+      "tags": []
+    },
+    {
+      "id": "6mmwac",
+      "title": "The Murky History of Soviet-Born Tetris",
+      "description": "Score: 51 | Comments: 13 | Posted by EA-3167",
+      "url": "https://thereader.mitpress.mit.edu/the-bizarre-murky-history-of-soviet-born-tetris/",
+      "publishedAt": "2026-09-24T23:11:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "EA-3167",
+      "tags": []
+    },
+    {
       "id": "h1tlcj",
       "title": "MentalHealthBench",
       "description": "Score: 23 | Comments: 8 | Posted by gmays",
@@ -33,6 +55,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "neonate",
+      "tags": []
+    },
+    {
+      "id": "gz320u",
+      "title": "How I changed teaching after AI managed to do all my homework assignments",
+      "description": "Score: 81 | Comments: 71 | Posted by azhenley",
+      "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
+      "publishedAt": "2026-09-24T20:51:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "azhenley",
       "tags": []
     },
     {
@@ -77,6 +110,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "benbreen",
+      "tags": []
+    },
+    {
+      "id": "jwikhv",
+      "title": "Postgres SELECT DISTINCT Does Not Scale",
+      "description": "Score: 85 | Comments: 27 | Posted by KraftyOne",
+      "url": "https://www.dbos.dev/blog/postgres-select-distinct-does-not-scale",
+      "publishedAt": "2026-09-24T18:43:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "KraftyOne",
       "tags": []
     },
     {
@@ -146,6 +190,28 @@
       "tags": []
     },
     {
+      "id": "quwy73",
+      "title": "Two and a half years without a gallbladder",
+      "description": "Score: 39 | Comments: 28 | Posted by surprisetalk",
+      "url": "https://tracydurnell.com/2026/09/16/two-and-a-half-years-without-a-gallbladder/",
+      "publishedAt": "2026-09-24T13:40:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
+      "id": "5yqmie",
+      "title": "From Thin Air to Bootable Images: The Tine Build System",
+      "description": "Score: 16 | Comments: 0 | Posted by Levitating",
+      "url": "https://amutable.com/blog/tine-build-system",
+      "publishedAt": "2026-09-24T13:25:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Levitating",
+      "tags": []
+    },
+    {
       "id": "cndz0k",
       "title": "'That's so AI ' What gen Alpha's biggest insult tells us",
       "description": "Score: 164 | Comments: 224 | Posted by YeGoblynQueenne",
@@ -154,6 +220,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "YeGoblynQueenne",
+      "tags": []
+    },
+    {
+      "id": "w3upop",
+      "title": "Parsing Expression Grammar vs. Regexes: Building Org Parser in Lisp, Export HTML",
+      "description": "Score: 33 | Comments: 1 | Posted by jjba23",
+      "url": "https://jointhefreeworld.org/blog/articles/lisps/parsing-expression-grammar-lisp-org-convert-to-html/index.html",
+      "publishedAt": "2026-09-24T12:10:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jjba23",
+      "tags": []
+    },
+    {
+      "id": "w4zc1w",
+      "title": "Fourier Analysis: Drawing Llamas with Circles",
+      "description": "Score: 42 | Comments: 3 | Posted by cebert",
+      "url": "https://adekau.github.io/posts/2020/llamas.html",
+      "publishedAt": "2026-09-24T12:03:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cebert",
       "tags": []
     },
     {
@@ -300,6 +388,17 @@
       "tags": []
     },
     {
+      "id": "kw7og2",
+      "title": "16GB iPod Nano 3G Upgrade",
+      "description": "Score: 30 | Comments: 3 | Posted by Ivoah",
+      "url": "https://tuckerosman.com/projects/16gb-ipod-nano",
+      "publishedAt": "2026-09-24T03:58:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Ivoah",
+      "tags": []
+    },
+    {
       "id": "j91cw4",
       "title": "Ideas on modernizing the open-source desktop",
       "description": "Score: 162 | Comments: 159 | Posted by signa11",
@@ -341,6 +440,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "WanjohiRyan",
+      "tags": []
+    },
+    {
+      "id": "7wlo58",
+      "title": "Scientists build most accurate atomic clock",
+      "description": "Score: 18 | Comments: 6 | Posted by wglb",
+      "url": "https://phys.org/news/2026-09-scientists-world-accurate-atomic-clock.html",
+      "publishedAt": "2026-09-24T01:00:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wglb",
       "tags": []
     },
     {
