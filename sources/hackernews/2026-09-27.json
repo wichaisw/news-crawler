@@ -1,0 +1,105 @@
+{
+  "date": "2026-09-27",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "5alrdo",
+      "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voicearxiv.org",
+      "description": "Score: 27 | Comments: 20 | Posted by yu3zhou4",
+      "url": "https://arxiv.org/abs/2609.25021",
+      "publishedAt": "2026-09-27T10:37:30.754Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "yu3zhou4",
+      "tags": []
+    },
+    {
+      "id": "5alrdo",
+      "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+      "description": "Score: 28 | Comments: 20 | Posted by yu3zhou4",
+      "url": "https://arxiv.org/abs/2609.25021",
+      "publishedAt": "2026-09-27T10:26:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "yu3zhou4",
+      "tags": []
+    },
+    {
+      "id": "n4zpfm",
+      "title": "I Posed as a Problem Gambler. DraftKings Made Me a VIP",
+      "description": "Score: 10 | Comments: 1 | Posted by theblazehen",
+      "url": "https://www.propublica.org/article/draftkings-sports-gambling-problem-vip-fanduel",
+      "publishedAt": "2026-09-27T09:49:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "theblazehen",
+      "tags": []
+    },
+    {
+      "id": "hq090",
+      "title": "Show HN: LightCloud – A cloud console organised like file system",
+      "description": "Score: 5 | Comments: 2 | Posted by yullius",
+      "url": "https://www.light-cloud.com/",
+      "publishedAt": "2026-09-27T09:45:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "yullius",
+      "tags": []
+    },
+    {
+      "id": "rd2u6r",
+      "title": "OpenAI pauses training of latest models after agents probed US Government sites",
+      "description": "Score: 7 | Comments: 0 | Posted by ml-student",
+      "url": "https://apnews.com/article/ai-openai-anthropic-agents-rogue-hack-2f8a2b9024d4f06793bcca12f8089d20",
+      "publishedAt": "2026-09-27T09:07:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ml-student",
+      "tags": []
+    },
+    {
+      "id": "3prm7l",
+      "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
+      "description": "Score: 208 | Comments: 120 | Posted by rbanffy",
+      "url": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
+      "publishedAt": "2026-09-27T08:44:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rbanffy",
+      "tags": []
+    },
+    {
+      "id": "lqvh8m",
+      "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+      "description": "Score: 260 | Comments: 223 | Posted by papergirl",
+      "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+      "publishedAt": "2026-09-27T06:19:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "papergirl",
+      "tags": []
+    },
+    {
+      "id": "1sdypk",
+      "title": "The internet discovers TLA+. Now what?",
+      "description": "Score: 24 | Comments: 13 | Posted by matt_d",
+      "url": "https://reasonable.io/blog/tla-tutorial/",
+      "publishedAt": "2026-09-27T05:26:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "matt_d",
+      "tags": []
+    },
+    {
+      "id": "vyv8ns",
+      "title": "What is the size of Yemen? (2024)",
+      "description": "Score: 182 | Comments: 62 | Posted by kspacewalk2",
+      "url": "https://theborys.substack.com/p/what-is-the-size-of-yemen",
+      "publishedAt": "2026-09-27T02:40:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kspacewalk2",
+      "tags": []
+    }
+  ]
+}

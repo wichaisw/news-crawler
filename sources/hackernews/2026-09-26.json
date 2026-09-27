@@ -3,6 +3,127 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "iag7po",
+      "title": "Welcome to the Medical Clinic at the Interplanetary Relay Station",
+      "description": "Score: 73 | Comments: 14 | Posted by bucket2015",
+      "url": "https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/",
+      "publishedAt": "2026-09-26T20:08:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bucket2015",
+      "tags": []
+    },
+    {
+      "id": "5zxg0q",
+      "title": "HomeBody: A humanoid that explores, remembers, and acts on its own",
+      "description": "Score: 31 | Comments: 2 | Posted by famouswaffles",
+      "url": "https://tml.stanford.edu/homebody/",
+      "publishedAt": "2026-09-26T18:42:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "famouswaffles",
+      "tags": []
+    },
+    {
+      "id": "5ak17u",
+      "title": "DeepSeek Elastic Compute (DSec)",
+      "description": "Score: 258 | Comments: 85 | Posted by shenli3514",
+      "url": "https://arxiv.org/abs/2609.22978",
+      "publishedAt": "2026-09-26T18:22:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "shenli3514",
+      "tags": []
+    },
+    {
+      "id": "104upt",
+      "title": "Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
+      "description": "Score: 83 | Comments: 11 | Posted by pwg",
+      "url": "https://www.righto.com/2026/09/8087-tangent-cordic.html",
+      "publishedAt": "2026-09-26T17:26:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pwg",
+      "tags": []
+    },
+    {
+      "id": "5n7efv",
+      "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
+      "description": "Score: 321 | Comments: 87 | Posted by jpwalsh234",
+      "url": "https://github.com/reladraw/reladraw",
+      "publishedAt": "2026-09-26T17:10:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jpwalsh234",
+      "tags": []
+    },
+    {
+      "id": "i4smbp",
+      "title": "The Evolution of Vending Machines",
+      "description": "Score: 37 | Comments: 12 | Posted by ohjeez",
+      "url": "https://www.saturdayeveningpost.com/2026/09/from-holy-water-to-frozen-meals-the-evolution-of-vending-machines/",
+      "publishedAt": "2026-09-26T17:01:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ohjeez",
+      "tags": []
+    },
+    {
+      "id": "mz7oy5",
+      "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+      "description": "Score: 157 | Comments: 42 | Posted by parasitid",
+      "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+      "publishedAt": "2026-09-26T15:56:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "parasitid",
+      "tags": []
+    },
+    {
+      "id": "mvbqu1",
+      "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
+      "description": "Score: 100 | Comments: 39 | Posted by flxflx",
+      "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+      "publishedAt": "2026-09-26T15:49:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "flxflx",
+      "tags": []
+    },
+    {
+      "id": "ak2xva",
+      "title": "Go Concurrency Distilled",
+      "description": "Score: 235 | Comments: 94 | Posted by chmaynard",
+      "url": "https://antonz.org/go-concurrency-distilled/",
+      "publishedAt": "2026-09-26T14:34:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "chmaynard",
+      "tags": []
+    },
+    {
+      "id": "tzokcb",
+      "title": "Improving site performance by shipping more CSS",
+      "description": "Score: 53 | Comments: 30 | Posted by torutofu",
+      "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
+      "publishedAt": "2026-09-26T13:10:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "torutofu",
+      "tags": []
+    },
+    {
+      "id": "dpzd55",
+      "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
+      "description": "Score: 667 | Comments: 278 | Posted by ezst",
+      "url": "https://gultsch.de/posts/breaking-up-with-google-play/",
+      "publishedAt": "2026-09-26T10:55:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ezst",
+      "tags": []
+    },
+    {
       "id": "xjnb7h",
       "title": "Fifteen years later, the Apple Cards origin storylexontech.org",
       "description": "Score: 35 | Comments: 1 | Posted by ksec",
@@ -69,6 +190,17 @@
       "tags": []
     },
     {
+      "id": "u8daou",
+      "title": "Flip Fluid on Flip Dots",
+      "description": "Score: 114 | Comments: 11 | Posted by blutack",
+      "url": "https://mitxela.com/projects/flipflip",
+      "publishedAt": "2026-09-26T07:50:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "blutack",
+      "tags": []
+    },
+    {
       "id": "gi9lil",
       "title": "The far side of the Moon provides clues to a previous magnetic field",
       "description": "Score: 7 | Comments: 0 | Posted by croes",
@@ -113,6 +245,28 @@
       "tags": []
     },
     {
+      "id": "s64mdb",
+      "title": "An agent used DNS to reach an external chatbot",
+      "description": "Score: 106 | Comments: 107 | Posted by apsec112",
+      "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/",
+      "publishedAt": "2026-09-26T04:14:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "apsec112",
+      "tags": []
+    },
+    {
+      "id": "pqfb61",
+      "title": "Promising discoveries about the potential for life on one of Saturn’s icy moons",
+      "description": "Score: 67 | Comments: 37 | Posted by geox",
+      "url": "https://www.fu-berlin.de/en/presse/informationen/fup/2026/fup_26_116-enceladus-cassini-mikroben-science-postberg/index.html",
+      "publishedAt": "2026-09-26T03:23:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "geox",
+      "tags": []
+    },
+    {
       "id": "o3k4yg",
       "title": "We're gonna need a lot more mathematicians",
       "description": "Score: 149 | Comments: 184 | Posted by srcreigh",
@@ -146,6 +300,17 @@
       "tags": []
     },
     {
+      "id": "5179cc",
+      "title": "How one Twitch chat message became code execution on a streamer’s PC",
+      "description": "Score: 58 | Comments: 28 | Posted by tau255",
+      "url": "https://blog.scrt.ch/2026/09/22/how-one-twitch-chat-message-became-code-execution-on-a-streamers-pc/",
+      "publishedAt": "2026-09-26T01:13:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tau255",
+      "tags": []
+    },
+    {
       "id": "lmf5p9",
       "title": "One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days",
       "description": "Score: 183 | Comments: 83 | Posted by HotGarbage",
@@ -154,6 +319,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "HotGarbage",
+      "tags": []
+    },
+    {
+      "id": "o9hr2o",
+      "title": "Generate fonts where every LLM token is the same width",
+      "description": "Score: 69 | Comments: 13 | Posted by z-mach9",
+      "url": "https://ampdot.mesh.host/token-space-fonts.html",
+      "publishedAt": "2026-09-26T00:30:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "z-mach9",
       "tags": []
     }
   ]

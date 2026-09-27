@@ -3,6 +3,28 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "ps0wv1",
+      "title": "Bob Mackie dressed stars–if they were brave enough",
+      "description": "Score: 7 | Comments: 3 | Posted by andsoitis",
+      "url": "https://www.economist.com/obituary/2026/09/24/bob-mackie-dressed-stars-if-they-were-brave-enough",
+      "publishedAt": "2026-09-25T23:41:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andsoitis",
+      "tags": []
+    },
+    {
+      "id": "8m38y2",
+      "title": "Exploding variance of means of exponentials: least-squares to the rescue",
+      "description": "Score: 34 | Comments: 0 | Posted by matt_d",
+      "url": "https://francisbach.com/spectral_log_density_estimation/",
+      "publishedAt": "2026-09-25T22:48:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "matt_d",
+      "tags": []
+    },
+    {
       "id": "7gkuob",
       "title": "Lab on a Contact Lens Can Measure Stress Through Serotonin",
       "description": "Score: 46 | Comments: 12 | Posted by marc__1",
@@ -58,6 +80,17 @@
       "tags": []
     },
     {
+      "id": "ujszpp",
+      "title": "Teaching a World Model to Play Pokemon",
+      "description": "Score: 10 | Comments: 17 | Posted by stmonty",
+      "url": "https://nostalgia.dev/posts/teaching-a-world-model-to-play-pokemon/",
+      "publishedAt": "2026-09-25T21:02:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "stmonty",
+      "tags": []
+    },
+    {
       "id": "wm6ahs",
       "title": "Excel now supports multiple values in a single cell",
       "description": "Score: 193 | Comments: 141 | Posted by luispa",
@@ -66,6 +99,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "luispa",
+      "tags": []
+    },
+    {
+      "id": "u8pm52",
+      "title": "Finally, A True Blue Rose Exists",
+      "description": "Score: 21 | Comments: 5 | Posted by bookofjoe",
+      "url": "https://www.sciencenews.org/article/true-blue-rose-pigment-copigment",
+      "publishedAt": "2026-09-25T20:44:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bookofjoe",
       "tags": []
     },
     {
@@ -110,6 +154,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "Ardakilic",
+      "tags": []
+    },
+    {
+      "id": "jwnh7f",
+      "title": "LP Voting and Investor Consent for AIFs",
+      "description": "Score: 4 | Comments: 0 | Posted by koolhead17",
+      "url": "https://taghash.io/blog/lp-voting-and-investor-consent-for-aifs-a-practical-workflow",
+      "publishedAt": "2026-09-25T17:23:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "koolhead17",
+      "tags": []
+    },
+    {
+      "id": "ijh2oz",
+      "title": "Snap Wants to be a State Actor??–Kansas v. Snap",
+      "description": "Score: 49 | Comments: 13 | Posted by hn_acker",
+      "url": "https://blog.ericgoldman.org/archives/2026/09/snap-wants-to-be-a-state-actor-kansas-v-snap.htm",
+      "publishedAt": "2026-09-25T17:12:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hn_acker",
       "tags": []
     },
     {
@@ -168,6 +234,28 @@
       "tags": []
     },
     {
+      "id": "jpd6tz",
+      "title": "ASML says it sold 'absolutely nothing' in Europe in 2026",
+      "description": "Score: 302 | Comments: 669 | Posted by MC995",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand",
+      "publishedAt": "2026-09-25T13:49:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "MC995",
+      "tags": []
+    },
+    {
+      "id": "w30eoi",
+      "title": "Does Georgism work? Five years later",
+      "description": "Score: 363 | Comments: 263 | Posted by silveraxe93",
+      "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
+      "publishedAt": "2026-09-25T13:48:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "silveraxe93",
+      "tags": []
+    },
+    {
       "id": "agt4vr",
       "title": "What happens when you analyze your favorite college football team like the CIA?",
       "description": "Score: 57 | Comments: 34 | Posted by adam",
@@ -190,6 +278,17 @@
       "tags": []
     },
     {
+      "id": "f4ib4g",
+      "title": "We Should Be Able to Change Our Languages",
+      "description": "Score: 46 | Comments: 24 | Posted by surprisetalk",
+      "url": "http://jimmyhmiller.com/change-our-languages",
+      "publishedAt": "2026-09-25T13:00:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
       "id": "n670zl",
       "title": "Platform-independent SIMD in Go",
       "description": "Score: 389 | Comments: 144 | Posted by yurivish",
@@ -209,6 +308,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "alentred",
+      "tags": []
+    },
+    {
+      "id": "c21hh1",
+      "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
+      "description": "Score: 429 | Comments: 233 | Posted by Qision",
+      "url": "https://github.com/InfinityLoop1308/PipePipe",
+      "publishedAt": "2026-09-25T10:55:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Qision",
       "tags": []
     },
     {
@@ -396,6 +506,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jrochkind1",
+      "tags": []
+    },
+    {
+      "id": "gskluy",
+      "title": "Evolving programming languages in the AI era",
+      "description": "Score: 105 | Comments: 63 | Posted by pjm331",
+      "url": "https://dashbit.co/blog/evolving-ai-era",
+      "publishedAt": "2026-09-25T02:34:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pjm331",
+      "tags": []
+    },
+    {
+      "id": "fjpav2",
+      "title": "Biology might not be quantum, but its math is quantumlike",
+      "description": "Score: 78 | Comments: 25 | Posted by pseudolus",
+      "url": "https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/",
+      "publishedAt": "2026-09-25T02:11:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pseudolus",
       "tags": []
     }
   ]
