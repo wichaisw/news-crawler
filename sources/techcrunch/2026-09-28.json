@@ -1,0 +1,28 @@
+{
+  "date": "2026-09-28",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3170339",
+      "title": "Ocean surveillance startup Quartermaster raises another $140M",
+      "description": "The tech enables real-time awareness for what Quartermaster calls the “largest blind spot on Earth.”",
+      "url": "https://techcrunch.com/2026/09/28/ocean-surveillance-startup-quartermaster-raises-another-140m/",
+      "publishedAt": "2026-09-28T13:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sean O'Kane",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3169953",
+      "title": "Truecaller takes its scam intelligence to the open web as it looks beyond caller ID",
+      "description": "Truecaller finds a new way to reach users as pressure grows on its traditional caller ID business in India, its biggest market.",
+      "url": "https://techcrunch.com/2026/09/27/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-beyond-caller-id/",
+      "publishedAt": "2026-09-28T04:30:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Jagmeet Singh",
+      "tags": []
+    }
+  ]
+}

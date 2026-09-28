@@ -3,6 +3,193 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "z1n1bu",
+      "title": "European industry is doing better than you may think",
+      "description": "Score: 29 | Comments: 5 | Posted by andsoitis",
+      "url": "https://www.economist.com/business/2026/09/27/european-industry-is-doing-better-than-you-may-think",
+      "publishedAt": "2026-09-27T23:50:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andsoitis",
+      "tags": []
+    },
+    {
+      "id": "5fdjjf",
+      "title": "Lunar Terminator Paradox",
+      "description": "Score: 92 | Comments: 60 | Posted by dima55",
+      "url": "https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html",
+      "publishedAt": "2026-09-27T21:06:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dima55",
+      "tags": []
+    },
+    {
+      "id": "l366d5",
+      "title": "When did Google get so weird?",
+      "description": "Score: 1464 | Comments: 777 | Posted by sancho-panza",
+      "url": "https://sancho.bearblog.dev/google-weird/",
+      "publishedAt": "2026-09-27T20:12:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sancho-panza",
+      "tags": []
+    },
+    {
+      "id": "cpfi3t",
+      "title": "Self-Hosting on the Dark Web",
+      "description": "Score: 248 | Comments: 95 | Posted by mooreds",
+      "url": "https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/",
+      "publishedAt": "2026-09-27T20:03:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mooreds",
+      "tags": []
+    },
+    {
+      "id": "3u5x4u",
+      "title": "Alan Kay's answer to “Did the ENIAC have a BIOS”?",
+      "description": "Score: 157 | Comments: 43 | Posted by midnightfish",
+      "url": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
+      "publishedAt": "2026-09-27T19:37:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "midnightfish",
+      "tags": []
+    },
+    {
+      "id": "twtl5a",
+      "title": "Imp is a full port of DSPy to the BEAM",
+      "description": "Score: 85 | Comments: 7 | Posted by mpweiher",
+      "url": "https://github.com/deepfates/imp",
+      "publishedAt": "2026-09-27T19:28:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mpweiher",
+      "tags": []
+    },
+    {
+      "id": "lhzhc2",
+      "title": "What I did at Recurse Center",
+      "description": "Score: 110 | Comments: 38 | Posted by bingden",
+      "url": "https://thill.me/2026/09/11/what-i-did-at-rc.html",
+      "publishedAt": "2026-09-27T19:04:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bingden",
+      "tags": []
+    },
+    {
+      "id": "lrz38d",
+      "title": "Malleable software: Restoring user agency in a world of locked-down apps (2025)",
+      "description": "Score: 115 | Comments: 55 | Posted by evakhoury",
+      "url": "https://www.inkandswitch.com/essay/malleable-software/",
+      "publishedAt": "2026-09-27T19:01:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "evakhoury",
+      "tags": []
+    },
+    {
+      "id": "x1blb6",
+      "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
+      "description": "Score: 275 | Comments: 114 | Posted by safaelmali",
+      "url": "https://loficities.com/",
+      "publishedAt": "2026-09-27T18:44:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "safaelmali",
+      "tags": []
+    },
+    {
+      "id": "4vr3si",
+      "title": "Oral history of John Chowning, inventor of FM synthesis [video]",
+      "description": "Score: 84 | Comments: 29 | Posted by Rochus",
+      "url": "https://www.youtube.com/watch?v=e1Xn3030IvM",
+      "publishedAt": "2026-09-27T18:02:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Rochus",
+      "tags": []
+    },
+    {
+      "id": "2ezytw",
+      "title": "Ember-1",
+      "description": "Score: 509 | Comments: 225 | Posted by gmays",
+      "url": "https://fireworks.ai/blog/ember-1",
+      "publishedAt": "2026-09-27T17:31:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gmays",
+      "tags": []
+    },
+    {
+      "id": "7fl7vh",
+      "title": "Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
+      "description": "Score: 62 | Comments: 14 | Posted by FKJ",
+      "url": "https://earnanhonestdollar.com/bench",
+      "publishedAt": "2026-09-27T17:24:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "FKJ",
+      "tags": []
+    },
+    {
+      "id": "opo2bf",
+      "title": "Don't couple your Go code to GitHub",
+      "description": "Score: 273 | Comments: 133 | Posted by birdculture",
+      "url": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
+      "publishedAt": "2026-09-27T16:50:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "birdculture",
+      "tags": []
+    },
+    {
+      "id": "dp3jxw",
+      "title": "Show HN: TinyAIArena watch AI agents battle it out",
+      "description": "Score: 113 | Comments: 44 | Posted by hp6",
+      "url": "https://tinyaiarena.com/",
+      "publishedAt": "2026-09-27T15:51:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hp6",
+      "tags": []
+    },
+    {
+      "id": "q674me",
+      "title": "Fragment of oldest known peace treaty found in Turkey",
+      "description": "Score: 91 | Comments: 11 | Posted by gmays",
+      "url": "https://www.livescience.com/archaeology/ancient-egyptians/we-have-found-traces-of-peace-thousands-of-years-old-fragment-of-worlds-oldest-known-peace-treaty-found-in-turkey",
+      "publishedAt": "2026-09-27T14:35:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gmays",
+      "tags": []
+    },
+    {
+      "id": "5uanpg",
+      "title": "In an $80 motel room, a discovery to shed light on the origins of life",
+      "description": "Score: 261 | Comments: 97 | Posted by danso",
+      "url": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
+      "publishedAt": "2026-09-27T14:30:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "danso",
+      "tags": []
+    },
+    {
+      "id": "291it3",
+      "title": "Replacing the old battery on rechargeable bike lights",
+      "description": "Score: 184 | Comments: 105 | Posted by surprisetalk",
+      "url": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
+      "publishedAt": "2026-09-27T13:30:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
       "id": "5alrdo",
       "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voicearxiv.org",
       "description": "Score: 27 | Comments: 20 | Posted by yu3zhou4",
@@ -22,6 +209,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "yu3zhou4",
+      "tags": []
+    },
+    {
+      "id": "rob5oi",
+      "title": "Footguns with Postgres \"at time zone 'UTC'\"",
+      "description": "Score: 78 | Comments: 40 | Posted by birdculture",
+      "url": "https://bookofrevenue.com/blog/6ab81e9a97a13f0001f7e4e1/postgres-at-time-zone-u-does-not-do-what-you-think-it-does",
+      "publishedAt": "2026-09-27T10:19:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "birdculture",
       "tags": []
     },
     {

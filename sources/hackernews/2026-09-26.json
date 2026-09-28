@@ -14,6 +14,28 @@
       "tags": []
     },
     {
+      "id": "g8ol4f",
+      "title": "Faster prompt lookup drafting in llama.cpp",
+      "description": "Score: 81 | Comments: 12 | Posted by pptadversary",
+      "url": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/",
+      "publishedAt": "2026-09-26T19:57:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pptadversary",
+      "tags": []
+    },
+    {
+      "id": "mheznj",
+      "title": "Video CDs Break Windows Explorer",
+      "description": "Score: 135 | Comments: 50 | Posted by ClydeN",
+      "url": "https://clydesnotes.blogspot.com/2026/08/video-cds-break-windows-explorer.html",
+      "publishedAt": "2026-09-26T19:30:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ClydeN",
+      "tags": []
+    },
+    {
       "id": "5zxg0q",
       "title": "HomeBody: A humanoid that explores, remembers, and acts on its own",
       "description": "Score: 31 | Comments: 2 | Posted by famouswaffles",
@@ -91,6 +113,17 @@
       "tags": []
     },
     {
+      "id": "caom1u",
+      "title": "There is more to code review than (automatable) detection",
+      "description": "Score: 149 | Comments: 96 | Posted by utiiiD",
+      "url": "https://www.adaptivecapacitylabs.com/2026/08/24/there-is-more-to-code-review-than-automatable-detection/",
+      "publishedAt": "2026-09-26T15:06:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "utiiiD",
+      "tags": []
+    },
+    {
       "id": "ak2xva",
       "title": "Go Concurrency Distilled",
       "description": "Score: 235 | Comments: 94 | Posted by chmaynard",
@@ -99,6 +132,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "chmaynard",
+      "tags": []
+    },
+    {
+      "id": "1topkn",
+      "title": "Fakecloud: Local AWS cloud emulator for integration tests",
+      "description": "Score: 145 | Comments: 73 | Posted by theanonymousone",
+      "url": "https://fakecloud.dev/",
+      "publishedAt": "2026-09-26T14:25:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "theanonymousone",
       "tags": []
     },
     {
@@ -121,6 +165,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ezst",
+      "tags": []
+    },
+    {
+      "id": "377h9u",
+      "title": "Reading’s Bayeux Tapestry",
+      "description": "Score: 58 | Comments: 22 | Posted by zeristor",
+      "url": "https://diamondgeezer.blogspot.com/2026/09/readings-bayeux-tapestry.html",
+      "publishedAt": "2026-09-26T10:48:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zeristor",
       "tags": []
     },
     {
@@ -234,6 +289,17 @@
       "tags": []
     },
     {
+      "id": "xyu4vs",
+      "title": "The Cartesian Hand: In-Hand Manipulation with All-Linear Fingers",
+      "description": "Score: 96 | Comments: 13 | Posted by AareyBaba",
+      "url": "https://generalroboticslab.com/cartesian_handv1",
+      "publishedAt": "2026-09-26T05:27:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "AareyBaba",
+      "tags": []
+    },
+    {
       "id": "mlzmjv",
       "title": "A single function Jev-like wrapper for LLMs, including vision models",
       "description": "Score: 83 | Comments: 21 | Posted by allanrbo",
@@ -278,6 +344,17 @@
       "tags": []
     },
     {
+      "id": "jeiip6",
+      "title": "Guitar amp and effects pedal built on the Waveshare ESP32-S3-Touch-AMOLED-2.06",
+      "description": "Score: 115 | Comments: 56 | Posted by arbayi",
+      "url": "https://github.com/dashersw/coyopedal",
+      "publishedAt": "2026-09-26T02:24:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "arbayi",
+      "tags": []
+    },
+    {
       "id": "9ug9we",
       "title": "HomelabFest will be in St. Louis in September 2027",
       "description": "Score: 32 | Comments: 17 | Posted by geerlingguy",
@@ -297,6 +374,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "pseudolus",
+      "tags": []
+    },
+    {
+      "id": "wbnwh1",
+      "title": "Functional Mechanical Sympathy [video]",
+      "description": "Score: 45 | Comments: 7 | Posted by surprisetalk",
+      "url": "https://www.youtube.com/watch?v=jSHmDnUZCm8",
+      "publishedAt": "2026-09-26T01:26:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
       "tags": []
     },
     {
@@ -330,6 +418,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "z-mach9",
+      "tags": []
+    },
+    {
+      "id": "3al8l2",
+      "title": "Deterministic Concurrency [video]",
+      "description": "Score: 58 | Comments: 5 | Posted by surprisetalk",
+      "url": "https://www.youtube.com/watch?v=25x0UuSCKuU",
+      "publishedAt": "2026-09-26T00:14:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
       "tags": []
     }
   ]
