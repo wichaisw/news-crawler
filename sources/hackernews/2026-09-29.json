@@ -1,0 +1,160 @@
+{
+  "date": "2026-09-29",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "241dt3",
+      "title": "US sanctions force The Netherlands off Microsoft and toward alternative NixOS",
+      "description": "Score: 29 | Comments: 4 | Posted by mywacaday",
+      "url": "https://www.tomshardware.com/software/the-netherlands-is-rolling-alternative-nixos-based-software-ecosystem-after-u-s-sanctions-on-icc-took-microsoft-off-the-table-trial-programs-running-now-first-release-expected-at-end-of-2027",
+      "publishedAt": "2026-09-29T11:44:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mywacaday",
+      "tags": []
+    },
+    {
+      "id": "vqj7f9",
+      "title": "500k facial scans at UK stations yield no arrests, 1 false positive",
+      "description": "Score: 60 | Comments: 21 | Posted by ilamont",
+      "url": "https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive",
+      "publishedAt": "2026-09-29T11:35:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ilamont",
+      "tags": []
+    },
+    {
+      "id": "2ehe1h",
+      "title": "You Are No Longer Invited to Dinner",
+      "description": "Score: 102 | Comments: 58 | Posted by barry-cotter",
+      "url": "https://www.derekthompson.org/p/the-death-of-the-american-host",
+      "publishedAt": "2026-09-29T11:14:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "barry-cotter",
+      "tags": []
+    },
+    {
+      "id": "xi1voz",
+      "title": "Jeeves. Reasoning improves Jev-like decision models",
+      "description": "Score: 44 | Comments: 9 | Posted by nicowaltz",
+      "url": "https://github.com/PostHog/jeeves",
+      "publishedAt": "2026-09-29T11:13:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nicowaltz",
+      "tags": []
+    },
+    {
+      "id": "111pij",
+      "title": "New Cyber-OSINT model released",
+      "description": "Score: 20 | Comments: 7 | Posted by soltanov",
+      "url": "https://twitter.com/0x0SojalSec/status/2104736980768866439",
+      "publishedAt": "2026-09-29T10:23:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "soltanov",
+      "tags": []
+    },
+    {
+      "id": "hb41xg",
+      "title": "Show HN: Raven – The harness of harnesses, built for RSI",
+      "description": "Score: 4 | Comments: 0 | Posted by cyfyifanchen",
+      "url": "https://github.com/EverMind-AI/Raven",
+      "publishedAt": "2026-09-29T09:58:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cyfyifanchen",
+      "tags": []
+    },
+    {
+      "id": "w6f5wj",
+      "title": "AI companies leak data to advertisers [pdf]",
+      "description": "Score: 168 | Comments: 47 | Posted by damaru2",
+      "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+      "publishedAt": "2026-09-29T09:03:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "damaru2",
+      "tags": []
+    },
+    {
+      "id": "1nbtvv",
+      "title": "Evan Doorbell's Phone Tapes – Brought to You by Telephone World",
+      "description": "Score: 9 | Comments: 0 | Posted by mikecarlton",
+      "url": "https://evan-doorbell.com/",
+      "publishedAt": "2026-09-29T08:40:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mikecarlton",
+      "tags": []
+    },
+    {
+      "id": "yzw7yc",
+      "title": "Using any C++ library in Godot",
+      "description": "Score: 68 | Comments: 21 | Posted by czoido",
+      "url": "https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html",
+      "publishedAt": "2026-09-29T08:40:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "czoido",
+      "tags": []
+    },
+    {
+      "id": "c7e456",
+      "title": "Firebase SDK is CRASHING ALLLL iOS Apps, since today morning",
+      "description": "Score: 101 | Comments: 57 | Posted by pranshuchittora",
+      "url": "https://twitter.com/GergelyOrosz/status/2104825886922911981",
+      "publishedAt": "2026-09-29T08:26:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pranshuchittora",
+      "tags": []
+    },
+    {
+      "id": "kmkkxq",
+      "title": "Startup Nights 2026 is comming up on 5-6 Nov. in Switzerland",
+      "description": "Score: 24 | Comments: 11 | Posted by sschueller",
+      "url": "https://www.startup-nights.ch/event/",
+      "publishedAt": "2026-09-29T07:49:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sschueller",
+      "tags": []
+    },
+    {
+      "id": "2ibtkn",
+      "title": "Uncensored and Offensive Security AI Models Benchmark",
+      "description": "Score: 33 | Comments: 9 | Posted by soltanov",
+      "url": "https://github.com/JoasASantos/Offensive-Security-AI-Models",
+      "publishedAt": "2026-09-29T06:16:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "soltanov",
+      "tags": []
+    },
+    {
+      "id": "ek0mdr",
+      "title": "Tank Body Problem",
+      "description": "Score: 131 | Comments: 30 | Posted by jimbooonooo",
+      "url": "http://www.jimsitu.com",
+      "publishedAt": "2026-09-29T00:41:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jimbooonooo",
+      "tags": []
+    },
+    {
+      "id": "c44vri",
+      "title": "1996 chat room simulator connected to Win95 and System 7 web desktops",
+      "description": "Score: 119 | Comments: 46 | Posted by henrychannel",
+      "url": "https://lolchat.rip/",
+      "publishedAt": "2026-09-29T00:06:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "henrychannel",
+      "tags": []
+    }
+  ]
+}

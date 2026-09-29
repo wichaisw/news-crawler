@@ -58,6 +58,17 @@
       "tags": []
     },
     {
+      "id": "ol0zjy",
+      "title": "Show HN: Museum of Numbers",
+      "description": "Score: 24 | Comments: 9 | Posted by rhl314",
+      "url": "https://numbermuseum.com/2147483647",
+      "publishedAt": "2026-09-26T17:36:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rhl314",
+      "tags": []
+    },
+    {
       "id": "104upt",
       "title": "Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
       "description": "Score: 83 | Comments: 11 | Posted by pwg",
@@ -66,6 +77,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "pwg",
+      "tags": []
+    },
+    {
+      "id": "bwqnuv",
+      "title": "What is the best shape of a city? Modelling effect of urban form on distance",
+      "description": "Score: 39 | Comments: 24 | Posted by rustoo",
+      "url": "https://journals.sagepub.com/doi/10.1177/23998083261458842",
+      "publishedAt": "2026-09-26T17:23:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rustoo",
       "tags": []
     },
     {
@@ -88,6 +110,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ohjeez",
+      "tags": []
+    },
+    {
+      "id": "in87qa",
+      "title": "How to win a beer with high-dimensional statistics",
+      "description": "Score: 74 | Comments: 9 | Posted by jamie-simon",
+      "url": "https://jamiesimon.io/blog/how-to-win-a-beer-with-high-dimensional-statistics/",
+      "publishedAt": "2026-09-26T16:40:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jamie-simon",
+      "tags": []
+    },
+    {
+      "id": "ndldlb",
+      "title": "Optimizing x264 settings and per-title ladders",
+      "description": "Score: 4 | Comments: 0 | Posted by dabinat",
+      "url": "https://streaminglearningcenter.com/articles/optimizing-x264-settings-and-per-title-ladders.html",
+      "publishedAt": "2026-09-26T16:36:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dabinat",
       "tags": []
     },
     {
@@ -121,6 +165,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "utiiiD",
+      "tags": []
+    },
+    {
+      "id": "azuhrr",
+      "title": "The art forger who became a national hero",
+      "description": "Score: 47 | Comments: 10 | Posted by bookofjoe",
+      "url": "https://priceonomics.com/the-art-forger-who-became-a-national-hero/",
+      "publishedAt": "2026-09-26T15:00:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bookofjoe",
       "tags": []
     },
     {
@@ -176,6 +231,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "zeristor",
+      "tags": []
+    },
+    {
+      "id": "jugegc",
+      "title": "12,000-year-old Göbeklitepe burials explain scattered bones",
+      "description": "Score: 148 | Comments: 42 | Posted by yusufaytas",
+      "url": "https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/",
+      "publishedAt": "2026-09-26T10:16:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "yusufaytas",
       "tags": []
     },
     {

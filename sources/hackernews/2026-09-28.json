@@ -3,6 +3,237 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "z6eixg",
+      "title": "Show HN: Pac-Bench – How well can models one-shot a Pac-Man game?",
+      "description": "Score: 69 | Comments: 42 | Posted by thefourthchime",
+      "url": "https://jonclegg.github.io/pacman-bakeoff/",
+      "publishedAt": "2026-09-28T22:43:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thefourthchime",
+      "tags": []
+    },
+    {
+      "id": "ld6lwa",
+      "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
+      "description": "Score: 111 | Comments: 24 | Posted by nkko",
+      "url": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
+      "publishedAt": "2026-09-28T21:26:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nkko",
+      "tags": []
+    },
+    {
+      "id": "g42cyz",
+      "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+      "description": "Score: 521 | Comments: 197 | Posted by firelex",
+      "url": "https://github.com/firelex/jeff",
+      "publishedAt": "2026-09-28T20:23:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "firelex",
+      "tags": []
+    },
+    {
+      "id": "4xwq0u",
+      "title": "World Labs is Joining AMD",
+      "description": "Score: 286 | Comments: 111 | Posted by mfiguiere",
+      "url": "https://www.worldlabs.ai/blog/amd-announcement",
+      "publishedAt": "2026-09-28T20:18:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mfiguiere",
+      "tags": []
+    },
+    {
+      "id": "fjtlk3",
+      "title": "California farmers are struggling to sell grapes as demand for wine drops",
+      "description": "Score: 260 | Comments: 663 | Posted by randycupertino",
+      "url": "https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops",
+      "publishedAt": "2026-09-28T20:00:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "randycupertino",
+      "tags": []
+    },
+    {
+      "id": "aba67l",
+      "title": "Scientists solve 1840s space weather mystery",
+      "description": "Score: 113 | Comments: 48 | Posted by gumby",
+      "url": "https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/",
+      "publishedAt": "2026-09-28T20:00:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gumby",
+      "tags": []
+    },
+    {
+      "id": "mwysan",
+      "title": "It's Time to Investigate the AI Labs",
+      "description": "Score: 535 | Comments: 225 | Posted by ibobev",
+      "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
+      "publishedAt": "2026-09-28T19:53:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
+      "tags": []
+    },
+    {
+      "id": "c1266n",
+      "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+      "description": "Score: 257 | Comments: 89 | Posted by logicallee",
+      "url": "https://stateofutopia.com/experiments/microllmlab/",
+      "publishedAt": "2026-09-28T18:58:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "logicallee",
+      "tags": []
+    },
+    {
+      "id": "13zes4",
+      "title": "Sonnet 5.5",
+      "description": "Score: 825 | Comments: 556 | Posted by D2OQZG8l5BI1S06",
+      "url": "https://www.anthropic.com/claude-sonnet-5-5",
+      "publishedAt": "2026-09-28T17:58:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "D2OQZG8l5BI1S06",
+      "tags": []
+    },
+    {
+      "id": "3y8vxs",
+      "title": "Show HN: Destroy Any Website with Stickman",
+      "description": "Score: 145 | Comments: 36 | Posted by HugoDz",
+      "url": "https://destroy.spritefusion.com/",
+      "publishedAt": "2026-09-28T16:31:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "HugoDz",
+      "tags": []
+    },
+    {
+      "id": "mzm04p",
+      "title": "Phyllotaxis: An audio-reactive LED display",
+      "description": "Score: 168 | Comments: 21 | Posted by evakhoury",
+      "url": "https://jagi.studio/posts/phyllotaxis/",
+      "publishedAt": "2026-09-28T16:18:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "evakhoury",
+      "tags": []
+    },
+    {
+      "id": "yfrt01",
+      "title": "Pirating the Pirates",
+      "description": "Score: 617 | Comments: 314 | Posted by piotrgrabowski",
+      "url": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
+      "publishedAt": "2026-09-28T15:54:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "piotrgrabowski",
+      "tags": []
+    },
+    {
+      "id": "putjsv",
+      "title": "Nvidia wants to put a watchdog chip next to every AI agent",
+      "description": "Score: 193 | Comments: 243 | Posted by jonbaer",
+      "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
+      "publishedAt": "2026-09-28T15:46:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jonbaer",
+      "tags": []
+    },
+    {
+      "id": "2swseu",
+      "title": "Hijacking the PS5's RTMP stream",
+      "description": "Score: 264 | Comments: 87 | Posted by ibobev",
+      "url": "https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/",
+      "publishedAt": "2026-09-28T15:35:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
+      "tags": []
+    },
+    {
+      "id": "dx9tqg",
+      "title": "Kids turned low-traffic NPR Spotify comments into a secret group chat",
+      "description": "Score: 432 | Comments: 232 | Posted by simonpure",
+      "url": "https://www.thisamericanlife.org/897/transcript",
+      "publishedAt": "2026-09-28T15:35:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "simonpure",
+      "tags": []
+    },
+    {
+      "id": "cbjtf0",
+      "title": "Updated Google Maps shows destruction of the city of Rafah",
+      "description": "Score: 671 | Comments: 540 | Posted by slowin",
+      "url": "https://twitter.com/AliAbunimah/status/2103890594137309425",
+      "publishedAt": "2026-09-28T15:32:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "slowin",
+      "tags": []
+    },
+    {
+      "id": "ualxyr",
+      "title": "Cf: The Agentic CLI for the Cloudflare API",
+      "description": "Score: 157 | Comments: 79 | Posted by macleos",
+      "url": "https://blog.cloudflare.com/cloudflare-cf-cli-launch/",
+      "publishedAt": "2026-09-28T15:28:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "macleos",
+      "tags": []
+    },
+    {
+      "id": "fwk5vr",
+      "title": "Show HN: HN.watch – Videos of all Hacker News posts",
+      "description": "Score: 196 | Comments: 96 | Posted by mrborgen",
+      "url": "https://hn.watch/",
+      "publishedAt": "2026-09-28T15:16:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mrborgen",
+      "tags": []
+    },
+    {
+      "id": "v5rkji",
+      "title": "What heraldry and Japanese mon can teach about visual-identity generators",
+      "description": "Score: 79 | Comments: 25 | Posted by bovermyer",
+      "url": "https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/",
+      "publishedAt": "2026-09-28T14:48:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bovermyer",
+      "tags": []
+    },
+    {
+      "id": "i5625r",
+      "title": "Coding is not solved",
+      "description": "Score: 506 | Comments: 498 | Posted by firstSpeaker",
+      "url": "https://blog.alexewerlof.com/p/coding-is-not-solved",
+      "publishedAt": "2026-09-28T13:52:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "firstSpeaker",
+      "tags": []
+    },
+    {
+      "id": "gcg766",
+      "title": "Does Reddit have an astroturfing problem? What the data suggests",
+      "description": "Score: 247 | Comments: 310 | Posted by p-s-v",
+      "url": "https://www.petervijeh.com/projects/reddit-astroturf",
+      "publishedAt": "2026-09-28T13:30:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "p-s-v",
+      "tags": []
+    },
+    {
       "id": "1mi6nq",
       "title": "Una watch review: A modular, repairable GPS watch is a good first step",
       "description": "Score: 3 | Comments: 0 | Posted by poisonborz",
@@ -44,6 +275,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "sinnsro",
+      "tags": []
+    },
+    {
+      "id": "mq3810",
+      "title": "The systems that no one will test",
+      "description": "Score: 87 | Comments: 33 | Posted by perone",
+      "url": "https://blog.christianperone.com/2026/09/the-systems-that-no-one-will-test/",
+      "publishedAt": "2026-09-28T10:51:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "perone",
       "tags": []
     },
     {
@@ -176,6 +418,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "elffjs",
+      "tags": []
+    },
+    {
+      "id": "kixewo",
+      "title": "Behold the pawpaw",
+      "description": "Score: 74 | Comments: 36 | Posted by BiraIgnacio",
+      "url": "https://www.cbc.ca/radio/thecurrent/pawpaw-tropical-fruit-canada-9.7356882",
+      "publishedAt": "2026-09-28T01:46:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "BiraIgnacio",
       "tags": []
     },
     {

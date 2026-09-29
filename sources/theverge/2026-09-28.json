@@ -3,6 +3,78 @@
   "source": "theverge",
   "articles": [
     {
+      "id": "a30jz4",
+      "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
+      "description": "AMD announced today that it's acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr. Fei-Fei Li, in an all-stock deal worth approximately $8.2 billion. World Labs launched in 2024 and was valued at $1 billion in a matter of months. The startup launched its first commercial product, a world generation model [&#8230;]",
+      "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2279092788.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-09-28T21:31:35.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Jay Peters",
+      "tags": []
+    },
+    {
+      "id": "vsdtku",
+      "title": "Bose starts adding Auracast to its headphones",
+      "description": "A new firmware update for the $449 Bose QuietComfort Ultra Headphones Gen 2 adds support for Bluetooth LE Audio and Auracast as beta features. The flagship Ultra headphones are the first from Bose to support the audio sharing technology, which the company plans to bring to more devices soon. Only a few major manufacturers include [&#8230;]",
+      "url": "https://www.theverge.com/tech/1001522/bose-headphones-get-auracast-support",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24844791/BoseQCUltra.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-09-28T19:31:24.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "John Higgins",
+      "tags": []
+    },
+    {
+      "id": "8wyc15",
+      "title": "OpenAI’s AI agents need to catch up",
+      "description": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try to capture the lead in that race. Rumors abound that OpenAI will release its own AI agent, dubbed Aeon - [&#8230;]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-09-28T18:45:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Hayden Field",
+      "tags": []
+    },
+    {
+      "id": "d22taj",
+      "title": "Trump finalizes rule to make cars less fuel efficient",
+      "description": "The US Department of Transportation finalized its plans today to weaken fuel efficiency standards, calling it \"among the largest deregulatory actions under the second Trump Administration.\" It's a nail in the coffin for Biden-era standards that would have required fleet average fuel economy to reach 50.4 miles per gallon by model year 2031. President Donald [&#8230;]",
+      "url": "https://www.theverge.com/news/1001610/trump-weakens-fuel-efficiency-standards",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2250207971.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-09-28T18:39:50.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Justine Calma",
+      "tags": []
+    },
+    {
+      "id": "ppwf5z",
+      "title": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
+      "description": "In March, Janice Malone began getting calls about suspicious activity from her nonprofit organization, Vivian's Door. Vivian's Door, headquartered in Alabama, typically provided training, resources, and community to underserved and minority-owned businesses. The work sometimes put it in close contact with these companies' financial data, which was stored on its systems. But suddenly, concerned callers [&#8230;]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25299205/STK453_Privacy_D_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-09-28T18:30:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Hayden Field",
+      "tags": []
+    },
+    {
+      "id": "3w9xz5",
+      "title": "Florida seeks a ban on ChatGPT acting like a person",
+      "description": "Florida Attorney General James Uthmeier is calling for a judge to block OpenAI from \"giving ChatGPT false human attributes,\" a few months after Florida sued the AI company over safety concerns. According to Uthmeier, users are lulled into a false sense of security by the AI bot, as \"ChatGPT's use of language, including first-person pronouns [&#8230;]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-09-28T17:00:23.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Stevie Bonifield",
+      "tags": []
+    },
+    {
       "id": "37je6f",
       "title": "SpaceX preps next-gen Starlink as Amazon’s competitor stalls",
       "description": "SpaceX is gearing up for a monumental flight today that's sure to be closely watched by Amazon. If successful, SpaceX will deploy its first Starlink V3 satellites, which tout meaningful upgrades to the ever-expanding Starlink constellation. The 26 satellites will be riding atop Starship, which SpaceX will also attempt to deploy into Earth orbit for [&#8230;]",

@@ -1,0 +1,54 @@
+{
+  "date": "2026-09-29",
+  "source": "theverge",
+  "articles": [
+    {
+      "id": "4rq6ml",
+      "title": "Will Chinese AI companies slow down? A top House Democrat wants answers",
+      "description": "As President Donald Trump prepares to meet tech and AI CEOs in Washington, Rep. Ro Khanna (D-CA) is calling for a treaty between the US and China to keep AI from wreaking havoc on the world. But wrangling leaders in both countries to take action could be a long shot. In letters shared exclusively with [&#8230;]",
+      "url": "https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292801324.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-09-29T12:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Lauren Feiner",
+      "tags": []
+    },
+    {
+      "id": "v23c1t",
+      "title": "Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing",
+      "description": "As Anthropic gears up for its greatly anticipated public debut, a preview of the company's IPO filing reportedly details its mounting losses, leadership proposals to retain power, and how its AI development plans could \"further increase the risk that our models cause harm.\" These disclosures come as Anthropic eyes a $2 trillion valuation, more than [&#8230;]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25469941/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-09-29T11:48:27.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Jess Weatherbed",
+      "tags": []
+    },
+    {
+      "id": "9r35ut",
+      "title": "Your car’s data privacy problems are worse than you think",
+      "description": "You hear it all the time: Modern cars are basically smartphones on wheels. And just like the phone in your pocket, the car in your driveway collects vast amounts of data - tracking where you drive, how fast you accelerate, how hard you brake, how aggressively you turn, and much more. The legality of this [&#8230;]",
+      "url": "https://www.theverge.com/transportation/1001463/car-data-privacy-northeastern-study-honda-gm-ford",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2247409540.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-09-29T10:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Andrew J. Hawkins",
+      "tags": []
+    },
+    {
+      "id": "tmgoel",
+      "title": "Nothing’s new flagship Headphone 1 Pro put you in the studio",
+      "description": "Nothing has been on a bit of an audio tear this year, releasing the solid Headphone A and the surprisingly good Ear 3A earbuds. The Headphone A released at $199, while the earbuds are under $100, leaving room for something fancier. That something is the Nothing Headphone 1 Pro, the company's new $399 flagship over-ears [&#8230;]",
+      "url": "https://www.theverge.com/tech/1001797/nothings-headphone-1-pro-review",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268785_Nothing_pro_1_headphones_JHIGGINS_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-09-29T01:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "John Higgins",
+      "tags": []
+    }
+  ]
+}

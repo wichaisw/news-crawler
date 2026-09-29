@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-29",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3170639",
+      "title": "Protego Ventures closes debut $125 million fund for Israeli defense tech",
+      "description": "Protego Ventures, the first and largest dedicated defense tech VC in Israel, just completed its final $125 million closing, TechCrunch learned",
+      "url": "https://techcrunch.com/2026/09/29/protego-ventures-closes-debut-125-million-fund-for-israeli-defense-tech/",
+      "publishedAt": "2026-09-29T10:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anna Heim",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3170761",
+      "title": "Ex-Tesla team raises $12.5M to put supply chains on autopilot",
+      "description": "Atomic's agentic supply chain software is now being used by companies like DoorDash and HelloFresh.",
+      "url": "https://techcrunch.com/2026/09/29/ex-tesla-team-raises-12-5m-to-put-supply-chains-on-autopilot/",
+      "publishedAt": "2026-09-29T09:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sean O'Kane",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3171132",
+      "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+      "description": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own",
+      "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+      "publishedAt": "2026-09-29T05:13:43.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Connie Loizos",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3170634",
+      "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+      "description": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
+      "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+      "publishedAt": "2026-09-29T00:30:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Jagmeet Singh",
+      "tags": []
+    }
+  ]
+}
