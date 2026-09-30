@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-30",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "151783 at https://www.blognone.com",
+      "title": "OpenAI ออกแพ็คเกจใหม่ Pro $500 เพิ่มโควต้าใช้งาน พร้อมโหมด Ultrafast เบิร์นโทเค็นเร็วกว่าเดิม",
+      "description": "OpenAI ออกแพ็คเกจใหม่ Pro $500 เพิ่มโควต้าใช้งาน พร้อมโหมด Ultrafast เบิร์นโทเค็นเร็วกว่าเดิม Body ดูเหมือนแพ็คเกจใช้งาน AI เยอะแค่ไหนก็ยังไม่พอ",
+      "url": "https://www.blognone.com/node/151783",
+      "publishedAt": "2026-09-30T11:32:21.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151782 at https://www.blognone.com",
+      "title": "OpenAI อัปเดต GPT-6.1 Sol ชูจุดเด่นทำงานใกล้เคียง Astra ในราคาแค่ 1 ใน 5",
+      "description": "OpenAI อัปเดต GPT-6.1 Sol ชูจุดเด่นทำงานใกล้เคียง Astra ในราคาแค่ 1 ใน 5 Body OpenAI อัปเดตโมเดล AI รุ่นเคยบนแต่ตอนนี้เป็นรุ่นกลาง Sol",
+      "url": "https://www.blognone.com/node/151782",
+      "publishedAt": "2026-09-30T11:11:14.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151780 at https://www.blognone.com",
+      "title": "OpenAI เปิดตัว Dots บริการ Agent แบบ OpenClaw แต่ใช้คอมพิวเตอร์ในคลาวด์",
+      "description": "OpenAI เปิดตัว Dots บริการ Agent แบบ OpenClaw แต่ใช้คอมพิวเตอร์ในคลาวด์ Body OpenAI เปิดบริการ Dots บริการ AI Agent ที่เชื่อมต่อกับแอปได้มากกว่า",
+      "url": "https://www.blognone.com/node/151780",
+      "publishedAt": "2026-09-30T06:11:01.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151779 at https://www.blognone.com",
+      "title": "Salesforce ประกาศเตรียมคิดค่าใช้ MCP/API เมื่อรันผ่าน Agent",
+      "description": "Salesforce ประกาศเตรียมคิดค่าใช้ MCP/API เมื่อรันผ่าน Agent Body Salesforce ประกาศว่าภายในเดือนพฤศจิกายนนี้บริษัทจะเริ่มคิดค่าใช้งานแพลตฟอร์ม",
+      "url": "https://www.blognone.com/node/151779",
+      "publishedAt": "2026-09-30T05:20:20.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}

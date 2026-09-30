@@ -1,0 +1,54 @@
+{
+  "date": "2026-09-30",
+  "source": "theverge",
+  "articles": [
+    {
+      "id": "b2rhdd",
+      "title": "Samsung gives its two-year-old Galaxy Tab S Plus an overhaul",
+      "description": "Since the Galaxy Tab S10 line, Samsung has updated its flagship Ultra tablet annually, but alternates its regular and Plus variants. It means that this year's Galaxy Tab S12 series includes an Ultra model with few changes from last year's Tab S11 Ultra, and a Plus variant that brings a bigger overhaul to the two-year-old [&#8230;]",
+      "url": "https://www.theverge.com/tech/1002533/samsung-galaxy-tab-s12-plus-ultra-android-tablets-specs-price",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/samsung-galaxy-tab-s12-plus-ultra-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-09-30T12:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Dominic Preston",
+      "tags": []
+    },
+    {
+      "id": "u6ctjn",
+      "title": "Samsung’s new SmartTag is smaller, longer-lasting, and works with iPhones",
+      "description": "Samsung has announced its third-generation Bluetooth tracker, the Galaxy SmartTag 3. It combines a smaller design and improved battery life with a few new tracking and software features, including cross-OS support intended to make it easier to share tracking information with friends and family. As revealed by leaks, the SmartTag 3 has adopted a squircle [&#8230;]",
+      "url": "https://www.theverge.com/tech/1002552/samsung-galaxy-smarttag-3-design-battery-price-features",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/samsung-galaxy-smarttag-3-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-09-30T12:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Dominic Preston",
+      "tags": []
+    },
+    {
+      "id": "ktn12k",
+      "title": "Apple’s 'HomePad' will reportedly launch on October 13th",
+      "description": "Apple's long-rumored smart home hub will reportedly be revealed on October 13th. Bloomberg's Mark Gurman reports that the smart home device will be revealed alongside a new HomePod mini and an upgraded Apple TV device. All three products are set to showcase Siri AI, Apple's overhauled AI-powered assistant. The smart home hub, a new product [&#8230;]",
+      "url": "https://www.theverge.com/news/1002563/apple-smart-home-hub-homepad-rumor-launch-date",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK071_APPLE_H.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-09-30T11:11:24.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Tom Warren",
+      "tags": []
+    },
+    {
+      "id": "jyvhsb",
+      "title": "Sam Altman says OpenAI won’t go public until its models are safe",
+      "description": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We intend to continue with AI progress … but as the models have had this surge forward in capability, and we see [&#8230;]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D_717b98.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-09-30T00:19:13.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Hayden Field",
+      "tags": []
+    }
+  ]
+}

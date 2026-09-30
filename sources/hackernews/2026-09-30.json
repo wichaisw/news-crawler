@@ -1,0 +1,127 @@
+{
+  "date": "2026-09-30",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "20zen2",
+      "title": "Most data centers refusing to say how much water, electricity they use",
+      "description": "Score: 24 | Comments: 2 | Posted by Thom2503",
+      "url": "https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use",
+      "publishedAt": "2026-09-30T10:49:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Thom2503",
+      "tags": []
+    },
+    {
+      "id": "ksgxfw",
+      "title": "Pi.dev: You Said No MCPearendil.com",
+      "description": "Score: 148 | Comments: 61 | Posted by yarapavan",
+      "url": "https://earendil.com/posts/you-said-no-mcp/",
+      "publishedAt": "2026-09-30T10:06:08.209Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "yarapavan",
+      "tags": []
+    },
+    {
+      "id": "gwf0p3",
+      "title": "GPT-6.1 Sol replaces GPT-6 Sol after just 7 days, with near-Astra intelligence",
+      "description": "Score: 51 | Comments: 69 | Posted by theanonymousone",
+      "url": "https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence",
+      "publishedAt": "2026-09-30T09:59:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "theanonymousone",
+      "tags": []
+    },
+    {
+      "id": "ksgxfw",
+      "title": "Pi.dev: You Said No MCP",
+      "description": "Score: 150 | Comments: 61 | Posted by yarapavan",
+      "url": "https://earendil.com/posts/you-said-no-mcp/",
+      "publishedAt": "2026-09-30T09:55:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "yarapavan",
+      "tags": []
+    },
+    {
+      "id": "emgc5p",
+      "title": "Flydubai B38M, first officer under investigation for suspected suicide attempt",
+      "description": "Score: 13 | Comments: 0 | Posted by haunter",
+      "url": "https://avherald.com/h?article=5423fa17",
+      "publishedAt": "2026-09-30T09:42:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "haunter",
+      "tags": []
+    },
+    {
+      "id": "pxtqrp",
+      "title": "Singapore Govt Dating App Uses Gale-Shapley Stable Marriage Algorithm",
+      "description": "Score: 6 | Comments: 0 | Posted by rzk",
+      "url": "https://twitter.com/tuakdotsol/status/2105105417760391258",
+      "publishedAt": "2026-09-30T09:27:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rzk",
+      "tags": []
+    },
+    {
+      "id": "sub1jn",
+      "title": "Why Is Sam Altman a Free Man?",
+      "description": "Score: 172 | Comments: 131 | Posted by ragall",
+      "url": "https://prospect.org/2026/09/29/artificial-intelligence-agents-openai-microsoft-sam-altman-greg-brockman-ah-nice/",
+      "publishedAt": "2026-09-30T07:32:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ragall",
+      "tags": []
+    },
+    {
+      "id": "6rzn9b",
+      "title": "September 2026: The world today, as seen by one Polish guy",
+      "description": "Score: 315 | Comments: 184 | Posted by marjancek",
+      "url": "https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/",
+      "publishedAt": "2026-09-30T07:12:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "marjancek",
+      "tags": []
+    },
+    {
+      "id": "66xe5j",
+      "title": "PSSA: A non-transformer language model written from scratch in Rust",
+      "description": "Score: 78 | Comments: 32 | Posted by sparticle62",
+      "url": "https://github.com/Sparticle62ops/pssa",
+      "publishedAt": "2026-09-30T03:19:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sparticle62",
+      "tags": []
+    },
+    {
+      "id": "vhbhfl",
+      "title": "RSS Feeds for Last.fm",
+      "description": "Score: 90 | Comments: 24 | Posted by Baljhin",
+      "url": "https://lfm.xiffy.nl/",
+      "publishedAt": "2026-09-30T03:00:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Baljhin",
+      "tags": []
+    },
+    {
+      "id": "o56aeu",
+      "title": "Ballmer Peak",
+      "description": "Score: 66 | Comments: 16 | Posted by thunderbong",
+      "url": "https://en.wikipedia.org/wiki/Ballmer_Peak",
+      "publishedAt": "2026-09-30T02:35:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thunderbong",
+      "tags": []
+    }
+  ]
+}

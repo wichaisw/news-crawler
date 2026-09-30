@@ -25,6 +25,17 @@
       "tags": []
     },
     {
+      "id": "6yp24f",
+      "title": "Testing WebGPU data layouts with Facet",
+      "description": "Score: 52 | Comments: 3 | Posted by luu",
+      "url": "https://www.mattkeeter.com/blog/2026-08-23-wgpu-facet/",
+      "publishedAt": "2026-09-28T20:28:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "luu",
+      "tags": []
+    },
+    {
       "id": "g42cyz",
       "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
       "description": "Score: 521 | Comments: 197 | Posted by firelex",
@@ -44,6 +55,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mfiguiere",
+      "tags": []
+    },
+    {
+      "id": "fqgp5e",
+      "title": "Virus Stole a Human Gene and Won't Let Go of It",
+      "description": "Score: 92 | Comments: 33 | Posted by gumby",
+      "url": "https://www.nytimes.com/2026/09/28/science/virus-molluscum-human-gene.html",
+      "publishedAt": "2026-09-28T20:07:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gumby",
       "tags": []
     },
     {
@@ -146,6 +168,17 @@
       "tags": []
     },
     {
+      "id": "uluez9",
+      "title": "Show HN: Using 2D DFT, dithering, etc. to maximize eInk manga image quality",
+      "description": "Score: 33 | Comments: 4 | Posted by seam_carver",
+      "url": "https://github.com/ciromattia/kcc",
+      "publishedAt": "2026-09-28T15:39:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "seam_carver",
+      "tags": []
+    },
+    {
       "id": "2swseu",
       "title": "Hijacking the PS5's RTMP stream",
       "description": "Score: 264 | Comments: 87 | Posted by ibobev",
@@ -209,6 +242,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "bovermyer",
+      "tags": []
+    },
+    {
+      "id": "49d98s",
+      "title": "A Staff Engineer's Guide to Inventing Work",
+      "description": "Score: 287 | Comments: 57 | Posted by amortize",
+      "url": "https://sujithjay.com/inventing-work",
+      "publishedAt": "2026-09-28T14:46:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "amortize",
+      "tags": []
+    },
+    {
+      "id": "g2wqo5",
+      "title": "Walking Men",
+      "description": "Score: 82 | Comments: 26 | Posted by surprisetalk",
+      "url": "https://bookofjoe2.blogspot.com/2026/09/walking-men.html",
+      "publishedAt": "2026-09-28T14:00:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
       "tags": []
     },
     {

@@ -3,6 +3,237 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "djw01x",
+      "title": "Floppy Emu Hardware Failure Analysis Results",
+      "description": "Score: 17 | Comments: 3 | Posted by zdw",
+      "url": "https://www.bigmessowires.com/2026/09/29/floppy-emu-hardware-failure-analysis-results/",
+      "publishedAt": "2026-09-29T23:10:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "f8dnov",
+      "title": "NRC issues first U.S. construction permit for a BWRX-300 small modular reactor",
+      "description": "Score: 50 | Comments: 19 | Posted by papa-whisky",
+      "url": "https://www.gevernova.com/news/press-releases/nrc-issues-first-us-construction-permit-bwrx-300-small-modular-reactor-tva-clinch-river",
+      "publishedAt": "2026-09-29T23:03:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "papa-whisky",
+      "tags": []
+    },
+    {
+      "id": "z3n7tl",
+      "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
+      "description": "Score: 685 | Comments: 269 | Posted by bryan0",
+      "url": "https://github.com/ninjahawk/livenerf",
+      "publishedAt": "2026-09-29T22:36:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bryan0",
+      "tags": []
+    },
+    {
+      "id": "8g9ivr",
+      "title": "Deser: Rethinking Rust Serialization",
+      "description": "Score: 63 | Comments: 7 | Posted by tosh",
+      "url": "https://lucumr.pocoo.org/2026/9/29/deser/",
+      "publishedAt": "2026-09-29T21:48:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tosh",
+      "tags": []
+    },
+    {
+      "id": "r3dtnn",
+      "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
+      "description": "Score: 241 | Comments: 139 | Posted by ilamont",
+      "url": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
+      "publishedAt": "2026-09-29T19:30:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ilamont",
+      "tags": []
+    },
+    {
+      "id": "czxgl7",
+      "title": "Show HN: TurboGPT: train 22KiB transformer in 13s",
+      "description": "Score: 52 | Comments: 10 | Posted by lostmsu",
+      "url": "https://github.com/lostmsu/TurboGPT",
+      "publishedAt": "2026-09-29T19:20:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lostmsu",
+      "tags": []
+    },
+    {
+      "id": "wr3dxt",
+      "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
+      "description": "Score: 275 | Comments: 67 | Posted by wanick",
+      "url": "https://space.bl2.net/",
+      "publishedAt": "2026-09-29T19:08:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wanick",
+      "tags": []
+    },
+    {
+      "id": "bkplsj",
+      "title": "We’re forgetting what darkness feels like",
+      "description": "Score: 170 | Comments: 91 | Posted by pseudolus",
+      "url": "https://www.theguardian.com/environment/2026/sep/29/night-sky-darkness-city-regulation",
+      "publishedAt": "2026-09-29T18:22:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pseudolus",
+      "tags": []
+    },
+    {
+      "id": "v968x5",
+      "title": "Vermont replacing power plants with home batteries",
+      "description": "Score: 233 | Comments: 182 | Posted by devonnull",
+      "url": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
+      "publishedAt": "2026-09-29T18:19:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "devonnull",
+      "tags": []
+    },
+    {
+      "id": "1ioz0i",
+      "title": "Show HN: A working 3D model of an Enigma machine",
+      "description": "Score: 75 | Comments: 24 | Posted by primitivesuave",
+      "url": "https://enigma.design",
+      "publishedAt": "2026-09-29T17:15:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "primitivesuave",
+      "tags": []
+    },
+    {
+      "id": "w38t05",
+      "title": "Tcl/Tk 9.1",
+      "description": "Score: 283 | Comments: 126 | Posted by dmux",
+      "url": "https://www.tcl-lang.org/software/tcltk/9.1.html",
+      "publishedAt": "2026-09-29T17:13:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dmux",
+      "tags": []
+    },
+    {
+      "id": "9sih18",
+      "title": "Dots: Always-on agents",
+      "description": "Score: 648 | Comments: 513 | Posted by alvis",
+      "url": "https://openai.com/index/introducing-dots/",
+      "publishedAt": "2026-09-29T17:07:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "alvis",
+      "tags": []
+    },
+    {
+      "id": "fef34t",
+      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+      "description": "Score: 974 | Comments: 852 | Posted by crorella",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
+      "publishedAt": "2026-09-29T17:06:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "crorella",
+      "tags": []
+    },
+    {
+      "id": "jh4da3",
+      "title": "Needed 1+1, built a functional programming language",
+      "description": "Score: 118 | Comments: 40 | Posted by birdculture",
+      "url": "https://hereticpleb.vercel.app/blog/needed-one-plus-one/",
+      "publishedAt": "2026-09-29T16:18:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "birdculture",
+      "tags": []
+    },
+    {
+      "id": "lpfvrc",
+      "title": "PS5 Relapse Exploit",
+      "description": "Score: 324 | Comments: 197 | Posted by therepanic",
+      "url": "https://github.com/ntfargo/Relapse-Exploit",
+      "publishedAt": "2026-09-29T15:44:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "therepanic",
+      "tags": []
+    },
+    {
+      "id": "tg7a9x",
+      "title": "Show HN: NSL – WSL for Linux",
+      "description": "Score: 140 | Comments: 85 | Posted by bketelsen",
+      "url": "https://frostyard.github.io/nsl/",
+      "publishedAt": "2026-09-29T14:51:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bketelsen",
+      "tags": []
+    },
+    {
+      "id": "2jgd5c",
+      "title": "America.gov",
+      "description": "Score: 604 | Comments: 508 | Posted by plesiv",
+      "url": "https://america.gov/",
+      "publishedAt": "2026-09-29T14:04:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "plesiv",
+      "tags": []
+    },
+    {
+      "id": "hb6oq8",
+      "title": "Building a certificate authority for the whole Internet",
+      "description": "Score: 62 | Comments: 39 | Posted by ewpratten",
+      "url": "https://blog.cloudflare.com/cloudflare-certificate-authority/",
+      "publishedAt": "2026-09-29T13:44:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ewpratten",
+      "tags": []
+    },
+    {
+      "id": "fmjadu",
+      "title": "Backblaze drive stats for Q2 2026",
+      "description": "Score: 216 | Comments: 66 | Posted by HieronymusBosch",
+      "url": "https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/",
+      "publishedAt": "2026-09-29T13:34:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "HieronymusBosch",
+      "tags": []
+    },
+    {
+      "id": "lp7ztb",
+      "title": "How Delhi cut electricity loss from 50 to 5 percent",
+      "description": "Score: 535 | Comments: 297 | Posted by rbanffy",
+      "url": "https://spectrum.ieee.org/delhi-electricity-loss",
+      "publishedAt": "2026-09-29T12:43:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rbanffy",
+      "tags": []
+    },
+    {
+      "id": "7bga4j",
+      "title": "Sustainable energy without the hot air (2008)",
+      "description": "Score: 143 | Comments: 82 | Posted by 0sake_rs",
+      "url": "https://www.withouthotair.com/",
+      "publishedAt": "2026-09-29T12:38:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "0sake_rs",
+      "tags": []
+    },
+    {
       "id": "241dt3",
       "title": "US sanctions force The Netherlands off Microsoft and toward alternative NixOS",
       "description": "Score: 29 | Comments: 4 | Posted by mywacaday",
@@ -47,6 +278,17 @@
       "tags": []
     },
     {
+      "id": "k1egph",
+      "title": "Language models for text classification: From bag-of-words to Jev",
+      "description": "Score: 139 | Comments: 7 | Posted by Anon84",
+      "url": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
+      "publishedAt": "2026-09-29T11:06:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Anon84",
+      "tags": []
+    },
+    {
       "id": "111pij",
       "title": "New Cyber-OSINT model released",
       "description": "Score: 20 | Comments: 7 | Posted by soltanov",
@@ -55,6 +297,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "soltanov",
+      "tags": []
+    },
+    {
+      "id": "v85oun",
+      "title": "NASA asked several former SR-71A staffers to help secret restart",
+      "description": "Score: 200 | Comments: 194 | Posted by ilamont",
+      "url": "https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart",
+      "publishedAt": "2026-09-29T10:10:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ilamont",
+      "tags": []
+    },
+    {
+      "id": "j12xbf",
+      "title": "Show HN: JBR-001 – An open-source 3D printable desktop robot",
+      "description": "Score: 23 | Comments: 6 | Posted by gvuksic",
+      "url": "https://projecthub.arduino.cc/syntheticaidata/jbr-001-a-desktop-companion-robot-powered-by-arduino-uno-q-b11c96",
+      "publishedAt": "2026-09-29T10:05:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gvuksic",
       "tags": []
     },
     {
@@ -124,6 +388,17 @@
       "tags": []
     },
     {
+      "id": "b39i53",
+      "title": "Mathematical Origami",
+      "description": "Score: 3 | Comments: 0 | Posted by signa11",
+      "url": "https://mathigon.org/origami",
+      "publishedAt": "2026-09-29T06:45:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "signa11",
+      "tags": []
+    },
+    {
       "id": "2ibtkn",
       "title": "Uncensored and Offensive Security AI Models Benchmark",
       "description": "Score: 33 | Comments: 9 | Posted by soltanov",
@@ -132,6 +407,39 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "soltanov",
+      "tags": []
+    },
+    {
+      "id": "yytwnf",
+      "title": "When oil prices spike, where does the money go?",
+      "description": "Score: 98 | Comments: 85 | Posted by thelastgallon",
+      "url": "https://theconversation.com/when-oil-prices-spike-where-does-the-money-go-280763",
+      "publishedAt": "2026-09-29T04:14:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thelastgallon",
+      "tags": []
+    },
+    {
+      "id": "d24v7c",
+      "title": "Solving Factorio Quality",
+      "description": "Score: 114 | Comments: 35 | Posted by laurenth",
+      "url": "https://exyr.org/2026/solving-factorio-quality/",
+      "publishedAt": "2026-09-29T02:27:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "laurenth",
+      "tags": []
+    },
+    {
+      "id": "w5n72k",
+      "title": "Built Dental Scope",
+      "description": "Score: 48 | Comments: 9 | Posted by Zeruxe",
+      "url": "https://dental-scope.com/",
+      "publishedAt": "2026-09-29T00:47:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Zeruxe",
       "tags": []
     },
     {

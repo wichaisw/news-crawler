@@ -1,0 +1,39 @@
+{
+  "date": "2026-09-30",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3171387",
+      "title": "Two Google alumni raise $11.3M to back AI startups that enterprises will actually pay for",
+      "description": "BAG Ventures announces close of a $11.3M Fund I to invest in all things AI.",
+      "url": "https://techcrunch.com/2026/09/30/bag-ventures-sets-its-eyes-deeper-into-the-ai-stack/",
+      "publishedAt": "2026-09-30T12:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3171925",
+      "title": "Airbnb adds AI search, more social features",
+      "description": "Airbnb is also launching new services such as meal delivery and laundry in select locations",
+      "url": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
+      "publishedAt": "2026-09-30T12:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Ivan Mehta",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3171477",
+      "title": "Apple Pay finally launches in India after years on the sidelines",
+      "description": "Some of India's largest banks are holding off on supporting Apple Pay initially.",
+      "url": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
+      "publishedAt": "2026-09-30T04:08:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Jagmeet Singh",
+      "tags": []
+    }
+  ]
+}
