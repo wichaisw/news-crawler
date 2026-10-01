@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-01",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "g83cok",
+      "title": "Price Increases for 2GB Raspberry Pi 4 and Raspberry Pi 5",
+      "description": "Score: 6 | Comments: 0 | Posted by rbanffy",
+      "url": "https://www.raspberrypi.com/news/price-increases-for-2gb-raspberry-pi-4-and-raspberry-pi-5/",
+      "publishedAt": "2026-10-01T12:14:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rbanffy",
+      "tags": []
+    },
+    {
+      "id": "yvvgri",
+      "title": "The Beclowning of Scott Bessent",
+      "description": "Score: 6 | Comments: 3 | Posted by runeks",
+      "url": "https://paulkrugman.substack.com/p/the-beclowning-of-scott-bessent",
+      "publishedAt": "2026-10-01T11:51:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "runeks",
+      "tags": []
+    },
+    {
+      "id": "j890uv",
+      "title": "StreetComplete on iOS is now in public betagithub.com/streetcomplete",
+      "description": "Score: 107 | Comments: 20 | Posted by Snowly",
+      "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
+      "publishedAt": "2026-10-01T11:39:27.885Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Snowly",
+      "tags": []
+    },
+    {
+      "id": "3vsh8i",
+      "title": "Returning from vacation? The government can search your phone without a warrant",
+      "description": "Score: 80 | Comments: 48 | Posted by rbanffy",
+      "url": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/",
+      "publishedAt": "2026-10-01T11:13:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rbanffy",
+      "tags": []
+    },
+    {
+      "id": "j890uv",
+      "title": "StreetComplete on iOS is now in public beta",
+      "description": "Score: 107 | Comments: 20 | Posted by Snowly",
+      "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
+      "publishedAt": "2026-10-01T10:59:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Snowly",
+      "tags": []
+    },
+    {
+      "id": "7v3j3",
+      "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+      "description": "Score: 59 | Comments: 19 | Posted by giuliomagnifico",
+      "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+      "publishedAt": "2026-10-01T10:21:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "giuliomagnifico",
+      "tags": []
+    },
+    {
+      "id": "yum8m1",
+      "title": "Show HN: Yantra – an LALR(1) parser generator for C++",
+      "description": "Score: 24 | Comments: 15 | Posted by renjipanicker",
+      "url": "https://github.com/TantrixAuto/yantra",
+      "publishedAt": "2026-10-01T02:30:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "renjipanicker",
+      "tags": []
+    }
+  ]
+}

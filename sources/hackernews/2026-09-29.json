@@ -3,6 +3,28 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "ls7ppz",
+      "title": "Show HN: Ledge.sh – Runnable Markdown Notes",
+      "description": "Score: 159 | Comments: 70 | Posted by dancablam",
+      "url": "https://ledge.sh",
+      "publishedAt": "2026-09-29T23:41:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dancablam",
+      "tags": []
+    },
+    {
+      "id": "qr4681",
+      "title": "Speeding up the separating axis test using inscribed spheres",
+      "description": "Score: 3 | Comments: 0 | Posted by panic",
+      "url": "https://box2d.org/posts/2026/09/inscribed-spheres/",
+      "publishedAt": "2026-09-29T23:30:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "panic",
+      "tags": []
+    },
+    {
       "id": "djw01x",
       "title": "Floppy Emu Hardware Failure Analysis Results",
       "description": "Score: 17 | Comments: 3 | Posted by zdw",
@@ -168,6 +190,28 @@
       "tags": []
     },
     {
+      "id": "7qncst",
+      "title": "PlayBook: A Programmable Paper Notebook [video]",
+      "description": "Score: 27 | Comments: 6 | Posted by surprisetalk",
+      "url": "https://www.youtube.com/watch?v=GurWDZ8ENpA",
+      "publishedAt": "2026-09-29T15:40:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
+      "id": "kbrcuz",
+      "title": "Book of Shapes – Collection of minimal, generative and customizable SVG-patterns",
+      "description": "Score: 119 | Comments: 9 | Posted by eustoria",
+      "url": "https://bookofshapes.com/",
+      "publishedAt": "2026-09-29T14:56:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "eustoria",
+      "tags": []
+    },
+    {
       "id": "tg7a9x",
       "title": "Show HN: NSL – WSL for Linux",
       "description": "Score: 140 | Comments: 85 | Posted by bketelsen",
@@ -176,6 +220,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "bketelsen",
+      "tags": []
+    },
+    {
+      "id": "sgnd2o",
+      "title": "Adding Floating-Point Decimals for Fun and Profit",
+      "description": "Score: 17 | Comments: 2 | Posted by ibobev",
+      "url": "https://blog.vero.site/post/float",
+      "publishedAt": "2026-09-29T14:05:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
       "tags": []
     },
     {
@@ -308,6 +363,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ilamont",
+      "tags": []
+    },
+    {
+      "id": "x8nqko",
+      "title": "Why the Bronze Age Collapsed",
+      "description": "Score: 285 | Comments: 186 | Posted by AnodicElegy",
+      "url": "https://www.worksinprogress.news/p/why-really-caused-the-bronze-age",
+      "publishedAt": "2026-09-29T10:10:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "AnodicElegy",
       "tags": []
     },
     {

@@ -3,6 +3,73 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "151788 at https://www.blognone.com",
+      "title": "เปิดตัว Gemini 4 Argon เอาชนะโมเดลคู่แข่งได้เกือบหมด แก้ปัญหาเขียนโค้ดไม่เก่งได้แล้ว",
+      "description": "เปิดตัว Gemini 4 Argon เอาชนะโมเดลคู่แข่งได้เกือบหมด แก้ปัญหาเขียนโค้ดไม่เก่งได้แล้ว Body กูเกิลเปิดตัวโมเดลรุ่นใหญ่ Gemini 4 Argon",
+      "url": "https://www.blognone.com/node/151788",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2026/2026-09/gemini_4_cyber_evals_deepswe.gif",
+      "publishedAt": "2026-09-30T23:21:52.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151786 at https://www.blognone.com",
+      "title": "[ลือ] Apple เตรียมเปิดตัวจอสมาร์ทโฮมสินค้าใหม่ พร้อม Apple TV, HomePod mini อัปเกรด 13 ตุลาคมนี้",
+      "description": "[ลือ] Apple เตรียมเปิดตัวจอสมาร์ทโฮมสินค้าใหม่ พร้อม Apple TV, HomePod mini อัปเกรด 13 ตุลาคมนี้ Body Mark Gurman แห่ง Bloomberg คนเดิม",
+      "url": "https://www.blognone.com/node/151786",
+      "publishedAt": "2026-09-30T18:05:00.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151787 at https://www.blognone.com",
+      "title": "NVIDIA ประกาศแผนซื้อหุ้นคืนครั้งใหญ่ วงเงิน 1.5 แสนล้านดอลลาร์",
+      "description": "NVIDIA ประกาศแผนซื้อหุ้นคืนครั้งใหญ่ วงเงิน 1.5 แสนล้านดอลลาร์ Body NVIDIA ประกาศแผนซื้อหุ้นคืนจากนักลงทุนด้วยวงเงินเพิ่มเติมถึง 150,000 ล้านดอลลาร์",
+      "url": "https://www.blognone.com/node/151787",
+      "publishedAt": "2026-09-30T17:22:52.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151785 at https://www.blognone.com",
+      "title": "[ไม่ยืนยัน] ซีอีโอใหม่ Apple กำหนดเป้าหมาย มีสินค้าสู่ตลาดเร็วขึ้น ไม่ต้องรองานประจำปี ลีนองค์กรให้การตัดสินใจเร็วขึ้น",
+      "description": "[ไม่ยืนยัน] ซีอีโอใหม่ Apple กำหนดเป้าหมาย มีสินค้าสู่ตลาดเร็วขึ้น ไม่ต้องรองานประจำปี ลีนองค์กรให้การตัดสินใจเร็วขึ้น Body มีรายงานจาก Mark Gurman",
+      "url": "https://www.blognone.com/node/151785",
+      "publishedAt": "2026-09-30T16:16:48.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151784 at https://www.blognone.com",
+      "title": "เป็นทางการแล้ว! Donald Trump ลงนามคำสั่งเปลี่ยนคำเรียก Artificial Intelligence เป็น Super Intelligence",
+      "description": "เป็นทางการแล้ว! Donald Trump ลงนามคำสั่งเปลี่ยนคำเรียก Artificial Intelligence เป็น Super Intelligence Body ประธานาธิบดี Donald Trump",
+      "url": "https://www.blognone.com/node/151784",
+      "publishedAt": "2026-09-30T15:52:14.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151781 at https://www.blognone.com",
+      "title": "ASUS ประกาศเปิดตัว ProArt 16 โน้ตบุ๊กชิป RTX Spark วันที่ 8 ตุลาคมนี้",
+      "description": "ASUS ประกาศเปิดตัว ProArt 16 โน้ตบุ๊กชิป RTX Spark วันที่ 8 ตุลาคมนี้ Body ASUS ประกาศผ่านช่องทางโซเชียลมีเดียในจีน เตรียมเปิดตัวโน้ตบุ๊ก ASUS ProArt",
+      "url": "https://www.blognone.com/node/151781",
+      "publishedAt": "2026-09-30T14:11:00.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "151783 at https://www.blognone.com",
       "title": "OpenAI ออกแพ็คเกจใหม่ Pro $500 เพิ่มโควต้าใช้งาน พร้อมโหมด Ultrafast เบิร์นโทเค็นเร็วกว่าเดิม",
       "description": "OpenAI ออกแพ็คเกจใหม่ Pro $500 เพิ่มโควต้าใช้งาน พร้อมโหมด Ultrafast เบิร์นโทเค็นเร็วกว่าเดิม Body ดูเหมือนแพ็คเกจใช้งาน AI เยอะแค่ไหนก็ยังไม่พอ",
