@@ -1,0 +1,116 @@
+{
+  "date": "2026-10-02",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "kcf4bz",
+      "title": "Why media fans want to escape algorithms with CDs, DVDs and vinyltheguardian.com",
+      "description": "Score: 39 | Comments: 35 | Posted by beardyw",
+      "url": "https://www.theguardian.com/media/2026/oct/02/physical-media-fans-streaming-algorithms-cds-dvds-vinyl",
+      "publishedAt": "2026-10-02T11:03:43.761Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "beardyw",
+      "tags": []
+    },
+    {
+      "id": "kcf4bz",
+      "title": "Why media fans want to escape algorithms with CDs, DVDs and vinyl",
+      "description": "Score: 39 | Comments: 37 | Posted by beardyw",
+      "url": "https://www.theguardian.com/media/2026/oct/02/physical-media-fans-streaming-algorithms-cds-dvds-vinyl",
+      "publishedAt": "2026-10-02T10:50:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "beardyw",
+      "tags": []
+    },
+    {
+      "id": "jjpr6u",
+      "title": "Alarm Grows over 'Clearly Illegal' US Election Meddling in Brazil",
+      "description": "Score: 5 | Comments: 0 | Posted by robtherobber",
+      "url": "https://www.commondreams.org/news/trump-election-interference-brazil",
+      "publishedAt": "2026-10-02T10:30:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "robtherobber",
+      "tags": []
+    },
+    {
+      "id": "etm2b5",
+      "title": "Show HN: Audionaut – an open-source cross-platform multitrack audio editor",
+      "description": "Score: 32 | Comments: 9 | Posted by vltmrkls",
+      "url": "https://github.com/kvoltmer/Audionaut",
+      "publishedAt": "2026-10-02T08:05:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vltmrkls",
+      "tags": []
+    },
+    {
+      "id": "246jgd",
+      "title": "Shimano Bicycle Museum Reviewinrng.com",
+      "description": "Score: 142 | Comments: 24 | Posted by pietroppeter",
+      "url": "https://inrng.com/2026/10/shimano-bicycle-museum/",
+      "publishedAt": "2026-10-02T06:03:43.758Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pietroppeter",
+      "tags": []
+    },
+    {
+      "id": "246jgd",
+      "title": "Shimano Bicycle Museum Review",
+      "description": "Score: 142 | Comments: 24 | Posted by pietroppeter",
+      "url": "https://inrng.com/2026/10/shimano-bicycle-museum/",
+      "publishedAt": "2026-10-02T05:12:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pietroppeter",
+      "tags": []
+    },
+    {
+      "id": "te5wsy",
+      "title": "Building reliable (and fast) directory sync",
+      "description": "Score: 11 | Comments: 0 | Posted by jamilbk",
+      "url": "https://www.firezone.dev/blog/building-reliable-directory-sync",
+      "publishedAt": "2026-10-02T04:45:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jamilbk",
+      "tags": []
+    },
+    {
+      "id": "ll7swj",
+      "title": "DeepSeek Harness Desktop for macOS and Windows",
+      "description": "Score: 262 | Comments: 131 | Posted by Kuyawa",
+      "url": "https://www.deepseek.com/en/harness/",
+      "publishedAt": "2026-10-02T03:11:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Kuyawa",
+      "tags": []
+    },
+    {
+      "id": "vkkdmt",
+      "title": "How Singapore's government-run dating service works",
+      "description": "Score: 188 | Comments: 168 | Posted by danielfoster",
+      "url": "https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works",
+      "publishedAt": "2026-10-02T01:56:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "danielfoster",
+      "tags": []
+    },
+    {
+      "id": "ku3pa5",
+      "title": "Several vulnerabilities have been discovered in the Linux kernellwn.net",
+      "description": "Score: 358 | Comments: 259 | Posted by luispa",
+      "url": "https://lwn.net/Articles/1097401/",
+      "publishedAt": "2026-10-02T00:03:43.758Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "luispa",
+      "tags": []
+    }
+  ]
+}

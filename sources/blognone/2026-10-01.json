@@ -3,6 +3,17 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "151792 at https://www.blognone.com",
+      "title": "WSL Containers เข้าสู่สถานะ GA พร้อมใช้งานจริงแล้ว",
+      "description": "WSL Containers เข้าสู่สถานะ GA พร้อมใช้งานจริงแล้ว Body ไมโครซอฟท์ปล่อย WSL Containers คำสั่งสำหรับรันคอนเทนเนอร์ภายใต้วินโดวส์โดยตรง เป็นรุ่น GA",
+      "url": "https://www.blognone.com/node/151792",
+      "publishedAt": "2026-10-01T22:47:10.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "151791 at https://www.blognone.com",
       "title": "Google Japan เปิดตัวต้นแบบคีย์บอร์ดสายพาน ปุ่มกดหมุนวนไปเรื่อย ๆ ทำให้พิมพ์นิ้วเดียวสะดวกขึ้น",
       "description": "Google Japan เปิดตัวต้นแบบคีย์บอร์ดสายพาน ปุ่มกดหมุนวนไปเรื่อย ๆ ทำให้พิมพ์นิ้วเดียวสะดวกขึ้น Body",

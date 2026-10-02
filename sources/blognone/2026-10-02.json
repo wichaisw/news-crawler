@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-02",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "151796 at https://www.blognone.com",
+      "title": "OpenAI เลิกจ้าง 3 นักวิจัยความปลอดภัย AI ระบุมีการนำข้อมูลไปให้บริษัทความปลอดภัยภายนอก",
+      "description": "OpenAI เลิกจ้าง 3 นักวิจัยความปลอดภัย AI ระบุมีการนำข้อมูลไปให้บริษัทความปลอดภัยภายนอก Body ข่าวสารวงการ AI วันนี้มาจาก OpenAI",
+      "url": "https://www.blognone.com/node/151796",
+      "publishedAt": "2026-10-02T10:23:35.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151795 at https://www.blognone.com",
+      "title": "XChat เพิ่มระบบ X Number ให้คนที่ไม่ได้ติดตาม ส่งข้อความหาได้ทันที ข้ามขั้นตอน request",
+      "description": "XChat เพิ่มระบบ X Number ให้คนที่ไม่ได้ติดตาม ส่งข้อความหาได้ทันที ข้ามขั้นตอน request Body X ยังคงเดินหน้าผลักดันบริการแชท XChat ให้มากขึ้น",
+      "url": "https://www.blognone.com/node/151795",
+      "publishedAt": "2026-10-02T10:21:54.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151794 at https://www.blognone.com",
+      "title": "Micron ระบุยอดผลิตของปี 2027 ถูกจองไป 75% แล้ว ยอดจองปี 2028 ยังแน่น บางรายจองไปถึง 2030",
+      "description": "Micron ระบุยอดผลิตของปี 2027 ถูกจองไป 75% แล้ว ยอดจองปี 2028 ยังแน่น บางรายจองไปถึง 2030 Body Micron รายงานผลประกอบการไตรมาสที่ 4 ของปีงบประมาณ 2026",
+      "url": "https://www.blognone.com/node/151794",
+      "publishedAt": "2026-10-02T07:54:30.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151793 at https://www.blognone.com",
+      "title": "Reddit ปิดบริการ RSS บอกเป็นช่องโหว่ให้โดนบ็อตมา Scraping ข้อมูล",
+      "description": "Reddit ปิดบริการ RSS บอกเป็นช่องโหว่ให้โดนบ็อตมา Scraping ข้อมูล Body Reddit ประกาศปรับเปลี่ยนโครงสร้างพื้นฐานการกระจายข้อมูลหลายอย่าง",
+      "url": "https://www.blognone.com/node/151793",
+      "publishedAt": "2026-10-02T05:41:45.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}
