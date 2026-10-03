@@ -1,0 +1,127 @@
+{
+  "date": "2026-10-03",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "f23sbj",
+      "title": "GitHub's new dashboard experience now the default",
+      "description": "Score: 10 | Comments: 5 | Posted by vanyauhalin",
+      "url": "https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/",
+      "publishedAt": "2026-10-03T09:59:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vanyauhalin",
+      "tags": []
+    },
+    {
+      "id": "xcr6ik",
+      "title": "Gemini ending free use of Flash and Pro models",
+      "description": "Score: 25 | Comments: 8 | Posted by rjh29",
+      "url": "https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and/",
+      "publishedAt": "2026-10-03T09:13:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rjh29",
+      "tags": []
+    },
+    {
+      "id": "hz8ltv",
+      "title": "Show HN: Offrun – manage every coding agent from one workspace",
+      "description": "Score: 4 | Comments: 0 | Posted by arunbhatia",
+      "url": "https://offrun.dev/",
+      "publishedAt": "2026-10-03T08:40:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "arunbhatia",
+      "tags": []
+    },
+    {
+      "id": "svfnlr",
+      "title": "Memory-Safe WebP Decoding",
+      "description": "Score: 7 | Comments: 1 | Posted by computerbuster",
+      "url": "https://halide.cx/blog/wpd/",
+      "publishedAt": "2026-10-03T05:45:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "computerbuster",
+      "tags": []
+    },
+    {
+      "id": "7w5u5h",
+      "title": "An Update on Orion for Linux and Windows",
+      "description": "Score: 65 | Comments: 31 | Posted by pentagrama",
+      "url": "https://blog.kagi.com/update-orion-linux-windows",
+      "publishedAt": "2026-10-03T04:53:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pentagrama",
+      "tags": []
+    },
+    {
+      "id": "kax242",
+      "title": "Extra Big Ass Intelligence",
+      "description": "Score: 313 | Comments: 68 | Posted by 34679",
+      "url": "https://www.extrabigassintelligence.com/",
+      "publishedAt": "2026-10-03T03:19:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "34679",
+      "tags": []
+    },
+    {
+      "id": "l0f6tw",
+      "title": "Cloudflare OHTTP gateway",
+      "description": "Score: 92 | Comments: 23 | Posted by est",
+      "url": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
+      "publishedAt": "2026-10-03T03:15:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "est",
+      "tags": []
+    },
+    {
+      "id": "my0z7a",
+      "title": "Newgrounds.com – A community of games, music, and art",
+      "description": "Score: 244 | Comments: 65 | Posted by azhenley",
+      "url": "https://www.newgrounds.com/",
+      "publishedAt": "2026-10-03T00:55:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "azhenley",
+      "tags": []
+    },
+    {
+      "id": "iqbf7h",
+      "title": "Where Is the Planet",
+      "description": "Score: 28 | Comments: 3 | Posted by andsoitis",
+      "url": "http://whereistheplanet.com",
+      "publishedAt": "2026-10-03T00:26:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andsoitis",
+      "tags": []
+    },
+    {
+      "id": "ojzjz4",
+      "title": "Things that apparently cause cancer",
+      "description": "Score: 182 | Comments: 66 | Posted by timpera",
+      "url": "https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer",
+      "publishedAt": "2026-10-03T00:23:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "timpera",
+      "tags": []
+    },
+    {
+      "id": "c04uhc",
+      "title": "Cloudflare opens more Enterprise-only features to all customers",
+      "description": "Score: 23 | Comments: 5 | Posted by sdko",
+      "url": "https://blog.cloudflare.com/enterprise-for-all-update/",
+      "publishedAt": "2026-10-03T00:09:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sdko",
+      "tags": []
+    }
+  ]
+}

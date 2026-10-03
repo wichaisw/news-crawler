@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "mbt40o",
+      "title": "Nobody Is Listening on Port 8125",
+      "description": "Score: 11 | Comments: 12 | Posted by zasc",
+      "url": "https://yeet.cx/blog/nobody-is-listening-on-8125",
+      "publishedAt": "2026-09-30T23:56:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zasc",
+      "tags": []
+    },
+    {
       "id": "lgcrxz",
       "title": "56k.rip – the 1996 dial-up internet experience",
       "description": "Score: 202 | Comments: 85 | Posted by adunk",
@@ -102,6 +113,17 @@
       "tags": []
     },
     {
+      "id": "cfmty1",
+      "title": "Billions of triangles redux",
+      "description": "Score: 46 | Comments: 0 | Posted by ibobev",
+      "url": "https://zeux.io/2026/09/30/billions-of-triangles-redux/",
+      "publishedAt": "2026-09-30T17:46:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
+      "tags": []
+    },
+    {
       "id": "uifnhl",
       "title": "CHOMPI portable sampler instrument is now open-source (hardware and software)",
       "description": "Score: 92 | Comments: 21 | Posted by lashkari",
@@ -154,6 +176,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "croes",
+      "tags": []
+    },
+    {
+      "id": "qnxiye",
+      "title": "cp: -r or -R?",
+      "description": "Score: 10 | Comments: 2 | Posted by zdw",
+      "url": "https://movq.de/blog/postings/2026-09-30/0/POSTING-en.html",
+      "publishedAt": "2026-09-30T15:44:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
       "tags": []
     },
     {

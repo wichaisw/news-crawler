@@ -3,6 +3,215 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "ifuw7m",
+      "title": "Every SaaS business will become a harness around a model",
+      "description": "Score: 137 | Comments: 94 | Posted by iacguy",
+      "url": "https://blog.sshh.io/p/the-harness-is-the-company",
+      "publishedAt": "2026-10-02T21:06:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "iacguy",
+      "tags": []
+    },
+    {
+      "id": "fnfk4f",
+      "title": "Barcodes are about to go extinct",
+      "description": "Score: 51 | Comments: 79 | Posted by rmason",
+      "url": "https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct",
+      "publishedAt": "2026-10-02T20:37:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rmason",
+      "tags": []
+    },
+    {
+      "id": "wfldhc",
+      "title": "Show HN: Made an open-source Lego AI generator",
+      "description": "Score: 116 | Comments: 46 | Posted by antelocnova",
+      "url": "https://github.com/anteloc/ldraw-nova",
+      "publishedAt": "2026-10-02T20:00:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "antelocnova",
+      "tags": []
+    },
+    {
+      "id": "a2fq5d",
+      "title": "Updates to Full Disk Access in macOS",
+      "description": "Score: 209 | Comments: 141 | Posted by notfirstpost",
+      "url": "https://developer.apple.com/news/?id=p6zjojqw",
+      "publishedAt": "2026-10-02T19:37:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "notfirstpost",
+      "tags": []
+    },
+    {
+      "id": "tj27df",
+      "title": "Make Tmux the OS",
+      "description": "Score: 58 | Comments: 29 | Posted by weaksauce",
+      "url": "https://matduggan.com/what-does-my-dream-os-ui-look-like/",
+      "publishedAt": "2026-10-02T19:29:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "weaksauce",
+      "tags": []
+    },
+    {
+      "id": "n3zfl2",
+      "title": "Muse Gadgets",
+      "description": "Score: 202 | Comments: 89 | Posted by anant",
+      "url": "https://gadgets.muse.ai",
+      "publishedAt": "2026-10-02T19:26:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "anant",
+      "tags": []
+    },
+    {
+      "id": "muyghv",
+      "title": "Apple Pass Designer",
+      "description": "Score: 440 | Comments: 274 | Posted by soheilpro",
+      "url": "https://developer.apple.com/pass-designer/",
+      "publishedAt": "2026-10-02T19:06:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "soheilpro",
+      "tags": []
+    },
+    {
+      "id": "vy5gkl",
+      "title": "The Nintendo 64 Partner-N64 Development Kit",
+      "description": "Score: 45 | Comments: 5 | Posted by paulgerhardt",
+      "url": "https://www.behindthecode.ca/partner-n64pc-dev-kit/",
+      "publishedAt": "2026-10-02T18:53:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "paulgerhardt",
+      "tags": []
+    },
+    {
+      "id": "71mxm7",
+      "title": "From the creator of Redis; run LLM locally with ds4",
+      "description": "Score: 257 | Comments: 68 | Posted by fibo",
+      "url": "https://dwarfstar.sh/",
+      "publishedAt": "2026-10-02T18:01:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fibo",
+      "tags": []
+    },
+    {
+      "id": "pd08o1",
+      "title": "One month coding with GLM 5.3 Flash",
+      "description": "Score: 167 | Comments: 125 | Posted by ThibWeb",
+      "url": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
+      "publishedAt": "2026-10-02T15:29:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ThibWeb",
+      "tags": []
+    },
+    {
+      "id": "lgclth",
+      "title": "The Forgetful CPU (Linux on M4)",
+      "description": "Score: 225 | Comments: 149 | Posted by signa11",
+      "url": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
+      "publishedAt": "2026-10-02T14:22:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "signa11",
+      "tags": []
+    },
+    {
+      "id": "yv5kj2",
+      "title": "With most information hidden, the game Stratego had stumped AI until now",
+      "description": "Score: 223 | Comments: 109 | Posted by PaulHoule",
+      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+      "publishedAt": "2026-10-02T14:11:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "PaulHoule",
+      "tags": []
+    },
+    {
+      "id": "l9yknt",
+      "title": "The Legend of von Neumann (1973) [pdf]",
+      "description": "Score: 286 | Comments: 150 | Posted by suopspaces",
+      "url": "https://gwern.net/doc/math/1973-halmos.pdf",
+      "publishedAt": "2026-10-02T13:18:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "suopspaces",
+      "tags": []
+    },
+    {
+      "id": "c562qe",
+      "title": "Venice’s failed war against Constantinople led to the first bond market",
+      "description": "Score: 125 | Comments: 37 | Posted by RickJWagner",
+      "url": "https://bigthink.com/books/a-fabulous-debt/",
+      "publishedAt": "2026-10-02T13:17:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "RickJWagner",
+      "tags": []
+    },
+    {
+      "id": "mvi93f",
+      "title": "The first packet sent via RFC1149 avian carrier is up for auction at Christie's",
+      "description": "Score: 69 | Comments: 15 | Posted by peter_hansteen",
+      "url": "https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216",
+      "publishedAt": "2026-10-02T12:46:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "peter_hansteen",
+      "tags": []
+    },
+    {
+      "id": "em4vqu",
+      "title": "On social reality in China",
+      "description": "Score: 191 | Comments: 192 | Posted by thicTurtlLverXX",
+      "url": "https://www.lesswrong.com/posts/b5cSYh4emQb2qrGmK/on-social-reality-in-china",
+      "publishedAt": "2026-10-02T11:42:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thicTurtlLverXX",
+      "tags": []
+    },
+    {
+      "id": "b469nn",
+      "title": "Blogging with Gleam, Org-Mode and Pandoc",
+      "description": "Score: 80 | Comments: 15 | Posted by schonfinkel",
+      "url": "https://byzantine-systems.github.io/blogging-with-gleam-org-mode-and-pandoc/",
+      "publishedAt": "2026-10-02T11:34:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "schonfinkel",
+      "tags": []
+    },
+    {
+      "id": "353e9f",
+      "title": "Our Project Suncatcher prototype satellite is in orbit",
+      "description": "Score: 67 | Comments: 65 | Posted by pantalaimon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/",
+      "publishedAt": "2026-10-02T11:13:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pantalaimon",
+      "tags": []
+    },
+    {
+      "id": "our5ri",
+      "title": "A 12-year sequence of telescope images of a star and four planets orbiting",
+      "description": "Score: 297 | Comments: 58 | Posted by mariuz",
+      "url": "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f",
+      "publishedAt": "2026-10-02T11:07:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mariuz",
+      "tags": []
+    },
+    {
       "id": "kcf4bz",
       "title": "Why media fans want to escape algorithms with CDs, DVDs and vinyltheguardian.com",
       "description": "Score: 39 | Comments: 35 | Posted by beardyw",
@@ -11,6 +220,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "beardyw",
+      "tags": []
+    },
+    {
+      "id": "ecl5zd",
+      "title": "F.02 Decommission",
+      "description": "Score: 82 | Comments: 36 | Posted by ad_hockey",
+      "url": "https://www.figure.ai/news/f-02-decommission",
+      "publishedAt": "2026-10-02T10:57:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ad_hockey",
       "tags": []
     },
     {
@@ -91,6 +311,28 @@
       "tags": []
     },
     {
+      "id": "r9w3b3",
+      "title": "Born Twice: Specimen and Record at the Moment of Collection",
+      "description": "Score: 3 | Comments: 2 | Posted by TimothyMJones",
+      "url": "https://tjid3.org/if/ifcomp.html",
+      "publishedAt": "2026-10-02T03:05:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "TimothyMJones",
+      "tags": []
+    },
+    {
+      "id": "kr0f1u",
+      "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+      "description": "Score: 246 | Comments: 77 | Posted by usernomdeguerre",
+      "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+      "publishedAt": "2026-10-02T02:51:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "usernomdeguerre",
+      "tags": []
+    },
+    {
       "id": "vkkdmt",
       "title": "How Singapore's government-run dating service works",
       "description": "Score: 188 | Comments: 168 | Posted by danielfoster",
@@ -99,6 +341,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "danielfoster",
+      "tags": []
+    },
+    {
+      "id": "ch6syb",
+      "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
+      "description": "Score: 284 | Comments: 90 | Posted by alstonite",
+      "url": "https://stillwet.art/",
+      "publishedAt": "2026-10-02T00:27:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "alstonite",
       "tags": []
     },
     {

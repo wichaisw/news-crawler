@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-03",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3173444",
+      "title": "Meta wants your next gadget to be Muse-infused",
+      "description": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+      "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+      "publishedAt": "2026-10-03T00:45:39.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Kirsten Korosec",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3173449",
+      "title": "Sanders introduces bill to ban the federal government from using Flock",
+      "description": "The proposed legislation would extend to all automotica license plate readers.",
+      "url": "https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/",
+      "publishedAt": "2026-10-03T00:21:57.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Connie Loizos",
+      "tags": []
+    }
+  ]
+}
