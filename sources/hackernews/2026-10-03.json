@@ -3,6 +3,171 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "35b1mz",
+      "title": "Reasons I didn't become an EMT, ranked",
+      "description": "Score: 161 | Comments: 78 | Posted by citelao",
+      "url": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/",
+      "publishedAt": "2026-10-03T20:49:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "citelao",
+      "tags": []
+    },
+    {
+      "id": "jp7lup",
+      "title": "Surely you have ultra-wideband radios on your bins too?",
+      "description": "Score: 88 | Comments: 43 | Posted by simonjgreen",
+      "url": "https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/",
+      "publishedAt": "2026-10-03T20:27:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "simonjgreen",
+      "tags": []
+    },
+    {
+      "id": "l78tar",
+      "title": "We want you to build the next Git platform on Cloudflare",
+      "description": "Score: 143 | Comments: 126 | Posted by geoffbp",
+      "url": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
+      "publishedAt": "2026-10-03T19:33:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "geoffbp",
+      "tags": []
+    },
+    {
+      "id": "5umxcf",
+      "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
+      "description": "Score: 321 | Comments: 52 | Posted by speckx",
+      "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
+      "publishedAt": "2026-10-03T19:14:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
+      "tags": []
+    },
+    {
+      "id": "wjjdcx",
+      "title": "RSS Feed Best Practices (2022)",
+      "description": "Score: 60 | Comments: 10 | Posted by KomoD",
+      "url": "https://kevincox.ca/2022/05/06/rss-feed-best-practices/",
+      "publishedAt": "2026-10-03T19:09:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "KomoD",
+      "tags": []
+    },
+    {
+      "id": "ybdh9c",
+      "title": "How to hack time, with C2PA",
+      "description": "Score: 43 | Comments: 4 | Posted by Retr0id",
+      "url": "https://www.da.vidbuchanan.co.uk/blog/hacking-time.html",
+      "publishedAt": "2026-10-03T18:52:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Retr0id",
+      "tags": []
+    },
+    {
+      "id": "p31s0n",
+      "title": "What Meta got right with Muse",
+      "description": "Score: 57 | Comments: 78 | Posted by young_mete",
+      "url": "https://metedata.substack.com/p/what-meta-got-right-with-muse",
+      "publishedAt": "2026-10-03T18:23:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "young_mete",
+      "tags": []
+    },
+    {
+      "id": "cwe0yy",
+      "title": "Hole Punch: Sling your spaceship around gravitational fields",
+      "description": "Score: 303 | Comments: 68 | Posted by trwhite",
+      "url": "https://notoriousbfg.com/hole-punch/",
+      "publishedAt": "2026-10-03T18:06:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "trwhite",
+      "tags": []
+    },
+    {
+      "id": "68czic",
+      "title": "Treachery in the Rodin Museum 3D scan verdict",
+      "description": "Score: 218 | Comments: 95 | Posted by CosmoWenman",
+      "url": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
+      "publishedAt": "2026-10-03T18:01:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "CosmoWenman",
+      "tags": []
+    },
+    {
+      "id": "vcoc7f",
+      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+      "description": "Score: 170 | Comments: 238 | Posted by Anon84",
+      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+      "publishedAt": "2026-10-03T17:44:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Anon84",
+      "tags": []
+    },
+    {
+      "id": "anot93",
+      "title": "Agents don't need memory, they need documentation",
+      "description": "Score: 210 | Comments: 113 | Posted by kmeh",
+      "url": "https://liao.gg/blog/agents-dont-need-memory",
+      "publishedAt": "2026-10-03T17:03:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kmeh",
+      "tags": []
+    },
+    {
+      "id": "adwsbb",
+      "title": "Docker has always used microVMs (well since 2016)",
+      "description": "Score: 42 | Comments: 30 | Posted by avsm",
+      "url": "https://dave.recoil.org/docker-has-always-used-microvms/",
+      "publishedAt": "2026-10-03T15:55:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "avsm",
+      "tags": []
+    },
+    {
+      "id": "e51lfh",
+      "title": "City building games have a Soul Problem pt.2",
+      "description": "Score: 140 | Comments: 137 | Posted by lexx",
+      "url": "https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2",
+      "publishedAt": "2026-10-03T15:52:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lexx",
+      "tags": []
+    },
+    {
+      "id": "a22g3b",
+      "title": "FTL: A new operating system for clouds",
+      "description": "Score: 178 | Comments: 68 | Posted by romac",
+      "url": "https://ftl-os.org/",
+      "publishedAt": "2026-10-03T15:02:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "romac",
+      "tags": []
+    },
+    {
+      "id": "vx3xko",
+      "title": "I quit OpenAI because its culture is broken",
+      "description": "Score: 265 | Comments: 511 | Posted by Brajeshwar",
+      "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
+      "publishedAt": "2026-10-03T13:46:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Brajeshwar",
+      "tags": []
+    },
+    {
       "id": "f23sbj",
       "title": "GitHub's new dashboard experience now the default",
       "description": "Score: 10 | Comments: 5 | Posted by vanyauhalin",
@@ -11,6 +176,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "vanyauhalin",
+      "tags": []
+    },
+    {
+      "id": "hyxkfp",
+      "title": "Kolibri: A Sovereign Open-Weight Model",
+      "description": "Score: 621 | Comments: 318 | Posted by bastitx",
+      "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+      "publishedAt": "2026-10-03T09:36:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bastitx",
       "tags": []
     },
     {
@@ -33,6 +209,39 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "arunbhatia",
+      "tags": []
+    },
+    {
+      "id": "sb7si7",
+      "title": "Former SR-71 engineer talks NASA's Blackbird revival program",
+      "description": "Score: 68 | Comments: 37 | Posted by rkagerer",
+      "url": "https://www.twz.com/air/former-sr-71-engineer-talks-nasas-blackbird-revival-program",
+      "publishedAt": "2026-10-03T07:32:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rkagerer",
+      "tags": []
+    },
+    {
+      "id": "8yqrlr",
+      "title": "Show HN: Thoreau BASIC – What if BASIC hadn't gone out of fashion?",
+      "description": "Score: 67 | Comments: 38 | Posted by Gorsefound",
+      "url": "https://thoreaubasic.com/",
+      "publishedAt": "2026-10-03T07:28:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Gorsefound",
+      "tags": []
+    },
+    {
+      "id": "kxicy1",
+      "title": "The characters of plastics (2024)",
+      "description": "Score: 20 | Comments: 4 | Posted by thelastgallon",
+      "url": "https://yarchive.net/blog/plastics/",
+      "publishedAt": "2026-10-03T06:14:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thelastgallon",
       "tags": []
     },
     {
@@ -77,6 +286,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "est",
+      "tags": []
+    },
+    {
+      "id": "1qwhup",
+      "title": "New York City should carefully measure a new tree",
+      "description": "Score: 72 | Comments: 15 | Posted by willmeyers",
+      "url": "https://blog.willmeye.rs/new-york-city-should-carefully-measure-a-new-tree/",
+      "publishedAt": "2026-10-03T02:28:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "willmeyers",
+      "tags": []
+    },
+    {
+      "id": "vu5eqq",
+      "title": "Math's pedagogical curse – Grant Sanderson [video]",
+      "description": "Score: 48 | Comments: 21 | Posted by bobajeff",
+      "url": "https://www.youtube.com/watch?v=UOuxo6SA8Uc",
+      "publishedAt": "2026-10-03T01:11:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bobajeff",
       "tags": []
     },
     {

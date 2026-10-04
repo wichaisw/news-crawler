@@ -14,6 +14,28 @@
       "tags": []
     },
     {
+      "id": "psn0dr",
+      "title": "Woking Electrical Control Room (2016)",
+      "description": "Score: 143 | Comments: 30 | Posted by NaOH",
+      "url": "http://www.darbiansphotography.com/woking-electrical-control-room-urbex",
+      "publishedAt": "2026-10-02T20:44:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "NaOH",
+      "tags": []
+    },
+    {
+      "id": "prl04z",
+      "title": "Three AI agents, two countries, and one uneven world wide web",
+      "description": "Score: 35 | Comments: 1 | Posted by effects",
+      "url": "https://royapakzad.substack.com/p/multilingual-ai-agents",
+      "publishedAt": "2026-10-02T20:39:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "effects",
+      "tags": []
+    },
+    {
       "id": "fnfk4f",
       "title": "Barcodes are about to go extinct",
       "description": "Score: 51 | Comments: 79 | Posted by rmason",
@@ -69,6 +91,17 @@
       "tags": []
     },
     {
+      "id": "4ycvud",
+      "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
+      "description": "Score: 102 | Comments: 39 | Posted by edverma2",
+      "url": "https://pipod.dev/",
+      "publishedAt": "2026-10-02T19:10:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "edverma2",
+      "tags": []
+    },
+    {
       "id": "muyghv",
       "title": "Apple Pass Designer",
       "description": "Score: 440 | Comments: 274 | Posted by soheilpro",
@@ -102,6 +135,28 @@
       "tags": []
     },
     {
+      "id": "jle4uu",
+      "title": "Dirty Optimization Secrets (C for Playdate)",
+      "description": "Score: 22 | Comments: 2 | Posted by ibobev",
+      "url": "https://devforum.play.date/t/dirty-optimization-secrets-c-for-playdate/23011",
+      "publishedAt": "2026-10-02T17:16:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
+      "tags": []
+    },
+    {
+      "id": "vnyaz7",
+      "title": "gpuvis: GPU Trace Visualizer",
+      "description": "Score: 16 | Comments: 0 | Posted by luu",
+      "url": "https://github.com/mikesart/gpuvis",
+      "publishedAt": "2026-10-02T16:04:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "luu",
+      "tags": []
+    },
+    {
       "id": "pd08o1",
       "title": "One month coding with GLM 5.3 Flash",
       "description": "Score: 167 | Comments: 125 | Posted by ThibWeb",
@@ -110,6 +165,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ThibWeb",
+      "tags": []
+    },
+    {
+      "id": "gub0ln",
+      "title": "Sea Monkeys Show Scientists How to Rewrite a Rule of Turbulence",
+      "description": "Score: 6 | Comments: 0 | Posted by ibobev",
+      "url": "https://www.quantamagazine.org/sea-monkeys-show-scientists-how-to-rewrite-a-rule-of-turbulence-20261002/",
+      "publishedAt": "2026-10-02T15:09:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
       "tags": []
     },
     {
@@ -245,6 +311,17 @@
       "tags": []
     },
     {
+      "id": "bis873",
+      "title": "Show HN: Our space game has a built-in RISC-V emulator that runs Linux",
+      "description": "Score: 81 | Comments: 28 | Posted by nor-and-or-not",
+      "url": "https://againstallodds.games/blog/2026/10/03/our-risc-v-emulator-pasriscv/",
+      "publishedAt": "2026-10-02T10:40:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nor-and-or-not",
+      "tags": []
+    },
+    {
       "id": "jjpr6u",
       "title": "Alarm Grows over 'Clearly Illegal' US Election Meddling in Brazil",
       "description": "Score: 5 | Comments: 0 | Posted by robtherobber",
@@ -330,6 +407,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "usernomdeguerre",
+      "tags": []
+    },
+    {
+      "id": "b8pezj",
+      "title": "Fast Blur with Animated Radius",
+      "description": "Score: 35 | Comments: 3 | Posted by luu",
+      "url": "https://aras-p.info/blog/2026/10/01/Fast-blur-with-animated-radius/",
+      "publishedAt": "2026-10-02T02:34:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "luu",
       "tags": []
     },
     {

@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "x3jf9c",
+      "title": "C++ Insights – See your source code with the eyes of a Compiler",
+      "description": "Score: 160 | Comments: 31 | Posted by rramadass",
+      "url": "https://github.com/andreasfertig/cppinsights",
+      "publishedAt": "2026-10-01T23:53:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rramadass",
+      "tags": []
+    },
+    {
       "id": "drpiov",
       "title": "Show HN: Pyxel – A Python retro game engine with built-in art and sound editors",
       "description": "Score: 84 | Comments: 8 | Posted by kitao",
@@ -11,6 +22,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "kitao",
+      "tags": []
+    },
+    {
+      "id": "gligpf",
+      "title": "The Softmax function and its derivative",
+      "description": "Score: 35 | Comments: 2 | Posted by costco",
+      "url": "https://eli.thegreenplace.net/2016/the-softmax-function-and-its-derivative/",
+      "publishedAt": "2026-10-01T23:24:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "costco",
       "tags": []
     },
     {
@@ -121,6 +143,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "gurjeet",
+      "tags": []
+    },
+    {
+      "id": "7fpjmz",
+      "title": "Gboard Conveyor Belt Version",
+      "description": "Score: 34 | Comments: 4 | Posted by xnx",
+      "url": "https://github.com/google/mozc-devices/tree/main/mozc-conveyorbelt",
+      "publishedAt": "2026-10-01T21:54:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "xnx",
       "tags": []
     },
     {
@@ -355,6 +388,17 @@
       "tags": []
     },
     {
+      "id": "93iovm",
+      "title": "Celebrating the 100th birthday of the kidney donated to him as a teenager",
+      "description": "Score: 203 | Comments: 51 | Posted by gscott",
+      "url": "https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/",
+      "publishedAt": "2026-10-01T16:32:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gscott",
+      "tags": []
+    },
+    {
       "id": "gm2aa9",
       "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
       "description": "Score: 536 | Comments: 188 | Posted by jasondavies",
@@ -429,6 +473,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "emersonmacro",
+      "tags": []
+    },
+    {
+      "id": "uxnk6u",
+      "title": "Amazon introduces a redesigned Kindle family",
+      "description": "Score: 38 | Comments: 63 | Posted by seam_carver",
+      "url": "https://www.aboutamazon.com/news/devices/new-kindle-lineup-2026",
+      "publishedAt": "2026-10-01T14:21:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "seam_carver",
       "tags": []
     },
     {
