@@ -1,0 +1,66 @@
+{
+  "date": "2026-10-05",
+  "source": "theverge",
+  "articles": [
+    {
+      "id": "ei7gax",
+      "title": "An open-source tool lets you delete 12GB of Apple Intelligence data on macOS",
+      "description": "Getting some extra storage space on your Mac could be as easy as deleting Apple's AI features with a new open-source command line tool called RemoveMacAI. There used to be a single Settings toggle for disabling Apple Intelligence, but that was removed in macOS 27. Now, the models stay on your disk, and the features [&#8230;]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/highlights_siri_conversations_endframe__d56qnw2oz22q_large_2x.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-10-05T13:47:14.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Stevie Bonifield",
+      "tags": []
+    },
+    {
+      "id": "wfqqw0",
+      "title": "OpenAI is sticking more ads in ChatGPT",
+      "description": "OpenAI's latest ad format will put images of sponsored products and services on your screen. The ads, which OpenAI will begin testing in the US later this month, will \"initially\" appear when you generate images with ChatGPT, according to an announcement on Monday. The company first brought ads to ChatGPT in February. Until now, ChatGPT's [&#8230;]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/chatgpt-visual-ads.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-10-05T13:09:48.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Emma Roth",
+      "tags": []
+    },
+    {
+      "id": "fgba5d",
+      "title": "TCL’s paperlike OLED phone made me more excited for the iPhone Duo",
+      "description": "I've spent most of the last couple weeks using an otherwise unexceptional midrange Android phone with one amazing feature: a matte OLED display. That screen is by far the best thing about the TCL P80 Ultra, and weirdly, it's made me more excited for the iPhone Duo and its matte inner display. 2023's TCL Nxtpaper [&#8230;]",
+      "url": "https://www.theverge.com/tech/1004079/tcl-p80-ultra-nxtpaper-matte-display-iphone-duo",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/tcl-p80-ultra-review-09.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-10-05T12:02:41.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Dominic Preston",
+      "tags": []
+    },
+    {
+      "id": "5249oc",
+      "title": "Google admits not every Android app runs great on Intel Googlebooks",
+      "description": "Google has waited until the day its new Googlebook laptops hit the market to admit that Intel-based models may have issues running some Android apps. Before now, Google has emphasized that the Android-based Googlebooks give owners access to the \"entire Play Store library\" of apps, along with some clever interactions with Android phones and tablets. [&#8230;]",
+      "url": "https://www.theverge.com/tech/1004643/google-android-apps-intel-googlebooks-performance",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268755_Google_event_Asus_Googlebook_14_ADiBenedetto_0006_0b94ab.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-10-05T10:58:22.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Dominic Preston",
+      "tags": []
+    },
+    {
+      "id": "uhrjsl",
+      "title": "Our minds aren’t equipped to handle AI",
+      "description": "Norbert Wiener, godfather of cybernetics, once said, \"The thought of every age is reflected in its technique.\" For the past century, our thought has been reflected in our computers, including by those in the AI industry. Google's Demis Hassabis calls the brain \"a biological approximation to a Turing machine.\" Elon Musk puts it more bluntly, [&#8230;]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268726_Cognitive_hotdogs_PENEKOI_115fb1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-10-05T10:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Benjamin Riley",
+      "tags": []
+    }
+  ]
+}

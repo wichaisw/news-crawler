@@ -355,6 +355,17 @@
       "tags": []
     },
     {
+      "id": "1pzaoh",
+      "title": "ExplainDB: A Database System Built for Understandability",
+      "description": "Score: 25 | Comments: 1 | Posted by pykello",
+      "url": "https://github.com/explaindb/explaindb",
+      "publishedAt": "2026-10-01T17:47:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pykello",
+      "tags": []
+    },
+    {
       "id": "4t1u8o",
       "title": "Vote on which of Hacker News' challenges for AI have been met",
       "description": "Score: 156 | Comments: 188 | Posted by stabbles",
@@ -429,6 +440,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "razin",
+      "tags": []
+    },
+    {
+      "id": "vejhwt",
+      "title": "Safe Optimistic Lock Coupling",
+      "description": "Score: 36 | Comments: 6 | Posted by greghn",
+      "url": "http://databasearchitects.blogspot.com/2026/04/safe-optimistic-lock-coupling.html",
+      "publishedAt": "2026-10-01T15:37:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "greghn",
       "tags": []
     },
     {
@@ -542,6 +564,17 @@
       "tags": []
     },
     {
+      "id": "pyfnoz",
+      "title": "First Implantable Cochlear Implant Launches",
+      "description": "Score: 37 | Comments: 29 | Posted by rbanffy",
+      "url": "https://spectrum.ieee.org/fully-implantable-cochlear-implant",
+      "publishedAt": "2026-10-01T12:31:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rbanffy",
+      "tags": []
+    },
+    {
       "id": "g83cok",
       "title": "Price Increases for 2GB Raspberry Pi 4 and Raspberry Pi 5",
       "description": "Score: 6 | Comments: 0 | Posted by rbanffy",
@@ -572,6 +605,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "Snowly",
+      "tags": []
+    },
+    {
+      "id": "wfxyb1",
+      "title": "Gods in the Classroom: Religion and Education in First Millennium BCE Babylonia",
+      "description": "Score: 52 | Comments: 35 | Posted by pseudolus",
+      "url": "https://www.cambridge.org/core/journals/iraq/article/gods-in-the-classroom-religion-and-education-in-1st-millennium-bce-babylonia/EB059EE81804DCBC1848CACBD6298E0B",
+      "publishedAt": "2026-10-01T11:31:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pseudolus",
       "tags": []
     },
     {
@@ -630,6 +674,28 @@
       "tags": []
     },
     {
+      "id": "g0urag",
+      "title": "Differences Between `Foldl` and `Foldr`",
+      "description": "Score: 31 | Comments: 1 | Posted by signa11",
+      "url": "https://blog.haskell.org/foldl-and-foldr/",
+      "publishedAt": "2026-10-01T04:58:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "signa11",
+      "tags": []
+    },
+    {
+      "id": "ou41pa",
+      "title": "What is going on with ceiling fans",
+      "description": "Score: 362 | Comments: 313 | Posted by colinprince",
+      "url": "https://mcmansionhell.com/post/829127919552151552/what-is-going-on-with-ceiling-fans",
+      "publishedAt": "2026-10-01T03:52:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "colinprince",
+      "tags": []
+    },
+    {
       "id": "yum8m1",
       "title": "Show HN: Yantra – an LALR(1) parser generator for C++",
       "description": "Score: 24 | Comments: 15 | Posted by renjipanicker",
@@ -638,6 +704,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "renjipanicker",
+      "tags": []
+    },
+    {
+      "id": "4wcv38",
+      "title": "Page Table Memory Consumption",
+      "description": "Score: 69 | Comments: 11 | Posted by shellpipe",
+      "url": "https://frn.sh/pagetables/",
+      "publishedAt": "2026-10-01T01:55:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "shellpipe",
       "tags": []
     }
   ]

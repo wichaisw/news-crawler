@@ -3,6 +3,28 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "mwujr2",
+      "title": "Demystifying Tufte's data-ink ratio",
+      "description": "Score: 63 | Comments: 30 | Posted by s4074433",
+      "url": "https://tuftesrazor.scienceux.org/",
+      "publishedAt": "2026-10-02T23:55:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "s4074433",
+      "tags": []
+    },
+    {
+      "id": "77xmi1",
+      "title": "Interview with Chicken Scheme Maintainer Sjamaan/Peter Bex",
+      "description": "Score: 51 | Comments: 13 | Posted by veqq",
+      "url": "https://alexalejandre.com/interviews/peter-bex/",
+      "publishedAt": "2026-10-02T22:17:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "veqq",
+      "tags": []
+    },
+    {
       "id": "ifuw7m",
       "title": "Every SaaS business will become a harness around a model",
       "description": "Score: 137 | Comments: 94 | Posted by iacguy",
@@ -179,6 +201,17 @@
       "tags": []
     },
     {
+      "id": "24c2gb",
+      "title": "Results from the ASIC puzzle",
+      "description": "Score: 95 | Comments: 46 | Posted by eru",
+      "url": "https://blog.janestreet.com/asic-puzzle-results/",
+      "publishedAt": "2026-10-02T14:42:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "eru",
+      "tags": []
+    },
+    {
       "id": "lgclth",
       "title": "The Forgetful CPU (Linux on M4)",
       "description": "Score: 225 | Comments: 149 | Posted by signa11",
@@ -198,6 +231,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "PaulHoule",
+      "tags": []
+    },
+    {
+      "id": "u6iia9",
+      "title": "Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers",
+      "description": "Score: 113 | Comments: 41 | Posted by tomncooper",
+      "url": "https://developers.redhat.com/articles/2026/10/02/benchmarking-ai-decision-models-against-traditional-guardrails",
+      "publishedAt": "2026-10-02T13:47:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tomncooper",
       "tags": []
     },
     {
@@ -253,6 +297,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "schonfinkel",
+      "tags": []
+    },
+    {
+      "id": "8kpjtk",
+      "title": "The Tao of Backup",
+      "description": "Score: 193 | Comments: 70 | Posted by vntok",
+      "url": "http://www.taobackup.com/index.html",
+      "publishedAt": "2026-10-02T11:19:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vntok",
       "tags": []
     },
     {
@@ -341,6 +396,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "vltmrkls",
+      "tags": []
+    },
+    {
+      "id": "qv8nq8",
+      "title": "The Philadelphia Inquirer built Scrape, an AI tool to surface hyperlocal news",
+      "description": "Score: 35 | Comments: 12 | Posted by giuliomagnifico",
+      "url": "https://www.lenfestinstitute.org/solutions-resources/philadelphia-inquirer-scrape-ai-hyperlocal-news/",
+      "publishedAt": "2026-10-02T07:40:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "giuliomagnifico",
+      "tags": []
+    },
+    {
+      "id": "j5qa6u",
+      "title": "Show HN: Glashütte Trash Clock – A 30-minute pendulum clock made from trash",
+      "description": "Score: 216 | Comments: 34 | Posted by r0r0",
+      "url": "https://niklasroy.com/gtc/",
+      "publishedAt": "2026-10-02T06:33:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "r0r0",
       "tags": []
     },
     {
