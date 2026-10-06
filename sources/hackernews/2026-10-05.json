@@ -3,6 +3,171 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "gh6iv6",
+      "title": "Samon: Designing a Zen Garden Raking Puzzle",
+      "description": "Score: 50 | Comments: 23 | Posted by networked",
+      "url": "https://gwern.net/doc/design/2026-10-03-gwern-samon.html",
+      "publishedAt": "2026-10-05T23:35:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "networked",
+      "tags": []
+    },
+    {
+      "id": "jep6af",
+      "title": "Ephemeral Testing",
+      "description": "Score: 70 | Comments: 24 | Posted by ibobev",
+      "url": "https://lemire.me/blog/2026/10/05/ephemeral-testing/",
+      "publishedAt": "2026-10-05T23:06:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
+      "tags": []
+    },
+    {
+      "id": "xyhxyb",
+      "title": "Example.com just launched the biggest redesign in decades",
+      "description": "Score: 259 | Comments: 165 | Posted by jgx0",
+      "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
+      "publishedAt": "2026-10-05T22:55:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jgx0",
+      "tags": []
+    },
+    {
+      "id": "v8y1un",
+      "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+      "description": "Score: 481 | Comments: 352 | Posted by rdmuser",
+      "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
+      "publishedAt": "2026-10-05T22:46:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rdmuser",
+      "tags": []
+    },
+    {
+      "id": "x2dcz3",
+      "title": "Global Solar Atlas: summary of solar power potential globally",
+      "description": "Score: 68 | Comments: 49 | Posted by stratts",
+      "url": "https://globalsolaratlas.info/",
+      "publishedAt": "2026-10-05T22:37:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "stratts",
+      "tags": []
+    },
+    {
+      "id": "ti8hi",
+      "title": "Learning Jazz Pianist Style with Cross-Attention Conditioning",
+      "description": "Score: 43 | Comments: 10 | Posted by ishan0102",
+      "url": "https://almostimplemented.github.io/jazz-pianist-style/",
+      "publishedAt": "2026-10-05T22:30:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ishan0102",
+      "tags": []
+    },
+    {
+      "id": "fjw5zj",
+      "title": "Friendship ended with Deno, now Node is my best friend",
+      "description": "Score: 216 | Comments: 133 | Posted by ibobev",
+      "url": "https://dbushell.com/2026/10/03/deno-to-node/",
+      "publishedAt": "2026-10-05T22:30:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
+      "tags": []
+    },
+    {
+      "id": "moufds",
+      "title": "Better Space-Time Trade-Offs for LSM-Tree Based Key-Value Stores [pdf]",
+      "description": "Score: 30 | Comments: 0 | Posted by ibobev",
+      "url": "https://nivdayan.github.io/dostoevsky.pdf",
+      "publishedAt": "2026-10-05T22:25:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
+      "tags": []
+    },
+    {
+      "id": "49vyxg",
+      "title": "Find the flattest route between any two points in SF",
+      "description": "Score: 235 | Comments: 79 | Posted by ishan0102",
+      "url": "https://flattensf.com/",
+      "publishedAt": "2026-10-05T21:40:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ishan0102",
+      "tags": []
+    },
+    {
+      "id": "ihtzma",
+      "title": "Dust: Pretraining Transformers Without Backpropagation",
+      "description": "Score: 229 | Comments: 61 | Posted by E-Reverance",
+      "url": "https://qlabs.sh/research/dust",
+      "publishedAt": "2026-10-05T21:15:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "E-Reverance",
+      "tags": []
+    },
+    {
+      "id": "5d2nw9",
+      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+      "description": "Score: 395 | Comments: 267 | Posted by outlier99",
+      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+      "publishedAt": "2026-10-05T21:00:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "outlier99",
+      "tags": []
+    },
+    {
+      "id": "2sjmcm",
+      "title": "Beam: Reflection's 501B open-weight model",
+      "description": "Score: 482 | Comments: 155 | Posted by Philpax",
+      "url": "https://reflection.ai/blog/introducing-beam",
+      "publishedAt": "2026-10-05T19:16:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Philpax",
+      "tags": []
+    },
+    {
+      "id": "ifff1f",
+      "title": "Making a GTK application in Haskell, part 1",
+      "description": "Score: 165 | Comments: 47 | Posted by Vosporos",
+      "url": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
+      "publishedAt": "2026-10-05T14:23:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Vosporos",
+      "tags": []
+    },
+    {
+      "id": "50xpqc",
+      "title": "The lamps in my house",
+      "description": "Score: 241 | Comments: 102 | Posted by farslan",
+      "url": "https://arslan.io/2026/10/05/the-lamps-in-my-house/",
+      "publishedAt": "2026-10-05T14:12:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "farslan",
+      "tags": []
+    },
+    {
+      "id": "sr8yu0",
+      "title": "Linux containers in 500 lines of code (2016)",
+      "description": "Score: 128 | Comments: 34 | Posted by mkornaukhov",
+      "url": "https://blog.lizzie.io/linux-containers-in-500-loc.html",
+      "publishedAt": "2026-10-05T14:09:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mkornaukhov",
+      "tags": []
+    },
+    {
       "id": "tl77jq",
       "title": "Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skippedgrapheneos.org",
       "description": "Score: 50 | Comments: 27 | Posted by finnlab",
@@ -102,6 +267,17 @@
       "tags": []
     },
     {
+      "id": "5mlbve",
+      "title": "2026 Nobel Prize in Physiology or Medicine: Deisseroth, Hegemann, Nagel",
+      "description": "Score: 138 | Comments: 48 | Posted by lode",
+      "url": "https://www.nobelprize.org/prizes/medicine/2026/summary/",
+      "publishedAt": "2026-10-05T09:33:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lode",
+      "tags": []
+    },
+    {
       "id": "at796a",
       "title": "Denmark Data Breach Exposes 8.8M People's Personal Data",
       "description": "Score: 273 | Comments: 221 | Posted by clan",
@@ -121,6 +297,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "0xedb",
+      "tags": []
+    },
+    {
+      "id": "o93k24",
+      "title": "Qualcomm licenses patents on Huawei’s LogicFolding chip tech",
+      "description": "Score: 199 | Comments: 127 | Posted by 0xedb",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-05/qualcomm-licenses-patents-on-huawei-s-logicfolding-chip-tech",
+      "publishedAt": "2026-10-05T07:46:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "0xedb",
+      "tags": []
+    },
+    {
+      "id": "rt1ir0",
+      "title": "Anthropic reported diary entry to police, woman faces felony charge",
+      "description": "Score: 754 | Comments: 585 | Posted by emptybits",
+      "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+      "publishedAt": "2026-10-05T05:37:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "emptybits",
       "tags": []
     },
     {

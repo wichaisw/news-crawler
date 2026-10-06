@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-06",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3174251",
+      "title": "Facebook tests going Reels-first in India",
+      "description": "Meta is testing a new Facebook UX in India that sends some users directly into full-screen video when they open the app, putting Reels front and",
+      "url": "https://techcrunch.com/2026/10/06/facebook-tests-going-reels-first-in-india/",
+      "publishedAt": "2026-10-06T12:38:53.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Jagmeet Singh",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3174065",
+      "title": "Type One Energy raised $200M to build a fusion power plant by 2034",
+      "description": "Type One Energy is betting that its lean approach to fusion power will get a power plant on the grid faster, and investors have rewarded it with $200",
+      "url": "https://techcrunch.com/2026/10/06/type-one-energy-raised-200m-to-build-a-fusion-power-plant-by-2034/",
+      "publishedAt": "2026-10-06T12:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Tim De Chant",
+      "tags": []
+    }
+  ]
+}

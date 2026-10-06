@@ -1,0 +1,116 @@
+{
+  "date": "2026-10-06",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "eo9njk",
+      "title": "Release of Polars 2.0",
+      "description": "Score: 16 | Comments: 1 | Posted by simicd",
+      "url": "https://pola.rs/posts/release-polars-2/",
+      "publishedAt": "2026-10-06T11:59:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "simicd",
+      "tags": []
+    },
+    {
+      "id": "i5qove",
+      "title": "JetBrains reported a net financial loss first time in its tracked history",
+      "description": "Score: 97 | Comments: 78 | Posted by thw_9a83c",
+      "url": "https://www.helgilibrary.com/companies/jetbrains",
+      "publishedAt": "2026-10-06T11:45:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thw_9a83c",
+      "tags": []
+    },
+    {
+      "id": "fcyufn",
+      "title": "World's First enhanced geothermal power plant completed in just 23 months",
+      "description": "Score: 24 | Comments: 1 | Posted by hochmartinez",
+      "url": "https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/",
+      "publishedAt": "2026-10-06T11:34:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hochmartinez",
+      "tags": []
+    },
+    {
+      "id": "cwfois",
+      "title": "Nature's capacity to 'bounce back' when species are lost is vastly overestimated",
+      "description": "Score: 44 | Comments: 10 | Posted by pseudolus",
+      "url": "https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html",
+      "publishedAt": "2026-10-06T11:11:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pseudolus",
+      "tags": []
+    },
+    {
+      "id": "7bblbm",
+      "title": "ASOS app users receive push notifications apparently sent by hackers",
+      "description": "Score: 42 | Comments: 24 | Posted by helsinkiandrew",
+      "url": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o",
+      "publishedAt": "2026-10-06T10:15:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "helsinkiandrew",
+      "tags": []
+    },
+    {
+      "id": "dehvy8",
+      "title": "Nobel Prize in Physics goes to Francis Halzen",
+      "description": "Score: 187 | Comments: 57 | Posted by solarist",
+      "url": "https://www.nobelprize.org/prizes/physics/2026/",
+      "publishedAt": "2026-10-06T09:48:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "solarist",
+      "tags": []
+    },
+    {
+      "id": "l3nzb4",
+      "title": "Gleam doesn't compile to Erlang source anymore",
+      "description": "Score: 88 | Comments: 14 | Posted by ingve",
+      "url": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
+      "publishedAt": "2026-10-06T08:08:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingve",
+      "tags": []
+    },
+    {
+      "id": "5uq4hk",
+      "title": "Resurrecting iChat Audio and Video Conferencing",
+      "description": "Score: 72 | Comments: 14 | Posted by thepipetogrep",
+      "url": "https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/",
+      "publishedAt": "2026-10-06T03:39:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thepipetogrep",
+      "tags": []
+    },
+    {
+      "id": "qzb2ge",
+      "title": "Subquadratic 3SUM and Subcubic APSP",
+      "description": "Score: 20 | Comments: 3 | Posted by procedurecall",
+      "url": "https://arxiv.org/abs/2610.06783",
+      "publishedAt": "2026-10-06T03:34:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "procedurecall",
+      "tags": []
+    },
+    {
+      "id": "lat542",
+      "title": "Why Common Lisp is now the best programming language",
+      "description": "Score: 228 | Comments: 291 | Posted by misterchocolat",
+      "url": "https://www.vivienhenz.com/common-lisp",
+      "publishedAt": "2026-10-06T02:51:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "misterchocolat",
+      "tags": []
+    }
+  ]
+}
