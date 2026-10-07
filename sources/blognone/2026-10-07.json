@@ -1,0 +1,84 @@
+{
+  "date": "2026-10-07",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "151845 at https://www.blognone.com",
+      "title": "Google อัปเดต Nano Banana 2.1 พื้นฐาน Gemini 3.6 Flash ออกแบบภาพได้ดีขึ้น",
+      "description": "Google อัปเดต Nano Banana 2.1 พื้นฐาน Gemini 3.6 Flash ออกแบบภาพได้ดีขึ้น Body กูเกิลอัปเดตโมเดล AI สำหรับสร้างรูปภาพ Nano Banana 2.1",
+      "url": "https://www.blognone.com/node/151845",
+      "publishedAt": "2026-10-07T10:35:00.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151838 at https://www.blognone.com",
+      "title": "อั้นไม่ไหว? Raspberry Pi ขึ้นราคาบอร์ดแรม 2GB ประมาณ 420 บาท หลังตรึงราคามาตั้งแต่รอบแรก",
+      "description": "อั้นไม่ไหว? Raspberry Pi ขึ้นราคาบอร์ดแรม 2GB ประมาณ 420 บาท หลังตรึงราคามาตั้งแต่รอบแรก Body Raspberry Pi",
+      "url": "https://www.blognone.com/node/151838",
+      "publishedAt": "2026-10-07T10:01:00.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151844 at https://www.blognone.com",
+      "title": "[ลือ] Apple ร่วมมือกับ LG เตรียมออกสินค้าสมาร์ทโฮมหลายอย่าง โดยใช้แบรนด์ LG",
+      "description": "[ลือ] Apple ร่วมมือกับ LG เตรียมออกสินค้าสมาร์ทโฮมหลายอย่าง โดยใช้แบรนด์ LG Body ข่าวลือแอปเปิลประจำวันโดย Mark Gurman แห่ง Bloomberg คนเดิม",
+      "url": "https://www.blognone.com/node/151844",
+      "publishedAt": "2026-10-07T10:00:00.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151843 at https://www.blognone.com",
+      "title": "กูเกิลเปิดตัว EmbeddingGemma 2 โมเดลขนาดเล็กรัน On-device คุณภาพดีขึ้น",
+      "description": "กูเกิลเปิดตัว EmbeddingGemma 2 โมเดลขนาดเล็กรัน On-device คุณภาพดีขึ้น Body กูเกิลเปิดตัว EmbeddingGemma 2 โมเดลขนาดเล็กสำหรับรันในอุปกรณ์แบบ",
+      "url": "https://www.blognone.com/node/151843",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2026/2026-09/massive_text_embedding_benchmark.width-1000.format-webp.webp",
+      "publishedAt": "2026-10-07T08:00:07.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151842 at https://www.blognone.com",
+      "title": "Anthropic เปิดตัว Claude for Google Workspace",
+      "description": "Anthropic เปิดตัว Claude for Google Workspace Body Anthropic เปิดตัว Claude for Google Workspace หรือ Claude เวอร์ชันควบคุมการทำงานของ Google Docs,",
+      "url": "https://www.blognone.com/node/151842",
+      "publishedAt": "2026-10-07T00:16:40.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151841 at https://www.blognone.com",
+      "title": "[ลือ] MacBook Pro จอ OLED จะมีน้ำหนักเบาลงมา จากการออกแบบใหม่ เริ่มขายภายในปีนี้",
+      "description": "[ลือ] MacBook Pro จอ OLED จะมีน้ำหนักเบาลงมา จากการออกแบบใหม่ เริ่มขายภายในปีนี้ Body นอกจากเรื่อง ซีอีโอ John Ternus ในจดหมายข่าวของ Mark Gurman",
+      "url": "https://www.blognone.com/node/151841",
+      "publishedAt": "2026-10-07T00:12:02.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151840 at https://www.blognone.com",
+      "title": "OpenAI เปิดตัว Decisions API โมเดลตัดสินใจแบบ Jev ทำงานเร็วขึ้น 10 เท่า",
+      "description": "OpenAI เปิดตัว Decisions API โมเดลตัดสินใจแบบ Jev ทำงานเร็วขึ้น 10 เท่า Body OpenAI เปิดตัว Decisions API โมเดลสำหรับตัดสินใจเรื่องต่างๆ",
+      "url": "https://www.blognone.com/node/151840",
+      "publishedAt": "2026-10-07T00:02:46.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}

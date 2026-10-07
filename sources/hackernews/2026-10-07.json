@@ -1,0 +1,215 @@
+{
+  "date": "2026-10-07",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "j05w60",
+      "title": "Write Like It's 1866: LLMs Relearn Telegraphese",
+      "description": "Score: 10 | Comments: 3 | Posted by Theory42",
+      "url": "https://fiveminutesforward.com/post/2026-10-04-telegraph-test/",
+      "publishedAt": "2026-10-07T12:04:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Theory42",
+      "tags": []
+    },
+    {
+      "id": "w0f1ps",
+      "title": "Shipping JPEG XL in Chromechrome.com",
+      "description": "Score: 108 | Comments: 49 | Posted by AshleysBrain",
+      "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
+      "publishedAt": "2026-10-07T11:52:23.685Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "AshleysBrain",
+      "tags": []
+    },
+    {
+      "id": "w0f1ps",
+      "title": "Shipping JPEG XL in Chrome",
+      "description": "Score: 111 | Comments: 49 | Posted by AshleysBrain",
+      "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
+      "publishedAt": "2026-10-07T11:25:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "AshleysBrain",
+      "tags": []
+    },
+    {
+      "id": "4e99xe",
+      "title": "LLMs and Data Poisoning Are Weaponized to Manufacture Consensus",
+      "description": "Score: 13 | Comments: 6 | Posted by marketinganai",
+      "url": "https://medium.com/@eslam.elsewedy/synthetic-truth-how-marketing-power-and-ai-bend-reality-cd8a1173b968",
+      "publishedAt": "2026-10-07T11:23:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "marketinganai",
+      "tags": []
+    },
+    {
+      "id": "2x1pfb",
+      "title": "It may soon be possible to create \"mirror life\"",
+      "description": "Score: 8 | Comments: 2 | Posted by amai",
+      "url": "https://www.economist.com/science-and-technology/2026/09/30/it-may-soon-be-possible-to-create-mirror-life",
+      "publishedAt": "2026-10-07T11:14:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "amai",
+      "tags": []
+    },
+    {
+      "id": "n5f6zw",
+      "title": "PS5 Jailbreaks Are Escalating at an Unprecedented Pace",
+      "description": "Score: 24 | Comments: 17 | Posted by password54321",
+      "url": "https://www.pushsquare.com/news/2026/10/ps5-jailbreaks-are-escalating-at-an-unprecedented-pace-and-sony-must-be-sweating",
+      "publishedAt": "2026-10-07T10:24:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "password54321",
+      "tags": []
+    },
+    {
+      "id": "xqloy9",
+      "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
+      "description": "Score: 95 | Comments: 11 | Posted by sasvari",
+      "url": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/",
+      "publishedAt": "2026-10-07T09:51:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sasvari",
+      "tags": []
+    },
+    {
+      "id": "kho9rr",
+      "title": "A font recreated from photographs of classic Commodore 64 keycaps",
+      "description": "Score: 160 | Comments: 26 | Posted by sohkamyung",
+      "url": "https://github.com/szabadkai/c64-keyboard-font/",
+      "publishedAt": "2026-10-07T09:17:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sohkamyung",
+      "tags": []
+    },
+    {
+      "id": "l0xxpq",
+      "title": "Forever Junior: The Skills AI Can't Develop for You",
+      "description": "Score: 18 | Comments: 9 | Posted by brugidou",
+      "url": "https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/",
+      "publishedAt": "2026-10-07T08:00:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "brugidou",
+      "tags": []
+    },
+    {
+      "id": "7v1ez8",
+      "title": "Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer",
+      "description": "Score: 41 | Comments: 21 | Posted by jinqueeny",
+      "url": "https://github.com/shader-effects-inc/shaders",
+      "publishedAt": "2026-10-07T05:38:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jinqueeny",
+      "tags": []
+    },
+    {
+      "id": "purxpo",
+      "title": "Sharded, encrypted storage between friends over Yggdrasil",
+      "description": "Score: 17 | Comments: 6 | Posted by peter_retief",
+      "url": "https://github.com/peterretief/yggstore",
+      "publishedAt": "2026-10-07T05:20:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "peter_retief",
+      "tags": []
+    },
+    {
+      "id": "syunos",
+      "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+      "description": "Score: 110 | Comments: 36 | Posted by colinprince",
+      "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
+      "publishedAt": "2026-10-07T04:37:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "colinprince",
+      "tags": []
+    },
+    {
+      "id": "wgiopl",
+      "title": "The art of defusing a second world war bomb",
+      "description": "Score: 86 | Comments: 63 | Posted by sandebert",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/06/it-could-knock-a-whole-street-down-the-art-of-defusing-a-second-world-war-bomb",
+      "publishedAt": "2026-10-07T03:43:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sandebert",
+      "tags": []
+    },
+    {
+      "id": "bncmr8",
+      "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
+      "description": "Score: 30 | Comments: 8 | Posted by ilreb",
+      "url": "https://github.com/nano-muse/nanoMuse",
+      "publishedAt": "2026-10-07T03:30:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ilreb",
+      "tags": []
+    },
+    {
+      "id": "4bo81m",
+      "title": "OpenWAM: An Open Framework for Composable World-Action Models",
+      "description": "Score: 9 | Comments: 3 | Posted by ilreb",
+      "url": "https://openwam.stanford.edu/",
+      "publishedAt": "2026-10-07T03:17:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ilreb",
+      "tags": []
+    },
+    {
+      "id": "vscwff",
+      "title": "La Cueva BBS in Mexico in 1993 (session replay)",
+      "description": "Score: 59 | Comments: 21 | Posted by nanochess",
+      "url": "https://nanochess.org/la_cueva_bbs.html",
+      "publishedAt": "2026-10-07T03:16:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nanochess",
+      "tags": []
+    },
+    {
+      "id": "1ur0y5",
+      "title": "Strands Decider 2B: a small, open-source, decision model",
+      "description": "Score: 217 | Comments: 61 | Posted by gmays",
+      "url": "https://strandsagents.com/blog/introducing-strands-decider/",
+      "publishedAt": "2026-10-07T02:02:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gmays",
+      "tags": []
+    },
+    {
+      "id": "dut3gi",
+      "title": "ESP32-C3 Adblock",
+      "description": "Score: 135 | Comments: 54 | Posted by jayhoon",
+      "url": "https://github.com/M-Abozaid/esp32-c3-adblock",
+      "publishedAt": "2026-10-07T01:39:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jayhoon",
+      "tags": []
+    },
+    {
+      "id": "nm17pd",
+      "title": "Jev-Driven SRE Diagnosis: What Worked and What Failed",
+      "description": "Score: 37 | Comments: 17 | Posted by matt_d",
+      "url": "https://www.sregym.com/blog/jev-driven-sre-diagnosis",
+      "publishedAt": "2026-10-07T01:27:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "matt_d",
+      "tags": []
+    }
+  ]
+}

@@ -3,6 +3,204 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "263gtp",
+      "title": "AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)",
+      "description": "Score: 302 | Comments: 257 | Posted by Fe2O3",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "publishedAt": "2026-10-06T23:28:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Fe2O3",
+      "tags": []
+    },
+    {
+      "id": "x35zeo",
+      "title": "State of Devs 2026",
+      "description": "Score: 211 | Comments: 116 | Posted by sgdesign",
+      "url": "https://2026.stateofdevs.com/en-US/",
+      "publishedAt": "2026-10-06T23:26:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sgdesign",
+      "tags": []
+    },
+    {
+      "id": "yboocd",
+      "title": "Sharing AI progress in mathematics",
+      "description": "Score: 1021 | Comments: 1002 | Posted by OfficialTurkey",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "publishedAt": "2026-10-06T22:17:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "OfficialTurkey",
+      "tags": []
+    },
+    {
+      "id": "8l6v6d",
+      "title": "Penguin Mail – open-source Rust email client for Linux with AI",
+      "description": "Score: 211 | Comments: 136 | Posted by kavourias",
+      "url": "https://penguin-mail.com/",
+      "publishedAt": "2026-10-06T21:59:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kavourias",
+      "tags": []
+    },
+    {
+      "id": "6f3dje",
+      "title": "Decisions API is in public beta",
+      "description": "Score: 344 | Comments: 181 | Posted by chiefstorm",
+      "url": "https://developers.openai.com/api/docs/guides/decisions",
+      "publishedAt": "2026-10-06T20:57:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "chiefstorm",
+      "tags": []
+    },
+    {
+      "id": "7vtd5l",
+      "title": "Paramount Skydance has completed its $111B merger with Warner Bros. Discovery",
+      "description": "Score: 242 | Comments: 406 | Posted by Mgtyalx",
+      "url": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
+      "publishedAt": "2026-10-06T20:33:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Mgtyalx",
+      "tags": []
+    },
+    {
+      "id": "c4j13u",
+      "title": "When random is not actually random enough",
+      "description": "Score: 70 | Comments: 39 | Posted by steveklabnik",
+      "url": "https://ersc.io/blog/when-random-isnt-random-enough",
+      "publishedAt": "2026-10-06T20:12:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "steveklabnik",
+      "tags": []
+    },
+    {
+      "id": "vg6ga4",
+      "title": "Claude Code’s suggested message feature: I think the real customer is the model",
+      "description": "Score: 230 | Comments: 132 | Posted by zed_labs_dev",
+      "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
+      "publishedAt": "2026-10-06T18:00:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zed_labs_dev",
+      "tags": []
+    },
+    {
+      "id": "bc0ayy",
+      "title": "California closed the Montana license plate loophole",
+      "description": "Score: 121 | Comments: 311 | Posted by speckx",
+      "url": "https://www.thedrive.com/news/heres-how-california-closed-the-montana-license-plate-loophole",
+      "publishedAt": "2026-10-06T17:00:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
+      "tags": []
+    },
+    {
+      "id": "dh2md3",
+      "title": "Treg (OpenRouter for Tools)",
+      "description": "Score: 36 | Comments: 8 | Posted by trollied",
+      "url": "https://github.com/superdesigndev/treg",
+      "publishedAt": "2026-10-06T16:29:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "trollied",
+      "tags": []
+    },
+    {
+      "id": "gojlcw",
+      "title": "OpenTPU – An open-source AI accelerator, developed by AI",
+      "description": "Score: 307 | Comments: 357 | Posted by fsbonetto",
+      "url": "https://github.com/FeSens/openTPU",
+      "publishedAt": "2026-10-06T16:23:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fsbonetto",
+      "tags": []
+    },
+    {
+      "id": "6po8op",
+      "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
+      "description": "Score: 360 | Comments: 36 | Posted by ilreb",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+      "publishedAt": "2026-10-06T16:03:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ilreb",
+      "tags": []
+    },
+    {
+      "id": "hb1yeq",
+      "title": "Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer",
+      "description": "Score: 83 | Comments: 35 | Posted by pentakkusu",
+      "url": "https://peterszentkiralyi.eu/darkplug/",
+      "publishedAt": "2026-10-06T13:58:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pentakkusu",
+      "tags": []
+    },
+    {
+      "id": "o8sii9",
+      "title": "What is Codemode",
+      "description": "Score: 108 | Comments: 49 | Posted by Tomte",
+      "url": "https://lucumr.pocoo.org/2026/10/6/codemode/",
+      "publishedAt": "2026-10-06T13:41:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Tomte",
+      "tags": []
+    },
+    {
+      "id": "wf1mc0",
+      "title": "Mistral Large 4",
+      "description": "Score: 1891 | Comments: 1136 | Posted by Philpax",
+      "url": "https://mistral.ai/news/mistral-large-4/\\",
+      "publishedAt": "2026-10-06T13:15:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Philpax",
+      "tags": []
+    },
+    {
+      "id": "woctfd",
+      "title": "Mathematics of Geothermal Energy",
+      "description": "Score: 71 | Comments: 43 | Posted by srameshc",
+      "url": "https://www.ebsco.com/research-starters/power-and-energy/mathematics-geothermal-energy/",
+      "publishedAt": "2026-10-06T13:05:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "srameshc",
+      "tags": []
+    },
+    {
+      "id": "xzs37p",
+      "title": "Erdosproblems.com Succumbs to the AI Onslaught",
+      "description": "Score: 106 | Comments: 47 | Posted by pfdietz",
+      "url": "https://www.erdosproblems.com/forum/thread/blog:9",
+      "publishedAt": "2026-10-06T12:53:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pfdietz",
+      "tags": []
+    },
+    {
+      "id": "qitvez",
+      "title": "What's Earth's dominant species by mass?",
+      "description": "Score: 267 | Comments: 197 | Posted by surprisetalk",
+      "url": "https://signoregalilei.com/2026/09/27/whats-earths-dominant-species-by-mass/",
+      "publishedAt": "2026-10-06T12:40:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
       "id": "eo9njk",
       "title": "Release of Polars 2.0",
       "description": "Score: 16 | Comments: 1 | Posted by simicd",
@@ -99,6 +297,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "procedurecall",
+      "tags": []
+    },
+    {
+      "id": "sb92ph",
+      "title": "LLMs may have helped my RSI",
+      "description": "Score: 97 | Comments: 53 | Posted by vaughands",
+      "url": "https://vaughanhilts.me/2026/10/05/llms-immensely-helped-my-rsi.html",
+      "publishedAt": "2026-10-06T03:01:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vaughands",
       "tags": []
     },
     {

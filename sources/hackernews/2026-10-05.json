@@ -124,6 +124,17 @@
       "tags": []
     },
     {
+      "id": "moc82x",
+      "title": "First Steps into Memory Management in Python",
+      "description": "Score: 6 | Comments: 0 | Posted by shellpipe",
+      "url": "https://tech.daniellbastos.com.br/posts/python-memory-management/",
+      "publishedAt": "2026-10-05T20:01:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "shellpipe",
+      "tags": []
+    },
+    {
       "id": "2sjmcm",
       "title": "Beam: Reflection's 501B open-weight model",
       "description": "Score: 482 | Comments: 155 | Posted by Philpax",
@@ -132,6 +143,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "Philpax",
+      "tags": []
+    },
+    {
+      "id": "dv1p7r",
+      "title": "Benchmark in Milliseconds",
+      "description": "Score: 144 | Comments: 47 | Posted by surprisetalk",
+      "url": "https://matklad.github.io/2026/10/05/benchmark-milliseconds.html",
+      "publishedAt": "2026-10-05T17:00:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
       "tags": []
     },
     {
