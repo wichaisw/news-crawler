@@ -113,6 +113,17 @@
       "tags": []
     },
     {
+      "id": "mmosth",
+      "title": "Living off-grid: Hundred Rabbits",
+      "description": "Score: 276 | Comments: 93 | Posted by Muhammad523",
+      "url": "https://100r.ca/site/home.html",
+      "publishedAt": "2026-10-05T21:08:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Muhammad523",
+      "tags": []
+    },
+    {
       "id": "5d2nw9",
       "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
       "description": "Score: 395 | Comments: 267 | Posted by outlier99",
@@ -146,6 +157,17 @@
       "tags": []
     },
     {
+      "id": "upjett",
+      "title": "How did Rosalind Franklin miss the helix in her iconic DNA image? She didn't",
+      "description": "Score: 216 | Comments: 80 | Posted by pavel_lishin",
+      "url": "https://www.science.org/content/article/how-did-rosalind-franklin-miss-helix-her-iconic-dna-image-she-didn-t",
+      "publishedAt": "2026-10-05T19:07:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pavel_lishin",
+      "tags": []
+    },
+    {
       "id": "dv1p7r",
       "title": "Benchmark in Milliseconds",
       "description": "Score: 144 | Comments: 47 | Posted by surprisetalk",
@@ -154,6 +176,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "surprisetalk",
+      "tags": []
+    },
+    {
+      "id": "z6wvio",
+      "title": "Analog Computer Simulator in the Browser",
+      "description": "Score: 30 | Comments: 10 | Posted by adamnemecek",
+      "url": "https://pavel-krivanek.github.io/The-Analog-Thing-Simulator/public/",
+      "publishedAt": "2026-10-05T16:19:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "adamnemecek",
       "tags": []
     },
     {
@@ -242,6 +275,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "dachworker",
+      "tags": []
+    },
+    {
+      "id": "l7djfk",
+      "title": "A new write and space optimized storage engine for MySQL is here",
+      "description": "Score: 58 | Comments: 31 | Posted by alexpadula",
+      "url": "https://tidesdb.com/articles/tidesdb-now-available-for-mysql/",
+      "publishedAt": "2026-10-05T11:40:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "alexpadula",
       "tags": []
     },
     {
@@ -363,6 +407,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "llm_nerd",
+      "tags": []
+    },
+    {
+      "id": "d2oidx",
+      "title": "The 15-year search for a band that charted once and vanished",
+      "description": "Score: 201 | Comments: 72 | Posted by shahidhussain",
+      "url": "https://shahidhussain.com/writing/search-for-salvage/",
+      "publishedAt": "2026-10-05T00:06:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "shahidhussain",
       "tags": []
     }
   ]

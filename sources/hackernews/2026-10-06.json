@@ -58,6 +58,17 @@
       "tags": []
     },
     {
+      "id": "xpwe2q",
+      "title": "Bloody Cavemen",
+      "description": "Score: 18 | Comments: 2 | Posted by Thevet",
+      "url": "https://www.lrb.co.uk/the-paper/v48/n18/edmund-gordon/bloody-cavemen",
+      "publishedAt": "2026-10-06T20:39:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Thevet",
+      "tags": []
+    },
+    {
       "id": "7vtd5l",
       "title": "Paramount Skydance has completed its $111B merger with Warner Bros. Discovery",
       "description": "Score: 242 | Comments: 406 | Posted by Mgtyalx",
@@ -77,6 +88,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "steveklabnik",
+      "tags": []
+    },
+    {
+      "id": "exnazx",
+      "title": "Cleo (Mathematician)",
+      "description": "Score: 181 | Comments: 37 | Posted by djoldman",
+      "url": "https://en.wikipedia.org/wiki/Cleo_(mathematician)",
+      "publishedAt": "2026-10-06T18:49:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "djoldman",
       "tags": []
     },
     {
@@ -124,6 +146,17 @@
       "tags": []
     },
     {
+      "id": "qoyzcp",
+      "title": "How machines learned precision",
+      "description": "Score: 189 | Comments: 64 | Posted by glinscott",
+      "url": "https://glinscott.github.io/how-machines-learned-precision/",
+      "publishedAt": "2026-10-06T16:14:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "glinscott",
+      "tags": []
+    },
+    {
       "id": "6po8op",
       "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
       "description": "Score: 360 | Comments: 36 | Posted by ilreb",
@@ -132,6 +165,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ilreb",
+      "tags": []
+    },
+    {
+      "id": "glcny8",
+      "title": "The Slow Formation of Durable Software",
+      "description": "Score: 49 | Comments: 12 | Posted by benbreen",
+      "url": "https://newsletter.dancohen.org/archive/the-slow-formation-of-durable-software/",
+      "publishedAt": "2026-10-06T15:54:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "benbreen",
       "tags": []
     },
     {
@@ -154,6 +198,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "Tomte",
+      "tags": []
+    },
+    {
+      "id": "ftue6p",
+      "title": "If somebody tries to hot-patch an already-hot-patched function",
+      "description": "Score: 64 | Comments: 30 | Posted by ibobev",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261005-00/?p=112755/",
+      "publishedAt": "2026-10-06T13:39:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
       "tags": []
     },
     {
@@ -195,6 +250,17 @@
       "description": "Score: 267 | Comments: 197 | Posted by surprisetalk",
       "url": "https://signoregalilei.com/2026/09/27/whats-earths-dominant-species-by-mass/",
       "publishedAt": "2026-10-06T12:40:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
+      "id": "h9wu8g",
+      "title": "A minimal kernel in Swift, running in QEMU",
+      "description": "Score: 95 | Comments: 18 | Posted by surprisetalk",
+      "url": "https://carette.xyz/posts/minimal_swift_kernel_on_qemu/",
+      "publishedAt": "2026-10-06T12:20:03.000Z",
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "surprisetalk",
@@ -245,6 +311,17 @@
       "tags": []
     },
     {
+      "id": "kggzaz",
+      "title": "Brownian Motion",
+      "description": "Score: 59 | Comments: 8 | Posted by signa11",
+      "url": "https://gregorygundersen.com/blog/2026/04/22/brownian-motion/",
+      "publishedAt": "2026-10-06T11:11:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "signa11",
+      "tags": []
+    },
+    {
       "id": "7bblbm",
       "title": "ASOS app users receive push notifications apparently sent by hackers",
       "description": "Score: 42 | Comments: 24 | Posted by helsinkiandrew",
@@ -275,6 +352,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ingve",
+      "tags": []
+    },
+    {
+      "id": "ha25gm",
+      "title": "New repository settings for configuring pull request access",
+      "description": "Score: 28 | Comments: 16 | Posted by Bluestein",
+      "url": "https://github.blog/changelog/2026-02-13-new-repository-settings-for-configuring-pull-request-access/",
+      "publishedAt": "2026-10-06T07:01:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Bluestein",
+      "tags": []
+    },
+    {
+      "id": "x3y8zq",
+      "title": "Wood Tape (2004)",
+      "description": "Score: 191 | Comments: 29 | Posted by NaOH",
+      "url": "http://gamesbyemail.com/WoodTape/Default.htm",
+      "publishedAt": "2026-10-06T04:25:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "NaOH",
       "tags": []
     },
     {

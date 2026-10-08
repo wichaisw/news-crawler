@@ -3,6 +3,215 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "pm068b",
+      "title": "Margaret Hamilton has died",
+      "description": "Score: 1760 | Comments: 185 | Posted by muglug",
+      "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+      "publishedAt": "2026-10-07T21:16:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "muglug",
+      "tags": []
+    },
+    {
+      "id": "7emgou",
+      "title": "'Jonathan' is the oldest land animal on Earth",
+      "description": "Score: 187 | Comments: 103 | Posted by gumby",
+      "url": "https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/",
+      "publishedAt": "2026-10-07T20:01:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gumby",
+      "tags": []
+    },
+    {
+      "id": "xkxwef",
+      "title": "The Mathocalypse",
+      "description": "Score: 288 | Comments: 303 | Posted by 6bitquant",
+      "url": "https://scottaaronson.blog/?p=10169",
+      "publishedAt": "2026-10-07T19:33:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "6bitquant",
+      "tags": []
+    },
+    {
+      "id": "maavop",
+      "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+      "description": "Score: 348 | Comments: 352 | Posted by speckx",
+      "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
+      "publishedAt": "2026-10-07T18:49:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
+      "tags": []
+    },
+    {
+      "id": "wtwb28",
+      "title": "Push ifs up and fors down: The idiom, its algebra, and its limits",
+      "description": "Score: 161 | Comments: 73 | Posted by speckx",
+      "url": "https://debasishg.github.io/blog/push-ifs-up-fors-down/",
+      "publishedAt": "2026-10-07T18:43:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
+      "tags": []
+    },
+    {
+      "id": "io0csv",
+      "title": "Claude Haiku 5.5",
+      "description": "Score: 938 | Comments: 442 | Posted by sfkgtbor",
+      "url": "https://www.anthropic.com/claude-haiku-5-5",
+      "publishedAt": "2026-10-07T18:01:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sfkgtbor",
+      "tags": []
+    },
+    {
+      "id": "pqkwmn",
+      "title": "GPT‑6 and Intelligent UI for everyone",
+      "description": "Score: 677 | Comments: 399 | Posted by joshuawright11",
+      "url": "https://openai.com/index/gpt-6-for-everyone/",
+      "publishedAt": "2026-10-07T18:00:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "joshuawright11",
+      "tags": []
+    },
+    {
+      "id": "fk3bni",
+      "title": "In Vienna and Beijing, the first (thorium) nuclear clocks begin to tick",
+      "description": "Score: 122 | Comments: 38 | Posted by gumby",
+      "url": "https://www.nytimes.com/2026/10/07/science/first-nuclear-clocks-thorium-229.html",
+      "publishedAt": "2026-10-07T17:59:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gumby",
+      "tags": []
+    },
+    {
+      "id": "5koqcj",
+      "title": "Docker Agent",
+      "description": "Score: 263 | Comments: 121 | Posted by saikatsg",
+      "url": "https://github.com/docker/docker-agent",
+      "publishedAt": "2026-10-07T17:48:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "saikatsg",
+      "tags": []
+    },
+    {
+      "id": "5mc22",
+      "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
+      "description": "Score: 561 | Comments: 143 | Posted by SpeakingOfBrad",
+      "url": "https://bigwords.page/",
+      "publishedAt": "2026-10-07T15:44:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "SpeakingOfBrad",
+      "tags": []
+    },
+    {
+      "id": "qz9x0x",
+      "title": "Navier–Stokes Lost in Translation",
+      "description": "Score: 323 | Comments: 196 | Posted by nill0",
+      "url": "https://arxiv.org/abs/2610.08144",
+      "publishedAt": "2026-10-07T15:24:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nill0",
+      "tags": []
+    },
+    {
+      "id": "sjnyoy",
+      "title": "Visa, Mastercard, major banks facing new litigation over 'anticompetitive' fees",
+      "description": "Score: 559 | Comments: 413 | Posted by DeepLogin",
+      "url": "https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees",
+      "publishedAt": "2026-10-07T15:09:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "DeepLogin",
+      "tags": []
+    },
+    {
+      "id": "5oshr6",
+      "title": "Why were Victorian elites so effective?",
+      "description": "Score: 186 | Comments: 312 | Posted by karakoram",
+      "url": "https://worksinprogress.co/issue/the-seven-vices-of-highly-effective-victorians/",
+      "publishedAt": "2026-10-07T15:09:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "karakoram",
+      "tags": []
+    },
+    {
+      "id": "japzxt",
+      "title": "Animated ASCII Art for Web Pages",
+      "description": "Score: 390 | Comments: 69 | Posted by turrini",
+      "url": "https://ascii.rest/",
+      "publishedAt": "2026-10-07T15:05:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "turrini",
+      "tags": []
+    },
+    {
+      "id": "b4o0no",
+      "title": "SynthID Detector",
+      "description": "Score: 119 | Comments: 95 | Posted by ilreb",
+      "url": "https://synthid.com/",
+      "publishedAt": "2026-10-07T14:16:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ilreb",
+      "tags": []
+    },
+    {
+      "id": "3futt3",
+      "title": "AI-assisted proof of optimal packing for 11 squares",
+      "description": "Score: 116 | Comments: 53 | Posted by bluepeter",
+      "url": "https://github.com/Queuingtheorydotcom/11SquaresFormalized",
+      "publishedAt": "2026-10-07T14:10:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bluepeter",
+      "tags": []
+    },
+    {
+      "id": "ik5ufv",
+      "title": "Anti-patterns in software blogging",
+      "description": "Score: 295 | Comments: 142 | Posted by ilreb",
+      "url": "https://refactoringenglish.com/blog/anti-patterns-software-blogging/",
+      "publishedAt": "2026-10-07T13:08:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ilreb",
+      "tags": []
+    },
+    {
+      "id": "w6slc5",
+      "title": "House with 15m underground tunnels for sale for 300k",
+      "description": "Score: 215 | Comments: 203 | Posted by librasteve",
+      "url": "https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/",
+      "publishedAt": "2026-10-07T12:57:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "librasteve",
+      "tags": []
+    },
+    {
+      "id": "qo8qtl",
+      "title": "Google Playground: Create and play custom games",
+      "description": "Score: 150 | Comments: 226 | Posted by acossta",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+      "publishedAt": "2026-10-07T12:28:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "acossta",
+      "tags": []
+    },
+    {
       "id": "j05w60",
       "title": "Write Like It's 1866: LLMs Relearn Telegraphese",
       "description": "Score: 10 | Comments: 3 | Posted by Theory42",
@@ -22,6 +231,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "AshleysBrain",
+      "tags": []
+    },
+    {
+      "id": "mvtugz",
+      "title": "God of War on PSP, recompiled to WebAssembly and running in the browser",
+      "description": "Score: 206 | Comments: 106 | Posted by sn001",
+      "url": "https://github.com/snuri00/psp-web-recomp",
+      "publishedAt": "2026-10-07T11:27:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sn001",
       "tags": []
     },
     {

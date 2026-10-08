@@ -1,0 +1,127 @@
+{
+  "date": "2026-10-08",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "ka29rp",
+      "title": "Telnet BBS Guide",
+      "description": "Score: 9 | Comments: 0 | Posted by kmstout",
+      "url": "https://www.telnetbbsguide.com/",
+      "publishedAt": "2026-10-08T12:28:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kmstout",
+      "tags": []
+    },
+    {
+      "id": "qylb74",
+      "title": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities",
+      "description": "Score: 35 | Comments: 10 | Posted by stared",
+      "url": "https://quesma.com/blog/invisible-cities-one-shot/",
+      "publishedAt": "2026-10-08T12:00:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "stared",
+      "tags": []
+    },
+    {
+      "id": "95593s",
+      "title": "Anne Carson wins Nobel Prize in literature 2026",
+      "description": "Score: 23 | Comments: 2 | Posted by sonabinu",
+      "url": "https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026",
+      "publishedAt": "2026-10-08T11:58:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sonabinu",
+      "tags": []
+    },
+    {
+      "id": "dolveh",
+      "title": "The OLED Burn-In Test: 30-Month Update",
+      "description": "Score: 13 | Comments: 1 | Posted by baal80spam",
+      "url": "https://www.techspot.com/article/3178-oled-burn-in-test/",
+      "publishedAt": "2026-10-08T10:34:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "baal80spam",
+      "tags": []
+    },
+    {
+      "id": "qvcuew",
+      "title": "AHM Statement on OpenAI's October 6 Release of Mathematical Documents",
+      "description": "Score: 13 | Comments: 6 | Posted by kkoncevicius",
+      "url": "https://www.ahmath.org/statements",
+      "publishedAt": "2026-10-08T09:29:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kkoncevicius",
+      "tags": []
+    },
+    {
+      "id": "6d4e3t",
+      "title": "OpenAI Withdraws 3 Math Papers",
+      "description": "Score: 95 | Comments: 70 | Posted by theemathas",
+      "url": "https://github.com/openai/math/blob/main/history.md",
+      "publishedAt": "2026-10-08T08:08:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "theemathas",
+      "tags": []
+    },
+    {
+      "id": "wnlo1u",
+      "title": "Dat-ecosystem: high level applications built on top of P2P protocols",
+      "description": "Score: 24 | Comments: 12 | Posted by janandonly",
+      "url": "https://dat-ecosystem.org/",
+      "publishedAt": "2026-10-08T06:43:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "janandonly",
+      "tags": []
+    },
+    {
+      "id": "yw4fzx",
+      "title": "Classic PC demoscene productions running natively in the browser",
+      "description": "Score: 107 | Comments: 93 | Posted by adunk",
+      "url": "https://treylorswift.github.io/demoscene-recomp/web/",
+      "publishedAt": "2026-10-08T06:29:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "adunk",
+      "tags": []
+    },
+    {
+      "id": "rn9d8c",
+      "title": "Will AI kill us all",
+      "description": "Score: 13 | Comments: 15 | Posted by krenerd",
+      "url": "https://virev.ai/blog/will-ai-kill-us-all",
+      "publishedAt": "2026-10-08T06:09:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "krenerd",
+      "tags": []
+    },
+    {
+      "id": "yfm0d5",
+      "title": "“Math 2.0” will need to value mathematical progress more holistically",
+      "description": "Score: 399 | Comments: 389 | Posted by ent101",
+      "url": "https://mathstodon.xyz/@tao/117395269325940185",
+      "publishedAt": "2026-10-08T05:14:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ent101",
+      "tags": []
+    },
+    {
+      "id": "8737n4",
+      "title": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
+      "description": "Score: 82 | Comments: 156 | Posted by jcbhmr",
+      "url": "https://github.com/pingdotgg/ts-rust",
+      "publishedAt": "2026-10-08T00:46:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jcbhmr",
+      "tags": []
+    }
+  ]
+}
