@@ -1,0 +1,193 @@
+{
+  "date": "2026-10-09",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "opxgex",
+      "title": "The Hetzner Cloud network stack – history and technical overview",
+      "description": "Score: 6 | Comments: 0 | Posted by cnkk",
+      "url": "https://www.hetzner.com/blog/the-hetzner-cloud-network-stack-history-and-technical-overview/",
+      "publishedAt": "2026-10-09T12:20:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cnkk",
+      "tags": []
+    },
+    {
+      "id": "sstvsv",
+      "title": "Let your AI agents paint big arrows, boxes and text on your screengithub.com/franzenzenhofer",
+      "description": "Score: 106 | Comments: 36 | Posted by franze",
+      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+      "publishedAt": "2026-10-09T11:47:24.443Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "franze",
+      "tags": []
+    },
+    {
+      "id": "hme9pb",
+      "title": "Hucked and Shucked: The hidden costs of turning America's corn crop into fuel",
+      "description": "Score: 7 | Comments: 2 | Posted by dnetesn",
+      "url": "https://worldsensorium.com/hucked-and-shucked/",
+      "publishedAt": "2026-10-09T11:42:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dnetesn",
+      "tags": []
+    },
+    {
+      "id": "9njsz3",
+      "title": "US proposes $100k charge for international students to do post-graduate work",
+      "description": "Score: 15 | Comments: 8 | Posted by bluenose69",
+      "url": "https://www.nature.com/articles/d41586-026-02921-7",
+      "publishedAt": "2026-10-09T11:40:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bluenose69",
+      "tags": []
+    },
+    {
+      "id": "sstvsv",
+      "title": "Let your AI agents paint big arrows, boxes and text on your screen",
+      "description": "Score: 110 | Comments: 37 | Posted by franze",
+      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+      "publishedAt": "2026-10-09T11:03:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "franze",
+      "tags": []
+    },
+    {
+      "id": "cft6t5",
+      "title": "Nobel Peace Prize for 2026 to Navanethem \"NAVI\" Pillaynobelprize.org",
+      "description": "Score: 146 | Comments: 67 | Posted by Anon84",
+      "url": "https://www.nobelprize.org/prizes/peace/2026/press-release/",
+      "publishedAt": "2026-10-09T10:47:24.443Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Anon84",
+      "tags": []
+    },
+    {
+      "id": "cft6t5",
+      "title": "Nobel Peace Prize for 2026 to Navanethem \"NAVI\" Pillay",
+      "description": "Score: 147 | Comments: 67 | Posted by Anon84",
+      "url": "https://www.nobelprize.org/prizes/peace/2026/press-release/",
+      "publishedAt": "2026-10-09T10:12:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Anon84",
+      "tags": []
+    },
+    {
+      "id": "1ykj5k",
+      "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
+      "description": "Score: 64 | Comments: 29 | Posted by trakkstar",
+      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "publishedAt": "2026-10-09T10:00:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "trakkstar",
+      "tags": []
+    },
+    {
+      "id": "p6bd56",
+      "title": "Once: Cache CLI Commands",
+      "description": "Score: 19 | Comments: 8 | Posted by baquero",
+      "url": "https://github.com/alex0ptr/once",
+      "publishedAt": "2026-10-09T09:43:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "baquero",
+      "tags": []
+    },
+    {
+      "id": "butzsv",
+      "title": "I'm in a Meeting",
+      "description": "Score: 96 | Comments: 34 | Posted by splintersio",
+      "url": "https://iminafleeting.com/",
+      "publishedAt": "2026-10-09T09:21:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "splintersio",
+      "tags": []
+    },
+    {
+      "id": "ij3pdh",
+      "title": "OTel-Native by Design – Building Products That Export to Any Observability Stack",
+      "description": "Score: 53 | Comments: 11 | Posted by dhruv_ahuja",
+      "url": "https://opentelemetry.io/blog/2026/otel-native-by-design/",
+      "publishedAt": "2026-10-09T06:54:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dhruv_ahuja",
+      "tags": []
+    },
+    {
+      "id": "fmzbev",
+      "title": "Show HN: OldRoll, a free vintage photo editor for the browser",
+      "description": "Score: 11 | Comments: 2 | Posted by awa11",
+      "url": "https://www.oldroll.io/",
+      "publishedAt": "2026-10-09T06:40:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "awa11",
+      "tags": []
+    },
+    {
+      "id": "biaodp",
+      "title": "MXC - a sandboxed code execution system",
+      "description": "Score: 70 | Comments: 36 | Posted by nreece",
+      "url": "https://github.com/microsoft/mxc",
+      "publishedAt": "2026-10-09T05:51:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nreece",
+      "tags": []
+    },
+    {
+      "id": "1bmjly",
+      "title": "Show HN: Quake ported to safe Rust, playable in browser",
+      "description": "Score: 186 | Comments: 147 | Posted by ilreb",
+      "url": "https://quake-srp.pages.dev/",
+      "publishedAt": "2026-10-09T05:22:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ilreb",
+      "tags": []
+    },
+    {
+      "id": "r6srj3",
+      "title": "Keyboard differences between Windows and Macs",
+      "description": "Score: 191 | Comments: 166 | Posted by sohkamyung",
+      "url": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
+      "publishedAt": "2026-10-09T03:08:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sohkamyung",
+      "tags": []
+    },
+    {
+      "id": "98d4z0",
+      "title": "What should we tell our students?",
+      "description": "Score: 130 | Comments: 186 | Posted by sajid",
+      "url": "https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/",
+      "publishedAt": "2026-10-09T02:27:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sajid",
+      "tags": []
+    },
+    {
+      "id": "kt2os8",
+      "title": "Reducing undefined behavior in the C language",
+      "description": "Score: 120 | Comments: 130 | Posted by signa11",
+      "url": "https://lwn.net/Articles/1095811/",
+      "publishedAt": "2026-10-09T02:02:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "signa11",
+      "tags": []
+    }
+  ]
+}

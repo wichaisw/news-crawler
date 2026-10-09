@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "r4urxs",
+      "title": "Archaeologists Are Reconstructing the 'Invisible' Technologies of the Stone Age",
+      "description": "Score: 138 | Comments: 55 | Posted by Hooke",
+      "url": "https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/",
+      "publishedAt": "2026-10-07T21:25:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Hooke",
+      "tags": []
+    },
+    {
       "id": "pm068b",
       "title": "Margaret Hamilton has died",
       "description": "Score: 1760 | Comments: 185 | Posted by muglug",
@@ -58,6 +69,17 @@
       "tags": []
     },
     {
+      "id": "axflkr",
+      "title": "A 5.3M-year-old deep-sea whale necropolis in the Diamantina Zone",
+      "description": "Score: 140 | Comments: 14 | Posted by bryanrasmussen",
+      "url": "https://www.nature.com/articles/s41586-026-10546-z",
+      "publishedAt": "2026-10-07T18:14:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bryanrasmussen",
+      "tags": []
+    },
+    {
       "id": "io0csv",
       "title": "Claude Haiku 5.5",
       "description": "Score: 938 | Comments: 442 | Posted by sfkgtbor",
@@ -99,6 +121,39 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "saikatsg",
+      "tags": []
+    },
+    {
+      "id": "21rxgq",
+      "title": "DuckDB Ducklake",
+      "description": "Score: 194 | Comments: 23 | Posted by saikatsg",
+      "url": "https://github.com/duckdb/ducklake",
+      "publishedAt": "2026-10-07T17:40:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "saikatsg",
+      "tags": []
+    },
+    {
+      "id": "9kigs1",
+      "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
+      "description": "Score: 764 | Comments: 474 | Posted by ck2",
+      "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
+      "publishedAt": "2026-10-07T16:56:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ck2",
+      "tags": []
+    },
+    {
+      "id": "hts20j",
+      "title": "The dawn of the age of the exoskeleton",
+      "description": "Score: 80 | Comments: 43 | Posted by speckx",
+      "url": "https://theconversation.com/the-dawn-of-the-age-of-the-exoskeleton-281804",
+      "publishedAt": "2026-10-07T15:59:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
       "tags": []
     },
     {
@@ -176,6 +231,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "bluepeter",
+      "tags": []
+    },
+    {
+      "id": "9afnxy",
+      "title": "ETH-68: Ethernet Audio Interface for Linux",
+      "description": "Score: 177 | Comments: 103 | Posted by chabad360",
+      "url": "https://naturalsystems.io/eth68",
+      "publishedAt": "2026-10-07T13:58:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "chabad360",
       "tags": []
     },
     {
@@ -407,6 +473,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "gmays",
+      "tags": []
+    },
+    {
+      "id": "21lbmg",
+      "title": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
+      "description": "Score: 714 | Comments: 140 | Posted by soheilpro",
+      "url": "https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my",
+      "publishedAt": "2026-10-07T01:41:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "soheilpro",
       "tags": []
     },
     {

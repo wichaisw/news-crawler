@@ -3,6 +3,182 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "oukrcd",
+      "title": "OpenAI, the Partition Principle, and Mathematics",
+      "description": "Score: 141 | Comments: 219 | Posted by md224",
+      "url": "https://karagila.org/2026/openai-pp/",
+      "publishedAt": "2026-10-08T23:29:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "md224",
+      "tags": []
+    },
+    {
+      "id": "vyfz7p",
+      "title": "Bevy 0.20",
+      "description": "Score: 202 | Comments: 45 | Posted by Philpax",
+      "url": "https://bevy.org/news/bevy-0-20/",
+      "publishedAt": "2026-10-08T22:57:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Philpax",
+      "tags": []
+    },
+    {
+      "id": "42zzmo",
+      "title": "AI-ready biological data: $1.8B global commitment",
+      "description": "Score: 133 | Comments: 19 | Posted by ray__",
+      "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
+      "publishedAt": "2026-10-08T20:46:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ray__",
+      "tags": []
+    },
+    {
+      "id": "ennwv2",
+      "title": "ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)",
+      "description": "Score: 339 | Comments: 215 | Posted by bookofjoe",
+      "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full",
+      "publishedAt": "2026-10-08T20:42:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bookofjoe",
+      "tags": []
+    },
+    {
+      "id": "dmnc11",
+      "title": "The value of not getting to the point (2015)",
+      "description": "Score: 187 | Comments: 64 | Posted by NaOH",
+      "url": "https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/",
+      "publishedAt": "2026-10-08T19:04:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "NaOH",
+      "tags": []
+    },
+    {
+      "id": "tia3e5",
+      "title": "Theranos.world",
+      "description": "Score: 481 | Comments: 168 | Posted by kbyatnal",
+      "url": "https://www.theranos.world/",
+      "publishedAt": "2026-10-08T17:51:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kbyatnal",
+      "tags": []
+    },
+    {
+      "id": "c1qjzb",
+      "title": "Scaling and benchmarking a critical message bus using a new indexing strategy",
+      "description": "Score: 47 | Comments: 4 | Posted by eatonphil",
+      "url": "https://blog.janestreet.com/scaling-and-benchmarking-a-critical-message-bus/",
+      "publishedAt": "2026-10-08T17:39:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "eatonphil",
+      "tags": []
+    },
+    {
+      "id": "w2pwoq",
+      "title": "Whistle: Speech to Text in 16.9 MB",
+      "description": "Score: 810 | Comments: 163 | Posted by gmays",
+      "url": "https://cactuscompute.com/blog/whistle",
+      "publishedAt": "2026-10-08T16:59:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gmays",
+      "tags": []
+    },
+    {
+      "id": "iomqk4",
+      "title": "Show HN: Making a flexible \"neon\" t-shirt with LED filaments",
+      "description": "Score: 184 | Comments: 32 | Posted by scottbez1",
+      "url": "http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html",
+      "publishedAt": "2026-10-08T16:37:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "scottbez1",
+      "tags": []
+    },
+    {
+      "id": "lo8sqi",
+      "title": "Show HN: Jevman – AI decision models play Pac-Man",
+      "description": "Score: 65 | Comments: 16 | Posted by felix089",
+      "url": "https://opper.ai/jevman-benchmark/",
+      "publishedAt": "2026-10-08T16:34:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "felix089",
+      "tags": []
+    },
+    {
+      "id": "mr0zq",
+      "title": "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter",
+      "description": "Score: 133 | Comments: 32 | Posted by AnneWodell",
+      "url": "https://openrouter.ai/stepfun/step-5-preview",
+      "publishedAt": "2026-10-08T16:20:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "AnneWodell",
+      "tags": []
+    },
+    {
+      "id": "wv4pso",
+      "title": "New gTLD Application for .lan",
+      "description": "Score: 130 | Comments: 149 | Posted by mzajc",
+      "url": "https://newgtldprogram-aps.icann.org/applications/CD2694T-T26351/summary",
+      "publishedAt": "2026-10-08T15:51:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mzajc",
+      "tags": []
+    },
+    {
+      "id": "35zd44",
+      "title": "Trump administration is suspending Microsoft from a green card program",
+      "description": "Score: 887 | Comments: 1506 | Posted by alephnerd",
+      "url": "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea",
+      "publishedAt": "2026-10-08T15:15:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "alephnerd",
+      "tags": []
+    },
+    {
+      "id": "z2y1p8",
+      "title": "Orkut.com",
+      "description": "Score: 201 | Comments: 147 | Posted by andreynering",
+      "url": "https://orkut.com/",
+      "publishedAt": "2026-10-08T14:09:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andreynering",
+      "tags": []
+    },
+    {
+      "id": "ooz39e",
+      "title": "Sub-1-Bit LLM Compression via Latent Factorization",
+      "description": "Score: 86 | Comments: 24 | Posted by brainless",
+      "url": "https://github.com/SamsungLabs/LittleBit",
+      "publishedAt": "2026-10-08T13:29:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "brainless",
+      "tags": []
+    },
+    {
+      "id": "sqkd27",
+      "title": "Beauty in DVD Menus",
+      "description": "Score: 316 | Comments: 167 | Posted by speckx",
+      "url": "https://vale.rocks/posts/dvd-menus",
+      "publishedAt": "2026-10-08T13:22:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
+      "tags": []
+    },
+    {
       "id": "ka29rp",
       "title": "Telnet BBS Guide",
       "description": "Score: 9 | Comments: 0 | Posted by kmstout",
@@ -47,6 +223,17 @@
       "tags": []
     },
     {
+      "id": "rjnquc",
+      "title": "Yes, and",
+      "description": "Score: 523 | Comments: 181 | Posted by Michelangelo11",
+      "url": "https://htmx.org/essays/yes-and/",
+      "publishedAt": "2026-10-08T09:48:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Michelangelo11",
+      "tags": []
+    },
+    {
       "id": "qvcuew",
       "title": "AHM Statement on OpenAI's October 6 Release of Mathematical Documents",
       "description": "Score: 13 | Comments: 6 | Posted by kkoncevicius",
@@ -66,6 +253,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "theemathas",
+      "tags": []
+    },
+    {
+      "id": "4xv12q",
+      "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
+      "description": "Score: 212 | Comments: 100 | Posted by pyduan",
+      "url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
+      "publishedAt": "2026-10-08T07:07:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pyduan",
+      "tags": []
+    },
+    {
+      "id": "9n3p29",
+      "title": "OpenAI withdraws three mathematical results",
+      "description": "Score: 334 | Comments: 584 | Posted by sashank_1509",
+      "url": "https://twitter.com/danintheory/status/2108065033070789090",
+      "publishedAt": "2026-10-08T07:05:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sashank_1509",
       "tags": []
     },
     {
@@ -113,6 +322,17 @@
       "tags": []
     },
     {
+      "id": "kjv42v",
+      "title": "US man given prison sentence for bot-farming music streams",
+      "description": "Score: 181 | Comments: 277 | Posted by cdrnsf",
+      "url": "https://thequietus.com/news/us-man-given-prison-sentence-for-bot-farming-music-streams/",
+      "publishedAt": "2026-10-08T01:33:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cdrnsf",
+      "tags": []
+    },
+    {
       "id": "8737n4",
       "title": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
       "description": "Score: 82 | Comments: 156 | Posted by jcbhmr",
@@ -121,6 +341,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jcbhmr",
+      "tags": []
+    },
+    {
+      "id": "c0cm4g",
+      "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+      "description": "Score: 851 | Comments: 762 | Posted by jonotime",
+      "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
+      "publishedAt": "2026-10-08T00:14:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jonotime",
       "tags": []
     }
   ]
