@@ -1,0 +1,105 @@
+{
+  "date": "2026-10-10",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "k88c5",
+      "title": "Apple/macOS silently removed from official Unix registry",
+      "description": "Score: 18 | Comments: 5 | Posted by john_alan",
+      "url": "https://www.opengroup.org//openbrand/register/",
+      "publishedAt": "2026-10-10T10:57:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "john_alan",
+      "tags": []
+    },
+    {
+      "id": "29pyli",
+      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+      "description": "Score: 32 | Comments: 11 | Posted by rociiu",
+      "url": "https://github.com/rociiu/talorys",
+      "publishedAt": "2026-10-10T10:52:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rociiu",
+      "tags": []
+    },
+    {
+      "id": "if4xs3",
+      "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+      "description": "Score: 10 | Comments: 3 | Posted by vinni2",
+      "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo",
+      "publishedAt": "2026-10-10T10:23:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vinni2",
+      "tags": []
+    },
+    {
+      "id": "xeky86",
+      "title": "`123456' password used in Danish CPR data breach",
+      "description": "Score: 132 | Comments: 82 | Posted by baal80spam",
+      "url": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
+      "publishedAt": "2026-10-10T09:51:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "baal80spam",
+      "tags": []
+    },
+    {
+      "id": "d7aw46",
+      "title": "Computers Cannot Make Decisions",
+      "description": "Score: 118 | Comments: 99 | Posted by heavensteeth",
+      "url": "https://wiki.cateat.fish/art:computers_cannot_make_decisions",
+      "publishedAt": "2026-10-10T05:47:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "heavensteeth",
+      "tags": []
+    },
+    {
+      "id": "gsgrtq",
+      "title": "Food processing influences metabolism and brain activity",
+      "description": "Score: 56 | Comments: 42 | Posted by gmays",
+      "url": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
+      "publishedAt": "2026-10-10T05:22:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gmays",
+      "tags": []
+    },
+    {
+      "id": "4fi6qm",
+      "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
+      "description": "Score: 212 | Comments: 103 | Posted by g-b-r",
+      "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
+      "publishedAt": "2026-10-10T03:02:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "g-b-r",
+      "tags": []
+    },
+    {
+      "id": "cokobh",
+      "title": "Put a price on breakthroughs",
+      "description": "Score: 21 | Comments: 6 | Posted by ketothekingdom",
+      "url": "https://alexwang.ai/posts/put-a-price-on-breakthroughs/",
+      "publishedAt": "2026-10-10T02:37:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ketothekingdom",
+      "tags": []
+    },
+    {
+      "id": "8umfqb",
+      "title": "REA Reverse – Engineer Anything",
+      "description": "Score: 472 | Comments: 189 | Posted by modinfo",
+      "url": "https://rea.tools/",
+      "publishedAt": "2026-10-10T00:37:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "modinfo",
+      "tags": []
+    }
+  ]
+}

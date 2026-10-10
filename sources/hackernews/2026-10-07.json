@@ -25,6 +25,17 @@
       "tags": []
     },
     {
+      "id": "gorvs7",
+      "title": "WSL3 Performance is about 5-60% faster than WSL2 depending on the workload",
+      "description": "Score: 76 | Comments: 48 | Posted by tonymet",
+      "url": "https://tonym.us/wsl2-vs-wsl3-benchmarks.html",
+      "publishedAt": "2026-10-07T21:06:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tonymet",
+      "tags": []
+    },
+    {
       "id": "7emgou",
       "title": "'Jonathan' is the oldest land animal on Earth",
       "description": "Score: 187 | Comments: 103 | Posted by gumby",
@@ -44,6 +55,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "6bitquant",
+      "tags": []
+    },
+    {
+      "id": "3pykdi",
+      "title": "Eye of Sauron: Long-Range Hidden Spy Camera Detection (2024)",
+      "description": "Score: 181 | Comments: 42 | Posted by ortusdux",
+      "url": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo",
+      "publishedAt": "2026-10-07T19:15:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ortusdux",
       "tags": []
     },
     {
@@ -396,6 +418,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jinqueeny",
+      "tags": []
+    },
+    {
+      "id": "jp6mt0",
+      "title": "The Alchemical Transformations of the Mutus Liber (1677)",
+      "description": "Score: 9 | Comments: 0 | Posted by benbreen",
+      "url": "https://publicdomainreview.org/collection/mutus-liber/",
+      "publishedAt": "2026-10-07T05:30:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "benbreen",
       "tags": []
     },
     {

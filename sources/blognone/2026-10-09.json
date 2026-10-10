@@ -3,6 +3,40 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "151868 at https://www.blognone.com",
+      "title": "Windows Search เขียนใหม่เป็นเนทีฟ ทำงานเร็วขึ้น, พิมพ์สั่งเปลี่ยนค่า Windows ได้",
+      "description": "Windows Search เขียนใหม่เป็นเนทีฟ ทำงานเร็วขึ้น, พิมพ์สั่งเปลี่ยนค่า Windows ได้ Body ไมโครซอฟท์ปรับปรุง Windows Search ระบบค้นหาของ Windows 11",
+      "url": "https://www.blognone.com/node/151868",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2026/2026-10/search-preview-1.webp",
+      "publishedAt": "2026-10-09T23:43:49.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151867 at https://www.blognone.com",
+      "title": "มีคนแกะ Googlebook OS มารันใน VM ได้แล้ว ตอนนี้รันได้บน Apple Silicon",
+      "description": "มีคนแกะ Googlebook OS มารันใน VM ได้แล้ว ตอนนี้รันได้บน Apple Silicon Body หลังโน้ตบุ๊กกลุ่ม Googlebook เริ่มวางขาย ก็มีคนสามารถแกะระบบปฏิบัติการ",
+      "url": "https://www.blognone.com/node/151867",
+      "publishedAt": "2026-10-09T15:08:46.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151866 at https://www.blognone.com",
+      "title": "ความเป็นเจ้าของเกม Ultima จะกลับคืนผู้สร้างเดิม Richard Garriott ในปี 2027",
+      "description": "ความเป็นเจ้าของเกม Ultima จะกลับคืนผู้สร้างเดิม Richard Garriott ในปี 2027 Body สิทธิความเป็นเจ้าของเกม RPG ซีรีส์ Ultima",
+      "url": "https://www.blognone.com/node/151866",
+      "publishedAt": "2026-10-09T12:42:06.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "151865 at https://www.blognone.com",
       "title": "Claude เพิ่มฟีเจอร์ Dashboards สร้างแดชบอร์ด และ Motion สร้างแอนิเมชัน",
       "description": "Claude เพิ่มฟีเจอร์ Dashboards สร้างแดชบอร์ด และ Motion สร้างแอนิเมชัน Body Anthropic เปิดตัวฟีเจอร์ใหม่ของ Claude ชื่อ Claude Dashboards และ Claude",
