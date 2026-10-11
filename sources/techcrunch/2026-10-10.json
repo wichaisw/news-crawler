@@ -3,6 +3,72 @@
   "source": "techcrunch",
   "articles": [
     {
+      "id": "https://techcrunch.com/?p=3176448",
+      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "description": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+      "publishedAt": "2026-10-10T21:47:51.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3176436",
+      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "description": "Is Apple hoping to get into the AI-generated podcast business?",
+      "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+      "publishedAt": "2026-10-10T19:50:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3174064",
+      "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
+      "description": "The startup says its fuel cells are super efficient and cut fuel costs during a time when the tech industry can’t get enough electricity.",
+      "url": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/",
+      "publishedAt": "2026-10-10T17:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lucas Ropek",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3176412",
+      "title": "Cloudflare acquires Deno to improve its Workers programming model",
+      "description": "Cloudflare will use this acquisition to improve its Workers programming model and platform.",
+      "url": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
+      "publishedAt": "2026-10-10T16:25:42.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3176326",
+      "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+      "description": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+",
+      "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+      "publishedAt": "2026-10-10T15:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "TechCrunch Events",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3173132",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "description": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel,",
+      "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "publishedAt": "2026-10-10T14:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lauren Forristal",
+      "tags": []
+    },
+    {
       "id": "https://techcrunch.com/?p=3176213",
       "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
       "description": "Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition.",

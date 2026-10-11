@@ -1,0 +1,160 @@
+{
+  "date": "2026-10-11",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "ksbjh",
+      "title": "I paid people to try and follow my README",
+      "description": "Score: 24 | Comments: 8 | Posted by edent",
+      "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
+      "publishedAt": "2026-10-11T11:47:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "edent",
+      "tags": []
+    },
+    {
+      "id": "rr5irw",
+      "title": "AI is creating a 'human premium' for art created by people",
+      "description": "Score: 21 | Comments: 16 | Posted by colinprince",
+      "url": "https://www.bbc.com/news/articles/c5vgjm3gk7rzo",
+      "publishedAt": "2026-10-11T11:34:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "colinprince",
+      "tags": []
+    },
+    {
+      "id": "cvsw0i",
+      "title": "Sudden drop in Cloudflare bot traffic after strike on Yandex datacentercloudflare.com",
+      "description": "Score: 172 | Comments: 50 | Posted by walrus01",
+      "url": "https://radar.cloudflare.com/bots/as13238?dateRange=7d",
+      "publishedAt": "2026-10-11T11:18:36.829Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "walrus01",
+      "tags": []
+    },
+    {
+      "id": "ldqh22",
+      "title": "Nitter: Update Oct 10th seeking funding and legal help",
+      "description": "Score: 138 | Comments: 25 | Posted by ForHackernews",
+      "url": "https://nitter.net",
+      "publishedAt": "2026-10-11T10:37:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ForHackernews",
+      "tags": []
+    },
+    {
+      "id": "zcudc",
+      "title": "\"Robot\" Is a Social Construct: Why Your Dishwasher Is Not a Robot",
+      "description": "Score: 19 | Comments: 14 | Posted by birdculture",
+      "url": "https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/",
+      "publishedAt": "2026-10-11T10:34:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "birdculture",
+      "tags": []
+    },
+    {
+      "id": "cvsw0i",
+      "title": "Sudden drop in Cloudflare bot traffic after strike on Yandex datacenter",
+      "description": "Score: 174 | Comments: 53 | Posted by walrus01",
+      "url": "https://radar.cloudflare.com/bots/as13238?dateRange=7d",
+      "publishedAt": "2026-10-11T10:27:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "walrus01",
+      "tags": []
+    },
+    {
+      "id": "lv5uns",
+      "title": "IRCv3",
+      "description": "Score: 117 | Comments: 92 | Posted by basilikum",
+      "url": "https://ircv3.net/",
+      "publishedAt": "2026-10-11T10:11:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "basilikum",
+      "tags": []
+    },
+    {
+      "id": "oim3rq",
+      "title": "Open-source version of Adobe Creative Suite, built with Rust, using AI",
+      "description": "Score: 11 | Comments: 3 | Posted by trakkstar",
+      "url": "https://petapixel.com/2026/10/07/someone-rebuilt-free-open-source-versions-of-photoshop-premiere-and-lightroom-using-ai/",
+      "publishedAt": "2026-10-11T08:53:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "trakkstar",
+      "tags": []
+    },
+    {
+      "id": "omjkz7",
+      "title": "I wish you the best in the Offline",
+      "description": "Score: 62 | Comments: 35 | Posted by birdculture",
+      "url": "https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/",
+      "publishedAt": "2026-10-11T07:53:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "birdculture",
+      "tags": []
+    },
+    {
+      "id": "kgzup8",
+      "title": "3rd Yandex Cloud Data Center Was Hit",
+      "description": "Score: 260 | Comments: 327 | Posted by defly",
+      "url": "https://status.yandex.cloud/en/incidents/2136",
+      "publishedAt": "2026-10-11T07:34:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "defly",
+      "tags": []
+    },
+    {
+      "id": "px8hc2",
+      "title": "LineageOS 24.0",
+      "description": "Score: 160 | Comments: 42 | Posted by timschumi",
+      "url": "https://lineageos.org/Changelog-32/",
+      "publishedAt": "2026-10-11T06:18:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "timschumi",
+      "tags": []
+    },
+    {
+      "id": "125wyv",
+      "title": "GameBoy on E-Paper ESP32 at 30FPS [video]",
+      "description": "Score: 111 | Comments: 30 | Posted by pizzaiolo",
+      "url": "https://www.youtube.com/watch?v=XiZmM6hwwAU",
+      "publishedAt": "2026-10-11T03:21:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pizzaiolo",
+      "tags": []
+    },
+    {
+      "id": "9u3qoa",
+      "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+      "description": "Score: 109 | Comments: 79 | Posted by davikr",
+      "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+      "publishedAt": "2026-10-11T02:02:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "davikr",
+      "tags": []
+    },
+    {
+      "id": "chljbx",
+      "title": "PSPi 6 – Raspberry Pi in a PSP",
+      "description": "Score: 105 | Comments: 10 | Posted by therepanic",
+      "url": "https://github.com/othermod/PSPi-Version-6",
+      "publishedAt": "2026-10-11T00:45:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "therepanic",
+      "tags": []
+    }
+  ]
+}

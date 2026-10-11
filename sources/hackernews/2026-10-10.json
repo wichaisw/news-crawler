@@ -3,6 +3,94 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "34m5g4",
+      "title": "Build your own decision model",
+      "description": "Score: 345 | Comments: 78 | Posted by softwaredoug",
+      "url": "https://nishtahir.com/build-your-own-decision-model/",
+      "publishedAt": "2026-10-10T22:50:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "softwaredoug",
+      "tags": []
+    },
+    {
+      "id": "oby729",
+      "title": "A city-building game in which the city would prefer you didn't",
+      "description": "Score: 389 | Comments: 129 | Posted by JumpCrisscross",
+      "url": "https://housing.over.pizza/",
+      "publishedAt": "2026-10-10T20:31:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "JumpCrisscross",
+      "tags": []
+    },
+    {
+      "id": "ixry1w",
+      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+      "description": "Score: 166 | Comments: 105 | Posted by arkj",
+      "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+      "publishedAt": "2026-10-10T18:48:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "arkj",
+      "tags": []
+    },
+    {
+      "id": "gtq1qb",
+      "title": "Why DuckDB 2.0 is faster",
+      "description": "Score: 200 | Comments: 64 | Posted by tosh",
+      "url": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
+      "publishedAt": "2026-10-10T18:08:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tosh",
+      "tags": []
+    },
+    {
+      "id": "3bp65f",
+      "title": "Knuth reward check",
+      "description": "Score: 199 | Comments: 73 | Posted by Curiositry",
+      "url": "https://www.thomas-huehn.com/knuth-reward-check/",
+      "publishedAt": "2026-10-10T15:47:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Curiositry",
+      "tags": []
+    },
+    {
+      "id": "snalvj",
+      "title": "Bitwarden Dual License Model",
+      "description": "Score: 383 | Comments: 281 | Posted by Cider9986",
+      "url": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
+      "publishedAt": "2026-10-10T14:32:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Cider9986",
+      "tags": []
+    },
+    {
+      "id": "9ar872",
+      "title": "Unikernels were hard. key word: were",
+      "description": "Score: 171 | Comments: 84 | Posted by ghuntley",
+      "url": "https://ghuntley.com/unikernels/",
+      "publishedAt": "2026-10-10T14:27:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ghuntley",
+      "tags": []
+    },
+    {
+      "id": "c3rh9g",
+      "title": "I would like the value of my home to rise, while my property taxes fall",
+      "description": "Score: 255 | Comments: 580 | Posted by colinprince",
+      "url": "https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/",
+      "publishedAt": "2026-10-10T13:29:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "colinprince",
+      "tags": []
+    },
+    {
       "id": "k88c5",
       "title": "Apple/macOS silently removed from official Unix registry",
       "description": "Score: 18 | Comments: 5 | Posted by john_alan",
@@ -36,6 +124,17 @@
       "tags": []
     },
     {
+      "id": "b93vj0",
+      "title": "When Ldaxr Doesn't Work: Exclusive Accesses and Cacheability on AArch64",
+      "description": "Score: 5 | Comments: 0 | Posted by joelsiks",
+      "url": "https://joelsiks.com/posts/aarch64-exclusive-access-cacheability/",
+      "publishedAt": "2026-10-10T09:55:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "joelsiks",
+      "tags": []
+    },
+    {
       "id": "xeky86",
       "title": "`123456' password used in Danish CPR data breach",
       "description": "Score: 132 | Comments: 82 | Posted by baal80spam",
@@ -44,6 +143,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "baal80spam",
+      "tags": []
+    },
+    {
+      "id": "zduauh",
+      "title": "Cyril Hilsum invented the flat-screen displays that hold us in thrall",
+      "description": "Score: 9 | Comments: 1 | Posted by sohkamyung",
+      "url": "https://www.economist.com/obituary/2026/10/08/cyril-hilsum-invented-the-flat-screen-displays-that-hold-us-in-thrall",
+      "publishedAt": "2026-10-10T07:25:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sohkamyung",
+      "tags": []
+    },
+    {
+      "id": "v3x59q",
+      "title": "Rat's Register Allocator",
+      "description": "Score: 18 | Comments: 1 | Posted by mpweiher",
+      "url": "https://hexrat.cc/pages/blog/2026_10_07",
+      "publishedAt": "2026-10-10T07:10:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mpweiher",
       "tags": []
     },
     {
@@ -69,6 +190,17 @@
       "tags": []
     },
     {
+      "id": "i9m5jl",
+      "title": "The Lightbulb Computer",
+      "description": "Score: 467 | Comments: 69 | Posted by oskarth",
+      "url": "https://lightbulbcomputer.com/",
+      "publishedAt": "2026-10-10T04:12:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "oskarth",
+      "tags": []
+    },
+    {
       "id": "4fi6qm",
       "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
       "description": "Score: 212 | Comments: 103 | Posted by g-b-r",
@@ -88,6 +220,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ketothekingdom",
+      "tags": []
+    },
+    {
+      "id": "wxzfhp",
+      "title": "Decade-old RAM is making a comeback",
+      "description": "Score: 90 | Comments: 87 | Posted by 1potato",
+      "url": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
+      "publishedAt": "2026-10-10T01:37:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "1potato",
       "tags": []
     },
     {

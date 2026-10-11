@@ -80,6 +80,17 @@
       "tags": []
     },
     {
+      "id": "a8brch",
+      "title": "Deterministic Simulation Testing in Celld",
+      "description": "Score: 26 | Comments: 2 | Posted by handfuloflight",
+      "url": "https://celld.dev/docs/engineering/deterministic-simulation-testing/",
+      "publishedAt": "2026-10-09T18:31:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "handfuloflight",
+      "tags": []
+    },
+    {
       "id": "i8slaa",
       "title": "M7.6 Earthquake in Panama",
       "description": "Score: 153 | Comments: 38 | Posted by gslin",
@@ -99,6 +110,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "simplyalec",
+      "tags": []
+    },
+    {
+      "id": "fv2tn0",
+      "title": "Rampart: Browser native on-device PII radaction",
+      "description": "Score: 87 | Comments: 33 | Posted by nateb2022",
+      "url": "https://ndstudio.gov/posts/say-hello-to-rampart",
+      "publishedAt": "2026-10-09T17:52:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nateb2022",
       "tags": []
     },
     {
@@ -157,6 +179,17 @@
       "tags": []
     },
     {
+      "id": "xpvt2x",
+      "title": "Five months treating bugs like patients and coding agents like a medical team",
+      "description": "Score: 151 | Comments: 62 | Posted by rafiss",
+      "url": "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/",
+      "publishedAt": "2026-10-09T15:26:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rafiss",
+      "tags": []
+    },
+    {
       "id": "n9c83j",
       "title": "Germany transforms former coal mines into Europe's largest lake landscape",
       "description": "Score: 203 | Comments: 115 | Posted by ohjeez",
@@ -176,6 +209,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jsomers",
+      "tags": []
+    },
+    {
+      "id": "tzgwxa",
+      "title": "Getting old Macromedia Director Games to run on modern Hardware",
+      "description": "Score: 79 | Comments: 15 | Posted by speckx",
+      "url": "https://werwolv.net/posts/macromedia_copy_protection/",
+      "publishedAt": "2026-10-09T14:18:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
       "tags": []
     },
     {
@@ -344,11 +388,33 @@
       "tags": []
     },
     {
+      "id": "4rf9dz",
+      "title": "How big is a Git commit?",
+      "description": "Score: 47 | Comments: 21 | Posted by theanonymousone",
+      "url": "https://ratfactor.com/cards/git-commit-size",
+      "publishedAt": "2026-10-09T08:13:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "theanonymousone",
+      "tags": []
+    },
+    {
       "id": "lyufie",
       "title": "Programming Isn't Special",
       "description": "Score: 227 | Comments: 243 | Posted by ingve",
       "url": "https://blog.glyph.im/2026/10/programming-isnt-special.html",
       "publishedAt": "2026-10-09T07:44:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingve",
+      "tags": []
+    },
+    {
+      "id": "tb5esv",
+      "title": "Nix wrote half of my debugger",
+      "description": "Score: 205 | Comments: 49 | Posted by ingve",
+      "url": "https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger",
+      "publishedAt": "2026-10-09T07:29:08.000Z",
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ingve",
@@ -363,6 +429,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "dhruv_ahuja",
+      "tags": []
+    },
+    {
+      "id": "z2k1hu",
+      "title": "Mxc: Microsoft Execution Containers version 1.0.0",
+      "description": "Score: 197 | Comments: 58 | Posted by smokel",
+      "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
+      "publishedAt": "2026-10-09T06:52:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "smokel",
       "tags": []
     },
     {
@@ -396,6 +473,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ilreb",
+      "tags": []
+    },
+    {
+      "id": "8y619i",
+      "title": "Show HN: Happy Hangul Day! An RNN for Generating Korean Handwriting Strokes",
+      "description": "Score: 56 | Comments: 10 | Posted by jbaudanza",
+      "url": "https://hangul.ink/blog/hangul-day",
+      "publishedAt": "2026-10-09T03:58:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jbaudanza",
       "tags": []
     },
     {
