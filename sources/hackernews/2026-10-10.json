@@ -14,6 +14,17 @@
       "tags": []
     },
     {
+      "id": "8nybsr",
+      "title": "Secret of Orange Cats Revealed After 60-Year Search",
+      "description": "Score: 88 | Comments: 61 | Posted by bookofjoe",
+      "url": "https://www.sciencealert.com/secret-of-orange-cats-finally-revealed-after-60-year-search",
+      "publishedAt": "2026-10-10T22:10:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bookofjoe",
+      "tags": []
+    },
+    {
       "id": "oby729",
       "title": "A city-building game in which the city would prefer you didn't",
       "description": "Score: 389 | Comments: 129 | Posted by JumpCrisscross",
@@ -22,6 +33,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "JumpCrisscross",
+      "tags": []
+    },
+    {
+      "id": "q5fxty",
+      "title": "The Making Of Super Mario 64 – full Giles Goddard interview (2001)",
+      "description": "Score: 77 | Comments: 26 | Posted by gregsadetsky",
+      "url": "https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/",
+      "publishedAt": "2026-10-10T19:28:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gregsadetsky",
       "tags": []
     },
     {
@@ -44,6 +66,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "tosh",
+      "tags": []
+    },
+    {
+      "id": "ucxkk3",
+      "title": "Bag of Decisions Reranker",
+      "description": "Score: 37 | Comments: 2 | Posted by zdw",
+      "url": "https://softwaredoug.com/blog/2026/10/08/bag-of-decisions.html",
+      "publishedAt": "2026-10-10T17:12:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "h1vxd3",
+      "title": "Calculus with Julia",
+      "description": "Score: 185 | Comments: 29 | Posted by subset",
+      "url": "https://jverzani.github.io/CalculusWithJuliaNotes.jl/",
+      "publishedAt": "2026-10-10T15:59:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "subset",
       "tags": []
     },
     {
@@ -242,6 +286,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "modinfo",
+      "tags": []
+    },
+    {
+      "id": "4t9g1x",
+      "title": "A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis",
+      "description": "Score: 77 | Comments: 39 | Posted by pseudolus",
+      "url": "https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/",
+      "publishedAt": "2026-10-10T00:34:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pseudolus",
       "tags": []
     }
   ]

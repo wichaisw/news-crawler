@@ -1,0 +1,226 @@
+{
+  "date": "2026-10-12",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "gfvyn",
+      "title": "\"Just Ask Claude\" Is a Rare and Valuable Skill",
+      "description": "Score: 17 | Comments: 14 | Posted by surprisetalk",
+      "url": "https://justismills.substack.com/p/just-ask-claude-is-a-rare-and-valuable",
+      "publishedAt": "2026-10-12T13:20:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
+      "id": "232otj",
+      "title": "Parsing JSON at gigabytes per second in Python",
+      "description": "Score: 4 | Comments: 0 | Posted by smilelamp",
+      "url": "https://lemire.me/blog/2026/10/12/parsing-json-at-tens-of-gigabytes-per-second-in-python/",
+      "publishedAt": "2026-10-12T13:08:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "smilelamp",
+      "tags": []
+    },
+    {
+      "id": "wuo9ww",
+      "title": "AI less regulated than milk, Microsoft president says in warning over safety",
+      "description": "Score: 10 | Comments: 4 | Posted by nephihaha",
+      "url": "https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules",
+      "publishedAt": "2026-10-12T12:46:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nephihaha",
+      "tags": []
+    },
+    {
+      "id": "wqrat0",
+      "title": "Incident with Actions, Pull Requests and Issuesgithubstatus.com",
+      "description": "Score: 56 | Comments: 37 | Posted by dkpk",
+      "url": "https://www.githubstatus.com/incidents/93njd414rpbx",
+      "publishedAt": "2026-10-12T12:44:27.333Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dkpk",
+      "tags": []
+    },
+    {
+      "id": "wqrat0",
+      "title": "Incident with Actions, Pull Requests and Issues",
+      "description": "Score: 56 | Comments: 37 | Posted by dkpk",
+      "url": "https://www.githubstatus.com/incidents/93njd414rpbx",
+      "publishedAt": "2026-10-12T12:23:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dkpk",
+      "tags": []
+    },
+    {
+      "id": "vwyxon",
+      "title": "Citroen revives the 2CV for an electric age",
+      "description": "Score: 83 | Comments: 89 | Posted by scrlk",
+      "url": "https://www.bbc.co.uk/news/articles/c620r33plgppo",
+      "publishedAt": "2026-10-12T12:09:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "scrlk",
+      "tags": []
+    },
+    {
+      "id": "q5fxty",
+      "title": "The Making Of Super Mario 64 – full Giles Goddard interview (2001)pixelatron.com",
+      "description": "Score: 77 | Comments: 26 | Posted by gregsadetsky",
+      "url": "https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/",
+      "publishedAt": "2026-10-12T11:44:27.334Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gregsadetsky",
+      "tags": []
+    },
+    {
+      "id": "3t0w3j",
+      "title": "QGIS bans AI assisted contributions",
+      "description": "Score: 243 | Comments: 251 | Posted by bwnkl",
+      "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+      "publishedAt": "2026-10-12T11:22:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bwnkl",
+      "tags": []
+    },
+    {
+      "id": "nc0cz5",
+      "title": "Deloitte falsified documents to evade tax on Abramovich's wealth",
+      "description": "Score: 463 | Comments: 153 | Posted by Betelbuddy",
+      "url": "https://www.bbc.com/news/articles/c64g1l5389kvo",
+      "publishedAt": "2026-10-12T10:21:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Betelbuddy",
+      "tags": []
+    },
+    {
+      "id": "aj6ejk",
+      "title": "A decade after Stardew Valley, Eric Barone is still going it alone",
+      "description": "Score: 36 | Comments: 5 | Posted by HelloUsername",
+      "url": "https://www.gq-magazine.co.uk/article/a-decade-after-stardew-valley-eric-barone-is-still-going-it-alone",
+      "publishedAt": "2026-10-12T09:37:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "HelloUsername",
+      "tags": []
+    },
+    {
+      "id": "rgolyk",
+      "title": "Zod 4.6.6 compromised by malware?",
+      "description": "Score: 166 | Comments: 47 | Posted by luggage_bazooka",
+      "url": "https://github.com/colinhacks/zod/commit/d821685ea6732436fcdf786a81d076958471e467",
+      "publishedAt": "2026-10-12T07:47:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "luggage_bazooka",
+      "tags": []
+    },
+    {
+      "id": "40qv17",
+      "title": "I Found a $90k Remote Code Execution Vulnerability in Google",
+      "description": "Score: 13 | Comments: 4 | Posted by soeckly",
+      "url": "https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce",
+      "publishedAt": "2026-10-12T07:28:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "soeckly",
+      "tags": []
+    },
+    {
+      "id": "wl74w1",
+      "title": "Show HN: PS2 games statically recompiled to WebAssembly",
+      "description": "Score: 126 | Comments: 68 | Posted by deadxwarrior",
+      "url": "https://github.com/snuri00/ps2-web-recomp",
+      "publishedAt": "2026-10-12T06:46:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "deadxwarrior",
+      "tags": []
+    },
+    {
+      "id": "zd53wv",
+      "title": "Postgres isn't slow, your storage is",
+      "description": "Score: 149 | Comments: 161 | Posted by saisrirampur",
+      "url": "https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is",
+      "publishedAt": "2026-10-12T06:36:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "saisrirampur",
+      "tags": []
+    },
+    {
+      "id": "3yez08",
+      "title": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+      "description": "Score: 215 | Comments: 160 | Posted by m463",
+      "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
+      "publishedAt": "2026-10-12T05:03:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "m463",
+      "tags": []
+    },
+    {
+      "id": "68tzs4",
+      "title": "Type-safe HTML templating in Zig",
+      "description": "Score: 170 | Comments: 67 | Posted by lukaslalinsky",
+      "url": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
+      "publishedAt": "2026-10-12T05:02:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lukaslalinsky",
+      "tags": []
+    },
+    {
+      "id": "zgawb2",
+      "title": "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
+      "description": "Score: 225 | Comments: 251 | Posted by amosbatto",
+      "url": "https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/",
+      "publishedAt": "2026-10-12T04:54:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "amosbatto",
+      "tags": []
+    },
+    {
+      "id": "r3xfdo",
+      "title": "Crest – an Arc-inspired open-source browser for Mac",
+      "description": "Score: 22 | Comments: 18 | Posted by cobychapple",
+      "url": "https://crestbrowser.com/",
+      "publishedAt": "2026-10-12T03:37:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cobychapple",
+      "tags": []
+    },
+    {
+      "id": "pob9e9",
+      "title": "Doory – Open-Source Canva",
+      "description": "Score: 162 | Comments: 63 | Posted by acley",
+      "url": "https://github.com/shaongitbd/doory",
+      "publishedAt": "2026-10-12T00:48:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "acley",
+      "tags": []
+    },
+    {
+      "id": "ca4n44",
+      "title": "Local Indexing to reduce tool calling and token usage",
+      "description": "Score: 98 | Comments: 31 | Posted by TedHaley",
+      "url": "https://tedhaley.ca/pensieve/",
+      "publishedAt": "2026-10-12T00:03:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "TedHaley",
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "date": "2026-10-12",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "151882 at https://www.blognone.com",
+      "title": "Ubuntu ออกอิมเมจเดสก์ท็อปสำหรับ RISC-V แล้ว",
+      "description": "Ubuntu ออกอิมเมจเดสก์ท็อปสำหรับ RISC-V แล้ว Body Canonical ประกาศออกอิมเมจของเดสก์ท็อป Ubuntu บนสถาปัตยกรรม RISC-V อย่างเป็นทางการ",
+      "url": "https://www.blognone.com/node/151882",
+      "publishedAt": "2026-10-12T06:50:16.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151881 at https://www.blognone.com",
+      "title": "GIGABYTE ระบุอินเทลเตรียมออกซีพียูในซ็อกเก็ต LGA1700 เพิ่ม รองรับแรม DDR4 สู้ยุคแรมแพง",
+      "description": "GIGABYTE ระบุอินเทลเตรียมออกซีพียูในซ็อกเก็ต LGA1700 เพิ่ม รองรับแรม DDR4 สู้ยุคแรมแพง Body GIGABYTE ประกาศเตรียมปล่อย BIOS",
+      "url": "https://www.blognone.com/node/151881",
+      "publishedAt": "2026-10-12T02:57:34.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151880 at https://www.blognone.com",
+      "title": "Yandex Cloud ในรัสเซียถูก UAV โจมตีศูนย์ข้อมูลดับไปทั้งศูนย์ บริการจำนวนมากมีปัญหา",
+      "description": "Yandex Cloud ในรัสเซียถูก UAV โจมตีศูนย์ข้อมูลดับไปทั้งศูนย์ บริการจำนวนมากมีปัญหา Body Yandex Cloud บริการคลาวด์ในเครือ Yandex",
+      "url": "https://www.blognone.com/node/151880",
+      "publishedAt": "2026-10-12T02:23:55.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}
