@@ -3,6 +3,72 @@
   "source": "techcrunch",
   "articles": [
     {
+      "id": "https://techcrunch.com/?p=3176752",
+      "title": "Meta releases its first frontier model, Muse Wonder",
+      "description": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with",
+      "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+      "publishedAt": "2026-10-12T17:56:56.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Russell Brandom",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3176669",
+      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+      "description": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
+      "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+      "publishedAt": "2026-10-12T17:19:14.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Tim Fernholz",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3175181",
+      "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+      "description": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make",
+      "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+      "publishedAt": "2026-10-12T15:45:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Anthony Ha",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3176628",
+      "title": "Microsoft president says UK is best placed to drive AI regulation",
+      "description": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+      "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+      "publishedAt": "2026-10-12T15:31:19.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Rebecca Bellan",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3176454",
+      "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+      "description": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo,",
+      "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+      "publishedAt": "2026-10-12T15:27:59.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Kirsten Korosec",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3176619",
+      "title": "Fitbit Edge is Google’s middle ground between Fitbit Air and Pixel Watch",
+      "description": "Google’s newest wearable costs $179.99 and has a sleek feel like the Fitbit Air but with an OLED display.",
+      "url": "https://techcrunch.com/2026/10/12/fitbit-edge-is-googles-middle-ground-between-fitbit-air-and-pixel-watch/",
+      "publishedAt": "2026-10-12T15:11:19.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lauren Forristal",
+      "tags": []
+    },
+    {
       "id": "https://techcrunch.com/?p=3176451",
       "title": "Smart ring maker Ultrahuman to roll out biological-age model across UAE",
       "description": "Ultrahuman and Abu Dhabi will spend the next two years working on research and clinical validation of the model.",

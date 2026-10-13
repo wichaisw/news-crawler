@@ -102,6 +102,17 @@
       "tags": []
     },
     {
+      "id": "8674a0",
+      "title": "No portable way to detect string-to-float conversion errors in standard C",
+      "description": "Score: 75 | Comments: 102 | Posted by signa11",
+      "url": "https://sebsite.pw/w/20261009-strtod.html",
+      "publishedAt": "2026-10-10T15:39:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "signa11",
+      "tags": []
+    },
+    {
       "id": "snalvj",
       "title": "Bitwarden Dual License Model",
       "description": "Score: 383 | Comments: 281 | Posted by Cider9986",

@@ -3,6 +3,182 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "pzgr29",
+      "title": "Show HN: An experimental pattern-first DAW that supports MCP",
+      "description": "Score: 79 | Comments: 31 | Posted by androsynth89",
+      "url": "https://github.com/andrewfader/blokkily",
+      "publishedAt": "2026-10-12T23:21:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "androsynth89",
+      "tags": []
+    },
+    {
+      "id": "8vyghj",
+      "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+      "description": "Score: 182 | Comments: 66 | Posted by khalidkhair",
+      "url": "https://github.com/prabanta-dev/janas",
+      "publishedAt": "2026-10-12T22:05:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "khalidkhair",
+      "tags": []
+    },
+    {
+      "id": "mwyuex",
+      "title": "AI is a tool and using it well takes skill",
+      "description": "Score: 484 | Comments: 392 | Posted by layer8",
+      "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+      "publishedAt": "2026-10-12T21:40:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "layer8",
+      "tags": []
+    },
+    {
+      "id": "h3u7zd",
+      "title": "Phreak.ing – Internet Phone Switch",
+      "description": "Score: 143 | Comments: 34 | Posted by rickcarlino",
+      "url": "https://phreak.ing/",
+      "publishedAt": "2026-10-12T21:39:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rickcarlino",
+      "tags": []
+    },
+    {
+      "id": "y76tg",
+      "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+      "description": "Score: 267 | Comments: 137 | Posted by hurricanepootis",
+      "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+      "publishedAt": "2026-10-12T21:35:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hurricanepootis",
+      "tags": []
+    },
+    {
+      "id": "3qsvym",
+      "title": "Who is vfmaddrnd231pd?",
+      "description": "Score: 231 | Comments: 21 | Posted by pngmangi",
+      "url": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
+      "publishedAt": "2026-10-12T21:12:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pngmangi",
+      "tags": []
+    },
+    {
+      "id": "y9dr42",
+      "title": "Writing a Demoscene Intro for the ZX Spectrum",
+      "description": "Score: 159 | Comments: 28 | Posted by zdw",
+      "url": "https://www.markround.com/blog/2026/zx-spectrum-intro",
+      "publishedAt": "2026-10-12T19:40:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "fmfpf8",
+      "title": "Making big downloads resumable in Firefox",
+      "description": "Score: 243 | Comments: 118 | Posted by speckx",
+      "url": "https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html",
+      "publishedAt": "2026-10-12T19:36:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
+      "tags": []
+    },
+    {
+      "id": "w1do5h",
+      "title": "RimWorld 1.7 moves from Unity to Ludeon's in-house Waylith engine",
+      "description": "Score: 72 | Comments: 27 | Posted by sha-3",
+      "url": "https://ludeon.com/blog/2026/10/announcing-the-waylith-engine-and-update-1-7/",
+      "publishedAt": "2026-10-12T19:18:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sha-3",
+      "tags": []
+    },
+    {
+      "id": "rqohvv",
+      "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+      "description": "Score: 581 | Comments: 279 | Posted by whimblepop",
+      "url": "https://github.com/openai/codex/issues/48195",
+      "publishedAt": "2026-10-12T18:29:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "whimblepop",
+      "tags": []
+    },
+    {
+      "id": "wd7sy7",
+      "title": "Thinking will become a hobby",
+      "description": "Score: 311 | Comments: 425 | Posted by pranitha_m",
+      "url": "https://www.spinellis.gr/blog/20261008/?li261008",
+      "publishedAt": "2026-10-12T16:54:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pranitha_m",
+      "tags": []
+    },
+    {
+      "id": "8t2b37",
+      "title": "Muse Wonder",
+      "description": "Score: 648 | Comments: 355 | Posted by meetpateltech",
+      "url": "https://research.meta.ai/blog/muse-wonder",
+      "publishedAt": "2026-10-12T16:48:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "meetpateltech",
+      "tags": []
+    },
+    {
+      "id": "faumgj",
+      "title": "A Modern Web App in C",
+      "description": "Score: 628 | Comments: 275 | Posted by prophittcorey",
+      "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
+      "publishedAt": "2026-10-12T16:13:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "prophittcorey",
+      "tags": []
+    },
+    {
+      "id": "nz77bf",
+      "title": "GLM-Legal",
+      "description": "Score: 613 | Comments: 340 | Posted by ilreb",
+      "url": "https://z.ai/blog/glm-legal",
+      "publishedAt": "2026-10-12T16:11:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ilreb",
+      "tags": []
+    },
+    {
+      "id": "gbb3ph",
+      "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+      "description": "Score: 201 | Comments: 78 | Posted by surprisetalk",
+      "url": "https://taylor.town/kk-ai-2026",
+      "publishedAt": "2026-10-12T15:16:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
+      "id": "90gdn0",
+      "title": "Solar panels that plug into your wall",
+      "description": "Score: 223 | Comments: 238 | Posted by speckx",
+      "url": "https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy",
+      "publishedAt": "2026-10-12T14:19:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
+      "tags": []
+    },
+    {
       "id": "gfvyn",
       "title": "\"Just Ask Claude\" Is a Rare and Valuable Skill",
       "description": "Score: 17 | Comments: 14 | Posted by surprisetalk",
@@ -47,6 +223,17 @@
       "tags": []
     },
     {
+      "id": "eaw5x8",
+      "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
+      "description": "Score: 382 | Comments: 104 | Posted by djfergus",
+      "url": "https://github.com/h0m3us3r/w1700k-sdr",
+      "publishedAt": "2026-10-12T12:41:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "djfergus",
+      "tags": []
+    },
+    {
       "id": "wqrat0",
       "title": "Incident with Actions, Pull Requests and Issues",
       "description": "Score: 56 | Comments: 37 | Posted by dkpk",
@@ -58,10 +245,32 @@
       "tags": []
     },
     {
+      "id": "pmdv4j",
+      "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
+      "description": "Score: 786 | Comments: 905 | Posted by Zeekaas",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
+      "publishedAt": "2026-10-12T12:16:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Zeekaas",
+      "tags": []
+    },
+    {
       "id": "vwyxon",
       "title": "Citroen revives the 2CV for an electric age",
       "description": "Score: 83 | Comments: 89 | Posted by scrlk",
       "url": "https://www.bbc.co.uk/news/articles/c620r33plgppo",
+      "publishedAt": "2026-10-12T12:09:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "scrlk",
+      "tags": []
+    },
+    {
+      "id": "w8j3ww",
+      "title": "Citroen revives the 2CV for an electric age",
+      "description": "Score: 375 | Comments: 419 | Posted by scrlk",
+      "url": "https://www.bbc.com/news/articles/c620r33plgppo",
       "publishedAt": "2026-10-12T12:09:09.000Z",
       "source": "hackernews",
       "sourceName": "Hacker News",
@@ -209,6 +418,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "acley",
+      "tags": []
+    },
+    {
+      "id": "rnktcs",
+      "title": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
+      "description": "Score: 108 | Comments: 23 | Posted by SaarthRanka",
+      "url": "https://github.com/SaarthurR/atticus-mac",
+      "publishedAt": "2026-10-12T00:15:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "SaarthRanka",
       "tags": []
     },
     {

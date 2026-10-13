@@ -1,0 +1,226 @@
+{
+  "date": "2026-10-13",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "fi97ow",
+      "title": "Apple HomeView",
+      "description": "Score: 92 | Comments: 105 | Posted by etothet",
+      "url": "https://www.apple.com/apple-homeview/",
+      "publishedAt": "2026-10-13T13:02:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "etothet",
+      "tags": []
+    },
+    {
+      "id": "6gao28",
+      "title": "Apple's Minions: A virtual GPU cloud built from idle Apple Silicon Macs",
+      "description": "Score: 41 | Comments: 11 | Posted by acossta",
+      "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
+      "publishedAt": "2026-10-13T12:26:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "acossta",
+      "tags": []
+    },
+    {
+      "id": "529tk",
+      "title": "Mozilla Introduces Firefox Enterprise",
+      "description": "Score: 148 | Comments: 72 | Posted by recvonline",
+      "url": "https://www.firefox.com/en-US/enterprise/",
+      "publishedAt": "2026-10-13T12:00:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "recvonline",
+      "tags": []
+    },
+    {
+      "id": "f9zhss",
+      "title": "A Visual Intro to Complex Numbers",
+      "description": "Score: 7 | Comments: 0 | Posted by surprisetalk",
+      "url": "https://photonlines.substack.com/p/a-visual-intro-to-complex-numbers",
+      "publishedAt": "2026-10-13T12:00:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
+      "id": "8m38dg",
+      "title": "An hour of audio transcribed in about 13s on MacBook Air",
+      "description": "Score: 156 | Comments: 45 | Posted by amrrs",
+      "url": "https://eg2.haku.sh/",
+      "publishedAt": "2026-10-13T11:27:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "amrrs",
+      "tags": []
+    },
+    {
+      "id": "xsajae",
+      "title": "Character.ai Files for Bankruptcy",
+      "description": "Score: 100 | Comments: 61 | Posted by yanis_t",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
+      "publishedAt": "2026-10-13T11:24:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "yanis_t",
+      "tags": []
+    },
+    {
+      "id": "bwmn6y",
+      "title": "11 year old unsoundness bugs found in Rust borrow checkergithub.com/rust-lang",
+      "description": "Score: 325 | Comments: 167 | Posted by formerly_proven",
+      "url": "https://github.com/rust-lang/rust/issues/164250",
+      "publishedAt": "2026-10-13T10:47:12.504Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "formerly_proven",
+      "tags": []
+    },
+    {
+      "id": "bwmn6y",
+      "title": "11 year old unsoundness bugs found in Rust borrow checker",
+      "description": "Score: 326 | Comments: 169 | Posted by formerly_proven",
+      "url": "https://github.com/rust-lang/rust/issues/164250",
+      "publishedAt": "2026-10-13T10:27:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "formerly_proven",
+      "tags": []
+    },
+    {
+      "id": "aq4kwq",
+      "title": "Show HN: Use your OpenAI subscription to create audiobooks",
+      "description": "Score: 84 | Comments: 49 | Posted by janpmz",
+      "url": "https://pdftomp3.com/connect-ai/",
+      "publishedAt": "2026-10-13T10:08:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "janpmz",
+      "tags": []
+    },
+    {
+      "id": "vuf6mr",
+      "title": "CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades",
+      "description": "Score: 201 | Comments: 85 | Posted by helsinkiandrew",
+      "url": "https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran",
+      "publishedAt": "2026-10-13T10:08:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "helsinkiandrew",
+      "tags": []
+    },
+    {
+      "id": "146cws",
+      "title": "India's Battery Storage Capacity Set to Surge Nearly 50 Fold by 2032",
+      "description": "Score: 8 | Comments: 0 | Posted by thelastgallon",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Battery-Storage-Capacity-Set-to-Surge-Nearly-50-Fold-by-2032.html",
+      "publishedAt": "2026-10-13T10:07:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thelastgallon",
+      "tags": []
+    },
+    {
+      "id": "fb70ta",
+      "title": "AWS Lambda Web Functions",
+      "description": "Score: 62 | Comments: 43 | Posted by HatchedLake721",
+      "url": "https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/",
+      "publishedAt": "2026-10-13T10:07:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "HatchedLake721",
+      "tags": []
+    },
+    {
+      "id": "pojiq0",
+      "title": "Crypto thieves sell hardware wallets with secret eSIM",
+      "description": "Score: 91 | Comments: 64 | Posted by qwertox",
+      "url": "https://www.heise.de/en/news/Crypto-thieves-sell-hardware-wallets-with-secret-eSIM-11485188.html",
+      "publishedAt": "2026-10-13T08:34:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "qwertox",
+      "tags": []
+    },
+    {
+      "id": "nd3hyn",
+      "title": "Document Review with Unsiloed and TypeSafe Jev",
+      "description": "Score: 25 | Comments: 6 | Posted by ritzaco",
+      "url": "https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev",
+      "publishedAt": "2026-10-13T08:24:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ritzaco",
+      "tags": []
+    },
+    {
+      "id": "3wmp4y",
+      "title": "DishwasherBench – Can Frontier Models Stack a Dishwasher?",
+      "description": "Score: 72 | Comments: 39 | Posted by mlukewizard",
+      "url": "https://github.com/composo-ai/DishwasherBench",
+      "publishedAt": "2026-10-13T08:24:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mlukewizard",
+      "tags": []
+    },
+    {
+      "id": "u4347y",
+      "title": "Character.ai files for Chapter 11 bankruptcy",
+      "description": "Score: 43 | Comments: 14 | Posted by nryoo",
+      "url": "https://blog.character.ai/an-update-on-character-ai/",
+      "publishedAt": "2026-10-13T07:28:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nryoo",
+      "tags": []
+    },
+    {
+      "id": "culihh",
+      "title": "Hittite royal archive found in Turkey",
+      "description": "Score: 177 | Comments: 35 | Posted by benbreen",
+      "url": "https://www.thehistoryblog.com/archives/77107",
+      "publishedAt": "2026-10-13T06:02:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "benbreen",
+      "tags": []
+    },
+    {
+      "id": "oxa12t",
+      "title": "A look at the math that OpenAI claims computes faster Fourier transforms",
+      "description": "Score: 189 | Comments: 123 | Posted by mochomocha",
+      "url": "https://www.argmin.net/p/faster-fourier-transforms",
+      "publishedAt": "2026-10-13T02:46:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mochomocha",
+      "tags": []
+    },
+    {
+      "id": "qyt5h9",
+      "title": "AI models can provably hide arbitrary capabilities",
+      "description": "Score: 242 | Comments: 115 | Posted by sbulaev",
+      "url": "https://arxiv.org/abs/2610.13928",
+      "publishedAt": "2026-10-13T02:07:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sbulaev",
+      "tags": []
+    },
+    {
+      "id": "7fnij8",
+      "title": "Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)",
+      "description": "Score: 94 | Comments: 22 | Posted by bherbruck",
+      "url": "https://github.com/bherbruck/solidcraft",
+      "publishedAt": "2026-10-13T00:11:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bherbruck",
+      "tags": []
+    }
+  ]
+}
