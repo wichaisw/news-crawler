@@ -135,6 +135,17 @@
       "tags": []
     },
     {
+      "id": "fytyo3",
+      "title": "Arena Allocators in C",
+      "description": "Score: 50 | Comments: 19 | Posted by dimonomid",
+      "url": "https://eliasebner.com/blog/guides/arena-allocators-in-c/",
+      "publishedAt": "2026-10-11T18:07:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dimonomid",
+      "tags": []
+    },
+    {
       "id": "h45agl",
       "title": "Total Annihilation, rebuilt for modern computers",
       "description": "Score: 590 | Comments: 222 | Posted by jttnr",
@@ -165,6 +176,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "tosh",
+      "tags": []
+    },
+    {
+      "id": "y9ojxe",
+      "title": "Sound – Bartosz Ciechanowski (2022)",
+      "description": "Score: 136 | Comments: 20 | Posted by dverlaeckt80",
+      "url": "https://ciechanow.ski/sound/",
+      "publishedAt": "2026-10-11T16:46:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dverlaeckt80",
       "tags": []
     },
     {

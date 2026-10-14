@@ -3,6 +3,182 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "vjvxt8",
+      "title": "Grace Hopper Celebration Cancelled",
+      "description": "Score: 203 | Comments: 155 | Posted by mooreds",
+      "url": "https://anitab.org/press-release",
+      "publishedAt": "2026-10-13T22:46:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mooreds",
+      "tags": []
+    },
+    {
+      "id": "gqgvqc",
+      "title": "Recreational Programming",
+      "description": "Score: 209 | Comments: 83 | Posted by jslakro",
+      "url": "https://www.cphiri.dev/presentations/recreational-programming",
+      "publishedAt": "2026-10-13T22:33:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jslakro",
+      "tags": []
+    },
+    {
+      "id": "8j5h6a",
+      "title": "AlphaNIST",
+      "description": "Score: 79 | Comments: 26 | Posted by jasonjmcghee",
+      "url": "https://alpha-nist.github.io/",
+      "publishedAt": "2026-10-13T21:57:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jasonjmcghee",
+      "tags": []
+    },
+    {
+      "id": "ofhp06",
+      "title": "OpenAI engineer arrested in bugging of executive conference room",
+      "description": "Score: 601 | Comments: 500 | Posted by forthwall",
+      "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+      "publishedAt": "2026-10-13T20:23:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "forthwall",
+      "tags": []
+    },
+    {
+      "id": "83iiig",
+      "title": "Show HN: Parsimony – an open-source benchmark for how much code AI models add",
+      "description": "Score: 70 | Comments: 13 | Posted by lasu",
+      "url": "https://parsimony.lasu.dev/",
+      "publishedAt": "2026-10-13T19:50:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lasu",
+      "tags": []
+    },
+    {
+      "id": "mnzru8",
+      "title": "The Four Colour Theorem: The first time machines mogged mathematicians",
+      "description": "Score: 62 | Comments: 37 | Posted by list",
+      "url": "https://newsletter.pessimistsarchive.org/p/the-1st-time-machines-mogged-mathematicians",
+      "publishedAt": "2026-10-13T19:17:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "list",
+      "tags": []
+    },
+    {
+      "id": "ximkc8",
+      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+      "description": "Score: 454 | Comments: 118 | Posted by talccc",
+      "url": "https://guitoro.com/",
+      "publishedAt": "2026-10-13T19:11:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "talccc",
+      "tags": []
+    },
+    {
+      "id": "occspb",
+      "title": "Show HN: XY Music Notation",
+      "description": "Score: 77 | Comments: 68 | Posted by jmole",
+      "url": "https://music.xy.dev/",
+      "publishedAt": "2026-10-13T17:43:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jmole",
+      "tags": []
+    },
+    {
+      "id": "t44fub",
+      "title": "Show HN: How random are you?",
+      "description": "Score: 160 | Comments: 80 | Posted by vunderba",
+      "url": "https://lab.specr.net/rigged-draw/",
+      "publishedAt": "2026-10-13T16:57:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vunderba",
+      "tags": []
+    },
+    {
+      "id": "3wc57i",
+      "title": "Gemini 4 Argon for Robotics",
+      "description": "Score: 221 | Comments: 50 | Posted by xnx",
+      "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
+      "publishedAt": "2026-10-13T16:55:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "xnx",
+      "tags": []
+    },
+    {
+      "id": "p9au7e",
+      "title": "Gemini 4 Argon",
+      "description": "Score: 1335 | Comments: 928 | Posted by 737max",
+      "url": "https://deepmind.google/models/gemini/",
+      "publishedAt": "2026-10-13T16:03:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "737max",
+      "tags": []
+    },
+    {
+      "id": "ramegp",
+      "title": "Redesigning source control at Anthropic",
+      "description": "Score: 790 | Comments: 824 | Posted by Philpax",
+      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+      "publishedAt": "2026-10-13T15:49:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Philpax",
+      "tags": []
+    },
+    {
+      "id": "ajzf2y",
+      "title": "The United Kingdom generates less electricity per person than in the 1970s",
+      "description": "Score: 331 | Comments: 538 | Posted by karakoram",
+      "url": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
+      "publishedAt": "2026-10-13T15:12:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "karakoram",
+      "tags": []
+    },
+    {
+      "id": "6w5fmt",
+      "title": "Thunderbird for iOS",
+      "description": "Score: 443 | Comments: 190 | Posted by mjorgers",
+      "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
+      "publishedAt": "2026-10-13T15:07:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mjorgers",
+      "tags": []
+    },
+    {
+      "id": "el8rp2",
+      "title": "How to engineer an AI harness for game development",
+      "description": "Score: 156 | Comments: 78 | Posted by kkukshtel",
+      "url": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
+      "publishedAt": "2026-10-13T14:14:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kkukshtel",
+      "tags": []
+    },
+    {
+      "id": "hoo4yx",
+      "title": "Same Job, Two Engines: InnoDB and Iceberg Internals",
+      "description": "Score: 19 | Comments: 1 | Posted by marcbpaul",
+      "url": "https://marcpaul.io/logs/same-job-two-engines-innodb-and-iceberg-internals/",
+      "publishedAt": "2026-10-13T13:31:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "marcbpaul",
+      "tags": []
+    },
+    {
       "id": "fi97ow",
       "title": "Apple HomeView",
       "description": "Score: 92 | Comments: 105 | Posted by etothet",
@@ -44,6 +220,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "surprisetalk",
+      "tags": []
+    },
+    {
+      "id": "ui7h4",
+      "title": "Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits",
+      "description": "Score: 76 | Comments: 14 | Posted by LargeModGames",
+      "url": "https://github.com/LargeModGames/spotatui",
+      "publishedAt": "2026-10-13T11:32:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "LargeModGames",
       "tags": []
     },
     {

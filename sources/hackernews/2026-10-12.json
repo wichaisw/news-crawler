@@ -69,6 +69,28 @@
       "tags": []
     },
     {
+      "id": "p2lpw7",
+      "title": "Kcgi – minimal CGI and FastCGI library for C/C++",
+      "description": "Score: 34 | Comments: 20 | Posted by Bluestein",
+      "url": "https://kristaps.bsd.lv/kcgi/",
+      "publishedAt": "2026-10-12T21:09:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Bluestein",
+      "tags": []
+    },
+    {
+      "id": "lp67y9",
+      "title": "Who Taught the Machines Mathematics?",
+      "description": "Score: 9 | Comments: 0 | Posted by speckx",
+      "url": "https://nisheethvishnoi.com/2026/10/09/who-taught-the-machines-mathematics/",
+      "publishedAt": "2026-10-12T19:49:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
+      "tags": []
+    },
+    {
       "id": "y9dr42",
       "title": "Writing a Demoscene Intro for the ZX Spectrum",
       "description": "Score: 159 | Comments: 28 | Posted by zdw",
@@ -91,6 +113,17 @@
       "tags": []
     },
     {
+      "id": "bly182",
+      "title": "MIT class project turns into an FDA-cleared treatment for tremors",
+      "description": "Score: 221 | Comments: 45 | Posted by zdw",
+      "url": "https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002",
+      "publishedAt": "2026-10-12T19:28:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
       "id": "w1do5h",
       "title": "RimWorld 1.7 moves from Unity to Ludeon's in-house Waylith engine",
       "description": "Score: 72 | Comments: 27 | Posted by sha-3",
@@ -110,6 +143,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "whimblepop",
+      "tags": []
+    },
+    {
+      "id": "zt84j",
+      "title": "Hiking the world in search of rare cheeses",
+      "description": "Score: 99 | Comments: 35 | Posted by tosh",
+      "url": "https://www.bbc.com/travel/article/20261007-the-man-hiking-the-world-in-search-of-rare-cheeses",
+      "publishedAt": "2026-10-12T17:15:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tosh",
       "tags": []
     },
     {
@@ -157,6 +201,17 @@
       "tags": []
     },
     {
+      "id": "ev5t3e",
+      "title": "How to Select an Experiment",
+      "description": "Score: 4 | Comments: 0 | Posted by surprisetalk",
+      "url": "https://chillphysicsenjoyer.substack.com/p/how-to-select-an-experiment",
+      "publishedAt": "2026-10-12T15:20:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
       "id": "gbb3ph",
       "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
       "description": "Score: 201 | Comments: 78 | Posted by surprisetalk",
@@ -165,6 +220,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "surprisetalk",
+      "tags": []
+    },
+    {
+      "id": "mak5p1",
+      "title": "Maybe a better way to track the release history of a Git repo",
+      "description": "Score: 44 | Comments: 9 | Posted by evakhoury",
+      "url": "https://blog.plover.com/prog/git/history-proposal.html",
+      "publishedAt": "2026-10-12T14:41:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "evakhoury",
       "tags": []
     },
     {
@@ -311,6 +377,17 @@
       "tags": []
     },
     {
+      "id": "nmsjfw",
+      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+      "description": "Score: 723 | Comments: 453 | Posted by thm",
+      "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+      "publishedAt": "2026-10-12T10:09:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thm",
+      "tags": []
+    },
+    {
       "id": "aj6ejk",
       "title": "A decade after Stardew Valley, Eric Barone is still going it alone",
       "description": "Score: 36 | Comments: 5 | Posted by HelloUsername",
@@ -319,6 +396,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "HelloUsername",
+      "tags": []
+    },
+    {
+      "id": "j1vqv6",
+      "title": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
+      "description": "Score: 177 | Comments: 25 | Posted by mdp2021",
+      "url": "https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html",
+      "publishedAt": "2026-10-12T09:05:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mdp2021",
       "tags": []
     },
     {
