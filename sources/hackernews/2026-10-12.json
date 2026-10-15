@@ -3,6 +3,28 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "dsk67j",
+      "title": "The Origin Story of Kid Pix",
+      "description": "Score: 194 | Comments: 45 | Posted by MBCook",
+      "url": "http://red-green-blue.com/kid-pix-the-early-years",
+      "publishedAt": "2026-10-12T23:52:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "MBCook",
+      "tags": []
+    },
+    {
+      "id": "895qdq",
+      "title": "Show HN: Indigene – Native plants for where you stand",
+      "description": "Score: 34 | Comments: 5 | Posted by olivierlacan",
+      "url": "https://indigene.app/",
+      "publishedAt": "2026-10-12T23:25:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "olivierlacan",
+      "tags": []
+    },
+    {
       "id": "pzgr29",
       "title": "Show HN: An experimental pattern-first DAW that supports MCP",
       "description": "Score: 79 | Comments: 31 | Posted by androsynth89",
@@ -135,6 +157,17 @@
       "tags": []
     },
     {
+      "id": "pe0jf9",
+      "title": "David Rudnick on \"borderline impossible\" process of designing Arsenal typeface",
+      "description": "Score: 28 | Comments: 11 | Posted by droidjj",
+      "url": "https://www.itsnicethat.com/features/david-rudnick-johnnie-campbell-arsenal-rocastle-typeface-graphic-design-spotlight-121026",
+      "publishedAt": "2026-10-12T18:44:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "droidjj",
+      "tags": []
+    },
+    {
       "id": "rqohvv",
       "title": "Codex CLI installs a persistent, self-updating background daemon by default",
       "description": "Score: 581 | Comments: 279 | Posted by whimblepop",
@@ -143,6 +176,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "whimblepop",
+      "tags": []
+    },
+    {
+      "id": "3fnofg",
+      "title": "Sticky alpine flower confirms Darwin's 150-year-old carnivorous plant prediction",
+      "description": "Score: 41 | Comments: 13 | Posted by maxall4",
+      "url": "https://phys.org/news/2026-08-sticky-alpine-darwin-year-carnivorous.html",
+      "publishedAt": "2026-10-12T18:20:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "maxall4",
       "tags": []
     },
     {
@@ -366,6 +410,17 @@
       "tags": []
     },
     {
+      "id": "sejg42",
+      "title": "Phloem: Git history grown like a slime mold",
+      "description": "Score: 116 | Comments: 22 | Posted by thclpr",
+      "url": "https://phloem.stemdeck.app/",
+      "publishedAt": "2026-10-12T10:52:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thclpr",
+      "tags": []
+    },
+    {
       "id": "nc0cz5",
       "title": "Deloitte falsified documents to evade tax on Abramovich's wealth",
       "description": "Score: 463 | Comments: 153 | Posted by Betelbuddy",
@@ -407,6 +462,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mdp2021",
+      "tags": []
+    },
+    {
+      "id": "gs0dwh",
+      "title": "Catch a Bird – I made it for my own sanity",
+      "description": "Score: 198 | Comments: 53 | Posted by eduardsik",
+      "url": "https://catchabird.com",
+      "publishedAt": "2026-10-12T08:51:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "eduardsik",
       "tags": []
     },
     {
@@ -495,6 +561,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "cobychapple",
+      "tags": []
+    },
+    {
+      "id": "oc88jo",
+      "title": "Do dentists know what they're doing?",
+      "description": "Score: 730 | Comments: 528 | Posted by doitLP",
+      "url": "https://mapwriting.substack.com/p/dentists",
+      "publishedAt": "2026-10-12T02:21:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "doitLP",
       "tags": []
     },
     {
