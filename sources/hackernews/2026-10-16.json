@@ -1,0 +1,138 @@
+{
+  "date": "2026-10-16",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "k1wvwb",
+      "title": "Japanese people still aren't having sex. And nobody knows why",
+      "description": "Score: 9 | Comments: 13 | Posted by baranul",
+      "url": "https://www.sciencefocus.com/news/japanese-people-sex-inactivity-inexperience",
+      "publishedAt": "2026-10-16T09:54:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "baranul",
+      "tags": []
+    },
+    {
+      "id": "tx8mcm",
+      "title": "Tesla's new Roadster makes a flying debut, hitting 60 MPH in under a second",
+      "description": "Score: 5 | Comments: 1 | Posted by nsoonhui",
+      "url": "https://www.foxbusiness.com/technology/teslas-new-roadster-makes-flying-debut-hitting-60-mph-under-second",
+      "publishedAt": "2026-10-16T09:40:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nsoonhui",
+      "tags": []
+    },
+    {
+      "id": "zdwtz9",
+      "title": "Geoffrey Hinton: 'We're creating alien beings. I'm willing to choose humans'",
+      "description": "Score: 15 | Comments: 1 | Posted by Michelangelo11",
+      "url": "https://www.theguardian.com/us-news/2026/oct/13/geoffrey-hinton-trump-ai-tech",
+      "publishedAt": "2026-10-16T09:13:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Michelangelo11",
+      "tags": []
+    },
+    {
+      "id": "icru60",
+      "title": "The insider trading you're allowed to do",
+      "description": "Score: 49 | Comments: 30 | Posted by rohanm93",
+      "url": "https://coached.com/essays/the-insider-trading-youre-allowed-to-do/",
+      "publishedAt": "2026-10-16T07:12:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rohanm93",
+      "tags": []
+    },
+    {
+      "id": "ku5qo1",
+      "title": "Last rites for Gentoo's Chromium package",
+      "description": "Score: 63 | Comments: 59 | Posted by signa11",
+      "url": "https://lwn.net/Articles/1097760/",
+      "publishedAt": "2026-10-16T05:14:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "signa11",
+      "tags": []
+    },
+    {
+      "id": "9a2id0",
+      "title": "The Folders Programming Language",
+      "description": "Score: 82 | Comments: 11 | Posted by gurst",
+      "url": "https://danieltemkin.com/esolangs/folders",
+      "publishedAt": "2026-10-16T05:11:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gurst",
+      "tags": []
+    },
+    {
+      "id": "qypzbb",
+      "title": "Self-Evolving Agent Harness",
+      "description": "Score: 12 | Comments: 0 | Posted by axis_official",
+      "url": "https://arxiv.org/abs/2610.18813",
+      "publishedAt": "2026-10-16T04:57:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "axis_official",
+      "tags": []
+    },
+    {
+      "id": "qysnki",
+      "title": "The Thinking Leakage in Reinforcement Learning for LLMs",
+      "description": "Score: 7 | Comments: 0 | Posted by ilreb",
+      "url": "https://arxiv.org/abs/2610.14270",
+      "publishedAt": "2026-10-16T03:49:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ilreb",
+      "tags": []
+    },
+    {
+      "id": "ksi9y1",
+      "title": "Comparing Chromium Development at Google and Igalia",
+      "description": "Score: 54 | Comments: 16 | Posted by signa11",
+      "url": "https://lwn.net/Articles/1094721/",
+      "publishedAt": "2026-10-16T01:56:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "signa11",
+      "tags": []
+    },
+    {
+      "id": "fe8r5r",
+      "title": "Any window from your Mac, on your iPhone and iPad",
+      "description": "Score: 164 | Comments: 37 | Posted by chanana",
+      "url": "https://github.com/Saffsanity/sill",
+      "publishedAt": "2026-10-16T01:43:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "chanana",
+      "tags": []
+    },
+    {
+      "id": "ora8ef",
+      "title": "Thank You, Deno",
+      "description": "Score: 91 | Comments: 17 | Posted by jcbhmr",
+      "url": "https://www.vlt.io/blog/competition-keeps-javascript-moving",
+      "publishedAt": "2026-10-16T00:52:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jcbhmr",
+      "tags": []
+    },
+    {
+      "id": "9ncn0o",
+      "title": "RPKI now protects 70% of internet routes",
+      "description": "Score: 167 | Comments: 56 | Posted by emot",
+      "url": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
+      "publishedAt": "2026-10-16T00:52:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "emot",
+      "tags": []
+    }
+  ]
+}

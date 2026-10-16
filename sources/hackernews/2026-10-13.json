@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "wmu60b",
+      "title": "Delta’s Biscoff cookies were supposed to be temporary",
+      "description": "Score: 226 | Comments: 173 | Posted by mhb",
+      "url": "https://www.seriouseats.com/biscoff-history-12168161",
+      "publishedAt": "2026-10-13T23:00:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mhb",
+      "tags": []
+    },
+    {
       "id": "vjvxt8",
       "title": "Grace Hopper Celebration Cancelled",
       "description": "Score: 203 | Comments: 155 | Posted by mooreds",
@@ -77,6 +88,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "lasu",
+      "tags": []
+    },
+    {
+      "id": "uenj7w",
+      "title": "Yet another way to invoke functions without parentheses",
+      "description": "Score: 26 | Comments: 6 | Posted by aragonite",
+      "url": "https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/",
+      "publishedAt": "2026-10-13T19:25:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "aragonite",
       "tags": []
     },
     {
@@ -179,6 +201,17 @@
       "tags": []
     },
     {
+      "id": "qrrkf6",
+      "title": "Two-Stack Sliding-Window Aggregation",
+      "description": "Score: 31 | Comments: 1 | Posted by surprisetalk",
+      "url": "https://orlp.net/blog/two-stack-sliding-window-aggregation/",
+      "publishedAt": "2026-10-13T14:40:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
       "id": "el8rp2",
       "title": "How to engineer an AI harness for game development",
       "description": "Score: 156 | Comments: 78 | Posted by kkukshtel",
@@ -187,6 +220,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "kkukshtel",
+      "tags": []
+    },
+    {
+      "id": "sd3qa1",
+      "title": "'500-hour' Order of the Sinking Star is as complex and exhausting as it sounds",
+      "description": "Score: 149 | Comments: 103 | Posted by cvoss",
+      "url": "https://www.polygon.com/order-of-the-sinking-star-impressions/",
+      "publishedAt": "2026-10-13T14:14:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cvoss",
       "tags": []
     },
     {
@@ -220,6 +264,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "marcbpaul",
+      "tags": []
+    },
+    {
+      "id": "o0jki3",
+      "title": "4 Years of Ludicon",
+      "description": "Score: 19 | Comments: 4 | Posted by ibobev",
+      "url": "https://www.ludicon.com/castano/blog/2026/10/4-years-of-ludicon/",
+      "publishedAt": "2026-10-13T13:22:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
       "tags": []
     },
     {
@@ -344,6 +399,17 @@
       "tags": []
     },
     {
+      "id": "wuv8yn",
+      "title": "Major ICQ security hole (1998)",
+      "description": "Score: 95 | Comments: 53 | Posted by sysoleg",
+      "url": "https://opennet.ru/base/maillist/169.txt.html",
+      "publishedAt": "2026-10-13T10:21:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sysoleg",
+      "tags": []
+    },
+    {
       "id": "aq4kwq",
       "title": "Show HN: Use your OpenAI subscription to create audiobooks",
       "description": "Score: 84 | Comments: 49 | Posted by janpmz",
@@ -421,6 +487,17 @@
       "tags": []
     },
     {
+      "id": "l3in8o",
+      "title": "Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat",
+      "description": "Score: 144 | Comments: 105 | Posted by giuliomagnifico",
+      "url": "https://www.pcmag.com/news/apple-routed-a-graphite-pipe-through-the-iphone-duos-hinge",
+      "publishedAt": "2026-10-13T07:52:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "giuliomagnifico",
+      "tags": []
+    },
+    {
       "id": "u4347y",
       "title": "Character.ai files for Chapter 11 bankruptcy",
       "description": "Score: 43 | Comments: 14 | Posted by nryoo",
@@ -451,6 +528,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mochomocha",
+      "tags": []
+    },
+    {
+      "id": "y8g6di",
+      "title": "Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]",
+      "description": "Score: 355 | Comments: 122 | Posted by johnnyApplePRNG",
+      "url": "https://www.youtube.com/watch?v=sjNpfz4UzqU",
+      "publishedAt": "2026-10-13T02:32:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "johnnyApplePRNG",
       "tags": []
     },
     {
