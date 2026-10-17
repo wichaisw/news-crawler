@@ -1,0 +1,105 @@
+{
+  "date": "2026-10-17",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "ngxsmg",
+      "title": "\"Tame\" boar and deer are instinctively adapting to the wolf in the Netherlandsnos.nl",
+      "description": "Score: 21 | Comments: 24 | Posted by felipevb",
+      "url": "https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf",
+      "publishedAt": "2026-10-17T09:19:10.219Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "felipevb",
+      "tags": []
+    },
+    {
+      "id": "qnyn6d",
+      "title": "DeepSeek: DeepSeek v4.1 Flash 1017openrouter.ai",
+      "description": "Score: 127 | Comments: 10 | Posted by theanonymousone",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+      "publishedAt": "2026-10-17T09:19:10.218Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "theanonymousone",
+      "tags": []
+    },
+    {
+      "id": "ngxsmg",
+      "title": "\"Tame\" boar and deer are instinctively adapting to the wolf in the Netherlands",
+      "description": "Score: 22 | Comments: 26 | Posted by felipevb",
+      "url": "https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf",
+      "publishedAt": "2026-10-17T09:08:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "felipevb",
+      "tags": []
+    },
+    {
+      "id": "qks2wf",
+      "title": "Is MCP becoming the common foundation of smart, decentralised search?",
+      "description": "Score: 11 | Comments: 4 | Posted by contextetech",
+      "url": "https://contextetech.com/en/articles/mcp-protocol-smart-decentralised-search",
+      "publishedAt": "2026-10-17T09:01:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "contextetech",
+      "tags": []
+    },
+    {
+      "id": "qnyn6d",
+      "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+      "description": "Score: 128 | Comments: 11 | Posted by theanonymousone",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+      "publishedAt": "2026-10-17T08:37:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "theanonymousone",
+      "tags": []
+    },
+    {
+      "id": "27v90b",
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "description": "Score: 153 | Comments: 62 | Posted by theykk",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "publishedAt": "2026-10-17T08:21:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "theykk",
+      "tags": []
+    },
+    {
+      "id": "4vh9ip",
+      "title": "Show HN: I got tired of btop not seeing my Mac's chip, so I built siltop",
+      "description": "Score: 5 | Comments: 2 | Posted by cloaky233",
+      "url": "https://github.com/CLoaKY233/siltop",
+      "publishedAt": "2026-10-17T07:01:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cloaky233",
+      "tags": []
+    },
+    {
+      "id": "1trikh",
+      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+      "description": "Score: 76 | Comments: 28 | Posted by albinstman",
+      "url": "https://llmspeed.dev/",
+      "publishedAt": "2026-10-17T04:36:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "albinstman",
+      "tags": []
+    },
+    {
+      "id": "rm3dwi",
+      "title": "Butlerian Jihad",
+      "description": "Score: 233 | Comments: 125 | Posted by wetwater",
+      "url": "https://dune.fandom.com/wiki/Butlerian_Jihad",
+      "publishedAt": "2026-10-17T02:21:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wetwater",
+      "tags": []
+    }
+  ]
+}

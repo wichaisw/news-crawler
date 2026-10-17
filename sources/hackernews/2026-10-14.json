@@ -234,6 +234,17 @@
       "tags": []
     },
     {
+      "id": "6yh56i",
+      "title": "California is building a $400M shield for Yosemite's most dangerous highway",
+      "description": "Score: 43 | Comments: 46 | Posted by danso",
+      "url": "https://www.sfchronicle.com/california/article/yosemite-national-park-highway-140-22463847.php",
+      "publishedAt": "2026-10-14T15:15:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "danso",
+      "tags": []
+    },
+    {
       "id": "drjwlz",
       "title": "Passkeys are not a trap",
       "description": "Score: 603 | Comments: 748 | Posted by speckx",
@@ -242,6 +253,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "speckx",
+      "tags": []
+    },
+    {
+      "id": "wcx9ip",
+      "title": "0/1 Knapsack Problem in PyTorch",
+      "description": "Score: 24 | Comments: 1 | Posted by yu3zhou4",
+      "url": "https://jedrzej.maczan.pl/2025_11_21_dp_knapsack_sliding_hirschberg",
+      "publishedAt": "2026-10-14T15:04:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "yu3zhou4",
+      "tags": []
+    },
+    {
+      "id": "l6ta8q",
+      "title": "I built the RealWorld app in Lean 4",
+      "description": "Score: 59 | Comments: 5 | Posted by saviorand",
+      "url": "https://leangineer.com/blog/realworld-in-lean/",
+      "publishedAt": "2026-10-14T15:03:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "saviorand",
       "tags": []
     },
     {
@@ -440,6 +473,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "otobrglez",
+      "tags": []
+    },
+    {
+      "id": "ajxr06",
+      "title": "Wireless magnetic millirobots that deliver medicine inside the beating heart",
+      "description": "Score: 97 | Comments: 16 | Posted by giuliomagnifico",
+      "url": "https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/",
+      "publishedAt": "2026-10-14T07:21:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "giuliomagnifico",
       "tags": []
     },
     {
