@@ -3,6 +3,127 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "4o6rih",
+      "title": "JDK 28",
+      "description": "Score: 104 | Comments: 56 | Posted by ejboy",
+      "url": "https://openjdk.org/projects/jdk/28/",
+      "publishedAt": "2026-10-17T21:37:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ejboy",
+      "tags": []
+    },
+    {
+      "id": "x4xoxs",
+      "title": "OpenCode Hacked: User credentials leaked",
+      "description": "Score: 870 | Comments: 163 | Posted by pranshuchittora",
+      "url": "https://twitter.com/opencode/status/2111516673953935833",
+      "publishedAt": "2026-10-17T18:01:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pranshuchittora",
+      "tags": []
+    },
+    {
+      "id": "rpj5hz",
+      "title": "Codex Desktop continuously generates Crashpad pending dumps",
+      "description": "Score: 133 | Comments: 54 | Posted by AIorNot",
+      "url": "https://github.com/openai/codex/issues/25921",
+      "publishedAt": "2026-10-17T17:45:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "AIorNot",
+      "tags": []
+    },
+    {
+      "id": "gkxtz9",
+      "title": "Gold is now the top U.S. export",
+      "description": "Score: 337 | Comments: 186 | Posted by iamnothere",
+      "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
+      "publishedAt": "2026-10-17T17:06:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "iamnothere",
+      "tags": []
+    },
+    {
+      "id": "v434d1",
+      "title": "Pele – Mermaid diagrams as themeable SVG",
+      "description": "Score: 442 | Comments: 39 | Posted by dchest",
+      "url": "https://pele.run/",
+      "publishedAt": "2026-10-17T15:55:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dchest",
+      "tags": []
+    },
+    {
+      "id": "6txp8b",
+      "title": "Solar surpasses nuclear power globally for first time",
+      "description": "Score: 616 | Comments: 383 | Posted by xbmcuser",
+      "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+      "publishedAt": "2026-10-17T14:01:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "xbmcuser",
+      "tags": []
+    },
+    {
+      "id": "strfmi",
+      "title": "Making chicken transparent using Dorito dust",
+      "description": "Score: 306 | Comments: 82 | Posted by crescit_eundo",
+      "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
+      "publishedAt": "2026-10-17T13:55:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "crescit_eundo",
+      "tags": []
+    },
+    {
+      "id": "n6s36t",
+      "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
+      "description": "Score: 168 | Comments: 32 | Posted by joakimeriksson",
+      "url": "https://github.com/mikroverk/esp32sim",
+      "publishedAt": "2026-10-17T13:51:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "joakimeriksson",
+      "tags": []
+    },
+    {
+      "id": "41qb2m",
+      "title": "Show HN: High-quality duck audio synthesizer",
+      "description": "Score: 140 | Comments: 30 | Posted by celphase",
+      "url": "https://celphase.github.io/duck-pond/",
+      "publishedAt": "2026-10-17T13:28:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "celphase",
+      "tags": []
+    },
+    {
+      "id": "yvhwpg",
+      "title": "Interactive Linear Programming in the Browser",
+      "description": "Score: 35 | Comments: 0 | Posted by klamike",
+      "url": "https://lpviz.net/",
+      "publishedAt": "2026-10-17T12:06:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "klamike",
+      "tags": []
+    },
+    {
+      "id": "9g6hbz",
+      "title": "The future of programming (1982)",
+      "description": "Score: 70 | Comments: 18 | Posted by vismit2000",
+      "url": "https://dl.acm.org/doi/10.1145/358453.358459",
+      "publishedAt": "2026-10-17T11:20:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vismit2000",
+      "tags": []
+    },
+    {
       "id": "ngxsmg",
       "title": "\"Tame\" boar and deer are instinctively adapting to the wolf in the Netherlandsnos.nl",
       "description": "Score: 21 | Comments: 24 | Posted by felipevb",
@@ -91,6 +212,28 @@
       "tags": []
     },
     {
+      "id": "b0y312",
+      "title": "Source code of the Estonian online voting system",
+      "description": "Score: 213 | Comments: 195 | Posted by theanonymousone",
+      "url": "https://github.com/valimised/ivxv",
+      "publishedAt": "2026-10-17T03:18:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "theanonymousone",
+      "tags": []
+    },
+    {
+      "id": "svdtpd",
+      "title": "A skeptic's first contact with Kubernetes (2024)",
+      "description": "Score: 122 | Comments: 64 | Posted by pmoriarty",
+      "url": "https://blog.davidv.dev/posts/first-contact-with-k8s/",
+      "publishedAt": "2026-10-17T03:16:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pmoriarty",
+      "tags": []
+    },
+    {
       "id": "rm3dwi",
       "title": "Butlerian Jihad",
       "description": "Score: 233 | Comments: 125 | Posted by wetwater",
@@ -99,6 +242,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "wetwater",
+      "tags": []
+    },
+    {
+      "id": "bzhtnh",
+      "title": "Propagation of Sound in Strongly Viscous Liquids (1966) [pdf]",
+      "description": "Score: 8 | Comments: 1 | Posted by peter_d_sherman",
+      "url": "https://jetp.ras.ru/cgi-bin/dn/e_023_05_0893.pdf",
+      "publishedAt": "2026-10-17T00:11:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "peter_d_sherman",
       "tags": []
     }
   ]

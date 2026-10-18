@@ -1,0 +1,127 @@
+{
+  "date": "2026-10-18",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "e0yafn",
+      "title": "Parser Combinators",
+      "description": "Score: 17 | Comments: 2 | Posted by schindlabua",
+      "url": "https://t3.at/blog/2026-10-17-parser-combinators/",
+      "publishedAt": "2026-10-18T08:19:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "schindlabua",
+      "tags": []
+    },
+    {
+      "id": "sl9zwq",
+      "title": "DeepSeek search and fetch – $0.75 per 1000 successful requestsdeepseek.com",
+      "description": "Score: 200 | Comments: 97 | Posted by fagnerbrack",
+      "url": "https://api-docs.deepseek.com/guides/search/",
+      "publishedAt": "2026-10-18T07:34:27.622Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fagnerbrack",
+      "tags": []
+    },
+    {
+      "id": "sl9zwq",
+      "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+      "description": "Score: 200 | Comments: 97 | Posted by fagnerbrack",
+      "url": "https://api-docs.deepseek.com/guides/search/",
+      "publishedAt": "2026-10-18T06:50:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fagnerbrack",
+      "tags": []
+    },
+    {
+      "id": "m31g6c",
+      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shippingsphinx-six-theta.vercel.app",
+      "description": "Score: 136 | Comments: 35 | Posted by critiquebrowser",
+      "url": "https://sphinx-six-theta.vercel.app/",
+      "publishedAt": "2026-10-18T05:34:27.622Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "critiquebrowser",
+      "tags": []
+    },
+    {
+      "id": "6kltt2",
+      "title": "Matthew Prince on why Cloudflare offers a free version and always will (2016)",
+      "description": "Score: 98 | Comments: 77 | Posted by thatslast",
+      "url": "https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685",
+      "publishedAt": "2026-10-18T05:09:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thatslast",
+      "tags": []
+    },
+    {
+      "id": "817kzi",
+      "title": "A Mole Infiltrated the Highest Ranks of American Militias (2025)",
+      "description": "Score: 93 | Comments: 20 | Posted by georgecmu",
+      "url": "https://www.propublica.org/article/ap3-oath-keepers-militia-mole",
+      "publishedAt": "2026-10-18T04:59:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "georgecmu",
+      "tags": []
+    },
+    {
+      "id": "4p7ie8",
+      "title": "Notes on the Complex Roots of Unity",
+      "description": "Score: 27 | Comments: 4 | Posted by sks_15",
+      "url": "https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/",
+      "publishedAt": "2026-10-18T04:49:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sks_15",
+      "tags": []
+    },
+    {
+      "id": "m31g6c",
+      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+      "description": "Score: 136 | Comments: 35 | Posted by critiquebrowser",
+      "url": "https://sphinx-six-theta.vercel.app/",
+      "publishedAt": "2026-10-18T04:33:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "critiquebrowser",
+      "tags": []
+    },
+    {
+      "id": "zgi1d1",
+      "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
+      "description": "Score: 148 | Comments: 159 | Posted by MaysonL",
+      "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+      "publishedAt": "2026-10-18T03:19:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "MaysonL",
+      "tags": []
+    },
+    {
+      "id": "xcz0ah",
+      "title": "August in Servo: CSS Grid, text selection, and more",
+      "description": "Score: 7 | Comments: 0 | Posted by msub2",
+      "url": "https://servo.org/blog/2026/10/09/august-in-servo/",
+      "publishedAt": "2026-10-18T02:22:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "msub2",
+      "tags": []
+    },
+    {
+      "id": "titgk1",
+      "title": "NY announces game ownership bill requiring ownership rather than licensing",
+      "description": "Score: 302 | Comments: 107 | Posted by guiambros",
+      "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
+      "publishedAt": "2026-10-18T00:14:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "guiambros",
+      "tags": []
+    }
+  ]
+}

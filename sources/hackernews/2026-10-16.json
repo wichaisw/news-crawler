@@ -3,6 +3,39 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "c1t22s",
+      "title": "Show HN: Things to Do API",
+      "description": "Score: 48 | Comments: 24 | Posted by invalidmonk",
+      "url": "https://thingstodoapi.com/",
+      "publishedAt": "2026-10-16T23:58:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "invalidmonk",
+      "tags": []
+    },
+    {
+      "id": "ekfy0b",
+      "title": "Dam removals are bringing fish back across the northeastern United States",
+      "description": "Score: 282 | Comments: 66 | Posted by sohkamyung",
+      "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
+      "publishedAt": "2026-10-16T23:47:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sohkamyung",
+      "tags": []
+    },
+    {
+      "id": "a0tix5",
+      "title": "Bleached corals thrive within days when touching healthy neighbour",
+      "description": "Score: 465 | Comments: 99 | Posted by alkyon",
+      "url": "https://www.nature.com/articles/d41586-026-03266-x",
+      "publishedAt": "2026-10-16T23:38:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "alkyon",
+      "tags": []
+    },
+    {
       "id": "prb57h",
       "title": "Nine-Inch Snails",
       "description": "Score: 67 | Comments: 33 | Posted by zdw",
@@ -11,6 +44,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "ills01",
+      "title": "Teal – A statically-typed dialect of Lua",
+      "description": "Score: 35 | Comments: 8 | Posted by Lyngbakr",
+      "url": "https://teal-language.org/",
+      "publishedAt": "2026-10-16T21:07:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Lyngbakr",
       "tags": []
     },
     {
@@ -66,6 +110,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jandeboevrie",
+      "tags": []
+    },
+    {
+      "id": "yjdurz",
+      "title": "Regex visualized as 3D marble run",
+      "description": "Score: 3 | Comments: 1 | Posted by seizethecheese",
+      "url": "https://www.regexmarblerun.com/",
+      "publishedAt": "2026-10-16T18:48:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "seizethecheese",
       "tags": []
     },
     {
@@ -168,6 +223,17 @@
       "tags": []
     },
     {
+      "id": "me0yi4",
+      "title": "Rendering pretty sky in Around The World game",
+      "description": "Score: 150 | Comments: 11 | Posted by ibobev",
+      "url": "https://frozenfractal.com/blog/2026/10/12/around-the-world-34-a-pretty-sky/",
+      "publishedAt": "2026-10-16T15:06:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
+      "tags": []
+    },
+    {
       "id": "1r0bzo",
       "title": "Waymo in Toronto",
       "description": "Score: 310 | Comments: 411 | Posted by ChrisArchitect",
@@ -245,6 +311,17 @@
       "tags": []
     },
     {
+      "id": "v5dgrx",
+      "title": "Show HN: Parin – A 2D game engine between raylib and Godot, written in Dlang",
+      "description": "Score: 64 | Comments: 16 | Posted by Kapendev",
+      "url": "https://github.com/Kapendev/parin",
+      "publishedAt": "2026-10-16T13:22:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Kapendev",
+      "tags": []
+    },
+    {
       "id": "3i65qq",
       "title": "My old job feels distant now",
       "description": "Score: 98 | Comments: 99 | Posted by speckx",
@@ -253,6 +330,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "speckx",
+      "tags": []
+    },
+    {
+      "id": "w5t7q5",
+      "title": "Superoptimizing an FPU Emulator",
+      "description": "Score: 28 | Comments: 3 | Posted by dverlaeckt80",
+      "url": "https://purplesyringa.moe/blog/superoptimizing-an-fpu-emulator/",
+      "publishedAt": "2026-10-16T13:08:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dverlaeckt80",
       "tags": []
     },
     {
@@ -308,6 +396,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "rohanm93",
+      "tags": []
+    },
+    {
+      "id": "fuaqe8",
+      "title": "Lean now ships with verified kernels",
+      "description": "Score: 143 | Comments: 48 | Posted by matt_d",
+      "url": "https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/",
+      "publishedAt": "2026-10-16T06:16:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "matt_d",
       "tags": []
     },
     {

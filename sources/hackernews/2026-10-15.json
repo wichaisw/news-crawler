@@ -47,6 +47,17 @@
       "tags": []
     },
     {
+      "id": "ahm8u4",
+      "title": "Southern ground hornbill gets 3D printed beak prostheses at Artis Zoo",
+      "description": "Score: 34 | Comments: 3 | Posted by jacquesm",
+      "url": "https://nltimes.nl/2026/10/15/world-first-southern-ground-hornbill-gets-3d-printed-beak-prostheses-artis-zoo",
+      "publishedAt": "2026-10-15T20:55:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jacquesm",
+      "tags": []
+    },
+    {
       "id": "lv95vj",
       "title": "What I self-host",
       "description": "Score: 507 | Comments: 320 | Posted by BrunoBernardino",
@@ -99,6 +110,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "bigwheels",
+      "tags": []
+    },
+    {
+      "id": "bcvotd",
+      "title": "Fun Extending the C Preprocessor",
+      "description": "Score: 27 | Comments: 7 | Posted by david2ndaccount",
+      "url": "https://www.davidpriver.com/Fun-Extending-the-C-Preprocessor.html",
+      "publishedAt": "2026-10-15T17:08:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "david2ndaccount",
       "tags": []
     },
     {
@@ -256,6 +278,28 @@
       "tags": []
     },
     {
+      "id": "fl0cym",
+      "title": "Laser Fault Injection on a Budget: RP2350 Edition (2025)",
+      "description": "Score: 62 | Comments: 17 | Posted by gregsadetsky",
+      "url": "https://courk.cc/rp2350-challenge-laser",
+      "publishedAt": "2026-10-15T10:24:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gregsadetsky",
+      "tags": []
+    },
+    {
+      "id": "50d2zv",
+      "title": "Furifont, a Japanese font that shows furigana",
+      "description": "Score: 350 | Comments: 70 | Posted by plaguna",
+      "url": "https://furifont.antfu.me/",
+      "publishedAt": "2026-10-15T08:48:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "plaguna",
+      "tags": []
+    },
+    {
       "id": "9bhye9",
       "title": "AI was great until it was not",
       "description": "Score: 78 | Comments: 56 | Posted by JohnHammersley",
@@ -275,6 +319,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "pramodbiligiri",
+      "tags": []
+    },
+    {
+      "id": "gp8ofu",
+      "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
+      "description": "Score: 191 | Comments: 28 | Posted by antirez",
+      "url": "https://github.com/antirez/c64-hw-simulator",
+      "publishedAt": "2026-10-15T07:18:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "antirez",
       "tags": []
     },
     {
