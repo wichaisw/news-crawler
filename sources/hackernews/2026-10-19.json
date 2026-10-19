@@ -1,0 +1,171 @@
+{
+  "date": "2026-10-19",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "yhutbw",
+      "title": "Harness Engineering 101: The LLM is the brain, the harness is the body",
+      "description": "Score: 13 | Comments: 1 | Posted by isuruwijesiri",
+      "url": "https://github.com/IsuruMaduranga/harness-engineering-101",
+      "publishedAt": "2026-10-19T12:07:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "isuruwijesiri",
+      "tags": []
+    },
+    {
+      "id": "n7knho",
+      "title": "Harness2 by Google Research – Recursive Agent Harnessing",
+      "description": "Score: 6 | Comments: 0 | Posted by irthomasthomas",
+      "url": "https://github.com/google-research/harness2",
+      "publishedAt": "2026-10-19T11:28:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "irthomasthomas",
+      "tags": []
+    },
+    {
+      "id": "md96qb",
+      "title": "ESA's Hera Will View Asteroid Scars from DART's Strike",
+      "description": "Score: 12 | Comments: 0 | Posted by rbanffy",
+      "url": "https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous",
+      "publishedAt": "2026-10-19T11:12:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rbanffy",
+      "tags": []
+    },
+    {
+      "id": "3oucbd",
+      "title": "Alternatives to Animal Testing Are Finally Taking Off",
+      "description": "Score: 14 | Comments: 0 | Posted by rbanffy",
+      "url": "https://spectrum.ieee.org/alternatives-to-animal-testing",
+      "publishedAt": "2026-10-19T11:10:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rbanffy",
+      "tags": []
+    },
+    {
+      "id": "mbkpmi",
+      "title": "A database of temperatures for large inland lakes across the coterminous U.S.",
+      "description": "Score: 4 | Comments: 1 | Posted by bryanrasmussen",
+      "url": "https://www.nature.com/articles/s41597-024-03103-8",
+      "publishedAt": "2026-10-19T11:08:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bryanrasmussen",
+      "tags": []
+    },
+    {
+      "id": "p9x6nw",
+      "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
+      "description": "Score: 38 | Comments: 8 | Posted by gslin",
+      "url": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
+      "publishedAt": "2026-10-19T10:53:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gslin",
+      "tags": []
+    },
+    {
+      "id": "ws5mbk",
+      "title": "Documents: Police officer gave her Flock login to her ICE agent husband",
+      "description": "Score: 124 | Comments: 52 | Posted by DeepLogin",
+      "url": "https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816",
+      "publishedAt": "2026-10-19T10:45:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "DeepLogin",
+      "tags": []
+    },
+    {
+      "id": "3yvjua",
+      "title": "Timestral: Mistral release time-series foundation models",
+      "description": "Score: 91 | Comments: 19 | Posted by groar",
+      "url": "https://mistral.ai/news/timestral/",
+      "publishedAt": "2026-10-19T09:59:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "groar",
+      "tags": []
+    },
+    {
+      "id": "v5qsg6",
+      "title": "Linux 7.3 Released",
+      "description": "Score: 310 | Comments: 135 | Posted by cjd8",
+      "url": "https://lwn.net/Articles/1101143/",
+      "publishedAt": "2026-10-19T07:23:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cjd8",
+      "tags": []
+    },
+    {
+      "id": "9wgtg1",
+      "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+      "description": "Score: 69 | Comments: 38 | Posted by ankitg12",
+      "url": "https://crystl.dev/guides/tmux-for-ai-agents/",
+      "publishedAt": "2026-10-19T05:55:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ankitg12",
+      "tags": []
+    },
+    {
+      "id": "lrzez9",
+      "title": "DeepSeek V4.1 Flash 1017 (Max)",
+      "description": "Score: 162 | Comments: 60 | Posted by theanonymousone",
+      "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
+      "publishedAt": "2026-10-19T04:41:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "theanonymousone",
+      "tags": []
+    },
+    {
+      "id": "fcoscc",
+      "title": "The Annotated VT100 Firmware",
+      "description": "Score: 15 | Comments: 2 | Posted by Aleksandr_NFA",
+      "url": "https://vt100.net/dec/vt100/rom/",
+      "publishedAt": "2026-10-19T02:40:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Aleksandr_NFA",
+      "tags": []
+    },
+    {
+      "id": "5wih7",
+      "title": "Superlite: A Faster Alternatie to Superpowers",
+      "description": "Score: 107 | Comments: 49 | Posted by iheatuchriswogu",
+      "url": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
+      "publishedAt": "2026-10-19T02:01:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "iheatuchriswogu",
+      "tags": []
+    },
+    {
+      "id": "qyz0lt",
+      "title": "Footage of the Flock search that a judge ruled was uncosntitutional",
+      "description": "Score: 120 | Comments: 57 | Posted by anigbrowl",
+      "url": "https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/",
+      "publishedAt": "2026-10-19T01:55:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "anigbrowl",
+      "tags": []
+    },
+    {
+      "id": "tff3c1",
+      "title": "Starcraft: Ashfall",
+      "description": "Score: 53 | Comments: 21 | Posted by debo_",
+      "url": "https://starcraft-shooter-2026.pages.dev/",
+      "publishedAt": "2026-10-19T01:18:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "debo_",
+      "tags": []
+    }
+  ]
+}

@@ -3,6 +3,193 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "1i2ytk",
+      "title": "William Gibson and the trademarking of cyberspace",
+      "description": "Score: 206 | Comments: 84 | Posted by Eric_Gullichsen",
+      "url": "https://colo.to/cyberspace.html",
+      "publishedAt": "2026-10-18T23:37:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Eric_Gullichsen",
+      "tags": []
+    },
+    {
+      "id": "idxjfg",
+      "title": "How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?",
+      "description": "Score: 86 | Comments: 100 | Posted by gmays",
+      "url": "https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base",
+      "publishedAt": "2026-10-18T23:37:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gmays",
+      "tags": []
+    },
+    {
+      "id": "1i22qu",
+      "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+      "description": "Score: 115 | Comments: 66 | Posted by zoozla",
+      "url": "https://github.com/finereli/whatsapp-mcp",
+      "publishedAt": "2026-10-18T21:36:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zoozla",
+      "tags": []
+    },
+    {
+      "id": "1v82b2",
+      "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+      "description": "Score: 207 | Comments: 149 | Posted by amrrs",
+      "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+      "publishedAt": "2026-10-18T21:09:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "amrrs",
+      "tags": []
+    },
+    {
+      "id": "qypz72",
+      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "description": "Score: 435 | Comments: 215 | Posted by allinonai",
+      "url": "https://arxiv.org/abs/2610.18861",
+      "publishedAt": "2026-10-18T20:48:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "allinonai",
+      "tags": []
+    },
+    {
+      "id": "zc35i3",
+      "title": "Free Pascal compiler now supports dynamic packages",
+      "description": "Score: 170 | Comments: 42 | Posted by sysrpl",
+      "url": "https://www.getlazarus.org/dynamic/",
+      "publishedAt": "2026-10-18T18:48:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sysrpl",
+      "tags": []
+    },
+    {
+      "id": "a0e1nt",
+      "title": "PalmOS Lemmings",
+      "description": "Score: 136 | Comments: 33 | Posted by memalign",
+      "url": "https://github.com/ardiri/palmos-lemmings",
+      "publishedAt": "2026-10-18T17:56:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "memalign",
+      "tags": []
+    },
+    {
+      "id": "lyvgqx",
+      "title": "Namecheap just seized and disabled all my domains",
+      "description": "Score: 597 | Comments: 307 | Posted by sashk",
+      "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
+      "publishedAt": "2026-10-18T16:56:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sashk",
+      "tags": []
+    },
+    {
+      "id": "c7p3ff",
+      "title": "Someone behind the software",
+      "description": "Score: 481 | Comments: 174 | Posted by tosh",
+      "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+      "publishedAt": "2026-10-18T16:32:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tosh",
+      "tags": []
+    },
+    {
+      "id": "6jd54u",
+      "title": "The Intel 8087 chip: floating-point addition and subtraction",
+      "description": "Score: 113 | Comments: 35 | Posted by pwg",
+      "url": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
+      "publishedAt": "2026-10-18T16:20:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pwg",
+      "tags": []
+    },
+    {
+      "id": "3jpezt",
+      "title": "macOS 15.8.2 Breaks OpenGL",
+      "description": "Score: 275 | Comments: 305 | Posted by Audiophilip",
+      "url": "https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550",
+      "publishedAt": "2026-10-18T15:26:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Audiophilip",
+      "tags": []
+    },
+    {
+      "id": "d3vynx",
+      "title": "Java sealed classes and exhaustive pattern matching",
+      "description": "Score: 177 | Comments: 138 | Posted by hnisjafx40",
+      "url": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
+      "publishedAt": "2026-10-18T14:47:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hnisjafx40",
+      "tags": []
+    },
+    {
+      "id": "y0ccug",
+      "title": "Show HN: Ranet3 – High performance policy routed IPsec mesh SD-WAN",
+      "description": "Score: 31 | Comments: 7 | Posted by StepBroBD",
+      "url": "https://ranet3.com/",
+      "publishedAt": "2026-10-18T14:31:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "StepBroBD",
+      "tags": []
+    },
+    {
+      "id": "hhy2u5",
+      "title": "RepRapMicron",
+      "description": "Score: 408 | Comments: 65 | Posted by RobotToaster",
+      "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
+      "publishedAt": "2026-10-18T13:48:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "RobotToaster",
+      "tags": []
+    },
+    {
+      "id": "wuji2k",
+      "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
+      "description": "Score: 194 | Comments: 116 | Posted by jsomau",
+      "url": "https://legendofhyrule.com/",
+      "publishedAt": "2026-10-18T13:06:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jsomau",
+      "tags": []
+    },
+    {
+      "id": "pklqr",
+      "title": "A new way to think about borrow checking (in reverse)",
+      "description": "Score: 100 | Comments: 9 | Posted by verdagon",
+      "url": "https://verdagon.dev/blog/reverse-borrow-checking",
+      "publishedAt": "2026-10-18T12:11:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "verdagon",
+      "tags": []
+    },
+    {
+      "id": "4kyoc5",
+      "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
+      "description": "Score: 210 | Comments: 16 | Posted by _Microft",
+      "url": "https://github.com/0x23/MicroManipulatorStepper",
+      "publishedAt": "2026-10-18T11:16:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "_Microft",
+      "tags": []
+    },
+    {
       "id": "e0yafn",
       "title": "Parser Combinators",
       "description": "Score: 17 | Comments: 2 | Posted by schindlabua",
@@ -110,6 +297,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "msub2",
+      "tags": []
+    },
+    {
+      "id": "g602l8",
+      "title": "Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky",
+      "description": "Score: 272 | Comments: 162 | Posted by gmays",
+      "url": "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky",
+      "publishedAt": "2026-10-18T01:38:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gmays",
       "tags": []
     },
     {

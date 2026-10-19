@@ -3,6 +3,28 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "i7gazb",
+      "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
+      "description": "Score: 410 | Comments: 513 | Posted by mdp2021",
+      "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
+      "publishedAt": "2026-10-17T23:26:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mdp2021",
+      "tags": []
+    },
+    {
+      "id": "z6kbm3",
+      "title": "I built a programming language that LLMs can't use",
+      "description": "Score: 216 | Comments: 170 | Posted by dom96",
+      "url": "https://blog.picheta.me/post/killswitch-lang/",
+      "publishedAt": "2026-10-17T22:26:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dom96",
+      "tags": []
+    },
+    {
       "id": "4o6rih",
       "title": "JDK 28",
       "description": "Score: 104 | Comments: 56 | Posted by ejboy",
@@ -55,6 +77,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "dchest",
+      "tags": []
+    },
+    {
+      "id": "nz1t",
+      "title": "Rabbits were a medieval royal luxury in England until the Black Death",
+      "description": "Score: 103 | Comments: 95 | Posted by samizdis",
+      "url": "https://phys.org/news/2026-10-rabbits-medieval-royal-luxury-england.html",
+      "publishedAt": "2026-10-17T14:07:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "samizdis",
       "tags": []
     },
     {
