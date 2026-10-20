@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-20",
+  "source": "theverge",
+  "articles": [
+    {
+      "id": "v0u58c",
+      "title": "Some Google Home Speakers caught downloading hundreds of gigs of data",
+      "description": "Some Google Home Speaker owners are currently experiencing an issue in which hundreds of gigabytes of data are being continuously downloaded to their device in the background. The bug, reported by 9to5Google and several Reddit users over the last week, may be caused by the speakers failing to correctly download and install a firmware update, [&#8230;]",
+      "url": "https://www.theverge.com/tech/1014209/google-home-speaker-bug-continuous-download",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268614_Google_Home_Speaker_JTuohy_0010.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-10-20T10:16:47.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Jess Weatherbed",
+      "tags": []
+    },
+    {
+      "id": "e4fv30",
+      "title": "Baseus’ new security camera has a spotlight that tracks and follows moving targets",
+      "description": "Baseus announced a new addition to its lineup of AI-assisted security cameras that's more proactive about discouraging unwanted visitors instead of just recording and alerting you to their presence. The Baseus Security PrimeSentinel U2 Pro Outdoor 3K Dual Camera introduces a motorized spotlight that shines directly on a moving target, even as they're running across [&#8230;]",
+      "url": "https://www.theverge.com/tech/1005073/baseus-security-primesentinel-u2-pro-outdoor-3k-dual-camera-tracking-spotlight",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/baseus1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-10-20T04:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Andrew Liszewski",
+      "tags": []
+    }
+  ]
+}

@@ -3,6 +3,204 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "m0ms7q",
+      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+      "description": "Score: 467 | Comments: 137 | Posted by ds",
+      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+      "publishedAt": "2026-10-19T23:22:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ds",
+      "tags": []
+    },
+    {
+      "id": "yr4lsn",
+      "title": "How abliterated models can get you pwned",
+      "description": "Score: 142 | Comments: 82 | Posted by chatmasta",
+      "url": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned",
+      "publishedAt": "2026-10-19T23:08:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "chatmasta",
+      "tags": []
+    },
+    {
+      "id": "akjlj3",
+      "title": "An ad-free Android TV",
+      "description": "Score: 234 | Comments: 80 | Posted by CraftThatBlock",
+      "url": "https://cretezy.com/2026/ad-free-android-tv",
+      "publishedAt": "2026-10-19T22:32:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "CraftThatBlock",
+      "tags": []
+    },
+    {
+      "id": "ntuk97",
+      "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
+      "description": "Score: 157 | Comments: 37 | Posted by doener",
+      "url": "https://bsd.network/@brynet/117407035545900963",
+      "publishedAt": "2026-10-19T21:11:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "doener",
+      "tags": []
+    },
+    {
+      "id": "8spi1z",
+      "title": "Putting Linux on my RTX Spark laptop because I don't have a Microsoft account",
+      "description": "Score: 245 | Comments: 122 | Posted by pfeifferj",
+      "url": "https://josie.lol/blog/linux-rtx-spark",
+      "publishedAt": "2026-10-19T21:08:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pfeifferj",
+      "tags": []
+    },
+    {
+      "id": "oe5aph",
+      "title": "One Hash Bloom Filters",
+      "description": "Score: 112 | Comments: 12 | Posted by jcalabro",
+      "url": "https://calabro.io/ohbf",
+      "publishedAt": "2026-10-19T20:50:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jcalabro",
+      "tags": []
+    },
+    {
+      "id": "hpbuxz",
+      "title": "The reverts will continue until morale improves",
+      "description": "Score: 222 | Comments: 43 | Posted by hans_castorp",
+      "url": "http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves",
+      "publishedAt": "2026-10-19T18:42:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hans_castorp",
+      "tags": []
+    },
+    {
+      "id": "kxbqtt",
+      "title": "Mercury 3: Diffusion at scale",
+      "description": "Score: 249 | Comments: 89 | Posted by cmrdporcupine",
+      "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+      "publishedAt": "2026-10-19T17:27:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cmrdporcupine",
+      "tags": []
+    },
+    {
+      "id": "xdm5m9",
+      "title": "Android apps running native on macOS",
+      "description": "Score: 319 | Comments: 174 | Posted by flocked",
+      "url": "https://github.com/kksimp/Mac.apk",
+      "publishedAt": "2026-10-19T16:45:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "flocked",
+      "tags": []
+    },
+    {
+      "id": "k5c9ei",
+      "title": "MiniMax M3.1 Flash",
+      "description": "Score: 472 | Comments: 200 | Posted by jtg",
+      "url": "https://www.minimax.io/blog/minimax-m31f",
+      "publishedAt": "2026-10-19T16:39:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jtg",
+      "tags": []
+    },
+    {
+      "id": "t9ha99",
+      "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
+      "description": "Score: 285 | Comments: 243 | Posted by cmrdporcupine",
+      "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
+      "publishedAt": "2026-10-19T16:16:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cmrdporcupine",
+      "tags": []
+    },
+    {
+      "id": "wptdl2",
+      "title": "Ukraine claims first drone evacuation of wounded soldier",
+      "description": "Score: 300 | Comments: 235 | Posted by yzydserd",
+      "url": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310",
+      "publishedAt": "2026-10-19T15:31:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "yzydserd",
+      "tags": []
+    },
+    {
+      "id": "e9wy5",
+      "title": "CERN and Mistral sign a statement of intent to establish a strategic partnership",
+      "description": "Score: 344 | Comments: 58 | Posted by kensai",
+      "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
+      "publishedAt": "2026-10-19T15:28:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kensai",
+      "tags": []
+    },
+    {
+      "id": "iiqnl2",
+      "title": "Agentic Monitoring",
+      "description": "Score: 100 | Comments: 17 | Posted by bcongdon",
+      "url": "https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/",
+      "publishedAt": "2026-10-19T14:52:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bcongdon",
+      "tags": []
+    },
+    {
+      "id": "1qzsrm",
+      "title": "Why Is Speculative Decoding Fast?",
+      "description": "Score: 11 | Comments: 0 | Posted by gmays",
+      "url": "https://jbarrow.ai/2026-10-08-why-is-speculative-decoding-fast/",
+      "publishedAt": "2026-10-19T13:53:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gmays",
+      "tags": []
+    },
+    {
+      "id": "poa6de",
+      "title": "Maxwell: A new kind of model that sits between code and hardware",
+      "description": "Score: 82 | Comments: 40 | Posted by laginimaineb",
+      "url": "https://heymaxwell.ai/",
+      "publishedAt": "2026-10-19T13:47:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "laginimaineb",
+      "tags": []
+    },
+    {
+      "id": "bkpaur",
+      "title": "Plex vulnerabilities being exploited in the wild to drop a cryptominer",
+      "description": "Score: 199 | Comments: 93 | Posted by mindracer",
+      "url": "http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html",
+      "publishedAt": "2026-10-19T13:36:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mindracer",
+      "tags": []
+    },
+    {
+      "id": "5kxqch",
+      "title": "Wine ported to OpenBSD",
+      "description": "Score: 573 | Comments: 195 | Posted by iamnothere",
+      "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
+      "publishedAt": "2026-10-19T13:35:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "iamnothere",
+      "tags": []
+    },
+    {
       "id": "yhutbw",
       "title": "Harness Engineering 101: The LLM is the brain, the harness is the body",
       "description": "Score: 13 | Comments: 1 | Posted by isuruwijesiri",
@@ -91,6 +289,17 @@
       "tags": []
     },
     {
+      "id": "3zz5ae",
+      "title": "I built a drone with only one motor [video]",
+      "description": "Score: 559 | Comments: 128 | Posted by hakonjdjohnsen",
+      "url": "https://www.youtube.com/watch?v=Ndftcft6XhU",
+      "publishedAt": "2026-10-19T09:05:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hakonjdjohnsen",
+      "tags": []
+    },
+    {
       "id": "v5qsg6",
       "title": "Linux 7.3 Released",
       "description": "Score: 310 | Comments: 135 | Posted by cjd8",
@@ -165,6 +374,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "debo_",
+      "tags": []
+    },
+    {
+      "id": "1sx16d",
+      "title": "'Der Viener Schlinger': The meat cannon that launched 20k hot dogs",
+      "description": "Score: 5 | Comments: 0 | Posted by NaOH",
+      "url": "https://flatwaterfreepress.org/der-viener-schlinger-the-meat-cannon-that-launched-20000-hot-dogs/",
+      "publishedAt": "2026-10-19T00:43:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "NaOH",
       "tags": []
     }
   ]

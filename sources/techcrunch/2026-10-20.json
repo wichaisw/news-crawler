@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-20",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3178995",
+      "title": "Yelp can now call on your behalf to check wait times at a restaurant",
+      "description": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized",
+      "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+      "publishedAt": "2026-10-20T11:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Ivan Mehta",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3179152",
+      "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+      "description": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst's Customer Value Fund (CVF), which",
+      "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+      "publishedAt": "2026-10-20T11:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Ivan Mehta",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3179422",
+      "title": "Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet",
+      "description": "Blackwall has raised $100M at a $2.2B valuation to continue building security and filtering tools that help websites grapple with growing bot and AI",
+      "url": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/",
+      "publishedAt": "2026-10-20T07:01:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Ram Iyer",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3179333",
+      "title": "Walmart’s Flipkart is quietly building a food delivery challenger in India",
+      "description": "Flipkart has expanded access to its food-delivery service to thousands of employees ahead of its public launch.",
+      "url": "https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india/",
+      "publishedAt": "2026-10-20T02:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Jagmeet Singh",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3179517",
+      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+      "description": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that",
+      "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+      "publishedAt": "2026-10-20T01:27:03.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Rebecca Bellan",
+      "tags": []
+    }
+  ]
+}
