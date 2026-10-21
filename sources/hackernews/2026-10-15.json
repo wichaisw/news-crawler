@@ -113,6 +113,17 @@
       "tags": []
     },
     {
+      "id": "kxzeo6",
+      "title": "SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful",
+      "description": "Score: 269 | Comments: 108 | Posted by dhorthy",
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md",
+      "publishedAt": "2026-10-15T19:09:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dhorthy",
+      "tags": []
+    },
+    {
       "id": "s8d7ju",
       "title": "How Postgres DELETE can actually scale",
       "description": "Score: 23 | Comments: 6 | Posted by KraftyOne",

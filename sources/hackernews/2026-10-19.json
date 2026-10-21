@@ -36,6 +36,17 @@
       "tags": []
     },
     {
+      "id": "8au6ym",
+      "title": "Does Ruby on Rails still make sense?",
+      "description": "Score: 13 | Comments: 1 | Posted by dajonker",
+      "url": "https://tech.dirkjonker.nl/does-ruby-on-rails-make-sense/",
+      "publishedAt": "2026-10-19T21:29:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dajonker",
+      "tags": []
+    },
+    {
       "id": "ntuk97",
       "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
       "description": "Score: 157 | Comments: 37 | Posted by doener",
@@ -157,6 +168,17 @@
       "tags": []
     },
     {
+      "id": "jxna65",
+      "title": "Meta's GB{2,3}00 Cluster",
+      "description": "Score: 86 | Comments: 36 | Posted by stokedmartin",
+      "url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/",
+      "publishedAt": "2026-10-19T14:23:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "stokedmartin",
+      "tags": []
+    },
+    {
       "id": "1qzsrm",
       "title": "Why Is Speculative Decoding Fast?",
       "description": "Score: 11 | Comments: 0 | Posted by gmays",
@@ -198,6 +220,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "iamnothere",
+      "tags": []
+    },
+    {
+      "id": "cvl836",
+      "title": "Borrow Checking Zero-Cost Cyclic Mutability",
+      "description": "Score: 36 | Comments: 2 | Posted by jfecher",
+      "url": "https://antelang.org/blog/safe_cyclic_mutability/",
+      "publishedAt": "2026-10-19T12:47:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jfecher",
+      "tags": []
+    },
+    {
+      "id": "syh87p",
+      "title": "Bonanza of new dates rewrites the history of the Inca",
+      "description": "Score: 15 | Comments: 3 | Posted by pseudolus",
+      "url": "https://www.science.org/content/article/bonanza-new-dates-rewrites-history-inca",
+      "publishedAt": "2026-10-19T12:13:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pseudolus",
       "tags": []
     },
     {
@@ -289,6 +333,17 @@
       "tags": []
     },
     {
+      "id": "rh20er",
+      "title": "Way to Play Super Mario 64: On Apple Vision Pro",
+      "description": "Score: 22 | Comments: 4 | Posted by frizlab",
+      "url": "https://www.pagetable.com/303",
+      "publishedAt": "2026-10-19T09:21:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "frizlab",
+      "tags": []
+    },
+    {
       "id": "3zz5ae",
       "title": "I built a drone with only one motor [video]",
       "description": "Score: 559 | Comments: 128 | Posted by hakonjdjohnsen",
@@ -297,6 +352,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "hakonjdjohnsen",
+      "tags": []
+    },
+    {
+      "id": "l6cuxx",
+      "title": "The Decoherence Trap",
+      "description": "Score: 55 | Comments: 15 | Posted by cassianoleal",
+      "url": "https://maevyn.codes/decoherence",
+      "publishedAt": "2026-10-19T08:35:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cassianoleal",
       "tags": []
     },
     {
@@ -322,6 +388,17 @@
       "tags": []
     },
     {
+      "id": "c86aow",
+      "title": "Composite objects and C++26 the std:polymorphic type",
+      "description": "Score: 31 | Comments: 29 | Posted by jandeboevrie",
+      "url": "https://mariusbancila.ro/blog/2026/10/18/composite-objects-and-cpp26-the-stdpolymorphic-type/",
+      "publishedAt": "2026-10-19T05:54:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jandeboevrie",
+      "tags": []
+    },
+    {
       "id": "lrzez9",
       "title": "DeepSeek V4.1 Flash 1017 (Max)",
       "description": "Score: 162 | Comments: 60 | Posted by theanonymousone",
@@ -330,6 +407,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "theanonymousone",
+      "tags": []
+    },
+    {
+      "id": "45gvre",
+      "title": "ZX Spectrum Next Laptop",
+      "description": "Score: 91 | Comments: 15 | Posted by utopcell",
+      "url": "https://www.dorchester3d.com/printing/blog/2020/11/zx-spectrum-next-laptop-version-2",
+      "publishedAt": "2026-10-19T02:48:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "utopcell",
       "tags": []
     },
     {

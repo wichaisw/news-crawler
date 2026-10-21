@@ -1,0 +1,171 @@
+{
+  "date": "2026-10-21",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "ctz34p",
+      "title": "Whatever Happened to Fire Escapespractical.engineering",
+      "description": "Score: 20 | Comments: 3 | Posted by sohkamyung",
+      "url": "https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes",
+      "publishedAt": "2026-10-21T10:22:30.901Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sohkamyung",
+      "tags": []
+    },
+    {
+      "id": "ctz34p",
+      "title": "Whatever Happened to Fire Escapes",
+      "description": "Score: 20 | Comments: 3 | Posted by sohkamyung",
+      "url": "https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes",
+      "publishedAt": "2026-10-21T10:14:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sohkamyung",
+      "tags": []
+    },
+    {
+      "id": "j15na5",
+      "title": "Eight Bits of Trust; eMudhra's CA keys cracked in millisecondsscotthelme.co.uk",
+      "description": "Score: 171 | Comments: 66 | Posted by hkc",
+      "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+      "publishedAt": "2026-10-21T09:22:30.900Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hkc",
+      "tags": []
+    },
+    {
+      "id": "j15na5",
+      "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+      "description": "Score: 171 | Comments: 66 | Posted by hkc",
+      "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+      "publishedAt": "2026-10-21T09:08:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hkc",
+      "tags": []
+    },
+    {
+      "id": "wmklfz",
+      "title": "The 1.5°C goal of the Paris Agreement is no longer viable",
+      "description": "Score: 275 | Comments: 300 | Posted by velo_aprx",
+      "url": "https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/",
+      "publishedAt": "2026-10-21T09:07:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "velo_aprx",
+      "tags": []
+    },
+    {
+      "id": "9btyf",
+      "title": "Finland Buying a Million Landmines",
+      "description": "Score: 6 | Comments: 2 | Posted by vrganj",
+      "url": "https://yle.fi/a/74-20252139",
+      "publishedAt": "2026-10-21T08:43:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vrganj",
+      "tags": []
+    },
+    {
+      "id": "eknu4u",
+      "title": "Pillowfort Is Closing",
+      "description": "Score: 49 | Comments: 25 | Posted by BrenBarn",
+      "url": "https://www.pillowfort.social/posts/8413273",
+      "publishedAt": "2026-10-21T05:05:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "BrenBarn",
+      "tags": []
+    },
+    {
+      "id": "mejt2z",
+      "title": "Battlezone Online: BZFlag in the Browser",
+      "description": "Score: 33 | Comments: 24 | Posted by indigodaddy",
+      "url": "https://github.com/timriker/bzo",
+      "publishedAt": "2026-10-21T05:05:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "indigodaddy",
+      "tags": []
+    },
+    {
+      "id": "wlsjo2",
+      "title": "Setting Up SSH Keys on macOS with Touch ID",
+      "description": "Score: 63 | Comments: 40 | Posted by civilchaos",
+      "url": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/",
+      "publishedAt": "2026-10-21T03:51:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "civilchaos",
+      "tags": []
+    },
+    {
+      "id": "whe99o",
+      "title": "Using Claude to reduce the attack surface of code",
+      "description": "Score: 59 | Comments: 23 | Posted by dnw",
+      "url": "https://www.anthropic.com/research/attack-surface-reduction",
+      "publishedAt": "2026-10-21T03:36:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dnw",
+      "tags": []
+    },
+    {
+      "id": "1l6poq",
+      "title": "C# now beats Rust on WASM size",
+      "description": "Score: 83 | Comments: 30 | Posted by sumnole",
+      "url": "https://github.com/zion-sati/NetWasm",
+      "publishedAt": "2026-10-21T02:53:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sumnole",
+      "tags": []
+    },
+    {
+      "id": "9q3t2s",
+      "title": "In Hilbert space, all things are quantumly possible",
+      "description": "Score: 101 | Comments: 54 | Posted by unprovable",
+      "url": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
+      "publishedAt": "2026-10-21T02:04:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "unprovable",
+      "tags": []
+    },
+    {
+      "id": "h2xber",
+      "title": "The Future of CSS",
+      "description": "Score: 404 | Comments: 164 | Posted by soheilpro",
+      "url": "https://www.joshwcomeau.com/css/interop-2027/",
+      "publishedAt": "2026-10-21T01:47:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "soheilpro",
+      "tags": []
+    },
+    {
+      "id": "jcyoz",
+      "title": "Good type against all odds",
+      "description": "Score: 137 | Comments: 12 | Posted by firloop",
+      "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
+      "publishedAt": "2026-10-21T01:45:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "firloop",
+      "tags": []
+    },
+    {
+      "id": "p9rgbr",
+      "title": "Muse exposes users' personal and business secrets when they share conversations",
+      "description": "Score: 199 | Comments: 94 | Posted by gumby",
+      "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+      "publishedAt": "2026-10-21T00:45:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gumby",
+      "tags": []
+    }
+  ]
+}
