@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-22",
+  "source": "theverge",
+  "articles": [
+    {
+      "id": "eooc0q",
+      "title": "Eiliko maker says it's hiring an ‘independent security firm’ after Verge report on its insecure robots",
+      "description": "Eiliko, a cute robot charm you can hang on your bag with built-in AI conversations, turned out to be a security nightmare. It told owners that \"your secrets are safe with me,\" but hackers could easily read complete transcripts of everything we told the toy, and that was just the beginning. The Verge and security [&#8230;]",
+      "url": "https://www.theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-breach",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eiliko-verge-sean-012.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-10-22T11:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Sean Hollister",
+      "tags": []
+    }
+  ]
+}

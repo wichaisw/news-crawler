@@ -1,0 +1,138 @@
+{
+  "date": "2026-10-22",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "zesl5p",
+      "title": "Several Linux kernel vulnerabilities accidentally posted to public mailing list",
+      "description": "Score: 6 | Comments: 0 | Posted by mrkn1",
+      "url": "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities",
+      "publishedAt": "2026-10-22T11:12:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mrkn1",
+      "tags": []
+    },
+    {
+      "id": "jgnz3l",
+      "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
+      "description": "Score: 48 | Comments: 8 | Posted by molind",
+      "url": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
+      "publishedAt": "2026-10-22T09:31:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "molind",
+      "tags": []
+    },
+    {
+      "id": "9drajv",
+      "title": "CVE-2026-111943: Compromised Intermediate Certificate Authoritynist.gov",
+      "description": "Score: 140 | Comments: 34 | Posted by keks24",
+      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
+      "publishedAt": "2026-10-22T09:21:31.984Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "keks24",
+      "tags": []
+    },
+    {
+      "id": "vxhy7w",
+      "title": "Cloudflare is rewriting everything in Rust",
+      "description": "Score: 11 | Comments: 3 | Posted by tonyedgecombe",
+      "url": "https://kerkour.com/rust-at-cloudflare",
+      "publishedAt": "2026-10-22T09:04:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tonyedgecombe",
+      "tags": []
+    },
+    {
+      "id": "9drajv",
+      "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
+      "description": "Score: 142 | Comments: 34 | Posted by keks24",
+      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
+      "publishedAt": "2026-10-22T08:51:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "keks24",
+      "tags": []
+    },
+    {
+      "id": "finzkl",
+      "title": "Achieving AI-style reasoning without an LLM",
+      "description": "Score: 39 | Comments: 20 | Posted by edwardchalk",
+      "url": "https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/",
+      "publishedAt": "2026-10-22T08:46:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "edwardchalk",
+      "tags": []
+    },
+    {
+      "id": "ntr89w",
+      "title": "Jailbreaking the Switch 2",
+      "description": "Score: 15 | Comments: 1 | Posted by ledoge",
+      "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+      "publishedAt": "2026-10-22T08:01:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ledoge",
+      "tags": []
+    },
+    {
+      "id": "46f8u0",
+      "title": "OpenAI CLI",
+      "description": "Score: 137 | Comments: 79 | Posted by armcat",
+      "url": "https://github.com/openai/openai-cli",
+      "publishedAt": "2026-10-22T05:23:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "armcat",
+      "tags": []
+    },
+    {
+      "id": "jx99fq",
+      "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+      "description": "Score: 217 | Comments: 149 | Posted by craigcitro",
+      "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
+      "publishedAt": "2026-10-22T02:30:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "craigcitro",
+      "tags": []
+    },
+    {
+      "id": "6igzbn",
+      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+      "description": "Score: 254 | Comments: 80 | Posted by alphax314",
+      "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+      "publishedAt": "2026-10-22T02:18:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "alphax314",
+      "tags": []
+    },
+    {
+      "id": "3ac8hv",
+      "title": "Claude Now Works with Google Docs, Sheets, and Slides",
+      "description": "Score: 48 | Comments: 6 | Posted by gmays",
+      "url": "https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides",
+      "publishedAt": "2026-10-22T02:17:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gmays",
+      "tags": []
+    },
+    {
+      "id": "76jnm",
+      "title": "Epic Games Inc v Apple Inc",
+      "description": "Score: 155 | Comments: 119 | Posted by Mayzie",
+      "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552",
+      "publishedAt": "2026-10-22T01:52:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Mayzie",
+      "tags": []
+    }
+  ]
+}

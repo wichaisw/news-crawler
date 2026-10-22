@@ -157,6 +157,17 @@
       "tags": []
     },
     {
+      "id": "kthee3",
+      "title": "Beyond the &",
+      "description": "Score: 73 | Comments: 5 | Posted by PaulHoule",
+      "url": "https://lwn.net/Articles/1096028/",
+      "publishedAt": "2026-10-20T13:59:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "PaulHoule",
+      "tags": []
+    },
+    {
       "id": "cmyzxo",
       "title": "eMudhra intermediate CA compromise",
       "description": "Score: 1001 | Comments: 415 | Posted by galadran",
@@ -333,6 +344,17 @@
       "tags": []
     },
     {
+      "id": "7vm3pt",
+      "title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
+      "description": "Score: 227 | Comments: 51 | Posted by bryanrasmussen",
+      "url": "https://www.bbc.com/news/articles/cp814l80pw2o",
+      "publishedAt": "2026-10-20T06:20:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bryanrasmussen",
+      "tags": []
+    },
+    {
       "id": "yl1qnc",
       "title": "Nordwand Mono – A monospace font for coders and adventurersgithub.com/tywr",
       "description": "Score: 291 | Comments: 92 | Posted by noriax86",
@@ -352,6 +374,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "romeo19361",
+      "tags": []
+    },
+    {
+      "id": "gb6kgo",
+      "title": "No more icons in every menu by default",
+      "description": "Score: 338 | Comments: 205 | Posted by riffraff",
+      "url": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/",
+      "publishedAt": "2026-10-20T04:27:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "riffraff",
+      "tags": []
+    },
+    {
+      "id": "5i562s",
+      "title": "ThinkPad I9990303 Error Catch-22",
+      "description": "Score: 31 | Comments: 4 | Posted by userbinator",
+      "url": "http://www.os2museum.com/wp/thinkpad-i9990303-error-catch-22/",
+      "publishedAt": "2026-10-20T04:16:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "userbinator",
       "tags": []
     },
     {
@@ -385,6 +429,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "privong",
+      "tags": []
+    },
+    {
+      "id": "j1sgv7",
+      "title": "What Is the Karakoram Anomaly?",
+      "description": "Score: 40 | Comments: 8 | Posted by thunderbong",
+      "url": "https://nsidc.org/learn/ask-scientist/karakoram-anomaly-it-real",
+      "publishedAt": "2026-10-20T01:26:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thunderbong",
+      "tags": []
+    },
+    {
+      "id": "3kkzqc",
+      "title": "Why Windows 11 still ships with Windows 95's memory manager hidden inside it",
+      "description": "Score: 177 | Comments: 120 | Posted by khalidkhair",
+      "url": "https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/",
+      "publishedAt": "2026-10-20T00:14:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "khalidkhair",
       "tags": []
     },
     {

@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-22",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "151981 at https://www.blognone.com",
+      "title": "Cloudflare ช่วยป้องกันช่องโหว่ PHP2Shell ผ่าน WAF, เปิดให้ทุกคนใช้ฟรี",
+      "description": "Cloudflare ช่วยป้องกันช่องโหว่ PHP2Shell ผ่าน WAF, เปิดให้ทุกคนใช้ฟรี Body Cloudflare ประกาศช่วยป้องกัน ช่องโหว่ PHP2Shell ช่องโหว่ร้ายแรงของ PHP",
+      "url": "https://www.blognone.com/node/151981",
+      "publishedAt": "2026-10-22T04:49:42.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "151980 at https://www.blognone.com",
+      "title": "Salesforce ซื้อกิจการ Braze แพลตฟอร์มบริหาร Customer Engagement มูลค่าดีล 5.66 พันล้านดอลลาร์",
+      "description": "Salesforce ซื้อกิจการ Braze แพลตฟอร์มบริหาร Customer Engagement มูลค่าดีล 5.66 พันล้านดอลลาร์ Body Salesforce ประกาศซื้อกิจการ Braze",
+      "url": "https://www.blognone.com/node/151980",
+      "publishedAt": "2026-10-22T00:33:52.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}
