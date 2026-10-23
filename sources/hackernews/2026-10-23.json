@@ -1,0 +1,127 @@
+{
+  "date": "2026-10-23",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "esv7t1",
+      "title": "Dutch government had hacked into Jared Kushner's phone",
+      "description": "Score: 16 | Comments: 3 | Posted by teekert",
+      "url": "https://twitter.com/jaredkushner/status/2113376217415958767",
+      "publishedAt": "2026-10-23T10:41:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "teekert",
+      "tags": []
+    },
+    {
+      "id": "x06pmc",
+      "title": "Jared Kushner's Hacked Phone Revealed His Secret Negotiations",
+      "description": "Score: 5 | Comments: 3 | Posted by alexander2002",
+      "url": "https://wallhop.io/https://www.vanityfair.com//story/jared-kushner-hacked-phone-secret-negotiations",
+      "publishedAt": "2026-10-23T10:28:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "alexander2002",
+      "tags": []
+    },
+    {
+      "id": "h2wk3b",
+      "title": "How Generative AI Is Scaling Transnational Repression",
+      "description": "Score: 6 | Comments: 0 | Posted by pluc",
+      "url": "https://www.justsecurity.org/159245/how-generative-ai-scaling-transnational-repression/",
+      "publishedAt": "2026-10-23T10:15:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pluc",
+      "tags": []
+    },
+    {
+      "id": "fy35rl",
+      "title": "The Rise and Fall of Jev",
+      "description": "Score: 25 | Comments: 17 | Posted by flail",
+      "url": "https://blog.alexewerlof.com/p/rise-and-fall-of-jev-eval-hype-vs-llm",
+      "publishedAt": "2026-10-23T09:21:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "flail",
+      "tags": []
+    },
+    {
+      "id": "fp6m6q",
+      "title": "Remove pgrust: the entry is cheating",
+      "description": "Score: 13 | Comments: 1 | Posted by f311a",
+      "url": "https://github.com/ClickHouse/ClickBench/pull/2165",
+      "publishedAt": "2026-10-23T08:05:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "f311a",
+      "tags": []
+    },
+    {
+      "id": "dh30fd",
+      "title": "ReactOS reaches major milestone with NTFS install support",
+      "description": "Score: 25 | Comments: 2 | Posted by vintagedave",
+      "url": "https://arstechnica.com/information-technology/2026/10/reactos-reaches-major-milestone-with-ntfs-install-support/",
+      "publishedAt": "2026-10-23T07:25:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vintagedave",
+      "tags": []
+    },
+    {
+      "id": "k3h5ak",
+      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from youedjefferson.com",
+      "description": "Score: 477 | Comments: 115 | Posted by sohkamyung",
+      "url": "https://edjefferson.com/localwiki/",
+      "publishedAt": "2026-10-23T06:12:24.749Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sohkamyung",
+      "tags": []
+    },
+    {
+      "id": "5jebbg",
+      "title": "This I Believe (1952)",
+      "description": "Score: 96 | Comments: 36 | Posted by ctoth",
+      "url": "https://www.awakin.org/v2/read/view.php?tid=468",
+      "publishedAt": "2026-10-23T02:19:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ctoth",
+      "tags": []
+    },
+    {
+      "id": "3i3wfz",
+      "title": "The foolishness of \"natural language programming\" (1978)",
+      "description": "Score: 199 | Comments: 114 | Posted by xiaoyu2006",
+      "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+      "publishedAt": "2026-10-23T00:52:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "xiaoyu2006",
+      "tags": []
+    },
+    {
+      "id": "f4s8se",
+      "title": "Docker is weirdcodeandcake.dev",
+      "description": "Score: 529 | Comments: 234 | Posted by psxuaw",
+      "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+      "publishedAt": "2026-10-23T00:12:24.750Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "psxuaw",
+      "tags": []
+    },
+    {
+      "id": "vgyrkf",
+      "title": "Show HN: Making a smart TV dumb and then smart",
+      "description": "Score: 28 | Comments: 3 | Posted by animalhot",
+      "url": "https://github.com/anubhavmalhotra/r2d2-tv",
+      "publishedAt": "2026-10-23T00:10:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "animalhot",
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-23",
+  "source": "theverge",
+  "articles": [
+    {
+      "id": "nxy5er",
+      "title": "Startup equips genetically enhanced dogs with Palmer Luckey's military tech",
+      "description": "A new Texas-based defense startup has a plan to improve military and police dogs in the US: it's going to genetically modify them and equip them with Anduril's military technology. Warhound is the brainchild of Anduril's Palmer Luckey and Ben Lamm, co-founder of Colossal Biosciences (the company that says it's trying to resurrect extinct animals), [&#8230;]",
+      "url": "https://www.theverge.com/tech/1017343/warhound-palmer-luckey-anduril-colossal-war-dogs",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Warhound-Palmer-Luckey-startup-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-10-23T10:58:03.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Jess Weatherbed",
+      "tags": []
+    },
+    {
+      "id": "mlgton",
+      "title": "No, the iPhone Duo isn’t a small phone",
+      "description": "When we published our review of the iPhone Duo, I got a lot of hopeful questions from my fellow Mini fans who took note of the cover screen's Mini-ish 5.4-inch size. \"Is this… a small phone that turns into a tablet?\" they asked. And I'm sorry to be the bearer of bad news, but no. [&#8230;]",
+      "url": "https://www.theverge.com/tech/1017090/iphone-duo-screen-size-mini",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04350_processed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-10-23T10:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Allison Johnson",
+      "tags": []
+    },
+    {
+      "id": "wid37i",
+      "title": "Etsy is cracking down on AI slop listings",
+      "description": "Etsy is announcing stricter rules about how AI can be used in listings to reduce the volume of AI slop on the platform. In a post, the company says that \"many active buyers say they can't tell which items involve AI-generated content\" and that sellers are \"concerned about your work appearing alongside items that use [&#8230;]",
+      "url": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-5.03.44-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,82.725656291205",
+      "publishedAt": "2026-10-23T00:09:58.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Jay Peters",
+      "tags": []
+    }
+  ]
+}

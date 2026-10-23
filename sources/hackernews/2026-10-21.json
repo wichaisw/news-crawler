@@ -223,6 +223,17 @@
       "tags": []
     },
     {
+      "id": "j8jzx7",
+      "title": "I reverse engineered a board game",
+      "description": "Score: 47 | Comments: 17 | Posted by wuemeli",
+      "url": "https://wuemeli.com/blog/reversing-hitster-game/",
+      "publishedAt": "2026-10-21T13:40:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wuemeli",
+      "tags": []
+    },
+    {
       "id": "agoquz",
       "title": "Using thousands of AI agents to uncover new leads in biological data",
       "description": "Score: 146 | Comments: 95 | Posted by raahelb",
@@ -231,6 +242,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "raahelb",
+      "tags": []
+    },
+    {
+      "id": "gwo5d",
+      "title": "Show HN: Uberblok – an interactive museum of ZFS internals",
+      "description": "Score: 109 | Comments: 28 | Posted by storagebits",
+      "url": "https://uberblok.storagebits.workers.dev/",
+      "publishedAt": "2026-10-21T13:04:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "storagebits",
       "tags": []
     },
     {
