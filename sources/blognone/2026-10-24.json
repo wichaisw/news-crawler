@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-24",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "152004 at https://www.blognone.com",
+      "title": "Google อัปเดตนโยบายความเป็นส่วนตัว อาจใช้ข้อมูลใน Drive, Photos มาปรับแต่งโฆษณา หากเชื่อมต่อกับ Personal Intelligence ไว้",
+      "description": "Google อัปเดตนโยบายความเป็นส่วนตัว อาจใช้ข้อมูลใน Drive, Photos มาปรับแต่งโฆษณา หากเชื่อมต่อกับ Personal Intelligence ไว้ Body",
+      "url": "https://www.blognone.com/node/152004",
+      "publishedAt": "2026-10-24T09:13:03.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "152003 at https://www.blognone.com",
+      "title": "Gemini เปิดใช้ฟีเจอร์ Personal Intelligence กับการใช้งานในรถยนต์แล้ว",
+      "description": "Gemini เปิดใช้ฟีเจอร์ Personal Intelligence กับการใช้งานในรถยนต์แล้ว Body กูเกิลเริ่มปล่อย ฟีเจอร์ Personal Intelligence (ที่เปิดทางให้ Gemini",
+      "url": "https://www.blognone.com/node/152003",
+      "publishedAt": "2026-10-24T08:05:37.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "152002 at https://www.blognone.com",
+      "title": "OpenAI ปรับแนวทางฝึกฝนโมเดล AI ความปลอดภัยขั้นสูง สร้างโลกออฟไลน์ ป้องกันโมเดลแหกคุกไปเจาะระบบภายนอกอีก",
+      "description": "OpenAI ปรับแนวทางฝึกฝนโมเดล AI ความปลอดภัยขั้นสูง สร้างโลกออฟไลน์ ป้องกันโมเดลแหกคุกไปเจาะระบบภายนอกอีก Body OpenAI ประกาศแนวทางใหม่ในการฝึกฝนโมเดล",
+      "url": "https://www.blognone.com/node/152002",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2026/2026-10/securing-our-frontier-model-training-environment-diagram-desktop-light.jpg",
+      "publishedAt": "2026-10-24T07:36:57.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "152001 at https://www.blognone.com",
+      "title": "Microsoft Teams บนพีซีเพิ่ม Efficiency Mode สำหรับเครื่องสเปกต่ำ, ปรับปรุงประสิทธิภาพบน Android",
+      "description": "Microsoft Teams บนพีซีเพิ่ม Efficiency Mode สำหรับเครื่องสเปกต่ำ, ปรับปรุงประสิทธิภาพบน Android Body ทีมพัฒนา Microsoft Teams",
+      "url": "https://www.blognone.com/node/152001",
+      "publishedAt": "2026-10-24T06:57:44.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "152000 at https://www.blognone.com",
+      "title": "Moonshot AI เปิดตัว Kimi K3.1 Pro ผลทดสอบใกล้เคียง Opus 5.5 ราคาถูกกว่า K3 30%",
+      "description": "Moonshot AI เปิดตัว Kimi K3.1 Pro ผลทดสอบใกล้เคียง Opus 5.5 ราคาถูกกว่า K3 30% Body Moonshot AI ผู้สร้างโมเดลปัญญาประดิษฐ์ในตระกูล Kimi เปิดตัว Kimi",
+      "url": "https://www.blognone.com/node/152000",
+      "publishedAt": "2026-10-24T04:29:56.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "date": "2026-10-24",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "qax07g",
+      "title": "I Don't Understand Quantum Physics",
+      "description": "Score: 28 | Comments: 12 | Posted by rramadass",
+      "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+      "publishedAt": "2026-10-24T09:53:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rramadass",
+      "tags": []
+    },
+    {
+      "id": "q6nbo4",
+      "title": "US-Israeli browser startup valued at $6.4B",
+      "description": "Score: 3 | Comments: 0 | Posted by wow_Something",
+      "url": "https://www.timesofisrael.com/us-israeli-browser-startup-valued-at-6-4-billion-as-ai-agents-reshape-workplace-risk/",
+      "publishedAt": "2026-10-24T09:38:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wow_Something",
+      "tags": []
+    },
+    {
+      "id": "dkoic2",
+      "title": "ThinkRail from JetBrains",
+      "description": "Score: 28 | Comments: 19 | Posted by wilsonjholmes",
+      "url": "https://thinkrail.ai/",
+      "publishedAt": "2026-10-24T08:08:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wilsonjholmes",
+      "tags": []
+    },
+    {
+      "id": "996po7",
+      "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+      "description": "Score: 7 | Comments: 0 | Posted by theanonymousone",
+      "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+      "publishedAt": "2026-10-24T08:06:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "theanonymousone",
+      "tags": []
+    },
+    {
+      "id": "u3zeh",
+      "title": "That AI Temptation",
+      "description": "Score: 3 | Comments: 1 | Posted by robin_reala",
+      "url": "https://www.tbray.org/ongoing/When/202x/2026/10/19/The-AI-Temptation",
+      "publishedAt": "2026-10-24T06:18:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "robin_reala",
+      "tags": []
+    },
+    {
+      "id": "szl0bz",
+      "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+      "description": "Score: 153 | Comments: 31 | Posted by testing22321",
+      "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+      "publishedAt": "2026-10-24T05:49:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "testing22321",
+      "tags": []
+    },
+    {
+      "id": "r01r3w",
+      "title": "OBS Studio 33",
+      "description": "Score: 165 | Comments: 48 | Posted by pentagrama",
+      "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+      "publishedAt": "2026-10-24T04:49:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pentagrama",
+      "tags": []
+    },
+    {
+      "id": "4nno50",
+      "title": "How close can pure functional programming get to C?",
+      "description": "Score: 126 | Comments: 16 | Posted by stmonty",
+      "url": "https://rtfeldman.com/fp-vs-c",
+      "publishedAt": "2026-10-24T03:43:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "stmonty",
+      "tags": []
+    },
+    {
+      "id": "k3k60o",
+      "title": "How Block Blast harvests its players for ad money",
+      "description": "Score: 55 | Comments: 20 | Posted by motionlessveloc",
+      "url": "https://ayoships.com/breakdowns/block-blast",
+      "publishedAt": "2026-10-24T02:43:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "motionlessveloc",
+      "tags": []
+    },
+    {
+      "id": "2s94e0",
+      "title": "Apple Security Research Device",
+      "description": "Score: 71 | Comments: 22 | Posted by neom",
+      "url": "https://security.apple.com/research-device/",
+      "publishedAt": "2026-10-24T02:36:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "neom",
+      "tags": []
+    },
+    {
+      "id": "dt8ux5",
+      "title": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques",
+      "description": "Score: 104 | Comments: 23 | Posted by amichail",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
+      "publishedAt": "2026-10-24T01:53:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "amichail",
+      "tags": []
+    },
+    {
+      "id": "d6rbkv",
+      "title": "Twelve years of distributed SQLite",
+      "description": "Score: 210 | Comments: 28 | Posted by otoolep",
+      "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+      "publishedAt": "2026-10-24T01:16:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "otoolep",
+      "tags": []
+    },
+    {
+      "id": "6yyg01",
+      "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
+      "description": "Score: 98 | Comments: 11 | Posted by privacyishuman",
+      "url": "https://grapheneos.social/@GrapheneOS/117492375462459244",
+      "publishedAt": "2026-10-24T01:15:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "privacyishuman",
+      "tags": []
+    }
+  ]
+}
