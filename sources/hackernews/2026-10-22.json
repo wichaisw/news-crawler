@@ -267,6 +267,28 @@
       "tags": []
     },
     {
+      "id": "ws1a7l",
+      "title": "In Rainbows",
+      "description": "Score: 28 | Comments: 8 | Posted by surprisetalk",
+      "url": "https://hitogata.neocities.org/Rainbows",
+      "publishedAt": "2026-10-22T13:20:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
+      "id": "uxog0j",
+      "title": "Rewriting a Commercial Engine in Jai",
+      "description": "Score: 26 | Comments: 15 | Posted by frading",
+      "url": "https://polygonjs.com/blog/why-i-rewrote-polygon-from-scratch",
+      "publishedAt": "2026-10-22T12:50:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "frading",
+      "tags": []
+    },
+    {
       "id": "3vi71k",
       "title": "How to run a city builder on 16 MHz",
       "description": "Score: 16 | Comments: 3 | Posted by rex64",
@@ -289,6 +311,17 @@
       "tags": []
     },
     {
+      "id": "p7tn1p",
+      "title": "Tablesample Picks Rows",
+      "description": "Score: 4 | Comments: 0 | Posted by surprisetalk",
+      "url": "https://boringsql.com/posts/tablesample/",
+      "publishedAt": "2026-10-22T12:00:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
       "id": "5qippd",
       "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you bought",
       "description": "Score: 309 | Comments: 285 | Posted by entryleveljobsc",
@@ -297,6 +330,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "entryleveljobsc",
+      "tags": []
+    },
+    {
+      "id": "23tedr",
+      "title": "How Japanese Dried Bonito Is Made",
+      "description": "Score: 50 | Comments: 18 | Posted by bookofjoe",
+      "url": "https://kottke.org/26/10/how-japanese-dried-bonito-is-made",
+      "publishedAt": "2026-10-22T11:31:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bookofjoe",
       "tags": []
     },
     {
@@ -352,6 +396,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "tonyedgecombe",
+      "tags": []
+    },
+    {
+      "id": "hacrmi",
+      "title": "TornadoVM 7 Enables GPU-Native Workloads from Java Applications",
+      "description": "Score: 90 | Comments: 21 | Posted by pjmlp",
+      "url": "https://www.infoq.com/news/2026/10/tornadovm-7-gpu/",
+      "publishedAt": "2026-10-22T09:01:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pjmlp",
       "tags": []
     },
     {

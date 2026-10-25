@@ -69,6 +69,17 @@
       "tags": []
     },
     {
+      "id": "aau19n",
+      "title": "A story of a Figma bug that wasn't a bug at all (2021)",
+      "description": "Score: 33 | Comments: 1 | Posted by jllyhill",
+      "url": "https://aresluna.org/this-is-a-story-of-a-figma-bug/",
+      "publishedAt": "2026-10-21T19:30:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jllyhill",
+      "tags": []
+    },
+    {
       "id": "j6yicg",
       "title": "Claude Duet",
       "description": "Score: 408 | Comments: 372 | Posted by kuberwastaken",
@@ -289,6 +300,17 @@
       "tags": []
     },
     {
+      "id": "9v0sy8",
+      "title": "Tiling Noise – Procedural GPU Patterns",
+      "description": "Score: 60 | Comments: 2 | Posted by ibobev",
+      "url": "https://catlikecoding.com/godot/procedural-gpu-patterns/09-tiling-noise/",
+      "publishedAt": "2026-10-21T13:04:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
+      "tags": []
+    },
+    {
       "id": "kfnoc2",
       "title": "OpenAI models are coming to Google Cloud",
       "description": "Score: 295 | Comments: 122 | Posted by armcat",
@@ -297,6 +319,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "armcat",
+      "tags": []
+    },
+    {
+      "id": "gfhlkx",
+      "title": "Cecilia Berdichevsky, Clementina expert (1961)",
+      "description": "Score: 33 | Comments: 2 | Posted by fedecaccia",
+      "url": "https://en.wikipedia.org/wiki/Cecilia_Berdichevsky",
+      "publishedAt": "2026-10-21T12:40:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fedecaccia",
       "tags": []
     },
     {
@@ -385,6 +418,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "simfinii",
+      "tags": []
+    },
+    {
+      "id": "kw67l3",
+      "title": "Pragtical v3.14 Lua-based text editor adds menus, floating views, and sessions",
+      "description": "Score: 17 | Comments: 2 | Posted by rd07",
+      "url": "https://pragtical.dev/blog/pragtical-v3140-release",
+      "publishedAt": "2026-10-21T06:09:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rd07",
       "tags": []
     },
     {

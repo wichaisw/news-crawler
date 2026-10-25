@@ -69,6 +69,17 @@
       "tags": []
     },
     {
+      "id": "9v3vc0",
+      "title": "I Built a Stereo Vision Board for Hardware Hackers",
+      "description": "Score: 84 | Comments: 15 | Posted by machinehum",
+      "url": "https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers/",
+      "publishedAt": "2026-10-20T20:45:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "machinehum",
+      "tags": []
+    },
+    {
       "id": "sd7en9",
       "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
       "description": "Score: 994 | Comments: 400 | Posted by xd",
@@ -77,6 +88,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "xd",
+      "tags": []
+    },
+    {
+      "id": "c95yvi",
+      "title": "Symbolic Learning in Python and Julia",
+      "description": "Score: 67 | Comments: 15 | Posted by alex_hirner",
+      "url": "https://github.com/astroautomata/PySR",
+      "publishedAt": "2026-10-20T20:07:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "alex_hirner",
       "tags": []
     },
     {
@@ -146,6 +168,17 @@
       "tags": []
     },
     {
+      "id": "rmbc78",
+      "title": "Social dynamics of toxic metal industry in medieval Europe",
+      "description": "Score: 51 | Comments: 23 | Posted by XzetaU8",
+      "url": "https://www.cambridge.org/core/journals/antiquity/article/social-dynamics-of-toxic-metal-industry-in-medieval-europe-peak-district-lead-production-ad-6001500/34A2A16AC99B1B12E3EB99CEA1DDB829",
+      "publishedAt": "2026-10-20T17:06:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "XzetaU8",
+      "tags": []
+    },
+    {
       "id": "rkv7v4",
       "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
       "description": "Score: 349 | Comments: 73 | Posted by ilreb",
@@ -176,6 +209,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ilreb",
+      "tags": []
+    },
+    {
+      "id": "rru3n4",
+      "title": "Making a VGA Driver in SystemVerilog",
+      "description": "Score: 57 | Comments: 15 | Posted by derHackerman",
+      "url": "https://lukaswerner.com/post/2026-10-20@bottom-up-vga",
+      "publishedAt": "2026-10-20T16:00:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "derHackerman",
       "tags": []
     },
     {

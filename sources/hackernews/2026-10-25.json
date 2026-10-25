@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-25",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "dkgzk3",
+      "title": "France asked ISPs to prepare temporary DNS blocks for major social platforms",
+      "description": "Score: 38 | Comments: 17 | Posted by noplay",
+      "url": "https://www.blast-info.fr/articles/2026/information-exclusive-blast-le-premier-ministre-a-prepare-la-coupure-des-reseaux-sociaux-pour-le-24-octobre-9D8cgrU5S5iiW14Sb9nMzQ",
+      "publishedAt": "2026-10-25T09:56:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "noplay",
+      "tags": []
+    },
+    {
+      "id": "3q6796",
+      "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
+      "description": "Score: 4 | Comments: 0 | Posted by thunderbong",
+      "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+      "publishedAt": "2026-10-25T09:51:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thunderbong",
+      "tags": []
+    },
+    {
+      "id": "ta8i26",
+      "title": "Online censorship is crushing indie webcomics",
+      "description": "Score: 59 | Comments: 51 | Posted by Tomte",
+      "url": "https://xtramagazine.com/culture/online-censorship-indie-webcomics-284463",
+      "publishedAt": "2026-10-25T09:04:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Tomte",
+      "tags": []
+    },
+    {
+      "id": "o4q0bo",
+      "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
+      "description": "Score: 165 | Comments: 106 | Posted by vrganj",
+      "url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
+      "publishedAt": "2026-10-25T09:00:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vrganj",
+      "tags": []
+    },
+    {
+      "id": "491vla",
+      "title": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
+      "description": "Score: 165 | Comments: 57 | Posted by rzk",
+      "url": "https://github.com/slee-persis/GVS5H",
+      "publishedAt": "2026-10-25T03:56:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rzk",
+      "tags": []
+    },
+    {
+      "id": "tuprux",
+      "title": "Cerebras Deploys Trillion-Parameter AI Models",
+      "description": "Score: 185 | Comments: 61 | Posted by gmays",
+      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "publishedAt": "2026-10-25T01:33:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gmays",
+      "tags": []
+    }
+  ]
+}
