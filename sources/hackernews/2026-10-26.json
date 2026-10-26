@@ -1,0 +1,160 @@
+{
+  "date": "2026-10-26",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "vsmeiz",
+      "title": "Websites Should Be Printable",
+      "description": "Score: 27 | Comments: 16 | Posted by bagatelle",
+      "url": "https://brennenputh.me/blog/printable-websites/",
+      "publishedAt": "2026-10-26T10:32:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bagatelle",
+      "tags": []
+    },
+    {
+      "id": "ekrbmy",
+      "title": "Switzerland. Block by block. At 1:1 scale",
+      "description": "Score: 219 | Comments: 91 | Posted by theanonymousone",
+      "url": "https://blocks.manifold3d.ch/",
+      "publishedAt": "2026-10-26T08:46:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "theanonymousone",
+      "tags": []
+    },
+    {
+      "id": "60z0m1",
+      "title": "Tesla cancels Cybertruck in Australia and NZ after 7 years of deposits",
+      "description": "Score: 46 | Comments: 28 | Posted by MilnerRoute",
+      "url": "https://electrek.co/2026/10/23/tesla-cancels-cybertruck-australia-new-zealand/",
+      "publishedAt": "2026-10-26T05:13:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "MilnerRoute",
+      "tags": []
+    },
+    {
+      "id": "pj5pfg",
+      "title": "Show HN: Proc-CLI – An agent-friendly CLI tool for process and port management",
+      "description": "Score: 15 | Comments: 2 | Posted by yazeedaloyoun",
+      "url": "https://proc-cli.com/",
+      "publishedAt": "2026-10-26T04:14:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "yazeedaloyoun",
+      "tags": []
+    },
+    {
+      "id": "7bsplo",
+      "title": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
+      "description": "Score: 69 | Comments: 78 | Posted by ianand",
+      "url": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
+      "publishedAt": "2026-10-26T04:11:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ianand",
+      "tags": []
+    },
+    {
+      "id": "rkhf4o",
+      "title": "Behind the scenes at the NeXT Computer office",
+      "description": "Score: 155 | Comments: 81 | Posted by Austin_Conlon",
+      "url": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
+      "publishedAt": "2026-10-26T03:31:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Austin_Conlon",
+      "tags": []
+    },
+    {
+      "id": "ceuf9d",
+      "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
+      "description": "Score: 167 | Comments: 57 | Posted by vardhan1237",
+      "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
+      "publishedAt": "2026-10-26T03:29:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vardhan1237",
+      "tags": []
+    },
+    {
+      "id": "rtoxoy",
+      "title": "Show HN: TitleArt – Make text like it's 1997",
+      "description": "Score: 277 | Comments: 46 | Posted by davidbarker",
+      "url": "https://titleart.dvy.io/",
+      "publishedAt": "2026-10-26T03:23:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "davidbarker",
+      "tags": []
+    },
+    {
+      "id": "eq5uyn",
+      "title": "IBM CEO says open weight models are now good and cheap on-prem",
+      "description": "Score: 306 | Comments: 212 | Posted by Betelbuddy",
+      "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
+      "publishedAt": "2026-10-26T01:47:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Betelbuddy",
+      "tags": []
+    },
+    {
+      "id": "8o34uv",
+      "title": "Recycling ANSI art: Tracing the origins of Fire Escape's BBS logon screens",
+      "description": "Score: 9 | Comments: 5 | Posted by Kirkman14",
+      "url": "https://breakintochat.com/blog/2026/10/25/recycling-ansi-art/",
+      "publishedAt": "2026-10-26T01:39:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Kirkman14",
+      "tags": []
+    },
+    {
+      "id": "xtxne0",
+      "title": "Show HN: Freehire, open-source search 3M+ tech jobs from company career boards",
+      "description": "Score: 22 | Comments: 2 | Posted by i_strelov",
+      "url": "https://freehire.me/",
+      "publishedAt": "2026-10-26T01:13:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "i_strelov",
+      "tags": []
+    },
+    {
+      "id": "lf9h2o",
+      "title": "Removing Next.js Got My Blog to 100 on Every Lighthouse Category",
+      "description": "Score: 159 | Comments: 95 | Posted by textlanes33",
+      "url": "https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category",
+      "publishedAt": "2026-10-26T01:03:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "textlanes33",
+      "tags": []
+    },
+    {
+      "id": "fbjyf7",
+      "title": "Lula wins election after final votes tallied",
+      "description": "Score: 434 | Comments: 481 | Posted by laurenth",
+      "url": "https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/",
+      "publishedAt": "2026-10-26T00:31:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "laurenth",
+      "tags": []
+    },
+    {
+      "id": "erc14q",
+      "title": "Steal My Bitcoin CTF PoC",
+      "description": "Score: 133 | Comments: 34 | Posted by davikr",
+      "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
+      "publishedAt": "2026-10-26T00:15:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "davikr",
+      "tags": []
+    }
+  ]
+}

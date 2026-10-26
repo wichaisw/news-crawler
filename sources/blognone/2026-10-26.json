@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-26",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "152023 at https://www.blognone.com",
+      "title": "Microsoft Publisher สิ้นอายุขัย, LibreOffice ชี้เป็นตัวอย่างปัญหาการใช้ฟอร์แมตปิด",
+      "description": "Microsoft Publisher สิ้นอายุขัย, LibreOffice ชี้เป็นตัวอย่างปัญหาการใช้ฟอร์แมตปิด Body Microsoft Publisher หยุดซัพพอร์ตในเดือนตุลาคม 2026",
+      "url": "https://www.blognone.com/node/152023",
+      "publishedAt": "2026-10-26T06:01:26.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "152022 at https://www.blognone.com",
+      "title": "นักพัฒนาสร้างเว็บท้าทายช่องโหว่ PHP2Shell พร้อมรางวัล 2,000 ดอลลาร์ ถูกแฮกภายใน 19 ชั่วโมง",
+      "description": "นักพัฒนาสร้างเว็บท้าทายช่องโหว่ PHP2Shell พร้อมรางวัล 2,000 ดอลลาร์ ถูกแฮกภายใน 19 ชั่วโมง Body ผู้ใช้เว็บบอร์ด Hacker News ที่ใช้ชื่อบัญชี",
+      "url": "https://www.blognone.com/node/152022",
+      "publishedAt": "2026-10-26T02:30:20.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "152021 at https://www.blognone.com",
+      "title": "[ลือ] Replit ย้ายโมเดลหลักจาก Anthropic เพราะ OpenAI ตัดราคาสู้กลับ",
+      "description": "[ลือ] Replit ย้ายโมเดลหลักจาก Anthropic เพราะ OpenAI ตัดราคาสู้กลับ Body เว็บไซต์ The Information รายงานข่าวว่า Replit ซอฟต์แวร์ AI ช่วยเขียนโค้ด",
+      "url": "https://www.blognone.com/node/152021",
+      "publishedAt": "2026-10-26T01:42:25.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "152020 at https://www.blognone.com",
+      "title": "iFixit แกะ iPhone Duo แล้ว พบว่าบานพับน่าจะเป็นสาเหตุปัญหาจอเป็นเส้น - คะแนนซ่อมดีที่สุดในกลุ่มจอพับ",
+      "description": "iFixit แกะ iPhone Duo แล้ว พบว่าบานพับน่าจะเป็นสาเหตุปัญหาจอเป็นเส้น - คะแนนซ่อมดีที่สุดในกลุ่มจอพับ Body iFixit ได้แกะ iPhone Duo",
+      "url": "https://www.blognone.com/node/152020",
+      "publishedAt": "2026-10-26T01:15:43.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}
