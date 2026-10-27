@@ -1,0 +1,116 @@
+{
+  "date": "2026-10-27",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "of3h4m",
+      "title": "Software may be getting worse, but it used to be horrible",
+      "description": "Score: 6 | Comments: 0 | Posted by jakevoytko",
+      "url": "https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/",
+      "publishedAt": "2026-10-27T11:30:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jakevoytko",
+      "tags": []
+    },
+    {
+      "id": "ppnzgp",
+      "title": "Wikipedia's Cleanup of AI-Generated Content",
+      "description": "Score: 12 | Comments: 2 | Posted by rbanffy",
+      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+      "publishedAt": "2026-10-27T11:08:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rbanffy",
+      "tags": []
+    },
+    {
+      "id": "cholrl",
+      "title": "Roblox downloaded 145GB models from us (including adult content) without asking",
+      "description": "Score: 108 | Comments: 70 | Posted by choult",
+      "url": "https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/",
+      "publishedAt": "2026-10-27T10:27:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "choult",
+      "tags": []
+    },
+    {
+      "id": "1ojq0b",
+      "title": "Gforth 1.0",
+      "description": "Score: 20 | Comments: 1 | Posted by joshcsimmons",
+      "url": "https://gforth.org/manual/1.0/NEWS.html",
+      "publishedAt": "2026-10-27T10:23:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "joshcsimmons",
+      "tags": []
+    },
+    {
+      "id": "w38jax",
+      "title": "I will no longer upload to NEW",
+      "description": "Score: 98 | Comments: 37 | Posted by edward",
+      "url": "https://lists.debian.org/debian-devel/2026/10/msg00263.html",
+      "publishedAt": "2026-10-27T09:59:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "edward",
+      "tags": []
+    },
+    {
+      "id": "5walau",
+      "title": "“AI Skills” are worthless in 2026",
+      "description": "Score: 29 | Comments: 12 | Posted by saikatsg",
+      "url": "https://fishbowl.pastiche.org/2026/10/26/ai-skills",
+      "publishedAt": "2026-10-27T06:33:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "saikatsg",
+      "tags": []
+    },
+    {
+      "id": "yi8wlk",
+      "title": "The Mythical Man-Month in the Age of AI",
+      "description": "Score: 206 | Comments: 146 | Posted by ilreb",
+      "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+      "publishedAt": "2026-10-27T06:25:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ilreb",
+      "tags": []
+    },
+    {
+      "id": "9rigyk",
+      "title": "Writing about pratt parsing so I remember it",
+      "description": "Score: 44 | Comments: 6 | Posted by dverlaeckt80",
+      "url": "https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html",
+      "publishedAt": "2026-10-27T06:02:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dverlaeckt80",
+      "tags": []
+    },
+    {
+      "id": "4ax883",
+      "title": "I still teach OpenGL ES 3.0",
+      "description": "Score: 78 | Comments: 47 | Posted by majorchord",
+      "url": "https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html",
+      "publishedAt": "2026-10-27T02:15:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "majorchord",
+      "tags": []
+    },
+    {
+      "id": "bc3n4p",
+      "title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
+      "description": "Score: 96 | Comments: 26 | Posted by doener",
+      "url": "https://github.com/otya128/winevdm",
+      "publishedAt": "2026-10-27T01:15:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "doener",
+      "tags": []
+    }
+  ]
+}

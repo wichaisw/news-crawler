@@ -3,6 +3,215 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "qmggx5",
+      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+      "description": "Score: 145 | Comments: 47 | Posted by wondersky",
+      "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+      "publishedAt": "2026-10-26T22:41:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wondersky",
+      "tags": []
+    },
+    {
+      "id": "m2le6o",
+      "title": "Is PHP Running on Your ColdFusion Server? How to Check, and Remove It",
+      "description": "Score: 42 | Comments: 34 | Posted by rmason",
+      "url": "https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it",
+      "publishedAt": "2026-10-26T22:27:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rmason",
+      "tags": []
+    },
+    {
+      "id": "y9556u",
+      "title": "The Exponential Time Hypothesis Is False [pdf]",
+      "description": "Score: 659 | Comments: 247 | Posted by vok",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+      "publishedAt": "2026-10-26T21:59:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vok",
+      "tags": []
+    },
+    {
+      "id": "vnr06l",
+      "title": "Three new discoveries in mathematics, computer science, and physics",
+      "description": "Score: 957 | Comments: 491 | Posted by jonluca",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+      "publishedAt": "2026-10-26T21:35:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jonluca",
+      "tags": []
+    },
+    {
+      "id": "u6thk5",
+      "title": "The EPA Is Quietly Killing Its Web Archive",
+      "description": "Score: 285 | Comments: 52 | Posted by robtherobber",
+      "url": "https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/",
+      "publishedAt": "2026-10-26T19:05:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "robtherobber",
+      "tags": []
+    },
+    {
+      "id": "ohn8ra",
+      "title": "Type Server Protocol",
+      "description": "Score: 248 | Comments: 168 | Posted by adamnemecek",
+      "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
+      "publishedAt": "2026-10-26T18:14:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "adamnemecek",
+      "tags": []
+    },
+    {
+      "id": "pt06u5",
+      "title": "GPT-6.1 Terra",
+      "description": "Score: 599 | Comments: 377 | Posted by meetpateltech",
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+      "publishedAt": "2026-10-26T18:01:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "meetpateltech",
+      "tags": []
+    },
+    {
+      "id": "6ca0yh",
+      "title": "Oldest GUI application that still runs on Windows 11",
+      "description": "Score: 454 | Comments: 262 | Posted by enlyth",
+      "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+      "publishedAt": "2026-10-26T17:56:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "enlyth",
+      "tags": []
+    },
+    {
+      "id": "mwm1nw",
+      "title": "A Man from the Future: Why Johnny Can't Stop Abstracting",
+      "description": "Score: 181 | Comments: 85 | Posted by aray07",
+      "url": "http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html",
+      "publishedAt": "2026-10-26T17:49:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "aray07",
+      "tags": []
+    },
+    {
+      "id": "y61v2v",
+      "title": "Nietzschian Debugger",
+      "description": "Score: 188 | Comments: 56 | Posted by dilawargopang",
+      "url": "https://github.com/DilawarShafiq/nietzschian-debugger",
+      "publishedAt": "2026-10-26T17:25:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dilawargopang",
+      "tags": []
+    },
+    {
+      "id": "qxqwvx",
+      "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+      "description": "Score: 148 | Comments: 34 | Posted by pancomplex",
+      "url": "https://github.com/FrigadeHQ/hob",
+      "publishedAt": "2026-10-26T16:12:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pancomplex",
+      "tags": []
+    },
+    {
+      "id": "n98mc8",
+      "title": "CSS-Tricks has a new owner",
+      "description": "Score: 493 | Comments: 106 | Posted by edent",
+      "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+      "publishedAt": "2026-10-26T15:51:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "edent",
+      "tags": []
+    },
+    {
+      "id": "1juf5w",
+      "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
+      "description": "Score: 964 | Comments: 949 | Posted by doctorzook",
+      "url": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
+      "publishedAt": "2026-10-26T15:35:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "doctorzook",
+      "tags": []
+    },
+    {
+      "id": "4weeb7",
+      "title": "Solar power is becoming bigger than nuclear",
+      "description": "Score: 368 | Comments: 535 | Posted by geox",
+      "url": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear",
+      "publishedAt": "2026-10-26T15:26:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "geox",
+      "tags": []
+    },
+    {
+      "id": "4r7xfh",
+      "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+      "description": "Score: 733 | Comments: 101 | Posted by sgiannopoulos",
+      "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+      "publishedAt": "2026-10-26T15:11:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sgiannopoulos",
+      "tags": []
+    },
+    {
+      "id": "i9mo0d",
+      "title": "New iPad mini",
+      "description": "Score: 219 | Comments: 529 | Posted by soheilpro",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
+      "publishedAt": "2026-10-26T13:13:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "soheilpro",
+      "tags": []
+    },
+    {
+      "id": "e6z0di",
+      "title": "Anthropic S-1",
+      "description": "Score: 1630 | Comments: 1554 | Posted by SiNTEx",
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "publishedAt": "2026-10-26T13:04:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "SiNTEx",
+      "tags": []
+    },
+    {
+      "id": "k20d2t",
+      "title": "Fixing Tool-Call Accuracy in vLLM",
+      "description": "Score: 166 | Comments: 68 | Posted by coffeemug",
+      "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
+      "publishedAt": "2026-10-26T12:59:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "coffeemug",
+      "tags": []
+    },
+    {
+      "id": "6xnu3z",
+      "title": "Pharo 14",
+      "description": "Score: 268 | Comments: 79 | Posted by xkriva11",
+      "url": "https://pharo.org/news/2026-10-26-Pharo14Release.html",
+      "publishedAt": "2026-10-26T11:15:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "xkriva11",
+      "tags": []
+    },
+    {
       "id": "vsmeiz",
       "title": "Websites Should Be Printable",
       "description": "Score: 27 | Comments: 16 | Posted by bagatelle",
@@ -22,6 +231,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "theanonymousone",
+      "tags": []
+    },
+    {
+      "id": "klcyan",
+      "title": "How to grow a cacao tree at home (2024)",
+      "description": "Score: 86 | Comments: 28 | Posted by felipevb",
+      "url": "https://www.cocoterra.com/guide-on-how-to-grow-chocolate-at-home/",
+      "publishedAt": "2026-10-26T07:50:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "felipevb",
       "tags": []
     },
     {

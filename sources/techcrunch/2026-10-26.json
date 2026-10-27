@@ -3,6 +3,138 @@
   "source": "techcrunch",
   "articles": [
     {
+      "id": "https://techcrunch.com/?p=3180879",
+      "title": "Databricks co-founder shares his secrets for winning big enterprise customers",
+      "description": "Turns out selling to big companies isn’t about having the shiniest tech: It’s about hitching a ride on a giant’s sales team.",
+      "url": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/",
+      "publishedAt": "2026-10-26T22:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Julie Bort",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3181714",
+      "title": "Watch out, YouTube — Instagram goes from short-form to 90-minute videos",
+      "description": "After years in which every social platform (even LinkedIn!) aggressively pursued short-form video, this is a notable shift in strategy for Instagram.",
+      "url": "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/",
+      "publishedAt": "2026-10-26T21:05:11.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Amanda Silberling",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3181811",
+      "title": "Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it",
+      "description": "A small number of early adopters of the much-hyped new foldable phone from Apple have complained of screens cracking.",
+      "url": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/",
+      "publishedAt": "2026-10-26T19:22:40.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lucas Ropek",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3181672",
+      "title": "Fusion startups are giving the government shares in exchange for awards. Is it worth it?",
+      "description": "Fusion startups face a new challenge, one unrelated to plasma physics: Give the government shares in exchange for funding awards or go it alone?",
+      "url": "https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/",
+      "publishedAt": "2026-10-26T18:59:52.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Tim De Chant",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3181683",
+      "title": "This startup’s self-driving excavators help dig up $600M in new funding",
+      "description": "Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of",
+      "url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
+      "publishedAt": "2026-10-26T17:45:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Kirsten Korosec",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3181689",
+      "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+      "description": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook",
+      "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+      "publishedAt": "2026-10-26T16:49:42.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Rebecca Bellan",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3181659",
+      "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+      "description": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
+      "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+      "publishedAt": "2026-10-26T16:46:36.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Aditya Mehta",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3181685",
+      "title": "Microsoft offers buyouts to around 60,000 employees",
+      "description": "The buyout offers mark Microsoft's latest efforts to cut costs and rework its workforce.",
+      "url": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/",
+      "publishedAt": "2026-10-26T15:58:25.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Aisha Malik",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3181633",
+      "title": "Anthropic officially files for its public debut",
+      "description": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure",
+      "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+      "publishedAt": "2026-10-26T14:35:22.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Rebecca Bellan",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3181616",
+      "title": "Apple unveils new iPad mini with OLED display and faster A20 Pro chip",
+      "description": "The new iPad mini features a thinner and lighter design than its predecessor.",
+      "url": "https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/",
+      "publishedAt": "2026-10-26T14:25:43.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Aisha Malik",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3179660",
+      "title": "Matiks raises $10M to expand its math and puzzle gaming platform",
+      "description": "Matiks has introduced a new platform for users to create games using AI.",
+      "url": "https://techcrunch.com/2026/10/26/matiks-raises-10m-to-expand-its-math-and-puzzle-gaming-platform/",
+      "publishedAt": "2026-10-26T14:08:04.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Ivan Mehta",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3181547",
+      "title": "Tesla turns to Turo to boost adoption of Full Self-Driving (Supervised)",
+      "description": "Eligible Turo hosts will also get a one-month free trial of Tesla's FSD software.",
+      "url": "https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised/",
+      "publishedAt": "2026-10-26T12:58:40.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Sean O'Kane",
+      "tags": []
+    },
+    {
       "id": "https://techcrunch.com/?p=2463158",
       "title": "The best apps for tracking your reading and discovering new books",
       "description": "There are numerous apps on the market that promise to do just that, so we’ve compiled a list of some of the best ones to help you pick the right one",

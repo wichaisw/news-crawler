@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-27",
+  "source": "theverge",
+  "articles": [
+    {
+      "id": "bjhuen",
+      "title": "Sterling Anderson doesn’t think humanoid robots should be building cars",
+      "description": "At a splashy event in New York City last week, General Motors unveiled its new tech roadmap centered on AI-driven vehicle development, advanced battery tech, high-powered car computers, and autonomous driving. Some of this was old news: We already knew the automaker was developing hands-free, eyes-off driving automation and had been prototyping new battery chemistries. [&#8230;]",
+      "url": "https://www.theverge.com/transportation/1018625/gm-sterling-anderson-interview-robots-ai-autonomous-data-privacy",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2300740947.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-10-27T11:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Andrew J. Hawkins",
+      "tags": []
+    },
+    {
+      "id": "rf5hq",
+      "title": "Data center backlash is uniting America",
+      "description": "If there's one issue that seems to activate all kinds of voters in 2026, it's data centers. The rapid buildout of these massive server storage facilities - and the infrastructure construction and expenses that come with them - has sparked local opposition in communities across the country and become a major issue in many congressional [&#8230;]",
+      "url": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268813_ELECTIONS_DATA_CENTERS_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-10-27T10:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Lauren Feiner",
+      "tags": []
+    },
+    {
+      "id": "e0xjt7",
+      "title": "Acer is bringing a Predator gaming handheld to the US for the first time",
+      "description": "It's been several months since Acer unveiled its Predator Atlas 8 gaming handheld, but now we finally know that it's coming to the US, and how much it'll cost. The Intel Arc G3 Extreme variant - the more powerful of the two models announced in May - will be available exclusively at Best Buy on [&#8230;]",
+      "url": "https://www.theverge.com/games/1019245/acer-predator-atlas-8-launch-price",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Acer-Predator-Atlas-8-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-10-27T09:54:22.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Jess Weatherbed",
+      "tags": []
+    }
+  ]
+}

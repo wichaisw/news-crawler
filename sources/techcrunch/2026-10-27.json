@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-27",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3181625",
+      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+      "description": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
+      "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+      "publishedAt": "2026-10-27T11:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Jagmeet Singh",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3182003",
+      "title": "X is nudging users to promote their posts with a pointing hand, and people are confused",
+      "description": "Whose hand is behind this travesty?",
+      "url": "https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/",
+      "publishedAt": "2026-10-27T06:34:44.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Ivan Mehta",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3181218",
+      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+      "description": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+      "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+      "publishedAt": "2026-10-27T02:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Tim Fernholz",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3181989",
+      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+      "description": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a",
+      "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+      "publishedAt": "2026-10-27T01:12:21.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Aditya Mehta",
+      "tags": []
+    }
+  ]
+}
