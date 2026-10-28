@@ -1,0 +1,116 @@
+{
+  "date": "2026-10-28",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "x1j3p2",
+      "title": "Amazon to buy satellite firm Globalstar in $11.57B deal",
+      "description": "Score: 23 | Comments: 3 | Posted by noptd",
+      "url": "https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/",
+      "publishedAt": "2026-10-28T11:54:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "noptd",
+      "tags": []
+    },
+    {
+      "id": "tvmp2d",
+      "title": "The Brutal Harvard Class That Suddenly Everyone Wants to Take",
+      "description": "Score: 5 | Comments: 1 | Posted by sonabinu",
+      "url": "https://www.wsj.com/lifestyle/harvard-class-humanities-32e06366",
+      "publishedAt": "2026-10-28T11:32:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sonabinu",
+      "tags": []
+    },
+    {
+      "id": "3kqjt0",
+      "title": "About the compromised eMudhra intermediate CAs",
+      "description": "Score: 16 | Comments: 3 | Posted by birdculture",
+      "url": "https://support.apple.com/en-us/149555",
+      "publishedAt": "2026-10-28T11:08:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "birdculture",
+      "tags": []
+    },
+    {
+      "id": "ufxo2z",
+      "title": "Ten days later, Git on macOS still trusts the compromised eMudhra certificates",
+      "description": "Score: 86 | Comments: 25 | Posted by galadran",
+      "url": "https://emudhra.we-have-a-problem.com/apple.html",
+      "publishedAt": "2026-10-28T11:03:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "galadran",
+      "tags": []
+    },
+    {
+      "id": "j1d1c8",
+      "title": "Barcelona unrest: how to fabricate a protest in the age of TikTok",
+      "description": "Score: 48 | Comments: 42 | Posted by DeepLogin",
+      "url": "https://theconversation.com/barcelona-unrest-how-to-fabricate-a-protest-in-the-age-of-tiktok-295263",
+      "publishedAt": "2026-10-28T10:41:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "DeepLogin",
+      "tags": []
+    },
+    {
+      "id": "aqxh3e",
+      "title": "Opus 5.5 causing an identity crisis is real",
+      "description": "Score: 10 | Comments: 3 | Posted by stared",
+      "url": "https://www.kondz.io/blog/opus-5-5-causing-identity-crisis-is-real/",
+      "publishedAt": "2026-10-28T10:35:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "stared",
+      "tags": []
+    },
+    {
+      "id": "um90ir",
+      "title": "Microsoft and Epic Games Suddenly Agree That AI Is Theft",
+      "description": "Score: 15 | Comments: 0 | Posted by tom2026hn",
+      "url": "https://kotaku.com/now-that-the-shoe-is-on-the-other-foot-microsoft-and-epic-games-suddenly-agree-that-ai-is-theft-2000749316",
+      "publishedAt": "2026-10-28T10:10:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tom2026hn",
+      "tags": []
+    },
+    {
+      "id": "eg2rlu",
+      "title": "Billion-query-per-second lookup tables in C++",
+      "description": "Score: 20 | Comments: 3 | Posted by signa11",
+      "url": "https://lemire.me/blog/2026/10/26/billion-query-per-second-lookup-tables-in-c/",
+      "publishedAt": "2026-10-28T09:43:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "signa11",
+      "tags": []
+    },
+    {
+      "id": "c2odyi",
+      "title": "Artificial Analysis Intelligence Index v5",
+      "description": "Score: 66 | Comments: 72 | Posted by hn-aarvin",
+      "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5",
+      "publishedAt": "2026-10-28T03:06:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hn-aarvin",
+      "tags": []
+    },
+    {
+      "id": "4e79cx",
+      "title": "Git for the US Code",
+      "description": "Score: 307 | Comments: 153 | Posted by alansaber",
+      "url": "https://lexifina.com/blog/git-for-the-us-code",
+      "publishedAt": "2026-10-28T01:47:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "alansaber",
+      "tags": []
+    }
+  ]
+}

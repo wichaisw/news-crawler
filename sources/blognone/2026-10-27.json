@@ -3,6 +3,50 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "152039 at https://www.blognone.com",
+      "title": "Cloudflare ขอลองของ เปิดเว็บ Apache + mod_php พร้อมช่องโหว่ PHP2Shell ให้ทดลองเจาะ แต่อยู่หลัง Cloudflare WAF",
+      "description": "Cloudflare ขอลองของ เปิดเว็บ Apache + mod_php พร้อมช่องโหว่ PHP2Shell ให้ทดลองเจาะ แต่อยู่หลัง Cloudflare WAF Body หลังจากช่องโหว่ PHP2Shell",
+      "url": "https://www.blognone.com/node/152039",
+      "publishedAt": "2026-10-27T17:05:46.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "152038 at https://www.blognone.com",
+      "title": "iMac อัปเกรดรุ่นใหม่เป็นชิป M6 ประสิทธิภาพมากขึ้น ใช้ดีไซน์เดิม",
+      "description": "iMac อัปเกรดรุ่นใหม่เป็นชิป M6 ประสิทธิภาพมากขึ้น ใช้ดีไซน์เดิม Body แอปเปิลอัปเกรด iMac ใหม่ เป็นชิป M6 เพิ่มประสิทธิภาพการประมวลผลด้วย ซีพียูสูงสุด",
+      "url": "https://www.blognone.com/node/152038",
+      "publishedAt": "2026-10-27T15:22:35.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "152037 at https://www.blognone.com",
+      "title": "Apple อัปเดต MacBook Pro 14 นิ้ว ชิป M6",
+      "description": "Apple อัปเดต MacBook Pro 14 นิ้ว ชิป M6 Body แอปเปิลอัปเดต MacBook Pro รุ่นจอ 14 นิ้ว ใหม่ ได้ชิป M6 ซึ่งบอกว่าการประมวลผลกราฟิกเร็วขึ้น 30%,",
+      "url": "https://www.blognone.com/node/152037",
+      "publishedAt": "2026-10-27T15:21:20.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "152036 at https://www.blognone.com",
+      "title": "Cohere ทดสอบโมเดล Qwen พบพฤติกรรมส่งไฟล์กลับไปเซิร์ฟเวอร์ Alibaba ในจีน",
+      "description": "Cohere ทดสอบโมเดล Qwen พบพฤติกรรมส่งไฟล์กลับไปเซิร์ฟเวอร์ Alibaba ในจีน Body Cohere สตาร์ตอัพด้าน AI สำหรับองค์กร (ก่อตั้งโดย Aidan Gomez",
+      "url": "https://www.blognone.com/node/152036",
+      "publishedAt": "2026-10-27T12:21:32.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "152035 at https://www.blognone.com",
       "title": "Apple อัปเดต iOS 27.2 รอบนี้เน้น Siri AI ส่วน iPhone Duo สามารถใช้ Apple Pencil ได้แล้ว",
       "description": "Apple อัปเดต iOS 27.2 รอบนี้เน้น Siri AI ส่วน iPhone Duo สามารถใช้ Apple Pencil ได้แล้ว Body แอปเปิลออกอัปเดตระบบปฏิบัติการของอุปกรณ์ต่าง ๆ",
