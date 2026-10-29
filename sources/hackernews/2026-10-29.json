@@ -1,0 +1,127 @@
+{
+  "date": "2026-10-29",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "tjqyev",
+      "title": "If IPv4 Were Land",
+      "description": "Score: 7 | Comments: 0 | Posted by rokostik",
+      "url": "https://iptrust.co/blog/if-ipv4-were-land",
+      "publishedAt": "2026-10-29T12:19:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rokostik",
+      "tags": []
+    },
+    {
+      "id": "4gzt16",
+      "title": "An Urgent Message on Artificial Intelligence from the Kogui People",
+      "description": "Score: 41 | Comments: 11 | Posted by andreisag",
+      "url": "https://sonidoselva.com/perspectiva-kogui",
+      "publishedAt": "2026-10-29T11:29:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andreisag",
+      "tags": []
+    },
+    {
+      "id": "qsa69i",
+      "title": "Show HN: UK Farming Simulator",
+      "description": "Score: 7 | Comments: 11 | Posted by pattle",
+      "url": "https://butterbean.farm/",
+      "publishedAt": "2026-10-29T11:15:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pattle",
+      "tags": []
+    },
+    {
+      "id": "qvpyg6",
+      "title": "The US added a record 20.2 GWh of battery storage in just 3 months",
+      "description": "Score: 80 | Comments: 41 | Posted by ljf",
+      "url": "https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/",
+      "publishedAt": "2026-10-29T10:44:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ljf",
+      "tags": []
+    },
+    {
+      "id": "v62exo",
+      "title": "Cuba is skipping its November 1, 2026 clock change and staying on DST until 2027",
+      "description": "Score: 84 | Comments: 175 | Posted by n_plus_1_acc",
+      "url": "https://www.timeanddate.com/news/time/cuba-keeps-dst-until-nov-2027.html",
+      "publishedAt": "2026-10-29T07:52:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "n_plus_1_acc",
+      "tags": []
+    },
+    {
+      "id": "tffwzb",
+      "title": "Zero click, silent, remote Android DoS",
+      "description": "Score: 149 | Comments: 96 | Posted by MarkBlah",
+      "url": "https://smsofdeath.com/",
+      "publishedAt": "2026-10-29T07:08:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "MarkBlah",
+      "tags": []
+    },
+    {
+      "id": "3oa4ao",
+      "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
+      "description": "Score: 119 | Comments: 20 | Posted by austinallegro",
+      "url": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
+      "publishedAt": "2026-10-29T06:47:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "austinallegro",
+      "tags": []
+    },
+    {
+      "id": "xb9yzc",
+      "title": "Zillow to pay $212.5M to settle class action for real estate venture",
+      "description": "Score: 46 | Comments: 14 | Posted by WaitWaitWha",
+      "url": "https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/",
+      "publishedAt": "2026-10-29T03:48:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "WaitWaitWha",
+      "tags": []
+    },
+    {
+      "id": "aam2ia",
+      "title": "Claude Code regularly sends each background agent’s transcript to its model",
+      "description": "Score: 437 | Comments: 174 | Posted by NikZaal",
+      "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+      "publishedAt": "2026-10-29T03:33:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "NikZaal",
+      "tags": []
+    },
+    {
+      "id": "250we",
+      "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5divagr.com",
+      "description": "Score: 551 | Comments: 111 | Posted by csmantle",
+      "url": "https://divagr.com/blog/qwenputer",
+      "publishedAt": "2026-10-29T00:28:13.122Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "csmantle",
+      "tags": []
+    },
+    {
+      "id": "250we",
+      "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+      "description": "Score: 551 | Comments: 111 | Posted by csmantle",
+      "url": "https://divagr.com/blog/qwenputer",
+      "publishedAt": "2026-10-29T00:25:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "csmantle",
+      "tags": []
+    }
+  ]
+}
