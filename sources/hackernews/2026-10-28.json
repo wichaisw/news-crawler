@@ -179,6 +179,17 @@
       "tags": []
     },
     {
+      "id": "2sef71",
+      "title": "Finding Panics with Call Graph Analyzer",
+      "description": "Score: 4 | Comments: 0 | Posted by ndr",
+      "url": "https://tweedegolf.nl/en/blog/242/finding-panics-with-call-graph-analyzer/",
+      "publishedAt": "2026-10-28T13:48:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ndr",
+      "tags": []
+    },
+    {
       "id": "kuddep",
       "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
       "description": "Score: 469 | Comments: 504 | Posted by danso",
@@ -190,6 +201,17 @@
       "tags": []
     },
     {
+      "id": "p9s4wk",
+      "title": "Artificial Analysis v5 and the benchmarker's dilemma",
+      "description": "Score: 30 | Comments: 25 | Posted by 6thbit",
+      "url": "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
+      "publishedAt": "2026-10-28T13:38:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "6thbit",
+      "tags": []
+    },
+    {
       "id": "d8qk8w",
       "title": "Emacs Turns 50",
       "description": "Score: 493 | Comments: 213 | Posted by internet_points",
@@ -198,6 +220,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "internet_points",
+      "tags": []
+    },
+    {
+      "id": "x2w5y1",
+      "title": "I'm so bad at billiards that I ended up in the hyperbolic plane [video]",
+      "description": "Score: 160 | Comments: 25 | Posted by surprisetalk",
+      "url": "https://www.youtube.com/watch?v=kL9BTbIGxLg",
+      "publishedAt": "2026-10-28T13:20:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
       "tags": []
     },
     {
@@ -297,6 +330,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "signa11",
+      "tags": []
+    },
+    {
+      "id": "6jrn2l",
+      "title": "Astroterm: A Planetarium for Your Terminal",
+      "description": "Score: 163 | Comments: 17 | Posted by nvmdbljstm",
+      "url": "https://github.com/da-luce/astroterm",
+      "publishedAt": "2026-10-28T08:29:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nvmdbljstm",
+      "tags": []
+    },
+    {
+      "id": "fnk9hm",
+      "title": "Solving Postgres' Count Problem",
+      "description": "Score: 34 | Comments: 3 | Posted by philippemnoel",
+      "url": "https://www.paradedb.com/blog/opening-a-closed-tin-part-2",
+      "publishedAt": "2026-10-28T05:34:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "philippemnoel",
       "tags": []
     },
     {

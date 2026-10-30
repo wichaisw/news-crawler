@@ -1,0 +1,149 @@
+{
+  "date": "2026-10-30",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "flxk1y",
+      "title": "Backdoors in official Claude Code extensionscyberplace.social",
+      "description": "Score: 192 | Comments: 43 | Posted by dsr_",
+      "url": "https://cyberplace.social/@GossiTheDog/117528831681803563",
+      "publishedAt": "2026-10-30T11:19:57.486Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dsr_",
+      "tags": []
+    },
+    {
+      "id": "ec7gs5",
+      "title": "Fiber lasts decades, GPUs last three years: the AI boom isn't the dot-com boom [video]",
+      "description": "Score: 8 | Comments: 6 | Posted by frag",
+      "url": "https://www.youtube.com/watch?v=MENoB3Rex28",
+      "publishedAt": "2026-10-30T11:16:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "frag",
+      "tags": []
+    },
+    {
+      "id": "flxk1y",
+      "title": "Backdoors in official Claude Code extensions",
+      "description": "Score: 197 | Comments: 43 | Posted by dsr_",
+      "url": "https://cyberplace.social/@GossiTheDog/117528831681803563",
+      "publishedAt": "2026-10-30T11:05:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dsr_",
+      "tags": []
+    },
+    {
+      "id": "dhmf83",
+      "title": "Anthropic hacked to deliver remote access trojan",
+      "description": "Score: 151 | Comments: 26 | Posted by bashtoni",
+      "url": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
+      "publishedAt": "2026-10-30T10:22:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bashtoni",
+      "tags": []
+    },
+    {
+      "id": "hrrar6",
+      "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
+      "description": "Score: 17 | Comments: 0 | Posted by swq115",
+      "url": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
+      "publishedAt": "2026-10-30T10:06:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "swq115",
+      "tags": []
+    },
+    {
+      "id": "3c5ye3",
+      "title": "How Do You Take a Picture of a Black Hole?",
+      "description": "Score: 27 | Comments: 17 | Posted by dverlaeckt80",
+      "url": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
+      "publishedAt": "2026-10-30T09:49:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dverlaeckt80",
+      "tags": []
+    },
+    {
+      "id": "wmhlkw",
+      "title": "elect.horseelect.horse",
+      "description": "Score: 118 | Comments: 29 | Posted by solarist",
+      "url": "https://elect.horse/",
+      "publishedAt": "2026-10-30T09:19:57.485Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "solarist",
+      "tags": []
+    },
+    {
+      "id": "wmhlkw",
+      "title": "elect.horse",
+      "description": "Score: 118 | Comments: 31 | Posted by solarist",
+      "url": "https://elect.horse/",
+      "publishedAt": "2026-10-30T09:14:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "solarist",
+      "tags": []
+    },
+    {
+      "id": "15h2u3",
+      "title": "Official Claude Code extension compromise",
+      "description": "Score: 22 | Comments: 5 | Posted by _chall",
+      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+      "publishedAt": "2026-10-30T07:09:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "_chall",
+      "tags": []
+    },
+    {
+      "id": "p856hl",
+      "title": "Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge",
+      "description": "Score: 31 | Comments: 16 | Posted by lastmjs",
+      "url": "https://github.com/Millillion/lasm",
+      "publishedAt": "2026-10-30T02:05:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lastmjs",
+      "tags": []
+    },
+    {
+      "id": "egneub",
+      "title": "Pico CSS is no longer maintained",
+      "description": "Score: 163 | Comments: 74 | Posted by henrid",
+      "url": "https://github.com/picocss/pico/discussions/754",
+      "publishedAt": "2026-10-30T01:58:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "henrid",
+      "tags": []
+    },
+    {
+      "id": "yet6v0",
+      "title": "Herdr has released native app",
+      "description": "Score: 246 | Comments: 163 | Posted by cherioo",
+      "url": "https://github.com/herdrdev/herdr-app",
+      "publishedAt": "2026-10-30T00:42:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cherioo",
+      "tags": []
+    },
+    {
+      "id": "wfbo3x",
+      "title": "Cormac McCarthy's Library",
+      "description": "Score: 64 | Comments: 23 | Posted by maitland",
+      "url": "https://cormacmccarthy.lib.utk.edu/",
+      "publishedAt": "2026-10-30T00:31:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "maitland",
+      "tags": []
+    }
+  ]
+}

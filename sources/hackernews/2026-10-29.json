@@ -3,6 +3,204 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "n1bbdt",
+      "title": "Show HN: I Turned DOOM into a Transformer",
+      "description": "Score: 99 | Comments: 31 | Posted by falperc",
+      "url": "https://github.com/mottopanikeiku/doomformer",
+      "publishedAt": "2026-10-29T23:25:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "falperc",
+      "tags": []
+    },
+    {
+      "id": "7i6vzw",
+      "title": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
+      "description": "Score: 129 | Comments: 32 | Posted by simonebrunozzi",
+      "url": "https://journal.animationstudies.org/article/id/66/",
+      "publishedAt": "2026-10-29T22:26:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "simonebrunozzi",
+      "tags": []
+    },
+    {
+      "id": "6avsnb",
+      "title": "The Great American Rascal: Tom Sawyer at 150",
+      "description": "Score: 74 | Comments: 43 | Posted by beatstop",
+      "url": "https://claremontreviewofbooks.com/the-great-american-rascal/",
+      "publishedAt": "2026-10-29T22:14:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "beatstop",
+      "tags": []
+    },
+    {
+      "id": "qev34r",
+      "title": "Should a medical diagnosis reshape the past? (2025)",
+      "description": "Score: 49 | Comments: 11 | Posted by wyndham",
+      "url": "https://chengela.substack.com/p/should-a-medical-diagnosis-reshape",
+      "publishedAt": "2026-10-29T22:12:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wyndham",
+      "tags": []
+    },
+    {
+      "id": "5igrl6",
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "description": "Score: 313 | Comments: 119 | Posted by sandslash",
+      "url": "https://labs.ycombinator.com/projects/games/index.html",
+      "publishedAt": "2026-10-29T21:40:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sandslash",
+      "tags": []
+    },
+    {
+      "id": "vztch",
+      "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+      "description": "Score: 1489 | Comments: 965 | Posted by Tiberium",
+      "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+      "publishedAt": "2026-10-29T21:38:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Tiberium",
+      "tags": []
+    },
+    {
+      "id": "wcwx3j",
+      "title": "Sylphide OS: a general-purpose OS for microcontroller-based computers",
+      "description": "Score: 69 | Comments: 18 | Posted by iamnothere",
+      "url": "https://projects.freehackers.org/sylphide-os/",
+      "publishedAt": "2026-10-29T20:59:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "iamnothere",
+      "tags": []
+    },
+    {
+      "id": "3wwinn",
+      "title": "ElementaryUI – Swift, in the Browser",
+      "description": "Score: 109 | Comments: 32 | Posted by frizlab",
+      "url": "https://elementary.codes",
+      "publishedAt": "2026-10-29T20:56:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "frizlab",
+      "tags": []
+    },
+    {
+      "id": "jhvej7",
+      "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
+      "description": "Score: 233 | Comments: 16 | Posted by airinei",
+      "url": "https://github.com/SheepSeb/tinyworldformer",
+      "publishedAt": "2026-10-29T20:32:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "airinei",
+      "tags": []
+    },
+    {
+      "id": "u6vrld",
+      "title": "Patrick Stewart has died",
+      "description": "Score: 3094 | Comments: 658 | Posted by j4mie",
+      "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+      "publishedAt": "2026-10-29T19:41:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "j4mie",
+      "tags": []
+    },
+    {
+      "id": "tostc1",
+      "title": "Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"",
+      "description": "Score: 145 | Comments: 107 | Posted by johncassil",
+      "url": "https://github.com/johncassil/dontallow",
+      "publishedAt": "2026-10-29T19:27:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "johncassil",
+      "tags": []
+    },
+    {
+      "id": "s610jb",
+      "title": "IgE disruptor for food allergy with Claude-enabled antibody design [pdf]",
+      "description": "Score: 48 | Comments: 38 | Posted by matco11",
+      "url": "https://divergencelabs.com/publications/ige-preprint.pdf",
+      "publishedAt": "2026-10-29T19:25:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "matco11",
+      "tags": []
+    },
+    {
+      "id": "4r6awz",
+      "title": "16colo.rs – ANSI/ASCII art archive",
+      "description": "Score: 130 | Comments: 10 | Posted by memalign",
+      "url": "https://16colo.rs/",
+      "publishedAt": "2026-10-29T16:14:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "memalign",
+      "tags": []
+    },
+    {
+      "id": "3si8au",
+      "title": "H.264 Is Magic (2016)",
+      "description": "Score: 456 | Comments: 152 | Posted by ea016",
+      "url": "https://sidbala.com/h-264-is-magic/",
+      "publishedAt": "2026-10-29T15:53:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ea016",
+      "tags": []
+    },
+    {
+      "id": "q5vdqn",
+      "title": "Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks",
+      "description": "Score: 137 | Comments: 21 | Posted by wondersky",
+      "url": "https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler",
+      "publishedAt": "2026-10-29T15:45:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wondersky",
+      "tags": []
+    },
+    {
+      "id": "zah2or",
+      "title": "Zombie stats: Where the numbers AI quotes come from",
+      "description": "Score: 167 | Comments: 67 | Posted by mektrik",
+      "url": "https://trakkr.ai/trakkr-research/zombie-stats",
+      "publishedAt": "2026-10-29T15:06:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mektrik",
+      "tags": []
+    },
+    {
+      "id": "3qdvc0",
+      "title": "LLM Voice",
+      "description": "Score: 503 | Comments: 264 | Posted by ibobev",
+      "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+      "publishedAt": "2026-10-29T14:57:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
+      "tags": []
+    },
+    {
+      "id": "pxtfnu",
+      "title": "We're releasing the weights of Mistral Large 4",
+      "description": "Score: 1542 | Comments: 406 | Posted by kuberwastaken",
+      "url": "https://mistral.ai/news/mistral-large-4-oss/",
+      "publishedAt": "2026-10-29T14:13:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kuberwastaken",
+      "tags": []
+    },
+    {
       "id": "tjqyev",
       "title": "If IPv4 Were Land",
       "description": "Score: 7 | Comments: 0 | Posted by rokostik",
@@ -11,6 +209,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "rokostik",
+      "tags": []
+    },
+    {
+      "id": "o8sejj",
+      "title": "NetBSD adds a new text editor called atto",
+      "description": "Score: 182 | Comments: 146 | Posted by luke8086",
+      "url": "https://mastodon.sdf.org/@netbsd/117518160563539748",
+      "publishedAt": "2026-10-29T11:59:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "luke8086",
       "tags": []
     },
     {
@@ -47,6 +256,17 @@
       "tags": []
     },
     {
+      "id": "fnsvgs",
+      "title": "What we know so far about Spain train crash",
+      "description": "Score: 220 | Comments: 398 | Posted by ZeljkoS",
+      "url": "https://www.bbc.com/news/articles/cm8xz7pkd0jjo",
+      "publishedAt": "2026-10-29T08:55:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ZeljkoS",
+      "tags": []
+    },
+    {
       "id": "v62exo",
       "title": "Cuba is skipping its November 1, 2026 clock change and staying on DST until 2027",
       "description": "Score: 84 | Comments: 175 | Posted by n_plus_1_acc",
@@ -77,6 +297,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "austinallegro",
+      "tags": []
+    },
+    {
+      "id": "a2ts2",
+      "title": "We won't \"just hang out\"",
+      "description": "Score: 189 | Comments: 310 | Posted by barry-cotter",
+      "url": "https://borretti.me/article/we-wont-just-hang-out",
+      "publishedAt": "2026-10-29T06:20:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "barry-cotter",
       "tags": []
     },
     {
