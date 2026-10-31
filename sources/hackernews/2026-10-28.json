@@ -91,6 +91,17 @@
       "tags": []
     },
     {
+      "id": "elsxb1",
+      "title": "Cloudflare Turnstile solver library (no headless browser required)",
+      "description": "Score: 233 | Comments: 67 | Posted by costco",
+      "url": "https://github.com/chris124567/cfsolve",
+      "publishedAt": "2026-10-28T17:29:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "costco",
+      "tags": []
+    },
+    {
       "id": "4qnnp8",
       "title": "Why is this fingerprinting script creating bioweapons?",
       "description": "Score: 1338 | Comments: 248 | Posted by hazebooth",
@@ -135,6 +146,28 @@
       "tags": []
     },
     {
+      "id": "vjtit8",
+      "title": "Double Buffering with Cloudflare Queues",
+      "description": "Score: 47 | Comments: 5 | Posted by b_llc",
+      "url": "https://bellone.com/technical/double-buffering-with-cloudflare-queues",
+      "publishedAt": "2026-10-28T16:48:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "b_llc",
+      "tags": []
+    },
+    {
+      "id": "100i1u",
+      "title": "Trapped in the Technologist Factory",
+      "description": "Score: 45 | Comments: 14 | Posted by luu",
+      "url": "https://ideolalia.com/essays/trapped-in-the-technologist-factory.html",
+      "publishedAt": "2026-10-28T16:30:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "luu",
+      "tags": []
+    },
+    {
       "id": "l8tet1",
       "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
       "description": "Score: 245 | Comments: 154 | Posted by landonxi",
@@ -143,6 +176,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "landonxi",
+      "tags": []
+    },
+    {
+      "id": "nbme2r",
+      "title": "Longitudinal Changes InWearable-Captured PhysiologyBefore Sudden Cardiac Death",
+      "description": "Score: 39 | Comments: 20 | Posted by brandonb",
+      "url": "https://www.jacc.org/doi/epdf/10.1016/j.jaccas.2026.110397",
+      "publishedAt": "2026-10-28T15:04:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "brandonb",
       "tags": []
     },
     {
@@ -352,6 +396,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "philippemnoel",
+      "tags": []
+    },
+    {
+      "id": "d001rj",
+      "title": "Sneezecount (2018)",
+      "description": "Score: 8 | Comments: 3 | Posted by NaOH",
+      "url": "https://sneezecount.joyfeed.com",
+      "publishedAt": "2026-10-28T03:31:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "NaOH",
       "tags": []
     },
     {

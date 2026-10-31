@@ -47,6 +47,17 @@
       "tags": []
     },
     {
+      "id": "jg1e51",
+      "title": "Building an AI-native engineering org",
+      "description": "Score: 162 | Comments: 184 | Posted by sgondala_ycapp",
+      "url": "https://twitter.com/sgondala2/status/2115832070274723875",
+      "publishedAt": "2026-10-29T21:58:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sgondala_ycapp",
+      "tags": []
+    },
+    {
       "id": "5igrl6",
       "title": "We ran AI agent swarms in Minecraft and Mindustry",
       "description": "Score: 313 | Comments: 119 | Posted by sandslash",
@@ -135,6 +146,39 @@
       "tags": []
     },
     {
+      "id": "n8zp0e",
+      "title": "Turning a solar power system into its own backup",
+      "description": "Score: 54 | Comments: 19 | Posted by PaulHoule",
+      "url": "https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/",
+      "publishedAt": "2026-10-29T18:10:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "PaulHoule",
+      "tags": []
+    },
+    {
+      "id": "gvjfi8",
+      "title": "What's on That Access Port?",
+      "description": "Score: 3 | Comments: 0 | Posted by hasheddan",
+      "url": "https://danielmangum.com/posts/whats-on-that-access-port/",
+      "publishedAt": "2026-10-29T17:35:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hasheddan",
+      "tags": []
+    },
+    {
+      "id": "5lma4f",
+      "title": "Show HN: I rebuilt Kubernetes for ESP32 microcontrollers",
+      "description": "Score: 44 | Comments: 12 | Posted by Arterialist",
+      "url": "https://github.com/arterialist/kube32",
+      "publishedAt": "2026-10-29T16:35:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Arterialist",
+      "tags": []
+    },
+    {
       "id": "4r6awz",
       "title": "16colo.rs – ANSI/ASCII art archive",
       "description": "Score: 130 | Comments: 10 | Posted by memalign",
@@ -168,6 +212,17 @@
       "tags": []
     },
     {
+      "id": "3cxr1f",
+      "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
+      "description": "Score: 55 | Comments: 12 | Posted by datascientist",
+      "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
+      "publishedAt": "2026-10-29T15:29:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "datascientist",
+      "tags": []
+    },
+    {
       "id": "zah2or",
       "title": "Zombie stats: Where the numbers AI quotes come from",
       "description": "Score: 167 | Comments: 67 | Posted by mektrik",
@@ -198,6 +253,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "kuberwastaken",
+      "tags": []
+    },
+    {
+      "id": "u74ke3",
+      "title": "Brief History of PDP Computers",
+      "description": "Score: 33 | Comments: 15 | Posted by ibobev",
+      "url": "https://entropicthoughts.com/history-of-pdp-computers",
+      "publishedAt": "2026-10-29T13:53:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
       "tags": []
     },
     {

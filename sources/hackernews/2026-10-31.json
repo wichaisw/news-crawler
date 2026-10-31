@@ -1,0 +1,127 @@
+{
+  "date": "2026-10-31",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "pfcua6",
+      "title": "French lawmakers approved a tax of €0.055 for every gigabyte of internet traffic",
+      "description": "Score: 10 | Comments: 2 | Posted by helloplanets",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-vendredi-30-octobre-2026",
+      "publishedAt": "2026-10-31T11:28:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "helloplanets",
+      "tags": []
+    },
+    {
+      "id": "idjemi",
+      "title": "Shiny Object Syndrome",
+      "description": "Score: 9 | Comments: 0 | Posted by janisz",
+      "url": "https://en.wikipedia.org/wiki/Shiny_object_syndrome",
+      "publishedAt": "2026-10-31T11:02:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "janisz",
+      "tags": []
+    },
+    {
+      "id": "ancobd",
+      "title": "Serbia just elected the world's brainiest parliamentscience.org",
+      "description": "Score: 185 | Comments: 120 | Posted by input_sh",
+      "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+      "publishedAt": "2026-10-31T10:51:13.216Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "input_sh",
+      "tags": []
+    },
+    {
+      "id": "hp5u4b",
+      "title": "'Big Short' Trader Steve Eisman on Anthropic IPO",
+      "description": "Score: 9 | Comments: 2 | Posted by musha68k",
+      "url": "https://www.youtube.com/watch?v=AMoKKtNFkDs",
+      "publishedAt": "2026-10-31T10:48:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "musha68k",
+      "tags": []
+    },
+    {
+      "id": "r2bi6k",
+      "title": "We Took over ChatGPT Accounts",
+      "description": "Score: 7 | Comments: 4 | Posted by armcat",
+      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "publishedAt": "2026-10-31T10:30:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "armcat",
+      "tags": []
+    },
+    {
+      "id": "dgit97",
+      "title": "Molly(Signal fork) has not been updated since 3 months and is vulnerable",
+      "description": "Score: 23 | Comments: 3 | Posted by DeepLogin",
+      "url": "https://piefed.world/post/1503394",
+      "publishedAt": "2026-10-31T10:23:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "DeepLogin",
+      "tags": []
+    },
+    {
+      "id": "ancobd",
+      "title": "Serbia just elected the world's brainiest parliament",
+      "description": "Score: 185 | Comments: 121 | Posted by input_sh",
+      "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+      "publishedAt": "2026-10-31T10:21:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "input_sh",
+      "tags": []
+    },
+    {
+      "id": "fffa7h",
+      "title": "Neuroscientists reveal method to train people to have lucid dreams",
+      "description": "Score: 6 | Comments: 0 | Posted by giuliomagnifico",
+      "url": "https://www.livescience.com/health/neuroscience/neuroscientists-reveal-method-to-train-people-to-have-lucid-dreams-and-it-involves-virtual-reality-and-mediation",
+      "publishedAt": "2026-10-31T10:12:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "giuliomagnifico",
+      "tags": []
+    },
+    {
+      "id": "1z7orw",
+      "title": "How long do you need to hold down the power button to turn off a PC?",
+      "description": "Score: 32 | Comments: 4 | Posted by Arodex",
+      "url": "https://www.osnews.com/story/146273/how-long-do-you-need-to-hold-down-the-power-button-to-turn-off-a-pc/",
+      "publishedAt": "2026-10-31T08:43:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Arodex",
+      "tags": []
+    },
+    {
+      "id": "ugxuse",
+      "title": "Switch Lowering in GCC",
+      "description": "Score: 82 | Comments: 12 | Posted by signa11",
+      "url": "https://xoranth.net/gcc-switch/",
+      "publishedAt": "2026-10-31T08:02:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "signa11",
+      "tags": []
+    },
+    {
+      "id": "2mxckr",
+      "title": "Digital Minimalism",
+      "description": "Score: 77 | Comments: 52 | Posted by wilbertliu",
+      "url": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
+      "publishedAt": "2026-10-31T06:16:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wilbertliu",
+      "tags": []
+    }
+  ]
+}
