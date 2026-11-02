@@ -377,6 +377,17 @@
       "tags": []
     },
     {
+      "id": "gk9tec",
+      "title": "Tips for more effective fuzz testing with AFL++",
+      "description": "Score: 141 | Comments: 26 | Posted by luu",
+      "url": "https://nullprogram.com/blog/2025/02/05/",
+      "publishedAt": "2026-10-28T09:46:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "luu",
+      "tags": []
+    },
+    {
       "id": "eg2rlu",
       "title": "Billion-query-per-second lookup tables in C++",
       "description": "Score: 20 | Comments: 3 | Posted by signa11",

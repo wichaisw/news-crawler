@@ -1,0 +1,149 @@
+{
+  "date": "2026-11-02",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "j7x98u",
+      "title": "Never Complain, Never Explain",
+      "description": "Score: 82 | Comments: 25 | Posted by gregsadetsky",
+      "url": "https://en.wikipedia.org/wiki/Never_complain,_never_explain",
+      "publishedAt": "2026-11-02T11:55:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gregsadetsky",
+      "tags": []
+    },
+    {
+      "id": "67jkt3",
+      "title": "Supermarket freezers across Europe hit by second suspected cyber-attack",
+      "description": "Score: 123 | Comments: 130 | Posted by fergie",
+      "url": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
+      "publishedAt": "2026-11-02T11:50:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fergie",
+      "tags": []
+    },
+    {
+      "id": "goe0sm",
+      "title": "Supermarket freezers in Belgium and Sweden hit by suspected cyber-attack",
+      "description": "Score: 92 | Comments: 90 | Posted by xqcgrek2",
+      "url": "https://www.bbc.com/news/articles/cq1kd1nee80eo",
+      "publishedAt": "2026-11-02T11:48:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "xqcgrek2",
+      "tags": []
+    },
+    {
+      "id": "ehfzb5",
+      "title": "The future in old computer magazines (1984–2004)",
+      "description": "Score: 55 | Comments: 26 | Posted by tudell",
+      "url": "https://tomorrowasusual.substack.com/p/blast-from-the-past-the-future-in",
+      "publishedAt": "2026-11-02T11:09:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tudell",
+      "tags": []
+    },
+    {
+      "id": "ykbvco",
+      "title": "Show HN: I've updated my Linux System Call website and API",
+      "description": "Score: 113 | Comments: 37 | Posted by guitmz",
+      "url": "https://syscall.sh/",
+      "publishedAt": "2026-11-02T09:29:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "guitmz",
+      "tags": []
+    },
+    {
+      "id": "6m6z7y",
+      "title": "BioWare co-founder: game execs \"have never made a game\" and don't get it",
+      "description": "Score: 92 | Comments: 89 | Posted by entryleveljobsc",
+      "url": "https://www.pcgamer.com/gaming-industry/none-of-these-people-have-ever-made-a-game-bioware-co-founder-greg-zeschuk-says-of-game-industry-executives-they-just-dont-know-how-it-works/",
+      "publishedAt": "2026-11-02T08:32:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "entryleveljobsc",
+      "tags": []
+    },
+    {
+      "id": "5whwi2",
+      "title": "Wir müssen wissen – wir werden wissen",
+      "description": "Score: 9 | Comments: 2 | Posted by remywang",
+      "url": "https://remy.wang/blog/hilbert.html",
+      "publishedAt": "2026-11-02T08:07:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "remywang",
+      "tags": []
+    },
+    {
+      "id": "3p0mau",
+      "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
+      "description": "Score: 118 | Comments: 60 | Posted by jonnybgood",
+      "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/",
+      "publishedAt": "2026-11-02T07:27:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jonnybgood",
+      "tags": []
+    },
+    {
+      "id": "qjvzt0",
+      "title": "From Charlemagne to the Kitchen Boy: Reading the Hamburg Rathaus",
+      "description": "Score: 53 | Comments: 6 | Posted by mertbio",
+      "url": "https://alsterrunde.com/from-charlemagne-to-the-kitchen-boy-reading-the-hamburg-rathaus/",
+      "publishedAt": "2026-11-02T06:39:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mertbio",
+      "tags": []
+    },
+    {
+      "id": "awi2p9",
+      "title": "F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix",
+      "description": "Score: 172 | Comments: 23 | Posted by joonehur",
+      "url": "https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/",
+      "publishedAt": "2026-11-02T01:59:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "joonehur",
+      "tags": []
+    },
+    {
+      "id": "514i4s",
+      "title": "Bones may release proteins that slow aging and extend life span",
+      "description": "Score: 210 | Comments: 72 | Posted by EA-3167",
+      "url": "https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span",
+      "publishedAt": "2026-11-02T01:31:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "EA-3167",
+      "tags": []
+    },
+    {
+      "id": "vb5z7u",
+      "title": "Trigger.dev customer environment variables exposed",
+      "description": "Score: 140 | Comments: 67 | Posted by anurag",
+      "url": "https://trigger.dev/blog/security-incident-nov-2026",
+      "publishedAt": "2026-11-02T01:09:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "anurag",
+      "tags": []
+    },
+    {
+      "id": "i98e5e",
+      "title": "OccupySaaS",
+      "description": "Score: 413 | Comments: 257 | Posted by misswaterfairy",
+      "url": "https://occupysaas.com/",
+      "publishedAt": "2026-11-02T00:17:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "misswaterfairy",
+      "tags": []
+    }
+  ]
+}

@@ -69,6 +69,17 @@
       "tags": []
     },
     {
+      "id": "7mdn3c",
+      "title": "Bidirectional charging during grid outages",
+      "description": "Score: 107 | Comments: 158 | Posted by luu",
+      "url": "https://www.jefftk.com/p/bidirectional-charging-during-grid-outages",
+      "publishedAt": "2026-10-31T20:21:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "luu",
+      "tags": []
+    },
+    {
       "id": "liu7oi",
       "title": "Surviving \"The Graduate\"",
       "description": "Score: 132 | Comments: 39 | Posted by samizdis",
@@ -168,6 +179,17 @@
       "tags": []
     },
     {
+      "id": "1jplun",
+      "title": "The She-Wolves of Jülich",
+      "description": "Score: 38 | Comments: 6 | Posted by Thevet",
+      "url": "https://www.historytoday.com/archive/history-matters/she-wolves-julich",
+      "publishedAt": "2026-10-31T17:29:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Thevet",
+      "tags": []
+    },
+    {
       "id": "s85i60",
       "title": "The Ocean 'Was the Color of Chocolate.' Mexico Declares War on Seaweed.",
       "description": "Score: 14 | Comments: 10 | Posted by bookofjoe",
@@ -198,6 +220,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "kerlenton",
+      "tags": []
+    },
+    {
+      "id": "t7dbx6",
+      "title": "Mystery of 60-Second Fluctuations in Power Grids Solved",
+      "description": "Score: 203 | Comments: 89 | Posted by _Microft",
+      "url": "https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved",
+      "publishedAt": "2026-10-31T11:53:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "_Microft",
       "tags": []
     },
     {
@@ -278,6 +311,17 @@
       "tags": []
     },
     {
+      "id": "l45re6",
+      "title": "One-minute frequency disturbances from synchronization in power systems",
+      "description": "Score: 175 | Comments: 57 | Posted by croes",
+      "url": "https://www.nature.com/articles/s41560-026-02144-0",
+      "publishedAt": "2026-10-31T10:14:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "croes",
+      "tags": []
+    },
+    {
       "id": "fffa7h",
       "title": "Neuroscientists reveal method to train people to have lucid dreams",
       "description": "Score: 6 | Comments: 0 | Posted by giuliomagnifico",
@@ -286,6 +330,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "giuliomagnifico",
+      "tags": []
+    },
+    {
+      "id": "f9d21u",
+      "title": "Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library – phoria2",
+      "description": "Score: 97 | Comments: 29 | Posted by kevs3d",
+      "url": "https://kevs3d.co.uk/phoria2/",
+      "publishedAt": "2026-10-31T09:49:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kevs3d",
       "tags": []
     },
     {
@@ -319,6 +374,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "wilbertliu",
+      "tags": []
+    },
+    {
+      "id": "wfgrjr",
+      "title": "Parchment Paper History: How We Got Paper Perfect for Baking (2019)",
+      "description": "Score: 55 | Comments: 28 | Posted by colinprince",
+      "url": "https://tedium.co/2019/11/21/nonstick-parchment-paper-history/",
+      "publishedAt": "2026-10-31T04:31:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "colinprince",
+      "tags": []
+    },
+    {
+      "id": "ugoeg1",
+      "title": "Postgres 19 is late because so many more bugs are being found now",
+      "description": "Score: 671 | Comments: 410 | Posted by soheilpro",
+      "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+      "publishedAt": "2026-10-31T01:38:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "soheilpro",
       "tags": []
     }
   ]
