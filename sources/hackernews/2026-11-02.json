@@ -3,6 +3,215 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "37tvek",
+      "title": "Scaling Git at OpenAI",
+      "description": "Score: 245 | Comments: 168 | Posted by makeramen",
+      "url": "https://openai.com/index/scaling-git-at-openai/",
+      "publishedAt": "2026-11-02T23:47:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "makeramen",
+      "tags": []
+    },
+    {
+      "id": "yeszf5",
+      "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
+      "description": "Score: 372 | Comments: 281 | Posted by cdrnsf",
+      "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
+      "publishedAt": "2026-11-02T22:30:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cdrnsf",
+      "tags": []
+    },
+    {
+      "id": "m1yvax",
+      "title": "V100 SXM2 pinout and NVLink reference",
+      "description": "Score: 43 | Comments: 10 | Posted by airhangerf15",
+      "url": "https://github.com/pigeon-labs-stack/v100-sxm2-reference",
+      "publishedAt": "2026-11-02T22:30:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "airhangerf15",
+      "tags": []
+    },
+    {
+      "id": "3zmwha",
+      "title": "SLAC researchers find proof of altermagnetism, a new magnetic phase",
+      "description": "Score: 93 | Comments: 11 | Posted by gmays",
+      "url": "https://www6.slac.stanford.edu/news/2026-10-29-slac-researchers-find-proof-altermagnetism-new-magnetic-phase",
+      "publishedAt": "2026-11-02T21:42:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gmays",
+      "tags": []
+    },
+    {
+      "id": "khkmo3",
+      "title": "Egoless Mathematics in the AI Era",
+      "description": "Score: 173 | Comments: 136 | Posted by smilelamp",
+      "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
+      "publishedAt": "2026-11-02T18:54:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "smilelamp",
+      "tags": []
+    },
+    {
+      "id": "q8qc7d",
+      "title": "Astra can read and write weights to improve Qwenrikiyat.github.io",
+      "description": "Score: 2841 | Comments: 858 | Posted by dbreunig",
+      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+      "publishedAt": "2026-11-02T18:47:18.739Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dbreunig",
+      "tags": []
+    },
+    {
+      "id": "x22jo4",
+      "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
+      "description": "Score: 561 | Comments: 171 | Posted by majorchord",
+      "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
+      "publishedAt": "2026-11-02T18:39:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "majorchord",
+      "tags": []
+    },
+    {
+      "id": "q8qc7d",
+      "title": "Astra can read and write weights to improve Qwen",
+      "description": "Score: 2841 | Comments: 858 | Posted by dbreunig",
+      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+      "publishedAt": "2026-11-02T18:21:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dbreunig",
+      "tags": []
+    },
+    {
+      "id": "yg0xfr",
+      "title": "Sneaking into the auditorium for the Windows 2000 launch rehearsal",
+      "description": "Score: 144 | Comments: 52 | Posted by ibobev",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/",
+      "publishedAt": "2026-11-02T18:12:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
+      "tags": []
+    },
+    {
+      "id": "295mvv",
+      "title": "Skill to Create Product Videos",
+      "description": "Score: 109 | Comments: 35 | Posted by aaitor",
+      "url": "https://github.com/aaitor/skill-video-studio",
+      "publishedAt": "2026-11-02T18:10:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "aaitor",
+      "tags": []
+    },
+    {
+      "id": "b8510i",
+      "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
+      "description": "Score: 273 | Comments: 77 | Posted by tomrod",
+      "url": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
+      "publishedAt": "2026-11-02T17:47:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tomrod",
+      "tags": []
+    },
+    {
+      "id": "pkr9ke",
+      "title": "Polyend releases the Tracker firmware source code",
+      "description": "Score: 146 | Comments: 56 | Posted by austinallegro",
+      "url": "https://polyend.com/whats-up/tracker-the-biggest-update-yet/",
+      "publishedAt": "2026-11-02T17:20:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "austinallegro",
+      "tags": []
+    },
+    {
+      "id": "j7nfcy",
+      "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+      "description": "Score: 151 | Comments: 101 | Posted by wuweiweiwu",
+      "url": "https://momentic.ai/",
+      "publishedAt": "2026-11-02T17:05:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wuweiweiwu",
+      "tags": []
+    },
+    {
+      "id": "h2i2yc",
+      "title": "US boy names that became girl names and vice versa",
+      "description": "Score: 439 | Comments: 418 | Posted by xoobdev",
+      "url": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
+      "publishedAt": "2026-11-02T16:34:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "xoobdev",
+      "tags": []
+    },
+    {
+      "id": "i0a0ay",
+      "title": "Show HN: Warsaw in voxels – An interactive 3D map of the city centre",
+      "description": "Score: 298 | Comments: 48 | Posted by stared",
+      "url": "https://p.migdal.pl/warsaw-vibe-voxel/",
+      "publishedAt": "2026-11-02T16:25:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "stared",
+      "tags": []
+    },
+    {
+      "id": "3hlpk9",
+      "title": "WTF Ubuntu?",
+      "description": "Score: 1563 | Comments: 656 | Posted by chalmovsky",
+      "url": "https://chalmovsky.com/posts/wtf-ubuntu",
+      "publishedAt": "2026-11-02T14:52:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "chalmovsky",
+      "tags": []
+    },
+    {
+      "id": "ujr0f0",
+      "title": "We halved DNS build delay and cut memory use by 85%",
+      "description": "Score: 186 | Comments: 74 | Posted by wondersky",
+      "url": "https://blog.cloudflare.com/dns-targeted-zone-builds/",
+      "publishedAt": "2026-11-02T14:47:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wondersky",
+      "tags": []
+    },
+    {
+      "id": "re00z4",
+      "title": "433MHz TUI scanner: using a FT232H connected to a CC1101",
+      "description": "Score: 18 | Comments: 6 | Posted by xx__yy",
+      "url": "https://blog.jacq.cc/guides/cc1101-433mhz-scanner-ft232h/",
+      "publishedAt": "2026-11-02T13:28:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "xx__yy",
+      "tags": []
+    },
+    {
+      "id": "hlhwtd",
+      "title": "If you love a website, back it up",
+      "description": "Score: 604 | Comments: 141 | Posted by ingve",
+      "url": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
+      "publishedAt": "2026-11-02T13:25:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingve",
+      "tags": []
+    },
+    {
       "id": "j7x98u",
       "title": "Never Complain, Never Explain",
       "description": "Score: 82 | Comments: 25 | Posted by gregsadetsky",
@@ -58,6 +267,17 @@
       "tags": []
     },
     {
+      "id": "ufbv11",
+      "title": "European RISC-V Industrial Computing Initiative",
+      "description": "Score: 161 | Comments: 87 | Posted by ymz5",
+      "url": "https://erici.eu",
+      "publishedAt": "2026-11-02T08:58:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ymz5",
+      "tags": []
+    },
+    {
       "id": "6m6z7y",
       "title": "BioWare co-founder: game execs \"have never made a game\" and don't get it",
       "description": "Score: 92 | Comments: 89 | Posted by entryleveljobsc",
@@ -102,6 +322,28 @@
       "tags": []
     },
     {
+      "id": "g83r27",
+      "title": "Why Don't We Live in an Art Nouveau World?",
+      "description": "Score: 9 | Comments: 2 | Posted by shcallaway",
+      "url": "https://asteriskmag.com/issues/16/why-don-t-we-life-in-an-art-nouveau-world",
+      "publishedAt": "2026-11-02T05:05:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "shcallaway",
+      "tags": []
+    },
+    {
+      "id": "jcmygd",
+      "title": "Katamari Damacy but it's The Met collection",
+      "description": "Score: 70 | Comments: 16 | Posted by thebigship",
+      "url": "https://katamari.vaguespac.es/",
+      "publishedAt": "2026-11-02T02:21:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thebigship",
+      "tags": []
+    },
+    {
       "id": "awi2p9",
       "title": "F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix",
       "description": "Score: 172 | Comments: 23 | Posted by joonehur",
@@ -113,6 +355,17 @@
       "tags": []
     },
     {
+      "id": "qcjkd5",
+      "title": "Optical Circuit Switch Technology Built on Low-Loss Silicon Photonics Platform",
+      "description": "Score: 25 | Comments: 1 | Posted by gmays",
+      "url": "https://www.psiquantum.com/news-import/psiquantum-unveils-optical-circuit-switch-technology-built-on-advanced-low-loss-silicon-photonics-platform",
+      "publishedAt": "2026-11-02T01:34:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gmays",
+      "tags": []
+    },
+    {
       "id": "514i4s",
       "title": "Bones may release proteins that slow aging and extend life span",
       "description": "Score: 210 | Comments: 72 | Posted by EA-3167",
@@ -121,6 +374,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "EA-3167",
+      "tags": []
+    },
+    {
+      "id": "gmeztc",
+      "title": "Vathographs: Photographic depth maps as creative expression",
+      "description": "Score: 40 | Comments: 17 | Posted by hankbond",
+      "url": "https://vathography.com/",
+      "publishedAt": "2026-11-02T01:11:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hankbond",
       "tags": []
     },
     {

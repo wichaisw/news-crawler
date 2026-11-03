@@ -36,6 +36,17 @@
       "tags": []
     },
     {
+      "id": "shzu2j",
+      "title": "Life with Down Syndrome",
+      "description": "Score: 48 | Comments: 11 | Posted by NaOH",
+      "url": "https://www.esquire.com/news-politics/a74031571/life-with-down-syndrome/",
+      "publishedAt": "2026-11-01T16:26:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "NaOH",
+      "tags": []
+    },
+    {
       "id": "wpzl2v",
       "title": "Seoul Viosys begins production of rare-earth-free white light emitter",
       "description": "Score: 184 | Comments: 67 | Posted by gmays",
@@ -66,6 +77,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "edward",
+      "tags": []
+    },
+    {
+      "id": "eq9h99",
+      "title": "Shrinking NixOS RAM footprint and resource requirements to the bare minimum",
+      "description": "Score: 87 | Comments: 11 | Posted by birdculture",
+      "url": "https://lowendspirit.com/discussion/11543/shrinking-nixos-ram-footprint-and-resource-requirements-to-the-bare-minimum",
+      "publishedAt": "2026-11-01T14:52:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "birdculture",
       "tags": []
     },
     {
@@ -201,6 +223,17 @@
       "tags": []
     },
     {
+      "id": "eor6zx",
+      "title": "Resisting Cognitive Surrender",
+      "description": "Score: 238 | Comments: 114 | Posted by knlb",
+      "url": "https://knlb.dev/essays/surrender",
+      "publishedAt": "2026-11-01T06:13:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "knlb",
+      "tags": []
+    },
+    {
       "id": "5o4ezu",
       "title": "The AI cost of JavaScript frameworks",
       "description": "Score: 125 | Comments: 76 | Posted by luu",
@@ -231,6 +264,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "hapax_legomena",
+      "tags": []
+    },
+    {
+      "id": "hrqim5",
+      "title": "Toit v2.0.0",
+      "description": "Score: 157 | Comments: 49 | Posted by floitsch",
+      "url": "https://toit.io/blog/toit-v2-0-0/",
+      "publishedAt": "2026-11-01T00:25:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "floitsch",
       "tags": []
     },
     {
