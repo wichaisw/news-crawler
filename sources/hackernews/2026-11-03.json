@@ -3,6 +3,160 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "5dpihc",
+      "title": "The Internals of PostgreSQL",
+      "description": "Score: 314 | Comments: 23 | Posted by ibobev",
+      "url": "https://www.interdb.jp/pg/index.html",
+      "publishedAt": "2026-11-03T21:51:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
+      "tags": []
+    },
+    {
+      "id": "hm7dku",
+      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+      "description": "Score: 361 | Comments: 56 | Posted by ibobev",
+      "url": "https://arxiv.org/abs/2605.29713",
+      "publishedAt": "2026-11-03T21:40:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
+      "tags": []
+    },
+    {
+      "id": "vzh4lu",
+      "title": "Safari introduces Adaptive Dark Mode in 27.3",
+      "description": "Score: 464 | Comments: 241 | Posted by paddingtone",
+      "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
+      "publishedAt": "2026-11-03T21:39:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "paddingtone",
+      "tags": []
+    },
+    {
+      "id": "pezgfs",
+      "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+      "description": "Score: 89 | Comments: 42 | Posted by passkey1510",
+      "url": "https://uncracked.city",
+      "publishedAt": "2026-11-03T21:20:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "passkey1510",
+      "tags": []
+    },
+    {
+      "id": "lxa6bs",
+      "title": "Show HN: Kairos – Open-source risk and fraud decisioning platform",
+      "description": "Score: 99 | Comments: 27 | Posted by ayanb9440",
+      "url": "https://github.com/finic-ai/kairos",
+      "publishedAt": "2026-11-03T21:16:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ayanb9440",
+      "tags": []
+    },
+    {
+      "id": "qmdqeg",
+      "title": "Introduction to Programming in ATS",
+      "description": "Score: 82 | Comments: 9 | Posted by ibobev",
+      "url": "https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html",
+      "publishedAt": "2026-11-03T19:25:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
+      "tags": []
+    },
+    {
+      "id": "hekxsu",
+      "title": "How I use AI (Oct 2026)",
+      "description": "Score: 208 | Comments: 245 | Posted by citelao",
+      "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
+      "publishedAt": "2026-11-03T18:11:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "citelao",
+      "tags": []
+    },
+    {
+      "id": "1oh242",
+      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "description": "Score: 669 | Comments: 195 | Posted by theanonymousone",
+      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+      "publishedAt": "2026-11-03T17:40:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "theanonymousone",
+      "tags": []
+    },
+    {
+      "id": "pfai5w",
+      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "description": "Score: 1383 | Comments: 458 | Posted by sidgarimella",
+      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+      "publishedAt": "2026-11-03T17:22:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sidgarimella",
+      "tags": []
+    },
+    {
+      "id": "z6iiyc",
+      "title": "Stringman, an $800 open-source room scale gripper robot",
+      "description": "Score: 670 | Comments: 211 | Posted by nharada",
+      "url": "https://neufangled.com/",
+      "publishedAt": "2026-11-03T16:47:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nharada",
+      "tags": []
+    },
+    {
+      "id": "yt9k7r",
+      "title": "Mac at any scale",
+      "description": "Score: 397 | Comments: 216 | Posted by anner_",
+      "url": "https://namespace.so/blog/mac-at-any-scale",
+      "publishedAt": "2026-11-03T14:53:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "anner_",
+      "tags": []
+    },
+    {
+      "id": "hvnk1t",
+      "title": "There is no posttraining data commons",
+      "description": "Score: 91 | Comments: 24 | Posted by lukasschwab",
+      "url": "https://openathena.ai/blog/there-is-no-posttraining-data-commons/",
+      "publishedAt": "2026-11-03T14:45:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lukasschwab",
+      "tags": []
+    },
+    {
+      "id": "n9vat5",
+      "title": "Practice speaking Japanese with real YouTube videos, graded line by line",
+      "description": "Score: 102 | Comments: 35 | Posted by momentmaker",
+      "url": "https://jivx.com/yt",
+      "publishedAt": "2026-11-03T14:41:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "momentmaker",
+      "tags": []
+    },
+    {
+      "id": "wu8lw3",
+      "title": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
+      "description": "Score: 92 | Comments: 216 | Posted by rbanffy",
+      "url": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/",
+      "publishedAt": "2026-11-03T12:58:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rbanffy",
+      "tags": []
+    },
+    {
       "id": "2xvpbg",
       "title": "Show HN: Kvittas, an Expense Splitting App",
       "description": "Score: 5 | Comments: 0 | Posted by primalscreamer",
@@ -55,6 +209,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "fanf2",
+      "tags": []
+    },
+    {
+      "id": "jcqp5k",
+      "title": "Why Clip Art Was Everywhere Until It Wasn't [video]",
+      "description": "Score: 44 | Comments: 19 | Posted by surprisetalk",
+      "url": "https://www.youtube.com/watch?v=XfLlpxE6AYM",
+      "publishedAt": "2026-11-03T12:40:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
       "tags": []
     },
     {
@@ -198,6 +363,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "bpierre",
+      "tags": []
+    },
+    {
+      "id": "5iqfxn",
+      "title": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
+      "description": "Score: 372 | Comments: 71 | Posted by dsalzman",
+      "url": "https://hackertv.org",
+      "publishedAt": "2026-11-03T01:18:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dsalzman",
       "tags": []
     }
   ]

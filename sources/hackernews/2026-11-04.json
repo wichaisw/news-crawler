@@ -1,0 +1,270 @@
+{
+  "date": "2026-11-04",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "jmr0kk",
+      "title": "I got banned from Lobsters for writing like an LLM",
+      "description": "Score: 10 | Comments: 1 | Posted by andros",
+      "url": "https://en.andros.dev/blog/94a77341/i-got-banned-from-lobsters-for-writing-like-an-llm/",
+      "publishedAt": "2026-11-04T13:19:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andros",
+      "tags": []
+    },
+    {
+      "id": "h8sw8z",
+      "title": "Disaster is still better than AI",
+      "description": "Score: 9 | Comments: 4 | Posted by bemtevi",
+      "url": "https://jasonpolak.substack.com/p/disaster-is-still-better-than-ai",
+      "publishedAt": "2026-11-04T13:05:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bemtevi",
+      "tags": []
+    },
+    {
+      "id": "7fakf8",
+      "title": "Space company is betting its future on a propellant available everywhere",
+      "description": "Score: 4 | Comments: 1 | Posted by rbanffy",
+      "url": "https://arstechnica.com/space/2026/11/this-space-company-is-betting-its-future-on-a-propellant-available-everywhere/",
+      "publishedAt": "2026-11-04T12:57:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rbanffy",
+      "tags": []
+    },
+    {
+      "id": "p42irb",
+      "title": "Debian apt security update: man-in-the-middle arbitrary code execution",
+      "description": "Score: 43 | Comments: 36 | Posted by vesinisa",
+      "url": "https://lists.debian.org/debian-security-announce/2026/msg00526.html",
+      "publishedAt": "2026-11-04T12:46:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vesinisa",
+      "tags": []
+    },
+    {
+      "id": "lzdvht",
+      "title": "A map of 5000+ midterm ads",
+      "description": "Score: 46 | Comments: 15 | Posted by Eden09",
+      "url": "https://admap.org/",
+      "publishedAt": "2026-11-04T12:18:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Eden09",
+      "tags": []
+    },
+    {
+      "id": "6hbfzy",
+      "title": "Hackers hit French national blood bank",
+      "description": "Score: 63 | Comments: 66 | Posted by blaze33",
+      "url": "https://www.telegraph.co.uk/world-news/2026/11/04/hackers-hit-french-blood-bank/",
+      "publishedAt": "2026-11-04T12:08:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "blaze33",
+      "tags": []
+    },
+    {
+      "id": "ousvwh",
+      "title": "AI is forcing us to pay off 40 years of technical debtieee.org",
+      "description": "Score: 252 | Comments: 137 | Posted by pseudolus",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "publishedAt": "2026-11-04T11:55:47.667Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pseudolus",
+      "tags": []
+    },
+    {
+      "id": "ousvwh",
+      "title": "AI is forcing us to pay off 40 years of technical debt",
+      "description": "Score: 255 | Comments: 139 | Posted by pseudolus",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "publishedAt": "2026-11-04T11:52:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pseudolus",
+      "tags": []
+    },
+    {
+      "id": "lqalpi",
+      "title": "Synaptics Appears to Use Legal Threats to Block Open-Source DisplayLink Driver",
+      "description": "Score: 51 | Comments: 8 | Posted by snvzz",
+      "url": "https://www.phoronix.com/news/Synaptics-Blocks-Vino-Driver",
+      "publishedAt": "2026-11-04T11:14:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "snvzz",
+      "tags": []
+    },
+    {
+      "id": "ww1ien",
+      "title": "Incident with Pull Requests, Git Operations and Issuesgithubstatus.com",
+      "description": "Score: 136 | Comments: 68 | Posted by kevcampb",
+      "url": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
+      "publishedAt": "2026-11-04T10:55:47.671Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kevcampb",
+      "tags": []
+    },
+    {
+      "id": "1ix1kn",
+      "title": "Geoffrey Hinton: it might turn out we were better off without AI",
+      "description": "Score: 158 | Comments: 104 | Posted by alkyon",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+      "publishedAt": "2026-11-04T10:23:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "alkyon",
+      "tags": []
+    },
+    {
+      "id": "ww1ien",
+      "title": "Incident with Pull Requests, Git Operations and Issues",
+      "description": "Score: 136 | Comments: 68 | Posted by kevcampb",
+      "url": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
+      "publishedAt": "2026-11-04T10:00:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kevcampb",
+      "tags": []
+    },
+    {
+      "id": "qvvd0q",
+      "title": "Verification Is Not Knowledge: Science needs more than answers",
+      "description": "Score: 104 | Comments: 60 | Posted by ersinesen",
+      "url": "https://blog.cosmos-institute.org/p/verification-is-not-knowledge",
+      "publishedAt": "2026-11-04T09:01:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ersinesen",
+      "tags": []
+    },
+    {
+      "id": "kjdmw",
+      "title": "Milkman – The Better Alternative to Postman",
+      "description": "Score: 56 | Comments: 66 | Posted by jplunien",
+      "url": "https://milkman.dev/",
+      "publishedAt": "2026-11-04T08:58:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jplunien",
+      "tags": []
+    },
+    {
+      "id": "sm7pwi",
+      "title": "Kitty 0.50",
+      "description": "Score: 230 | Comments: 141 | Posted by porridgeraisin",
+      "url": "https://sw.kovidgoyal.net/kitty/changelog/#",
+      "publishedAt": "2026-11-04T08:57:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "porridgeraisin",
+      "tags": []
+    },
+    {
+      "id": "70u4lw",
+      "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linuxmindstudio.ai",
+      "description": "Score: 236 | Comments: 132 | Posted by novaRom",
+      "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+      "publishedAt": "2026-11-04T08:55:47.670Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "novaRom",
+      "tags": []
+    },
+    {
+      "id": "70u4lw",
+      "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+      "description": "Score: 237 | Comments: 135 | Posted by novaRom",
+      "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+      "publishedAt": "2026-11-04T08:46:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "novaRom",
+      "tags": []
+    },
+    {
+      "id": "e89iqe",
+      "title": "The lost malloc()",
+      "description": "Score: 82 | Comments: 24 | Posted by matt_d",
+      "url": "https://napcakes.nekoweb.org/posts/malloc/",
+      "publishedAt": "2026-11-04T07:37:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "matt_d",
+      "tags": []
+    },
+    {
+      "id": "3v9h6y",
+      "title": "Jelly Sheet",
+      "description": "Score: 321 | Comments: 81 | Posted by memalign",
+      "url": "https://mrdoob.github.io/codevember-2026/01/",
+      "publishedAt": "2026-11-04T03:40:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "memalign",
+      "tags": []
+    },
+    {
+      "id": "iyspv",
+      "title": "Distinct cellular and genetic differences in colorectal cancer in young patients",
+      "description": "Score: 92 | Comments: 34 | Posted by gmays",
+      "url": "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients",
+      "publishedAt": "2026-11-04T03:20:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gmays",
+      "tags": []
+    },
+    {
+      "id": "rv3y8g",
+      "title": "Arrows to arrows, categories to queries (2025)",
+      "description": "Score: 65 | Comments: 5 | Posted by firstbase",
+      "url": "https://reasonablypolymorphic.com/blog/arrows-to-arrows/",
+      "publishedAt": "2026-11-04T03:11:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "firstbase",
+      "tags": []
+    },
+    {
+      "id": "j6sg3l",
+      "title": "NetBSD 11.1",
+      "description": "Score: 22 | Comments: 3 | Posted by jaypatelani",
+      "url": "https://netbsd.org/releases/formal-11/NetBSD-11.1.html",
+      "publishedAt": "2026-11-04T03:11:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jaypatelani",
+      "tags": []
+    },
+    {
+      "id": "f92dob",
+      "title": "Giant canyon on Mars is still tectonically active",
+      "description": "Score: 112 | Comments: 23 | Posted by gmays",
+      "url": "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today",
+      "publishedAt": "2026-11-04T01:40:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gmays",
+      "tags": []
+    },
+    {
+      "id": "fpf4vm",
+      "title": "C++26 Disapproved",
+      "description": "Score: 356 | Comments: 249 | Posted by thatxliner",
+      "url": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
+      "publishedAt": "2026-11-04T00:33:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thatxliner",
+      "tags": []
+    }
+  ]
+}
