@@ -1,0 +1,215 @@
+{
+  "date": "2026-11-05",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "hsttz1",
+      "title": "Life Under the Algorithm",
+      "description": "Score: 3 | Comments: 0 | Posted by speckx",
+      "url": "https://dissentmagazine.org/article/algorithmic-pricing-surveillance-wage-discrimination/",
+      "publishedAt": "2026-11-05T13:53:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
+      "tags": []
+    },
+    {
+      "id": "sd83nj",
+      "title": "I wish tech companies knew more about me",
+      "description": "Score: 7 | Comments: 0 | Posted by freetonik",
+      "url": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
+      "publishedAt": "2026-11-05T13:40:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "freetonik",
+      "tags": []
+    },
+    {
+      "id": "nyp4x8",
+      "title": "Ssholesshhole.com",
+      "description": "Score: 510 | Comments: 134 | Posted by josemrb",
+      "url": "https://sshhole.com",
+      "publishedAt": "2026-11-05T13:12:30.677Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "josemrb",
+      "tags": []
+    },
+    {
+      "id": "bvf795",
+      "title": "Discord is ditching Electron and its new app uses less RAM",
+      "description": "Score: 31 | Comments: 9 | Posted by archb",
+      "url": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
+      "publishedAt": "2026-11-05T13:05:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "archb",
+      "tags": []
+    },
+    {
+      "id": "nlho61",
+      "title": "Amazon tells engineers to stop 'tokenmaxxing' to look productive",
+      "description": "Score: 8 | Comments: 5 | Posted by speckx",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/amazon-tells-engineers-to-stop-tokenmaxxing-to-look-productive-says-ai-will-be-central-to-software-development-but-usage-is-not-the-goal-new-guidelines-claim",
+      "publishedAt": "2026-11-05T12:55:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
+      "tags": []
+    },
+    {
+      "id": "z7nr9b",
+      "title": "Vivaldi 8.3 for Desktop: make bad ads sad",
+      "description": "Score: 5 | Comments: 0 | Posted by speckx",
+      "url": "https://vivaldi.com/blog/vivaldi-on-desktop-8-3/",
+      "publishedAt": "2026-11-05T12:39:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
+      "tags": []
+    },
+    {
+      "id": "nyp4x8",
+      "title": "Sshole",
+      "description": "Score: 514 | Comments: 134 | Posted by josemrb",
+      "url": "https://sshhole.com",
+      "publishedAt": "2026-11-05T12:19:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "josemrb",
+      "tags": []
+    },
+    {
+      "id": "2qsoq6",
+      "title": "OpenSSH 10.6p2 Critical workaround for alpine without PAMopenssh.org",
+      "description": "Score: 48 | Comments: 3 | Posted by selckin",
+      "url": "https://www.openssh.org/releasenotes.html#10.6p2",
+      "publishedAt": "2026-11-05T12:12:30.678Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "selckin",
+      "tags": []
+    },
+    {
+      "id": "fpi9m3",
+      "title": "All 5 genetic letters of DNA and RNA discovered in 4.5B-year-old asteroid",
+      "description": "Score: 16 | Comments: 7 | Posted by MrBuddyCasino",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261102075903.htm",
+      "publishedAt": "2026-11-05T11:54:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "MrBuddyCasino",
+      "tags": []
+    },
+    {
+      "id": "2qsoq6",
+      "title": "OpenSSH 10.6p2 Critical workaround for alpine without PAM",
+      "description": "Score: 48 | Comments: 3 | Posted by selckin",
+      "url": "https://www.openssh.org/releasenotes.html#10.6p2",
+      "publishedAt": "2026-11-05T11:40:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "selckin",
+      "tags": []
+    },
+    {
+      "id": "qw3v94",
+      "title": "Awesome repositories are no longer awesome",
+      "description": "Score: 114 | Comments: 57 | Posted by erikgahner",
+      "url": "https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/",
+      "publishedAt": "2026-11-05T11:16:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "erikgahner",
+      "tags": []
+    },
+    {
+      "id": "ignstk",
+      "title": "Baidu released ERNIE 5.5 Flash Baseernie.baidu.com",
+      "description": "Score: 104 | Comments: 59 | Posted by pretext",
+      "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
+      "publishedAt": "2026-11-05T10:12:30.678Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pretext",
+      "tags": []
+    },
+    {
+      "id": "9tgoi5",
+      "title": "OpenSSH 10.6p2 has been released with a workaround for a critical vulnerability",
+      "description": "Score: 125 | Comments: 44 | Posted by Animux",
+      "url": "https://hachyderm.io/@damienmiller/117563026759098135",
+      "publishedAt": "2026-11-05T09:46:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Animux",
+      "tags": []
+    },
+    {
+      "id": "ignstk",
+      "title": "Baidu released ERNIE 5.5 Flash Base",
+      "description": "Score: 104 | Comments: 59 | Posted by pretext",
+      "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
+      "publishedAt": "2026-11-05T09:29:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pretext",
+      "tags": []
+    },
+    {
+      "id": "n3ijkw",
+      "title": "GPT-6 Astra covertly underperforms on safety research",
+      "description": "Score: 47 | Comments: 16 | Posted by lucrbvi",
+      "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
+      "publishedAt": "2026-11-05T07:44:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lucrbvi",
+      "tags": []
+    },
+    {
+      "id": "2y3k7t",
+      "title": "Being a kid making games in the early 2000s",
+      "description": "Score: 65 | Comments: 20 | Posted by farmerbb",
+      "url": "https://jaytholen.net/teengamedev/",
+      "publishedAt": "2026-11-05T05:53:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "farmerbb",
+      "tags": []
+    },
+    {
+      "id": "ctsfq9",
+      "title": "Altera Announces Agilex 2X, a Complete FPGA and SoC Portfolio",
+      "description": "Score: 46 | Comments: 15 | Posted by gmays",
+      "url": "https://www.altera.com/newsroom/agilex-2x",
+      "publishedAt": "2026-11-05T05:47:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gmays",
+      "tags": []
+    },
+    {
+      "id": "nw99pi",
+      "title": "Lemmings CSS Animation",
+      "description": "Score: 278 | Comments: 53 | Posted by MarkBlah",
+      "url": "https://markblah.github.io/lemmings/",
+      "publishedAt": "2026-11-05T04:54:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "MarkBlah",
+      "tags": []
+    },
+    {
+      "id": "y49f3j",
+      "title": "Starfall – Affordable, routine access to microgravity",
+      "description": "Score: 234 | Comments: 172 | Posted by gmays",
+      "url": "https://www.spacex.com/starfall",
+      "publishedAt": "2026-11-05T00:18:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gmays",
+      "tags": []
+    }
+  ]
+}
