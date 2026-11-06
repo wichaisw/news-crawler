@@ -3,6 +3,171 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "qitqdp",
+      "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+      "description": "Score: 421 | Comments: 192 | Posted by randycupertino",
+      "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+      "publishedAt": "2026-11-05T23:09:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "randycupertino",
+      "tags": []
+    },
+    {
+      "id": "tbxrgl",
+      "title": "Claude Code sends your email address to websites",
+      "description": "Score: 1306 | Comments: 411 | Posted by motoroco",
+      "url": "https://github.com/anthropics/claude-code/issues/107757",
+      "publishedAt": "2026-11-05T22:17:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "motoroco",
+      "tags": []
+    },
+    {
+      "id": "z13kze",
+      "title": "MS Paint Remote Code Execution Vulnerability",
+      "description": "Score: 601 | Comments: 224 | Posted by kuberwastaken",
+      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+      "publishedAt": "2026-11-05T20:43:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kuberwastaken",
+      "tags": []
+    },
+    {
+      "id": "uaqr3m",
+      "title": "Search for everyone",
+      "description": "Score: 704 | Comments: 379 | Posted by elashri",
+      "url": "https://kagi.com/changelog#11820",
+      "publishedAt": "2026-11-05T20:03:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "elashri",
+      "tags": []
+    },
+    {
+      "id": "yy2ly",
+      "title": "Goodbye from Salon",
+      "description": "Score: 602 | Comments: 243 | Posted by mkeeter",
+      "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
+      "publishedAt": "2026-11-05T20:03:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mkeeter",
+      "tags": []
+    },
+    {
+      "id": "5q9et5",
+      "title": "Pangram Image 1.0",
+      "description": "Score: 128 | Comments: 59 | Posted by gmays",
+      "url": "https://www.pangram.com/blog/introducing-pangram-image-1-0",
+      "publishedAt": "2026-11-05T19:27:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gmays",
+      "tags": []
+    },
+    {
+      "id": "lm8fl8",
+      "title": "The Hackintosh Reborn",
+      "description": "Score: 348 | Comments: 196 | Posted by rubatuga",
+      "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
+      "publishedAt": "2026-11-05T19:08:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rubatuga",
+      "tags": []
+    },
+    {
+      "id": "yjzn1x",
+      "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
+      "description": "Score: 107 | Comments: 55 | Posted by NathanFlurry",
+      "url": "https://github.com/rivet-dev/rivet",
+      "publishedAt": "2026-11-05T17:17:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "NathanFlurry",
+      "tags": []
+    },
+    {
+      "id": "cyv1ln",
+      "title": "Window Sweaters",
+      "description": "Score: 388 | Comments: 113 | Posted by nickswalker",
+      "url": "https://github.com/saragordic/window-sweaters",
+      "publishedAt": "2026-11-05T16:50:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nickswalker",
+      "tags": []
+    },
+    {
+      "id": "u15azs",
+      "title": "The Stacks Project, Formalized in Lean",
+      "description": "Score: 93 | Comments: 25 | Posted by namanbnsl",
+      "url": "https://axiommath.ai/research/the-stacks-project-formalized/",
+      "publishedAt": "2026-11-05T16:16:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "namanbnsl",
+      "tags": []
+    },
+    {
+      "id": "lovq1p",
+      "title": "Motorola Signature 27 with GrapheneOS support",
+      "description": "Score: 520 | Comments: 375 | Posted by monneyboi",
+      "url": "https://motorolanews.com/motorola-signature-27-2/",
+      "publishedAt": "2026-11-05T16:01:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "monneyboi",
+      "tags": []
+    },
+    {
+      "id": "c8o8vg",
+      "title": "Show HN: Stroq – a local audit of what your coding agent did and why",
+      "description": "Score: 88 | Comments: 34 | Posted by agybay_07",
+      "url": "https://github.com/AGGIB/Stroq",
+      "publishedAt": "2026-11-05T15:54:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "agybay_07",
+      "tags": []
+    },
+    {
+      "id": "w3as05",
+      "title": "Building a Multi-Agent System from Scratch: Architecture Patterns",
+      "description": "Score: 100 | Comments: 37 | Posted by kadharmfn",
+      "url": "https://kadhar.dev/blog/multi-agent-systems-from-scratch",
+      "publishedAt": "2026-11-05T15:51:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kadharmfn",
+      "tags": []
+    },
+    {
+      "id": "qtykug",
+      "title": "September in Servo: <progress>, rounded rectangles, and more",
+      "description": "Score: 257 | Comments: 65 | Posted by iamnothere",
+      "url": "https://servo.org/blog/2026/11/05/september-in-servo/",
+      "publishedAt": "2026-11-05T14:34:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "iamnothere",
+      "tags": []
+    },
+    {
+      "id": "7n49ko",
+      "title": "MCP Explained",
+      "description": "Score: 316 | Comments: 133 | Posted by rwilinski",
+      "url": "https://mcp-explained.com/",
+      "publishedAt": "2026-11-05T14:08:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rwilinski",
+      "tags": []
+    },
+    {
       "id": "hsttz1",
       "title": "Life Under the Algorithm",
       "description": "Score: 3 | Comments: 0 | Posted by speckx",
@@ -36,6 +201,17 @@
       "tags": []
     },
     {
+      "id": "aag27u",
+      "title": "Show HN: Firenook – Firebase emulators in Rust: 40× faster writes, 10× less RAM",
+      "description": "Score: 149 | Comments: 18 | Posted by sanjevirau",
+      "url": "https://firenook.dev/",
+      "publishedAt": "2026-11-05T13:07:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sanjevirau",
+      "tags": []
+    },
+    {
       "id": "bvf795",
       "title": "Discord is ditching Electron and its new app uses less RAM",
       "description": "Score: 31 | Comments: 9 | Posted by archb",
@@ -47,6 +223,17 @@
       "tags": []
     },
     {
+      "id": "ofmevb",
+      "title": "Download your favourite YouTube videos",
+      "description": "Score: 372 | Comments: 179 | Posted by surprisetalk",
+      "url": "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/",
+      "publishedAt": "2026-11-05T13:00:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
       "id": "nlho61",
       "title": "Amazon tells engineers to stop 'tokenmaxxing' to look productive",
       "description": "Score: 8 | Comments: 5 | Posted by speckx",
@@ -55,6 +242,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "speckx",
+      "tags": []
+    },
+    {
+      "id": "5co79f",
+      "title": "Obscure audio codec is a perfect fit for the N64",
+      "description": "Score: 245 | Comments: 29 | Posted by frostbyte7",
+      "url": "https://phoboslab.org/log/2026/11/n64-ulc-codec",
+      "publishedAt": "2026-11-05T12:51:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "frostbyte7",
       "tags": []
     },
     {

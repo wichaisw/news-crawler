@@ -124,6 +124,17 @@
       "tags": []
     },
     {
+      "id": "7uwbfj",
+      "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
+      "description": "Score: 255 | Comments: 23 | Posted by schopra909",
+      "url": "https://www.linum.ai/field-notes/pjit-21k",
+      "publishedAt": "2026-11-04T16:45:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "schopra909",
+      "tags": []
+    },
+    {
       "id": "9vbjn8",
       "title": "'It's just vape, nail, charity shops': Can anything save UK high street?",
       "description": "Score: 143 | Comments: 356 | Posted by theanonymousone",
@@ -242,6 +253,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "rbanffy",
+      "tags": []
+    },
+    {
+      "id": "lyua95",
+      "title": "So my ISP was hijacking my DNS",
+      "description": "Score: 213 | Comments: 165 | Posted by frostbyte7",
+      "url": "https://www.karthihegde.dev/posts/dns_tampering",
+      "publishedAt": "2026-11-04T12:51:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "frostbyte7",
       "tags": []
     },
     {

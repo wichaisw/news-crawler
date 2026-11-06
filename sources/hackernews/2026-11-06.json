@@ -1,0 +1,281 @@
+{
+  "date": "2026-11-06",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "h558wq",
+      "title": "Gemini Omni 1.2 Flash",
+      "description": "Score: 6 | Comments: 0 | Posted by thisisauserid",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "publishedAt": "2026-11-06T13:35:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thisisauserid",
+      "tags": []
+    },
+    {
+      "id": "e7v8f4",
+      "title": "OpenAI Finds 948 Local Privilege Escalation Bugs in the Linux Kernel",
+      "description": "Score: 11 | Comments: 2 | Posted by Bender",
+      "url": "https://www.phoronix.com/news/OpenAI-948-Linux-LPE-Bugs",
+      "publishedAt": "2026-11-06T12:59:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Bender",
+      "tags": []
+    },
+    {
+      "id": "b9oxhu",
+      "title": "Rejection led Sylvester Stallone to create film's ultimate underdog Rocky",
+      "description": "Score: 7 | Comments: 1 | Posted by tosh",
+      "url": "https://www.bbc.com/culture/article/20261104-how-sylvester-stallone-created-underdog-icon-rocky",
+      "publishedAt": "2026-11-06T12:57:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tosh",
+      "tags": []
+    },
+    {
+      "id": "1jsd8l",
+      "title": "Apple's predictive text restrictions include 'Dictator Trump' and 'Sleepy Joe'",
+      "description": "Score: 9 | Comments: 3 | Posted by ag8",
+      "url": "https://www.reuters.com/business/retail-consumer/apples-predictive-text-restrictions-include-dictator-trump-sleepy-joe-researcher-2026-11-06/",
+      "publishedAt": "2026-11-06T12:18:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ag8",
+      "tags": []
+    },
+    {
+      "id": "469dv4",
+      "title": "Tesla winds down Cybertruck production after years of poor sales in few markets",
+      "description": "Score: 97 | Comments: 79 | Posted by PLenz",
+      "url": "https://www.msn.com/en-us/technology/tech-companies/tesla-to-wind-down-cybertruck-production-after-years-of-poor-sales-in-few-markets/ar-AA2gSZGv",
+      "publishedAt": "2026-11-06T12:13:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "PLenz",
+      "tags": []
+    },
+    {
+      "id": "erqx69",
+      "title": "We've built an open-source feature flag server for 11 years",
+      "description": "Score: 34 | Comments: 16 | Posted by ivarconr",
+      "url": "https://github.com/Unleash/unleash",
+      "publishedAt": "2026-11-06T11:40:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ivarconr",
+      "tags": []
+    },
+    {
+      "id": "nqgd7g",
+      "title": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)",
+      "description": "Score: 72 | Comments: 25 | Posted by hitekker",
+      "url": "https://jhr.pensoft.net/articles.php?id=9096",
+      "publishedAt": "2026-11-06T10:21:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hitekker",
+      "tags": []
+    },
+    {
+      "id": "tdyjme",
+      "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOSgithub.com/privsec-dev",
+      "description": "Score: 315 | Comments: 201 | Posted by microtonal",
+      "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
+      "publishedAt": "2026-11-06T09:53:27.437Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "microtonal",
+      "tags": []
+    },
+    {
+      "id": "tdyjme",
+      "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
+      "description": "Score: 316 | Comments: 201 | Posted by microtonal",
+      "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
+      "publishedAt": "2026-11-06T09:27:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "microtonal",
+      "tags": []
+    },
+    {
+      "id": "2v7b5",
+      "title": "AI for scientific discovery: How researchers use Claude",
+      "description": "Score: 6 | Comments: 1 | Posted by ersinesen",
+      "url": "https://www.anthropic.com/research/how-researchers-use-claude",
+      "publishedAt": "2026-11-06T09:13:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ersinesen",
+      "tags": []
+    },
+    {
+      "id": "htyiw3",
+      "title": "Flashcards are \"dead fish\": rethinking spaced repetition around highlights",
+      "description": "Score: 5 | Comments: 1 | Posted by musabilhan",
+      "url": "https://andymatuschak.org/situated-idea-memory-system/",
+      "publishedAt": "2026-11-06T08:57:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "musabilhan",
+      "tags": []
+    },
+    {
+      "id": "vaqpvy",
+      "title": "Chomsky and the Two Cultures of Statistical Learning",
+      "description": "Score: 22 | Comments: 5 | Posted by andsoitis",
+      "url": "https://www.norvig.com/chomsky.html",
+      "publishedAt": "2026-11-06T08:18:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "andsoitis",
+      "tags": []
+    },
+    {
+      "id": "mtkx9x",
+      "title": "App Store 2026 in numbers: AI, pricing, abandoned apps",
+      "description": "Score: 57 | Comments: 50 | Posted by Peter216",
+      "url": "https://obelisk.club/research/app-store-2026",
+      "publishedAt": "2026-11-06T07:59:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Peter216",
+      "tags": []
+    },
+    {
+      "id": "2w1irt",
+      "title": "Multiplayer tanks that demolish real buildings from OpenStreetMap",
+      "description": "Score: 95 | Comments: 64 | Posted by n4ze3m",
+      "url": "https://worldstrike.fun/",
+      "publishedAt": "2026-11-06T07:55:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "n4ze3m",
+      "tags": []
+    },
+    {
+      "id": "qcl3ld",
+      "title": "Kugelblitz – Mac-Native Google Earth Alternative",
+      "description": "Score: 138 | Comments: 42 | Posted by luoc",
+      "url": "https://apps.metaebene.me/en/kugelblitz",
+      "publishedAt": "2026-11-06T07:47:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "luoc",
+      "tags": []
+    },
+    {
+      "id": "m6db3g",
+      "title": "Blender's UI and Runtime: Much Faster Than GPUI",
+      "description": "Score: 374 | Comments: 152 | Posted by ppmpreetham",
+      "url": "https://github.com/ppmpreetham/BUI",
+      "publishedAt": "2026-11-06T07:40:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ppmpreetham",
+      "tags": []
+    },
+    {
+      "id": "vobebm",
+      "title": "Hardcoded credentials and other issues in Tata Motors App",
+      "description": "Score: 55 | Comments: 8 | Posted by qtqtqt",
+      "url": "https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2026-0537",
+      "publishedAt": "2026-11-06T07:28:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "qtqtqt",
+      "tags": []
+    },
+    {
+      "id": "twpx65",
+      "title": "Britain to make salary disclosure in job ads mandatory",
+      "description": "Score: 345 | Comments: 286 | Posted by 1659447091",
+      "url": "https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/",
+      "publishedAt": "2026-11-06T07:22:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "1659447091",
+      "tags": []
+    },
+    {
+      "id": "t5rcnx",
+      "title": "The Poison and the Cure the Life and Afterlife of French Theory",
+      "description": "Score: 10 | Comments: 5 | Posted by pepys",
+      "url": "https://www.theideasletter.org/essay/the-poison-and-the-cure/",
+      "publishedAt": "2026-11-06T06:21:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pepys",
+      "tags": []
+    },
+    {
+      "id": "u9ewew",
+      "title": "I struggle to believe that AI R&D is ingenious",
+      "description": "Score: 146 | Comments: 141 | Posted by porridgeraisin",
+      "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
+      "publishedAt": "2026-11-06T05:19:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "porridgeraisin",
+      "tags": []
+    },
+    {
+      "id": "ii7nnl",
+      "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
+      "description": "Score: 165 | Comments: 54 | Posted by jonbaer",
+      "url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
+      "publishedAt": "2026-11-06T04:17:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jonbaer",
+      "tags": []
+    },
+    {
+      "id": "pmzp0y",
+      "title": "Pwn.college",
+      "description": "Score: 208 | Comments: 33 | Posted by tripdout",
+      "url": "https://pwn.college/",
+      "publishedAt": "2026-11-06T03:27:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tripdout",
+      "tags": []
+    },
+    {
+      "id": "wcgzni",
+      "title": "Nvidia Kubernetes Engine (NVKE)",
+      "description": "Score: 102 | Comments: 23 | Posted by gkapur",
+      "url": "https://github.com/dsx-ai-factory/nvke",
+      "publishedAt": "2026-11-06T03:16:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gkapur",
+      "tags": []
+    },
+    {
+      "id": "1afyqb",
+      "title": "MoofTCP – A modern replacement for MacTCP on 68k Macs",
+      "description": "Score: 56 | Comments: 30 | Posted by marcusbasant",
+      "url": "https://github.com/matthewmrichter/mooftcp",
+      "publishedAt": "2026-11-06T00:54:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "marcusbasant",
+      "tags": []
+    },
+    {
+      "id": "dtin10",
+      "title": "Inkling 2 Small",
+      "description": "Score: 235 | Comments: 75 | Posted by Philpax",
+      "url": "https://thinkingmachines.ai/news/inkling-2-small/",
+      "publishedAt": "2026-11-06T00:00:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Philpax",
+      "tags": []
+    }
+  ]
+}
