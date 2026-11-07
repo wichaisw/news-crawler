@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-07",
+  "source": "theverge",
+  "articles": [
+    {
+      "id": "46w0i2",
+      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "description": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursday by the AI safety research organization METR, following an 11-week investigation [&#8230;]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2280291125.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-11-07T12:30:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Robert Hart",
+      "tags": []
+    }
+  ]
+}

@@ -80,6 +80,28 @@
       "tags": []
     },
     {
+      "id": "p04870",
+      "title": "Panthera: Ampere's CPU Performance Model",
+      "description": "Score: 36 | Comments: 12 | Posted by mshockwave",
+      "url": "https://github.com/AmpereComputing/panthera",
+      "publishedAt": "2026-11-03T19:12:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mshockwave",
+      "tags": []
+    },
+    {
+      "id": "yz1xtr",
+      "title": "ToothPaste",
+      "description": "Score: 10 | Comments: 3 | Posted by speckx",
+      "url": "https://brisk4t.github.io/blog/toothpaste/",
+      "publishedAt": "2026-11-03T18:27:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
+      "tags": []
+    },
+    {
       "id": "hekxsu",
       "title": "How I use AI (Oct 2026)",
       "description": "Score: 208 | Comments: 245 | Posted by citelao",
@@ -99,6 +121,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "theanonymousone",
+      "tags": []
+    },
+    {
+      "id": "nu2669",
+      "title": "Show HN: Tmux-restore saves tmux windows and agent sessions across reboots",
+      "description": "Score: 43 | Comments: 32 | Posted by boldi",
+      "url": "https://github.com/andrewboldi/tmux-restore",
+      "publishedAt": "2026-11-03T17:25:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "boldi",
       "tags": []
     },
     {
@@ -124,6 +157,17 @@
       "tags": []
     },
     {
+      "id": "rse5n5",
+      "title": "Can GROUP BY still be optimized after all these years?",
+      "description": "Score: 93 | Comments: 15 | Posted by ntur1337",
+      "url": "https://pivotlake.io/blog/know-your-limit-faster-top-k-aggregation/",
+      "publishedAt": "2026-11-03T16:30:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ntur1337",
+      "tags": []
+    },
+    {
       "id": "jphv5z",
       "title": "TextEdit vs. Pages",
       "description": "Score: 40 | Comments: 17 | Posted by surprisetalk",
@@ -143,6 +187,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "anner_",
+      "tags": []
+    },
+    {
+      "id": "m5eak",
+      "title": "The Flash C Compiler",
+      "description": "Score: 62 | Comments: 16 | Posted by AlexeyBrin",
+      "url": "https://blog.adafruit.com/2026/10/31/flash-c-compiler/",
+      "publishedAt": "2026-11-03T14:49:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "AlexeyBrin",
       "tags": []
     },
     {

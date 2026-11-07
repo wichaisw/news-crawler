@@ -1,0 +1,116 @@
+{
+  "date": "2026-11-07",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "xfedc6",
+      "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
+      "description": "Score: 19 | Comments: 9 | Posted by thunderbong",
+      "url": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
+      "publishedAt": "2026-11-07T11:11:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thunderbong",
+      "tags": []
+    },
+    {
+      "id": "nf1r0v",
+      "title": "Upload Your RAMuploadyourram.org",
+      "description": "Score: 129 | Comments: 78 | Posted by susanthenerd",
+      "url": "https://uploadyourram.org",
+      "publishedAt": "2026-11-07T10:38:00.220Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "susanthenerd",
+      "tags": []
+    },
+    {
+      "id": "nf1r0v",
+      "title": "Upload Your RAM",
+      "description": "Score: 129 | Comments: 78 | Posted by susanthenerd",
+      "url": "https://uploadyourram.org",
+      "publishedAt": "2026-11-07T10:15:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "susanthenerd",
+      "tags": []
+    },
+    {
+      "id": "gj6ngi",
+      "title": "Every Mac comes with an (undocumented) family member classifier",
+      "description": "Score: 163 | Comments: 78 | Posted by infwhispers",
+      "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+      "publishedAt": "2026-11-07T09:46:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "infwhispers",
+      "tags": []
+    },
+    {
+      "id": "t719tt",
+      "title": "Running a law firm on Free software",
+      "description": "Score: 7 | Comments: 0 | Posted by DeepLogin",
+      "url": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
+      "publishedAt": "2026-11-07T09:39:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "DeepLogin",
+      "tags": []
+    },
+    {
+      "id": "x1bk5m",
+      "title": "Port 0: The Port That Does Not Exist",
+      "description": "Score: 15 | Comments: 4 | Posted by NewCzech",
+      "url": "https://acid.vegas/blog/the-port-that-does-not-exist/",
+      "publishedAt": "2026-11-07T09:38:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "NewCzech",
+      "tags": []
+    },
+    {
+      "id": "t005nf",
+      "title": "Need for Speed Underground 2 online in the browser",
+      "description": "Score: 85 | Comments: 26 | Posted by fluxusars",
+      "url": "https://nfsu2.xyz/",
+      "publishedAt": "2026-11-07T09:36:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fluxusars",
+      "tags": []
+    },
+    {
+      "id": "xpvemy",
+      "title": "The Components of Agent Memory",
+      "description": "Score: 68 | Comments: 33 | Posted by geoffbp",
+      "url": "https://www.anthropic.com/research/components-of-agent-memory",
+      "publishedAt": "2026-11-07T06:39:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "geoffbp",
+      "tags": []
+    },
+    {
+      "id": "du2m0d",
+      "title": "Asahi Linux Progress Linux 7.3",
+      "description": "Score: 205 | Comments: 172 | Posted by ackyshake",
+      "url": "https://asahilinux.org/2026/11/progress-report-7-3/",
+      "publishedAt": "2026-11-07T05:20:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ackyshake",
+      "tags": []
+    },
+    {
+      "id": "j7xz2",
+      "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
+      "description": "Score: 124 | Comments: 94 | Posted by benbreen",
+      "url": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
+      "publishedAt": "2026-11-07T04:54:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "benbreen",
+      "tags": []
+    }
+  ]
+}

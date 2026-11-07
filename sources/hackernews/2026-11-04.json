@@ -25,6 +25,17 @@
       "tags": []
     },
     {
+      "id": "o407wa",
+      "title": "Bug Finding Considered Harmful?",
+      "description": "Score: 19 | Comments: 5 | Posted by alpaylan",
+      "url": "https://alperenkeles.com/posts/bug-finding-considered-harmful/",
+      "publishedAt": "2026-11-04T22:35:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "alpaylan",
+      "tags": []
+    },
+    {
       "id": "ajsrce",
       "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
       "description": "Score: 130 | Comments: 12 | Posted by muricula",
@@ -99,6 +110,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "kenrose",
+      "tags": []
+    },
+    {
+      "id": "dgtkmn",
+      "title": "8088 Domination Post-Mortem",
+      "description": "Score: 27 | Comments: 5 | Posted by cosmojg",
+      "url": "https://trixter.oldskool.org/2014/06/19/8088-domination-post-mortem-part-1/",
+      "publishedAt": "2026-11-04T18:06:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cosmojg",
       "tags": []
     },
     {
@@ -454,6 +476,17 @@
       "tags": []
     },
     {
+      "id": "nkrjdi",
+      "title": "PostgreSQL Internals [pdf]",
+      "description": "Score: 37 | Comments: 5 | Posted by Foe",
+      "url": "https://edu.postgrespro.com/postgresql_internals-14_en.pdf",
+      "publishedAt": "2026-11-04T05:22:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Foe",
+      "tags": []
+    },
+    {
       "id": "3v9h6y",
       "title": "Jelly Sheet",
       "description": "Score: 321 | Comments: 81 | Posted by memalign",
@@ -495,6 +528,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jaypatelani",
+      "tags": []
+    },
+    {
+      "id": "7rljpb",
+      "title": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE",
+      "description": "Score: 128 | Comments: 12 | Posted by derbOac",
+      "url": "https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/",
+      "publishedAt": "2026-11-04T02:19:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "derbOac",
       "tags": []
     },
     {
