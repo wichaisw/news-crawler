@@ -1,0 +1,149 @@
+{
+  "date": "2026-11-08",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "58h9x2",
+      "title": "Person of Interest",
+      "description": "Score: 83 | Comments: 43 | Posted by krthr",
+      "url": "https://krthr.co/person-of-interest/",
+      "publishedAt": "2026-11-08T11:23:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "krthr",
+      "tags": []
+    },
+    {
+      "id": "196ouw",
+      "title": "Petered (what happens after the Peter Principle)",
+      "description": "Score: 46 | Comments: 20 | Posted by adrianhoward",
+      "url": "https://aworkinglibrary.com/writing/petered",
+      "publishedAt": "2026-11-08T10:56:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "adrianhoward",
+      "tags": []
+    },
+    {
+      "id": "dt78pz",
+      "title": "JIT bitmap text rendering for microcontrollers",
+      "description": "Score: 20 | Comments: 2 | Posted by dmit",
+      "url": "https://linebender.org/blog/jit-bitmap-text/",
+      "publishedAt": "2026-11-08T10:42:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dmit",
+      "tags": []
+    },
+    {
+      "id": "qahvm3",
+      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+      "description": "Score: 27 | Comments: 10 | Posted by joshcsimmons",
+      "url": "https://github.com/synchopate/llama-modchip",
+      "publishedAt": "2026-11-08T10:22:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "joshcsimmons",
+      "tags": []
+    },
+    {
+      "id": "53kjbs",
+      "title": "GitHub Down Again?",
+      "description": "Score: 108 | Comments: 111 | Posted by ridowk",
+      "url": "https://github.com/torvalds/linux",
+      "publishedAt": "2026-11-08T09:56:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ridowk",
+      "tags": []
+    },
+    {
+      "id": "rx6vlm",
+      "title": "I'm Rewriting IBM SPSS Statistics in 100% Safe Rust, Alone",
+      "description": "Score: 20 | Comments: 29 | Posted by kobaltGIT",
+      "url": "https://github.com/kobaltgit/StatCraft",
+      "publishedAt": "2026-11-08T08:53:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kobaltGIT",
+      "tags": []
+    },
+    {
+      "id": "12z028",
+      "title": "Agent memory needs its OpenTelemetry moment",
+      "description": "Score: 69 | Comments: 64 | Posted by mthines",
+      "url": "https://www.lorekit.io/blog/open-agent-memory-format",
+      "publishedAt": "2026-11-08T08:40:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mthines",
+      "tags": []
+    },
+    {
+      "id": "rfucne",
+      "title": "WaveDudeNext 2D Wave Simulator",
+      "description": "Score: 26 | Comments: 4 | Posted by sweetdingoes",
+      "url": "https://github.com/graealex/WaveDudeNext",
+      "publishedAt": "2026-11-08T07:09:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sweetdingoes",
+      "tags": []
+    },
+    {
+      "id": "b9rebp",
+      "title": "Kirlian Photography: Building Your Own Equipment",
+      "description": "Score: 55 | Comments: 14 | Posted by joebig",
+      "url": "https://imagesco.com/articles/kirlian/kirlian-photography.html",
+      "publishedAt": "2026-11-08T04:14:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "joebig",
+      "tags": []
+    },
+    {
+      "id": "tf581a",
+      "title": "ISponsorBlockTV: SponsorBlock client for all YouTube TV clients",
+      "description": "Score: 61 | Comments: 13 | Posted by xnx",
+      "url": "https://github.com/dmunozv04/isponsorblocktv",
+      "publishedAt": "2026-11-08T03:47:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "xnx",
+      "tags": []
+    },
+    {
+      "id": "3jb8vp",
+      "title": "Goodbye Claude, Hello Pi",
+      "description": "Score: 396 | Comments: 250 | Posted by karagenit",
+      "url": "https://caleb.software/posts/claude-to-pi.html",
+      "publishedAt": "2026-11-08T03:11:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "karagenit",
+      "tags": []
+    },
+    {
+      "id": "trr0sa",
+      "title": "Consumer brain wave headsets threaten privacy",
+      "description": "Score: 75 | Comments: 38 | Posted by maxall4",
+      "url": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
+      "publishedAt": "2026-11-08T02:02:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "maxall4",
+      "tags": []
+    },
+    {
+      "id": "26hthb",
+      "title": "ZapFast: A fast, native WhatsApp client in Rust and egui",
+      "description": "Score: 90 | Comments: 67 | Posted by handfuloflight",
+      "url": "https://github.com/crmne/zapfast",
+      "publishedAt": "2026-11-08T02:02:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "handfuloflight",
+      "tags": []
+    }
+  ]
+}
