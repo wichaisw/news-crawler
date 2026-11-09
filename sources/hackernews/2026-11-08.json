@@ -3,6 +3,138 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "u99pyu",
+      "title": "I'm not convinced the AI bubble exists",
+      "description": "Score: 442 | Comments: 764 | Posted by matteoraso",
+      "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+      "publishedAt": "2026-11-08T23:44:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "matteoraso",
+      "tags": []
+    },
+    {
+      "id": "snzbcj",
+      "title": "When a language's creator and its owners strongly disagree [pdf]",
+      "description": "Score: 141 | Comments: 142 | Posted by acossta",
+      "url": "https://isocpp.org/files/papers/P4454R0.pdf",
+      "publishedAt": "2026-11-08T23:28:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "acossta",
+      "tags": []
+    },
+    {
+      "id": "k2s2sm",
+      "title": "Chimera Vocal Synth",
+      "description": "Score: 289 | Comments: 50 | Posted by nmstoker",
+      "url": "https://chimera-vocal-synth.vercel.app/",
+      "publishedAt": "2026-11-08T22:36:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nmstoker",
+      "tags": []
+    },
+    {
+      "id": "br49q",
+      "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+      "description": "Score: 636 | Comments: 190 | Posted by dcoulmbe",
+      "url": "https://ketchup3d.github.io/app/",
+      "publishedAt": "2026-11-08T22:35:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dcoulmbe",
+      "tags": []
+    },
+    {
+      "id": "8laolk",
+      "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+      "description": "Score: 844 | Comments: 1018 | Posted by karimf",
+      "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
+      "publishedAt": "2026-11-08T22:20:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "karimf",
+      "tags": []
+    },
+    {
+      "id": "n4p87p",
+      "title": "The Web Is More Than Enough, by Paul Ford",
+      "description": "Score: 142 | Comments: 96 | Posted by edward",
+      "url": "https://ftrain.com/aboard-the-web-is-more-than-enough",
+      "publishedAt": "2026-11-08T19:48:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "edward",
+      "tags": []
+    },
+    {
+      "id": "ikazbk",
+      "title": "How I Fight AI Brain Fry",
+      "description": "Score: 282 | Comments: 199 | Posted by kyunez",
+      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+      "publishedAt": "2026-11-08T19:37:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kyunez",
+      "tags": []
+    },
+    {
+      "id": "aumk1z",
+      "title": "Outlook.com is rejecting email from domains without DMARC",
+      "description": "Score: 481 | Comments: 330 | Posted by xmddmx",
+      "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+      "publishedAt": "2026-11-08T19:20:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "xmddmx",
+      "tags": []
+    },
+    {
+      "id": "77r8zu",
+      "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+      "description": "Score: 320 | Comments: 120 | Posted by indigodaddy",
+      "url": "https://duxlabs.dev/",
+      "publishedAt": "2026-11-08T19:08:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "indigodaddy",
+      "tags": []
+    },
+    {
+      "id": "lpr4jw",
+      "title": "Playing with the STM32MP2",
+      "description": "Score: 73 | Comments: 47 | Posted by dverlaeckt80",
+      "url": "https://serd.es/2026/11/08/playing-with-stm32mp2.html",
+      "publishedAt": "2026-11-08T19:04:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dverlaeckt80",
+      "tags": []
+    },
+    {
+      "id": "49q8wc",
+      "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+      "description": "Score: 836 | Comments: 456 | Posted by TheWiggles",
+      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+      "publishedAt": "2026-11-08T18:16:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "TheWiggles",
+      "tags": []
+    },
+    {
+      "id": "9kknbu",
+      "title": "I'm not a fan of Deno's security model (2024)",
+      "description": "Score: 99 | Comments: 55 | Posted by maxloh",
+      "url": "https://goldstein.lol/posts/deno-security/",
+      "publishedAt": "2026-11-08T14:42:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "maxloh",
+      "tags": []
+    },
+    {
       "id": "58h9x2",
       "title": "Person of Interest",
       "description": "Score: 83 | Comments: 43 | Posted by krthr",
@@ -33,6 +165,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "dmit",
+      "tags": []
+    },
+    {
+      "id": "felzvo",
+      "title": "Writing as a thinking tool",
+      "description": "Score: 436 | Comments: 105 | Posted by jruohonen",
+      "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
+      "publishedAt": "2026-11-08T10:41:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jruohonen",
       "tags": []
     },
     {

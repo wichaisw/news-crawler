@@ -1,0 +1,215 @@
+{
+  "date": "2026-11-09",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "87bhgz",
+      "title": "Zebkit – Chromium as an embeddable library",
+      "description": "Score: 34 | Comments: 15 | Posted by Riiiiichard",
+      "url": "https://github.com/ikey4u/zebkit",
+      "publishedAt": "2026-11-09T14:34:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Riiiiichard",
+      "tags": []
+    },
+    {
+      "id": "zb1yi",
+      "title": "Humans will never again create a project like Wikipediaeconomist.com",
+      "description": "Score: 303 | Comments: 232 | Posted by",
+      "url": "https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia",
+      "publishedAt": "2026-11-09T13:30:05.270Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Anonymous",
+      "tags": []
+    },
+    {
+      "id": "p5jne",
+      "title": "Children of Men: The Future Is a Mirror for the Present",
+      "description": "Score: 67 | Comments: 53 | Posted by speckx",
+      "url": "https://reactormag.com/children-of-men-the-future-is-a-mirror-for-the-present/",
+      "publishedAt": "2026-11-09T13:27:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
+      "tags": []
+    },
+    {
+      "id": "zb1yi",
+      "title": "Humans will never again create a project like Wikipedia",
+      "description": "Score: 303 | Comments: 232 | Posted by edward",
+      "url": "https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia",
+      "publishedAt": "2026-11-09T12:30:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "edward",
+      "tags": []
+    },
+    {
+      "id": "e4u6xo",
+      "title": "Fold Epic Paper Airplanesfoldableflight.com",
+      "description": "Score: 308 | Comments: 60 | Posted by",
+      "url": "https://www.foldableflight.com",
+      "publishedAt": "2026-11-09T12:30:05.270Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Anonymous",
+      "tags": []
+    },
+    {
+      "id": "1kzd22",
+      "title": "Nvidia's China Problem [pdf]",
+      "description": "Score: 19 | Comments: 4 | Posted by Erikun",
+      "url": "https://culperresearch.com/wp-content/uploads/2026/05/Culper_NVDA_5-13-2026.pdf",
+      "publishedAt": "2026-11-09T12:20:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Erikun",
+      "tags": []
+    },
+    {
+      "id": "e4u6xo",
+      "title": "Fold Epic Paper Airplanes",
+      "description": "Score: 308 | Comments: 60 | Posted by vismit2000",
+      "url": "https://www.foldableflight.com",
+      "publishedAt": "2026-11-09T12:19:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vismit2000",
+      "tags": []
+    },
+    {
+      "id": "aub5mo",
+      "title": "CompuServe Information Service remade for the modern web",
+      "description": "Score: 3 | Comments: 0 | Posted by oldnetguy",
+      "url": "https://compuserveweb.com/",
+      "publishedAt": "2026-11-09T11:51:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "oldnetguy",
+      "tags": []
+    },
+    {
+      "id": "hrpbe8",
+      "title": "What is malloc doing, anyway?",
+      "description": "Score: 82 | Comments: 17 | Posted by benmandrew",
+      "url": "https://benmandrew.com/articles/what-is-malloc-doing-anyway",
+      "publishedAt": "2026-11-09T11:31:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "benmandrew",
+      "tags": []
+    },
+    {
+      "id": "vrr7fv",
+      "title": "Fun things to do with your VM/370 CE machine – Fun with big computers",
+      "description": "Score: 74 | Comments: 9 | Posted by rbanffy",
+      "url": "https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/",
+      "publishedAt": "2026-11-09T10:11:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rbanffy",
+      "tags": []
+    },
+    {
+      "id": "uxs419",
+      "title": "Borrowing a Microsoft-signed shim to abuse Secure Boot on corporate hardware",
+      "description": "Score: 24 | Comments: 6 | Posted by p4p1",
+      "url": "https://leosmith.wtf/blog/not-so-secure-boot.html",
+      "publishedAt": "2026-11-09T09:22:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "p4p1",
+      "tags": []
+    },
+    {
+      "id": "txj1tn",
+      "title": "PixelOS",
+      "description": "Score: 60 | Comments: 53 | Posted by emilburzo",
+      "url": "https://pixelos.net/",
+      "publishedAt": "2026-11-09T07:31:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "emilburzo",
+      "tags": []
+    },
+    {
+      "id": "qysoc0",
+      "title": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
+      "description": "Score: 146 | Comments: 33 | Posted by theanonymousone",
+      "url": "https://arxiv.org/abs/2610.14162",
+      "publishedAt": "2026-11-09T07:20:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "theanonymousone",
+      "tags": []
+    },
+    {
+      "id": "mm0pnh",
+      "title": "Is Opus 5.5 nerfed? Thinking patterns changed on November 3",
+      "description": "Score: 360 | Comments: 260 | Posted by rzk",
+      "url": "https://twitter.com/shanemelaugh/status/2119192075505893695",
+      "publishedAt": "2026-11-09T07:04:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rzk",
+      "tags": []
+    },
+    {
+      "id": "779b65",
+      "title": "Show HN: Flide: Make Jev-like decision models up to 9.5x faster",
+      "description": "Score: 83 | Comments: 19 | Posted by unikcc",
+      "url": "https://github.com/OmniJev/Flide",
+      "publishedAt": "2026-11-09T04:43:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "unikcc",
+      "tags": []
+    },
+    {
+      "id": "ppppcb",
+      "title": "A Critique of GPUI",
+      "description": "Score: 123 | Comments: 88 | Posted by ByteAtATime",
+      "url": "https://blog.zortax.de/posts/a-critique-of-gpui",
+      "publishedAt": "2026-11-09T03:51:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ByteAtATime",
+      "tags": []
+    },
+    {
+      "id": "l23rnc",
+      "title": "The Qlobe: Rotating Quine (2010)",
+      "description": "Score: 35 | Comments: 0 | Posted by niceguitars",
+      "url": "http://mamememo.blogspot.com/2010/09/qlobe.html",
+      "publishedAt": "2026-11-09T03:15:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "niceguitars",
+      "tags": []
+    },
+    {
+      "id": "bf00b8",
+      "title": "RIP, Harvest",
+      "description": "Score: 403 | Comments: 127 | Posted by zdw",
+      "url": "https://aphyr.com/posts/427-rip-harvest",
+      "publishedAt": "2026-11-09T01:58:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zdw",
+      "tags": []
+    },
+    {
+      "id": "ynt1f9",
+      "title": "Unlocking any car from X brand in most of the world",
+      "description": "Score: 507 | Comments: 270 | Posted by infosecau",
+      "url": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
+      "publishedAt": "2026-11-09T00:10:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "infosecau",
+      "tags": []
+    }
+  ]
+}
