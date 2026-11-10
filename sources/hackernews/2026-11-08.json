@@ -1,0 +1,61 @@
+{
+  "date": "2026-11-08",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "n4p87p",
+      "title": "The Web Is More Than Enough",
+      "description": "Score: 197 | Comments: 155 | Posted by edward",
+      "url": "https://ftrain.com/aboard-the-web-is-more-than-enough",
+      "publishedAt": "2026-11-08T19:48:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "edward",
+      "tags": []
+    },
+    {
+      "id": "x0v7h1",
+      "title": "Show HN: Ghanaian street games you can play in the browser",
+      "description": "Score: 37 | Comments: 7 | Posted by samuelaidoo45",
+      "url": "https://www.ghanastreetgames.com/",
+      "publishedAt": "2026-11-08T15:31:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "samuelaidoo45",
+      "tags": []
+    },
+    {
+      "id": "j20ef7",
+      "title": "NetBSD 11 desktop on a Raspberry Pi 4",
+      "description": "Score: 19 | Comments: 0 | Posted by jaypatelani",
+      "url": "https://neongd.com/articles/netbsd11-rpi4.gmi",
+      "publishedAt": "2026-11-08T12:07:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jaypatelani",
+      "tags": []
+    },
+    {
+      "id": "bvicbp",
+      "title": "Never Gonna Print You Up",
+      "description": "Score: 55 | Comments: 3 | Posted by ta988",
+      "url": "https://dixken.de/blog/never-gonna-print-you-up",
+      "publishedAt": "2026-11-08T07:15:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ta988",
+      "tags": []
+    },
+    {
+      "id": "qv3fgv",
+      "title": "Simon Winchester, Author of 'The Professor and the Madman,' Has Died",
+      "description": "Score: 21 | Comments: 9 | Posted by benbreen",
+      "url": "https://www.nytimes.com/2026/11/04/obituaries/simon-winchester-dead.html",
+      "publishedAt": "2026-11-08T04:07:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "benbreen",
+      "tags": []
+    }
+  ]
+}

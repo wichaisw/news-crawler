@@ -3,6 +3,182 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "7ib2nr",
+      "title": "Fable 5.2 one-shotted my nephew's dream game",
+      "description": "Score: 439 | Comments: 361 | Posted by lexandstuff",
+      "url": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
+      "publishedAt": "2026-11-09T23:08:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lexandstuff",
+      "tags": []
+    },
+    {
+      "id": "lvko4l",
+      "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
+      "description": "Score: 357 | Comments: 258 | Posted by theanonymousone",
+      "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+      "publishedAt": "2026-11-09T20:04:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "theanonymousone",
+      "tags": []
+    },
+    {
+      "id": "m63n9",
+      "title": "Here comes the sun[light]:An ambient Daylight Clock with time and space controls",
+      "description": "Score: 5 | Comments: 0 | Posted by evakhoury",
+      "url": "https://hannahilea.com/blog/daylight-clock/",
+      "publishedAt": "2026-11-09T20:00:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "evakhoury",
+      "tags": []
+    },
+    {
+      "id": "dney2h",
+      "title": "USPS now offers official ZIP Code boundary polygons",
+      "description": "Score: 674 | Comments: 341 | Posted by munro",
+      "url": "https://postalpro.usps.com/zcb",
+      "publishedAt": "2026-11-09T19:58:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "munro",
+      "tags": []
+    },
+    {
+      "id": "cxfy3q",
+      "title": "Show HN: Someone Was Here – Find out who used your Mac while you were away",
+      "description": "Score: 102 | Comments: 36 | Posted by 4onthefloor124",
+      "url": "https://someonewashere.app/",
+      "publishedAt": "2026-11-09T18:50:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "4onthefloor124",
+      "tags": []
+    },
+    {
+      "id": "bo4vxn",
+      "title": "E-means: Outperforming k-means in one-tenth the epochs",
+      "description": "Score: 444 | Comments: 56 | Posted by porridgeraisin",
+      "url": "https://e-means.github.io/",
+      "publishedAt": "2026-11-09T18:45:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "porridgeraisin",
+      "tags": []
+    },
+    {
+      "id": "mz6r4n",
+      "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
+      "description": "Score: 111 | Comments: 42 | Posted by raiseCatError",
+      "url": "https://meowdisplay.app/",
+      "publishedAt": "2026-11-09T18:39:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "raiseCatError",
+      "tags": []
+    },
+    {
+      "id": "b6rpat",
+      "title": "The first 300-millimeter power silicon carbide (SiC) wafer",
+      "description": "Score: 148 | Comments: 87 | Posted by sshah03",
+      "url": "https://www.infineon.com/press-release/2026/infpr202611-028",
+      "publishedAt": "2026-11-09T18:25:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sshah03",
+      "tags": []
+    },
+    {
+      "id": "cxb8wr",
+      "title": "Google Gemini routes personal Drive files and emails to human annotators",
+      "description": "Score: 673 | Comments: 143 | Posted by gf74918",
+      "url": "https://github.com/thisisme6598/gemini_files/",
+      "publishedAt": "2026-11-09T18:24:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gf74918",
+      "tags": []
+    },
+    {
+      "id": "5hkgva",
+      "title": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
+      "description": "Score: 99 | Comments: 34 | Posted by Dodaios",
+      "url": "https://github.com/Dodaios/ste80-humanizer",
+      "publishedAt": "2026-11-09T18:05:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Dodaios",
+      "tags": []
+    },
+    {
+      "id": "n97n9v",
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "description": "Score: 719 | Comments: 883 | Posted by lairv",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "publishedAt": "2026-11-09T18:01:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lairv",
+      "tags": []
+    },
+    {
+      "id": "g1p8fz",
+      "title": "Muse Ember: Our smallest, most efficient model",
+      "description": "Score: 318 | Comments: 138 | Posted by dvaplima",
+      "url": "https://research.meta.ai/blog/muse-ember",
+      "publishedAt": "2026-11-09T17:58:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dvaplima",
+      "tags": []
+    },
+    {
+      "id": "pregs",
+      "title": "Show HN: Every satellite that passed over any place this week, and its photos",
+      "description": "Score: 411 | Comments: 77 | Posted by a585gupt",
+      "url": "https://www.watched.earth",
+      "publishedAt": "2026-11-09T17:51:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "a585gupt",
+      "tags": []
+    },
+    {
+      "id": "7r7gc8",
+      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+      "description": "Score: 557 | Comments: 319 | Posted by ocd",
+      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+      "publishedAt": "2026-11-09T16:00:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ocd",
+      "tags": []
+    },
+    {
+      "id": "y1uhx5",
+      "title": "On Being an Engineer in 2026",
+      "description": "Score: 157 | Comments: 250 | Posted by talboren",
+      "url": "https://twitter.com/shaharglazner/status/2119796029256032278",
+      "publishedAt": "2026-11-09T15:07:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "talboren",
+      "tags": []
+    },
+    {
+      "id": "yj6not",
+      "title": "Taking another shot at the cheap IP camera, part 2",
+      "description": "Score: 3 | Comments: 0 | Posted by ericswpark",
+      "url": "https://ericswpark.com/blog/2026/2026-11-09-ip-camera-pt2/",
+      "publishedAt": "2026-11-09T14:40:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ericswpark",
+      "tags": []
+    },
+    {
       "id": "87bhgz",
       "title": "Zebkit – Chromium as an embeddable library",
       "description": "Score: 34 | Comments: 15 | Posted by Riiiiichard",
@@ -11,6 +187,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "Riiiiichard",
+      "tags": []
+    },
+    {
+      "id": "h4qqje",
+      "title": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
+      "description": "Score: 333 | Comments: 226 | Posted by speckx",
+      "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
+      "publishedAt": "2026-11-09T14:31:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
       "tags": []
     },
     {

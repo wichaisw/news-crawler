@@ -1,0 +1,28 @@
+{
+  "date": "2026-11-07",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "5wints",
+      "title": "Billion Watts in the Speaker [video]",
+      "description": "Score: 55 | Comments: 27 | Posted by Element_",
+      "url": "https://www.youtube.com/watch?v=PHOcTXYaMfg",
+      "publishedAt": "2026-11-07T21:45:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Element_",
+      "tags": []
+    },
+    {
+      "id": "bmdfdp",
+      "title": "Time for AVIF everywhere?",
+      "description": "Score: 92 | Comments: 71 | Posted by speckx",
+      "url": "https://www.michaelponders.com/2026/11/isnt-it-time-for-avif-everywhere.html",
+      "publishedAt": "2026-11-07T17:34:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
+      "tags": []
+    }
+  ]
+}

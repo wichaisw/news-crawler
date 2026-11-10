@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-05",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "jvtkoz",
+      "title": "A primer on GPUs and kernel optimization",
+      "description": "Score: 176 | Comments: 16 | Posted by nomi_uw",
+      "url": "https://www.nabo.dev/blogs/kernel-primer",
+      "publishedAt": "2026-11-05T23:48:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nomi_uw",
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "date": "2026-11-10",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "81dgki",
+      "title": "The U.S. Is Driving Away Young Scientists",
+      "description": "Score: 8 | Comments: 1 | Posted by digital55",
+      "url": "https://www.nytimes.com/interactive/2026/11/09/science/trump-funding-cuts-young-scientists-phd-research.html",
+      "publishedAt": "2026-11-10T14:12:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "digital55",
+      "tags": []
+    },
+    {
+      "id": "m9r8jy",
+      "title": "Sexual harassment takes a hidden toll on gig workers",
+      "description": "Score: 4 | Comments: 0 | Posted by DeepLogin",
+      "url": "https://www.futurity.org/sexual-harassment-gig-workers-3352412/",
+      "publishedAt": "2026-11-10T14:07:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "DeepLogin",
+      "tags": []
+    },
+    {
+      "id": "3bzbw4",
+      "title": "Don't buy AR glasses",
+      "description": "Score: 79 | Comments: 73 | Posted by Bluestein",
+      "url": "https://blog.yaros.ae/dont-buy-ar-glasses/",
+      "publishedAt": "2026-11-10T13:10:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Bluestein",
+      "tags": []
+    },
+    {
+      "id": "x3fmnu",
+      "title": "Ableton Live 13",
+      "description": "Score: 74 | Comments: 75 | Posted by phaser",
+      "url": "https://www.ableton.com/en/live/",
+      "publishedAt": "2026-11-10T12:58:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "phaser",
+      "tags": []
+    },
+    {
+      "id": "1nf00l",
+      "title": "Let over Lambda–50 Years of Lisp",
+      "description": "Score: 5 | Comments: 0 | Posted by theanonymousone",
+      "url": "https://letoverlambda.com/",
+      "publishedAt": "2026-11-10T12:35:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "theanonymousone",
+      "tags": []
+    },
+    {
+      "id": "bgux8c",
+      "title": "AlphaProof Codedeepmind.google",
+      "description": "Score: 227 | Comments: 90 | Posted by",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "publishedAt": "2026-11-10T12:30:01.944Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Anonymous",
+      "tags": []
+    },
+    {
+      "id": "o2a8z0",
+      "title": "What's new in the .NET 11 runtime",
+      "description": "Score: 31 | Comments: 9 | Posted by stevefan1999",
+      "url": "https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime",
+      "publishedAt": "2026-11-10T12:20:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "stevefan1999",
+      "tags": []
+    },
+    {
+      "id": "bgux8c",
+      "title": "AlphaProof Code",
+      "description": "Score: 228 | Comments: 90 | Posted by ilreb",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "publishedAt": "2026-11-10T12:11:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ilreb",
+      "tags": []
+    },
+    {
+      "id": "bknyat",
+      "title": "Show HN: A 15 MB self-hosted Netflix and Spotify for your media server",
+      "description": "Score: 68 | Comments: 44 | Posted by CoderLuii",
+      "url": "https://github.com/HolyArrs/HolyArrs",
+      "publishedAt": "2026-11-10T11:51:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "CoderLuii",
+      "tags": []
+    },
+    {
+      "id": "1txzer",
+      "title": "Anthropic launches roadshow for proposed initial public offering",
+      "description": "Score: 4 | Comments: 2 | Posted by davidbarker",
+      "url": "https://www.anthropic.com/news/roadshow-launch",
+      "publishedAt": "2026-11-10T11:38:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "davidbarker",
+      "tags": []
+    },
+    {
+      "id": "thnjlc",
+      "title": "What Constant Surveillance Is Doing to Children",
+      "description": "Score: 78 | Comments: 61 | Posted by FinnLobsien",
+      "url": "https://www.theatlantic.com/magazine/2026/12/location-tracking-apps-parental-surveillance/689031/",
+      "publishedAt": "2026-11-10T10:47:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "FinnLobsien",
+      "tags": []
+    },
+    {
+      "id": "1vdrxk",
+      "title": "'C:\\> FORMAT C:' – relax, it's just a screen saver",
+      "description": "Score: 34 | Comments: 21 | Posted by TheIncredibleCh",
+      "url": "https://fakedos.com/",
+      "publishedAt": "2026-11-10T10:32:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "TheIncredibleCh",
+      "tags": []
+    },
+    {
+      "id": "37cik7",
+      "title": "Russia's combat losses in the data of Rosstat",
+      "description": "Score: 35 | Comments: 7 | Posted by mxschumacher",
+      "url": "https://rosstat-leaks.com/?lang=en",
+      "publishedAt": "2026-11-10T09:45:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mxschumacher",
+      "tags": []
+    },
+    {
+      "id": "262sai",
+      "title": "Queens Public library under ransomware attack e-borrowing suspended",
+      "description": "Score: 89 | Comments: 66 | Posted by rustyhancock",
+      "url": "https://connect.queenslibrary.org/",
+      "publishedAt": "2026-11-10T09:04:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rustyhancock",
+      "tags": []
+    },
+    {
+      "id": "1jqojm",
+      "title": "Fossil CO2 emissions decrease by 0.4% in 2026",
+      "description": "Score: 97 | Comments: 105 | Posted by giuliomagnifico",
+      "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/",
+      "publishedAt": "2026-11-10T08:59:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "giuliomagnifico",
+      "tags": []
+    },
+    {
+      "id": "z3pb16",
+      "title": "Fireworks AI security breach impacts Notion and their customers",
+      "description": "Score: 96 | Comments: 31 | Posted by werrett",
+      "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+      "publishedAt": "2026-11-10T07:19:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "werrett",
+      "tags": []
+    },
+    {
+      "id": "p7my1y",
+      "title": "ClickHouse Acquires Xata",
+      "description": "Score: 65 | Comments: 7 | Posted by mebcitto",
+      "url": "https://xata.io/blog/xata-is-joining-clickhouse",
+      "publishedAt": "2026-11-10T06:14:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mebcitto",
+      "tags": []
+    },
+    {
+      "id": "jpklrd",
+      "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+      "description": "Score: 460 | Comments: 170 | Posted by aloukissas",
+      "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+      "publishedAt": "2026-11-10T06:01:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "aloukissas",
+      "tags": []
+    },
+    {
+      "id": "2ityoe",
+      "title": "Your TV can see through walls",
+      "description": "Score: 200 | Comments: 83 | Posted by Curiositry",
+      "url": "https://maurycyz.com/projects/fading/",
+      "publishedAt": "2026-11-10T05:24:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Curiositry",
+      "tags": []
+    },
+    {
+      "id": "7mui41",
+      "title": "Ultorg: The User Interface for Relational Databases",
+      "description": "Score: 107 | Comments: 32 | Posted by Ivoah",
+      "url": "https://www.ultorg.com/",
+      "publishedAt": "2026-11-10T03:59:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Ivoah",
+      "tags": []
+    },
+    {
+      "id": "egaali",
+      "title": "Formalizing CPython",
+      "description": "Score: 106 | Comments: 45 | Posted by carnevalem",
+      "url": "https://broyojo.com/python-formalization/",
+      "publishedAt": "2026-11-10T01:56:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "carnevalem",
+      "tags": []
+    },
+    {
+      "id": "jc45ve",
+      "title": "Locating the source of a mysterious beep",
+      "description": "Score: 249 | Comments: 128 | Posted by bigwheels",
+      "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+      "publishedAt": "2026-11-10T00:10:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bigwheels",
+      "tags": []
+    },
+    {
+      "id": "jhl62y",
+      "title": "Horible public key tricks",
+      "description": "Score: 202 | Comments: 66 | Posted by Curiositry",
+      "url": "https://maurycyz.com/projects/badcert/",
+      "publishedAt": "2026-11-10T00:07:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Curiositry",
+      "tags": []
+    }
+  ]
+}
