@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "ds12qf",
+      "title": "Why Amstrad chose the 3\" drives",
+      "description": "Score: 68 | Comments: 22 | Posted by Skyfall106",
+      "url": "https://www.cpcwiki.eu/forum/amstrad-cpc-hardware/why-amstrad-chose-the-3-drives/",
+      "publishedAt": "2026-11-06T14:56:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Skyfall106",
+      "tags": []
+    },
+    {
       "id": "1fll6x",
       "title": "How hard is it to check for whitespace?",
       "description": "Score: 73 | Comments: 17 | Posted by theanonymousone",

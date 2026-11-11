@@ -1,0 +1,78 @@
+{
+  "date": "2026-11-11",
+  "source": "theverge",
+  "articles": [
+    {
+      "id": "k3wdhw",
+      "title": "Streaming is still trying to be TikTok",
+      "description": "At Skydance's first employee town hall after it acquired Warner Bros. Discovery in October, CEO David Ellison told staff that the company behind Paramount Plus and HBO Max was competing for people's attention with some of the world's biggest tech companies. Months earlier, he'd singled out a way to get viewers to spend more time [&#8230;]",
+      "url": "https://www.theverge.com/streaming/1030864/streaming-skydance-paramount-disney-hulu-earnings-tiktok-short-form-video",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2271211363.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-11-11T13:30:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Rani Molla",
+      "tags": []
+    },
+    {
+      "id": "7uwbuc",
+      "title": "I asked every TV manufacturer 17 questions about how they spy on you",
+      "description": "Every TV company is spying on you, not just LG. Like other tech companies, they collect lots of information, and while some is necessary for products to work, not all of it is - and could include details you'd prefer to keep private. Many customers are concerned about how TVs and streaming devices might be [&#8230;]",
+      "url": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268797_What_data_are_your_TVs_collecting_and_is_it_protected__CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-11-11T13:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "John Higgins",
+      "tags": []
+    },
+    {
+      "id": "soogma",
+      "title": "Not everyone is loving their new iPhone Duo",
+      "description": "For most new relationships, two weeks probably isn't enough time to decide if you're ready for long-term commitment. But two weeks with a new phone? You probably know. The iPhone Duo launched just over two weeks ago, and that's been enough time for a subset of day-one buyers who aren't loving the phone to make [&#8230;]",
+      "url": "https://www.theverge.com/tech/1030398/iphone-duo-returns-screen-apps",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0018.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-11-11T13:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Allison Johnson",
+      "tags": []
+    },
+    {
+      "id": "tjoshn",
+      "title": "Serve Robotics wants to democratize sidewalk delivery robots",
+      "description": "Serve Robotics is opening up its platform to make its autonomous last-mile delivery robots available to anyone who wants to use them. The company is launching a new AV Delivery Developer Portal, enabling third-party software engineers, independent businesses, and even autonomous AI agents to access its fleet of 2,000 sidewalk robots. With this new capability, [&#8230;]",
+      "url": "https://www.theverge.com/transportation/1030902/serve-robotics-open-developer-api-sidewalk-delivery",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2231498899.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-11-11T12:30:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Andrew J. Hawkins",
+      "tags": []
+    },
+    {
+      "id": "yioi15",
+      "title": "Apple is killing its Support Community forum next week",
+      "description": "It's the end of the road for the Apple Support Community. The dedicated discussion forum, which gave Apple users a place to exchange advice, troubleshoot, and generally chat about Apple products, has been placed into read-only mode, with a message from the company announcing that the Support Community will shut down for good on November [&#8230;]",
+      "url": "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Apple-Support-Community-forum.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-11-11T12:19:10.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Jess Weatherbed",
+      "tags": []
+    },
+    {
+      "id": "ilep93",
+      "title": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
+      "description": "Microsoft is now rolling out Automatic Super Resolution (Auto SR), an upscaling technology that competes with Nvidia's DLSS, for the Xbox Ally X, Xbox Ally X20, and select Windows Copilot Plus PCs, the company announced today. Auto SR is also getting some new features alongside this official release. In April, Microsoft started testing Auto SR [&#8230;]",
+      "url": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257996_ROG_Xbox_Ally_and_Xbox_Ally_X_AKrales_0073.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-11-11T00:34:24.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Jay Peters",
+      "tags": []
+    }
+  ]
+}

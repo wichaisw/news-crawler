@@ -3,6 +3,54 @@
   "source": "theverge",
   "articles": [
     {
+      "id": "enhbox",
+      "title": "The VR Disney Plus app on Meta Quest now has 3D movies",
+      "description": "Disney is bringing more than 60 3D movies to the Disney Plus app on Meta Quest. The movies will be available to Disney Plus subscribers as part of an updated Disney Plus app that's rolling out today. The 3D movies you can check out include The Avengers and Black Panther, Meta says. But the updated [&#8230;]",
+      "url": "https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/05.-EN-US_Meta-3D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-11-10T22:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Jay Peters",
+      "tags": []
+    },
+    {
+      "id": "bqpxc0",
+      "title": "Oura is acquiring medical AI chatbot startup Counsel Health",
+      "description": "Oura announced its quarterly earnings today and said it agreed to acquire Counsel Health for $625 million, after adding the company's AI chatbot to its app earlier this year. Counsel Health calls itself an \"AI-native primary care company,\" using the app to deliver AI-generated responses and insights based on users' health data reported from their [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268600_oura_ring_5_AKrales_0104.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-11-10T21:40:31.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Stevie Bonifield",
+      "tags": []
+    },
+    {
+      "id": "67x4c4",
+      "title": "Sony cancels live-service shooter Fairgames",
+      "description": "Sony has canceled Fairgames, a heist game announced in 2023, according to Bloomberg. Fairgames had once been part of Sony's big planned push for PlayStation live service games, but the company ended up canceling some planned live service titles, including in the God of War and The Last of Us franchises, and it shut down [&#8230;]",
+      "url": "https://www.theverge.com/games/1031242/sony-playstation-fairgames-canceled",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK097_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-11-10T21:06:12.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Jay Peters",
+      "tags": []
+    },
+    {
+      "id": "3tn2bk",
+      "title": "The PlayStation Plus PC app is shutting down next month",
+      "description": "Sony is retiring the PlayStation Plus app for PC on December 10th. Sony says it will notify users directly about the shutdown. The app allowed PlayStation Plus Premium subscribers to stream certain games on PC, but according to Sony, not many people are using that perk: With a very small number of eligible PlayStation Plus [&#8230;]",
+      "url": "https://www.theverge.com/games/1031144/sony-playstation-plus-windows-pc-app-shutting-down",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23426446/playstation_plus_logo_blog.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-11-10T19:40:52.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Stevie Bonifield",
+      "tags": []
+    },
+    {
       "id": "ash7i3",
       "title": "Anthropic targets $1.4 trillion IPO",
       "description": "Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations. Its IPO price is expected to be between $70.00 and $78.00 per share and according to the Wall Street Journal's sources, Anthropic is \"aiming for its shares to start trading Thursday or Friday next [&#8230;]",

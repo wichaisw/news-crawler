@@ -12,6 +12,17 @@
       "sourceName": "Hacker News",
       "author": "nomi_uw",
       "tags": []
+    },
+    {
+      "id": "n8ta8z",
+      "title": "I deleted all my SSH keys",
+      "description": "Score: 260 | Comments: 142 | Posted by speckx",
+      "url": "https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/",
+      "publishedAt": "2026-11-05T18:17:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
+      "tags": []
     }
   ]
 }

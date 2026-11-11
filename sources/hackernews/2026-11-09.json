@@ -14,6 +14,17 @@
       "tags": []
     },
     {
+      "id": "a40f1a",
+      "title": "Process Explorer for macOS",
+      "description": "Score: 222 | Comments: 71 | Posted by ingve",
+      "url": "https://github.com/microsoft/Procexp-Mac",
+      "publishedAt": "2026-11-09T22:30:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingve",
+      "tags": []
+    },
+    {
       "id": "lvko4l",
       "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
       "description": "Score: 357 | Comments: 258 | Posted by theanonymousone",
@@ -102,6 +113,17 @@
       "tags": []
     },
     {
+      "id": "7nywhu",
+      "title": "A ZIP-style Prolog VM for trilog",
+      "description": "Score: 25 | Comments: 7 | Posted by triska",
+      "url": "https://github.com/no382001/zipc",
+      "publishedAt": "2026-11-09T18:10:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "triska",
+      "tags": []
+    },
+    {
       "id": "5hkgva",
       "title": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
       "description": "Score: 99 | Comments: 34 | Posted by Dodaios",
@@ -154,6 +176,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ocd",
+      "tags": []
+    },
+    {
+      "id": "5k7p0y",
+      "title": "Why I wrote the BEAM book (2025)",
+      "description": "Score: 132 | Comments: 24 | Posted by zenincognito",
+      "url": "https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/",
+      "publishedAt": "2026-11-09T15:41:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zenincognito",
       "tags": []
     },
     {

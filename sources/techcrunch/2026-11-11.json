@@ -1,0 +1,28 @@
+{
+  "date": "2026-11-11",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3187258",
+      "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+      "description": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
+      "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+      "publishedAt": "2026-11-11T07:30:51.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Connie Loizos",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3187194",
+      "title": "X launches its own clipping feature to spur influencer engagement",
+      "description": "X is jumping into clipping, the popular practice of cutting long videos into short, shareable clips that can go viral.",
+      "url": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/",
+      "publishedAt": "2026-11-11T01:02:13.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lucas Ropek",
+      "tags": []
+    }
+  ]
+}

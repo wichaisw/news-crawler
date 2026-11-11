@@ -1,0 +1,182 @@
+{
+  "date": "2026-11-11",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "755acu",
+      "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72hpietromiotti.com",
+      "description": "Score: 184 | Comments: 73 | Posted by",
+      "url": "https://pietromiotti.com/latest/maya-site/?maya",
+      "publishedAt": "2026-11-11T12:44:37.444Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Anonymous",
+      "tags": []
+    },
+    {
+      "id": "iblyh5",
+      "title": "Open research, stronger privacy: Making Firefox users harder to fingerprint",
+      "description": "Score: 8 | Comments: 0 | Posted by Vinnl",
+      "url": "https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint/",
+      "publishedAt": "2026-11-11T12:44:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Vinnl",
+      "tags": []
+    },
+    {
+      "id": "ocawcu",
+      "title": "Can a Linear Program Do Weight-Space Programming?",
+      "description": "Score: 43 | Comments: 8 | Posted by emschwartz",
+      "url": "https://nathan.rs/posts/weight-space-lp/",
+      "publishedAt": "2026-11-11T12:30:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "emschwartz",
+      "tags": []
+    },
+    {
+      "id": "fcishi",
+      "title": "Next-Level Benchmarking Overfitting – Thomas Neumann",
+      "description": "Score: 17 | Comments: 1 | Posted by artrax",
+      "url": "http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html",
+      "publishedAt": "2026-11-11T12:09:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "artrax",
+      "tags": []
+    },
+    {
+      "id": "755acu",
+      "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+      "description": "Score: 184 | Comments: 73 | Posted by eyvindn",
+      "url": "https://pietromiotti.com/latest/maya-site/?maya",
+      "publishedAt": "2026-11-11T12:05:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "eyvindn",
+      "tags": []
+    },
+    {
+      "id": "jlh0d2",
+      "title": "Physically Controllable Relighting of Photographs",
+      "description": "Score: 12 | Comments: 1 | Posted by summarity",
+      "url": "https://yaksoy.github.io/PhysicalRelighting/",
+      "publishedAt": "2026-11-11T11:38:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "summarity",
+      "tags": []
+    },
+    {
+      "id": "meng",
+      "title": "The Housing Market Is Nuts",
+      "description": "Score: 32 | Comments: 30 | Posted by herTTTz",
+      "url": "https://nuts.logical.li/",
+      "publishedAt": "2026-11-11T11:02:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "herTTTz",
+      "tags": []
+    },
+    {
+      "id": "piliyl",
+      "title": "MacroHands: 3D hands and camera pose from egocentric video",
+      "description": "Score: 4 | Comments: 0 | Posted by tomaspduarte",
+      "url": "https://macrodata.co/blog/macrohands-3d-hands-and-camera-pose-from-egocentric-video",
+      "publishedAt": "2026-11-11T10:56:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tomaspduarte",
+      "tags": []
+    },
+    {
+      "id": "bqu1cu",
+      "title": "Using voltage glitching to unleash the A100 in my mining card",
+      "description": "Score: 60 | Comments: 19 | Posted by lae",
+      "url": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
+      "publishedAt": "2026-11-11T10:48:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lae",
+      "tags": []
+    },
+    {
+      "id": "61g6hh",
+      "title": "Greg Kurtzer's Ginux is now a userspace kernel",
+      "description": "Score: 92 | Comments: 50 | Posted by d3Xt3r",
+      "url": "https://github.com/gmkurtzer/ginux",
+      "publishedAt": "2026-11-11T05:25:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "d3Xt3r",
+      "tags": []
+    },
+    {
+      "id": "xqvru1",
+      "title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
+      "description": "Score: 60 | Comments: 21 | Posted by adrbn",
+      "url": "https://github.com/adrbn/bo2-mac",
+      "publishedAt": "2026-11-11T04:56:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "adrbn",
+      "tags": []
+    },
+    {
+      "id": "j5l6xx",
+      "title": "Protecting SSH Keys with macOS Secure Enclave",
+      "description": "Score: 281 | Comments: 102 | Posted by js2",
+      "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
+      "publishedAt": "2026-11-11T04:28:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "js2",
+      "tags": []
+    },
+    {
+      "id": "6p3x61",
+      "title": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
+      "description": "Score: 129 | Comments: 101 | Posted by Metacelsus",
+      "url": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
+      "publishedAt": "2026-11-11T02:57:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Metacelsus",
+      "tags": []
+    },
+    {
+      "id": "gqc2tl",
+      "title": "Hooked on Tuna",
+      "description": "Score: 40 | Comments: 13 | Posted by dnetesn",
+      "url": "https://theconversation.com/hooked-on-tuna-people-have-been-harvesting-these-ocean-predators-for-44-000-years-292428",
+      "publishedAt": "2026-11-11T02:23:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dnetesn",
+      "tags": []
+    },
+    {
+      "id": "6v76j6",
+      "title": "A great old-timey game-programming hack (2013)",
+      "description": "Score: 211 | Comments: 43 | Posted by palsecam",
+      "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
+      "publishedAt": "2026-11-11T01:56:31.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "palsecam",
+      "tags": []
+    },
+    {
+      "id": "hd112f",
+      "title": "LLMs Play Zachtronics' TIS-100",
+      "description": "Score: 82 | Comments: 18 | Posted by fairestvalue",
+      "url": "https://tis-100.wincon.dev/",
+      "publishedAt": "2026-11-11T00:37:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fairestvalue",
+      "tags": []
+    }
+  ]
+}
