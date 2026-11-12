@@ -3,6 +3,182 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "mrfgbq",
+      "title": "A general purpose Apple Silicon layer for x86-64 PCs",
+      "description": "Score: 126 | Comments: 53 | Posted by iceboundrock",
+      "url": "https://github.com/tylertms/Stela",
+      "publishedAt": "2026-11-11T23:02:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "iceboundrock",
+      "tags": []
+    },
+    {
+      "id": "1u7coe",
+      "title": "93% of paint splatters are valid Perl programs (2019)",
+      "description": "Score: 511 | Comments: 66 | Posted by zenincognito",
+      "url": "https://www.mcmillen.dev/sigbovik/",
+      "publishedAt": "2026-11-11T22:34:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zenincognito",
+      "tags": []
+    },
+    {
+      "id": "58nl8o",
+      "title": "Nvidia is preparing to oust Jensen Huang",
+      "description": "Score: 1175 | Comments: 1567 | Posted by jbredeche",
+      "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+      "publishedAt": "2026-11-11T22:31:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jbredeche",
+      "tags": []
+    },
+    {
+      "id": "em3fb",
+      "title": "Lock Your GitHub Actions",
+      "description": "Score: 304 | Comments: 60 | Posted by gslin",
+      "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
+      "publishedAt": "2026-11-11T22:16:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gslin",
+      "tags": []
+    },
+    {
+      "id": "ka1jbo",
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "description": "Score: 613 | Comments: 632 | Posted by herpderperator",
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "publishedAt": "2026-11-11T21:24:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "herpderperator",
+      "tags": []
+    },
+    {
+      "id": "2uv9vr",
+      "title": "Emacs in the Age of Magic",
+      "description": "Score: 278 | Comments: 127 | Posted by ggcr",
+      "url": "https://commandlinesystems.com/magic.txt",
+      "publishedAt": "2026-11-11T20:26:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ggcr",
+      "tags": []
+    },
+    {
+      "id": "lda2a8",
+      "title": "Huawei releases MACaQ, its internal quantizer for local inference",
+      "description": "Score: 124 | Comments: 30 | Posted by thefox96",
+      "url": "https://github.com/huawei-csl/MACaQ",
+      "publishedAt": "2026-11-11T20:23:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thefox96",
+      "tags": []
+    },
+    {
+      "id": "4tv79p",
+      "title": "The Utah Teapot",
+      "description": "Score: 174 | Comments: 42 | Posted by cobbal",
+      "url": "https://graphics.cs.utah.edu/teapot/",
+      "publishedAt": "2026-11-11T19:45:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cobbal",
+      "tags": []
+    },
+    {
+      "id": "yfv16a",
+      "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
+      "description": "Score: 231 | Comments: 90 | Posted by bolau",
+      "url": "https://termsheetplease.com/",
+      "publishedAt": "2026-11-11T19:12:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bolau",
+      "tags": []
+    },
+    {
+      "id": "x49d78",
+      "title": "Gemini Decisions API",
+      "description": "Score: 503 | Comments: 148 | Posted by iamdelirium",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "publishedAt": "2026-11-11T18:32:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "iamdelirium",
+      "tags": []
+    },
+    {
+      "id": "co45mp",
+      "title": "AWS emulator",
+      "description": "Score: 909 | Comments: 250 | Posted by super_linear",
+      "url": "https://github.com/aws/aws-emulator",
+      "publishedAt": "2026-11-11T18:21:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "super_linear",
+      "tags": []
+    },
+    {
+      "id": "d0uoi2",
+      "title": "Faster Retrieval for Better, More Efficient RAG",
+      "description": "Score: 222 | Comments: 38 | Posted by zerop",
+      "url": "https://machinelearning.apple.com/research/faster-retrieval",
+      "publishedAt": "2026-11-11T16:57:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zerop",
+      "tags": []
+    },
+    {
+      "id": "c4eu8k",
+      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+      "description": "Score: 533 | Comments: 255 | Posted by mbac32768",
+      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+      "publishedAt": "2026-11-11T16:38:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mbac32768",
+      "tags": []
+    },
+    {
+      "id": "m5smbi",
+      "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
+      "description": "Score: 270 | Comments: 100 | Posted by brownrout",
+      "url": "https://github.com/FrigadeHQ/yogurt",
+      "publishedAt": "2026-11-11T15:33:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "brownrout",
+      "tags": []
+    },
+    {
+      "id": "3f61ao",
+      "title": "Atuin Threads: All your agent sessions on every machine",
+      "description": "Score: 226 | Comments: 81 | Posted by linsomniac",
+      "url": "https://blog.atuin.sh/threads-agent-sessions/",
+      "publishedAt": "2026-11-11T14:10:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "linsomniac",
+      "tags": []
+    },
+    {
+      "id": "um3w9f",
+      "title": "Hyper-realistic sand with WebGL2",
+      "description": "Score: 423 | Comments: 77 | Posted by everlier",
+      "url": "https://av.github.io/safe-sand/",
+      "publishedAt": "2026-11-11T13:39:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "everlier",
+      "tags": []
+    },
+    {
       "id": "755acu",
       "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72hpietromiotti.com",
       "description": "Score: 184 | Comments: 73 | Posted by",
@@ -58,6 +234,17 @@
       "tags": []
     },
     {
+      "id": "qyk1wi",
+      "title": "My AI agents found an unmapped Maya site?",
+      "description": "Score: 1018 | Comments: 376 | Posted by eyvindn",
+      "url": "https://pietromiotti.com/latest/maya-site",
+      "publishedAt": "2026-11-11T12:05:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "eyvindn",
+      "tags": []
+    },
+    {
       "id": "jlh0d2",
       "title": "Physically Controllable Relighting of Photographs",
       "description": "Score: 12 | Comments: 1 | Posted by summarity",
@@ -99,6 +286,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "lae",
+      "tags": []
+    },
+    {
+      "id": "k4y7nr",
+      "title": "Tim Peters has died",
+      "description": "Score: 1315 | Comments: 157 | Posted by ayhanfuat",
+      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+      "publishedAt": "2026-11-11T07:03:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ayhanfuat",
       "tags": []
     },
     {

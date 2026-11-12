@@ -3,6 +3,17 @@
   "source": "blognone",
   "articles": [
     {
+      "id": "152153 at https://www.blognone.com",
+      "title": "Node.js ปล่อยแพตช์แก้ช่องโหว่ร้ายแรงสูง จาก TLS และ HTTP2",
+      "description": "Node.js ปล่อยแพตช์แก้ช่องโหว่ร้ายแรงสูง จาก TLS และ HTTP2 Body Node.js ปล่อยแพตช์แก้ไขช่องโหว่ร้ายแรงสูง ตามที่ได้ประกาศไว้ก่อนหน้านี้",
+      "url": "https://www.blognone.com/node/152153",
+      "publishedAt": "2026-11-11T17:13:07.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
       "id": "152150 at https://www.blognone.com",
       "title": "Apple อัปเดต iOS 27.2.1 แก้ไขช่องโหว่ที่ผู้โจมตีอาจเข้าถึงไฟล์สำคัญได้ แนะนำอัปเดตทันที - เวอร์ชันเก่าก็ได้อัปเดต",
       "description": "Apple อัปเดต iOS 27.2.1 แก้ไขช่องโหว่ที่ผู้โจมตีอาจเข้าถึงไฟล์สำคัญได้ แนะนำอัปเดตทันที - เวอร์ชันเก่าก็ได้อัปเดต Body",

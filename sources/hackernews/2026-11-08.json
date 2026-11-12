@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "qb73cv",
+      "title": "Grote Reber and the 'Square Kilometre Array' Near Bothwell, Tasmania (2017)",
+      "description": "Score: 17 | Comments: 2 | Posted by NaOH",
+      "url": "https://www.researchgate.net/publication/319702287_THE_HISTORY_OF_EARLY_LOW_FREQUENCY_RADIO_ASTRONOMY_IN_AUSTRALIA_8_GROTE_REBER_AND_THE_%27SQUARE_KILOMETRE_ARRAY%27_NEAR_BOTHWELL_TASMANIA_IN_THE_1960s_AND_1970s",
+      "publishedAt": "2026-11-08T20:04:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "NaOH",
+      "tags": []
+    },
+    {
       "id": "n4p87p",
       "title": "The Web Is More Than Enough",
       "description": "Score: 197 | Comments: 155 | Posted by edward",
@@ -11,6 +22,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "edward",
+      "tags": []
+    },
+    {
+      "id": "h2hecf",
+      "title": "Show HN: Build a PC in 3D in the Browser",
+      "description": "Score: 17 | Comments: 3 | Posted by ozaiworld",
+      "url": "https://www.buildcores.com",
+      "publishedAt": "2026-11-08T17:45:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ozaiworld",
       "tags": []
     },
     {
