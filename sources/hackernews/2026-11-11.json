@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "bguhjd",
+      "title": "Sift: LSP, Lint, Format Lisp, Scheme and Emacs Lisp",
+      "description": "Score: 72 | Comments: 10 | Posted by jjba23",
+      "url": "https://github.com/jjba23/sift",
+      "publishedAt": "2026-11-11T23:09:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jjba23",
+      "tags": []
+    },
+    {
       "id": "mrfgbq",
       "title": "A general purpose Apple Silicon layer for x86-64 PCs",
       "description": "Score: 126 | Comments: 53 | Posted by iceboundrock",
@@ -36,6 +47,17 @@
       "tags": []
     },
     {
+      "id": "vad4yq",
+      "title": "Words of warning about radiocarbon dating medieval human bones",
+      "description": "Score: 75 | Comments: 19 | Posted by gumby",
+      "url": "https://www.nature.com/articles/s40494-026-02958-x",
+      "publishedAt": "2026-11-11T22:18:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gumby",
+      "tags": []
+    },
+    {
       "id": "em3fb",
       "title": "Lock Your GitHub Actions",
       "description": "Score: 304 | Comments: 60 | Posted by gslin",
@@ -55,6 +77,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "herpderperator",
+      "tags": []
+    },
+    {
+      "id": "jucg6j",
+      "title": "Relax: JIT compiler for Rust to reduce build times",
+      "description": "Score: 170 | Comments: 91 | Posted by adamnemecek",
+      "url": "https://makepad.github.io/relax/",
+      "publishedAt": "2026-11-11T21:20:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "adamnemecek",
       "tags": []
     },
     {
