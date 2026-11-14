@@ -179,6 +179,17 @@
       "tags": []
     },
     {
+      "id": "5nnle",
+      "title": "Service Crew Discovers Rare Yellow Burbot in Oswego Harbor",
+      "description": "Score: 10 | Comments: 1 | Posted by tart-lemonade",
+      "url": "https://www.fws.gov/story/2026-11/service-crew-discovers-rare-yellow-burbot-oswego-harbor",
+      "publishedAt": "2026-11-11T15:47:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tart-lemonade",
+      "tags": []
+    },
+    {
       "id": "m5smbi",
       "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
       "description": "Score: 270 | Comments: 100 | Posted by brownrout",
@@ -396,6 +407,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "palsecam",
+      "tags": []
+    },
+    {
+      "id": "75o7tc",
+      "title": "Extending LLDB to Debug Applications That Span CPUs and GPUs",
+      "description": "Score: 20 | Comments: 3 | Posted by JDevlieghere",
+      "url": "https://engineering.fb.com/2026/11/09/developer-tools/extending-lldb-to-debug-applications-that-span-cpus-and-gpus/",
+      "publishedAt": "2026-11-11T00:48:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "JDevlieghere",
       "tags": []
     },
     {

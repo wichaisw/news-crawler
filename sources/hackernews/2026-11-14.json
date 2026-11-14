@@ -1,0 +1,127 @@
+{
+  "date": "2026-11-14",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "9j6yok",
+      "title": "Nearly $20M found in Hungary's forests, buildings amid corruption probe",
+      "description": "Score: 13 | Comments: 0 | Posted by _tk_",
+      "url": "https://www.aljazeera.com/news/2026/11/14/hungarian-investigators-uncover-19-5m-hidden-in-forests-and-buildings",
+      "publishedAt": "2026-11-14T09:34:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "_tk_",
+      "tags": []
+    },
+    {
+      "id": "821qqd",
+      "title": "Why get an expensive Pi when I have an old phone?thanks.fish",
+      "description": "Score: 161 | Comments: 109 | Posted by",
+      "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
+      "publishedAt": "2026-11-14T09:07:42.441Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Anonymous",
+      "tags": []
+    },
+    {
+      "id": "s56rnb",
+      "title": "Transforming Ripgrep's Documentation with AI Automation and MkDocs",
+      "description": "Score: 7 | Comments: 1 | Posted by ankitg12",
+      "url": "https://entropicdrift.com/blog/mkdocs-drift-automation/",
+      "publishedAt": "2026-11-14T05:19:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ankitg12",
+      "tags": []
+    },
+    {
+      "id": "u88h6j",
+      "title": "Monkey Island: all 13 versions side by side",
+      "description": "Score: 228 | Comments: 72 | Posted by maximilianburke",
+      "url": "https://monkeyisland.pages.dev/",
+      "publishedAt": "2026-11-14T04:23:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "maximilianburke",
+      "tags": []
+    },
+    {
+      "id": "tol8a9",
+      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+      "description": "Score: 729 | Comments: 422 | Posted by speckx",
+      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "publishedAt": "2026-11-14T02:52:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
+      "tags": []
+    },
+    {
+      "id": "maz0ne",
+      "title": "Ggml v1.0.0",
+      "description": "Score: 307 | Comments: 48 | Posted by cobychapple",
+      "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+      "publishedAt": "2026-11-14T02:28:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cobychapple",
+      "tags": []
+    },
+    {
+      "id": "rvjtr5",
+      "title": "Security Agencies Worldwide Found to Use Ad-Based Surveillance System",
+      "description": "Score: 119 | Comments: 13 | Posted by billybuckwheat",
+      "url": "https://citizenlab.ca/security-agencies-worldwide-found-to-use-ad-based-surveillance-system/",
+      "publishedAt": "2026-11-14T02:15:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "billybuckwheat",
+      "tags": []
+    },
+    {
+      "id": "h72j6e",
+      "title": "Elephants found to be increasingly isolated leading to fractured social networks",
+      "description": "Score: 152 | Comments: 34 | Posted by gmays",
+      "url": "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks",
+      "publishedAt": "2026-11-14T02:02:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gmays",
+      "tags": []
+    },
+    {
+      "id": "txtdaz",
+      "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
+      "description": "Score: 172 | Comments: 63 | Posted by snow_mac",
+      "url": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026",
+      "publishedAt": "2026-11-14T00:52:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "snow_mac",
+      "tags": []
+    },
+    {
+      "id": "p4d3r8",
+      "title": "Philip Roth and David Remnick getting personal (2001)",
+      "description": "Score: 16 | Comments: 1 | Posted by Caiero",
+      "url": "https://salmagundi.skidmore.edu/articles/2001-philip-roth-david-remnick",
+      "publishedAt": "2026-11-14T00:21:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Caiero",
+      "tags": []
+    },
+    {
+      "id": "hdpdqa",
+      "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+      "description": "Score: 179 | Comments: 51 | Posted by Retro_Dev",
+      "url": "https://unsloth.ai/docs/models/qwen3.8",
+      "publishedAt": "2026-11-14T00:06:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Retro_Dev",
+      "tags": []
+    }
+  ]
+}
