@@ -278,6 +278,17 @@
       "tags": []
     },
     {
+      "id": "186jmk",
+      "title": "Semicircle Packing",
+      "description": "Score: 49 | Comments: 4 | Posted by sarreph",
+      "url": "https://rorz.io/writing/semicircle-packing",
+      "publishedAt": "2026-11-13T14:42:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sarreph",
+      "tags": []
+    },
+    {
       "id": "ohp4m",
       "title": "Lonewolf 0.3 – A standalone XMPP server written in Rust",
       "description": "Score: 144 | Comments: 52 | Posted by ortuman",
@@ -308,6 +319,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "Noaidi",
+      "tags": []
+    },
+    {
+      "id": "azzl9s",
+      "title": "500 Lines or Less A 3D Modeller",
+      "description": "Score: 76 | Comments: 11 | Posted by myth_drannon",
+      "url": "https://aosabook.org/en/500L/a-3d-modeller.html",
+      "publishedAt": "2026-11-13T13:47:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "myth_drannon",
       "tags": []
     },
     {
@@ -355,6 +377,28 @@
       "tags": []
     },
     {
+      "id": "2nz33v",
+      "title": "Show HN: Carton Clock – A working pendulum clock made from empty drink cartons",
+      "description": "Score: 16 | Comments: 1 | Posted by r0r0",
+      "url": "https://www.niklasroy.com/carton-clock/",
+      "publishedAt": "2026-11-13T12:00:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "r0r0",
+      "tags": []
+    },
+    {
+      "id": "c9x1uy",
+      "title": "The Evolving Story of How Chemistry Became Biology",
+      "description": "Score: 63 | Comments: 15 | Posted by pseudolus",
+      "url": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/",
+      "publishedAt": "2026-11-13T11:55:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pseudolus",
+      "tags": []
+    },
+    {
       "id": "y9zr04",
       "title": "Study Hard, Get a Career, Get Ahead? It's Not What It Used to Be",
       "description": "Score: 16 | Comments: 11 | Posted by pseudolus",
@@ -377,6 +421,17 @@
       "tags": []
     },
     {
+      "id": "lgilkd",
+      "title": "What thousands of conversations look like inside a language model",
+      "description": "Score: 13 | Comments: 1 | Posted by josip208",
+      "url": "https://operator0x.com/field-notes/qwen-conversation-state-space/",
+      "publishedAt": "2026-11-13T10:26:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "josip208",
+      "tags": []
+    },
+    {
       "id": "ek2a0z",
       "title": "Claude Is Down",
       "description": "Score: 159 | Comments: 131 | Posted by cornfieldlabs",
@@ -396,6 +451,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "__vivek",
+      "tags": []
+    },
+    {
+      "id": "xwx4mk",
+      "title": "Strictly monotonic timestamps and gapless sequences in Rust",
+      "description": "Score: 18 | Comments: 2 | Posted by znano",
+      "url": "https://tsoracle.rs/",
+      "publishedAt": "2026-11-13T10:04:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "znano",
       "tags": []
     },
     {
@@ -429,6 +495,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "TechTechTech",
+      "tags": []
+    },
+    {
+      "id": "6pgstv",
+      "title": "Memory Safety Bugs in Rust Standard Library",
+      "description": "Score: 168 | Comments: 156 | Posted by pjmlp",
+      "url": "https://forge-blog.github.io/posts/rust-std-memory-safety/",
+      "publishedAt": "2026-11-13T05:22:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pjmlp",
       "tags": []
     },
     {
