@@ -91,6 +91,17 @@
       "tags": []
     },
     {
+      "id": "ybm2dt",
+      "title": "OOS – an open operating system for the Rigol Scopes",
+      "description": "Score: 56 | Comments: 16 | Posted by qwezxcrty",
+      "url": "https://www.eevblog.com/forum/testgear/oos-an-open-operating-system-for-the-rigol-scopes/",
+      "publishedAt": "2026-11-13T21:36:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "qwezxcrty",
+      "tags": []
+    },
+    {
       "id": "de95c6",
       "title": "All US airports are currently ground stopped",
       "description": "Score: 204 | Comments: 40 | Posted by defly",
@@ -110,6 +121,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "zulln",
+      "tags": []
+    },
+    {
+      "id": "vhmgz7",
+      "title": "Expozine at 25: Has the Independent Print Scene Outgrown Expozine?",
+      "description": "Score: 6 | Comments: 1 | Posted by rdmuser",
+      "url": "https://www.themain.com/articles/expozine-montreal-independent-print-scene-arcmtl",
+      "publishedAt": "2026-11-13T20:36:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rdmuser",
+      "tags": []
+    },
+    {
+      "id": "ms3fgz",
+      "title": "The Opportunivore's Dilemma",
+      "description": "Score: 5 | Comments: 4 | Posted by NaOH",
+      "url": "https://www.vqronline.org/essays/opportunivores-dilemma",
+      "publishedAt": "2026-11-13T20:08:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "NaOH",
       "tags": []
     },
     {
@@ -179,6 +212,17 @@
       "tags": []
     },
     {
+      "id": "ivzr7p",
+      "title": "Exact Gradients Through a BRep Kernel",
+      "description": "Score: 31 | Comments: 12 | Posted by ecto",
+      "url": "https://muni.works/research/vcad",
+      "publishedAt": "2026-11-13T18:24:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ecto",
+      "tags": []
+    },
+    {
       "id": "vs5tfc",
       "title": "Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures",
       "description": "Score: 92 | Comments: 46 | Posted by dethmasque",
@@ -234,6 +278,17 @@
       "tags": []
     },
     {
+      "id": "bcvtzk",
+      "title": "A quest to create the perfect whiskey glass",
+      "description": "Score: 81 | Comments: 89 | Posted by Kaibeezy",
+      "url": "https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html",
+      "publishedAt": "2026-11-13T17:37:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Kaibeezy",
+      "tags": []
+    },
+    {
       "id": "yod471",
       "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
       "description": "Score: 397 | Comments: 101 | Posted by bookofjoe",
@@ -242,6 +297,39 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "bookofjoe",
+      "tags": []
+    },
+    {
+      "id": "chumh2",
+      "title": "Researchers track whole body movement with just a smartwatch",
+      "description": "Score: 119 | Comments: 35 | Posted by PaulHoule",
+      "url": "https://news.cornell.edu/stories/2026/11/researchers-track-whole-body-movement-just-smartwatch",
+      "publishedAt": "2026-11-13T17:29:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "PaulHoule",
+      "tags": []
+    },
+    {
+      "id": "amtv72",
+      "title": "Artificial Intelligence for the Z80",
+      "description": "Score: 71 | Comments: 8 | Posted by AlexeyBrin",
+      "url": "https://www.dfsantos.com/en/libro-ia-z80",
+      "publishedAt": "2026-11-13T15:50:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "AlexeyBrin",
+      "tags": []
+    },
+    {
+      "id": "x7upcj",
+      "title": "Do we still have to denormalize? Have your schema and search it too",
+      "description": "Score: 99 | Comments: 31 | Posted by philippemnoel",
+      "url": "https://www.paradedb.com/blog/joins",
+      "publishedAt": "2026-11-13T15:31:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "philippemnoel",
       "tags": []
     },
     {
