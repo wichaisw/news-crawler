@@ -3,6 +3,193 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "y45ss0",
+      "title": "Optimizely compromised, served malware on Zoom, GitLab",
+      "description": "Score: 518 | Comments: 206 | Posted by kristjansson",
+      "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+      "publishedAt": "2026-11-16T23:00:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kristjansson",
+      "tags": []
+    },
+    {
+      "id": "gge3xs",
+      "title": "Windows 11 is collecting data on which coding agents and developer tools you use",
+      "description": "Score: 676 | Comments: 538 | Posted by cwaffles",
+      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+      "publishedAt": "2026-11-16T22:58:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cwaffles",
+      "tags": []
+    },
+    {
+      "id": "120p6t",
+      "title": "How to Break into Security, Ptacek Edition (2012)",
+      "description": "Score: 115 | Comments: 28 | Posted by ronfriedhaber",
+      "url": "https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/",
+      "publishedAt": "2026-11-16T22:19:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ronfriedhaber",
+      "tags": []
+    },
+    {
+      "id": "7acepl",
+      "title": "Spamhaus new email sender requirements in November",
+      "description": "Score: 134 | Comments: 132 | Posted by computer23",
+      "url": "https://www.spamhaus.org/sender-guidelines/",
+      "publishedAt": "2026-11-16T21:47:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "computer23",
+      "tags": []
+    },
+    {
+      "id": "owl9f5",
+      "title": "BugMeNot has closed",
+      "description": "Score: 652 | Comments: 294 | Posted by lode",
+      "url": "https://www.bugmenot.com/",
+      "publishedAt": "2026-11-16T21:32:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lode",
+      "tags": []
+    },
+    {
+      "id": "236qo9",
+      "title": "OpenCode Browse",
+      "description": "Score: 311 | Comments: 200 | Posted by mfiguiere",
+      "url": "https://opencode.ai/product/browse",
+      "publishedAt": "2026-11-16T21:20:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mfiguiere",
+      "tags": []
+    },
+    {
+      "id": "6wvwp9",
+      "title": "My Quest to push native Three.js quality match AAA Game Engines",
+      "description": "Score: 152 | Comments: 71 | Posted by bhouston",
+      "url": "https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs",
+      "publishedAt": "2026-11-16T21:07:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bhouston",
+      "tags": []
+    },
+    {
+      "id": "t4gs1t",
+      "title": "Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case",
+      "description": "Score: 204 | Comments: 174 | Posted by jaredwiener",
+      "url": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
+      "publishedAt": "2026-11-16T20:48:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jaredwiener",
+      "tags": []
+    },
+    {
+      "id": "1juqp",
+      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+      "description": "Score: 1969 | Comments: 267 | Posted by pcompeau",
+      "url": "https://www.cs.cmu.edu/learn/",
+      "publishedAt": "2026-11-16T20:43:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pcompeau",
+      "tags": []
+    },
+    {
+      "id": "x6rgx7",
+      "title": "Chemistry is Actually Geometry",
+      "description": "Score: 287 | Comments: 125 | Posted by sebg",
+      "url": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
+      "publishedAt": "2026-11-16T20:22:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sebg",
+      "tags": []
+    },
+    {
+      "id": "fv9ozu",
+      "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
+      "description": "Score: 808 | Comments: 676 | Posted by samk3nny",
+      "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+      "publishedAt": "2026-11-16T18:31:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "samk3nny",
+      "tags": []
+    },
+    {
+      "id": "fnok5q",
+      "title": "Aristotle Expands into Rust",
+      "description": "Score: 120 | Comments: 61 | Posted by maufl",
+      "url": "https://www.harmonic.fun/news/aristotle-rust-verification/",
+      "publishedAt": "2026-11-16T17:34:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "maufl",
+      "tags": []
+    },
+    {
+      "id": "6zgs5y",
+      "title": "Grazing sheep in fields with solar arrays",
+      "description": "Score: 309 | Comments: 308 | Posted by PaulHoule",
+      "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
+      "publishedAt": "2026-11-16T17:27:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "PaulHoule",
+      "tags": []
+    },
+    {
+      "id": "sfdsmk",
+      "title": "Jiff 1.0: A datetime library for Rust",
+      "description": "Score: 417 | Comments: 90 | Posted by burntsushi",
+      "url": "https://burntsushi.net/jiff/",
+      "publishedAt": "2026-11-16T16:53:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "burntsushi",
+      "tags": []
+    },
+    {
+      "id": "lzki19",
+      "title": "Frame – 31.5\" color ePaper display",
+      "description": "Score: 488 | Comments: 346 | Posted by geerlingguy",
+      "url": "https://trmnl.com/blog/introducing-frame",
+      "publishedAt": "2026-11-16T16:23:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "geerlingguy",
+      "tags": []
+    },
+    {
+      "id": "k5t7r3",
+      "title": "Jolt – Clojure that speaks C",
+      "description": "Score: 115 | Comments: 41 | Posted by michaelsbradley",
+      "url": "https://jolt-lang.net/",
+      "publishedAt": "2026-11-16T16:23:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "michaelsbradley",
+      "tags": []
+    },
+    {
+      "id": "uanysy",
+      "title": "First Photos of the Poles of a Rod-Shaped Bacterium",
+      "description": "Score: 37 | Comments: 6 | Posted by dustfinger",
+      "url": "https://nautil.us/check-out-the-first-photos-of-the-poles-of-a-rod-shaped-bacterium-1286664",
+      "publishedAt": "2026-11-16T15:02:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dustfinger",
+      "tags": []
+    },
+    {
       "id": "4xjy7c",
       "title": "Soldier files whistleblower complaint over Iran strike that killed 6 U.S. troops",
       "description": "Score: 35 | Comments: 0 | Posted by firefax",
@@ -69,6 +256,17 @@
       "tags": []
     },
     {
+      "id": "tpvwio",
+      "title": "Do Repeat Yourself",
+      "description": "Score: 136 | Comments: 47 | Posted by max_sendfeld",
+      "url": "https://arcentry.com/blog/do-repeat-yourself/",
+      "publishedAt": "2026-11-16T12:06:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "max_sendfeld",
+      "tags": []
+    },
+    {
       "id": "59pc71",
       "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
       "description": "Score: 123 | Comments: 53 | Posted by sammatilda",
@@ -102,6 +300,17 @@
       "tags": []
     },
     {
+      "id": "8yb0yc",
+      "title": "Show HN: VennDB: append-only in-memory Rust DB for rows queried using bit flags",
+      "description": "Score: 10 | Comments: 1 | Posted by gdcbe",
+      "url": "https://github.com/plabayo/venndb",
+      "publishedAt": "2026-11-16T09:17:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gdcbe",
+      "tags": []
+    },
+    {
       "id": "euokp9",
       "title": "Winudf – DVD / BluRay driver for DOS, Windows 1.x – 3x / 95 / 98 / ME",
       "description": "Score: 48 | Comments: 5 | Posted by Oxodao",
@@ -113,6 +322,17 @@
       "tags": []
     },
     {
+      "id": "eeuz5j",
+      "title": "Squircles",
+      "description": "Score: 214 | Comments: 54 | Posted by raphlinus",
+      "url": "https://linebender.org/wiki/curves/squircle/",
+      "publishedAt": "2026-11-16T07:55:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "raphlinus",
+      "tags": []
+    },
+    {
       "id": "atuuyy",
       "title": "“…and the proof is checked in Lean”",
       "description": "Score: 123 | Comments: 50 | Posted by matt_d",
@@ -121,6 +341,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "matt_d",
+      "tags": []
+    },
+    {
+      "id": "mvqah9",
+      "title": "Test/verification technique effectiveness with Astra",
+      "description": "Score: 80 | Comments: 12 | Posted by luu",
+      "url": "https://danluu.com/astra-testing/",
+      "publishedAt": "2026-11-16T07:33:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "luu",
       "tags": []
     },
     {
@@ -157,6 +388,17 @@
       "tags": []
     },
     {
+      "id": "o9srop",
+      "title": "Stop Filming in Log?",
+      "description": "Score: 90 | Comments: 101 | Posted by dabinat",
+      "url": "https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/",
+      "publishedAt": "2026-11-16T04:37:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dabinat",
+      "tags": []
+    },
+    {
       "id": "5daobk",
       "title": "Qwen4-Max",
       "description": "Score: 706 | Comments: 341 | Posted by ilreb",
@@ -187,6 +429,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "sagunsh",
+      "tags": []
+    },
+    {
+      "id": "yxkaea",
+      "title": "Nimony: A New Compiler for Nim",
+      "description": "Score: 130 | Comments: 64 | Posted by Fervicus",
+      "url": "https://nimony.org/",
+      "publishedAt": "2026-11-16T01:05:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Fervicus",
+      "tags": []
+    },
+    {
+      "id": "bcw4zs",
+      "title": "The Fossils That Haunted Lovecraft",
+      "description": "Score: 62 | Comments: 28 | Posted by BigTTYGothGF",
+      "url": "https://paleonerdish.wordpress.com/2026/10/30/halloween-special-xiv-the-fossils-that-haunted-lovecraft/",
+      "publishedAt": "2026-11-16T00:38:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "BigTTYGothGF",
       "tags": []
     },
     {

@@ -1,0 +1,171 @@
+{
+  "date": "2026-11-17",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "62r34v",
+      "title": "A.I. Just Blew Up a Key Tenet of Computer Science",
+      "description": "Score: 3 | Comments: 0 | Posted by doener",
+      "url": "https://www.nytimes.com/2026/11/06/science/ai-exponential-time-hypothesis.html",
+      "publishedAt": "2026-11-17T15:33:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "doener",
+      "tags": []
+    },
+    {
+      "id": "bsrf24",
+      "title": "Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off",
+      "description": "Score: 11 | Comments: 3 | Posted by prafandy",
+      "url": "https://alloyhtml.com/example.html",
+      "publishedAt": "2026-11-17T15:07:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "prafandy",
+      "tags": []
+    },
+    {
+      "id": "7po303",
+      "title": "A US Federal Women's Prison Became a \"Rape Club\"",
+      "description": "Score: 24 | Comments: 2 | Posted by paimapi",
+      "url": "https://www.propublica.org/article/federal-womens-prison-sexual-abuse-reform-dublin-bop",
+      "publishedAt": "2026-11-17T15:03:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "paimapi",
+      "tags": []
+    },
+    {
+      "id": "xvfqlo",
+      "title": "Pentagon fails 9th financial audit in a row",
+      "description": "Score: 27 | Comments: 8 | Posted by zootedjordan",
+      "url": "https://thehill.com/policy/defense/6224597-pentagon-fails-ninth-audit/",
+      "publishedAt": "2026-11-17T15:02:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zootedjordan",
+      "tags": []
+    },
+    {
+      "id": "iqg24w",
+      "title": "We don't need more apps. We need better open sourcejordankrueger.com",
+      "description": "Score: 110 | Comments: 49 | Posted by",
+      "url": "https://jordankrueger.com/blog/better-open-source-not-more-apps/",
+      "publishedAt": "2026-11-17T14:46:07.356Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Anonymous",
+      "tags": []
+    },
+    {
+      "id": "iqg24w",
+      "title": "We don't need more apps. We need better open source",
+      "description": "Score: 110 | Comments: 49 | Posted by pandemicsoul",
+      "url": "https://jordankrueger.com/blog/better-open-source-not-more-apps/",
+      "publishedAt": "2026-11-17T14:45:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pandemicsoul",
+      "tags": []
+    },
+    {
+      "id": "bhznij",
+      "title": "Loopholes Are for Assholes",
+      "description": "Score: 32 | Comments: 9 | Posted by speckx",
+      "url": "https://actsofvolition.com/2026/11/loopholes-are-for-assholes/",
+      "publishedAt": "2026-11-17T14:20:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
+      "tags": []
+    },
+    {
+      "id": "rqv11k",
+      "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
+      "description": "Score: 83 | Comments: 67 | Posted by larrysalibra",
+      "url": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns",
+      "publishedAt": "2026-11-17T14:19:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "larrysalibra",
+      "tags": []
+    },
+    {
+      "id": "orf6uw",
+      "title": "S. Korea to send nationwide emergency alerts over college entrance exam cheating",
+      "description": "Score: 43 | Comments: 43 | Posted by parksb",
+      "url": "https://apnews.com/article/south-korea-exam-cheating-ai-college-e25b5612dbf4bd09fdf9197254c4547e",
+      "publishedAt": "2026-11-17T14:00:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "parksb",
+      "tags": []
+    },
+    {
+      "id": "ez88ta",
+      "title": "How long have we got before the agent output is enshittified?",
+      "description": "Score: 11 | Comments: 6 | Posted by nothing_is_real",
+      "url": "https://rachsmith.com/how-long-until-agent-output-turns-to-shit",
+      "publishedAt": "2026-11-17T13:33:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nothing_is_real",
+      "tags": []
+    },
+    {
+      "id": "b6ex07",
+      "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+      "description": "Score: 565 | Comments: 288 | Posted by donohoe",
+      "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
+      "publishedAt": "2026-11-17T11:45:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "donohoe",
+      "tags": []
+    },
+    {
+      "id": "9flvoc",
+      "title": "How the Claude Code team thinks about verification",
+      "description": "Score: 112 | Comments: 118 | Posted by craigmart",
+      "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+      "publishedAt": "2026-11-17T10:20:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "craigmart",
+      "tags": []
+    },
+    {
+      "id": "3kqiyr",
+      "title": "If an App Asks for Full Disk Access or System and App Protection Override",
+      "description": "Score: 189 | Comments: 102 | Posted by jshier",
+      "url": "https://support.apple.com/en-us/149699",
+      "publishedAt": "2026-11-17T02:17:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jshier",
+      "tags": []
+    },
+    {
+      "id": "fxr7y0",
+      "title": "Mem Is Shutting Down",
+      "description": "Score: 74 | Comments: 116 | Posted by qainsights",
+      "url": "https://get.mem.ai/blog/mem-is-shutting-down",
+      "publishedAt": "2026-11-17T02:13:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "qainsights",
+      "tags": []
+    },
+    {
+      "id": "mlkd40",
+      "title": "Why 3dfx 1 cards had such a washed out color output?",
+      "description": "Score: 224 | Comments: 80 | Posted by mfiguiere",
+      "url": "https://twitter.com/id_aa_carmack/status/2122478083319992513",
+      "publishedAt": "2026-11-17T00:16:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mfiguiere",
+      "tags": []
+    }
+  ]
+}
