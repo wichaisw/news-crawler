@@ -1,0 +1,248 @@
+{
+  "date": "2026-11-18",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "fz9pjs",
+      "title": "A 4.5M-parameter TTS model runs 70x real-time on CPU and cost just $10 to train",
+      "description": "Score: 6 | Comments: 0 | Posted by mrkn1",
+      "url": "https://huggingface.co/n4ze3m/tiny-voca",
+      "publishedAt": "2026-11-18T15:01:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mrkn1",
+      "tags": []
+    },
+    {
+      "id": "shymjo",
+      "title": "'Human' Is Cambridge Dictionary's Word of the Year 2026cam.ac.uk",
+      "description": "Score: 35 | Comments: 6 | Posted by",
+      "url": "https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026",
+      "publishedAt": "2026-11-18T14:45:24.512Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Anonymous",
+      "tags": []
+    },
+    {
+      "id": "shymjo",
+      "title": "'Human' Is Cambridge Dictionary's Word of the Year 2026",
+      "description": "Score: 35 | Comments: 7 | Posted by DeepLogin",
+      "url": "https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026",
+      "publishedAt": "2026-11-18T14:43:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "DeepLogin",
+      "tags": []
+    },
+    {
+      "id": "xp0uk1",
+      "title": "Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracytechstackups.com",
+      "description": "Score: 201 | Comments: 45 | Posted by",
+      "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
+      "publishedAt": "2026-11-18T14:17:24.512Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Anonymous",
+      "tags": []
+    },
+    {
+      "id": "no4rfk",
+      "title": "Energy drinks linked to 11 times more reports of cardiac arrest",
+      "description": "Score: 27 | Comments: 11 | Posted by wjSgoWPm5bWAhXB",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261110042543.htm",
+      "publishedAt": "2026-11-18T14:03:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wjSgoWPm5bWAhXB",
+      "tags": []
+    },
+    {
+      "id": "pdwkle",
+      "title": "Can Peer Review Survive AI-Generated Text? [pdf]",
+      "description": "Score: 45 | Comments: 41 | Posted by torutofu",
+      "url": "https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf",
+      "publishedAt": "2026-11-18T13:51:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "torutofu",
+      "tags": []
+    },
+    {
+      "id": "rhcgry",
+      "title": "Dutch resist 'unacceptable' US bid to tighten semiconductor export controls",
+      "description": "Score: 15 | Comments: 9 | Posted by sergdigon",
+      "url": "https://www.politico.eu/article/dutch-resist-unacceptable-us-bid-to-tighten-semiconductor-export-controls-asml/",
+      "publishedAt": "2026-11-18T13:46:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sergdigon",
+      "tags": []
+    },
+    {
+      "id": "xp0uk1",
+      "title": "Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy",
+      "description": "Score: 204 | Comments: 45 | Posted by ritzaco",
+      "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
+      "publishedAt": "2026-11-18T13:18:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ritzaco",
+      "tags": []
+    },
+    {
+      "id": "ojx066",
+      "title": "Show HN: Type Fighter 2",
+      "description": "Score: 51 | Comments: 21 | Posted by torumitch",
+      "url": "https://typefighter2.com/",
+      "publishedAt": "2026-11-18T11:11:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "torumitch",
+      "tags": []
+    },
+    {
+      "id": "guah83",
+      "title": "Voyager 1 hits one light day from Earth",
+      "description": "Score: 40 | Comments: 19 | Posted by robin_reala",
+      "url": "https://science.nasa.gov/mission/voyager/where-are-voyager-1-and-voyager-2-now/",
+      "publishedAt": "2026-11-18T10:38:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "robin_reala",
+      "tags": []
+    },
+    {
+      "id": "qub2cl",
+      "title": "Codeberg.org Not Reachable",
+      "description": "Score: 269 | Comments: 273 | Posted by hans_castorp",
+      "url": "https://social.anoxinon.de/@codebergstatus/117636437840688845",
+      "publishedAt": "2026-11-18T10:02:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hans_castorp",
+      "tags": []
+    },
+    {
+      "id": "g04dwa",
+      "title": "Energy-Based Reasoners: 385x more efficient inference",
+      "description": "Score: 204 | Comments: 29 | Posted by frenchmajesty",
+      "url": "https://energy-based-reasoners.github.io/",
+      "publishedAt": "2026-11-18T09:29:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "frenchmajesty",
+      "tags": []
+    },
+    {
+      "id": "ov3l0i",
+      "title": "Show HN: Math 2.0",
+      "description": "Score: 11 | Comments: 2 | Posted by tamnd",
+      "url": "https://math2.tamnd.com/areas/",
+      "publishedAt": "2026-11-18T08:26:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tamnd",
+      "tags": []
+    },
+    {
+      "id": "9j5mzq",
+      "title": "Australia's full national topographic library at your fingertips",
+      "description": "Score: 40 | Comments: 14 | Posted by bryanrasmussen",
+      "url": "https://www.ga.gov.au/news/australias-full-national-topographic-library-at-your-fingertips",
+      "publishedAt": "2026-11-18T07:10:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bryanrasmussen",
+      "tags": []
+    },
+    {
+      "id": "nkckx3",
+      "title": "AI is killing All About Berlin",
+      "description": "Score: 625 | Comments: 582 | Posted by grey-area",
+      "url": "https://nicolasbouliane.com/blog/death-by-ai",
+      "publishedAt": "2026-11-18T06:47:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "grey-area",
+      "tags": []
+    },
+    {
+      "id": "1gfulb",
+      "title": "Why Fibonacci?",
+      "description": "Score: 67 | Comments: 13 | Posted by _Microft",
+      "url": "https://www.evilgeniuslabs.org/why-fibonacci",
+      "publishedAt": "2026-11-18T05:35:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "_Microft",
+      "tags": []
+    },
+    {
+      "id": "cacfsz",
+      "title": "Classical Energies Learn to Reason 1k× Faster Than Looped Models",
+      "description": "Score: 17 | Comments: 0 | Posted by espeed",
+      "url": "https://arxiv.org/abs/2611.17309",
+      "publishedAt": "2026-11-18T05:12:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "espeed",
+      "tags": []
+    },
+    {
+      "id": "fbik9b",
+      "title": "Why is Gemini 4 Carbon taking so long?",
+      "description": "Score: 204 | Comments: 102 | Posted by deenadz",
+      "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
+      "publishedAt": "2026-11-18T04:14:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "deenadz",
+      "tags": []
+    },
+    {
+      "id": "lmoxv7",
+      "title": "Claude was trained on protein sequences at scale",
+      "description": "Score: 118 | Comments: 55 | Posted by gmays",
+      "url": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/",
+      "publishedAt": "2026-11-18T03:47:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gmays",
+      "tags": []
+    },
+    {
+      "id": "5qosu",
+      "title": "Cerebras Disaggregated Inference",
+      "description": "Score: 96 | Comments: 24 | Posted by emschwartz",
+      "url": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference",
+      "publishedAt": "2026-11-18T00:56:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "emschwartz",
+      "tags": []
+    },
+    {
+      "id": "psyskb",
+      "title": "ID.me terms required for IRS sign-in",
+      "description": "Score: 427 | Comments: 223 | Posted by DeepLogin",
+      "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
+      "publishedAt": "2026-11-18T00:51:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "DeepLogin",
+      "tags": []
+    },
+    {
+      "id": "tuw5ec",
+      "title": "Google's AI answers reducing search traffic by 40%",
+      "description": "Score: 596 | Comments: 451 | Posted by slashdev",
+      "url": "https://revscope.co/blog/search-seo-geo-2026/",
+      "publishedAt": "2026-11-18T00:17:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "slashdev",
+      "tags": []
+    }
+  ]
+}

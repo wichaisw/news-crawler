@@ -190,6 +190,17 @@
       "tags": []
     },
     {
+      "id": "pfyqrb",
+      "title": "My Emacs 31 contributions",
+      "description": "Score: 85 | Comments: 8 | Posted by xenodium",
+      "url": "https://xenodium.com/my-emacs-31-contributions",
+      "publishedAt": "2026-11-16T14:26:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "xenodium",
+      "tags": []
+    },
+    {
       "id": "4xjy7c",
       "title": "Soldier files whistleblower complaint over Iran strike that killed 6 U.S. troops",
       "description": "Score: 35 | Comments: 0 | Posted by firefax",
@@ -242,6 +253,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "DeepLogin",
+      "tags": []
+    },
+    {
+      "id": "8dxuj0",
+      "title": "Show HN: Unref – A Python dead code finder built on Ruff's parser",
+      "description": "Score: 52 | Comments: 12 | Posted by McAvey",
+      "url": "https://github.com/Apakottur/unref",
+      "publishedAt": "2026-11-16T13:30:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "McAvey",
       "tags": []
     },
     {

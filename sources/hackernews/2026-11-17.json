@@ -3,6 +3,204 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "7fcb3q",
+      "title": "Archive Team is archiving the Apple Support Community",
+      "description": "Score: 240 | Comments: 93 | Posted by digitaldragon",
+      "url": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
+      "publishedAt": "2026-11-17T23:32:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "digitaldragon",
+      "tags": []
+    },
+    {
+      "id": "2k2jx8",
+      "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
+      "description": "Score: 404 | Comments: 82 | Posted by nvader",
+      "url": "https://github.com/microsoft/onnxruntime",
+      "publishedAt": "2026-11-17T23:18:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nvader",
+      "tags": []
+    },
+    {
+      "id": "sx39e0",
+      "title": "Quad9's withdrawal from France: A canary in the coal mine",
+      "description": "Score: 817 | Comments: 374 | Posted by subset",
+      "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+      "publishedAt": "2026-11-17T22:13:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "subset",
+      "tags": []
+    },
+    {
+      "id": "96is3g",
+      "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+      "description": "Score: 261 | Comments: 351 | Posted by judahmeek",
+      "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+      "publishedAt": "2026-11-17T21:16:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "judahmeek",
+      "tags": []
+    },
+    {
+      "id": "2xkf3a",
+      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+      "description": "Score: 1078 | Comments: 286 | Posted by werrett",
+      "url": "https://calif.io/java4shell/",
+      "publishedAt": "2026-11-17T21:11:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "werrett",
+      "tags": []
+    },
+    {
+      "id": "brj1q6",
+      "title": "Tencent Hy4 Flash",
+      "description": "Score: 152 | Comments: 24 | Posted by lyra1337",
+      "url": "https://hy.tencent.ai/research/hy4-flash",
+      "publishedAt": "2026-11-17T21:06:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lyra1337",
+      "tags": []
+    },
+    {
+      "id": "1kg15d",
+      "title": "Web Browser Engineering (2021)",
+      "description": "Score: 186 | Comments: 26 | Posted by ibobev",
+      "url": "https://browser.engineering/",
+      "publishedAt": "2026-11-17T20:01:35.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
+      "tags": []
+    },
+    {
+      "id": "1svncb",
+      "title": "jQuery 4.1.0",
+      "description": "Score: 355 | Comments: 185 | Posted by petecooper",
+      "url": "https://github.com/jquery/jquery/releases/tag/4.1.0",
+      "publishedAt": "2026-11-17T19:50:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "petecooper",
+      "tags": []
+    },
+    {
+      "id": "88ksaw",
+      "title": "350 years ago, Ole Rømer discovered that light has a finite speed",
+      "description": "Score: 377 | Comments: 122 | Posted by dxs",
+      "url": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
+      "publishedAt": "2026-11-17T19:25:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dxs",
+      "tags": []
+    },
+    {
+      "id": "nfd05o",
+      "title": "Solid 2.0",
+      "description": "Score: 351 | Comments: 111 | Posted by pier25",
+      "url": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/",
+      "publishedAt": "2026-11-17T18:56:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pier25",
+      "tags": []
+    },
+    {
+      "id": "xbi0pv",
+      "title": "Phrack 73",
+      "description": "Score: 437 | Comments: 61 | Posted by notmine1337",
+      "url": "https://phrack.org/issues/73/introduction_md",
+      "publishedAt": "2026-11-17T18:31:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "notmine1337",
+      "tags": []
+    },
+    {
+      "id": "fnsxya",
+      "title": "MAI Code 2 and Code 2 Flash",
+      "description": "Score: 394 | Comments: 159 | Posted by lemonish97",
+      "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+      "publishedAt": "2026-11-17T18:25:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lemonish97",
+      "tags": []
+    },
+    {
+      "id": "fni55y",
+      "title": "Not Everything Needs an LLM",
+      "description": "Score: 170 | Comments: 72 | Posted by speckx",
+      "url": "https://newsletter.posthog.com/p/decision-models",
+      "publishedAt": "2026-11-17T18:16:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speckx",
+      "tags": []
+    },
+    {
+      "id": "ivroc4",
+      "title": "Apple Services Down",
+      "description": "Score: 703 | Comments: 393 | Posted by willy_k",
+      "url": "https://developer.apple.com/system-status/",
+      "publishedAt": "2026-11-17T17:47:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "willy_k",
+      "tags": []
+    },
+    {
+      "id": "ic2c9k",
+      "title": "GPT‑6.2 Astra and Sol",
+      "description": "Score: 1323 | Comments: 825 | Posted by jasondavies",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+      "publishedAt": "2026-11-17T17:46:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jasondavies",
+      "tags": []
+    },
+    {
+      "id": "98mj18",
+      "title": "Who Builds the Machines That Build the Machines?",
+      "description": "Score: 133 | Comments: 42 | Posted by gmays",
+      "url": "https://read.corematter.com/p/section-232-us-machine-tools",
+      "publishedAt": "2026-11-17T17:45:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gmays",
+      "tags": []
+    },
+    {
+      "id": "8iyqqa",
+      "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+      "description": "Score: 630 | Comments: 280 | Posted by louiereederson",
+      "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
+      "publishedAt": "2026-11-17T17:12:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "louiereederson",
+      "tags": []
+    },
+    {
+      "id": "k3kyhq",
+      "title": "Highly classified US national security communications network goes down",
+      "description": "Score: 644 | Comments: 718 | Posted by monkeydust",
+      "url": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
+      "publishedAt": "2026-11-17T15:38:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "monkeydust",
+      "tags": []
+    },
+    {
       "id": "62r34v",
       "title": "A.I. Just Blew Up a Key Tenet of Computer Science",
       "description": "Score: 3 | Comments: 0 | Posted by doener",
@@ -44,6 +242,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "zootedjordan",
+      "tags": []
+    },
+    {
+      "id": "aidgi4",
+      "title": "What is the best harness for each model?",
+      "description": "Score: 411 | Comments: 129 | Posted by Edward40",
+      "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
+      "publishedAt": "2026-11-17T14:53:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Edward40",
       "tags": []
     },
     {

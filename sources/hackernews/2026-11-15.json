@@ -157,6 +157,17 @@
       "tags": []
     },
     {
+      "id": "ydfmwt",
+      "title": "IPv6 delegation, an unusually subtle failure mode",
+      "description": "Score: 42 | Comments: 24 | Posted by genghizkhan",
+      "url": "https://savyasacheejha.com/posts/why-odhcpd/",
+      "publishedAt": "2026-11-15T18:06:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "genghizkhan",
+      "tags": []
+    },
+    {
       "id": "hyxswk",
       "title": "Crows make decisions faster than we can",
       "description": "Score: 272 | Comments: 182 | Posted by gumby",
@@ -187,6 +198,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "molenzwiebel",
+      "tags": []
+    },
+    {
+      "id": "83vsaa",
+      "title": "When AI Knows More Than It Can Offer",
+      "description": "Score: 42 | Comments: 18 | Posted by Aldus551",
+      "url": "https://medium.com/@smoking2man/when-ai-knows-more-than-it-can-offer-how-training-turns-an-intelligent-assistant-into-a-generator-7e700f05163e",
+      "publishedAt": "2026-11-15T15:59:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Aldus551",
       "tags": []
     },
     {
@@ -289,6 +311,17 @@
       "tags": []
     },
     {
+      "id": "ag6sh5",
+      "title": "A Perfect SimCity",
+      "description": "Score: 138 | Comments: 46 | Posted by mariuz",
+      "url": "https://www.jeffquast.com/post/a-perfect-simcity/",
+      "publishedAt": "2026-11-15T05:54:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mariuz",
+      "tags": []
+    },
+    {
       "id": "447zxj",
       "title": "Disk encryption on NetBSD – achieving secrecy",
       "description": "Score: 58 | Comments: 11 | Posted by jaypatelani",
@@ -330,6 +363,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "tthanh2k6",
+      "tags": []
+    },
+    {
+      "id": "t1xo2t",
+      "title": "Fun with Constrained Programming (2012)",
+      "description": "Score: 91 | Comments: 4 | Posted by colejohnson66",
+      "url": "https://blog.cmpxchg8b.com/2012/09/fun-with-constrained-programming.html",
+      "publishedAt": "2026-11-15T02:45:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "colejohnson66",
       "tags": []
     },
     {
@@ -385,6 +429,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "bobbiechen",
+      "tags": []
+    },
+    {
+      "id": "n65srj",
+      "title": "Dissecting Spring petclinic (Part 2 – Bending the persistence)",
+      "description": "Score: 3 | Comments: 0 | Posted by ejboy",
+      "url": "https://hannomalie.github.io/posts/dissecting-spring-petclinic-persistence.html",
+      "publishedAt": "2026-11-15T00:34:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ejboy",
       "tags": []
     }
   ]
