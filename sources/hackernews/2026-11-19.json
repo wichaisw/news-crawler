@@ -1,0 +1,204 @@
+{
+  "date": "2026-11-19",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "29v6rk",
+      "title": "Germany and Austria Call for European Control of TikTok",
+      "description": "Score: 27 | Comments: 2 | Posted by thm",
+      "url": "https://www.techcentral.ie/germany-and-austria-call-for-european-control-of-tiktok/",
+      "publishedAt": "2026-11-19T14:44:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thm",
+      "tags": []
+    },
+    {
+      "id": "j4wi7b",
+      "title": "OpenAI still has a WebRTC Problem",
+      "description": "Score: 23 | Comments: 1 | Posted by surprisetalk",
+      "url": "https://moq.dev/blog/webrtc-is-still-the-problem/",
+      "publishedAt": "2026-11-19T14:20:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
+      "id": "hh8xds",
+      "title": "PostgreSQL 19 Released",
+      "description": "Score: 20 | Comments: 1 | Posted by jkatz05",
+      "url": "https://www.postgresql.org/about/news/postgresql-19-released-3449/",
+      "publishedAt": "2026-11-19T14:11:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jkatz05",
+      "tags": []
+    },
+    {
+      "id": "mgf1b9",
+      "title": "PHP 8.5.13",
+      "description": "Score: 52 | Comments: 18 | Posted by petecooper",
+      "url": "https://www.php.net/ChangeLog-8.php",
+      "publishedAt": "2026-11-19T14:09:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "petecooper",
+      "tags": []
+    },
+    {
+      "id": "9140p",
+      "title": "Show HN: Foolscap – a writing app that reads your book and never writes for you",
+      "description": "Score: 59 | Comments: 27 | Posted by atugard",
+      "url": "https://foolscap.works/",
+      "publishedAt": "2026-11-19T13:21:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "atugard",
+      "tags": []
+    },
+    {
+      "id": "te071p",
+      "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
+      "description": "Score: 69 | Comments: 20 | Posted by krthr",
+      "url": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
+      "publishedAt": "2026-11-19T13:18:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "krthr",
+      "tags": []
+    },
+    {
+      "id": "m6hsf3",
+      "title": "Unblockable communication with gravity – Science Advances",
+      "description": "Score: 33 | Comments: 12 | Posted by rbanffy",
+      "url": "https://www.science.org/doi/10.1126/sciadv.aee0802",
+      "publishedAt": "2026-11-19T12:22:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rbanffy",
+      "tags": []
+    },
+    {
+      "id": "k4az0p",
+      "title": "Someone reported java4shell bug in September 2026",
+      "description": "Score: 78 | Comments: 12 | Posted by notmine1337",
+      "url": "https://github.com/openjdk/jdk/pull/32781",
+      "publishedAt": "2026-11-19T11:47:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "notmine1337",
+      "tags": []
+    },
+    {
+      "id": "nltvmz",
+      "title": "How the European Commission rolled out Matrix to more than 40k staffelement.io",
+      "description": "Score: 390 | Comments: 192 | Posted by",
+      "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
+      "publishedAt": "2026-11-19T11:24:01.334Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Anonymous",
+      "tags": []
+    },
+    {
+      "id": "w8utsh",
+      "title": "Two stealth models just appeared on the leaderboard, both ahead of Fable 5.2",
+      "description": "Score: 78 | Comments: 25 | Posted by cheptsov",
+      "url": "https://contralabs.com/frontierdesign",
+      "publishedAt": "2026-11-19T11:03:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cheptsov",
+      "tags": []
+    },
+    {
+      "id": "nltvmz",
+      "title": "How the European Commission rolled out Matrix to more than 40k staff",
+      "description": "Score: 391 | Comments: 192 | Posted by liotier",
+      "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
+      "publishedAt": "2026-11-19T10:58:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "liotier",
+      "tags": []
+    },
+    {
+      "id": "qcw96s",
+      "title": "Garage Door Spamharrison.page",
+      "description": "Score: 302 | Comments: 119 | Posted by",
+      "url": "https://blog.harrison.page/garage-door-spam/",
+      "publishedAt": "2026-11-19T10:24:01.335Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Anonymous",
+      "tags": []
+    },
+    {
+      "id": "k48ezb",
+      "title": "What's New in PHP 8.6",
+      "description": "Score: 173 | Comments: 87 | Posted by netol",
+      "url": "https://www.php.net/releases/8.6/en.php",
+      "publishedAt": "2026-11-19T09:27:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "netol",
+      "tags": []
+    },
+    {
+      "id": "levgyg",
+      "title": "SSD prices will start going down the second half of next year",
+      "description": "Score: 199 | Comments: 162 | Posted by illidan1000",
+      "url": "https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html",
+      "publishedAt": "2026-11-19T09:05:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "illidan1000",
+      "tags": []
+    },
+    {
+      "id": "fdhh2u",
+      "title": "Do not buy RAM, compress",
+      "description": "Score: 62 | Comments: 60 | Posted by Ecno92",
+      "url": "https://curiousbits.nl/blog/do-not-buy-ram-compress/",
+      "publishedAt": "2026-11-19T08:56:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Ecno92",
+      "tags": []
+    },
+    {
+      "id": "10vxde",
+      "title": "Distributed, high-performance blob storage on SQLite",
+      "description": "Score: 153 | Comments: 36 | Posted by ghostfoxgod",
+      "url": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/",
+      "publishedAt": "2026-11-19T08:39:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ghostfoxgod",
+      "tags": []
+    },
+    {
+      "id": "fjs3bv",
+      "title": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
+      "description": "Score: 265 | Comments: 31 | Posted by fessguid",
+      "url": "https://kapteko.com/15-million-webservers/",
+      "publishedAt": "2026-11-19T05:56:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fessguid",
+      "tags": []
+    },
+    {
+      "id": "c8ia0d",
+      "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
+      "description": "Score: 268 | Comments: 103 | Posted by jdns",
+      "url": "https://verialabs.com/ruby2shell/",
+      "publishedAt": "2026-11-19T05:09:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jdns",
+      "tags": []
+    }
+  ]
+}

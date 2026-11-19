@@ -1,0 +1,61 @@
+{
+  "date": "2026-11-19",
+  "source": "techcrunch",
+  "articles": [
+    {
+      "id": "https://techcrunch.com/?p=3190277",
+      "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+      "description": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+      "publishedAt": "2026-11-19T14:54:39.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Rebecca Bellan",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3187305",
+      "title": "Nimble enters the item-tracking market with eco-friendly luggage tags and keychains",
+      "description": "As Google takes on Apple in the item-tracking market, Nimble is hoping its trackable wallets, keychains, luggage tags, and passport covers stand out.",
+      "url": "https://techcrunch.com/2026/11/19/nimble-enters-the-item-tracking-market-with-eco-friendly-luggage-tags-and-keychains/",
+      "publishedAt": "2026-11-19T14:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lauren Forristal",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3188332",
+      "title": "Superhuman pushes its Go assistant everywhere",
+      "description": "Superhuman is making Go its central agent and making it available in Docs and Mail",
+      "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
+      "publishedAt": "2026-11-19T14:00:00.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Ivan Mehta",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3190274",
+      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "description": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit,",
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+      "publishedAt": "2026-11-19T00:42:56.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Julie Bort",
+      "tags": []
+    },
+    {
+      "id": "https://techcrunch.com/?p=3189988",
+      "title": "Elon Musk says: ‘I’m not MAGA’",
+      "description": "During his appearance Wednesday at The New York Times' DealBook Summit, Elon Musk said that he wasn't sure what the term \"MAGA\" meant and also",
+      "url": "https://techcrunch.com/2026/11/18/elon-musk-says-im-not-maga/",
+      "publishedAt": "2026-11-19T00:40:49.000Z",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "author": "Lucas Ropek",
+      "tags": []
+    }
+  ]
+}

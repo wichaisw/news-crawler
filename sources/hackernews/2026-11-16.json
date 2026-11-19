@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "yl5mvz",
+      "title": "Dumping an AES key from a MyQ garage opener to stop rebooting when offline",
+      "description": "Score: 149 | Comments: 55 | Posted by kusha",
+      "url": "https://kusha.me/blog/stop_myq_homebridge_819lmb_rebooting/",
+      "publishedAt": "2026-11-16T23:47:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kusha",
+      "tags": []
+    },
+    {
       "id": "y45ss0",
       "title": "Optimizely compromised, served malware on Zoom, GitLab",
       "description": "Score: 518 | Comments: 206 | Posted by kristjansson",
@@ -69,6 +80,17 @@
       "tags": []
     },
     {
+      "id": "pvei6b",
+      "title": "Show HN: Open-source, real-time object tracking for live video feeds",
+      "description": "Score: 114 | Comments: 11 | Posted by aryaman_darda",
+      "url": "https://github.com/aryamandarda/tamserve",
+      "publishedAt": "2026-11-16T21:14:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "aryaman_darda",
+      "tags": []
+    },
+    {
       "id": "6wvwp9",
       "title": "My Quest to push native Three.js quality match AAA Game Engines",
       "description": "Score: 152 | Comments: 71 | Posted by bhouston",
@@ -88,6 +110,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jaredwiener",
+      "tags": []
+    },
+    {
+      "id": "h9z521",
+      "title": "Funkycache: A Python library to cache functions in SQLite",
+      "description": "Score: 8 | Comments: 1 | Posted by wmchen",
+      "url": "https://alexwlchan.net/2026/funkycache/",
+      "publishedAt": "2026-11-16T20:44:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wmchen",
       "tags": []
     },
     {
@@ -146,6 +179,17 @@
       "tags": []
     },
     {
+      "id": "mfnj3c",
+      "title": "Logitech Harmony IR code online database archive",
+      "description": "Score: 65 | Comments: 18 | Posted by cf100clunk",
+      "url": "https://github.com/pickysysadmin/logitech-harmony-ir-archive",
+      "publishedAt": "2026-11-16T16:56:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cf100clunk",
+      "tags": []
+    },
+    {
       "id": "sfdsmk",
       "title": "Jiff 1.0: A datetime library for Rust",
       "description": "Score: 417 | Comments: 90 | Posted by burntsushi",
@@ -179,6 +223,17 @@
       "tags": []
     },
     {
+      "id": "qcw96s",
+      "title": "Garage Door Spam",
+      "description": "Score: 304 | Comments: 120 | Posted by harrisonpage",
+      "url": "https://blog.harrison.page/garage-door-spam/",
+      "publishedAt": "2026-11-16T16:13:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "harrisonpage",
+      "tags": []
+    },
+    {
       "id": "uanysy",
       "title": "First Photos of the Poles of a Rod-Shaped Bacterium",
       "description": "Score: 37 | Comments: 6 | Posted by dustfinger",
@@ -187,6 +242,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "dustfinger",
+      "tags": []
+    },
+    {
+      "id": "fzg1kw",
+      "title": "Axelera Titania Brings Native FP8 and FP4 to In-Memory Compute",
+      "description": "Score: 44 | Comments: 2 | Posted by muxamilian",
+      "url": "https://futurumgroup.com/insights/axelera-titania-brings-native-fp8-and-fp4-to-in-memory-compute/",
+      "publishedAt": "2026-11-16T14:59:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "muxamilian",
       "tags": []
     },
     {
@@ -495,6 +561,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "Gaishan",
+      "tags": []
+    },
+    {
+      "id": "9szal7",
+      "title": "The first ping from Tonga (1997)",
+      "description": "Score: 63 | Comments: 7 | Posted by Eric_Gullichsen",
+      "url": "https://colo.to/firstping.html",
+      "publishedAt": "2026-11-16T00:01:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Eric_Gullichsen",
       "tags": []
     }
   ]

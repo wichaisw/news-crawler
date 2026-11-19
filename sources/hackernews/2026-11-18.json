@@ -3,6 +3,182 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "im1was",
+      "title": "We need smart people who give a shit",
+      "description": "Score: 712 | Comments: 352 | Posted by ExMachina73",
+      "url": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/",
+      "publishedAt": "2026-11-18T23:53:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ExMachina73",
+      "tags": []
+    },
+    {
+      "id": "87g17y",
+      "title": "Multiple vulnerabilities in Regexp and String case conversion",
+      "description": "Score: 308 | Comments: 115 | Posted by runesoerensen",
+      "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
+      "publishedAt": "2026-11-18T23:52:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "runesoerensen",
+      "tags": []
+    },
+    {
+      "id": "gh0qy7",
+      "title": "Palo Alto Networks to Acquire Applied Compute for $4.5B",
+      "description": "Score: 70 | Comments: 22 | Posted by alpb",
+      "url": "https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open",
+      "publishedAt": "2026-11-18T23:49:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "alpb",
+      "tags": []
+    },
+    {
+      "id": "ecfsed",
+      "title": "Anthropic prices initial public offering",
+      "description": "Score: 340 | Comments: 632 | Posted by surprisetalk",
+      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+      "publishedAt": "2026-11-18T23:30:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
+      "id": "vzseo3",
+      "title": "LLM assisted reverse engineering",
+      "description": "Score: 281 | Comments: 72 | Posted by ioma8",
+      "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
+      "publishedAt": "2026-11-18T22:29:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ioma8",
+      "tags": []
+    },
+    {
+      "id": "r3stj7",
+      "title": "Gemini 4 Neon",
+      "description": "Score: 927 | Comments: 723 | Posted by yigitdemirag",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+      "publishedAt": "2026-11-18T21:34:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "yigitdemirag",
+      "tags": []
+    },
+    {
+      "id": "6lpvvg",
+      "title": "DaisyRose-27B",
+      "description": "Score: 242 | Comments: 94 | Posted by de_sty",
+      "url": "https://www.radixark.com/blog/daisyrose-27b",
+      "publishedAt": "2026-11-18T19:39:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "de_sty",
+      "tags": []
+    },
+    {
+      "id": "w3wzga",
+      "title": "Genie 4 is now available",
+      "description": "Score: 280 | Comments: 180 | Posted by leumon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+      "publishedAt": "2026-11-18T18:49:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "leumon",
+      "tags": []
+    },
+    {
+      "id": "3ogbg5",
+      "title": "We taught robots to carve marble sculptures",
+      "description": "Score: 72 | Comments: 53 | Posted by ewiesler",
+      "url": "https://eleanorwiesler.com/blog/robotic-stone-carving/",
+      "publishedAt": "2026-11-18T17:03:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ewiesler",
+      "tags": []
+    },
+    {
+      "id": "zfi6eb",
+      "title": "Show HN: Take Voyager 1 apart, down to a single memory chip",
+      "description": "Score: 223 | Comments: 55 | Posted by raj-shekhar",
+      "url": "https://rshekhar.com/voyager/",
+      "publishedAt": "2026-11-18T16:18:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "raj-shekhar",
+      "tags": []
+    },
+    {
+      "id": "dgc06r",
+      "title": "Seven new models at scalable price-performance",
+      "description": "Score: 577 | Comments: 363 | Posted by gmays",
+      "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+      "publishedAt": "2026-11-18T16:08:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gmays",
+      "tags": []
+    },
+    {
+      "id": "idwzdq",
+      "title": "Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365",
+      "description": "Score: 238 | Comments: 85 | Posted by zerocool0101",
+      "url": "https://exitpath-ruddy.vercel.app/",
+      "publishedAt": "2026-11-18T16:04:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zerocool0101",
+      "tags": []
+    },
+    {
+      "id": "xxrbd",
+      "title": "AI agents ask better questions than KPMG accountants in audit trial",
+      "description": "Score: 475 | Comments: 232 | Posted by Betelbuddy",
+      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+      "publishedAt": "2026-11-18T15:49:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Betelbuddy",
+      "tags": []
+    },
+    {
+      "id": "74fw3x",
+      "title": "Inside Deutsche Bank",
+      "description": "Score: 747 | Comments: 247 | Posted by gyre007",
+      "url": "https://www.inside-db.com/",
+      "publishedAt": "2026-11-18T15:38:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gyre007",
+      "tags": []
+    },
+    {
+      "id": "gt2jcp",
+      "title": "F-22 Next-Generation micro–Data Transfer Cartridge (mDTC)",
+      "description": "Score: 191 | Comments: 122 | Posted by birdboat00",
+      "url": "https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view",
+      "publishedAt": "2026-11-18T15:35:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "birdboat00",
+      "tags": []
+    },
+    {
+      "id": "wlf6ed",
+      "title": "Unauthenticated remote code execution in Nginx",
+      "description": "Score: 1464 | Comments: 614 | Posted by speedping",
+      "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+      "publishedAt": "2026-11-18T15:19:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "speedping",
+      "tags": []
+    },
+    {
       "id": "fz9pjs",
       "title": "A 4.5M-parameter TTS model runs 70x real-time on CPU and cost just $10 to train",
       "description": "Score: 6 | Comments: 0 | Posted by mrkn1",
@@ -11,6 +187,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "mrkn1",
+      "tags": []
+    },
+    {
+      "id": "hhgypc",
+      "title": "Nintendo takes Picofly firmware down from GitHub [video]",
+      "description": "Score: 121 | Comments: 29 | Posted by cowlevel",
+      "url": "https://www.youtube.com/watch?v=-TLCGUpoD6c",
+      "publishedAt": "2026-11-18T14:56:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cowlevel",
       "tags": []
     },
     {
@@ -47,6 +234,17 @@
       "tags": []
     },
     {
+      "id": "5o45p7",
+      "title": "Exponential Behavior in Magic: The Gathering",
+      "description": "Score: 41 | Comments: 19 | Posted by neuwirth",
+      "url": "https://levineuwirth.org/essays/exponential-magic/",
+      "publishedAt": "2026-11-18T14:07:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "neuwirth",
+      "tags": []
+    },
+    {
       "id": "no4rfk",
       "title": "Energy drinks linked to 11 times more reports of cardiac arrest",
       "description": "Score: 27 | Comments: 11 | Posted by wjSgoWPm5bWAhXB",
@@ -77,6 +275,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "sergdigon",
+      "tags": []
+    },
+    {
+      "id": "aas0zk",
+      "title": "Mass launched to orbit each year by rocket builder",
+      "description": "Score: 64 | Comments: 52 | Posted by hubraumhugo",
+      "url": "https://www.kadoa.com/companies/insights/spacex-europe-payload",
+      "publishedAt": "2026-11-18T13:43:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hubraumhugo",
       "tags": []
     },
     {
@@ -124,6 +333,17 @@
       "tags": []
     },
     {
+      "id": "r10v20",
+      "title": "C's designated initializers give us named arguments",
+      "description": "Score: 30 | Comments: 27 | Posted by joshcsimmons",
+      "url": "https://quuxplusone.github.io/blog/2026/11/16/named-arguments-in-c/",
+      "publishedAt": "2026-11-18T09:49:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "joshcsimmons",
+      "tags": []
+    },
+    {
       "id": "g04dwa",
       "title": "Energy-Based Reasoners: 385x more efficient inference",
       "description": "Score: 204 | Comments: 29 | Posted by frenchmajesty",
@@ -168,6 +388,17 @@
       "tags": []
     },
     {
+      "id": "k1bemd",
+      "title": "Mosquitoes are Ladakh's latest tourists",
+      "description": "Score: 61 | Comments: 22 | Posted by akbarnama",
+      "url": "https://ruralindiaonline.org/article/mosquitoes-are-ladakh-s-latest-tourists",
+      "publishedAt": "2026-11-18T06:08:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "akbarnama",
+      "tags": []
+    },
+    {
       "id": "1gfulb",
       "title": "Why Fibonacci?",
       "description": "Score: 67 | Comments: 13 | Posted by _Microft",
@@ -198,6 +429,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "deenadz",
+      "tags": []
+    },
+    {
+      "id": "557vck",
+      "title": "Building Lego Machines to Destroy Tall Lego Towers (2024)",
+      "description": "Score: 31 | Comments: 4 | Posted by sammatilda",
+      "url": "https://kottke.org/24/07/building-lego-machines-to-destroy-tall-lego-towers",
+      "publishedAt": "2026-11-18T04:10:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sammatilda",
       "tags": []
     },
     {
