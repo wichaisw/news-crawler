@@ -1,0 +1,248 @@
+{
+  "date": "2026-11-20",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "katn8g",
+      "title": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
+      "description": "Score: 213 | Comments: 60 | Posted by iamronaldo",
+      "url": "https://alpo.ge/remark.pdf",
+      "publishedAt": "2026-11-20T14:16:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "iamronaldo",
+      "tags": []
+    },
+    {
+      "id": "3zbrz9",
+      "title": "Llms.txt and MCP didn't move the needle",
+      "description": "Score: 23 | Comments: 13 | Posted by moebrowne",
+      "url": "https://backpackforlaravel.com/articles/opinions/llms-txt-and-mcp-didn-t-move-the-needle-for-us-here-s-what-did",
+      "publishedAt": "2026-11-20T14:00:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "moebrowne",
+      "tags": []
+    },
+    {
+      "id": "9fqdbb",
+      "title": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
+      "description": "Score: 50 | Comments: 22 | Posted by cdrnsf",
+      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+      "publishedAt": "2026-11-20T13:29:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cdrnsf",
+      "tags": []
+    },
+    {
+      "id": "8sis9w",
+      "title": "'The Super Poopers'",
+      "description": "Score: 11 | Comments: 2 | Posted by ersinesen",
+      "url": "https://www.bbc.com/future/article/20261117-faecal-transplants-what-it-takes-to-be-a-super-pooper",
+      "publishedAt": "2026-11-20T13:08:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ersinesen",
+      "tags": []
+    },
+    {
+      "id": "i7frvn",
+      "title": "If you stop writing code, you also get worse at reviewing it",
+      "description": "Score: 65 | Comments: 13 | Posted by theanonymousone",
+      "url": "https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/",
+      "publishedAt": "2026-11-20T12:41:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "theanonymousone",
+      "tags": []
+    },
+    {
+      "id": "vliiny",
+      "title": "Epic Games Turns to AI Coding for the Unreal Engine",
+      "description": "Score: 29 | Comments: 25 | Posted by rbanffy",
+      "url": "https://spectrum.ieee.org/epic-games-unreal-engine-ai",
+      "publishedAt": "2026-11-20T12:16:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rbanffy",
+      "tags": []
+    },
+    {
+      "id": "hbuyvu",
+      "title": "The Making of Oxygene",
+      "description": "Score: 98 | Comments: 36 | Posted by hggh",
+      "url": "https://jeanmicheljarre.com/aaa/the-making-of-oxygene",
+      "publishedAt": "2026-11-20T10:41:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hggh",
+      "tags": []
+    },
+    {
+      "id": "pt7i4h",
+      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+      "description": "Score: 353 | Comments: 229 | Posted by shioyama",
+      "url": "https://architectlabs.com/blog/frostbite",
+      "publishedAt": "2026-11-20T10:01:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "shioyama",
+      "tags": []
+    },
+    {
+      "id": "gd2aob",
+      "title": "What people are building, discovered through new domains",
+      "description": "Score: 93 | Comments: 42 | Posted by walterschnitzel",
+      "url": "https://startups.novumsignals.com/",
+      "publishedAt": "2026-11-20T09:54:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "walterschnitzel",
+      "tags": []
+    },
+    {
+      "id": "s83s2z",
+      "title": "UK fridges secured from hackers",
+      "description": "Score: 95 | Comments: 91 | Posted by tomnext",
+      "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o",
+      "publishedAt": "2026-11-20T09:52:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tomnext",
+      "tags": []
+    },
+    {
+      "id": "cs6let",
+      "title": "If you can't explain something in simple terms, you don't understand it (2017)",
+      "description": "Score: 272 | Comments: 162 | Posted by sammatilda",
+      "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
+      "publishedAt": "2026-11-20T09:43:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sammatilda",
+      "tags": []
+    },
+    {
+      "id": "trlt4e",
+      "title": "Signal Is Serious About Protecting Your Privacy",
+      "description": "Score: 82 | Comments: 32 | Posted by dotcoma",
+      "url": "https://signal.org/blog/protecting-your-privacy/",
+      "publishedAt": "2026-11-20T09:42:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dotcoma",
+      "tags": []
+    },
+    {
+      "id": "w3sl29",
+      "title": "Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019)",
+      "description": "Score: 304 | Comments: 176 | Posted by sammatilda",
+      "url": "https://ecohustler.com/article/one-corporation-to-pollute-them-all/",
+      "publishedAt": "2026-11-20T09:13:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sammatilda",
+      "tags": []
+    },
+    {
+      "id": "a6fypn",
+      "title": "\"I can tell you wrote this yourself\"",
+      "description": "Score: 305 | Comments: 296 | Posted by BrunoBernardino",
+      "url": "https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/",
+      "publishedAt": "2026-11-20T07:13:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "BrunoBernardino",
+      "tags": []
+    },
+    {
+      "id": "zdpz1m",
+      "title": "Jujutsu Primer",
+      "description": "Score: 177 | Comments: 115 | Posted by renehsz",
+      "url": "https://ethanlowman.com/posts/jj-primer/",
+      "publishedAt": "2026-11-20T05:46:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "renehsz",
+      "tags": []
+    },
+    {
+      "id": "m7rmpf",
+      "title": "FFmpeg 9.1 'Gauss'",
+      "description": "Score: 223 | Comments: 30 | Posted by gyan",
+      "url": "https://ffmpeg.org/download.html#release_9.1",
+      "publishedAt": "2026-11-20T04:02:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gyan",
+      "tags": []
+    },
+    {
+      "id": "en7te0",
+      "title": "PostgreSQL 19",
+      "description": "Score: 300 | Comments: 16 | Posted by linzhangrun",
+      "url": "https://www.postgresql.org/docs/release/19.0/",
+      "publishedAt": "2026-11-20T03:45:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "linzhangrun",
+      "tags": []
+    },
+    {
+      "id": "w8nwip",
+      "title": "What Comes After AGI?",
+      "description": "Score: 115 | Comments: 222 | Posted by jdkee",
+      "url": "https://institute.deepmind.com/essays/what-comes-after-agi/",
+      "publishedAt": "2026-11-20T02:44:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jdkee",
+      "tags": []
+    },
+    {
+      "id": "usw8tp",
+      "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
+      "description": "Score: 143 | Comments: 24 | Posted by craigkerstiens",
+      "url": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
+      "publishedAt": "2026-11-20T02:43:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "craigkerstiens",
+      "tags": []
+    },
+    {
+      "id": "xrodkj",
+      "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+      "description": "Score: 320 | Comments: 268 | Posted by JacobHenner",
+      "url": "https://github.com/openssl/openssl/pull/33652",
+      "publishedAt": "2026-11-20T02:01:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "JacobHenner",
+      "tags": []
+    },
+    {
+      "id": "b8iqc0",
+      "title": "Vint Cerf on why TCP/IP was never patented",
+      "description": "Score: 136 | Comments: 67 | Posted by emot",
+      "url": "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never",
+      "publishedAt": "2026-11-20T01:06:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "emot",
+      "tags": []
+    },
+    {
+      "id": "c8n5aj",
+      "title": "ChatGPT for SNES",
+      "description": "Score: 109 | Comments: 31 | Posted by evan_",
+      "url": "https://www.bxfoundry.com/chatgpt_snes/",
+      "publishedAt": "2026-11-20T00:25:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "evan_",
+      "tags": []
+    }
+  ]
+}

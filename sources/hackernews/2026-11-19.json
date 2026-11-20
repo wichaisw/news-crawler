@@ -3,6 +3,105 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "qsehl6",
+      "title": "Synology Security Advisory",
+      "description": "Score: 166 | Comments: 125 | Posted by choult",
+      "url": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
+      "publishedAt": "2026-11-19T22:13:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "choult",
+      "tags": []
+    },
+    {
+      "id": "te2712",
+      "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+      "description": "Score: 110 | Comments: 226 | Posted by sandslash",
+      "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
+      "publishedAt": "2026-11-19T18:47:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sandslash",
+      "tags": []
+    },
+    {
+      "id": "kgst62",
+      "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
+      "description": "Score: 320 | Comments: 175 | Posted by dev1one1",
+      "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
+      "publishedAt": "2026-11-19T18:35:17.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dev1one1",
+      "tags": []
+    },
+    {
+      "id": "18xrrb",
+      "title": "Claude solves two open problems in the physics of black holes",
+      "description": "Score: 521 | Comments: 247 | Posted by cybermango",
+      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+      "publishedAt": "2026-11-19T17:30:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cybermango",
+      "tags": []
+    },
+    {
+      "id": "6wlneg",
+      "title": "Pancreatic cancer halted by virus injection in three patients",
+      "description": "Score: 838 | Comments: 143 | Posted by cybermango",
+      "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
+      "publishedAt": "2026-11-19T17:25:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "cybermango",
+      "tags": []
+    },
+    {
+      "id": "yyqz6l",
+      "title": "Anthropic’s Nasdaq debut",
+      "description": "Score: 1108 | Comments: 2218 | Posted by wslh",
+      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+      "publishedAt": "2026-11-19T17:02:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wslh",
+      "tags": []
+    },
+    {
+      "id": "du9hbm",
+      "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
+      "description": "Score: 121 | Comments: 83 | Posted by D_R_Farrell",
+      "url": "https://github.com/onlook-dev/onlook/",
+      "publishedAt": "2026-11-19T16:34:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "D_R_Farrell",
+      "tags": []
+    },
+    {
+      "id": "v0slpm",
+      "title": "UK government forced to admit it issued Apple a secret encryption order",
+      "description": "Score: 672 | Comments: 327 | Posted by Terretta",
+      "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
+      "publishedAt": "2026-11-19T16:21:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Terretta",
+      "tags": []
+    },
+    {
+      "id": "g38iii",
+      "title": "Show HN: Fast deterministic natural language search for OpenStreetMap data",
+      "description": "Score: 63 | Comments: 24 | Posted by vihren",
+      "url": "https://hippomaps.ch/?q=cafes+by+the+Limmat+100+m+from+the+lake+in+zurich#map=15.02/47.36708/8.54935",
+      "publishedAt": "2026-11-19T15:16:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vihren",
+      "tags": []
+    },
+    {
       "id": "29v6rk",
       "title": "Germany and Austria Call for European Control of TikTok",
       "description": "Score: 27 | Comments: 2 | Posted by thm",
@@ -11,6 +110,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "thm",
+      "tags": []
+    },
+    {
+      "id": "6jzmuu",
+      "title": "Floppy3.5: A portable 3.5-inch floppy WiFi NAS",
+      "description": "Score: 51 | Comments: 10 | Posted by fortran77",
+      "url": "https://github.com/bigcrimping/floppy3.5",
+      "publishedAt": "2026-11-19T14:29:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fortran77",
       "tags": []
     },
     {

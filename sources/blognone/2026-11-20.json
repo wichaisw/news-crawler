@@ -1,0 +1,84 @@
+{
+  "date": "2026-11-20",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "152220 at https://www.blognone.com",
+      "title": "Bending Spoons ซื้อกิจการ Mailchimp จาก Intuit มูลค่าดีล 3.68 พันล้านดอลลาร์",
+      "description": "Bending Spoons ซื้อกิจการ Mailchimp จาก Intuit มูลค่าดีล 3.68 พันล้านดอลลาร์ Body Intuit",
+      "url": "https://www.blognone.com/node/152220",
+      "publishedAt": "2026-11-20T14:29:00.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "152224 at https://www.blognone.com",
+      "title": "Windows 11 เปิดตัว Endpoint Security Platform แก้ปัญหา CrowdStrike ทำระบบล่ม",
+      "description": "Windows 11 เปิดตัว Endpoint Security Platform แก้ปัญหา CrowdStrike ทำระบบล่ม Body ถ้ายังจำกันได้ เหตุการณ์ปี 2024 ที่ บั๊กในซอฟต์แวร์ CrowdStrike",
+      "url": "https://www.blognone.com/node/152224",
+      "imageUrl": "https://www.blognone.com/sites/default/files/files-2026/2026-11/windows-endpoint-security-platform.png",
+      "publishedAt": "2026-11-20T14:28:52.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "152221 at https://www.blognone.com",
+      "title": "Gemini บน Mac รองรับ Computer Use แล้ว - ตอนนี้ให้เฉพาะในอเมริกาก่อน",
+      "description": "Gemini บน Mac รองรับ Computer Use แล้ว - ตอนนี้ให้เฉพาะในอเมริกาก่อน Body กูเกิลขยายความสามารถของ Gemini บน Mac รองรับการควบคุม-ทำงานในคอมพิวเตอร์",
+      "url": "https://www.blognone.com/node/152221",
+      "publishedAt": "2026-11-20T14:28:00.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "152223 at https://www.blognone.com",
+      "title": "Google เลือก Blue Origin ในการส่งดาวเทียม Suncatcher ที่จะสร้างศูนย์ข้อมูล AI ในอวกาศ",
+      "description": "Google เลือก Blue Origin ในการส่งดาวเทียม Suncatcher ที่จะสร้างศูนย์ข้อมูล AI ในอวกาศ Body กูเกิลประกาศความร่วมมือกับ Blue Origin สำหรับ Project",
+      "url": "https://www.blognone.com/node/152223",
+      "publishedAt": "2026-11-20T13:55:00.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "152218 at https://www.blognone.com",
+      "title": "Docker รีแบรนด์โลโก้ บอกเพื่อให้เข้ากับยุคสมัย AI Agent",
+      "description": "Docker รีแบรนด์โลโก้ บอกเพื่อให้เข้ากับยุคสมัย AI Agent Body Docker ประกาศรีแบรนด์ด้วยโลโก้วาฬแบบใหม่ที่ดูเรียบง่ายมากขึ้น",
+      "url": "https://www.blognone.com/node/152218",
+      "publishedAt": "2026-11-20T13:33:00.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "152219 at https://www.blognone.com",
+      "title": "OpenAI ขยายบริการ AI Agent Dots ให้ลูกค้าเทียร์ ChatGPT Plus แล้ว",
+      "description": "OpenAI ขยายบริการ AI Agent Dots ให้ลูกค้าเทียร์ ChatGPT Plus แล้ว Body OpenAI ประกาศเริ่มขยายบริการ Dots ที่เป็น AI Agent ให้กับลูกค้าจ่ายเงินแพ็คเกจ",
+      "url": "https://www.blognone.com/node/152219",
+      "publishedAt": "2026-11-20T13:12:00.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "152222 at https://www.blognone.com",
+      "title": "Signal ปิดการแคปหน้าจอใน iOS, Android เป็นค่าเริ่มต้น เพื่อป้องกัน AI อ่านข้อมูล",
+      "description": "Signal ปิดการแคปหน้าจอใน iOS, Android เป็นค่าเริ่มต้น เพื่อป้องกัน AI อ่านข้อมูล Body Signal ประกาศมาตรการป้องกัน AI",
+      "url": "https://www.blognone.com/node/152222",
+      "publishedAt": "2026-11-20T12:04:26.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}

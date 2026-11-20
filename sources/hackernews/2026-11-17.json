@@ -36,6 +36,17 @@
       "tags": []
     },
     {
+      "id": "a0jf4m",
+      "title": "Weight-Space Programming builds neural networks like a 1990s researcher",
+      "description": "Score: 110 | Comments: 10 | Posted by lexandstuff",
+      "url": "https://notesbylex.com/weight-space-programming-1990s",
+      "publishedAt": "2026-11-17T22:11:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lexandstuff",
+      "tags": []
+    },
+    {
       "id": "96is3g",
       "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
       "description": "Score: 261 | Comments: 351 | Posted by judahmeek",
@@ -66,6 +77,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "lyra1337",
+      "tags": []
+    },
+    {
+      "id": "3av3vq",
+      "title": "Automatic Checking of Compiler Correctness with E-Graphs",
+      "description": "Score: 52 | Comments: 0 | Posted by g0xA52A2A",
+      "url": "https://stng.substack.com/p/automatic-checking-of-compiler-correctness",
+      "publishedAt": "2026-11-17T20:12:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "g0xA52A2A",
       "tags": []
     },
     {
@@ -355,6 +377,28 @@
       "tags": []
     },
     {
+      "id": "ykcinv",
+      "title": "How to CAD Almost Anything",
+      "description": "Score: 325 | Comments: 109 | Posted by o4c",
+      "url": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
+      "publishedAt": "2026-11-17T06:29:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "o4c",
+      "tags": []
+    },
+    {
+      "id": "cq2bsf",
+      "title": "The G1 Garbage Collector",
+      "description": "Score: 5 | Comments: 1 | Posted by ejboy",
+      "url": "https://dev.java/learn/jvm/tool/garbage-collection/g1gc-overview/",
+      "publishedAt": "2026-11-17T04:29:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ejboy",
+      "tags": []
+    },
+    {
       "id": "3kqiyr",
       "title": "If an App Asks for Full Disk Access or System and App Protection Override",
       "description": "Score: 189 | Comments: 102 | Posted by jshier",
@@ -374,6 +418,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "qainsights",
+      "tags": []
+    },
+    {
+      "id": "uc6gij",
+      "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
+      "description": "Score: 48 | Comments: 13 | Posted by hidude562",
+      "url": "https://kobi.music/research/dettato",
+      "publishedAt": "2026-11-17T01:03:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hidude562",
       "tags": []
     },
     {

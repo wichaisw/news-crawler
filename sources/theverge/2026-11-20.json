@@ -1,0 +1,42 @@
+{
+  "date": "2026-11-20",
+  "source": "theverge",
+  "articles": [
+    {
+      "id": "r6erz5",
+      "title": "The week everything fell apart",
+      "description": "There was a dayslong Outlook outage. A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working. Even iCloud couldn't stay up and running. This week, it felt like the technological world simply collapsed. And it felt like this might be the beginning of something even bigger. On [&#8230;]",
+      "url": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_VST_111926_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-11-20T14:06:59.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "David Pierce",
+      "tags": []
+    },
+    {
+      "id": "5qv48b",
+      "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+      "description": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are \"undermining Signal's ability to independently guarantee privacy,\" Signal president [&#8230;]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/protecting-your-privacy-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-11-20T12:30:47.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Jess Weatherbed",
+      "tags": []
+    },
+    {
+      "id": "nob272",
+      "title": "Why the robots are ditching Uber",
+      "description": "In a late August earnings call, Uber CEO Dara Khosrowshahi sounded optimistic about his company's \"very strong\" partnership with Waymo, the global leader in autonomous robotaxis. The two companies had been working together for years in several cities - including exclusively in Austin and Atlanta - and things were going swimmingly, according to Khosrowshahi. \"We [&#8230;]",
+      "url": "https://www.theverge.com/transportation/1037667/waymo-serve-robotics-ditch-uber-autonomous-partnerships",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Waymo_Uber_Kristen_Radtke_e68b56.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-11-20T12:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Andrew J. Hawkins",
+      "tags": []
+    }
+  ]
+}
