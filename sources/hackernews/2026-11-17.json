@@ -223,6 +223,17 @@
       "tags": []
     },
     {
+      "id": "jn4nmg",
+      "title": "Valkey kills the skiplist, cuts sorted set overhead by up to 43%",
+      "description": "Score: 159 | Comments: 52 | Posted by reconditerose",
+      "url": "https://valkey.io/blog/from-skiplist-to-b+tree/",
+      "publishedAt": "2026-11-17T16:58:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "reconditerose",
+      "tags": []
+    },
+    {
       "id": "k3kyhq",
       "title": "Highly classified US national security communications network goes down",
       "description": "Score: 644 | Comments: 718 | Posted by monkeydust",
@@ -242,6 +253,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "doener",
+      "tags": []
+    },
+    {
+      "id": "xwvtnp",
+      "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
+      "description": "Score: 244 | Comments: 73 | Posted by dvaplima",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
+      "publishedAt": "2026-11-17T15:22:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dvaplima",
       "tags": []
     },
     {

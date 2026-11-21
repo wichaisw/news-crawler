@@ -1,0 +1,54 @@
+{
+  "date": "2026-11-21",
+  "source": "theverge",
+  "articles": [
+    {
+      "id": "ihdr29",
+      "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+      "description": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word. They're all part of Chess's new Classic Games platform, which is launching [&#8230;]",
+      "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/classic-games-home-page-trimmed.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-11-21T14:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Stevie Bonifield",
+      "tags": []
+    },
+    {
+      "id": "wh1nzq",
+      "title": "The Xiaomi 18 Pro proves two screens aren’t better than one",
+      "description": "Xiaomi introduced a second screen to its flagship phones with last year's 17 Pros, but didn't release them outside China. That means the new 18 Pro and Pro Max are the first chance I've had to find out if a screen on the back of a phone is any more useful now than it was [&#8230;]",
+      "url": "https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/xiaomi-18-pro-max-11.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-11-21T13:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Dominic Preston",
+      "tags": []
+    },
+    {
+      "id": "u4un81",
+      "title": "The game of the year is finally here",
+      "description": "Hi, friends! Welcome to Installer No. 153, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for tearing yourself away from GTA to be here, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about nuclear radiation [&#8230;]",
+      "url": "https://www.theverge.com/tech/1039433/gta-vi-alfred-6-clockwisetv-installer",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Installer-153.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-11-21T13:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "David Pierce",
+      "tags": []
+    },
+    {
+      "id": "qetaj5",
+      "title": "Harbinger is building the unsexy EVs that keep the economy moving",
+      "description": "While legacy automakers tap the brakes on electric vehicles, one startup is hitting the accelerator. Earlier this month, electric truck maker Harbinger raised $240 million in a Series D round, capping a banner stretch that includes a $300 million order from FedEx and a new defense contract with the US military. Harbinger is stacking up [&#8230;]",
+      "url": "https://www.theverge.com/transportation/1038448/harbinger-ev-startup-240m-series-d-fedex-army-trucks",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gang-shot-7.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-11-21T12:00:00.000Z",
+      "source": "theverge",
+      "sourceName": "The Verge",
+      "author": "Andrew J. Hawkins",
+      "tags": []
+    }
+  ]
+}
