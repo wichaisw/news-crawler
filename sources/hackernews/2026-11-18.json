@@ -47,6 +47,17 @@
       "tags": []
     },
     {
+      "id": "8r9ed9",
+      "title": "Pion Interceptor: WebRTC for Hackers",
+      "description": "Score: 16 | Comments: 5 | Posted by Sean-Der",
+      "url": "https://pion.ly/blog/pion-interceptor-webrtc-for-hackers/",
+      "publishedAt": "2026-11-18T22:51:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Sean-Der",
+      "tags": []
+    },
+    {
       "id": "vzseo3",
       "title": "LLM assisted reverse engineering",
       "description": "Score: 281 | Comments: 72 | Posted by ioma8",
@@ -55,6 +66,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "ioma8",
+      "tags": []
+    },
+    {
+      "id": "l22i4v",
+      "title": "Shaping the Loops, Closing the Loops",
+      "description": "Score: 28 | Comments: 9 | Posted by based0x10",
+      "url": "https://revyl.com/blog/pattern-engineering/",
+      "publishedAt": "2026-11-18T22:29:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "based0x10",
       "tags": []
     },
     {
@@ -99,6 +121,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "bookofjoe",
+      "tags": []
+    },
+    {
+      "id": "3apgtw",
+      "title": "String Art Font (2017)",
+      "description": "Score: 13 | Comments: 2 | Posted by akkartik",
+      "url": "https://erikdemaine.org/fonts/stringart/",
+      "publishedAt": "2026-11-18T17:42:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "akkartik",
       "tags": []
     },
     {
@@ -363,6 +396,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "robin_reala",
+      "tags": []
+    },
+    {
+      "id": "navmmt",
+      "title": "Reaktiv Workbook – A spreadsheet where every cell is Python",
+      "description": "Score: 30 | Comments: 10 | Posted by buibuibui",
+      "url": "https://workbook.bui.app/",
+      "publishedAt": "2026-11-18T10:24:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "buibuibui",
       "tags": []
     },
     {

@@ -3,6 +3,105 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "vw1ob4",
+      "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
+      "description": "Score: 133 | Comments: 19 | Posted by sebaandrada",
+      "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
+      "publishedAt": "2026-11-21T22:09:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sebaandrada",
+      "tags": []
+    },
+    {
+      "id": "c7qh6q",
+      "title": "Advice for the next 100 Rust GUIs",
+      "description": "Score: 209 | Comments: 94 | Posted by raphlinus",
+      "url": "https://linebender.org/blog/next-100-guis/",
+      "publishedAt": "2026-11-21T21:17:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "raphlinus",
+      "tags": []
+    },
+    {
+      "id": "fytc5o",
+      "title": "Pandex – Official European Law for AI Agents, over MCP",
+      "description": "Score: 115 | Comments: 29 | Posted by vasie",
+      "url": "https://www.pandex.io",
+      "publishedAt": "2026-11-21T20:47:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vasie",
+      "tags": []
+    },
+    {
+      "id": "nbom5s",
+      "title": "Upload2Shell (CVE-2026-125396)",
+      "description": "Score: 133 | Comments: 65 | Posted by f311a",
+      "url": "https://pwn.ai/upload2shell",
+      "publishedAt": "2026-11-21T18:29:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "f311a",
+      "tags": []
+    },
+    {
+      "id": "rlxjxl",
+      "title": "Inkling-2-Mini in 5.4 GB Memory",
+      "description": "Score: 500 | Comments: 125 | Posted by k__",
+      "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+      "publishedAt": "2026-11-21T18:02:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "k__",
+      "tags": []
+    },
+    {
+      "id": "dixyd2",
+      "title": "PostgreSQL Extensions in Go",
+      "description": "Score: 162 | Comments: 29 | Posted by valyala",
+      "url": "https://jespino.github.io/gopgext/",
+      "publishedAt": "2026-11-21T17:08:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "valyala",
+      "tags": []
+    },
+    {
+      "id": "iiia95",
+      "title": "Verification files for the Lean proof of the Riemann Hypothesis",
+      "description": "Score: 119 | Comments: 42 | Posted by Bluestein",
+      "url": "https://math.mit.edu/~drew/grh/",
+      "publishedAt": "2026-11-21T15:54:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Bluestein",
+      "tags": []
+    },
+    {
+      "id": "y9m7w",
+      "title": "Show HN: Zero C# – C# without a runtime or GC",
+      "description": "Score: 164 | Comments: 114 | Posted by reverseblade2",
+      "url": "https://onurgumus.github.io/zero-csharp/index.html",
+      "publishedAt": "2026-11-21T15:39:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "reverseblade2",
+      "tags": []
+    },
+    {
+      "id": "de94bo",
+      "title": "Lean verification of the Riemann Hypothesis",
+      "description": "Score: 1110 | Comments: 924 | Posted by g-b-r",
+      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+      "publishedAt": "2026-11-21T14:36:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "g-b-r",
+      "tags": []
+    },
+    {
       "id": "hatn1g",
       "title": "Derek Lowe: Detonating a Pile of Lead Azidescience.org",
       "description": "Score: 59 | Comments: 14 | Posted by",

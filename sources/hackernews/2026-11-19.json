@@ -14,6 +14,17 @@
       "tags": []
     },
     {
+      "id": "3cl6vi",
+      "title": "Self-hosted library branch over public web OPDS",
+      "description": "Score: 47 | Comments: 12 | Posted by philips",
+      "url": "https://joinmayberry.com/",
+      "publishedAt": "2026-11-19T21:15:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "philips",
+      "tags": []
+    },
+    {
       "id": "1cx9w9",
       "title": "Show HN: LZ0 -An asymmetric LZ compressor with ultra minimal, 0-alloc decoder",
       "description": "Score: 18 | Comments: 5 | Posted by seb3773",
@@ -165,6 +176,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "petecooper",
+      "tags": []
+    },
+    {
+      "id": "ddk6e6",
+      "title": "Split Radiance Cascades",
+      "description": "Score: 46 | Comments: 1 | Posted by ibobev",
+      "url": "https://www.jacktollenaar.top/articles/split-rc.html",
+      "publishedAt": "2026-11-19T14:08:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ibobev",
+      "tags": []
+    },
+    {
+      "id": "x7k5k",
+      "title": "Is 'fork' missing operation in sandboxes?",
+      "description": "Score: 12 | Comments: 12 | Posted by damezumari",
+      "url": "https://avrea.com/blog/avrea-sandboxes-computers-should-be-forkable",
+      "publishedAt": "2026-11-19T13:28:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "damezumari",
       "tags": []
     },
     {
@@ -352,6 +385,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "jdns",
+      "tags": []
+    },
+    {
+      "id": "f940eq",
+      "title": "Reversing the Next-Page Prefetcher in Skylake-X",
+      "description": "Score: 16 | Comments: 0 | Posted by todsacerdoti",
+      "url": "https://devsh0.github.io/microarchitecture,/intel,/computer-architecture/2026/11/17/reversing-the-next-page-prefetcher-in-skylake-x.html",
+      "publishedAt": "2026-11-19T00:50:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
       "tags": []
     }
   ]
