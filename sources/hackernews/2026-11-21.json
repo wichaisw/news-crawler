@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "8cfedl",
+      "title": "A Better Vocabulary for Testing",
+      "description": "Score: 139 | Comments: 31 | Posted by alpaylan",
+      "url": "https://alperenkeles.com/posts/vocab-for-testing/",
+      "publishedAt": "2026-11-21T22:15:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "alpaylan",
+      "tags": []
+    },
+    {
       "id": "vw1ob4",
       "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
       "description": "Score: 133 | Comments: 19 | Posted by sebaandrada",
@@ -179,6 +190,39 @@
       "tags": []
     },
     {
+      "id": "edkoj5",
+      "title": "MRAM Basics: How Magnetic Memory Is Replacing Embedded Flash",
+      "description": "Score: 68 | Comments: 25 | Posted by giuliomagnifico",
+      "url": "https://www.allaboutcircuits.com/technical-articles/mram-basics-how-magnetic-memory-is-replacing-embedded-flash/",
+      "publishedAt": "2026-11-21T10:14:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "giuliomagnifico",
+      "tags": []
+    },
+    {
+      "id": "glzitf",
+      "title": "Spacecraft reaches Mercury on second-ever mission to enter its orbit",
+      "description": "Score: 119 | Comments: 37 | Posted by geden",
+      "url": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo",
+      "publishedAt": "2026-11-21T09:14:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "geden",
+      "tags": []
+    },
+    {
+      "id": "kbmq73",
+      "title": "What's the difference between an integer and a pointer? (2018)",
+      "description": "Score: 66 | Comments: 38 | Posted by germanrabbit",
+      "url": "https://blog.regehr.org/archives/1621",
+      "publishedAt": "2026-11-21T08:49:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "germanrabbit",
+      "tags": []
+    },
+    {
       "id": "u2m8uq",
       "title": "RCE in Gnupg",
       "description": "Score: 111 | Comments: 33 | Posted by gdgghhhhh",
@@ -242,6 +286,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "sammatilda",
+      "tags": []
+    },
+    {
+      "id": "gisbwl",
+      "title": "Elixir HLS makes FPGA circuits from functions written in Elixir",
+      "description": "Score: 122 | Comments: 9 | Posted by kristianpaul",
+      "url": "https://github.com/elixir-hls/elixir-hls",
+      "publishedAt": "2026-11-21T00:47:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kristianpaul",
+      "tags": []
+    },
+    {
+      "id": "ezejxy",
+      "title": "Making torch_remat work in TorchTitan",
+      "description": "Score: 3 | Comments: 0 | Posted by matt_d",
+      "url": "https://docs.pytorch.org/devlogs/distributed/2026-11-19-torch-remat-in-torchtitan/",
+      "publishedAt": "2026-11-21T00:12:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "matt_d",
       "tags": []
     }
   ]

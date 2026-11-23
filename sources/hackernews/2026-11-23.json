@@ -1,0 +1,215 @@
+{
+  "date": "2026-11-23",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "xr3ano",
+      "title": "Ladybird Is Now in Alphaladybird.org",
+      "description": "Score: 416 | Comments: 100 | Posted by",
+      "url": "https://ladybird.org/posts/alpha/",
+      "publishedAt": "2026-11-23T16:37:12.607Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Anonymous",
+      "tags": []
+    },
+    {
+      "id": "t9jymn",
+      "title": "Maldon Salt's Authenticity Is Questioned, Leaving Foodies Shaken",
+      "description": "Score: 6 | Comments: 5 | Posted by bookofjoe",
+      "url": "https://www.nytimes.com/2026/11/21/world/europe/maldon-sea-salt-artisanal-scandal.html",
+      "publishedAt": "2026-11-23T16:22:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bookofjoe",
+      "tags": []
+    },
+    {
+      "id": "xr3ano",
+      "title": "Ladybird Is Now in Alpha",
+      "description": "Score: 419 | Comments: 100 | Posted by janvdberg",
+      "url": "https://ladybird.org/posts/alpha/",
+      "publishedAt": "2026-11-23T16:13:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "janvdberg",
+      "tags": []
+    },
+    {
+      "id": "o12f6o",
+      "title": "Nvidia Reinstates Jensen Huang as CEOcnbc.com",
+      "description": "Score: 712 | Comments: 1876 | Posted by",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "publishedAt": "2026-11-23T15:37:12.607Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Anonymous",
+      "tags": []
+    },
+    {
+      "id": "35bslr",
+      "title": "GTA 6 Xbox executable released early by cyberleek",
+      "description": "Score: 66 | Comments: 29 | Posted by monskov",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1y3jzqe/cyberleek_posted_the_gta_6_xbox_build_executable/",
+      "publishedAt": "2026-11-23T14:49:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "monskov",
+      "tags": []
+    },
+    {
+      "id": "245oho",
+      "title": "Building a wireless network adapter for the Super Nintendo",
+      "description": "Score: 25 | Comments: 5 | Posted by dannyboland",
+      "url": "https://boland.dev/snet/",
+      "publishedAt": "2026-11-23T14:16:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dannyboland",
+      "tags": []
+    },
+    {
+      "id": "o12f6o",
+      "title": "Nvidia Reinstates Jensen Huang as CEO",
+      "description": "Score: 714 | Comments: 1883 | Posted by jaz",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "publishedAt": "2026-11-23T14:00:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jaz",
+      "tags": []
+    },
+    {
+      "id": "8mgyfc",
+      "title": "Win4wine – Run Windows Shell as the Linux Desktop on Wine",
+      "description": "Score: 127 | Comments: 71 | Posted by hard_times",
+      "url": "https://github.com/mikuta0407/win4wine",
+      "publishedAt": "2026-11-23T12:28:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hard_times",
+      "tags": []
+    },
+    {
+      "id": "tjm2a5",
+      "title": "The next circle of security hell",
+      "description": "Score: 159 | Comments: 82 | Posted by qtqtqt",
+      "url": "https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/",
+      "publishedAt": "2026-11-23T11:34:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "qtqtqt",
+      "tags": []
+    },
+    {
+      "id": "6m61k9",
+      "title": "Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor",
+      "description": "Score: 153 | Comments: 75 | Posted by yakkomajuri",
+      "url": "https://github.com/os6/nospeaker",
+      "publishedAt": "2026-11-23T11:31:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "yakkomajuri",
+      "tags": []
+    },
+    {
+      "id": "gq8571",
+      "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+      "description": "Score: 774 | Comments: 270 | Posted by foohis",
+      "url": "https://z.ai/blog/glm-5.4",
+      "publishedAt": "2026-11-23T10:06:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "foohis",
+      "tags": []
+    },
+    {
+      "id": "v1ey04",
+      "title": "You can't afford to keep your SSH keys on disk",
+      "description": "Score: 58 | Comments: 44 | Posted by shintoist",
+      "url": "https://jola.dev/posts/you-cant-afford-ssh-keys-disk",
+      "publishedAt": "2026-11-23T09:55:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "shintoist",
+      "tags": []
+    },
+    {
+      "id": "6rx8d2",
+      "title": "Yes, 17M lines of Lean is a lot",
+      "description": "Score: 226 | Comments: 273 | Posted by seizethecheese",
+      "url": "https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/",
+      "publishedAt": "2026-11-23T05:00:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "seizethecheese",
+      "tags": []
+    },
+    {
+      "id": "w48ewf",
+      "title": "A Partial Evaluator for C",
+      "description": "Score: 94 | Comments: 25 | Posted by measurablefunc",
+      "url": "https://phoenix.labri.fr/software/tempo/",
+      "publishedAt": "2026-11-23T04:51:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "measurablefunc",
+      "tags": []
+    },
+    {
+      "id": "ettlyb",
+      "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+      "description": "Score: 526 | Comments: 219 | Posted by mmastrac",
+      "url": "https://github.com/AFK-surf/xnulinux",
+      "publishedAt": "2026-11-23T03:49:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mmastrac",
+      "tags": []
+    },
+    {
+      "id": "k8xfhn",
+      "title": "The New Docker: Built to Run on Trust",
+      "description": "Score: 103 | Comments: 182 | Posted by peer2pay",
+      "url": "https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/",
+      "publishedAt": "2026-11-23T03:34:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "peer2pay",
+      "tags": []
+    },
+    {
+      "id": "7iml8l",
+      "title": "Treemap of the Riemann Hypothesis Lean Proof",
+      "description": "Score: 169 | Comments: 68 | Posted by pengowray",
+      "url": "https://pengowray.github.io/riemann-zeta-proof-visualizer/",
+      "publishedAt": "2026-11-23T01:50:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pengowray",
+      "tags": []
+    },
+    {
+      "id": "rc38cj",
+      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+      "description": "Score: 790 | Comments: 143 | Posted by SockThief",
+      "url": "https://spelunkr.tv",
+      "publishedAt": "2026-11-23T01:13:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "SockThief",
+      "tags": []
+    },
+    {
+      "id": "h7bs5s",
+      "title": "What we learned operating auth for 1k APIs",
+      "description": "Score: 51 | Comments: 12 | Posted by fagnerbrack",
+      "url": "https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/",
+      "publishedAt": "2026-11-23T01:01:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fagnerbrack",
+      "tags": []
+    }
+  ]
+}

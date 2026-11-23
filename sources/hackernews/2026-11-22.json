@@ -3,6 +3,160 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "39d07e",
+      "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+      "description": "Score: 67 | Comments: 17 | Posted by misswaterfairy",
+      "url": "https://0rwx.com/",
+      "publishedAt": "2026-11-22T23:53:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "misswaterfairy",
+      "tags": []
+    },
+    {
+      "id": "ctac8k",
+      "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+      "description": "Score: 254 | Comments: 191 | Posted by Qision",
+      "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+      "publishedAt": "2026-11-22T23:12:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Qision",
+      "tags": []
+    },
+    {
+      "id": "1uz7ds",
+      "title": "GL.iNet Security Notice 2026-11-20",
+      "description": "Score: 258 | Comments: 120 | Posted by gregsadetsky",
+      "url": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
+      "publishedAt": "2026-11-22T23:06:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gregsadetsky",
+      "tags": []
+    },
+    {
+      "id": "9bovhl",
+      "title": "The Usefulness of Useless Knowledge [pdf] (1939)",
+      "description": "Score: 165 | Comments: 40 | Posted by hectormauer",
+      "url": "https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf",
+      "publishedAt": "2026-11-22T22:10:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hectormauer",
+      "tags": []
+    },
+    {
+      "id": "5e48t",
+      "title": "The struggle for freedom: How BSD escaped AT&T licensing",
+      "description": "Score: 155 | Comments: 65 | Posted by joonehur",
+      "url": "https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/",
+      "publishedAt": "2026-11-22T21:33:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "joonehur",
+      "tags": []
+    },
+    {
+      "id": "l90lrd",
+      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "description": "Score: 678 | Comments: 277 | Posted by Retell15",
+      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "publishedAt": "2026-11-22T21:01:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Retell15",
+      "tags": []
+    },
+    {
+      "id": "b924nj",
+      "title": "A miniature San Francisco with live buses, planes and boats",
+      "description": "Score: 353 | Comments: 108 | Posted by dutilh",
+      "url": "https://smallsf.com/",
+      "publishedAt": "2026-11-22T20:33:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dutilh",
+      "tags": []
+    },
+    {
+      "id": "h4ubb2",
+      "title": "Nyx, the Oldest Internet Service Provider",
+      "description": "Score: 156 | Comments: 33 | Posted by o_-_o",
+      "url": "https://nyx.net/",
+      "publishedAt": "2026-11-22T20:15:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "o_-_o",
+      "tags": []
+    },
+    {
+      "id": "ohepnj",
+      "title": "Assume People Are Not Interested in Your Blog Post",
+      "description": "Score: 296 | Comments: 145 | Posted by dshacker",
+      "url": "https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/",
+      "publishedAt": "2026-11-22T19:41:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dshacker",
+      "tags": []
+    },
+    {
+      "id": "b7lxfg",
+      "title": "What Happened to Silicon Valley?",
+      "description": "Score: 776 | Comments: 423 | Posted by greenyouse",
+      "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
+      "publishedAt": "2026-11-22T19:20:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "greenyouse",
+      "tags": []
+    },
+    {
+      "id": "wykjv3",
+      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+      "description": "Score: 608 | Comments: 346 | Posted by gaws",
+      "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+      "publishedAt": "2026-11-22T19:10:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gaws",
+      "tags": []
+    },
+    {
+      "id": "ly757r",
+      "title": "Perplexity and Intelligence",
+      "description": "Score: 663 | Comments: 432 | Posted by acossta",
+      "url": "https://openai.com/index/perplexity-and-intelligence/",
+      "publishedAt": "2026-11-22T17:06:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "acossta",
+      "tags": []
+    },
+    {
+      "id": "7c309e",
+      "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
+      "description": "Score: 164 | Comments: 67 | Posted by fortran77",
+      "url": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/",
+      "publishedAt": "2026-11-22T15:35:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "fortran77",
+      "tags": []
+    },
+    {
+      "id": "7vjico",
+      "title": "Show HN: I built a game where you are an LLM's subagent",
+      "description": "Score: 353 | Comments: 85 | Posted by ivantgam",
+      "url": "https://github.com/gulivan/worker755",
+      "publishedAt": "2026-11-22T13:56:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ivantgam",
+      "tags": []
+    },
+    {
       "id": "5spgiw",
       "title": "Blackberry releases secure browser for Windows",
       "description": "Score: 6 | Comments: 1 | Posted by telefunken_u47",
@@ -33,6 +187,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "turbocon",
+      "tags": []
+    },
+    {
+      "id": "lz0beg",
+      "title": "Masullo on the Riemann Hypothesis",
+      "description": "Score: 288 | Comments: 271 | Posted by xiaoyu2006",
+      "url": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
+      "publishedAt": "2026-11-22T10:59:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "xiaoyu2006",
       "tags": []
     },
     {

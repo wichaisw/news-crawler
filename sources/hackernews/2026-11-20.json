@@ -25,6 +25,17 @@
       "tags": []
     },
     {
+      "id": "jt13ej",
+      "title": "Reviving the Donkey Car with Erlang",
+      "description": "Score: 29 | Comments: 1 | Posted by lawik",
+      "url": "https://underjord.io/reviving-the-donkey-car-with-erlang.html",
+      "publishedAt": "2026-11-20T22:56:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lawik",
+      "tags": []
+    },
+    {
       "id": "bsea0c",
       "title": "NINLIVE: The Nine Inch Nails live archive",
       "description": "Score: 301 | Comments: 78 | Posted by CharlesW",
@@ -66,6 +77,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "rafaelc",
+      "tags": []
+    },
+    {
+      "id": "tw8bbc",
+      "title": "Brake Check: Hijacking Trailer Brakes over Bluetooth",
+      "description": "Score: 72 | Comments: 57 | Posted by DeepLogin",
+      "url": "https://elementdigital.com.au/blog/brake-check-trailer-brakes-over-bluetooth/",
+      "publishedAt": "2026-11-20T20:57:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "DeepLogin",
       "tags": []
     },
     {
@@ -176,6 +198,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "evakhoury",
+      "tags": []
+    },
+    {
+      "id": "r3rp86",
+      "title": "Let's Meet in the Middle",
+      "description": "Score: 23 | Comments: 0 | Posted by evakhoury",
+      "url": "https://george.mand.is/2026/11/lets-meet-in-the-middle/",
+      "publishedAt": "2026-11-20T16:41:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "evakhoury",
+      "tags": []
+    },
+    {
+      "id": "7g0wza",
+      "title": "Verifying formal models of Raft implementations",
+      "description": "Score: 56 | Comments: 1 | Posted by alpaylan",
+      "url": "https://antithesis.com/blog/2026/verifying-formal-models/",
+      "publishedAt": "2026-11-20T16:33:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "alpaylan",
       "tags": []
     },
     {
@@ -366,6 +410,17 @@
       "tags": []
     },
     {
+      "id": "yeoo2i",
+      "title": "The Quartz Page",
+      "description": "Score: 21 | Comments: 5 | Posted by AdamH12113",
+      "url": "http://www.quartzpage.de/index.html",
+      "publishedAt": "2026-11-20T08:06:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "AdamH12113",
+      "tags": []
+    },
+    {
       "id": "a6fypn",
       "title": "\"I can tell you wrote this yourself\"",
       "description": "Score: 305 | Comments: 296 | Posted by BrunoBernardino",
@@ -440,6 +495,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "craigkerstiens",
+      "tags": []
+    },
+    {
+      "id": "8v1zr9",
+      "title": "LittleBit: Ultra Low-Bit Quantization via Latent Factorization (2025)",
+      "description": "Score: 64 | Comments: 10 | Posted by kakadu",
+      "url": "https://arxiv.org/abs/2506.13771",
+      "publishedAt": "2026-11-20T02:40:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kakadu",
       "tags": []
     },
     {
