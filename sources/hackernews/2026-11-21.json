@@ -47,6 +47,17 @@
       "tags": []
     },
     {
+      "id": "pd9ixw",
+      "title": "Arctic: A Practical Lock-Free Adaptive Radix Tree",
+      "description": "Score: 85 | Comments: 11 | Posted by grep_it",
+      "url": "https://www.usenix.org/conference/osdi26/presentation/ni",
+      "publishedAt": "2026-11-21T18:49:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "grep_it",
+      "tags": []
+    },
+    {
       "id": "nbom5s",
       "title": "Upload2Shell (CVE-2026-125396)",
       "description": "Score: 133 | Comments: 65 | Posted by f311a",

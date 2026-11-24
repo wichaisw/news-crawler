@@ -3,6 +3,72 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "p3fyia",
+      "title": "Freeing the iPod Nano 5G",
+      "description": "Score: 137 | Comments: 17 | Posted by rpm_conservatio",
+      "url": "https://viktorkrapivin.com/blog/nano5g-priv-prvd",
+      "publishedAt": "2026-11-23T23:03:13.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rpm_conservatio",
+      "tags": []
+    },
+    {
+      "id": "j6gnkp",
+      "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+      "description": "Score: 636 | Comments: 322 | Posted by shaunpud",
+      "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
+      "publishedAt": "2026-11-23T22:32:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "shaunpud",
+      "tags": []
+    },
+    {
+      "id": "t9ly76",
+      "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
+      "description": "Score: 315 | Comments: 65 | Posted by susam",
+      "url": "https://www.bored.com/",
+      "publishedAt": "2026-11-23T21:01:16.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "susam",
+      "tags": []
+    },
+    {
+      "id": "ps64oi",
+      "title": "GPUI is getting its own repository",
+      "description": "Score: 356 | Comments: 127 | Posted by EvilGoose",
+      "url": "https://github.com/zed-industries/gpui",
+      "publishedAt": "2026-11-23T20:52:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "EvilGoose",
+      "tags": []
+    },
+    {
+      "id": "7b5pnn",
+      "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
+      "description": "Score: 1135 | Comments: 273 | Posted by tech234a",
+      "url": "https://arm.jonpalmisc.com/",
+      "publishedAt": "2026-11-23T19:17:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tech234a",
+      "tags": []
+    },
+    {
+      "id": "q1nma3",
+      "title": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
+      "description": "Score: 1930 | Comments: 1122 | Posted by MrBuddyCasino",
+      "url": "https://twitter.com/ylecun/status/2124550037912920090",
+      "publishedAt": "2026-11-23T17:07:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "MrBuddyCasino",
+      "tags": []
+    },
+    {
       "id": "xr3ano",
       "title": "Ladybird Is Now in Alphaladybird.org",
       "description": "Score: 416 | Comments: 100 | Posted by",
@@ -80,6 +146,17 @@
       "tags": []
     },
     {
+      "id": "nhkym4",
+      "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+      "description": "Score: 183 | Comments: 36 | Posted by toebee",
+      "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
+      "publishedAt": "2026-11-23T13:42:38.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "toebee",
+      "tags": []
+    },
+    {
       "id": "8mgyfc",
       "title": "Win4wine – Run Windows Shell as the Linux Desktop on Wine",
       "description": "Score: 127 | Comments: 71 | Posted by hard_times",
@@ -135,6 +212,17 @@
       "tags": []
     },
     {
+      "id": "y0b9al",
+      "title": "SeaStore: Redesigning Ceph's Storage Back End for CPU-Efficient NVMe Performance",
+      "description": "Score: 29 | Comments: 0 | Posted by shraddhaag",
+      "url": "https://dl.acm.org/doi/10.1145/3828523.3857112",
+      "publishedAt": "2026-11-23T06:54:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "shraddhaag",
+      "tags": []
+    },
+    {
       "id": "6rx8d2",
       "title": "Yes, 17M lines of Lean is a lot",
       "description": "Score: 226 | Comments: 273 | Posted by seizethecheese",
@@ -157,6 +245,17 @@
       "tags": []
     },
     {
+      "id": "nibxlk",
+      "title": "Lowering Perplexity Without Scaling",
+      "description": "Score: 89 | Comments: 23 | Posted by qlte",
+      "url": "https://micjm.com/blog/lowering-perplexity-without-scaling/",
+      "publishedAt": "2026-11-23T04:33:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "qlte",
+      "tags": []
+    },
+    {
       "id": "ettlyb",
       "title": "XNU Linux: Full OS X GUI Userspace on Linux",
       "description": "Score: 526 | Comments: 219 | Posted by mmastrac",
@@ -176,6 +275,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "peer2pay",
+      "tags": []
+    },
+    {
+      "id": "gn69vv",
+      "title": "Becoming a Magician",
+      "description": "Score: 65 | Comments: 9 | Posted by robertvc",
+      "url": "https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician/",
+      "publishedAt": "2026-11-23T02:04:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "robertvc",
       "tags": []
     },
     {

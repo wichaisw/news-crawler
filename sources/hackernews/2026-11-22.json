@@ -3,6 +3,17 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "k2k961",
+      "title": "Nespresso's project to reduce grams of coffee per capsule",
+      "description": "Score: 335 | Comments: 350 | Posted by bobbiechen",
+      "url": "https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/",
+      "publishedAt": "2026-11-22T23:57:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bobbiechen",
+      "tags": []
+    },
+    {
       "id": "39d07e",
       "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
       "description": "Score: 67 | Comments: 17 | Posted by misswaterfairy",
@@ -11,6 +22,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "misswaterfairy",
+      "tags": []
+    },
+    {
+      "id": "ciohfn",
+      "title": "The new set of problems for engineers to solve",
+      "description": "Score: 76 | Comments: 56 | Posted by ot",
+      "url": "https://www.katelynlesse.com/blog/new-problems-for-engineers-to-solve",
+      "publishedAt": "2026-11-22T23:42:53.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ot",
       "tags": []
     },
     {
@@ -33,6 +55,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "gregsadetsky",
+      "tags": []
+    },
+    {
+      "id": "lcovfm",
+      "title": "Modernizing iperf/iperf3 and introducing fireperf",
+      "description": "Score: 143 | Comments: 12 | Posted by edward",
+      "url": "https://blog.daniel-baumann.ch/posts/20261122-1.html",
+      "publishedAt": "2026-11-22T22:37:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "edward",
       "tags": []
     },
     {
@@ -135,6 +168,17 @@
       "tags": []
     },
     {
+      "id": "5k8muo",
+      "title": "C++26 is done (again): ISO C++ meeting trip report",
+      "description": "Score: 142 | Comments: 188 | Posted by dverlaeckt80",
+      "url": "https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/",
+      "publishedAt": "2026-11-22T15:59:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dverlaeckt80",
+      "tags": []
+    },
+    {
       "id": "7c309e",
       "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
       "description": "Score: 164 | Comments: 67 | Posted by fortran77",
@@ -168,6 +212,17 @@
       "tags": []
     },
     {
+      "id": "7admqp",
+      "title": "How a Mechanical Watch Keeps Time (Interactive 3D)",
+      "description": "Score: 130 | Comments: 32 | Posted by martincmartin",
+      "url": "https://martincmartin.github.io/slidev-stem/watches/article/1/",
+      "publishedAt": "2026-11-22T13:21:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "martincmartin",
+      "tags": []
+    },
+    {
       "id": "y27sys",
       "title": "South Korea education minister resigns over exam cheating scandal",
       "description": "Score: 9 | Comments: 1 | Posted by Betelbuddy",
@@ -190,6 +245,28 @@
       "tags": []
     },
     {
+      "id": "fqs5va",
+      "title": "Del Casher–guitarist who was driving force behind the wah-wah pedal–dies at 88",
+      "description": "Score: 50 | Comments: 11 | Posted by bookofjoe",
+      "url": "https://www.nytimes.com/2026/11/17/obituaries/del-casher-dead.html",
+      "publishedAt": "2026-11-22T11:35:03.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bookofjoe",
+      "tags": []
+    },
+    {
+      "id": "w958sv",
+      "title": "Mechanical Pencil: Spray Bottle",
+      "description": "Score: 29 | Comments: 7 | Posted by vinhnx",
+      "url": "https://mechanical-pencil.com/products/spray-bottle",
+      "publishedAt": "2026-11-22T11:16:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vinhnx",
+      "tags": []
+    },
+    {
       "id": "lz0beg",
       "title": "Masullo on the Riemann Hypothesis",
       "description": "Score: 288 | Comments: 271 | Posted by xiaoyu2006",
@@ -198,6 +275,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "xiaoyu2006",
+      "tags": []
+    },
+    {
+      "id": "dwm4rr",
+      "title": "An anti-slavery sugar bowl (2024)",
+      "description": "Score: 87 | Comments: 55 | Posted by leonry",
+      "url": "https://www.vam.ac.uk/blog/museum-life/an-anti-slavery-sugar-bowl",
+      "publishedAt": "2026-11-22T10:12:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "leonry",
       "tags": []
     },
     {
