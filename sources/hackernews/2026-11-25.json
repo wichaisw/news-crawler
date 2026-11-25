@@ -1,0 +1,303 @@
+{
+  "date": "2026-11-25",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "qml88w",
+      "title": "Anthropic migrated Messages API to Rust with no Rust developers",
+      "description": "Score: 14 | Comments: 0 | Posted by swyx",
+      "url": "https://www.anthropic.com/research/migrating-api-to-rust",
+      "publishedAt": "2026-11-25T16:28:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "swyx",
+      "tags": []
+    },
+    {
+      "id": "92aojd",
+      "title": "'Pervert Glasses' Named Macquarie Dictionary's 2026 Word of the Year",
+      "description": "Score: 5 | Comments: 1 | Posted by randycupertino",
+      "url": "https://www.cyberdaily.au/culture/14484-pervert-glasses-named-macquarie-dictionary-s-2026-word-of-the-year?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJicmFuZCI6IkN5YmVyIERhaWx5IiwiZW1haWwiOiJsZW9uZy55dWhraGVlQGNoYW5naWFpcnBvcnQuY29tIiwiZmlyc3RuYW1lIjoiWXVoIEtoZWUiLCJsYXN0bmFtZSI6Ikxlb25nIn0.FGlC2dQklganQ75JiMWz3WANhftmdrhjiud76tXyKNI",
+      "publishedAt": "2026-11-25T16:26:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "randycupertino",
+      "tags": []
+    },
+    {
+      "id": "h4yqsr",
+      "title": "Investigating degraded experiences across GitHub productsgithubstatus.com",
+      "description": "Score: 80 | Comments: 37 | Posted by",
+      "url": "https://www.githubstatus.com/incidents/qn8mfv6q5hlx",
+      "publishedAt": "2026-11-25T16:00:27.038Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Anonymous",
+      "tags": []
+    },
+    {
+      "id": "h4yqsr",
+      "title": "Investigating degraded experiences across GitHub products",
+      "description": "Score: 80 | Comments: 37 | Posted by pinjasaur",
+      "url": "https://www.githubstatus.com/incidents/qn8mfv6q5hlx",
+      "publishedAt": "2026-11-25T15:59:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pinjasaur",
+      "tags": []
+    },
+    {
+      "id": "18ztg4",
+      "title": "A few questions for the guy who went snorkeling in a Home Depot retention pondvox.com",
+      "description": "Score: 174 | Comments: 49 | Posted by",
+      "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+      "publishedAt": "2026-11-25T15:55:27.038Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Anonymous",
+      "tags": []
+    },
+    {
+      "id": "rxedrv",
+      "title": "Democracy in America",
+      "description": "Score: 7 | Comments: 1 | Posted by jger15",
+      "url": "https://patrickcollison.substack.com/p/democracy-in-america",
+      "publishedAt": "2026-11-25T15:16:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jger15",
+      "tags": []
+    },
+    {
+      "id": "18ztg4",
+      "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+      "description": "Score: 174 | Comments: 49 | Posted by gumby",
+      "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+      "publishedAt": "2026-11-25T15:14:32.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gumby",
+      "tags": []
+    },
+    {
+      "id": "bvsy56",
+      "title": "Rumors swirling that labs might have cracked Factoring in P",
+      "description": "Score: 150 | Comments: 84 | Posted by lilytweed",
+      "url": "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/",
+      "publishedAt": "2026-11-25T15:08:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lilytweed",
+      "tags": []
+    },
+    {
+      "id": "p0e6up",
+      "title": "I checked Clojure's core with Lean and found unreported bugs",
+      "description": "Score: 9 | Comments: 1 | Posted by encyclopedism",
+      "url": "https://s.conao3.com/blog/2026/e4f733",
+      "publishedAt": "2026-11-25T14:56:52.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "encyclopedism",
+      "tags": []
+    },
+    {
+      "id": "2e6o4g",
+      "title": "U.S. jury convicts Huawei of fraud, Iran sanctions violations",
+      "description": "Score: 131 | Comments: 122 | Posted by nephihaha",
+      "url": "https://www.upi.com/Top_News/US/2026/11/25/jury-convicts-Huawei/3151795587204/",
+      "publishedAt": "2026-11-25T14:12:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nephihaha",
+      "tags": []
+    },
+    {
+      "id": "q4iajo",
+      "title": "Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More",
+      "description": "Score: 243 | Comments: 206 | Posted by rgwohlbold",
+      "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+      "publishedAt": "2026-11-25T13:33:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rgwohlbold",
+      "tags": []
+    },
+    {
+      "id": "80wikc",
+      "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWiregithub.com/xoxorwr",
+      "description": "Score: 227 | Comments: 127 | Posted by",
+      "url": "https://github.com/xoxorwr/pw-loudness-eq",
+      "publishedAt": "2026-11-25T11:55:27.038Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Anonymous",
+      "tags": []
+    },
+    {
+      "id": "80wikc",
+      "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+      "description": "Score: 227 | Comments: 127 | Posted by ThrowNotAway",
+      "url": "https://github.com/xoxorwr/pw-loudness-eq",
+      "publishedAt": "2026-11-25T11:34:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ThrowNotAway",
+      "tags": []
+    },
+    {
+      "id": "sf2kmz",
+      "title": "Remote software jobs that show which countries can apply",
+      "description": "Score: 8 | Comments: 0 | Posted by josephzhang0602",
+      "url": "https://jobs.codemind.site/remote-jobs",
+      "publishedAt": "2026-11-25T11:20:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "josephzhang0602",
+      "tags": []
+    },
+    {
+      "id": "3lx012",
+      "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+      "description": "Score: 268 | Comments: 60 | Posted by arkits",
+      "url": "https://gpu-demo-gallery.pages.dev/",
+      "publishedAt": "2026-11-25T04:31:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "arkits",
+      "tags": []
+    },
+    {
+      "id": "9br4xq",
+      "title": "Taking over US Treasury subdomains for $3 each",
+      "description": "Score: 183 | Comments: 38 | Posted by negura",
+      "url": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
+      "publishedAt": "2026-11-25T04:27:55.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "negura",
+      "tags": []
+    },
+    {
+      "id": "yapgoz",
+      "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+      "description": "Score: 198 | Comments: 78 | Posted by Curiositry",
+      "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+      "publishedAt": "2026-11-25T03:47:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Curiositry",
+      "tags": []
+    },
+    {
+      "id": "pd9ft7",
+      "title": "A faster algorithm for extracting hexadecimal digits of π",
+      "description": "Score: 66 | Comments: 2 | Posted by vinhnx",
+      "url": "https://www.stylewarning.com/posts/faster-digit-extraction/",
+      "publishedAt": "2026-11-25T03:28:42.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vinhnx",
+      "tags": []
+    },
+    {
+      "id": "g55myo",
+      "title": "Serving Qwen via AWS Lambdas for fun and 80x negative profit",
+      "description": "Score: 123 | Comments: 18 | Posted by octember",
+      "url": "https://noahbuilt.it/writing/qwen-on-5600-lambdas",
+      "publishedAt": "2026-11-25T03:28:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "octember",
+      "tags": []
+    },
+    {
+      "id": "omjylf",
+      "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
+      "description": "Score: 689 | Comments: 111 | Posted by gaurang_tandon",
+      "url": "https://buttons.joshwcomeau.com/",
+      "publishedAt": "2026-11-25T03:23:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gaurang_tandon",
+      "tags": []
+    },
+    {
+      "id": "moy1lp",
+      "title": "Macrohistory in Six Facts",
+      "description": "Score: 130 | Comments: 72 | Posted by tptacek",
+      "url": "https://basilhalperin.com/essays/macrohistory.html",
+      "publishedAt": "2026-11-25T03:04:46.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tptacek",
+      "tags": []
+    },
+    {
+      "id": "9813yi",
+      "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
+      "description": "Score: 363 | Comments: 128 | Posted by vinhnx",
+      "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
+      "publishedAt": "2026-11-25T03:04:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vinhnx",
+      "tags": []
+    },
+    {
+      "id": "r8kthm",
+      "title": "Lua for data representation (2025)",
+      "description": "Score: 90 | Comments: 48 | Posted by vinhnx",
+      "url": "https://citrons.xyz/journal/2025-07-23",
+      "publishedAt": "2026-11-25T03:04:12.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vinhnx",
+      "tags": []
+    },
+    {
+      "id": "s4kqea",
+      "title": "Top open problems in mathematics ranked by LLM-assessed importance",
+      "description": "Score: 91 | Comments: 48 | Posted by ijidak",
+      "url": "https://www.proofatlas.ai/open-problems/",
+      "publishedAt": "2026-11-25T03:01:36.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ijidak",
+      "tags": []
+    },
+    {
+      "id": "6w6ox6",
+      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+      "description": "Score: 380 | Comments: 160 | Posted by gmays",
+      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+      "publishedAt": "2026-11-25T02:34:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gmays",
+      "tags": []
+    },
+    {
+      "id": "aa60bs",
+      "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+      "description": "Score: 870 | Comments: 482 | Posted by E-Reverance",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+      "publishedAt": "2026-11-25T01:19:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "E-Reverance",
+      "tags": []
+    },
+    {
+      "id": "ey6w4",
+      "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+      "description": "Score: 357 | Comments: 63 | Posted by smusamashah",
+      "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+      "publishedAt": "2026-11-25T00:54:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "smusamashah",
+      "tags": []
+    }
+  ]
+}
