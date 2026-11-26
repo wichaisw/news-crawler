@@ -1,0 +1,215 @@
+{
+  "date": "2026-11-26",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "oe3qe0",
+      "title": "Wyoming uranium operation shuts down after cyberattack",
+      "description": "Score: 3 | Comments: 0 | Posted by g-b-r",
+      "url": "https://www.theregister.com/security/2026/11/26/wyoming-uranium-operation-shuts-down-after-cyberattack/5312323",
+      "publishedAt": "2026-11-26T15:41:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "g-b-r",
+      "tags": []
+    },
+    {
+      "id": "cb2fcq",
+      "title": "Shein to pay $100M in fines to FTC for illegal practices",
+      "description": "Score: 9 | Comments: 2 | Posted by nephihaha",
+      "url": "https://www.upi.com/Top_News/US/2026/11/25/shein-ftc-100-million/1661795636863/",
+      "publishedAt": "2026-11-26T15:12:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nephihaha",
+      "tags": []
+    },
+    {
+      "id": "yyyjy6",
+      "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
+      "description": "Score: 19 | Comments: 3 | Posted by michidk",
+      "url": "https://michidk.github.io/sidebyside/",
+      "publishedAt": "2026-11-26T15:00:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "michidk",
+      "tags": []
+    },
+    {
+      "id": "mrxivd",
+      "title": "Testers believe they're from Claude Opus 5.6 via 5.5 Extra",
+      "description": "Score: 10 | Comments: 2 | Posted by goatley",
+      "url": "https://www.testingcatalog.com/testers-share-early-results-possible-claude-opus-5-6/",
+      "publishedAt": "2026-11-26T14:38:57.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "goatley",
+      "tags": []
+    },
+    {
+      "id": "teucdr",
+      "title": "Tell HN: Happy Thanksgiving",
+      "description": "Score: 270 | Comments: 77 | Posted by",
+      "url": "https://news.ycombinator.com/item?id=50655664",
+      "publishedAt": "2026-11-26T14:32:51.578Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Anonymous",
+      "tags": []
+    },
+    {
+      "id": "jduwfn",
+      "title": "Curiosity Is No Solo Actmitpress.mit.edu",
+      "description": "Score: 47 | Comments: 10 | Posted by",
+      "url": "https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/",
+      "publishedAt": "2026-11-26T14:32:51.578Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Anonymous",
+      "tags": []
+    },
+    {
+      "id": "ickkty",
+      "title": "45°C inlets just killed the chiller. Most people haven't noticed yet",
+      "description": "Score: 116 | Comments: 39 | Posted by magoghm",
+      "url": "https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831",
+      "publishedAt": "2026-11-26T13:48:11.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "magoghm",
+      "tags": []
+    },
+    {
+      "id": "gh2pxu",
+      "title": "Euro-Office comes to your desktop with the Nextcloud Office Desktop appnextcloud.com",
+      "description": "Score: 287 | Comments: 112 | Posted by",
+      "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
+      "publishedAt": "2026-11-26T12:32:51.578Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Anonymous",
+      "tags": []
+    },
+    {
+      "id": "gh2pxu",
+      "title": "Euro-Office comes to your desktop with the Nextcloud Office Desktop app",
+      "description": "Score: 290 | Comments: 113 | Posted by e12e",
+      "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
+      "publishedAt": "2026-11-26T11:50:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "e12e",
+      "tags": []
+    },
+    {
+      "id": "ollyak",
+      "title": "Intel One Mono fontgithub.com/intel",
+      "description": "Score: 305 | Comments: 183 | Posted by",
+      "url": "https://github.com/intel/intel-one-mono",
+      "publishedAt": "2026-11-26T10:32:51.578Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Anonymous",
+      "tags": []
+    },
+    {
+      "id": "ollyak",
+      "title": "Intel One Mono font",
+      "description": "Score: 307 | Comments: 183 | Posted by saikatsg",
+      "url": "https://github.com/intel/intel-one-mono",
+      "publishedAt": "2026-11-26T10:11:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "saikatsg",
+      "tags": []
+    },
+    {
+      "id": "fgwtx3",
+      "title": "Moat: Your OpenRouter Replacement",
+      "description": "Score: 160 | Comments: 101 | Posted by amanverasia",
+      "url": "https://commandcode.ai/moat",
+      "publishedAt": "2026-11-26T06:32:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "amanverasia",
+      "tags": []
+    },
+    {
+      "id": "c9an33",
+      "title": "An algebraic quantization of gravity from the null cone",
+      "description": "Score: 124 | Comments: 33 | Posted by hecmmm",
+      "url": "https://arxiv.org/abs/2611.34924",
+      "publishedAt": "2026-11-26T05:37:51.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hecmmm",
+      "tags": []
+    },
+    {
+      "id": "o2ex8w",
+      "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
+      "description": "Score: 193 | Comments: 41 | Posted by joonehur",
+      "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
+      "publishedAt": "2026-11-26T05:12:59.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "joonehur",
+      "tags": []
+    },
+    {
+      "id": "m3dbox",
+      "title": "Unconditional Integer Factorization in Subexponential Time",
+      "description": "Score: 113 | Comments: 15 | Posted by _alternator_",
+      "url": "https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization",
+      "publishedAt": "2026-11-26T04:59:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "_alternator_",
+      "tags": []
+    },
+    {
+      "id": "fgtfun",
+      "title": "Qualcomm's Oryon 3 Reaches the Top",
+      "description": "Score: 68 | Comments: 32 | Posted by wmf",
+      "url": "https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top",
+      "publishedAt": "2026-11-26T03:43:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "wmf",
+      "tags": []
+    },
+    {
+      "id": "xylc5m",
+      "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+      "description": "Score: 415 | Comments: 230 | Posted by Herrera",
+      "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+      "publishedAt": "2026-11-26T03:36:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Herrera",
+      "tags": []
+    },
+    {
+      "id": "m975xv",
+      "title": "Minipg: PostgreSQL as a Single Executable",
+      "description": "Score: 231 | Comments: 33 | Posted by rguiscard",
+      "url": "https://progrium.github.io/minipg/",
+      "publishedAt": "2026-11-26T03:00:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rguiscard",
+      "tags": []
+    },
+    {
+      "id": "fp4g5u",
+      "title": "Collection of preserved UI style guides",
+      "description": "Score: 328 | Comments: 62 | Posted by sohkamyung",
+      "url": "https://aresluna.org/ui-style-guides/",
+      "publishedAt": "2026-11-26T00:40:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sohkamyung",
+      "tags": []
+    }
+  ]
+}

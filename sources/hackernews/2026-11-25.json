@@ -3,6 +3,127 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "e9kf1i",
+      "title": "Bare Metal Qwen",
+      "description": "Score: 211 | Comments: 48 | Posted by miohtama",
+      "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
+      "publishedAt": "2026-11-25T22:15:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "miohtama",
+      "tags": []
+    },
+    {
+      "id": "9m4jhd",
+      "title": "Deploying a payphone on a tiny Pacific Island for fun and zero profit",
+      "description": "Score: 141 | Comments: 19 | Posted by qzervaas",
+      "url": "https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/",
+      "publishedAt": "2026-11-25T22:12:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "qzervaas",
+      "tags": []
+    },
+    {
+      "id": "3y76zj",
+      "title": "Much shorter version of GRH Lean verification from Anthropic",
+      "description": "Score: 508 | Comments: 322 | Posted by nb-t",
+      "url": "https://github.com/lsernau/grh-lean",
+      "publishedAt": "2026-11-25T21:48:10.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nb-t",
+      "tags": []
+    },
+    {
+      "id": "sk0j1l",
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "description": "Score: 530 | Comments: 446 | Posted by rmason",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "publishedAt": "2026-11-25T21:18:02.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rmason",
+      "tags": []
+    },
+    {
+      "id": "c8cqd8",
+      "title": "Slow Ubuntu security response times",
+      "description": "Score: 369 | Comments: 216 | Posted by gslin",
+      "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+      "publishedAt": "2026-11-25T20:38:00.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gslin",
+      "tags": []
+    },
+    {
+      "id": "yrmzq2",
+      "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
+      "description": "Score: 191 | Comments: 80 | Posted by dm",
+      "url": "https://opensec.in/blog/nfs2root-cve-2026-99362",
+      "publishedAt": "2026-11-25T20:35:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dm",
+      "tags": []
+    },
+    {
+      "id": "xkxuw6",
+      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happeningscottaaronson.blog",
+      "description": "Score: 1820 | Comments: 1665 | Posted by",
+      "url": "https://scottaaronson.blog/?p=10379",
+      "publishedAt": "2026-11-25T19:32:51.578Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Anonymous",
+      "tags": []
+    },
+    {
+      "id": "xkxuw6",
+      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+      "description": "Score: 1821 | Comments: 1666 | Posted by Kotlopou",
+      "url": "https://scottaaronson.blog/?p=10379",
+      "publishedAt": "2026-11-25T19:11:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Kotlopou",
+      "tags": []
+    },
+    {
+      "id": "qlnrcj",
+      "title": "The polynomial Hirsch conjecture is false [pdf]",
+      "description": "Score: 171 | Comments: 45 | Posted by acossta",
+      "url": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
+      "publishedAt": "2026-11-25T17:34:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "acossta",
+      "tags": []
+    },
+    {
+      "id": "s0xxl0",
+      "title": "1Password Security Incident",
+      "description": "Score: 1581 | Comments: 682 | Posted by lxhrstn",
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "publishedAt": "2026-11-25T17:18:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "lxhrstn",
+      "tags": []
+    },
+    {
+      "id": "bpe8ce",
+      "title": "Deriving Black-Scholes",
+      "description": "Score: 87 | Comments: 52 | Posted by meysamazad",
+      "url": "https://david.alvarezrosa.com/posts/deriving-black-scholes/",
+      "publishedAt": "2026-11-25T17:18:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "meysamazad",
+      "tags": []
+    },
+    {
       "id": "qml88w",
       "title": "Anthropic migrated Messages API to Rust with no Rust developers",
       "description": "Score: 14 | Comments: 0 | Posted by swyx",
@@ -157,6 +278,17 @@
       "tags": []
     },
     {
+      "id": "h6hem8",
+      "title": "Smart people who give a shit use tools",
+      "description": "Score: 356 | Comments: 285 | Posted by matthewsinclair",
+      "url": "https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools",
+      "publishedAt": "2026-11-25T07:46:43.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "matthewsinclair",
+      "tags": []
+    },
+    {
       "id": "3lx012",
       "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
       "description": "Score: 268 | Comments: 60 | Posted by arkits",
@@ -278,6 +410,17 @@
       "tags": []
     },
     {
+      "id": "jvwe0e",
+      "title": "How did pinwheel calculators work?",
+      "description": "Score: 86 | Comments: 10 | Posted by surprisetalk",
+      "url": "https://blog.coredump.cx/p/how-did-pinwheel-calculators-work",
+      "publishedAt": "2026-11-25T02:00:08.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
       "id": "aa60bs",
       "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
       "description": "Score: 870 | Comments: 482 | Posted by E-Reverance",
@@ -297,6 +440,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "smusamashah",
+      "tags": []
+    },
+    {
+      "id": "jduwfn",
+      "title": "Curiosity Is No Solo Act",
+      "description": "Score: 47 | Comments: 11 | Posted by Petiver",
+      "url": "https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/",
+      "publishedAt": "2026-11-25T00:37:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Petiver",
       "tags": []
     }
   ]

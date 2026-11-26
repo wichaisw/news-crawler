@@ -113,6 +113,17 @@
       "tags": []
     },
     {
+      "id": "nrfams",
+      "title": "SSH is a GUI framework",
+      "description": "Score: 234 | Comments: 122 | Posted by teledream",
+      "url": "https://zydra.sh/articles/ssh-is-a-gui-framework/",
+      "publishedAt": "2026-11-21T14:52:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "teledream",
+      "tags": []
+    },
+    {
       "id": "de94bo",
       "title": "Lean verification of the Riemann Hypothesis",
       "description": "Score: 1110 | Comments: 924 | Posted by g-b-r",

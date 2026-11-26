@@ -25,6 +25,17 @@
       "tags": []
     },
     {
+      "id": "p8ssdv",
+      "title": "The history of civilization is the history of wheat",
+      "description": "Score: 97 | Comments: 53 | Posted by NaOH",
+      "url": "https://asteriskmag.com/issues/16/marginal-grains",
+      "publishedAt": "2026-11-24T20:40:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "NaOH",
+      "tags": []
+    },
+    {
       "id": "2a754",
       "title": "Ternary Bonsai 2.5 27B",
       "description": "Score: 510 | Comments: 161 | Posted by b0m",
@@ -201,6 +212,17 @@
       "tags": []
     },
     {
+      "id": "1r09ik",
+      "title": "XKCD and Fourier",
+      "description": "Score: 94 | Comments: 38 | Posted by surprisetalk",
+      "url": "https://leancrew.com/all-this/2026/10/xkcd-and-fourier/",
+      "publishedAt": "2026-11-24T13:00:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "surprisetalk",
+      "tags": []
+    },
+    {
       "id": "5y0jcw",
       "title": "LLM agents work for their parent companies, not for you",
       "description": "Score: 589 | Comments: 246 | Posted by surprisetalk",
@@ -231,6 +253,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "hubraumhugo",
+      "tags": []
+    },
+    {
+      "id": "rdsp1y",
+      "title": "What VP ≠ VNP Means (In 3 Minutes)",
+      "description": "Score: 192 | Comments: 74 | Posted by vinhnx",
+      "url": "https://www.friedgil.com/vpvnp",
+      "publishedAt": "2026-11-24T10:56:56.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "vinhnx",
       "tags": []
     },
     {
@@ -366,6 +399,17 @@
       "tags": []
     },
     {
+      "id": "j3pn4s",
+      "title": "Show HN: Synth Patch Hero",
+      "description": "Score: 111 | Comments: 23 | Posted by kaidon",
+      "url": "https://swarkentin.github.io/synth-patch-hero/",
+      "publishedAt": "2026-11-24T03:24:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "kaidon",
+      "tags": []
+    },
+    {
       "id": "dk3lxm",
       "title": "Making a dumb TV just smart enough",
       "description": "Score: 155 | Comments: 45 | Posted by andai",
@@ -407,6 +451,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "smuhakg",
+      "tags": []
+    },
+    {
+      "id": "hlkxfg",
+      "title": "Training on Documents About Monitoring Leads to Cot Obfuscation",
+      "description": "Score: 30 | Comments: 3 | Posted by sonabinu",
+      "url": "https://arxiv.org/abs/2605.15257",
+      "publishedAt": "2026-11-24T00:19:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "sonabinu",
       "tags": []
     }
   ]

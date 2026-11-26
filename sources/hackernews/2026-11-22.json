@@ -179,6 +179,17 @@
       "tags": []
     },
     {
+      "id": "jw9txx",
+      "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+      "description": "Score: 432 | Comments: 124 | Posted by bjin",
+      "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+      "publishedAt": "2026-11-22T16:44:48.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "bjin",
+      "tags": []
+    },
+    {
       "id": "5k8muo",
       "title": "C++26 is done (again): ISO C++ meeting trip report",
       "description": "Score: 142 | Comments: 188 | Posted by dverlaeckt80",
@@ -264,6 +275,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "bookofjoe",
+      "tags": []
+    },
+    {
+      "id": "f5otmq",
+      "title": "The Great Automatic Grammatizator (By Roald Dahl), 1954 [pdf]",
+      "description": "Score: 135 | Comments: 50 | Posted by Michelangelo11",
+      "url": "https://gwern.net/doc/fiction/science-fiction/1953-dahl-thegreatautomaticgrammatizator.pdf",
+      "publishedAt": "2026-11-22T11:29:44.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Michelangelo11",
       "tags": []
     },
     {
