@@ -3,6 +3,138 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "4cl7it",
+      "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
+      "description": "Score: 117 | Comments: 21 | Posted by leafingensemble",
+      "url": "https://kendell.dev/blog/arkwrapper/",
+      "publishedAt": "2026-11-26T21:59:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "leafingensemble",
+      "tags": []
+    },
+    {
+      "id": "nm796x",
+      "title": "AI made self-hosting fun again",
+      "description": "Score: 933 | Comments: 449 | Posted by jlelse",
+      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "publishedAt": "2026-11-26T21:47:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "jlelse",
+      "tags": []
+    },
+    {
+      "id": "xqw6z2",
+      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+      "description": "Score: 463 | Comments: 117 | Posted by dverlaeckt80",
+      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+      "publishedAt": "2026-11-26T21:08:05.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dverlaeckt80",
+      "tags": []
+    },
+    {
+      "id": "n86jx0",
+      "title": "Company Culture = Slack Emoji ÷ √Headcount",
+      "description": "Score: 488 | Comments: 249 | Posted by liamg",
+      "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
+      "publishedAt": "2026-11-26T20:49:49.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "liamg",
+      "tags": []
+    },
+    {
+      "id": "ndfhlw",
+      "title": "Rvoip: VoIP stack in Rust",
+      "description": "Score: 154 | Comments: 35 | Posted by zerosegfaults",
+      "url": "https://github.com/eisenzopf/rvoip",
+      "publishedAt": "2026-11-26T19:18:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "zerosegfaults",
+      "tags": []
+    },
+    {
+      "id": "e565jf",
+      "title": "An introduction to uncertainty in machine learning",
+      "description": "Score: 122 | Comments: 11 | Posted by chrhenning",
+      "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
+      "publishedAt": "2026-11-26T19:04:50.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "chrhenning",
+      "tags": []
+    },
+    {
+      "id": "dm0so5",
+      "title": "Largest 2D Chart library in the world using BUI: BlenderUI",
+      "description": "Score: 130 | Comments: 37 | Posted by ppmpreetham",
+      "url": "https://bui.preetham.top/charts/",
+      "publishedAt": "2026-11-26T18:37:24.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ppmpreetham",
+      "tags": []
+    },
+    {
+      "id": "4zhji8",
+      "title": "George Whitesides, 1939-2026",
+      "description": "Score: 77 | Comments: 7 | Posted by dverlaeckt80",
+      "url": "https://www.science.org/content/blog-post/george-whitesides-1939-2026",
+      "publishedAt": "2026-11-26T18:13:07.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "dverlaeckt80",
+      "tags": []
+    },
+    {
+      "id": "dgmhip",
+      "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
+      "description": "Score: 317 | Comments: 157 | Posted by Bender",
+      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+      "publishedAt": "2026-11-26T17:47:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Bender",
+      "tags": []
+    },
+    {
+      "id": "phsimi",
+      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+      "description": "Score: 486 | Comments: 581 | Posted by iantongeorge",
+      "url": "https://github.com/antonpictures/youtube-punisher",
+      "publishedAt": "2026-11-26T17:36:47.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "iantongeorge",
+      "tags": []
+    },
+    {
+      "id": "1re6zr",
+      "title": "First images of the impact of DART asteroid deflection experiment",
+      "description": "Score: 87 | Comments: 21 | Posted by Bender",
+      "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+      "publishedAt": "2026-11-26T17:24:37.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Bender",
+      "tags": []
+    },
+    {
+      "id": "x3m41k",
+      "title": "AMD-specific fork of llama.cpp",
+      "description": "Score: 412 | Comments: 101 | Posted by julianlam",
+      "url": "https://devnull.land/amd-specific-llama-cpp",
+      "publishedAt": "2026-11-26T17:11:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "julianlam",
+      "tags": []
+    },
+    {
       "id": "oe3qe0",
       "title": "Wyoming uranium operation shuts down after cyberattack",
       "description": "Score: 3 | Comments: 0 | Posted by g-b-r",
@@ -33,6 +165,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "michidk",
+      "tags": []
+    },
+    {
+      "id": "hl5q5a",
+      "title": "Show HN: I wrote an entire Vim manual over 4 years",
+      "description": "Score: 263 | Comments: 86 | Posted by thanato0s",
+      "url": "http://themouseless.dev/vim/",
+      "publishedAt": "2026-11-26T14:44:22.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "thanato0s",
       "tags": []
     },
     {
@@ -124,6 +267,17 @@
       "tags": []
     },
     {
+      "id": "rcdgxc",
+      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+      "description": "Score: 386 | Comments: 318 | Posted by ritzaco",
+      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+      "publishedAt": "2026-11-26T09:44:23.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ritzaco",
+      "tags": []
+    },
+    {
       "id": "fgwtx3",
       "title": "Moat: Your OpenRouter Replacement",
       "description": "Score: 160 | Comments: 101 | Posted by amanverasia",
@@ -168,6 +322,17 @@
       "tags": []
     },
     {
+      "id": "4izsz6",
+      "title": "NormalScript: A perfectly normal scripting language",
+      "description": "Score: 122 | Comments: 29 | Posted by hn-aarvin",
+      "url": "https://psychoscript.com/",
+      "publishedAt": "2026-11-26T04:32:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "hn-aarvin",
+      "tags": []
+    },
+    {
       "id": "fgtfun",
       "title": "Qualcomm's Oryon 3 Reaches the Top",
       "description": "Score: 68 | Comments: 32 | Posted by wmf",
@@ -187,6 +352,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "Herrera",
+      "tags": []
+    },
+    {
+      "id": "nsrug7",
+      "title": "Show HN: Olumino, a Markdown notes and spaced repetition app",
+      "description": "Score: 122 | Comments: 53 | Posted by Wiyseful",
+      "url": "https://olumino.app",
+      "publishedAt": "2026-11-26T03:33:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Wiyseful",
       "tags": []
     },
     {

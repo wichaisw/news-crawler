@@ -1,0 +1,39 @@
+{
+  "date": "2026-11-27",
+  "source": "blognone",
+  "articles": [
+    {
+      "id": "152267 at https://www.blognone.com",
+      "title": "Satya Nadella ยอมรับไมโครซอฟท์มองพลาด ไม่เห็นว่า Claude Code จะมาฆ่า IDE",
+      "description": "Satya Nadella ยอมรับไมโครซอฟท์มองพลาด ไม่เห็นว่า Claude Code จะมาฆ่า IDE Body Satya Nadella ซีอีโอไมโครซอฟท์ ให้สัมภาษณ์กับช่อง The Pragmatic",
+      "url": "https://www.blognone.com/node/152267",
+      "publishedAt": "2026-11-27T03:47:58.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "152266 at https://www.blognone.com",
+      "title": "Shinji Mikami ผู้สร้าง Resident Evil บอกบางครั้งก็อยากให้ AI หายไปจากโลก",
+      "description": "Shinji Mikami ผู้สร้าง Resident Evil บอกบางครั้งก็อยากให้ AI หายไปจากโลก Body Shinji Mikami บิดาผู้ให้กำเนิดซีรีส์ Resident Evil (ลาออกจาก Capcom ปี",
+      "url": "https://www.blognone.com/node/152266",
+      "publishedAt": "2026-11-27T01:43:50.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    },
+    {
+      "id": "152265 at https://www.blognone.com",
+      "title": "MiniMax เผยตรวจความปลอดภัยการใช้งานแม้จะซื้อ API จากผู้ให้บริการรายอื่น",
+      "description": "MiniMax เผยตรวจความปลอดภัยการใช้งานแม้จะซื้อ API จากผู้ให้บริการรายอื่น Body ต่อเนื่องจากข่าว ผู้ให้บริการ LLM บน OpenRouter ถูกแฮก",
+      "url": "https://www.blognone.com/node/152265",
+      "publishedAt": "2026-11-27T01:21:28.000Z",
+      "source": "blognone",
+      "sourceName": "Blognone",
+      "author": "Blognone",
+      "tags": []
+    }
+  ]
+}
