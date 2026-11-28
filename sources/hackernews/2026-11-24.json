@@ -47,6 +47,50 @@
       "tags": []
     },
     {
+      "id": "b2vlxp",
+      "title": "Show HN: Analysis of Hacker News predictions since 2008",
+      "description": "Score: 109 | Comments: 91 | Posted by mv4",
+      "url": "https://hnpredictions.com/",
+      "publishedAt": "2026-11-24T19:46:54.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mv4",
+      "tags": []
+    },
+    {
+      "id": "hx3uip",
+      "title": "Skala by Bjango",
+      "description": "Score: 10 | Comments: 2 | Posted by qzervaas",
+      "url": "https://bjango.com/mac/skala/",
+      "publishedAt": "2026-11-24T19:45:06.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "qzervaas",
+      "tags": []
+    },
+    {
+      "id": "x7u37d",
+      "title": "Loom seamlessly combines weaving, knitting and braiding",
+      "description": "Score: 211 | Comments: 27 | Posted by PaulHoule",
+      "url": "https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding",
+      "publishedAt": "2026-11-24T18:10:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "PaulHoule",
+      "tags": []
+    },
+    {
+      "id": "t4kdwt",
+      "title": "Build your own amp modeler: $78 DIY pedal kit from TONE3000",
+      "description": "Score: 110 | Comments: 31 | Posted by gregsadetsky",
+      "url": "https://www.guitarworld.com/gear/guitar-pedals/tone3000-daisy-audio-diy-pedal-kit",
+      "publishedAt": "2026-11-24T17:55:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "gregsadetsky",
+      "tags": []
+    },
+    {
       "id": "hgv2q9",
       "title": "Cyberattack campaign compromising check point servers across 22 organizationsgreynoise.io",
       "description": "Score: 37 | Comments: 13 | Posted by",
@@ -187,6 +231,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "surprisetalk",
+      "tags": []
+    },
+    {
+      "id": "2hnhat",
+      "title": "Swapping Jolt's sorted collections to a B+tree",
+      "description": "Score: 16 | Comments: 3 | Posted by nefreat",
+      "url": "https://yogthos.net/posts/2026-11-23-b+trees.html",
+      "publishedAt": "2026-11-24T14:06:58.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nefreat",
       "tags": []
     },
     {

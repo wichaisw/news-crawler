@@ -1,0 +1,182 @@
+{
+  "date": "2026-11-28",
+  "source": "hackernews",
+  "articles": [
+    {
+      "id": "jyacoj",
+      "title": "Physics Breakthrough Simulator",
+      "description": "Score: 16 | Comments: 0 | Posted by machinerychorus",
+      "url": "https://pages.ethanmdavidson.com/ai-physics-breakthrough",
+      "publishedAt": "2026-11-28T14:52:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "machinerychorus",
+      "tags": []
+    },
+    {
+      "id": "mljpwr",
+      "title": "AI Isn't That Dangerous",
+      "description": "Score: 9 | Comments: 2 | Posted by pretext",
+      "url": "https://www.verysane.ai/p/ai-isnt-that-dangerous",
+      "publishedAt": "2026-11-28T14:42:41.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "pretext",
+      "tags": []
+    },
+    {
+      "id": "eqep4t",
+      "title": "Why stop at Emacs? Native apps you or an AI reprogram in Clojure while they run",
+      "description": "Score: 12 | Comments: 5 | Posted by RiccardoSottini",
+      "url": "https://github.com/RiccardoSottini/AffrescoUI",
+      "publishedAt": "2026-11-28T14:09:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "RiccardoSottini",
+      "tags": []
+    },
+    {
+      "id": "id19yu",
+      "title": "The AI-designed USB-C LTE Modem is built, and it makes calls",
+      "description": "Score: 15 | Comments: 6 | Posted by abijahkaj",
+      "url": "https://koppar.ai/blog/lte-modem-bring-up/",
+      "publishedAt": "2026-11-28T14:06:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "abijahkaj",
+      "tags": []
+    },
+    {
+      "id": "7nkwmk",
+      "title": "The Comfortable Life Is Killing You",
+      "description": "Score: 13 | Comments: 2 | Posted by erenon",
+      "url": "https://poeticoutlaws.substack.com/p/the-comfortable-life-is-killing-you",
+      "publishedAt": "2026-11-28T13:22:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "erenon",
+      "tags": []
+    },
+    {
+      "id": "mykgua",
+      "title": "IBM MVS 3.8j Community Edition (52-year old OS)",
+      "description": "Score: 15 | Comments: 2 | Posted by emersonrsantos",
+      "url": "https://github.com/MVS-sysgen/sysgen",
+      "publishedAt": "2026-11-28T13:17:39.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "emersonrsantos",
+      "tags": []
+    },
+    {
+      "id": "h42tk9",
+      "title": "Show HN: Luciole Mono – terminal font designed for legibility",
+      "description": "Score: 59 | Comments: 28 | Posted by BaudouinVH",
+      "url": "https://scriptor-pro.github.io/luciole-mono/",
+      "publishedAt": "2026-11-28T12:50:15.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "BaudouinVH",
+      "tags": []
+    },
+    {
+      "id": "q127vb",
+      "title": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+      "description": "Score: 72 | Comments: 25 | Posted by homarp",
+      "url": "https://malspark.com/blog/malicious-gguf-models-hugging-face/",
+      "publishedAt": "2026-11-28T11:57:04.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "homarp",
+      "tags": []
+    },
+    {
+      "id": "4yupm3",
+      "title": "Audible removes download option for purchased audiobooks",
+      "description": "Score: 171 | Comments: 66 | Posted by DeepLogin",
+      "url": "https://consumerrights.wiki/w/Audible_removes_download_option_for_purchased_audiobooks",
+      "publishedAt": "2026-11-28T11:51:27.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "DeepLogin",
+      "tags": []
+    },
+    {
+      "id": "7pq4ze",
+      "title": "Farewell",
+      "description": "Score: 518 | Comments: 222 | Posted by nolist_policy",
+      "url": "https://github.com/p-e-w/heretic/issues/601",
+      "publishedAt": "2026-11-28T11:42:26.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nolist_policy",
+      "tags": []
+    },
+    {
+      "id": "v2kugq",
+      "title": "Claude Code sabotage: preliminary benchmarking",
+      "description": "Score: 276 | Comments: 89 | Posted by abedelez",
+      "url": "https://xinyadu.github.io/blog/claude-code-sabotage.html",
+      "publishedAt": "2026-11-28T10:37:40.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "abedelez",
+      "tags": []
+    },
+    {
+      "id": "ynt85z",
+      "title": "Diablo II",
+      "description": "Score: 79 | Comments: 29 | Posted by doppp",
+      "url": "https://www.filfre.net/2026/11/diablo-ii/",
+      "publishedAt": "2026-11-28T09:54:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "doppp",
+      "tags": []
+    },
+    {
+      "id": "ya5zor",
+      "title": "Show HN: Fleetlayer – Framework for running many AI agents on multiple machines",
+      "description": "Score: 18 | Comments: 11 | Posted by nathan_f77",
+      "url": "https://fleetlayer.ai/",
+      "publishedAt": "2026-11-28T08:37:09.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nathan_f77",
+      "tags": []
+    },
+    {
+      "id": "ailhz3",
+      "title": "FastLanes: Next-gen File Format [pdf]",
+      "description": "Score: 46 | Comments: 5 | Posted by todsacerdoti",
+      "url": "https://research.vu.nl/files/447013431/afroozehphdthesis%20-%2069280d90f0bfd.pdf",
+      "publishedAt": "2026-11-28T06:14:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "877x03",
+      "title": "Knuth: Moratorium on Error Reports",
+      "description": "Score: 263 | Comments: 142 | Posted by ultraficial",
+      "url": "https://www-cs-faculty.stanford.edu/~knuth/moratorium.html",
+      "publishedAt": "2026-11-28T03:49:21.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ultraficial",
+      "tags": []
+    },
+    {
+      "id": "qy3n9o",
+      "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+      "description": "Score: 460 | Comments: 119 | Posted by nreece",
+      "url": "https://unkernel.dev",
+      "publishedAt": "2026-11-28T03:19:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "nreece",
+      "tags": []
+    }
+  ]
+}

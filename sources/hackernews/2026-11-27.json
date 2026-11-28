@@ -3,6 +3,116 @@
   "source": "hackernews",
   "articles": [
     {
+      "id": "s84g4u",
+      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+      "description": "Score: 500 | Comments: 174 | Posted by ComputedCamp995",
+      "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+      "publishedAt": "2026-11-27T23:06:29.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ComputedCamp995",
+      "tags": []
+    },
+    {
+      "id": "ec4ghp",
+      "title": "Tabernetes: A Kubernetes cluster whose nodes are browser tabs",
+      "description": "Score: 177 | Comments: 61 | Posted by mmcclure",
+      "url": "https://tabernet.es/",
+      "publishedAt": "2026-11-27T23:00:30.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "mmcclure",
+      "tags": []
+    },
+    {
+      "id": "4fkhxj",
+      "title": "9/UX: a Macintosh-inspired desktop for 9front",
+      "description": "Score: 151 | Comments: 43 | Posted by rbanffy",
+      "url": "https://progrium.github.io/9ux/",
+      "publishedAt": "2026-11-27T21:48:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "rbanffy",
+      "tags": []
+    },
+    {
+      "id": "dl3grk",
+      "title": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
+      "description": "Score: 70 | Comments: 28 | Posted by arvindell",
+      "url": "https://sessiongraph.ai/",
+      "publishedAt": "2026-11-27T21:07:34.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "arvindell",
+      "tags": []
+    },
+    {
+      "id": "9ubiay",
+      "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
+      "description": "Score: 84 | Comments: 36 | Posted by ingve",
+      "url": "https://github.com/skeeto/prospero",
+      "publishedAt": "2026-11-27T20:23:14.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ingve",
+      "tags": []
+    },
+    {
+      "id": "dujlfw",
+      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "description": "Score: 427 | Comments: 299 | Posted by DeepLogin",
+      "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+      "publishedAt": "2026-11-27T19:42:25.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "DeepLogin",
+      "tags": []
+    },
+    {
+      "id": "2fe7mc",
+      "title": "The AT&T Unix PC (3B1) VM",
+      "description": "Score: 85 | Comments: 14 | Posted by ok123456",
+      "url": "https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/",
+      "publishedAt": "2026-11-27T19:40:33.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ok123456",
+      "tags": []
+    },
+    {
+      "id": "vyfche",
+      "title": "Michael Nielsen took down his book on neural nets",
+      "description": "Score: 612 | Comments: 433 | Posted by brandonb",
+      "url": "https://neuralnetworksanddeeplearning.com/",
+      "publishedAt": "2026-11-27T19:31:01.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "brandonb",
+      "tags": []
+    },
+    {
+      "id": "ga7yic",
+      "title": "Convex skills send the user's app idea to a remote server without telling them",
+      "description": "Score: 342 | Comments: 115 | Posted by MickyTheMouse",
+      "url": "https://github.com/convex/convex-backend-skill/issues/64",
+      "publishedAt": "2026-11-27T18:02:45.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "MickyTheMouse",
+      "tags": []
+    },
+    {
+      "id": "u8lgsi",
+      "title": "Show HN: DragDropMath – Learn math by feel",
+      "description": "Score: 161 | Comments: 44 | Posted by ziofill",
+      "url": "https://dragdropmath.com/",
+      "publishedAt": "2026-11-27T17:56:28.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "ziofill",
+      "tags": []
+    },
+    {
       "id": "ganngn",
       "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
       "description": "Score: 10 | Comments: 1 | Posted by scanr",
@@ -69,6 +179,17 @@
       "tags": []
     },
     {
+      "id": "41w1yg",
+      "title": "Rayshader 1.0: Exit the Matrix",
+      "description": "Score: 150 | Comments: 17 | Posted by tylermw",
+      "url": "https://www.tylermw.com/posts/rayverse/rayshader-1-0-exit-the-matrix.html",
+      "publishedAt": "2026-11-27T14:30:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "tylermw",
+      "tags": []
+    },
+    {
       "id": "1re6zr",
       "title": "First images of the impact of DART asteroid deflection experimentarstechnica.com",
       "description": "Score: 87 | Comments: 21 | Posted by",
@@ -99,6 +220,17 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "HugoDz",
+      "tags": []
+    },
+    {
+      "id": "7qubbs",
+      "title": "Paolo Soleri built a utopian eco-city in the Arizona desert",
+      "description": "Score: 122 | Comments: 36 | Posted by robtherobber",
+      "url": "https://www.worldofinteriors.com/story/paolo-soleri-arconsati-arizona",
+      "publishedAt": "2026-11-27T13:30:20.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "robtherobber",
       "tags": []
     },
     {
@@ -242,6 +374,28 @@
       "source": "hackernews",
       "sourceName": "Hacker News",
       "author": "todsacerdoti",
+      "tags": []
+    },
+    {
+      "id": "hzc78z",
+      "title": "\"What's Claude's fursona?\" and other questions",
+      "description": "Score: 204 | Comments: 197 | Posted by Mond_",
+      "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
+      "publishedAt": "2026-11-27T04:56:18.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "Mond_",
+      "tags": []
+    },
+    {
+      "id": "y37js5",
+      "title": "Citroën Hydraulic System",
+      "description": "Score: 224 | Comments: 74 | Posted by o4c",
+      "url": "https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html",
+      "publishedAt": "2026-11-27T03:10:19.000Z",
+      "source": "hackernews",
+      "sourceName": "Hacker News",
+      "author": "o4c",
       "tags": []
     },
     {
